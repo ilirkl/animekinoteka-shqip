@@ -1,0 +1,8 @@
+{
+  "name": "animekinoteka-cloud-support",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "linkedom": "0.18.13"
+  }
+}
