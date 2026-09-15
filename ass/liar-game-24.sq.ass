@@ -1,0 +1,463 @@
+﻿[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 8
+YCbCr Matrix: TV.601
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Audio File: CR_LiarGame_S1.0E24.0_LIGSIM0024_374967_video_ja-jp_J7744707.mp4
+Video File: CR_LiarGame_S1.0E24.0_LIGSIM0024_374967_video_ja-jp_J7744707.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 1.000000
+Scroll Position: 380
+Active Line: 396
+Video Position: 29638
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Main - Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Main - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Main - Top + Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback - Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback - Top + Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Narration,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Default - no margins,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:30.23,0:01:32.98,Default,sign,0,0,0,,{\fad(310,230)\bord1.5\shad0\blur\fnArial Black\4c&HABBFBC&\pos(320,305)}Poker me 17 letra — Dora e katërt
+Dialogue: 0,0:01:36.74,0:01:42.24,Default,sign,0,0,0,,{\fad(390,350)\shad0\fnArial\an3\blur2\fs17\b1\pos(600,307)\c&H2D6E87&}K{\c&H0F00A1&}undërsulmi
+Dialogue: 0,0:01:37.12,0:01:38.06,Main - Top,Nishida,0,0,0,,Hë?
+Dialogue: 0,0:01:38.06,0:01:43.30,Main - Top,Nishida,0,0,0,,Kikuchi tha se po ta dinte ku ishte\Nxholi, do ta kishte fitoren të sigurt...
+Dialogue: 0,0:01:43.30,0:01:44.87,Default,Nishida,0,0,0,,Kaq shumë të ndihmon kjo?
+Dialogue: 0,0:01:45.16,0:01:47.63,Default,Nishida,0,0,0,,Këtë dorë, Akiyama e preu i dyti pakon,
+Dialogue: 0,0:01:47.63,0:01:50.41,Default,Nishida,0,0,0,,pra kanë të njëjtat gjasa\Npër ta marrë xholin, apo jo?
+Dialogue: 0,0:01:50.41,0:01:51.53,Default,Kosaka,0,0,0,,Ashtu është.
+Dialogue: 0,0:01:51.88,0:01:55.94,Default,Kosaka,0,0,0,,Madje, për momentin, xholi\Nnuk është në dorën e Kikuchi-t.
+Dialogue: 0,0:01:55.94,0:01:56.93,Default,Nishida,0,0,0,,Apo jo?
+Dialogue: 0,0:01:57.14,0:02:00.55,Default,Nishida,0,0,0,,Edhe nëse xholi nuk i bie\Nasnjërit që në fillim,
+Dialogue: 0,0:02:00.55,0:02:03.27,Default,Nishida,0,0,0,,gjasat që njëri apo tjetri\Nta tërheqë nga pakoja
+Dialogue: 0,0:02:03.27,0:02:05.14,Default,Nishida,0,0,0,,mbeten pesëdhjetë me pesëdhjetë.
+Dialogue: 0,0:02:05.14,0:02:06.41,Default,Kosaka,0,0,0,,E ke gabim.
+Dialogue: 0,0:02:07.50,0:02:11.04,Default,Kosaka,0,0,0,,Kur Kikuchi tërheq letra i pari,
+Dialogue: 0,0:02:11.04,0:02:14.89,Default,Kosaka,0,0,0,,është 100% e sigurt\Nqë Akiyama s'e merr xholin.
+Dialogue: 0,0:02:16.22,0:02:19.90,Default,Kosaka,0,0,0,,Ta zëmë se xholi është\Nletra e parë e pakos.
+Dialogue: 0,0:02:20.09,0:02:23.26,Default,Kosaka,0,0,0,,Kikuchi e di që ajo është xholi,
+Dialogue: 0,0:02:23.26,0:02:26.64,Default,Kosaka,0,0,0,,ndaj, nëse tërheq i pari,\Ne merr me siguri.
+Dialogue: 0,0:02:27.39,0:02:29.33,Default,Nishida,0,0,0,,Deri këtu e kuptoj, por...
+Dialogue: 0,0:02:29.70,0:02:32.17,Main - Italics,Dealer,0,0,0,,Tani mund të ndërroni letrat.
+Dialogue: 0,0:02:32.34,0:02:33.47,Default,Dealer,0,0,0,,Zoti Kikuchi?
+Dialogue: 0,0:02:34.05,0:02:37.42,Default,Kikuchi,0,0,0,,Atëherë, i ndërroj të pesta.
+Dialogue: 0,0:02:37.42,0:02:39.62,Default,Nishida,0,0,0,,Të gjitha letrat?! Pse?!
+Dialogue: 0,0:02:39.62,0:02:42.26,Default,Kosaka,0,0,0,,Sepse xholi është letra e pestë.
+Dialogue: 0,0:02:45.69,0:02:46.98,Default,Kosaka,0,0,0,,Tani e kupton, apo jo?
+Dialogue: 0,0:02:46.98,0:02:49.83,Default,Kosaka,0,0,0,,Nëse xholi është mes pesë të parave,
+Dialogue: 0,0:02:49.83,0:02:52.85,Default,Kosaka,0,0,0,,Kikuchi mund ta marrë gjithmonë.
+Dialogue: 0,0:02:53.21,0:02:59.34,Default,Nishida,0,0,0,,Po nëse është letra e gjashtë\Nose e shtatë, s'e merr Akiyama?
+Dialogue: 0,0:02:59.34,0:03:00.85,Default,Kosaka,0,0,0,,Vështirë.
+Dialogue: 0,0:03:00.85,0:03:06.00,Default,Kosaka,0,0,0,,Në pokerin me 17 letra, dora\Nmë e dobët në fillim është një çift.
+Dialogue: 0,0:03:06.00,0:03:10.87,Default,Kosaka,0,0,0,,Pra, vështirë se Akiyama\Ndo të kërkojë më shumë se tri letra.
+Dialogue: 0,0:03:10.87,0:03:12.35,Default,Nishida,0,0,0,,E kuptova!
+Dialogue: 0,0:03:12.35,0:03:14.97,Default,Nishida,0,0,0,,Kikuchi mund të kërkojë një ose dy.
+Dialogue: 0,0:03:14.97,0:03:19.09,Default,Nishida,0,0,0,,Pastaj, meqë kundërshtari\Ns'do të marrë më shumë se tri,
+Dialogue: 0,0:03:19.09,0:03:21.37,Default,Nishida,0,0,0,,dy letrat e fundit mbeten pa prekur!
+Dialogue: 0,0:03:21.37,0:03:24.13,Default,Kosaka,0,0,0,,Pra, kudo që të jetë\Nxholi në pako,
+Dialogue: 0,0:03:24.13,0:03:26.52,Default,Kosaka,0,0,0,,Akiyama s'ka për ta marrë.
+Dialogue: 0,0:03:26.77,0:03:30.89,Default,Kosaka,0,0,0,,Kikuchi ka shumë më tepër\Ngjasa për ta marrë xholin.
+Dialogue: 0,0:03:31.23,0:03:35.09,Default,Nishida,0,0,0,,Po a s'është pak me rrezik\Nt'i ndërrojë të gjitha letrat?
+Dialogue: 0,0:03:35.09,0:03:36.72,Default,Kosaka,0,0,0,,Aspak.
+Dialogue: 0,0:03:36.72,0:03:40.15,Default,Kosaka,0,0,0,,Në ndërrimin e fundit, Akiyama mori dy.
+Dialogue: 0,0:03:40.15,0:03:43.37,Default,Kosaka,0,0,0,,Pra, janë përdorur\Ntë shtatëmbëdhjetë letrat.
+Dialogue: 0,0:03:43.93,0:03:45.05,Default,Nishida,0,0,0,,Ashtu është...
+Dialogue: 0,0:03:45.05,0:03:49.02,Default,Kosaka,0,0,0,,Nga ato shtatëmbëdhjetë,\NKikuchi ka parë dhjetë.
+Dialogue: 0,0:03:49.02,0:03:53.57,Default,Kosaka,0,0,0,,Nga këto, mund të nxjerrë\Nshtatë letrat që ka parë kundërshtari.
+Dialogue: 0,0:03:54.43,0:03:57.11,Default,Kosaka,0,0,0,,Sido që t'i kombinosh\Nato shtatë letra,
+Dialogue: 0,0:03:57.11,0:03:58.87,Default,Kosaka,0,0,0,,maksimumi që mund të ketë janë dy çifte.
+Dialogue: 0,0:03:58.87,0:04:01.18,Default,Kosaka,0,0,0,,Fitorja e Kikuchi-t është e sigurt.
+Dialogue: 0,0:04:01.67,0:04:03.51,Default,Dealer,0,0,0,,Hapini letrat!
+Dialogue: 0,0:04:05.76,0:04:07.76,Default,sign,0,0,0,,{\bord1.5\fad(270,1)\fnTimes New Roman\b1\fs18\shad0\an7\c&H5900E2&\3c&H0C0031&}Lindja - Dy çifte
+Dialogue: 0,0:04:05.76,0:04:07.76,Default,sign,0,0,0,,{\\bord1.5\fad(270,1)\fnTimes New Roman\b1\fs18\shad0\c&HF6F1B2&\3c&H151206&\an9}Perëndimi - Treshe
+Dialogue: 0,0:04:07.79,0:04:08.82,Default,Kikuchi,0,0,0,,Po!
+Dialogue: 0,0:04:08.82,0:04:11.26,Main - Italics,Solario,0,0,0,,Kikuchi fiton dorën e katërt.
+Dialogue: 0,0:04:11.27,0:04:14.27,Default,sign,0,0,0,,{\an8\fnArial Black\c&HEBEBEB&\3c&H12181A&\4c&H12181A&}Diferenca në zhetonë
+Dialogue: 0,0:04:11.27,0:04:14.27,Default,sign,0,0,0,,{\shad0\bord0\fnArial Black\c&HEBEBEB&\3c&H12181A&\4c&H12181A&\pos(339.128,145.631)}zhetonë
+Dialogue: 0,0:04:11.27,0:04:14.27,Default,sign,0,0,0,,{\shad0\an1\fnArial Black\c&H451C8A&\3c&HF3F0EF&\4c&H12181A&\pos(386.267,228.8)}Lindja {\bord0\c&HF7F3F1&}kryeson
+Dialogue: 0,0:04:11.48,0:04:14.27,Main - Italics,Solario,0,0,0,,Njëzet zhetonë i shkojnë Perëndimit.
+Dialogue: 0,0:04:16.64,0:04:18.95,Default,Dealer,0,0,0,,Tani fillojmë dorën e pestë.
+Dialogue: 0,0:04:25.57,0:04:27.28,Default,Nao,0,0,0,,Mori xholin!
+Dialogue: 0,0:04:27.28,0:04:29.07,Default,Nao,0,0,0,,Dhe ka katërshe!
+Dialogue: 0,0:04:29.39,0:04:31.88,Default,Dealer,0,0,0,,Zoti Kikuchi, ju vini bast i pari.
+Dialogue: 0,0:04:33.43,0:04:34.46,Default,Kikuchi,0,0,0,,Tërhiqem.
+Dialogue: 0,0:04:36.14,0:04:39.47,Main - Italics,Solario,0,0,0,,Dora e pestë mbyllet pa përfunduar.
+Dialogue: 0,0:04:39.47,0:04:41.98,Main - Italics,Solario,0,0,0,,Të dyja hyrjet me nga pesë zhetonë i merr krupieri.
+Dialogue: 0,0:04:41.98,0:04:44.72,Main - Italics,Solario,0,0,0,,Diferenca në zhetonë nuk ndryshon.
+Dialogue: 0,0:04:39.46,0:04:44.72,Default,sign,0,0,0,,{\frx15\an8\fnArial Black\c&HEBEBEB&\3c&H12181A&\4c&H12181A&}Diferenca në zhetonë
+Dialogue: 0,0:04:39.46,0:04:44.72,Default,sign,0,0,0,,{\frx15\shad0\bord0\fnArial Black\c&HEBEBEB&\3c&H12181A&\4c&H12181A&\pos(344.666,135.785)}zhetonë
+Dialogue: 0,0:04:39.46,0:04:44.72,Default,sign,0,0,0,,{\frx15\shad0\an1\fnArial Black\fs20\c&H451C8A&\3c&HF3F0EF&\4c&H12181A&\pos(389.344,197.415)}Lindja {\bord0\c&HF7F3F1&}kryeson
+Dialogue: 0,0:04:45.74,0:04:47.60,Default,Nao,0,0,0,,Kishim një dorë kaq të mirë...
+Dialogue: 0,0:04:47.84,0:04:51.84,Default,Nao,0,0,0,,Ç'të bëjmë? Ata zhetonë të çmuar\Ni mori krupieri...
+Dialogue: 0,0:04:52.11,0:04:53.35,Default,Nishida,0,0,0,,Çfarë ndodhi?
+Dialogue: 0,0:04:53.35,0:04:55.85,Default,Kosaka,0,0,0,,Kundërshtari mori xholin.
+Dialogue: 0,0:04:56.13,0:04:59.39,Default,Kosaka,0,0,0,,Duke u tërhequr, siguron barazimin.
+Dialogue: 0,0:04:59.39,0:05:03.23,Default,Kosaka,0,0,0,,Dhe meqë u tërhoq, në dorën tjetër\Ndo ta presë pakon i dyti.
+Dialogue: 0,0:05:03.23,0:05:06.90,Default,Kosaka,0,0,0,,Kështu mund të bëjë që xholi\Nt'i bjerë që në fillim.
+Dialogue: 0,0:05:06.90,0:05:08.35,Default,Nishida,0,0,0,,E kuptova.
+Dialogue: 0,0:05:08.74,0:05:10.62,Default,sign,0,0,0,,{\fad(310,1)\bord1.5\shad0\blur\fnArial Black\4c&HABBFBC&\pos(320,305)}Dora e gjashtë
+Dialogue: 0,0:05:14.12,0:05:15.21,Default,Kosaka,0,0,0,,E sheh?
+Dialogue: 0,0:05:15.56,0:05:16.97,Default,Nishida,0,0,0,,E pabesueshme.
+Dialogue: 0,0:05:16.97,0:05:19.52,Default,Dealer,0,0,0,,Raundi i parë i basteve përfundoi.
+Dialogue: 0,0:05:19.52,0:05:22.23,Default,Dealer,0,0,0,,Tani, hapini letrat!
+Dialogue: 0,0:05:22.34,0:05:24.46,Default,sign,0,0,0,,{\bord1.5\fad(270,1)\fnTimes New Roman\b1\fs18\shad0\c&HF6F1B2&\3c&H151206&\an7}Perëndimi - Katërshe
+Dialogue: 0,0:05:22.34,0:05:24.46,Default,sign,0,0,0,,{\bord1.5\fad(270,1)\fnTimes New Roman\b1\fs18\shad0\an9\c&H5900E2&\3c&H0C0031&}Lindja - Full
+Dialogue: 0,0:05:24.69,0:05:25.59,Default,Kikuchi,0,0,0,,Po!
+Dialogue: 0,0:05:25.59,0:05:27.97,Main - Italics,Solario,0,0,0,,Perëndimi fiton edhe\Ndorën e gjashtë.
+Dialogue: 0,0:05:27.97,0:05:30.85,Default,sign,0,0,0,,{\an8\fnArial Black\c&HEBEBEB&\3c&H12181A&\4c&H12181A&\pos(368,38.308)\frz346.7}Diferenca në zhetonë
+Dialogue: 0,0:05:27.97,0:05:30.85,Default,sign,0,0,0,,{\shad0\bord0\fnArial Black\c&HEBEBEB&\3c&H12181A&\4c&H12181A&\pos(372.974,171.477)\frz346.7}zhetonë
+Dialogue: 0,0:05:27.97,0:05:30.85,Default,sign,0,0,0,,{\shad0\an1\fnArial Black\c&H451C8A&\3c&HF3F0EF&\4c&H12181A&\pos(402.882,254.031)\frz346.7}Lindja {\bord0\c&HF7F3F1&}kryeson
+Dialogue: 0,0:05:30.85,0:05:33.60,Default,sign,0,0,0,,{\an8\fnArial Black\c&HEBEBEB&\3c&H12181A&\4c&H12181A&\pos(368,38.308)\frz346.7}Diferenca në zhetonë
+Dialogue: 0,0:05:30.85,0:05:33.60,Default,sign,0,0,0,,{\shad0\bord0\fnArial Black\c&HEBEBEB&\3c&H12181A&\4c&H12181A&\frz346.7\pos(356.974,167.785)}zhetonë
+Dialogue: 0,0:05:30.85,0:05:33.60,Default,sign,0,0,0,,{\shad0\an1\fnArial Black\c&HA08958&\3c&HF3F0EF&\4c&H12181A&\frz346.7\pos(386.882,250.339)}Perëndimi {\bord0\c&HF7F3F1&}kryeson
+Dialogue: 1,0:05:28.25,0:05:33.59,Main - Italics,Solario,0,0,0,,Njëzet zhetonë i shkojnë Perëndimit,\Nqë tani merr kryesimin.
+Dialogue: 0,0:05:39.10,0:05:41.51,Main - Italics,Kikuchi,0,0,0,,Ndeshja e qendrës është e jona!
+Dialogue: 0,0:05:41.90,0:05:43.02,Default,Akiyama,0,0,0,,Ti...
+Dialogue: 0,0:05:43.97,0:05:46.11,Default,Akiyama,0,0,0,,e dallon xholin, apo jo?
+Dialogue: 0,0:05:46.11,0:05:47.19,Default,Kikuchi,0,0,0,,Çfa...
+Dialogue: 0,0:05:47.19,0:05:48.75,Default,Kikuchi,0,0,0,,Për çfarë po flet?
+Dialogue: 0,0:05:49.06,0:05:51.72,Default,Akiyama,0,0,0,,Duhej ta kishe fshehur më mirë.
+Dialogue: 0,0:05:51.72,0:05:54.00,Default,Akiyama,0,0,0,,Po e bën tepër të dukshme.
+Dialogue: 0,0:05:54.23,0:05:56.49,Default,Akiyama,0,0,0,,More katër letra në provë,
+Dialogue: 0,0:05:56.49,0:05:59.00,Default,Akiyama,0,0,0,,pastaj pesë në dorën e katërt...
+Dialogue: 0,0:05:59.36,0:06:02.75,Default,Akiyama,0,0,0,,U tërhoqe kur xholi\Nmë ra mua që në fillim...
+Dialogue: 0,0:06:02.75,0:06:06.15,Default,Akiyama,0,0,0,,Sjellja jote ka\Nvetëm një shpjegim.
+Dialogue: 0,0:06:06.15,0:06:09.05,Default,Akiyama,0,0,0,,Ti e di ku është xholi.
+Dialogue: 0,0:06:09.63,0:06:10.96,Default,Kikuchi,0,0,0,,E pamundur.
+Dialogue: 0,0:06:11.61,0:06:15.59,Default,Kikuchi,0,0,0,,Çdo dorë hapin një pako të re.
+Dialogue: 0,0:06:15.59,0:06:17.48,Default,Kikuchi,0,0,0,,S'ka si të mashtrosh.
+Dialogue: 0,0:06:17.72,0:06:19.74,Default,Kikuchi,0,0,0,,Po ta pjell mendja.
+Dialogue: 0,0:06:20.04,0:06:23.51,Default,Kikuchi,0,0,0,,Por është normale të bëhesh\Nnervoz kur po humbet.
+Dialogue: 0,0:06:23.98,0:06:25.23,Default,Akiyama,0,0,0,,E kuptoj.
+Dialogue: 0,0:06:25.23,0:06:27.61,Default,Akiyama,0,0,0,,Mbase vërtet po bëhem nervoz.
+Dialogue: 0,0:06:27.81,0:06:28.86,Default,Nao,0,0,0,,Pushim!
+Dialogue: 0,0:06:28.86,0:06:31.20,Main - Italics,Solario,0,0,0,,Lindja kërkon pushimin e saj.
+Dialogue: 0,0:06:31.20,0:06:34.50,Main - Italics,Solario,0,0,0,,Keni tri minuta për të bërë planin.
+Dialogue: 0,0:06:34.50,0:06:38.46,Default,Kikuchi,0,0,0,,Me sa duket, s'je i vetmi\Nqë po bëhesh nervoz.
+Dialogue: 0,0:06:41.98,0:06:44.72,Default,Nishida,0,0,0,,Ndeshjen e qendrës e kemi në xhep!
+Dialogue: 0,0:06:45.06,0:06:46.09,Default,Kikuchi,0,0,0,,E ka kuptuar.
+Dialogue: 0,0:06:46.50,0:06:50.13,Default,Kikuchi,0,0,0,,E kuptoi që unë e di ku është xholi.
+Dialogue: 0,0:06:50.13,0:06:51.35,Default,Kosaka,0,0,0,,A do t'ia dalësh?
+Dialogue: 0,0:06:51.35,0:06:52.34,Default,Kikuchi,0,0,0,,Lëri këto.
+Dialogue: 0,0:06:52.34,0:06:55.97,Default,Kikuchi,0,0,0,,Edhe nëse e ka kuptuar,\Ns'ka çfarë të bëjë.
+Dialogue: 0,0:06:56.24,0:06:58.84,Default,Kikuchi,0,0,0,,Vetëm unë mund ta përdor këtë marifet.
+Dialogue: 0,0:06:58.84,0:07:00.38,Default,Nao,0,0,0,,Lojtarë të Perëndimit!
+Dialogue: 0,0:07:02.11,0:07:03.90,Default,Nishida,0,0,0,,Ç'po ndodh kështu?
+Dialogue: 0,0:07:04.21,0:07:07.46,Default,Nao,0,0,0,,Ju lutem, a mund të bëjmë armëpushim?
+Dialogue: 0,0:07:10.40,0:07:13.65,Default,Nao,0,0,0,,Duam t'ju shpëtojmë!
+Dialogue: 0,0:07:13.65,0:07:16.27,Default,Kosaka,0,0,0,,Nga të erdhi kjo?
+Dialogue: 0,0:07:16.27,0:07:18.79,Default,Nishida,0,0,0,,Prit. Ta dëgjojmë njëherë.
+Dialogue: 0,0:07:19.13,0:07:23.38,Default,Nao,0,0,0,,Ndeshjen e pararojës e mbyllëm\Nqëllimisht në barazim.
+Dialogue: 0,0:07:23.38,0:07:25.14,Default,Nao,0,0,0,,E kuptoni pse?
+Dialogue: 0,0:07:25.52,0:07:29.28,Default,Nao,0,0,0,,Për të siguruar fitoren,\Ndo të duhej të pasonim,
+Dialogue: 0,0:07:29.28,0:07:31.77,Default,Nao,0,0,0,,dhe shumë zhetonë\Ndo t'i shkonin krupierit.
+Dialogue: 0,0:07:32.18,0:07:36.69,Default,Nao,0,0,0,,Nga shuma e përgjithshme,\Nne lojtarët do të dilnim me humbje.
+Dialogue: 0,0:07:36.69,0:07:39.12,Default,Kosaka,0,0,0,,Ç'po thua? «Shuma e përgjithshme»?
+Dialogue: 0,0:07:39.12,0:07:42.62,Default,Nao,0,0,0,,Në këtë raund rikthimi,\Nna dhanë 900 milionë në zhetonë,
+Dialogue: 0,0:07:42.62,0:07:44.70,Default,Nao,0,0,0,,por do të mbledhin vetëm 600 milionë.
+Dialogue: 0,0:07:45.05,0:07:48.53,Default,Nao,0,0,0,,Kemi mundësi t'i marrim\Nato 300 milionë shtesë.
+Dialogue: 0,0:07:48.94,0:07:53.28,Default,Nao,0,0,0,,Nëse s'luftojmë, ato 300 milionë\Nmund të shpëtojnë disa njerëz.
+Dialogue: 0,0:07:53.28,0:07:56.04,Default,Nao,0,0,0,,Nëse pranoni të na lini të fitojmë,
+Dialogue: 0,0:07:56.04,0:07:59.97,Default,Nao,0,0,0,,do t'i përdorim të gjitha për t'ju shpëtuar!
+Dialogue: 0,0:08:00.39,0:08:01.96,Default,Kosaka,0,0,0,,Kjo është qesharake.
+Dialogue: 0,0:08:01.96,0:08:03.87,Default,Nishida,0,0,0,,Mendoj se e ka seriozisht.
+Dialogue: 0,0:08:03.87,0:08:07.10,Default,Nishida,0,0,0,,Vetëm kjo shpjegon barazimin\Nnë ndeshjen e pararojës.
+Dialogue: 0,0:08:07.10,0:08:08.41,Default,Kosaka,0,0,0,,Po tallesh?
+Dialogue: 0,0:08:08.41,0:08:13.57,Default,Kosaka,0,0,0,,Askush s'dëmton veten\Npër të shpëtuar dikë tjetër!
+Dialogue: 0,0:08:13.57,0:08:14.93,Default,Nao,0,0,0,,Ju lutem!
+Dialogue: 0,0:08:15.33,0:08:16.55,Default,Akiyama,0,0,0,,Lëre.
+Dialogue: 0,0:08:16.55,0:08:19.44,Default,Akiyama,0,0,0,,Nuk kanë për të pranuar.
+Dialogue: 0,0:08:20.41,0:08:21.81,Default,Nao,0,0,0,,Por...
+Dialogue: 0,0:08:21.81,0:08:24.79,Main - Italics,Solario,0,0,0,,Koha për strategjinë mbaroi.
+Dialogue: 0,0:08:24.79,0:08:26.55,Main - Italics,Solario,0,0,0,,Të dy lojtarët, ju lutem...
+Dialogue: 0,0:08:27.19,0:08:29.07,Default,sign,0,0,0,,{\fad(310,1)\bord1.5\shad0\blur\fnArial Black\4c&HABBFBC&\pos(320,305)}Dora e shtatë
+Dialogue: 0,0:08:33.76,0:08:34.85,Default,Kikuchi,0,0,0,,Hej.
+Dialogue: 0,0:08:35.61,0:08:39.35,Default,Kikuchi,0,0,0,,A është e vërtetë ajo që tha Kanzaki?
+Dialogue: 0,0:08:39.35,0:08:41.79,Default,Kikuchi,0,0,0,,Që do të na shpëtoni?
+Dialogue: 0,0:08:41.79,0:08:42.71,Default,Akiyama,0,0,0,,Po.
+Dialogue: 0,0:08:43.86,0:08:46.69,Default,Kikuchi,0,0,0,,Kjo do të ishte vërtet mirë.
+Dialogue: 0,0:08:47.66,0:08:48.92,Default,Nao,0,0,0,,E dëgjove?
+Dialogue: 0,0:08:48.92,0:08:51.68,Default,Nao,0,0,0,,Mbase e pranon propozimin tonë!
+Dialogue: 0,0:08:52.62,0:08:55.27,Default,Dealer,0,0,0,,Tani, bastin e parë, ju lutem.
+Dialogue: 0,0:08:55.27,0:08:58.76,Default,Kikuchi,0,0,0,,Vë maksimumin: pesëmbëdhjetë zhetonë.
+Dialogue: 0,0:09:00.25,0:09:02.87,Default,Dealer,0,0,0,,Ç'do të bëni, zoti Akiyama?
+Dialogue: 0,0:09:02.87,0:09:05.03,Default,Kikuchi,0,0,0,,Me siguri do ta barazosh, apo jo?
+Dialogue: 0,0:09:05.36,0:09:10.14,Default,Kikuchi,0,0,0,,Nëse do të na shpëtosh, s'mund\Nt'ia lësh zhetonët krupierit, apo jo?
+Dialogue: 0,0:09:11.22,0:09:12.43,Default,Akiyama,0,0,0,,Barazoj.
+Dialogue: 0,0:09:13.84,0:09:15.57,Default,Kikuchi,0,0,0,,Kështu të dua.
+Dialogue: 0,0:09:16.19,0:09:19.14,Default,Fukunaga,0,0,0,,Kam një parandjenjë të keqe.
+Dialogue: 0,0:09:19.77,0:09:22.06,Default,Dealer,0,0,0,,Bastin e dytë, ju lutem.
+Dialogue: 0,0:09:23.69,0:09:26.97,Default,Kikuchi,0,0,0,,Maksimumin: tridhjetë zhetonë!
+Dialogue: 0,0:09:28.37,0:09:29.68,Default,Dealer,0,0,0,,Zoti Akiyama.
+Dialogue: 0,0:09:30.10,0:09:32.71,Default,Kikuchi,0,0,0,,Do të na shpëtosh, apo jo?
+Dialogue: 0,0:09:33.90,0:09:36.33,Default,Kikuchi,0,0,0,,Këto pesë letra që kam...
+Dialogue: 0,0:09:36.68,0:09:40.49,Default,Kikuchi,0,0,0,,Janë komplet mut.\NKëtë dorë e fiton me siguri.
+Dialogue: 0,0:09:40.94,0:09:44.10,Default,Kikuchi,0,0,0,,S'ke ndër mend të tërhiqesh tani, apo jo?
+Dialogue: 0,0:09:45.83,0:09:46.84,Default,Akiyama,0,0,0,,Barazoj.
+Dialogue: 0,0:09:46.84,0:09:52.35,Main - Italics,Solario,0,0,0,,E pabesueshme! Një bast i madh,\Nme plot pesëdhjetë zhetonë në lojë!
+Dialogue: 0,0:09:52.35,0:09:54.77,Default,Dealer,0,0,0,,Tani, hapini letrat!
+Dialogue: 0,0:09:57.31,0:10:01.63,Main - Italics,Solario,0,0,0,,Kikuchi i Perëndimit\Nfiton me katër dama.
+Dialogue: 0,0:10:04.53,0:10:08.20,Main - Italics,Kikuchi,0,0,0,,Sikur do t'i lija vetes letra koti!
+Dialogue: 0,0:10:08.80,0:10:12.72,Main - Italics,Kikuchi,0,0,0,,E dija që xholi\Nishte letra e dytë.
+Dialogue: 0,0:10:12.95,0:10:15.89,Main - Italics,Kikuchi,0,0,0,,Meqë e di gjithmonë ku është xholi,
+Dialogue: 0,0:10:15.89,0:10:18.72,Main - Italics,Kikuchi,0,0,0,,në këtë lojë jam i pathyeshëm!
+Dialogue: 0,0:10:18.72,0:10:21.23,Default,Fukunaga,0,0,0,,Nao! Fajin e ke ti!
+Dialogue: 0,0:10:21.23,0:10:24.79,Default,Fukunaga,0,0,0,,Sepse {\i1}ti{\i0} i the që s'mund t'ia\Nlëmë zhetonët krupierit!
+Dialogue: 0,0:10:24.79,0:10:28.23,Default,Fukunaga,0,0,0,,Tani, edhe kur s'mund të fitojë,\NAkiyama s'mund të tërhiqet!
+Dialogue: 0,0:10:28.23,0:10:30.26,Default,Nao,0,0,0,,J-Jo...
+Dialogue: 0,0:10:33.48,0:10:40.24,Default,sign,0,0,0,,{\fad(1150,1)\an8\fnArial Black\c&HEBEBEB&\3c&H12181A&\4c&H12181A&}Diferenca në zhetonë
+Dialogue: 0,0:10:33.48,0:10:40.24,Default,sign,0,0,0,,{\fad(1150,1)\shad0\bord1\fnArial Black\c&HEBEBEB&\3c&H857343&\4c&H12181A&\pos(376.666,152.4)}zhetonë
+Dialogue: 0,0:10:33.48,0:10:40.24,Default,sign,0,0,0,,{\fad(1150,1)\shad0\an1\fnArial Black\c&HA08958&\3c&HF3F0EF&\4c&H12181A&\pos(410.267,228.8)}Perëndimi {\bord0\c&HF7F3F1&}kryeson
+Dialogue: 0,0:10:30.26,0:10:33.47,Main - Italics,Solario,0,0,0,,Edhe pesëdhjetë zhetonë për Perëndimin.
+Dialogue: 0,0:10:33.80,0:10:36.54,Main - Italics,Solario,0,0,0,,Diferenca tani është 118 zhetonë.
+Dialogue: 0,0:10:36.54,0:10:39.97,Main - Italics,Solario,0,0,0,,Mbeten vetëm tri duar,\Ndhe diferenca është bërë e madhe.
+Dialogue: 0,0:10:40.65,0:10:44.73,Default,Akiyama,0,0,0,,Nga mirësia e barazova\N atë bast prej pesëdhjetë zhetonësh,
+Dialogue: 0,0:10:44.73,0:10:46.33,Default,Akiyama,0,0,0,,dhe ti më përqesh?
+Dialogue: 0,0:10:47.07,0:10:50.94,Default,Akiyama,0,0,0,,Me sa duket, duhet të të dërrmoj.
+Dialogue: 0,0:10:52.55,0:10:55.12,Default,Dealer,0,0,0,,Tani fillojmë dorën e tetë.
+Dialogue: 0,0:10:55.55,0:10:56.75,Default,Akiyama,0,0,0,,Prit një çast.
+Dialogue: 0,0:10:56.75,0:10:58.80,Default,Akiyama,0,0,0,,Po i lë letrat të duken.
+Dialogue: 0,0:10:59.52,0:11:02.04,Default,Akiyama,0,0,0,,Kikuchi fiton sepse mban mend\Nletrat që sheh
+Dialogue: 0,0:11:02.04,0:11:04.13,Default,Akiyama,0,0,0,,kur i përzien me mënyrën indiane.
+Dialogue: 0,0:11:04.13,0:11:08.09,Default,Kikuchi,0,0,0,,Çfarë?! Mos shpif\Nvetëm pse po humbet!
+Dialogue: 0,0:11:08.09,0:11:09.63,Default,Akiyama,0,0,0,,Nuk po shpif.
+Dialogue: 0,0:11:10.19,0:11:13.57,Default,Akiyama,0,0,0,,Ti qartazi e di ku është xholi.
+Dialogue: 0,0:11:13.86,0:11:15.52,Default,Fukunaga,0,0,0,,E ka seriozisht?!
+Dialogue: 0,0:11:15.82,0:11:18.85,Default,Akiyama,0,0,0,,Zyra e LGT-së do që lojërat\Ntë jenë të ndershme, apo jo?
+Dialogue: 0,0:11:18.85,0:11:20.52,Default,Dealer,0,0,0,,Po, sigurisht...
+Dialogue: 0,0:11:20.87,0:11:23.67,Default,Akiyama,0,0,0,,Atëherë, pse s'i përzieni\Nvetëm duke ndërthurur dy gjysmat?
+Dialogue: 0,0:11:24.22,0:11:28.84,Default,Akiyama,0,0,0,,Kështu s'do t'i ngrini letrat,\Ndhe ai s'do t'i shohë dot.
+Dialogue: 0,0:11:29.44,0:11:33.81,Default,Akiyama,0,0,0,,Nëse do të provosh pafajësinë,\Nme siguri do të pranosh.
+Dialogue: 0,0:11:34.71,0:11:36.07,Default,Kikuchi,0,0,0,,Në rregull.
+Dialogue: 0,0:11:36.07,0:11:38.18,Default,Kikuchi,0,0,0,,Pranoj përzierjen me ndërthurje.
+Dialogue: 0,0:11:38.43,0:11:40.55,Default,Akiyama,0,0,0,,Atëherë, vazhdoni, ju lutem.
+Dialogue: 0,0:11:41.96,0:11:43.54,Main - Italics,Kikuchi,0,0,0,,Ç'idiot!
+Dialogue: 0,0:11:43.54,0:11:47.05,Main - Italics,Kikuchi,0,0,0,,Kështu s'e ndal dot planin tim të pagabueshëm!
+Dialogue: 0,0:11:47.33,0:11:52.10,Main - Italics,Kikuchi,0,0,0,,Ndërthurja ndiqet edhe më lehtë\Nsesa përzierja indiane!
+Dialogue: 0,0:11:53.76,0:11:56.55,Default,Akiyama,0,0,0,,Që tani e tutje,\Nsecili për vete.
+Dialogue: 0,0:11:56.55,0:11:58.52,Default,Akiyama,0,0,0,,Duart e fundit do t'i luaj\Nme logjikë të ftohtë...
+Dialogue: 0,0:11:58.96,0:12:00.99,Default,Akiyama,0,0,0,,dhe do të të shkatërroj.
+Dialogue: 0,0:12:01.42,0:12:02.63,Default,Kikuchi,0,0,0,,Ashtu, hë?
+Dialogue: 0,0:12:02.63,0:12:04.50,Main - Italics,Kikuchi,0,0,0,,Mburru sa të duash!
+Dialogue: 0,0:12:04.50,0:12:08.45,Main - Italics,Kikuchi,0,0,0,,Sado të përpiqesh,\Nprapë unë do të fitoj!
+Dialogue: 0,0:12:11.33,0:12:13.77,Main - Italics,Kikuchi,0,0,0,,Xholi është letra e katërt.
+Dialogue: 0,0:12:14.46,0:12:16.43,Default,Dealer,0,0,0,,Bastin e parë, ju lutem.
+Dialogue: 0,0:12:16.90,0:12:19.57,Main - Italics,Kikuchi,0,0,0,,Që të sigurohem\Nse ai do të vazhdojë,
+Dialogue: 0,0:12:19.57,0:12:22.56,Main - Italics,Kikuchi,0,0,0,,duhet ta bëj të mendojë se kam letra të këqija.
+Dialogue: 0,0:12:22.56,0:12:24.63,Main - Italics,Kikuchi,0,0,0,,Të vë një bast të vogël...
+Dialogue: 0,0:12:24.63,0:12:26.01,Default,Kikuchi,0,0,0,,Pesë zhetonë.
+Dialogue: 0,0:12:26.40,0:12:28.29,Default,Akiyama,0,0,0,,Pesë? Hë.
+Dialogue: 0,0:12:28.85,0:12:30.47,Default,Dealer,0,0,0,,Zoti Akiyama, ju lutem.
+Dialogue: 0,0:12:32.66,0:12:35.56,Default,Akiyama,0,0,0,,Maksimumin: pesëmbëdhjetë zhetonë.
+Dialogue: 0,0:12:37.51,0:12:38.66,Default,Dealer,0,0,0,,Zoti Kikuchi?
+Dialogue: 0,0:12:39.87,0:12:41.06,Default,Kikuchi,0,0,0,,Barazoj.
+Dialogue: 0,0:12:41.06,0:12:45.33,Main - Italics,Kikuchi,0,0,0,,Vazhdoi lojën sepse\Nvura një bast të vogël!
+Dialogue: 0,0:12:45.33,0:12:47.72,Default,Dealer,0,0,0,,Tani mund të ndërroni letrat.
+Dialogue: 0,0:12:48.08,0:12:50.82,Main - Italics,Kikuchi,0,0,0,,S'do të marrë më shumë se tri.
+Dialogue: 0,0:12:50.82,0:12:54.01,Main - Italics,Kikuchi,0,0,0,,Sido që të jetë, xholin e marr unë.
+Dialogue: 0,0:12:54.01,0:12:55.95,Default,Akiyama,0,0,0,,I ndërroj të gjitha letrat.
+Dialogue: 0,0:12:55.95,0:12:57.95,Main - Italics,Kikuchi,0,0,0,,Çfarë?!
+Dialogue: 0,0:12:58.72,0:13:01.83,Main - Italics,Kikuchi,0,0,0,,Xholi përfundoi tek ai!
+Dialogue: 0,0:13:02.13,0:13:04.78,Default,Dealer,0,0,0,,Zoti Kikuchi, sa letra\Ndo të dëshironit?
+Dialogue: 0,0:13:05.25,0:13:06.66,Default,Kikuchi,0,0,0,,Një, ju lutem.
+Dialogue: 0,0:13:10.11,0:13:12.38,Main - Italics,Kikuchi,0,0,0,,Kjo dorë është më e mirë nga ç'prisja!
+Dialogue: 0,0:13:13.07,0:13:15.24,Main - Italics,Kikuchi,0,0,0,,Por problemi është Akiyama...
+Dialogue: 0,0:13:15.24,0:13:17.72,Default,Dealer,0,0,0,,Zoti Akiyama, bastin e dytë, ju lutem.
+Dialogue: 0,0:13:17.72,0:13:19.93,Main - Italics,Kikuchi,0,0,0,,Po e rriti shumë bastin, tërhiqem.
+Dialogue: 0,0:13:20.56,0:13:22.74,Default,Akiyama,0,0,0,,Do të mbetem te pesëmbëdhjeta.
+Dialogue: 0,0:13:22.74,0:13:25.15,Main - Italics,Kikuchi,0,0,0,,Nuk po e rrit?
+Dialogue: 0,0:13:25.15,0:13:27.40,Main - Italics,Kikuchi,0,0,0,,Mos vallë s'ka ndonjë dorë të mirë?
+Dialogue: 0,0:13:27.40,0:13:29.54,Main - Italics,Kikuchi,0,0,0,,Me sa duket, pata fat!
+Dialogue: 0,0:13:29.54,0:13:31.36,Default,Dealer,0,0,0,,Zoti Kikuchi, ju lutem.
+Dialogue: 0,0:13:33.19,0:13:34.54,Default,Kikuchi,0,0,0,,Barazoj.
+Dialogue: 0,0:13:34.54,0:13:36.54,Default,Dealer,0,0,0,,Atëherë... hapini letrat!
+Dialogue: 0,0:13:38.36,0:13:41.83,Main - Italics,Solario,0,0,0,,Perëndimi ka full.\NLindja ka katërshe.
+Dialogue: 0,0:13:43.76,0:13:47.26,Main - Italics,Solario,0,0,0,,Lindja fiton dorën e tetë.
+Dialogue: 0,0:13:47.26,0:13:50.75,Main - Italics,Solario,0,0,0,,Diferenca tani është 48 zhetonë.
+Dialogue: 0,0:13:47.26,0:13:51.01,Default,sign,0,0,0,,{\an8\fnArial Black\c&HEBEBEB&\3c&H12181A&\4c&H12181A&}Diferenca në zhetonë
+Dialogue: 0,0:13:47.26,0:13:48.45,Default,sign,0,0,0,,{\shad0\bord0\fnArial Black\c&HEBEBEB&\3c&H12181A&\4c&H12181A&\pos(373.333,149.733)}zhetonë
+Dialogue: 0,0:13:48.45,0:13:51.01,Default,sign,0,0,0,,{\shad0\bord0\fnArial Black\c&HEBEBEB&\3c&H12181A&\4c&H12181A&\pos(347.2,149.733)}zhetonë
+Dialogue: 0,0:13:47.26,0:13:48.45,Default,sign,0,0,0,,{\shad0\an1\fnArial Black\c&HA08958&\3c&HF3F0EF&\4c&H12181A&\pos(410.267,228.8)}Perëndimi {\bord0\c&HF7F3F1&}kryeson
+Dialogue: 0,0:13:48.45,0:13:51.01,Default,sign,0,0,0,,{\shad0\an1\fnArial Black\c&HA08958&\3c&HF3F0EF&\4c&H12181A&\pos(384.134,228.8)}Perëndimi {\bord0\c&HF7F3F1&}kryeson
+Dialogue: 0,0:13:51.02,0:13:53.15,Default,Nao,0,0,0,,Zoti Akiyama është i jashtëzakonshëm!
+Dialogue: 0,0:13:53.47,0:13:56.14,Main - Italics,Kikuchi,0,0,0,,Herët a vonë, ishte e pashmangshme\Ntë humbja kështu.
+Dialogue: 0,0:13:56.44,0:13:58.65,Main - Italics,Kikuchi,0,0,0,,Në fakt, kjo më leverdis!
+Dialogue: 0,0:13:58.65,0:14:03.90,Main - Italics,Kikuchi,0,0,0,,Meqë e humba atë dorë,\Ntani e pres pakon i dyti.
+Dialogue: 0,0:14:04.11,0:14:09.29,Main - Italics,Kikuchi,0,0,0,,Kjo do të thotë se mund ta marr\Nxholin që në fillim!
+Dialogue: 0,0:14:09.49,0:14:12.45,Main - Italics,Kikuchi,0,0,0,,Pra, do të fitoj me siguri!
+Dialogue: 0,0:14:13.48,0:14:15.74,Default,Dealer,0,0,0,,Tani fillojmë dorën e nëntë.
+Dialogue: 0,0:14:16.33,0:14:18.70,Default,Akiyama,0,0,0,,Mirë. Tani do ta përmbys rezultatin.
+Dialogue: 0,0:14:19.63,0:14:21.30,Main - Italics,Kikuchi,0,0,0,,Thuaj ç'të duash!
+Dialogue: 0,0:14:21.61,0:14:25.41,Main - Italics,Kikuchi,0,0,0,,Me këtë dorë do të të var.
+Dialogue: 0,0:14:30.22,0:14:31.60,Default,Dealer,0,0,0,,Tani do të ndaj letrat.
+Dialogue: 0,0:14:31.60,0:14:32.81,Default,Akiyama,0,0,0,,Prit një çast.
+Dialogue: 0,0:14:33.34,0:14:37.12,Default,Akiyama,0,0,0,,Kikuchi i pa fshehurazi letrat\Ngjatë asaj përzierjeje.
+Dialogue: 0,0:14:37.12,0:14:39.06,Default,Akiyama,0,0,0,,Përziejini sërish, ju lutem.
+Dialogue: 0,0:14:39.27,0:14:40.97,Default,Kikuchi,0,0,0,,Prapë me justifikime?!
+Dialogue: 0,0:14:40.97,0:14:42.92,Default,Dealer,0,0,0,,Si të veproj, zoti Kikuchi?
+Dialogue: 0,0:14:43.81,0:14:46.74,Main - Italics,Kikuchi,0,0,0,,S'e prisja që\Ndo të këmbëngulte kaq shumë,
+Dialogue: 0,0:14:46.74,0:14:50.76,Main - Italics,Kikuchi,0,0,0,,por më mirë sesa të refuzoj\Ne të dukem si mashtrues.
+Dialogue: 0,0:14:51.11,0:14:52.45,Default,Kikuchi,0,0,0,,Vazhdoni.
+Dialogue: 0,0:14:54.16,0:14:55.57,Default,Dealer,0,0,0,,Mjafton kështu?
+Dialogue: 0,0:14:55.82,0:14:57.41,Default,Akiyama,0,0,0,,Besoj se po.
+Dialogue: 0,0:14:57.74,0:15:00.19,Default,Dealer,0,0,0,,Tani prerja. Zoti Akiyama i pari.
+Dialogue: 0,0:15:00.60,0:15:02.09,Default,Akiyama,0,0,0,,Atëherë, pesë letra.
+Dialogue: 0,0:15:02.42,0:15:03.84,Default,Kikuchi,0,0,0,,Katër letra.
+Dialogue: 1,0:15:03.84,0:15:08.41,Main - Italics,Kikuchi,0,0,0,,Me atë prerje, xholi kaloi\Nnga vendi i parë në të katërtin.
+Dialogue: 0,0:15:08.34,0:15:13.49,Default,sign,0,0,0,,{\fad(1002,370)\blur2\shad0\fnArial Black\4c&HABBFBC&\an8\pos(320,48)\c&HF3EFF5&\3c&H020017&}Akiyama
+Dialogue: 0,0:15:08.34,0:15:15.31,Default,sign,0,0,0,,{\fad(1002,370)\blur2\shad0\fnArial Black\4c&HABBFBC&)\c&HF5F2F0&\3c&H171200&\pos(320,310)}Kikuchi
+Dialogue: 1,0:15:09.09,0:15:12.38,Main - Italics,Kikuchi,0,0,0,,Ndarja do të nisë nga Akiyama,
+Dialogue: 1,0:15:12.38,0:15:14.76,Main - Italics,Kikuchi,0,0,0,,dhe xholi do të më vijë mua!
+Dialogue: 0,0:15:16.61,0:15:19.97,Main - Italics,Kikuchi,0,0,0,,Tashmë kam tre asa!
+Dialogue: 0,0:15:19.97,0:15:22.38,Default,Dealer,0,0,0,,Tani, raundi i parë i basteve.
+Dialogue: 0,0:15:23.78,0:15:24.98,Default,Akiyama,0,0,0,,Pasoj.
+Dialogue: 0,0:15:24.98,0:15:26.64,Main - Italics,Kikuchi,0,0,0,,Pason?!
+Dialogue: 0,0:15:26.64,0:15:30.79,Main - Italics,Kikuchi,0,0,0,,Do të presë për të kuptuar çfarë dore kam?
+Dialogue: 0,0:15:31.13,0:15:32.93,Main - Italics,Kikuchi,0,0,0,,Ta mbaj bastin të vogël.
+Dialogue: 0,0:15:33.38,0:15:34.56,Default,Kikuchi,0,0,0,,Tetë zhetonë.
+Dialogue: 0,0:15:34.95,0:15:37.89,Default,Akiyama,0,0,0,,Tetë? Çuditërisht pak.
+Dialogue: 0,0:15:38.58,0:15:41.24,Default,Akiyama,0,0,0,,Atëherë, barazoj.
+Dialogue: 0,0:15:41.24,0:15:43.47,Main - Italics,Kikuchi,0,0,0,,E hëngri karremin!
+Dialogue: 0,0:15:43.47,0:15:46.09,Default,Dealer,0,0,0,,Zoti Kikuchi, mund të ndërroni letrat.
+Dialogue: 0,0:15:46.45,0:15:48.20,Default,Kikuchi,0,0,0,,Do të marr dy letra.
+Dialogue: 0,0:15:50.25,0:15:52.50,Main - Italics,Kikuchi,0,0,0,,Full me tre asa!
+Dialogue: 0,0:15:52.50,0:15:54.25,Main - Italics,Kikuchi,0,0,0,,Një garanci e shkëlqyer!
+Dialogue: 0,0:15:54.25,0:15:55.77,Default,Dealer,0,0,0,,Zoti Akiyama?
+Dialogue: 0,0:15:57.44,0:15:59.38,Default,Akiyama,0,0,0,,Atëherë, do të marr pesë.
+Dialogue: 0,0:15:59.38,0:16:01.39,Main - Italics,Kikuchi,0,0,0,,Pesë letra?!
+Dialogue: 0,0:16:02.14,0:16:05.52,Main - Italics,Kikuchi,0,0,0,,Ç'ka ky?\NKa rënë në dëshpërim?
+Dialogue: 0,0:16:05.91,0:16:08.53,Default,Dealer,0,0,0,,Raundi i dytë i basteve\Nnis me zotin Kikuchi.
+Dialogue: 0,0:16:09.12,0:16:14.02,Main - Italics,Kikuchi,0,0,0,,Që t'i jap goditjen e fundit,\Nduhet të sigurohem se do të barazojë.
+Dialogue: 0,0:16:14.36,0:16:18.66,Main - Italics,Kikuchi,0,0,0,,Për këtë, duhet të sillem\Nsikur kam letra të këqija...
+Dialogue: 0,0:16:18.66,0:16:20.91,Default,Kikuchi,0,0,0,,Do të vë... tetë.
+Dialogue: 0,0:16:21.26,0:16:22.57,Default,Akiyama,0,0,0,,Tetë, hë?
+Dialogue: 0,0:16:22.94,0:16:24.80,Default,Dealer,0,0,0,,Po ju, zoti Akiyama?
+Dialogue: 0,0:16:24.80,0:16:26.13,Default,Akiyama,0,0,0,,E rrit bastin.
+Dialogue: 0,0:16:26.13,0:16:28.29,Default,Akiyama,0,0,0,,Në maksimum: tridhjetë zhetonë.
+Dialogue: 0,0:16:30.46,0:16:32.73,Main - Italics,Kikuchi,0,0,0,,Ky qenka idiot me vulë!
+Dialogue: 0,0:16:33.31,0:16:37.01,Main - Italics,Kikuchi,0,0,0,,Kujton se kam letra të dobëta,\Nndaj po vë gjithçka!
+Dialogue: 0,0:16:37.01,0:16:40.44,Main - Italics,Kikuchi,0,0,0,,S'kam parë njeri më leshko\Nnë jetën time!
+Dialogue: 0,0:16:40.44,0:16:42.44,Default,Dealer,0,0,0,,Ç'do të bëni, zoti Kikuchi?
+Dialogue: 0,0:16:43.21,0:16:45.69,Default,Dealer,0,0,0,,Me sa duket, më duhet të barazoj.
+Dialogue: 0,0:16:47.43,0:16:49.19,Main - Italics,Dealer,0,0,0,,S'e mbaj dot të qeshurën!
+Dialogue: 0,0:16:49.43,0:16:54.19,Default,Dealer,0,0,0,,Dora u mbyll,\Nme plot 43 zhetonë në lojë!
+Dialogue: 0,0:16:54.43,0:16:55.20,Default,Dealer,0,0,0,,Tani...
+Dialogue: 0,0:16:55.50,0:16:57.32,Default,Dealer,0,0,0,,Hapini letrat!
+Dialogue: 0,0:16:57.32,0:16:59.82,Main - Italics,Kikuchi,0,0,0,,Vdis, Akiyama!
+Dialogue: 0,0:17:01.45,0:17:04.33,Default,sign,0,0,0,,{\bord1.5\fad(270,1)\fnTimes New Roman\b1\fs18\shad0\c&HF6F1B2&\3c&H151206&\an7\pos(34,67.333)}Perëndimi - Full
+Dialogue: 0,0:17:01.45,0:17:04.33,Default,sign,0,0,0,,{\bord1.5\fad(270,1)\fnTimes New Roman\b1\fs18\shad0\an3\c&H5900E2&\3c&H0C0031&\pos(599.333,289.333)}Lindja - Katërshe
+Dialogue: 0,0:17:05.62,0:17:07.62,Main - Italics,Solario,0,0,0,,Fiton Akiyama.
+Dialogue: 0,0:17:07.62,0:17:08.71,Default,Nao,0,0,0,,Ia doli!
+Dialogue: 0,0:17:08.71,0:17:10.96,Main - Italics,Solario,0,0,0,,Lindja më në fund\Ne përmbys rezultatin.
+Dialogue: 0,0:17:11.73,0:17:13.97,Default,sign,0,0,0,,{\fad(840,1)\an8\fnArial Black\c&HEBEBEB&\3c&H12181A&\4c&H12181A&}Diferenca në zhetonë
+Dialogue: 0,0:17:11.73,0:17:13.97,Default,sign,0,0,0,,{\fad(840,1)\shad0\bord0\fnArial Black\c&HEBEBEB&\3c&H12181A&\4c&H12181A&\pos(341.999,145.067)}zhetonë
+Dialogue: 0,0:17:11.73,0:17:13.97,Default,sign,0,0,0,,{\fad(840,1)\shad0\an1\fnArial Black\c&H451C8A&\3c&HF3F0EF&\4c&H12181A&\pos(398.934,226.133)}Lindja {\bord0\c&HF7F3F1&}kryeson
+Dialogue: 0,0:17:13.07,0:17:17.60,Main - Italics,Solario,0,0,0,,Ndeshja do të vendoset\Nnë dorën e dhjetë dhe të fundit.
+Dialogue: 0,0:17:18.41,0:17:21.22,Main - Italics,Kikuchi,0,0,0,,Ky ishte fat i verbër fare.
+Dialogue: 0,0:17:21.22,0:17:26.35,Main - Italics,Kikuchi,0,0,0,,S'ka si t'i dalë sërish katërshe\Nduke ndërruar të pesta letrat.
+Dialogue: 0,0:17:26.58,0:17:29.85,Main - Italics,Kikuchi,0,0,0,,Dhe në dorën e fundit,\Npakon e pres i dyti.
+Dialogue: 0,0:17:29.85,0:17:33.15,Main - Italics,Kikuchi,0,0,0,,Mund ta siguroj xholin\Nqë në fillim!
+Dialogue: 0,0:17:33.77,0:17:36.70,Main - Italics,Kikuchi,0,0,0,,Akiyama do të humbasë patjetër!
+Dialogue: 0,0:17:38.16,0:17:42.00,Default,Dealer,0,0,0,,Tani fillojmë dorën e fundit.
+Dialogue: 0,0:17:42.00,0:17:44.79,Main - Italics,Kikuchi,0,0,0,,Fitoj, nëse e çojmë lojën deri në fund.
+Dialogue: 0,0:17:44.79,0:17:48.52,Main - Italics,Kikuchi,0,0,0,,Por a do të vazhdojë ai deri në fund?
+Dialogue: 0,0:17:48.52,0:17:50.07,Default,Akiyama,0,0,0,,Mos u shqetëso.
+Dialogue: 0,0:17:51.03,0:17:52.91,Default,Akiyama,0,0,0,,Do të vazhdoj.
+Dialogue: 0,0:17:53.73,0:17:57.61,Default,Akiyama,0,0,0,,Ke frikë se do të tërhiqem në dorën e dhjetë
+Dialogue: 0,0:17:57.61,0:18:01.69,Default,Akiyama,0,0,0,,për ta fituar ngushtë ndeshjen e qendrës, apo jo?
+Dialogue: 0,0:18:01.91,0:18:04.95,Default,Akiyama,0,0,0,,Mos u shqetëso. S'do t'ia mbath.
+Dialogue: 0,0:18:05.32,0:18:08.18,Default,Akiyama,0,0,0,,Ndeshja e pararojës doli barazim, të kujtohet?
+Dialogue: 0,0:18:08.18,0:18:12.18,Default,Akiyama,0,0,0,,Tani rëndësi s'ka\Ntë fitojmë sa për të thënë,
+Dialogue: 0,0:18:12.18,0:18:15.92,Default,Akiyama,0,0,0,,por të mbledhim aq zhetonë sa të përballojmë\Nedhe humbjen në ndeshjen e gjeneralëve.
+Dialogue: 0,0:18:16.50,0:18:18.85,Default,Akiyama,0,0,0,,Për momentin, loja po më ecën mbarë,
+Dialogue: 0,0:18:18.85,0:18:22.70,Default,Akiyama,0,0,0,,ndaj, po pashë mundësi fitoreje,\Ndo të synoj plot pesëdhjetë zhetonë.
+Dialogue: 0,0:18:23.08,0:18:25.53,Main - Italics,Kikuchi,0,0,0,,Loja po i ecën mbarë, hë?
+Dialogue: 0,0:18:26.76,0:18:29.27,Main - Italics,Kikuchi,0,0,0,,Fatmirësisht, qenka kaq budalla!
+Dialogue: 0,0:18:33.06,0:18:35.80,Main - Italics,Kikuchi,0,0,0,,Xholi është letra e nëntë.
+Dialogue: 0,0:18:35.80,0:18:36.88,Default,Akiyama,0,0,0,,Prit.
+Dialogue: 0,0:18:36.88,0:18:38.74,Default,Akiyama,0,0,0,,Kjo është dora e fundit.
+Dialogue: 0,0:18:38.74,0:18:41.75,Default,Akiyama,0,0,0,,Të mos lëmë vend\Npër dyshime apo mëri.
+Dialogue: 0,0:18:42.19,0:18:43.99,Default,Akiyama,0,0,0,,Përziejini edhe tri herë.
+Dialogue: 0,0:18:43.99,0:18:45.17,Default,Kikuchi,0,0,0,,Prapë kjo?!
+Dialogue: 0,0:18:45.17,0:18:46.53,Default,Kikuchi,0,0,0,,D-Dua të them...
+Dialogue: 0,0:18:46.53,0:18:49.89,Default,Kikuchi,0,0,0,,Kështu do të bindesh se jam i pafajshëm?
+Dialogue: 0,0:18:50.12,0:18:51.15,Default,Akiyama,0,0,0,,Po.
+Dialogue: 0,0:18:51.70,0:18:53.73,Default,Kikuchi,0,0,0,,Atëherë, bëjeni.
+Dialogue: 0,0:18:53.73,0:18:55.05,Default,Dealer,0,0,0,,Si të dëshironi.
+Dialogue: 0,0:19:02.50,0:19:04.14,Default,Dealer,0,0,0,,Tani, prerja.
+Dialogue: 0,0:19:04.14,0:19:05.28,Default,Dealer,0,0,0,,Zoti Akiyama i pari.
+Dialogue: 0,0:19:05.60,0:19:07.54,Default,Akiyama,0,0,0,,Atëherë, tetë letra.
+Dialogue: 0,0:19:07.54,0:19:09.29,Default,Kikuchi,0,0,0,,Shtatë letra.
+Dialogue: 0,0:19:09.29,0:19:13.04,Main - Italics,Kikuchi,0,0,0,,Xholi është i gjashti nga sipër.
+Dialogue: 0,0:19:13.35,0:19:16.63,Main - Italics,Kikuchi,0,0,0,,Do të më bjerë mua që në fillim!
+Dialogue: 0,0:19:17.43,0:19:19.64,Main - Italics,Kikuchi,0,0,0,,Full me tre asa!
+Dialogue: 0,0:19:19.64,0:19:22.80,Main - Italics,Kikuchi,0,0,0,,Dora është aq e mirë,\Nsa s'e fsheh dot buzëqeshjen!
+Dialogue: 0,0:19:22.80,0:19:23.64,Main - Italics,Kikuchi,0,0,0,,Pyetja është...
+Dialogue: 0,0:19:23.91,0:19:27.35,Main - Italics,Kikuchi,0,0,0,,A do të vazhdojë Akiyama?
+Dialogue: 0,0:19:27.35,0:19:29.57,Default,Dealer,0,0,0,,Tani, raundi i parë i basteve.
+Dialogue: 0,0:19:31.40,0:19:32.78,Default,Akiyama,0,0,0,,Pesëmbëdhjetë zhetonë.
+Dialogue: 0,0:19:34.01,0:19:38.28,Default,Akiyama,0,0,0,,S'të thashë?\NPo pashë mundësi fitoreje, vë gjithçka.
+Dialogue: 0,0:19:38.59,0:19:40.44,Main - Italics,Kikuchi,0,0,0,,Shpëtova!
+Dialogue: 0,0:19:40.44,0:19:43.33,Main - Italics,Kikuchi,0,0,0,,Mendësia e tij prej bixhozçiu më shpëtoi!
+Dialogue: 0,0:19:43.33,0:19:45.38,Main - Italics,Kikuchi,0,0,0,,Paska ndër mend të vazhdojë deri në fund!
+Dialogue: 0,0:19:45.98,0:19:47.18,Default,Dealer,0,0,0,,Po ju, zoti Kikuchi?
+Dialogue: 0,0:19:47.18,0:19:52.29,Default,Kikuchi,0,0,0,,Meqë jam prapa në rezultat,\Nme sa duket, më duhet të barazoj.
+Dialogue: 0,0:19:52.29,0:19:54.56,Default,Dealer,0,0,0,,Tani do të ndërroni letrat.
+Dialogue: 0,0:19:54.56,0:19:55.74,Default,Dealer,0,0,0,,Zoti Akiyama?
+Dialogue: 0,0:19:57.78,0:19:59.92,Default,Akiyama,0,0,0,,I ndërroj të gjitha letrat.
+Dialogue: 0,0:20:02.35,0:20:03.52,Default,Akiyama,0,0,0,,Ka ndonjë problem?
+Dialogue: 0,0:20:03.52,0:20:05.62,Default,Kikuchi,0,0,0,,Ëh, jo...
+Dialogue: 0,0:20:06.31,0:20:09.20,Main - Italics,Kikuchi,0,0,0,,Vuri gjithçka me letra koti?
+Dialogue: 0,0:20:09.53,0:20:15.69,Main - Italics,Kikuchi,0,0,0,,Apo po i ndërron për të rritur\Ngjasat që të marrë xholin?
+Dialogue: 0,0:20:15.94,0:20:19.36,Main - Italics,Kikuchi,0,0,0,,Sa keq për të, xholin e kam unë!
+Dialogue: 0,0:20:19.70,0:20:21.44,Main - Italics,Kikuchi,0,0,0,,Megjithatë, kjo e ndërlikon punën...
+Dialogue: 0,0:20:21.68,0:20:25.98,Main - Italics,Kikuchi,0,0,0,,Meqë ai mori pesë, po mora unë dy,
+Dialogue: 0,0:20:25.98,0:20:29.37,Main - Italics,Kikuchi,0,0,0,,do t'i kemi përdorur\Ntë shtatëmbëdhjetë letrat.
+Dialogue: 0,0:20:29.86,0:20:35.77,Main - Italics,Kikuchi,0,0,0,,Do ta kuptojë që xholin e kam unë\Ndhe do të tërhiqet.
+Dialogue: 0,0:20:36.12,0:20:38.42,Main - Italics,Kikuchi,0,0,0,,Duhet të qëndroj i vendosur, t'i mbaj letrat,
+Dialogue: 0,0:20:38.42,0:20:44.34,Main - Italics,Kikuchi,0,0,0,,dhe të sillem sikur xholi\Nështë ende mes letrave në pako.
+Dialogue: 0,0:20:44.89,0:20:46.85,Default,Kikuchi,0,0,0,,Të pesta letrat, hë?
+Dialogue: 0,0:20:47.17,0:20:51.18,Default,Kikuchi,0,0,0,,Mbase edhe dora ime e dobët\Nka ndonjë shans.
+Dialogue: 0,0:20:52.19,0:20:54.61,Default,Kikuchi,0,0,0,,Mirë, do t'i mbaj letrat.
+Dialogue: 0,0:20:54.61,0:20:58.32,Default,Kikuchi,0,0,0,,Mund ta përmirësoj dorën\Nduke ndërruar letra,
+Dialogue: 0,0:20:58.32,0:21:02.10,Default,Kikuchi,0,0,0,,por pastaj ti mund të tërhiqesh, ndaj...
+Dialogue: 0,0:21:02.43,0:21:05.60,Default,Kikuchi,0,0,0,,Do të përballem me ty\Nme këtë dorë mesatare!
+Dialogue: 0,0:21:06.50,0:21:08.29,Main - Italics,Kikuchi,0,0,0,,A e bindi aktrimi im?
+Dialogue: 0,0:21:08.79,0:21:11.36,Main - Italics,Kikuchi,0,0,0,,Apo u kuptua sheshit?!
+Dialogue: 0,0:21:11.74,0:21:14.02,Default,Dealer,0,0,0,,Tani, raundi i dytë i basteve.
+Dialogue: 0,0:21:14.02,0:21:15.75,Default,Dealer,0,0,0,,Zoti Akiyama, ju lutem.
+Dialogue: 0,0:21:15.75,0:21:18.62,Main - Italics,Kikuchi,0,0,0,,Të lutem, vazhdo!
+Dialogue: 0,0:21:20.82,0:21:22.00,Default,Akiyama,0,0,0,,Atëherë...
+Dialogue: 0,0:21:22.53,0:21:24.77,Default,Akiyama,0,0,0,,Vë tridhjetë zhetonë.
+Dialogue: 0,0:21:26.79,0:21:28.79,Default,Kikuchi,0,0,0,,Çfarë the?
+Dialogue: 0,0:21:29.74,0:21:33.62,Default,Akiyama,0,0,0,,Thashë se po vë maksimumin.\NTridhjetë zhetonë.
+Dialogue: 0,0:21:34.10,0:21:35.61,Default,Kikuchi,0,0,0,,Vërtet?
+Dialogue: 0,0:21:35.98,0:21:40.01,Main - Italics,Kikuchi,0,0,0,,Fitova... falë aktrimit tim!
+Dialogue: 0,0:21:40.36,0:21:42.58,Default,Dealer,0,0,0,,Zoti Kikuchi, ç'do të bëni?
+Dialogue: 0,0:21:42.94,0:21:45.61,Default,Kikuchi,0,0,0,,S'kam zgjidhje. Më duhet të barazoj.
+Dialogue: 0,0:21:45.61,0:21:48.09,Default,Dealer,0,0,0,,Atëherë, dora u mbyll.
+Dialogue: 0,0:21:52.82,0:21:55.37,Default,Kikuchi,0,0,0,,Je idiot, Akiyama!
+Dialogue: 0,0:21:56.27,0:22:00.13,Default,Kikuchi,0,0,0,,Tani që dora u mbyll,\Ndo të të tregoj gjithçka!
+Dialogue: 0,0:22:00.31,0:22:02.67,Default,Kikuchi,0,0,0,,Kishe të drejtë që në fillim!
+Dialogue: 0,0:22:02.67,0:22:05.52,Default,Kikuchi,0,0,0,,E dija saktësisht ku ishte xholi!
+Dialogue: 0,0:22:05.92,0:22:09.29,Default,Kikuchi,0,0,0,,Këtë dorë e fitoj unë!
+Dialogue: 0,0:23:45.06,0:23:50.06,Default,sign,0,0,0,,{\fnTimes New Roman\fs16\pos(320,85)\shad0\bord0\c&HA8C3C3&}Herën tjetër
+Dialogue: 0,0:23:45.06,0:23:50.06,Default,sign,0,0,0,,{\fnTimes New Roman\an8\b1\shad0\bord0\pos(320,185)}Ndeshja e gjeneralëve
+

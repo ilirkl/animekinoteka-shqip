@@ -1,0 +1,291 @@
+﻿[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: DefaultItalics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: DefaultTop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: DefaultItalicsTop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: DefaultOverlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: FlashbackItalics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: FlashbackTop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: FlashbackItalicsTop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Narration,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Signs,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,30,30,18,0
+Style: Credits,Arial,18,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,30,30,18,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.02,0:00:04.19,Default,Omi,0,0,0,,Mirë. Tani do të fillojmë\Nprovimet e aftësive praktike.
+Dialogue: 0,0:00:04.90,0:00:09.20,Default,Omi,0,0,0,,Kaloni nëse mposhtni të gjithë\Narmiqtë e stërvitjes brenda kohës së caktuar.
+Dialogue: 0,0:00:09.70,0:00:13.03,Default,Omi,0,0,0,,Kur të thirret emri juaj,\Ndrejtohuni shpejt në fushë.
+Dialogue: 0,0:00:13.03,0:00:13.95,Default,All,0,0,0,,Po, mësuese.
+Dialogue: 0,0:00:24.96,0:00:25.80,Default,Mimi,0,0,0,,Ke frikë?
+Dialogue: 0,0:00:25.80,0:00:26.59,Default,Sheena,0,0,0,,Hë?
+Dialogue: 0,0:00:27.09,0:00:28.88,Default,Mimi,0,0,0,,Ke frikë nga provimi?
+Dialogue: 0,0:00:31.51,0:00:33.51,Default,Sheena,0,0,0,,Po, kam frikë.
+Dialogue: 0,0:00:33.51,0:00:37.27,Default,Mimi,0,0,0,,Dreq. Pse s'më lënë\Nta bëj unë në vendin tënd?
+Dialogue: 0,0:00:37.56,0:00:41.81,Default,Mimi,0,0,0,,E gjeta! Thuaj se të dhemb barku,\Ndhe mësuesja mbase të lë vetëm të shohësh!
+Dialogue: 0,0:00:41.81,0:00:43.65,Default,Sheena,0,0,0,,S'mund të shtirem si e sëmurë.
+Dialogue: 0,0:00:44.27,0:00:48.44,Default,Omi,0,0,0,,Tjetra është numri tetë, Sheena Totsuki.\NJu lutem, përgatituni.
+Dialogue: 0,0:00:48.44,0:00:49.70,Default,Sheena,0,0,0,,E kam radhën.
+Dialogue: 0,0:00:50.82,0:00:55.16,Default,Sheena,0,0,0,,Mos u shqetëso. Duhet t'ia dal\Nmë mirë se herën e fundit... shpresoj.
+Dialogue: 0,0:00:55.79,0:00:56.87,Default,Sheena,0,0,0,,Shihemi më vonë.
+Dialogue: 0,0:01:00.92,0:01:02.00,Default,Ari,0,0,0,,Mimi.
+Dialogue: 0,0:01:03.08,0:01:06.21,Default,Ari,0,0,0,,Duke pasur parasysh herën e fundit,\Nme siguri je në merak.
+Dialogue: 0,0:01:06.92,0:01:08.84,Default,Mimi,0,0,0,,Ari, fytyra jote...
+Dialogue: 0,0:01:08.84,0:01:12.64,Default,Ari,0,0,0,,Po, e di. Sa budallaqe\Nqë u preva pikërisht këtu.
+Dialogue: 0,0:01:12.64,0:01:14.18,Default,Mimi,0,0,0,,Je mirë?
+Dialogue: 0,0:01:14.18,0:01:15.30,Default,Ari,0,0,0,,Jam mirë.
+Dialogue: 0,0:01:15.87,0:01:16.89,Default,Ari,0,0,0,,Por faleminderit.
+Dialogue: 0,0:02:55.61,0:02:57.20,DefaultItalics,Sheena (M),0,0,0,,Gjithmonë vetëm kam ikur.
+Dialogue: 0,0:02:58.12,0:02:59.87,DefaultItalics,Sheena (M),0,0,0,,Iki, duke menduar se s'mund ta bëj këtë
+Dialogue: 0,0:03:00.87,0:03:05.08,DefaultItalics,Sheena (M),0,0,0,,dhe se dua të mbarojë\Nsa më shpejt të jetë e mundur.
+Dialogue: 0,0:03:05.83,0:03:08.83,DefaultItalics,Sheena (M),0,0,0,,Por e di që s'mund të vazhdoj kështu,
+Dialogue: 0,0:03:09.54,0:03:14.51,DefaultItalics,Sheena (M),0,0,0,,nëse dua të gjej një mënyrë të kontribuoj\Ndhe t'u hyj në punë të tjerave.
+Dialogue: 0,0:03:15.42,0:03:18.68,Flashback,Laura,0,0,0,,Sa me fat je që je kaq e dobët, Sheena.
+Dialogue: 0,0:03:18.97,0:03:22.18,Flashback,Laura,0,0,0,,As s'ke pse mendon\Npër luftën, apo jo?
+Dialogue: 0,0:03:24.06,0:03:27.60,DefaultItalics,Sheena (M),0,0,0,,S'mund të luftoj si të tjerat. Megjithatë...
+Dialogue: 0,0:03:29.94,0:03:32.82,Default,Student A,0,0,0,,Prapë e lanë atë\Ntë rrinte mënjanë e të shihte?
+Dialogue: 0,0:03:32.82,0:03:34.13,Default,Student B,0,0,0,,Sa mirë e ka.
+Dialogue: 0,0:03:40.32,0:03:41.45,Default,Hal,0,0,0,,Mbarove që tani?
+Dialogue: 0,0:03:41.70,0:03:46.12,Default,Mimi,0,0,0,,Mësuesja tha se s'kishte nevojë\Ntë jepja provimin dhe më la të shihja.
+Dialogue: 0,0:03:46.12,0:03:47.62,Default,Hal,0,0,0,,Ah.
+Dialogue: 0,0:03:47.62,0:03:51.46,Default,Hal,0,0,0,,Po, s'ka pse t'i vënë në provë\Naftësitë e tua praktike, apo jo?
+Dialogue: 0,0:03:53.21,0:03:54.96,Default,Hal,0,0,0,,Je kaq e shqetësuar për të?
+Dialogue: 0,0:03:54.96,0:03:58.83,Default,Mimi,0,0,0,,Po, sigurisht. Nëse lëndohet\Nkur s'jam unë pranë,
+Dialogue: 0,0:03:58.83,0:04:01.68,Default,Mimi,0,0,0,,mund të humbasë ndonjë krah a diçka.
+Dialogue: 0,0:04:01.68,0:04:04.72,Default,Hal,0,0,0,,Po, kjo ndodhi\Ngjatë betejës stërvitore, hë.
+Dialogue: 0,0:04:05.68,0:04:09.06,Default,Hal,0,0,0,,Por vetëm sepse\Nu fut një armik i vërtetë, apo—
+Dialogue: 0,0:04:09.06,0:04:10.60,Default,Mimi,0,0,0,,Kurrë s'i dihet!
+Dialogue: 0,0:04:11.40,0:04:16.28,Default,Mimi,0,0,0,,Mund të futet një tjetër.\NDhe po u lëndua rëndë...
+Dialogue: 0,0:04:26.75,0:04:28.91,Default,Mimi,0,0,0,,Po, do të shkoj ta ndihmoj!
+Dialogue: 0,0:04:28.91,0:04:32.96,Default,Hal,0,0,0,,Nëse e bën këtë,\NTotsuki do të skualifikohet.
+Dialogue: 0,0:04:36.84,0:04:40.63,Default,Hal,0,0,0,,Totsuki ka qenë gjithmonë kështu?
+Dialogue: 0,0:04:40.63,0:04:44.10,Default,Hal,0,0,0,,Mendoja se s'donte fare\Nta jepte provimin praktik.
+Dialogue: 0,0:04:44.10,0:04:45.47,Default,Mimi,0,0,0,,Ende s'do.
+Dialogue: 0,0:04:46.39,0:04:51.23,Default,Mimi,0,0,0,,I urren të gjitha,\Ndhimbjen dhe magjinë me gjemba.
+Dialogue: 0,0:04:51.23,0:04:54.77,Default,Mimi,0,0,0,,Atëherë pse duhet ta kalojë këtë?
+Dialogue: 0,0:04:54.77,0:04:58.11,Default,Hal,0,0,0,,Një ditë do të jemi\Ntë gjitha në klasat e larta.
+Dialogue: 0,0:04:58.61,0:05:04.16,Default,Hal,0,0,0,,S'mund të shmangemi.\NSidomos kur vazhdojmë të humbasim njerëz.
+Dialogue: 0,0:05:04.16,0:05:08.04,Default,Mimi,0,0,0,,Por Sheena s'duhet të luftojë.
+Dialogue: 0,0:05:10.37,0:05:15.67,Default,Mimi,0,0,0,,Sepse s'është si unë.\NSheena është vërtet e dobët.
+Dialogue: 0,0:05:16.59,0:05:19.17,Default,Mimi,0,0,0,,Nëse lëndohet në betejë,
+Dialogue: 0,0:05:19.76,0:05:22.01,Default,Mimi,0,0,0,,mund të vdesë vërtet.
+Dialogue: 0,0:05:43.99,0:05:44.62,Default,Sheena,0,0,0,,Çfarë?
+Dialogue: 0,0:05:45.03,0:05:47.24,DefaultItalics,Sheena (M),0,0,0,,Paska ngrënë kaq shumë që tani?
+Dialogue: 0,0:05:47.24,0:05:49.08,Default,Mimi,0,0,0,,Mbarova së lari dhëmbët!
+Dialogue: 0,0:05:49.83,0:05:51.54,Default,Sheena,0,0,0,,Do të flemë prapë bashkë?
+Dialogue: 0,0:05:53.00,0:05:53.92,Default,Mimi,0,0,0,,Po!
+Dialogue: 0,0:05:54.63,0:05:57.17,Default,Sheena,0,0,0,,Kujtova se sapo mbarove\Nsë lari dhëmbët.
+Dialogue: 0,0:05:57.17,0:05:58.00,Default,Mimi,0,0,0,,Ah!
+Dialogue: 0,0:06:00.88,0:06:02.84,Default,Sheena,0,0,0,,Të pëlqyen biskotat?
+Dialogue: 0,0:06:02.84,0:06:03.63,Default,Mimi,0,0,0,,Po!
+Dialogue: 0,0:06:03.63,0:06:04.55,Default,Sheena,0,0,0,,Sa mirë.
+Dialogue: 0,0:06:04.97,0:06:06.26,Default,Sheena,0,0,0,,Do të pjek të tjera së shpejti.
+Dialogue: 0,0:06:06.26,0:06:07.85,Default,Mimi,0,0,0,,Dua të ndihmoj!
+Dialogue: 0,0:06:07.85,0:06:10.39,Default,Sheena,0,0,0,,Mirë, do t'i bëjmë bashkë.
+Dialogue: 0,0:06:12.64,0:06:13.94,Default,Mimi,0,0,0,,Sheena.
+Dialogue: 0,0:06:13.94,0:06:14.81,Default,Sheena,0,0,0,,Hëm?
+Dialogue: 0,0:06:14.81,0:06:16.65,Default,Mimi,0,0,0,,Do ta japësh prapë provimin?
+Dialogue: 0,0:06:17.69,0:06:18.52,Default,Sheena,0,0,0,,Po.
+Dialogue: 0,0:06:19.65,0:06:22.49,Default,Sheena,0,0,0,,Më mbaroi koha, ndaj s'kalova.
+Dialogue: 0,0:06:22.74,0:06:26.07,Default,Sheena,0,0,0,,Dhe unë që mendova se të paktën\Ndo t'ia dilja më mirë se herën e fundit.
+Dialogue: 0,0:06:26.87,0:06:28.53,Default,Mimi,0,0,0,,Vërtet do të kalosh?
+Dialogue: 0,0:06:28.53,0:06:29.95,Default,Sheena,0,0,0,,Po, sigurisht.
+Dialogue: 0,0:06:33.46,0:06:36.79,Default,Mimi,0,0,0,,Shpresoj nesër të jemi\Nbashkë në mësim.
+Dialogue: 0,0:06:37.42,0:06:38.21,Default,Sheena,0,0,0,,Edhe unë.
+Dialogue: 0,0:06:47.68,0:06:49.85,DefaultItalicsTop,Announcement,0,0,0,,Vëmendje. Vëmendje.
+Dialogue: 0,0:06:50.47,0:06:53.31,DefaultItalicsTop,Announcement,0,0,0,,Nxënëset e mëposhtme\Nduhet të paraqiten menjëherë:
+Dialogue: 0,0:06:53.73,0:06:55.56,DefaultItalicsTop,Announcement,0,0,0,,1407,
+Dialogue: 0,0:06:55.56,0:06:56.77,DefaultItalicsTop,Announcement,0,0,0,,1603,
+Dialogue: 0,0:06:56.02,0:06:58.77,DefaultItalics,Sheena (M),0,0,0,,Është hera e parë që shkon në front\Nqë kur humbëm Seiran-in.
+Dialogue: 0,0:06:57.31,0:06:58.77,DefaultItalicsTop,Announcement,0,0,0,,1605,
+Dialogue: 0,0:06:59.11,0:07:01.02,DefaultItalicsTop,Announcement,0,0,0,,1608,
+Dialogue: 0,0:06:59.27,0:07:01.19,DefaultItalics,Sheena (M),0,0,0,,S'duhet ta ketë të lehtë.
+Dialogue: 0,0:07:01.02,0:07:02.82,DefaultItalicsTop,Announcement,0,0,0,,1609,
+Dialogue: 0,0:07:01.19,0:07:02.82,Default,Mimi,0,0,0,,Mirë, shihemi më vonë.
+Dialogue: 0,0:07:02.82,0:07:04.53,DefaultItalicsTop,Announcement,0,0,0,,1612,
+Dialogue: 0,0:07:04.53,0:07:06.28,DefaultItalicsTop,Announcement,0,0,0,,1615,
+Dialogue: 0,0:07:06.28,0:07:07.99,DefaultItalicsTop,Announcement,0,0,0,,1702,
+Dialogue: 0,0:07:06.41,0:07:07.24,Default,Mimi,0,0,0,,Sheena.
+Dialogue: 0,0:07:07.99,0:07:09.49,DefaultItalicsTop,Announcement,0,0,0,,1708...
+Dialogue: 0,0:07:08.16,0:07:12.33,Default,Mimi,0,0,0,,Mos ushtro asgjë të rrezikshme\Nsa të jem larg, dakord?
+Dialogue: 0,0:07:12.33,0:07:13.37,Default,Mimi,0,0,0,,Ma premton?
+Dialogue: 0,0:07:13.37,0:07:16.11,Default,Sheena,0,0,0,,Hë? Ah, po.
+Dialogue: 0,0:07:16.11,0:07:18.33,Default,Mimi,0,0,0,,Thjesht më prit, dakord?
+Dialogue: 0,0:07:20.04,0:07:21.50,Default,Sheena,0,0,0,,Iku.
+Dialogue: 0,0:07:28.51,0:07:32.81,DefaultItalics,Sheena (M),0,0,0,,Mimi s'u kthye dje.
+Dialogue: 0,0:07:37.44,0:07:40.11,DefaultItalics,Sheena (M),0,0,0,,Ajo {\i0}është{\i1} mirë, apo jo?
+Dialogue: 0,0:07:41.06,0:07:43.94,Default,Student C,0,0,0,,Nxënëset që shkuan në front u kthyen!
+Dialogue: 0,0:07:49.03,0:07:50.45,Default,Mimi,0,0,0,,Sheena!
+Dialogue: 0,0:07:55.54,0:07:56.66,Default,Mimi,0,0,0,,U ktheva.
+Dialogue: 0,0:07:56.66,0:07:57.75,Default,Sheena,0,0,0,,Mirë se u ktheve.
+Dialogue: 0,0:08:00.29,0:08:04.09,Default,Mimi,0,0,0,,E di çfarë?\NSot s'u lëndua askush fare!
+Dialogue: 0,0:08:04.09,0:08:07.88,Default,Sheena,0,0,0,,Tani që e përmend,\Nas ti s'qenke bërë pis fare.
+Dialogue: 0,0:08:07.88,0:08:09.13,Default,Mimi,0,0,0,,Apo jo?
+Dialogue: 0,0:08:09.13,0:08:09.80,Default,Sheena,0,0,0,,Po.
+Dialogue: 0,0:08:10.82,0:08:12.30,Default,Mimi,0,0,0,,Hej, Sheena.
+Dialogue: 0,0:08:12.30,0:08:13.31,Default,Sheena,0,0,0,,Hëm?
+Dialogue: 0,0:08:13.31,0:08:17.10,Default,Mimi,0,0,0,,Sheena, gëzohesh\Nkur kthehem shëndoshë e mirë?
+Dialogue: 0,0:08:17.48,0:08:21.56,Default,Sheena,0,0,0,,Sigurisht që po.\NShqetësohem pak për ty.
+Dialogue: 0,0:08:22.19,0:08:25.03,Default,Mimi,0,0,0,,S'ka gjë! Unë jam e fortë!
+Dialogue: 0,0:08:25.40,0:08:28.40,Default,Mimi,0,0,0,,Ti vetëm më prit gjithmonë\Nnë dhomën tonë!
+Dialogue: 0,0:08:30.41,0:08:34.54,DefaultItalics,Sheena (M),0,0,0,,Pas kësaj, Mimi vazhdonte\Ntë thirrej në betejë...
+Dialogue: 0,0:08:44.63,0:08:46.92,DefaultItalics,Sheena (M),0,0,0,,Dhe kthehej gjithmonë pa plagë.
+Dialogue: 0,0:09:03.00,0:09:04.77,Default,Fran,0,0,0,,Mirë, tani bëj këtë tjetrën.
+Dialogue: 0,0:09:05.23,0:09:08.24,Default,Sheena,0,0,0,,A janë qetësuar gjërat kohët e fundit?
+Dialogue: 0,0:09:08.24,0:09:09.28,Default,Fran,0,0,0,,Çfarë gjërash?
+Dialogue: 0,0:09:09.57,0:09:15.03,Default,Sheena,0,0,0,,Kam dëgjuar se nxënëset e klasave të larta\Npo kthehen shëndoshë e mirë nga fronti,
+Dialogue: 0,0:09:15.03,0:09:18.04,Default,Sheena,0,0,0,,dhe më të voglat\Ns'i detyrojnë më të luftojnë.
+Dialogue: 0,0:09:18.04,0:09:19.16,Default,Fran,0,0,0,,Po.
+Dialogue: 0,0:09:19.79,0:09:24.04,Default,Sheena,0,0,0,,Edhe Mimi s'kthehet\Ne plagosur si më parë.
+Dialogue: 0,0:09:25.21,0:09:27.84,Default,Sheena,0,0,0,,Duket sikur gjërat\Npo shkojnë për mirë.
+Dialogue: 0,0:09:29.01,0:09:30.59,Default,Fran,0,0,0,,Por duart e tua s'po lëvizin.
+Dialogue: 0,0:09:30.59,0:09:31.38,Default,Sheena,0,0,0,,Ah!
+Dialogue: 0,0:09:31.98,0:09:35.30,Default,Fran,0,0,0,,Kur ta mbarosh atë,\Nmerru me lulet në raft, dakord?
+Dialogue: 0,0:09:35.30,0:09:36.22,Default,Sheena,0,0,0,,Po, mësuese!
+Dialogue: 0,0:09:53.45,0:09:55.12,Default,Omi,0,0,0,,Zonja Fran.
+Dialogue: 0,0:09:55.12,0:09:56.07,Default,Fran,0,0,0,,Uf.
+Dialogue: 0,0:09:58.08,0:10:00.66,Default,Omi,0,0,0,,E keni njoftuar Totsuki-n\Npër atë që po ndodh?
+Dialogue: 0,0:10:00.66,0:10:02.79,Default,Fran,0,0,0,,Mimi po bën çmos ta fshehë.
+Dialogue: 0,0:10:03.79,0:10:05.96,Default,Fran,0,0,0,,S'kam të drejtë t'ia prish këtë.
+Dialogue: 0,0:10:06.38,0:10:10.59,Default,Omi,0,0,0,,Herët a vonë do ta marrë vesh.\NMimi s'mund ta fshehë përgjithmonë.
+Dialogue: 0,0:10:10.92,0:10:12.22,Default,Fran,0,0,0,,Me siguri ke të drejtë.
+Dialogue: 0,0:10:12.92,0:10:16.14,Default,Fran,0,0,0,,Megjithatë, duhet\Nta zgjidhin vetë mes tyre.
+Dialogue: 0,0:10:34.91,0:10:37.41,Default,Rika,0,0,0,,Sa shumë hi magjik.
+Dialogue: 0,0:10:44.25,0:10:47.42,Default,Esther,0,0,0,,Mos pyet. S'e kam parë\Nkurrë kaq keq më parë.
+Dialogue: 0,0:10:48.54,0:10:51.25,Default,Rika,0,0,0,,Esther! Mos u shpërqendro.
+Dialogue: 0,0:10:51.25,0:10:52.51,Default,Esther,0,0,0,,E di.
+Dialogue: 0,0:10:54.34,0:10:55.30,Default,Rika,0,0,0,,Esther!
+Dialogue: 0,0:10:58.35,0:11:00.64,Default,Esther,0,0,0,,Faleminderit, Rika. Por...
+Dialogue: 0,0:12:15.84,0:12:16.76,Default,Esther,0,0,0,,Mimi!
+Dialogue: 0,0:12:25.64,0:12:27.39,Default,Soldier,0,0,0,,Hej, a ka vdekur?
+Dialogue: 0,0:12:27.39,0:12:28.89,Default,Soldier,0,0,0,,Me siguri është vetëm pa ndjenja.
+Dialogue: 0,0:12:28.89,0:12:30.27,Default,Soldier,0,0,0,,Seriozisht?
+Dialogue: 0,0:12:35.53,0:12:37.07,Default,Soldier,0,0,0,,Mbaroi më në fund?
+Dialogue: 0,0:13:00.59,0:13:01.93,Default,Esther,0,0,0,,Mimi!
+Dialogue: 0,0:13:03.18,0:13:04.26,Default,Mimi,0,0,0,,Esthe—
+Dialogue: 0,0:13:09.98,0:13:13.31,Default,Esther,0,0,0,,Doja... ta falënderoja.
+Dialogue: 0,0:13:46.30,0:13:49.31,Default,Teacher A,0,0,0,,Kohët e fundit është bërë\Nedhe më e fortë, apo jo?
+Dialogue: 0,0:13:49.31,0:13:51.98,Default,Teacher B,0,0,0,,Edhe kur e godasin,\Nas që dridhet.
+Dialogue: 0,0:13:51.98,0:13:54.19,Default,Teacher B,0,0,0,,Gjithmonë e tepron.
+Dialogue: 0,0:13:54.19,0:13:57.27,Default,Teacher A,0,0,0,,Por sot arritëm\Nt'i ndalnim në front.
+Dialogue: 0,0:13:58.40,0:14:03.86,Default,Mimi,0,0,0,,Sheena, do të jem mirë.
+Dialogue: 0,0:14:10.58,0:14:14.08,Default,Mimi,0,0,0,,Sepse jam e fortë.
+Dialogue: 0,0:14:24.43,0:14:25.93,Default,Sheena,0,0,0,,Më paska zënë gjumi.
+Dialogue: 0,0:14:29.10,0:14:32.48,Default,Sheena,0,0,0,,Me sa duket, Mimi ende s'është kthyer.
+Dialogue: 0,0:14:35.44,0:14:37.77,Default,Sheena,0,0,0,,Zonja Fran, mbarova.
+Dialogue: 0,0:14:48.45,0:14:49.74,Default,Sheena,0,0,0,,Mbase është jashtë.
+Dialogue: 0,0:14:54.46,0:14:55.17,Default,Sheena,0,0,0,,Hëm?
+Dialogue: 0,0:14:56.71,0:14:57.67,Default,Sheena,0,0,0,,Ajo s'është...
+Dialogue: 0,0:15:07.47,0:15:10.06,Default,Sheena,0,0,0,,Mimi! Mimi? Mimi!
+Dialogue: 0,0:15:11.97,0:15:12.68,Default,Sheena,0,0,0,,Mimi!
+Dialogue: 0,0:15:18.10,0:15:19.90,Default,Esther,0,0,0,,Sheena.
+Dialogue: 0,0:15:27.41,0:15:31.95,Default,Sheena,0,0,0,,Mimi, si përfundove kështu?
+Dialogue: 0,0:15:36.83,0:15:39.46,Default,Esther,0,0,0,,Kohët e fundit është kështu çdo herë.
+Dialogue: 0,0:15:40.54,0:15:43.67,Default,Esther,0,0,0,,Por falë saj, numri\Ni viktimave dhe të plagosurave ka rënë.
+Dialogue: 0,0:15:44.38,0:15:45.51,Default,Sheena,0,0,0,,Çdo herë?
+Dialogue: 0,0:15:52.85,0:15:54.89,Default,Esther,0,0,0,,Po shkoj të gjej zonjën Fran.
+Dialogue: 0,0:16:00.73,0:16:02.98,Default,Mimi,0,0,0,,Sheena?
+Dialogue: 0,0:16:04.15,0:16:05.40,Default,Sheena,0,0,0,,Pse?
+Dialogue: 0,0:16:06.15,0:16:08.20,Default,Sheena,0,0,0,,Pse ma mbajte të fshehtë?
+Dialogue: 0,0:16:08.20,0:16:08.99,Default,Mimi,0,0,0,,Hë?
+Dialogue: 0,0:16:10.24,0:16:16.45,Default,Sheena,0,0,0,,S'e kisha idenë që po\Nktheheshe në këtë gjendje.
+Dialogue: 0,0:16:17.46,0:16:18.96,Default,Mimi,0,0,0,,Sheena.
+Dialogue: 0,0:16:19.58,0:16:23.59,Default,Sheena,0,0,0,,Duhet të jesh larë e të kesh\Nndërruar rrobat kur ktheheshe,
+Dialogue: 0,0:16:23.59,0:16:29.01,Default,Sheena,0,0,0,,që unë të mos e kuptoja.\NPo ma fshihje, apo jo?
+Dialogue: 0,0:16:29.01,0:16:30.68,Default,Mimi,0,0,0,,S'po përpiqesha të të mashtroja.
+Dialogue: 0,0:16:30.68,0:16:32.35,Default,Sheena,0,0,0,,Atëherë pse?
+Dialogue: 0,0:16:33.97,0:16:41.31,Default,Mimi,0,0,0,,Sepse po të vija e plagosur e e përgjakur,\Nmendova se mund të qaje prapë.
+Dialogue: 0,0:16:42.73,0:16:49.15,Default,Sheena,0,0,0,,Gjithmonë e kam urryer mënyrën\Nsi të detyrojnë të luftosh kaq egërsisht!
+Dialogue: 0,0:16:49.78,0:16:50.70,Default,Sheena,0,0,0,,Prandaj...
+Dialogue: 0,0:16:51.91,0:16:52.95,Default,Sheena,0,0,0,,Prandaj...
+Dialogue: 0,0:16:53.49,0:16:57.37,Default,Mimi,0,0,0,,Por nëse s'e bëj unë,\Nkështu do të përfundojnë të tjerat.
+Dialogue: 0,0:16:57.37,0:16:58.08,Default,Sheena,0,0,0,,Hë?
+Dialogue: 0,0:16:58.66,0:17:02.17,Default,Mimi,0,0,0,,Kështu do të përfundojë dikush\Nqë s'mund të kthehet në jetë.
+Dialogue: 0,0:17:02.63,0:17:06.13,Default,Mimi,0,0,0,,Ndaj është më mirë\Ntë luftoj unë në vendin e tyre.
+Dialogue: 0,0:17:07.01,0:17:10.76,Default,Sheena,0,0,0,,Por ti... s'mund të vazhdosh kështu.
+Dialogue: 0,0:17:10.76,0:17:11.97,Default,Mimi,0,0,0,,Pse jo?
+Dialogue: 0,0:17:12.83,0:17:14.18,Default,Sheena,0,0,0,,Sepse...
+Dialogue: 0,0:17:14.72,0:17:19.56,Default,Mimi,0,0,0,,Nëse u zë vendin të gjithave,\Naskush tjetër s'ka pse të vdesë.
+Dialogue: 0,0:17:20.02,0:17:24.11,Default,Sheena,0,0,0,,Po, mbase është e vërtetë, por...
+Dialogue: 0,0:17:24.11,0:17:25.11,Default,Mimi,0,0,0,,Apo jo?
+Dialogue: 0,0:17:27.57,0:17:29.44,Default,Sheena,0,0,0,,Dëgjo, Mimi.
+Dialogue: 0,0:17:29.99,0:17:34.12,Default,Sheena,0,0,0,,Tani mund të përdor\Npak magji shëruese.
+Dialogue: 0,0:17:34.70,0:17:39.20,Default,Sheena,0,0,0,,Me të mund t'ua lehtësoj dhimbjen\Ndhe t'u jap qetësi të tjerave.
+Dialogue: 0,0:17:39.66,0:17:46.00,Default,Sheena,0,0,0,,Dua të ushtrohem derisa të mund\Nt'ju ndihmoj të gjithave, edhe ty,
+Dialogue: 0,0:17:46.00,0:17:49.05,Default,Sheena,0,0,0,,që të mos jesh gjithmonë ti\Najo që na mbron.
+Dialogue: 0,0:17:50.05,0:17:53.80,Default,Sheena,0,0,0,,Dhe pastaj s'do të kesh nevojë\Ntë vazhdosh të luftosh vetëm.
+Dialogue: 0,0:17:53.80,0:17:54.64,Default,Mimi,0,0,0,,Sheena, ti...
+Dialogue: 0,0:17:56.22,0:17:58.89,Default,Mimi,0,0,0,,Sheena, s'ke pse e bën këtë për mua.
+Dialogue: 0,0:17:59.77,0:18:02.39,Default,Mimi,0,0,0,,Kur je kaq e dobët,\Ns'duhet të bësh asgjë!
+Dialogue: 0,0:18:02.85,0:18:03.90,Default,Sheena,0,0,0,,Hë?
+Dialogue: 0,0:18:04.81,0:18:08.07,Default,Mimi,0,0,0,,Unë thjesht dua të më presësh këtu.
+Dialogue: 0,0:18:08.86,0:18:11.86,Default,Mimi,0,0,0,,Pastaj mund të pjekim biskota\Nbashkë, si gjithmonë,
+Dialogue: 0,0:18:12.45,0:18:17.41,Default,Mimi,0,0,0,,të mbledhim lule në oborr,\Ntë pastrojmë dhomën, të lahemi,
+Dialogue: 0,0:18:17.91,0:18:22.25,Default,Mimi,0,0,0,,dhe ta kalojmë kohën\Nduke bërë gjëra të bukura bashkë.
+Dialogue: 0,0:18:24.25,0:18:27.13,Default,Mimi,0,0,0,,Duhet ta lësh ushtrimin e magjisë.
+Dialogue: 0,0:18:27.88,0:18:30.80,Default,Mimi,0,0,0,,Unë mund të luftoj aq fort\Nsa askush tjetër të mos lëndohet.
+Dialogue: 0,0:18:31.38,0:18:34.01,Default,Mimi,0,0,0,,Sepse jam e fortë dhe s'më vrasin dot,
+Dialogue: 0,0:18:34.63,0:18:37.05,Default,Mimi,0,0,0,,dhe s'më intereson sa më dhemb.
+Dialogue: 0,0:18:37.97,0:18:38.76,Default,Mimi,0,0,0,,Dakord?
+Dialogue: 0,0:18:41.02,0:18:44.73,Default,Sheena,0,0,0,,Gjithçka që sapo the është kaq e gabuar.
+Dialogue: 0,0:18:45.15,0:18:46.23,Default,Mimi,0,0,0,,Pse?
+Dialogue: 0,0:18:46.81,0:18:49.94,Default,Mimi,0,0,0,,Tani s'po vdes askush,\Ndhe po lëndohen më pak njerëz!
+Dialogue: 0,0:18:50.28,0:18:53.65,Default,Mimi,0,0,0,,Dhe unë do të pastrohem gjithmonë\Npara se të vij tek ti. S'të mjafton kjo?
+Dialogue: 0,0:18:54.61,0:18:57.24,Default,Sheena,0,0,0,,Kjo s'do të më gëzonte aspak.
+Dialogue: 0,0:18:58.62,0:19:00.41,Default,Mimi,0,0,0,,Por ti the se të gëzonte.
+Dialogue: 0,0:19:01.16,0:19:03.91,Default,Sheena,0,0,0,,Vetëm sepse s'e dija\Nçfarë po ndodhte!
+Dialogue: 0,0:19:03.91,0:19:07.25,Default,Sheena,0,0,0,,S'mund të jesh vetëm ti\Najo që vuan! S'është e drejtë!
+Dialogue: 0,0:19:07.50,0:19:10.17,Default,Mimi,0,0,0,,Po bëj vetëm atë që kam bërë gjithmonë!
+Dialogue: 0,0:19:10.17,0:19:13.26,Default,Sheena,0,0,0,,Dhe unë po të them sa shumë e urrej këtë!
+Dialogue: 0,0:19:13.26,0:19:17.14,Default,Mimi,0,0,0,,Pra, urren gjithçka\Nqë kam bërë deri tani?
+Dialogue: 0,0:19:17.76,0:19:22.97,Default,Mimi,0,0,0,,Urren gjithçka që kam bërë\Npër të të lumturuar ty dhe të gjithë?
+Dialogue: 0,0:19:22.97,0:19:27.15,Default,Sheena,0,0,0,,Jo, nuk urrej gjithçka.\NPor kjo prapë është shumë e gabuar.
+Dialogue: 0,0:19:27.15,0:19:30.23,Default,Mimi,0,0,0,,Atëherë çfarë duhet të bëj që të jetë e drejtë?
+Dialogue: 0,0:19:30.23,0:19:32.78,Default,Mimi,0,0,0,,Çfarë mund të bëj që ti të mos e urresh?!
+Dialogue: 0,0:19:32.78,0:19:33.61,Default,Mimi,0,0,0,,Sheena!
+Dialogue: 0,0:19:34.15,0:19:35.57,Default,Sheena,0,0,0,,Nuk e di!
+Dialogue: 0,0:19:37.11,0:19:40.41,Default,Sheena,0,0,0,,Nuk e di më.
+Dialogue: 0,0:19:40.95,0:19:46.16,Default,Mimi,0,0,0,,Ti vetëm duhej të më prisje\Nnë dhomën tonë si gjithmonë, Sheena.
+Dialogue: 0,0:19:46.71,0:19:49.46,Default,Mimi,0,0,0,,Pse s'bëre atë që të kërkova?
+Dialogue: 0,0:19:49.46,0:19:50.17,Default,Sheena,0,0,0,,Ëh...
+Dialogue: 0,0:19:50.92,0:19:55.05,Default,Mimi,0,0,0,,Mirë! Atëherë as unë s'do të bëj\Nasgjë që thua ti!
+Dialogue: 0,0:20:07.39,0:20:10.94,Default,Fran,0,0,0,,Ajo mistrecja... Ma theu bimën time të bukur.
+Dialogue: 0,0:20:10.94,0:20:12.19,Default,Sheena,0,0,0,,Më falni.
+Dialogue: 0,0:20:12.48,0:20:13.52,Default,Fran,0,0,0,,Për çfarë?
+Dialogue: 0,0:20:15.94,0:20:20.28,Default,Fran,0,0,0,,Zakonisht është ajo\Nqë thotë plot marrëzira,
+Dialogue: 0,0:20:20.95,0:20:25.83,Default,Fran,0,0,0,,por për fat të keq, kësaj here\Nmendoj se fjalët e saj kanë kuptim.
+Dialogue: 0,0:20:27.50,0:20:31.13,Default,Sheena,0,0,0,,Pra, jeni dakord me të, zonja Fran?
+Dialogue: 0,0:20:31.13,0:20:32.67,Default,Fran,0,0,0,,S'jam vetëm unë.
+Dialogue: 0,0:20:33.09,0:20:37.51,Default,Fran,0,0,0,,Edhe shkolla është dakord me Mimi-n.\NPrandaj e dërgojnë kaq shpesh në front.
+Dialogue: 0,0:20:38.01,0:20:39.09,Default,Sheena,0,0,0,,Por...
+Dialogue: 0,0:20:39.09,0:20:42.89,Default,Fran,0,0,0,,S'ka por. Logjika qëndron.
+Dialogue: 0,0:20:43.30,0:20:47.60,Default,Fran,0,0,0,,Dhe kështu mendon\Nedhe vetë Mimi. Apo jo?
+Dialogue: 0,0:20:48.06,0:20:50.23,Default,Sheena,0,0,0,,Pra, po më kërkoni të dorëzohem?
+Dialogue: 0,0:20:50.23,0:20:53.36,Default,Fran,0,0,0,,Po të të dukej në rregull,\Nhistoria do të mbaronte këtu.
+Dialogue: 0,0:20:53.69,0:20:55.36,Default,Fran,0,0,0,,Por s'të duket, apo jo?
+Dialogue: 0,0:20:55.36,0:20:56.28,Default,Sheena,0,0,0,,Jo.
+Dialogue: 0,0:20:56.28,0:21:00.41,Default,Fran,0,0,0,,Atëherë duhet vetëm\Ntë vazhdosh të përpiqesh ta bindësh.
+Dialogue: 0,0:21:00.86,0:21:01.61,Default,Sheena,0,0,0,,Hë?
+Dialogue: 0,0:21:02.66,0:21:07.25,Default,Fran,0,0,0,,Ti e urren gjithë këtë situatë.\NMendon se gjithçka është e gabuar.
+Dialogue: 0,0:21:07.25,0:21:12.75,Default,Fran,0,0,0,,Ndaj vazhdo t'ia bësh të kuptojë\Nse nuk mund ta durosh këtë.
+Dialogue: 0,0:21:37.36,0:21:40.49,Flashback,Laura,0,0,0,,Sa me fat je që je kaq e dobët, Sheena.
+Dialogue: 0,0:21:42.86,0:21:45.95,DefaultItalics,Sheena (M),0,0,0,,S'mund të pranoj që dobësia\Ndo të thotë të mos bëj asgjë.
+Dialogue: 0,0:21:47.24,0:21:52.79,DefaultItalics,Sheena (M),0,0,0,,S'mund të gjej më justifikime e t'u iki\Npërgjegjësive. Më ka ardhur në majë të hundës.
+Dialogue: 0,0:21:54.42,0:21:57.09,DefaultItalics,Sheena (M),0,0,0,,S'i duroj më gjërat\Nashtu siç janë.
+Dialogue: 0,0:21:58.46,0:21:59.51,Default,Mimi,0,0,0,,Natën e mirë.
+Dialogue: 0,0:22:05.01,0:22:06.60,Default,Sheena,0,0,0,,Po, natën e mirë.
+Dialogue: 0,0:22:10.52,0:22:14.44,Credits,Credits,0,0,0,,Përkthimi: Michael Arnold
+Dialogue: 0,0:22:15.19,0:22:19.11,Credits,Credits,0,0,0,,Redaktimi i titrave: Geoff Mazzolini\NSinkronizimi: Krzysztof Kunc
+Dialogue: 0,0:22:21.28,0:22:24.28,Credits,Credits,0,0,0,,Kontrolli i cilësisë: Elisabeth Crist\NKontrolli i përkthimit: Sriram Gurunathan
+

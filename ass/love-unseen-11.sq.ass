@@ -1,0 +1,353 @@
+﻿[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: DefaultTop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: DefaultOverlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: italicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashback italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashbackitalicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: overlaptop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: sign_Arial,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_TimesNewRoman,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_Verdana,Verdana,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_CourierNew,Courier New,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_ComicSansMS,Comic Sans MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:16.25,0:00:26.80,sign_TimesNewRoman,text,0,0,0,,{\an8\bord4\c&H0B121B&\shad0\3c&HF7C68C&\fad(7908,1)\t(9670,10035,\c&HE8ABCA&\blur4)}DASHURI {\blur0\alphaFF\t(1,6573,\alpha00)\b0\c&H0B121B&}E PADUKSHME NËN QIELLIN E KTHJELLËT TË NATËS
+Dialogue: 0,0:01:34.22,0:01:39.95,italics,Sorano (M),0,0,0,,Sapo i lejuan përsëri vizitat,\Nshkoja ta takoja Fuyutsuki-n çdo ditë.
+Dialogue: 0,0:01:44.21,0:01:45.32,main,Fuyutsuki,0,0,0,,Hyr.
+Dialogue: 0,0:01:46.78,0:01:47.90,main,Sorano,0,0,0,,Jam Sorano.
+Dialogue: 0,0:01:48.32,0:01:50.26,main,Fuyutsuki,0,0,0,,Faleminderit për gjithçka.
+Dialogue: 0,0:01:50.81,0:01:52.96,main,Sorano,0,0,0,,Ndihesh gati?
+Dialogue: 0,0:01:52.96,0:01:53.76,main,Fuyutsuki,0,0,0,,Po.
+Dialogue: 0,0:01:55.21,0:01:57.60,italics,Sorano (M),0,0,0,,Meqë tumori me sa dukej ishte zvogëluar,
+Dialogue: 0,0:01:57.60,0:02:01.39,italics,Sorano (M),0,0,0,,Fuyutsuki po përpiqej me ngulm\Ntë rifitonte fuqitë.
+Dialogue: 0,0:02:06.26,0:02:09.96,italics,Sorano (M),0,0,0,,Edhe kur s'flisnim, e kuptoja\Nsi ndihej nga dora e saj.
+Dialogue: 0,0:02:11.06,0:02:15.03,italics,Sorano (M),0,0,0,,Kur ishte e dobët dhe e pasigurt në këmbë,\Nma shtrëngonte fort.
+Dialogue: 0,0:02:15.36,0:02:18.60,italics,Sorano (M),0,0,0,,Kur ecte dot vetë,\Ne lironte shtrëngimin.
+Dialogue: 0,0:02:19.95,0:02:23.49,italics,Sorano (M),0,0,0,,Sa të ishte e mundur,\Nsipas gjendjes së saj,
+Dialogue: 0,0:02:23.49,0:02:25.20,italics,Sorano (M),0,0,0,,përpiqesha të ecja me të çdo ditë.
+Dialogue: 0,0:02:27.79,0:02:29.51,main,Sorano,0,0,0,,Mirë. Ja ku mbërritëm.
+Dialogue: 0,0:02:30.22,0:02:31.54,main,Sorano,0,0,0,,Do diçka për të pirë?
+Dialogue: 0,0:02:31.54,0:02:33.06,main,Fuyutsuki,0,0,0,,Mund ta blej vetë.
+Dialogue: 0,0:02:33.06,0:02:35.10,main,Sorano,0,0,0,,Sigurisht. Është\Nautomati yt personal.
+Dialogue: 0,0:02:35.10,0:02:37.47,main,Fuyutsuki,0,0,0,,Ah, mos fol kot.
+Dialogue: 0,0:02:40.72,0:02:44.48,sign_Arial,text,0,0,0,,{\an8\c&HE0DEDC&\pos(69,115)}Kthimi
+Dialogue: 0,0:02:44.48,0:02:47.23,sign_Arial,text,0,0,0,,{\an7\move(305,185,380,185,726,1477)\fs12\3c&HBF5A2F&\shad0\bord4}Me sheqer
+Dialogue: 0,0:02:44.48,0:02:47.23,sign_Arial,text,0,0,0,,{\an7\move(105,185,175,185,726,1477)\fs12\3c&HBF5A2F&\shad0\bord4}Pa sheqer
+Dialogue: 0,0:02:50.73,0:02:54.31,italics,Sorano (M),0,0,0,,E gjeti ku ishte butoni\Ni çajit me qumësht e sheqer.
+Dialogue: 0,0:02:55.45,0:02:59.46,italics,Sorano (M),0,0,0,,Me sa duket, edhe pasi humbi kujtesën,\Nshijet i mbetën njësoj.
+Dialogue: 0,0:03:06.08,0:03:06.98,main,Sorano,0,0,0,,Është i mirë?
+Dialogue: 0,0:03:08.39,0:03:11.05,main,Fuyutsuki,0,0,0,,S'ka më mirë\Nse çaji i ëmbël me qumësht.
+Dialogue: 0,0:03:12.48,0:03:13.90,main,Sorano,0,0,0,,Do të të prishen dhëmbët.
+Dialogue: 0,0:03:14.77,0:03:18.43,main,Fuyutsuki,0,0,0,,S'më është prishur\Nasnjë dhëmb në jetën time.
+Dialogue: 0,0:03:19.35,0:03:22.59,main,Sorano,0,0,0,,Kjo ndodh shpesh me njerëzit që s'kanë\Nnë gojë bakteret që shkaktojnë kariesin.
+Dialogue: 0,0:03:23.41,0:03:26.05,main,Sorano,0,0,0,,Por, me sa duket, mund t'i marrësh\Nnga puthjet e gjëra të tilla.
+Dialogue: 0,0:03:26.57,0:03:28.32,main,Fuyutsuki,0,0,0,,Është e vërtetë?
+Dialogue: 0,0:03:28.86,0:03:32.49,main,Fuyutsuki,0,0,0,,Atëherë duhet të jem shumë\Ne vendosur para se të puth dikë.
+Dialogue: 0,0:03:37.38,0:03:43.40,italics,Sorano (M),0,0,0,,Vallë, ishte shumë e vendosur\Nkur më puthi atë ditë?
+Dialogue: 0,0:03:45.91,0:03:50.26,italics,Sorano (M),0,0,0,,Por gjithsesi s'e mban mend,\Nndaj s'ka shumë kuptim ta pyes.
+Dialogue: 0,0:03:57.85,0:03:59.45,main,Fuyutsuki,0,0,0,,Sorano?
+Dialogue: 0,0:04:00.78,0:04:03.39,main,Fuyutsuki,0,0,0,,Mendova se kishe ikur diku.
+Dialogue: 0,0:04:04.47,0:04:06.65,main,Sorano,0,0,0,,Thjesht po rrija pa u ndier.
+Dialogue: 0,0:04:07.30,0:04:09.10,main,Fuyutsuki,0,0,0,,Sa i keq je.
+Dialogue: 0,0:04:11.07,0:04:14.59,italics,Sorano (M),0,0,0,,Do të doja që këto çaste të zgjatnin përgjithmonë.
+Dialogue: 0,0:04:21.15,0:04:23.05,main,Fuyutsuki,0,0,0,,S'të lodh kurrë kjo?
+Dialogue: 0,0:04:23.96,0:04:27.00,main,Fuyutsuki,0,0,0,,Unë s'shoh dhe jam gjithmonë e sëmurë.
+Dialogue: 0,0:04:27.70,0:04:32.35,main,Fuyutsuki,0,0,0,,Duhet ta kalosh kohën me njerëz\Ntë tjerë të shëndetshëm që shohin.
+Dialogue: 0,0:04:32.35,0:04:33.68,main,Sorano,0,0,0,,Ka ndonjë problem?
+Dialogue: 0,0:04:37.03,0:04:39.22,main,Fuyutsuki,0,0,0,,Tumori vërtet u zvogëlua,
+Dialogue: 0,0:04:39.69,0:04:42.44,main,Fuyutsuki,0,0,0,,por kanceri duket se\Nështë përhapur diku tjetër.
+Dialogue: 0,0:04:46.72,0:04:47.53,main,Sorano,0,0,0,,A je mi—
+Dialogue: 0,0:04:47.53,0:04:48.46,main,Fuyutsuki,0,0,0,,Po bëj shaka.
+Dialogue: 0,0:04:49.84,0:04:53.23,main,Fuyutsuki,0,0,0,,Po bëj shaka. Shaka, shaka, shaka.
+Dialogue: 0,0:04:55.09,0:04:58.19,main,Fuyutsuki,0,0,0,,E kam ndarë mendjen të luftoj\Nderi te shfaqja e fishekzjarrëve.
+Dialogue: 0,0:04:58.19,0:05:01.14,main,Fuyutsuki,0,0,0,,S'mund të trishtohem tani.\NHarroje atë që thashë.
+Dialogue: 0,0:05:01.81,0:05:03.49,main,Sorano,0,0,0,,S'ke nevojë të—
+Dialogue: 0,0:05:03.49,0:05:05.35,main,Fuyutsuki,0,0,0,,Mjeku më tha diçka.
+Dialogue: 0,0:05:06.15,0:05:09.32,main,Fuyutsuki,0,0,0,,Tha se lumturia\Ne tremb kancerin.
+Dialogue: 0,0:05:10.40,0:05:12.28,main,Fuyutsuki,0,0,0,,Prandaj duhet të vazhdoj të buzëqesh.
+Dialogue: 0,0:05:12.28,0:05:15.39,main,Fuyutsuki,0,0,0,,Kur të ndihem më mirë,\Ndo të provoj prapë të eci.
+Dialogue: 0,0:05:19.16,0:05:24.49,italics,Sorano (M),0,0,0,,Ah, sikur t'i thosha «shërohu shpejt»,\Nse gjithçka është në rregull.
+Dialogue: 0,0:05:27.96,0:05:32.06,main,Fuyutsuki,0,0,0,,Në tetor do të transferohem\Nnë një spital në Hokkaido.
+Dialogue: 0,0:05:32.06,0:05:32.84,main,Sorano,0,0,0,,Çfarë?
+Dialogue: 0,0:05:34.38,0:05:37.46,main,Fuyutsuki,0,0,0,,Në fakt, ende po diskutojmë\Nnëse do të shkojmë apo jo,
+Dialogue: 0,0:05:37.46,0:05:42.71,main,Fuyutsuki,0,0,0,,por një spital partner në Hokkaido\Nka një pajisje për terapi me protone.
+Dialogue: 0,0:05:43.84,0:05:46.23,main,Fuyutsuki,0,0,0,,Ndaj më kanë kërkuar të shkoj.
+Dialogue: 0,0:05:47.66,0:05:48.91,main,Fuyutsuki,0,0,0,,Por vetëm nëse...
+Dialogue: 0,0:05:54.59,0:06:01.55,main,Fuyutsuki,0,0,0,,Vetëm nëse ilaçet arrijnë\Nta zvogëlojnë tumorin deri atëherë.
+Dialogue: 0,0:06:01.90,0:06:03.20,main,Sorano,0,0,0,,Do të ndihmoj si të mundem.
+Dialogue: 0,0:06:06.25,0:06:09.53,main,Fuyutsuki,0,0,0,,Vetëm të lutem, mos më ndiq\Nderi në Hokkaido.
+Dialogue: 0,0:06:12.41,0:06:15.13,main,Sorano,0,0,0,,E caktuam ditën e fishekzjarrëve.
+Dialogue: 0,0:06:16.32,0:06:17.44,main,Fuyutsuki,0,0,0,,Kur është?
+Dialogue: 0,0:06:17.89,0:06:20.18,main,Sorano,0,0,0,,Të shtunën e katërt të shtatorit.
+Dialogue: 0,0:06:20.73,0:06:25.30,main,Sorano,0,0,0,,Të qëndrojmë të fortë deri atëherë.\NJepi një shkelm atij kanceri.
+Dialogue: 0,0:06:28.34,0:06:29.40,main,Fuyutsuki,0,0,0,,Do të përpiqem.
+Dialogue: 0,0:06:32.23,0:06:33.88,main,Fuyutsuki,0,0,0,,Doja të të kërkoja një nder.
+Dialogue: 0,0:06:33.88,0:06:34.73,main,Sorano,0,0,0,,Do ta bëj.
+Dialogue: 0,0:06:34.73,0:06:35.67,main,Fuyutsuki,0,0,0,,Hë?
+Dialogue: 0,0:06:37.80,0:06:41.04,main,Fuyutsuki,0,0,0,,S'do ta dish më parë çfarë është?
+Dialogue: 0,0:06:41.87,0:06:45.08,main,Sorano,0,0,0,,Është diçka që e bëj dot, apo jo?\NDo të bëj çfarë të më kërkosh.
+Dialogue: 0,0:06:53.83,0:06:55.89,main,Fuyutsuki,0,0,0,,Dua të më lexosh një libër.
+Dialogue: 0,0:06:56.44,0:06:58.20,main,Sorano,0,0,0,,S'di të lexoj brail.
+Dialogue: 0,0:06:58.20,0:06:59.87,main,Fuyutsuki,0,0,0,,Atëherë është koha ta mësosh.
+Dialogue: 0,0:06:59.87,0:07:01.15,main,Sorano,0,0,0,,Mos fol marrëzira.
+Dialogue: 0,0:07:05.69,0:07:08.75,main,Sorano,0,0,0,,{\i1}Ditari i Ana Frankut{\i0}, apo jo?\NDo ta gjej një kopje.
+Dialogue: 0,0:07:10.57,0:07:12.23,main,Fuyutsuki,0,0,0,,Të falënderoj shumë.
+Dialogue: 0,0:07:15.38,0:07:20.27,italics,Sorano (M),0,0,0,,Pas kësaj, t'i lexoja Fuyutsuki-t\Nu bë pjesë e përditshmërisë.
+Dialogue: 0,0:07:34.41,0:07:37.02,main,Sorano,0,0,0,,Edhe sot bën vapë e tmerrshme.
+Dialogue: 0,0:07:37.42,0:07:40.98,main,Fuyutsuki,0,0,0,,Sorano, zëri yt\Nduket pak i ngjirur.
+Dialogue: 0,0:07:40.98,0:07:42.40,main,Fuyutsuki,0,0,0,,Mos je ftohur në mes të verës?
+Dialogue: 0,0:07:44.06,0:07:46.59,main,Sorano,0,0,0,,Jo, ngaqë më bën\Ntë lexoj kaq shumë çdo ditë.
+Dialogue: 0,0:07:53.02,0:07:55.50,main,Sorano,0,0,0,,Je mirë. Je mirë.
+Dialogue: 0,0:07:56.12,0:07:57.75,sign_Arial,text,0,0,0,,{\pos(207,90)\c&HC8D4D5&\3c&H607C53&\shad0\bord4\fsp1.5}Kujdesi Intensiv
+Dialogue: 0,0:07:59.29,0:08:03.88,italics,Sorano (M),0,0,0,,Fuyutsuki i kaloi dy javët pasuese\Nnë repartin e kujdesit intensiv.
+Dialogue: 0,0:08:04.25,0:08:07.60,italics,Sorano (M),0,0,0,,Kur doli,\Nkishte ardhur tashmë shtatori.
+Dialogue: 0,0:08:12.47,0:08:14.02,main,Sorano,0,0,0,,Sa shumë lejlekë prej letre.
+Dialogue: 0,0:08:14.73,0:08:17.32,main,Fuyutsuki,0,0,0,,Mami m'i vari aty.
+Dialogue: 0,0:08:17.32,0:08:19.90,main,Fuyutsuki,0,0,0,,Tha se i solli Narumi.
+Dialogue: 0,0:08:19.90,0:08:22.71,main,Sorano,0,0,0,,I paloste vazhdimisht\Nkur ishte në anije.
+Dialogue: 0,0:08:22.71,0:08:24.51,main,Fuyutsuki,0,0,0,,Vërtet?
+Dialogue: 0,0:08:24.51,0:08:27.01,main,Sorano,0,0,0,,Mori për ndihmë edhe ca djem\Nnga dega e tij.
+Dialogue: 0,0:08:28.47,0:08:32.50,italics,Sorano (M),0,0,0,,Në fakt, Fuyutsuki ishte\Ndisi e famshme në universitet.
+Dialogue: 0,0:08:33.69,0:08:36.50,italics,Sorano (M),0,0,0,,Njerëzit flisnin për një vajzë të bukur\Nqë e kishin parë duke kërcyer rrugës,
+Dialogue: 0,0:08:36.50,0:08:38.84,italics,Sorano (M),0,0,0,,ose e quanin engjëlli në tarracë.
+Dialogue: 0,0:08:40.53,0:08:45.26,italics,Sorano (M),0,0,0,,Kur adhuruesit dëgjuan se ishte në spital,\Ni dërguan të gjithë urime shërimi.
+Dialogue: 0,0:08:46.54,0:08:48.67,main,Fuyutsuki,0,0,0,,Më e rëndësishmja, Sorano...
+Dialogue: 0,0:08:48.67,0:08:49.37,main,Sorano,0,0,0,,Çfarë?
+Dialogue: 0,0:08:49.82,0:08:51.91,main,Fuyutsuki,0,0,0,,Si dole në provime?
+Dialogue: 0,0:08:52.77,0:08:56.09,main,Sorano,0,0,0,,Po, i kalova disi.
+Dialogue: 0,0:08:56.09,0:08:57.56,main,Fuyutsuki,0,0,0,,Hë?
+Dialogue: 0,0:08:58.87,0:09:04.11,italics,Sorano (M),0,0,0,,Kaq i thashë, por në të vërtetë\Nmbeta në ca lëndë me zgjedhje.
+Dialogue: 0,0:09:05.27,0:09:08.21,italics,Sorano (M),0,0,0,,Por s'ka gjë. Kreditet\Ndo t'i plotësoj disi.
+Dialogue: 0,0:09:09.67,0:09:13.78,italics,Sorano (M),0,0,0,,Tani më shqetëson\Nmë shumë Fuyutsuki.
+Dialogue: 0,0:09:11.15,0:09:14.78,sign_Arial,text,0,0,0,,{\fad(1985,1)\shad0\blur2\fs16\an8\3c&H8AAC9F&}Shfaq{\blur2\3c&H70C4D1&}ja e parë\N{\3c&HCFB7A2&}për {\3c&H70C4D1&}fëmijë\N{\3c&H492A9A&}me {\3c&H975C52&}fi{\3c&HCFB7A2&}shek{\3c&H70C4D1&}zja{\3c&H5E8453&}rrë
+Dialogue: 0,0:09:14.78,0:09:16.99,sign_Arial,text,0,0,0,,{\blur2\shad0\an8\pos(120,30)\fs23\3c&H8AAC9F&}Shfaq{\blur2\3c&H70C4D1&}ja e parë\N{\3c&HCFB7A2&}për {\3c&H70C4D1&}fëmijë\N{\3c&H492A9A&}me {\3c&H975C52&}fi{\3c&HCFB7A2&}shek{\3c&H70C4D1&}zja{\3c&H5E8453&}rrë
+Dialogue: 0,0:09:21.94,0:09:23.39,main,Sorano,0,0,0,,Mirëdita.
+Dialogue: 0,0:09:23.39,0:09:26.84,main,Fuyutsuki's Mom,0,0,0,,Sorano, faleminderit që erdhe sot.
+Dialogue: 0,0:09:26.84,0:09:28.76,main,Sorano,0,0,0,,Me kënaqësi.
+Dialogue: 0,0:09:28.76,0:09:32.01,sign_Arial,text,0,0,0,,{\an1\pos(206,212)\bord0\shad0\frz-3.48\fs35\fsp1.4\fax-0.03}Qendra Mjekësore Seirokai
+Dialogue: 0,0:09:29.19,0:09:31.44,main,Fuyutsuki's Mom,0,0,0,,Arritëm të merrnim hua edhe një karrocë.
+Dialogue: 0,0:09:33.58,0:09:34.64,main,Sorano,0,0,0,,Sa mirë.
+Dialogue: 0,0:09:35.33,0:09:39.36,main,Fuyutsuki's Mom,0,0,0,,Sorano, a mund ta çosh\NKoharu-n për një shëtitje në kopsht?
+Dialogue: 0,0:09:39.36,0:09:40.49,main,Fuyutsuki,0,0,0,,Mami!
+Dialogue: 0,0:09:40.49,0:09:43.28,main,Fuyutsuki's Mom,0,0,0,,Pse jo? Shkoni e shijoni një takim të bukur.
+Dialogue: 0,0:09:43.28,0:09:45.45,main,Fuyutsuki,0,0,0,,Por ne s'jemi aspak ashtu!
+Dialogue: 0,0:09:46.96,0:09:49.37,main,Sorano,0,0,0,,S'ke pse të kundërshtosh {\i1}kaq{\i0} shumë.
+Dialogue: 0,0:09:51.31,0:09:53.55,main,Fuyutsuki,0,0,0,,Atëherë, a mund të më shtysh?
+Dialogue: 0,0:09:54.43,0:09:55.35,main,Sorano,0,0,0,,Patjetër.
+Dialogue: 0,0:10:05.44,0:10:08.89,italics,Sorano (M),0,0,0,,U trondita nga\Nsa më e lehtë më dukej.
+Dialogue: 0,0:10:10.80,0:10:13.96,italics,Sorano (M),0,0,0,,Por po t'ia thosha,\Nmund të ligështohej,
+Dialogue: 0,0:10:13.96,0:10:15.76,italics,Sorano (M),0,0,0,,dhe ajo është përpjekur kaq shumë.
+Dialogue: 0,0:10:17.51,0:10:20.12,italics,Sorano (M),0,0,0,,Duhet të mundohem të sillem normalisht.
+Dialogue: 0,0:10:22.39,0:10:24.39,main,Sorano,0,0,0,,Të ndalemi tek automati?
+Dialogue: 0,0:10:24.39,0:10:26.88,main,Fuyutsuki,0,0,0,,Do të doja çaj me qumësht, por...
+Dialogue: 0,0:10:28.41,0:10:30.57,main,Sorano,0,0,0,,Po s'e pive dot të gjithin,\Nta mbaroj unë.
+Dialogue: 0,0:10:31.84,0:10:34.48,main,Fuyutsuki,0,0,0,,S'ke pse të më llastosh kaq shumë.
+Dialogue: 0,0:10:35.29,0:10:37.96,main,Sorano,0,0,0,,Të të llastoj? Si domethënë?
+Dialogue: 0,0:10:40.55,0:10:42.32,main,Fuyutsuki,0,0,0,,Lëre fare.
+Dialogue: 0,0:10:44.08,0:10:45.76,main,Sorano,0,0,0,,Mirë. Ja ku e ke.
+Dialogue: 0,0:10:46.82,0:10:48.42,main,Fuyutsuki,0,0,0,,Faleminderit.
+Dialogue: 0,0:10:53.56,0:10:55.66,main,Sorano,0,0,0,,Dukesh e lumtur sot.
+Dialogue: 0,0:10:57.89,0:11:01.52,main,Fuyutsuki,0,0,0,,Po, dhashë gjithçka\Ndhe ia dola disi deri këtu.
+Dialogue: 0,0:11:02.07,0:11:04.15,main,Sorano,0,0,0,,Por ende s'jemi në vijën e finishit.
+Dialogue: 0,0:11:04.15,0:11:05.03,main,Fuyutsuki,0,0,0,,Nuk jemi?
+Dialogue: 0,0:11:05.68,0:11:09.90,main,Fuyutsuki,0,0,0,,S'kishim vendosur që synimi\Nishte shfaqja e sotme e fishekzjarrëve?
+Dialogue: 0,0:11:09.90,0:11:12.19,main,Sorano,0,0,0,,Jo, kjo është vetëm një ndalesë.
+Dialogue: 0,0:11:13.75,0:11:15.37,main,Fuyutsuki,0,0,0,,Po kjo s'është e drejtë.
+Dialogue: 0,0:11:16.63,0:11:18.75,main,Sorano,0,0,0,,Ende duhet të shkosh në spitalin e ri\Ndhe të shërohesh, apo jo?
+Dialogue: 0,0:11:21.95,0:11:22.87,main,Fuyutsuki,0,0,0,,Dorën.
+Dialogue: 0,0:11:24.35,0:11:26.51,main,Fuyutsuki,0,0,0,,A mund të ma mbash dorën, të lutem?
+Dialogue: 0,0:11:34.40,0:11:36.14,main,Fuyutsuki,0,0,0,,Uau, sa më ngroh!
+Dialogue: 0,0:11:36.64,0:11:39.57,main,Sorano,0,0,0,,E thua sikur dora ime\Ntë ishte pije e ngrohtë!
+Dialogue: 0,0:11:40.90,0:11:42.55,main,Fuyutsuki,0,0,0,,Pije e ngrohtë?
+Dialogue: 0,0:11:42.55,0:11:46.43,main,Fuyutsuki,0,0,0,,Të lutem, mos më bëj të qesh.\NMë dhemb shumë!
+Dialogue: 0,0:11:47.02,0:11:48.41,main,Sorano,0,0,0,,Më fal, më fal.
+Dialogue: 0,0:11:49.64,0:11:53.18,main,Fuyutsuki,0,0,0,,Të jam mirënjohëse, Sorano.
+Dialogue: 0,0:11:54.47,0:11:58.77,main,Fuyutsuki,0,0,0,,Më bëre të kuptoj se s'dua\Nta lë këtë sëmundje të më mposhtë.
+Dialogue: 0,0:12:00.85,0:12:05.83,italics,Sorano (M),0,0,0,,Ah, sikur kjo sëmundje e ligë ta linte rehat.\NFuyutsuki ka luftuar kaq fort.
+Dialogue: 0,0:12:05.83,0:12:09.24,italics,Sorano (M),0,0,0,,E meriton. Meriton\Ntë shpërblehet me një të ardhme.
+Dialogue: 0,0:12:11.66,0:12:14.61,main,Sorano,0,0,0,,Duhet të kthehem në universitet\Npër përgatitjet e fishekzjarrëve.
+Dialogue: 0,0:12:15.05,0:12:17.26,main,Sorano,0,0,0,,Do të kthehem të të marr më vonë.
+Dialogue: 0,0:12:17.26,0:12:18.48,main,Fuyutsuki,0,0,0,,Në rregull.
+Dialogue: 0,0:12:21.80,0:12:24.06,sign_ComicSansMS,text,0,0,0,,{\c&H324C5A&\fs12\bord4\shad0\fax0.07)\3c&H859299&\an8\pos(385,16)}Klubi i Studimit të Fishekzjarrëve
+Dialogue: 0,0:12:24.81,0:12:26.70,main,Hayase,0,0,0,,Si po shkojnë gjërat?
+Dialogue: 0,0:12:26.70,0:12:27.95,main,Kotomugi,0,0,0,,Gjithçka është në rregull.
+Dialogue: 0,0:12:32.12,0:12:33.98,main,Narumi,0,0,0,,Si ishte Fuyutsuki?
+Dialogue: 0,0:12:33.98,0:12:35.35,main,Sorano,0,0,0,,Dukej mirë.
+Dialogue: 0,0:12:36.21,0:12:39.17,main,Narumi,0,0,0,,Mori leje të dalë sot?
+Dialogue: 0,0:12:39.17,0:12:40.80,main,Sorano,0,0,0,,Po flasin me mjekun e saj.
+Dialogue: 0,0:12:41.47,0:12:43.35,main,Sorano,0,0,0,,Por duket premtuese.
+Dialogue: 0,0:12:44.39,0:12:45.57,main,Narumi,0,0,0,,Sa mirë.
+Dialogue: 0,0:12:48.37,0:12:50.00,main,Sorano,0,0,0,,Po marr edhe unë diçka për të pirë.
+Dialogue: 0,0:12:53.66,0:12:54.99,main,Narumi,0,0,0,,Pas kësaj,
+Dialogue: 0,0:12:54.99,0:13:00.01,main,Narumi,0,0,0,,duhet të flas me prindërit e fëmijëve\Nnë spital dhe t'u tregoj rrugën.
+Dialogue: 0,0:13:00.50,0:13:03.33,main,Sorano,0,0,0,,Sa prej tyre mund të vijnë?
+Dialogue: 0,0:13:03.33,0:13:08.73,main,Narumi,0,0,0,,Po, vetëm afërsisht gjysma\Nmorën leje për të dalë.
+Dialogue: 0,0:13:09.38,0:13:12.13,main,Sorano,0,0,0,,Më vjen keq për ata që s'mund ta shohin.
+Dialogue: 0,0:13:12.13,0:13:15.07,main,Narumi,0,0,0,,Kam menduar tashmë një zgjidhje për këtë.
+Dialogue: 0,0:13:15.93,0:13:17.57,main,Sorano,0,0,0,,Shpresoj të shkojë gjithçka mirë.
+Dialogue: 0,0:13:18.43,0:13:22.01,main,Narumi,0,0,0,,Do të ishte bukur po ta ndihmonte\NFuyutsuki-n të kujtonte diçka.
+Dialogue: 0,0:13:22.01,0:13:25.52,main,Sorano,0,0,0,,Po, eh... Kjo s'ka shumë rëndësi.
+Dialogue: 0,0:13:32.59,0:13:35.63,main,Narumi,0,0,0,,Këtu keni gjithë informacionin\Npër vendin e shfaqjes së fishekzjarrëve.
+Dialogue: 0,0:13:36.51,0:13:41.72,main,Narumi,0,0,0,,Për ata që vijnë me taksi, këtu është\Nnjë vend i përshtatshëm për të zbritur.
+Dialogue: 0,0:13:41.72,0:13:44.21,main,Narumi,0,0,0,,Ju lutemi, kontrolloni hartën para nisjes.
+Dialogue: 0,0:13:47.60,0:13:50.68,main,Doctor,0,0,0,,Fuyutsuki, më dëgjon?\NA mund të ma kapësh dorën?
+Dialogue: 0,0:13:50.68,0:13:53.93,top,Doctor,0,0,0,,Fuyutsuki, më dëgjon?\NFuyutsuki?
+Dialogue: 0,0:13:53.93,0:13:55.56,italics,Sorano (M),0,0,0,,Më pushtoi një parandjenjë e tmerrshme.
+Dialogue: 0,0:13:54.40,0:13:55.56,top,Doctor,0,0,0,,Është pa ndjenja.
+Dialogue: 0,0:13:55.94,0:13:57.44,top,Nurse,0,0,0,,Po përgatis aspirimin.
+Dialogue: 0,0:13:56.81,0:13:58.19,italics,Sorano (M),0,0,0,,Më pushtoi një parandjenjë e tmerrshme.
+Dialogue: 0,0:13:57.63,0:13:58.79,top,Doctor,0,0,0,,Po të hap gojën.
+Dialogue: 0,0:13:58.79,0:14:01.02,main,Doctor,0,0,0,,Fuyutsuki, tani\Ndo të bëjmë aspirimin.
+Dialogue: 0,0:14:01.02,0:14:02.57,main,Nurse,0,0,0,,Aspiratori është gati.
+Dialogue: 0,0:14:02.57,0:14:04.32,main,Doctor,0,0,0,,Fuyutsuki, po aspirojmë tani.
+Dialogue: 0,0:14:04.78,0:14:06.20,main,Sorano,0,0,0,,Fuyutsuki!
+Dialogue: 0,0:14:06.20,0:14:08.81,main,Nurse,0,0,0,,Hej, dil jashtë! S'mund të rrish këtu!
+Dialogue: 0,0:14:12.78,0:14:13.68,main,Sorano,0,0,0,,Jo.
+Dialogue: 0,0:14:14.35,0:14:17.45,main,Sorano,0,0,0,,Jo. Jo. Jo.
+Dialogue: 0,0:14:17.90,0:14:18.89,main,Sorano,0,0,0,,Duhet...
+Dialogue: 0,0:14:20.30,0:14:22.91,main,Sorano,0,0,0,,të njoftoj Narumi-n dhe Hayase-n.
+Dialogue: 0,0:14:39.80,0:14:42.51,main,Sorano,0,0,0,,Është mirë Fuyutsuki?
+Dialogue: 0,0:14:43.03,0:14:46.37,main,Fuyutsuki's Mom,0,0,0,,Më fal që të trembëm, Sorano.
+Dialogue: 0,0:14:47.09,0:14:49.23,main,Fuyutsuki's Mom,0,0,0,,Thjesht volli pak gjak.
+Dialogue: 0,0:14:50.01,0:14:55.72,main,Fuyutsuki's Mom,0,0,0,,I hyri në mushkëri dhe s'merrte dot frymë,\Nkaq. Por tani është mirë.
+Dialogue: 0,0:14:56.23,0:14:57.42,italics,Sorano (M),0,0,0,,Volli gjak?
+Dialogue: 0,0:14:58.62,0:15:00.28,main,Fuyutsuki's Mom,0,0,0,,Kam një nder për të të kërkuar.
+Dialogue: 0,0:15:01.70,0:15:02.80,main,Sorano,0,0,0,,Çfarë është?
+Dialogue: 0,0:15:03.63,0:15:04.72,main,Fuyutsuki's Mom,0,0,0,,Jam pak...
+Dialogue: 0,0:15:06.55,0:15:08.18,main,Fuyutsuki's Mom,0,0,0,,e rraskapitur.
+Dialogue: 0,0:15:09.99,0:15:12.36,main,Fuyutsuki's Mom,0,0,0,,Mund të rrish pak me të?
+Dialogue: 0,0:15:12.86,0:15:15.96,main,Sorano,0,0,0,,Patjetër. Ju lutem, pushoni pak.
+Dialogue: 0,0:15:26.73,0:15:27.74,italics,Sorano (M),0,0,0,,Është gjallë...
+Dialogue: 0,0:15:28.72,0:15:30.72,italics,Sorano (M),0,0,0,,dhe s'e besoj sa shumë u lehtësova.
+Dialogue: 0,0:15:31.87,0:15:34.80,italics,Sorano (M),0,0,0,,Si arrita pikërisht unë\Nt'i përkushtohem një dashurie kaq të vështirë?
+Dialogue: 0,0:15:36.43,0:15:40.26,italics,Sorano (M),0,0,0,,Vazhdimisht jam në prag\Ntë dorëzimit, por duroj...
+Dialogue: 0,0:15:40.71,0:15:45.56,italics,Sorano (M),0,0,0,,dhe pastaj i shoh buzëqeshjen\Ne më rrëmben nga e para.
+Dialogue: 0,0:15:50.60,0:15:53.22,sign_Arial,text,0,0,0,,{\an9\c&H343435&\3c&HFFFFFF&\bord4\shad0}Sa mirë
+Dialogue: 0,0:15:52.10,0:15:53.22,sign_Arial,text,0,0,0,,{\an9\c&H343435&\3c&HFFFFFF&\bord4\shad0}Po, nëse zgjohet
+Dialogue: 0,0:16:07.02,0:16:08.45,main,Fuyutsuki,0,0,0,,Sorano?
+Dialogue: 0,0:16:09.95,0:16:11.77,main,Fuyutsuki,0,0,0,,E ndjeva se ishe aty.
+Dialogue: 0,0:16:14.11,0:16:16.13,main,Sorano,0,0,0,,Tani ma ndien praninë?
+Dialogue: 0,0:16:16.67,0:16:19.21,main,Fuyutsuki,0,0,0,,Po, kemi kaluar\Nshumë kohë bashkë.
+Dialogue: 0,0:16:20.91,0:16:22.99,main,Fuyutsuki,0,0,0,,Sa është ora?
+Dialogue: 0,0:16:22.99,0:16:25.29,main,Sorano,0,0,0,,Gjashtë pa dhjetë.
+Dialogue: 0,0:16:25.29,0:16:28.11,main,Fuyutsuki,0,0,0,,Duket se s'do t'ia dal\Nt'i shoh fishekzjarrët.
+Dialogue: 0,0:16:28.11,0:16:30.35,main,Sorano,0,0,0,,Sot s'ka dalje jashtë.
+Dialogue: 0,0:16:30.35,0:16:32.14,main,Fuyutsuki,0,0,0,,Ah, moj e mira.
+Dialogue: 0,0:16:39.32,0:16:41.65,main,Fuyutsuki,0,0,0,,Dhe luftova kaq fort.
+Dialogue: 0,0:16:46.03,0:16:48.45,main,Fuyutsuki,0,0,0,,Thjesht s'qenka dita ime me fat.
+Dialogue: 0,0:16:51.60,0:16:52.99,main,Sorano,0,0,0,,S'ka gjë.
+Dialogue: 0,0:16:52.99,0:16:55.08,main,Fuyutsuki,0,0,0,,Si mund të thuash se s'ka gjë?
+Dialogue: 0,0:16:55.72,0:16:58.20,main,Fuyutsuki,0,0,0,,Tani s'do të mund të shkoj!
+Dialogue: 0,0:17:00.18,0:17:02.22,main,Fuyutsuki,0,0,0,,Pas gjithë asaj përpjekjeje...
+Dialogue: 0,0:17:03.53,0:17:07.33,main,Fuyutsuki,0,0,0,,pasi luftova për të mbetur gjallë.
+Dialogue: 0,0:17:09.01,0:17:11.58,main,Sorano,0,0,0,,Është në rregull. Ende do t'ia dalësh.
+Dialogue: 0,0:17:14.70,0:17:16.79,main,Fuyutsuki,0,0,0,,Ç'do të thuash me këtë?
+Dialogue: 0,0:17:22.56,0:17:25.24,main,Sorano,0,0,0,,Ndonëse mbase s'do të jetë\Naq mbresëlënëse.
+Dialogue: 0,0:17:27.82,0:17:31.57,sign_Arial,text,0,0,0,,{\an8\fs8\pos(608,68)}Ndaj ekranin
+Dialogue: 0,0:17:27.82,0:17:31.57,sign_Arial,text,0,0,0,,{\an8\fs8\pos(610,129)}Efektet
+Dialogue: 0,0:17:27.82,0:17:31.57,sign_Arial,text,0,0,0,,{\an8\fs8\pos(608,271)}Fik kamerën
+Dialogue: 0,0:17:27.82,0:17:31.57,sign_Arial,text,0,0,0,,{\an8\fs8\pos(610,332)}Fik mikrofonin
+Dialogue: 0,0:17:29.03,0:17:31.19,main,Hayase,0,0,0,,Koharu, je mirë?
+Dialogue: 0,0:17:31.94,0:17:32.84,main,Fuyutsuki,0,0,0,,Ah.
+Dialogue: 0,0:17:33.48,0:17:37.51,main,Sorano,0,0,0,,Videotelefonatë. T'i shohim\Nme këtë, bashkë.
+Dialogue: 0,0:17:39.31,0:17:40.84,main,Narumi,0,0,0,,Edhe unë jam këtu!
+Dialogue: 0,0:17:41.62,0:17:45.12,main,Narumi,0,0,0,,Do t'i shfaq fishekzjarrët\Nnë ekranin e madh të dhomës së fëmijëve,
+Dialogue: 0,0:17:45.12,0:17:47.14,main,Narumi,0,0,0,,me fëmijët që s'mund të dalin.
+Dialogue: 0,0:17:47.14,0:17:50.05,main,Kids,0,0,0,,Shpresojmë të jeni mirë, zonjusha Piano!
+Dialogue: 0,0:17:50.05,0:17:51.69,main,Fuyutsuki,0,0,0,,Ju falënderoj shumë.
+Dialogue: 0,0:17:55.35,0:18:00.43,sign_Arial,text,0,0,0,,{\an8\fs8\pos(608,68)}Ndaj ekranin
+Dialogue: 0,0:17:55.35,0:18:00.43,sign_Arial,text,0,0,0,,{\an8\fs8\pos(610,129)}Efektet
+Dialogue: 0,0:17:55.35,0:18:00.43,sign_Arial,text,0,0,0,,{\an8\fs8\pos(608,271)}Fik kamerën
+Dialogue: 0,0:17:55.35,0:18:00.43,sign_Arial,text,0,0,0,,{\an8\fs8\pos(610,332)}Fik mikrofonin
+Dialogue: 0,0:17:55.83,0:17:57.60,main,Hayase,0,0,0,,Është thuajse koha të fillojmë.
+Dialogue: 0,0:18:00.75,0:18:02.94,main,All,0,0,0,,Pesë, katër,
+Dialogue: 0,0:18:02.94,0:18:04.94,main,All,0,0,0,,tre, dy,
+Dialogue: 0,0:18:04.94,0:18:05.94,main,All,0,0,0,,një!
+Dialogue: 0,0:18:05.94,0:18:08.07,main,Fireworks Guys,0,0,0,,Lëshojini!
+Dialogue: 0,0:18:12.55,0:18:14.20,main,All,0,0,0,,Uau!
+Dialogue: 0,0:18:20.07,0:18:21.48,main,Fuyutsuki,0,0,0,,Sorano.
+Dialogue: 0,0:18:21.48,0:18:22.17,main,Sorano,0,0,0,,Hëm?
+Dialogue: 0,0:18:22.87,0:18:26.25,main,Fuyutsuki,0,0,0,,Mund të ma përshkruash\Nsi duken fishekzjarrët?
+Dialogue: 0,0:18:29.64,0:18:32.69,main,Sorano,0,0,0,,Sapo shpërtheu një i madh, i verdhë.
+Dialogue: 0,0:18:33.67,0:18:37.29,main,Sorano,0,0,0,,U hap në një rreth gjigant,\Npastaj u zbeh duke lënë një gjurmë drite.
+Dialogue: 0,0:18:38.08,0:18:39.05,main,Fuyutsuki,0,0,0,,Mirë.
+Dialogue: 0,0:18:40.52,0:18:42.62,main,Sorano,0,0,0,,S'di mirë si t'i përshkruaj këta.
+Dialogue: 0,0:18:43.12,0:18:47.37,main,Sorano,0,0,0,,Shpërthejnë duke lënë gjurmë drite\Nsi degët e varura të një qershie.
+Dialogue: 0,0:18:48.59,0:18:50.29,main,Fuyutsuki,0,0,0,,Është bukur?
+Dialogue: 0,0:18:50.29,0:18:51.80,main,Sorano,0,0,0,,Shumë, shumë bukur.
+Dialogue: 0,0:18:53.28,0:18:54.88,main,Fuyutsuki,0,0,0,,Sa e lumtur jam!
+Dialogue: 0,0:18:56.25,0:19:00.37,main,Fuyutsuki,0,0,0,,Sa e lumtur jam që munda t'i shihja\Nfishekzjarrët me të gjithë!
+Dialogue: 0,0:19:01.81,0:19:06.21,main,Hayase,0,0,0,,Përdorëm vizatimet e fëmijëve\Npër të krijuar fishekzjarrët e tyre.
+Dialogue: 0,0:19:06.71,0:19:10.86,main,Hayase,0,0,0,,Këta quhen fishekzjarrë me figura.\NKur baruti vendoset në formën e një vizatimi,
+Dialogue: 0,0:19:10.86,0:19:13.29,main,Hayase,0,0,0,,ai pikturon një figurë në qiellin e natës.
+Dialogue: 0,0:19:13.93,0:19:18.35,main,Hayase,0,0,0,,Ndaj sonte, shijoni ëndrrat dhe dëshirat\Ne fëmijëve që po i ngremë në qiell.
+Dialogue: 0,0:19:20.02,0:19:25.16,main,Hayase,0,0,0,,I pari është nga Hiroto, i cili thotë\Nse e do shumë buzëqeshjen e nënës së tij.
+Dialogue: 0,0:19:27.59,0:19:29.31,main,Kids,0,0,0,,Uau!
+Dialogue: 0,0:19:30.68,0:19:32.10,main,Fuyutsuki,0,0,0,,Duket se po kënaqen.
+Dialogue: 0,0:19:32.87,0:19:34.56,main,Sorano,0,0,0,,Po ty ç'të pëlqen te fishekzjarrët?
+Dialogue: 0,0:19:35.23,0:19:37.37,main,Fuyutsuki,0,0,0,,Besoj se na japin\Ndiçka drejt së cilës të synojmë.
+Dialogue: 0,0:19:38.69,0:19:42.74,main,Fuyutsuki,0,0,0,,Besoj se fishekzjarrët mund\Ntë lënë një gjurmë të pashlyeshme tek ty.
+Dialogue: 0,0:19:43.43,0:19:47.71,main,Fuyutsuki,0,0,0,,Një herë kur isha e vogël dhe e sëmurë,\Nndihesha e dëshpëruar,
+Dialogue: 0,0:19:48.33,0:19:52.34,main,Fuyutsuki,0,0,0,,ndaj vendosëm të shkonim si familje\Nnë një shfaqje fishekzjarrësh.
+Dialogue: 0,0:19:59.22,0:20:04.03,main,Fuyutsuki,0,0,0,,Kur u ktheva të shihja,\Ni pashë të gjithë me sytë nga qielli.
+Dialogue: 0,0:20:04.82,0:20:07.19,main,Fuyutsuki,0,0,0,,M'u duk vërtet frymëzuese.
+Dialogue: 0,0:20:08.88,0:20:13.48,main,Fuyutsuki,0,0,0,,Ndaj, edhe kur jam e mërzitur,\Nkur kujtoj si ndihem duke parë lart,
+Dialogue: 0,0:20:13.48,0:20:15.34,main,Fuyutsuki,0,0,0,,marr forcë për të vazhduar.
+Dialogue: 0,0:20:16.78,0:20:20.32,italics,Sorano (M),0,0,0,,S'di si ta përshkruaj këtë ndjenjë.
+Dialogue: 0,0:20:21.54,0:20:27.12,main,Fuyutsuki,0,0,0,,Do të doja të jetoja një jetë\Nqë t'i frymëzonte kaq shumë njerëzit.
+Dialogue: 0,0:20:30.51,0:20:33.59,main,Sorano,0,0,0,,Ti e ke lënë tashmë\Ngjurmën tënde tek unë, Fuyutsuki.
+Dialogue: 0,0:20:37.12,0:20:38.95,main,Fuyutsuki,0,0,0,,E ke seriozisht?
+Dialogue: 0,0:20:38.95,0:20:40.68,main,Narumi,0,0,0,,Hej, edhe tek unë ke lënë gjurmë!
+Dialogue: 0,0:20:41.16,0:20:43.85,main,Sorano,0,0,0,,Po na dëgjoje\Ngjithë këtë kohë, Narumi?
+Dialogue: 0,0:20:44.13,0:20:48.24,main,Hayase,0,0,0,,Edhe unë ju dëgjoj!\NPo kënaqesh, Koharu?
+Dialogue: 0,0:20:48.86,0:20:50.75,main,Fuyutsuki,0,0,0,,Po, shumë!
+Dialogue: 0,0:20:50.75,0:20:53.49,main,Hayase,0,0,0,,Mirë, i radhës do të jetë fishekzjarri yt.
+Dialogue: 0,0:20:53.49,0:20:57.96,main,Fuyutsuki,0,0,0,,Hë? Imi? Duhet ta shoh\Nulur pranë Sorano-s?
+Dialogue: 0,0:20:58.75,0:21:02.50,main,Hayase,0,0,0,,Ajo është përballur me sëmundjen\Nherë pas here,
+Dialogue: 0,0:21:02.50,0:21:05.45,main,Hayase,0,0,0,,ndaj ky u kushtohet atyre\Nqë i kanë qëndruar pranë.
+Dialogue: 0,0:21:06.60,0:21:10.08,main,Fuyutsuki,0,0,0,,Sa turp më vjen!\NSorano, të lutem, mos shiko!
+Dialogue: 0,0:21:18.23,0:21:19.59,main,Sorano,0,0,0,,Ishte një zemër.
+Dialogue: 0,0:21:19.59,0:21:24.38,main,Fuyutsuki,0,0,0,,S'ke pse të ma thuash çfarë është!\NE di! Unë vetë e vizatova!
+Dialogue: 0,0:21:24.38,0:21:26.19,main,Fuyutsuki,0,0,0,,S'ke pse ta thuash me zë!
+Dialogue: 0,0:21:26.19,0:21:28.52,main,Sorano,0,0,0,,Pse po të vjen kaq turp?
+Dialogue: 0,0:21:28.52,0:21:29.93,main,Fuyutsuki,0,0,0,,Ah, pusho!
+Dialogue: 0,0:21:30.33,0:21:33.79,main,Hayase,0,0,0,,Dhe së fundi, kemi\Nfishekzjarrin e Sorano Kakeru-t.
+Dialogue: 0,0:21:34.19,0:21:36.38,main,Sorano,0,0,0,,Ah, po.
+Dialogue: 0,0:21:36.38,0:21:38.87,main,Fuyutsuki,0,0,0,,Edhe ti vizatove një?
+Dialogue: 0,0:21:38.87,0:21:40.30,main,Sorano,0,0,0,,Ma kërkoi Hayase.
+Dialogue: 0,0:21:43.15,0:21:45.20,main,Fuyutsuki,0,0,0,,Çfarë vendose të përdorje?
+Dialogue: 0,0:21:46.72,0:21:47.95,main,Sorano,0,0,0,,Fuyutsuki, dëgjo...
+Dialogue: 0,0:21:48.25,0:21:49.45,main,Fuyutsuki,0,0,0,,Çfarë ka?
+Dialogue: 0,0:21:51.35,0:21:54.33,main,Sorano,0,0,0,,S'ta kam thënë kurrë\Ndrejtpërdrejt më parë, por...
+Dialogue: 0,0:21:57.59,0:21:58.64,main,Sorano,0,0,0,,Të dua.
+Dialogue: 0,0:21:59.47,0:22:02.63,main,Sorano,0,0,0,,A do të më lejosh të qëndroj pranë teje përgjithmonë?
+Dialogue: 0,0:22:09.47,0:22:10.84,main,Fuyutsuki,0,0,0,,Pse?
+Dialogue: 0,0:22:15.90,0:22:18.83,main,Fuyutsuki,0,0,0,,Pse nuk heq dorë nga unë,
+Dialogue: 0,0:22:20.32,0:22:21.87,main,Fuyutsuki,0,0,0,,Kakeru?
+Dialogue: 0,0:22:24.82,0:22:29.99,sign_TimesNewRoman,text,0,0,0,,{\pos(320,140)\shad0\bord0\fs26\blur3\t(1,2149,\blur0)}Sorano Kakeru
+Dialogue: 0,0:22:30.37,0:22:33.83,sign_Arial,text,0,0,0,,{\an7}Përkthimi: Michael Arnold\N Sinkronizimi: Krzysztof Kunc
+Dialogue: 0,0:22:34.58,0:22:38.04,sign_Arial,text,0,0,0,,{\an7}Redaktimi: Alicia Ashby\NKontrolli i cilësisë: S. Bilyeu
+Dialogue: 0,0:22:38.71,0:22:42.17,sign_Arial,text,0,0,0,,{\an7}Kontrolli përfundimtar i cilësisë: Michelle Tymon
+

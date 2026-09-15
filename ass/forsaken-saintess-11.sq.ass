@@ -1,0 +1,397 @@
+﻿[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
+Style: Q0,Arial,40,&H00A4A4A4,&H00A4A4A4,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q1,Roboto Medium,52,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: Q2,Arial,27,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q3,Arial,27,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q4,Arial,27,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q5,Arial,40,&H00A4A4A4,&H00A4A4A4,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q6,Roboto Medium,52,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: Q7,Roboto Medium,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: Q8,Roboto Medium,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: Q9,Roboto Medium,52,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: Q10,Arial,27,&H009CAAE2,&H009CAAE2,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q11,Arial,34,&H009CAAE2,&H009CAAE2,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:01.46,0:00:02.88,Q1,,0,0,0,,«Vajza e Trëndafilit të Egër».
+Dialogue: 1,0:00:03.13,0:00:06.96,Q1,,0,0,0,,Një lojë romantike ku protagonistja,\Ne thirrur në një botë fantastike si «Shenjtorja»,
+Dialogue: 1,0:00:07.13,0:00:10.17,Q1,,0,0,0,,del në takime dhe lufton përbindësha\Nme një grup djemsh të pashëm,
+Dialogue: 1,0:00:10.63,0:00:16.71,Q1,,0,0,0,,fiton përvojë dhe afrohet gjithnjë e më shumë\Nme ta, për të arritur një fund të lumtur...
+Dialogue: 1,0:00:16.71,0:00:17.71,Q1,,0,0,0,,të paktën kështu duket.
+Dialogue: 1,0:00:19.42,0:00:22.29,Q1,,0,0,0,,Në kryeqytet takova Noah-n, vëllanë e madh të Vil-it.
+Dialogue: 1,0:00:22.58,0:00:25.46,Q1,,0,0,0,,Për habinë time, Noah\Nishte rimishëruar në këtë botë.
+Dialogue: 1,0:00:25.46,0:00:29.00,Q1,,0,0,0,,Ai punonte në zyrat e kompanisë\Nqë krijoi «Vajza e Trëndafilit të Egër».
+Dialogue: 1,0:00:29.46,0:00:33.04,Q1,,0,0,0,,Dhe më zbuloi të vërtetën për këtë botë:
+Dialogue: 1,0:00:33.50,0:00:38.67,Q1,,0,0,0,,në të vërtetë, jemi brenda botës\Nsë lojës «Vajza e Trëndafilit të Egër»,
+Dialogue: 1,0:00:38.67,0:00:41.75,Q1,,0,0,0,,dhe aventurat që kam kaluar\Nme anëtarët e Smorgasbord-it
+Dialogue: 1,0:00:41.75,0:00:44.08,Q1,,0,0,0,,ishin të gjitha ngjarje të programuara në lojë!
+Dialogue: 1,0:00:45.63,0:00:48.63,Q1,,0,0,0,,Mirë, po mua më hodhën tutje\Nsi plehrë sapo erdha këtu.
+Dialogue: 1,0:00:48.63,0:00:50.42,Q1,,0,0,0,,Ç'pret të bëj unë?
+Dialogue: 1,0:00:51.88,0:00:54.13,Q1,,0,0,0,,Atje do të dilja, të premtoj!
+Dialogue: 1,0:02:25.29,0:02:28.42,Q1,,0,0,0,,Qëllimi përfundimtar i Shenjtores në lojë
+Dialogue: 1,0:02:28.67,0:02:30.54,Q1,,0,0,0,,është të më mposhtë mua.
+Dialogue: 1,0:02:30.79,0:02:33.21,Q1,,0,0,0,,Si mund ta thuash kaq shkujdesur?!
+Dialogue: 1,0:02:33.58,0:02:35.25,Q1,,0,0,0,,Me siguri të ka tronditur.
+Dialogue: 1,0:02:35.71,0:02:40.17,Q1,,0,0,0,,Ja, pse s'provon ca ëmbëlsira\Ntradicionale mbretërore ndërsa ta shpjegoj?
+Dialogue: 1,0:02:40.17,0:02:41.29,Q1,,0,0,0,,Mirë...
+Dialogue: 1,0:02:42.42,0:02:43.46,Q1,,0,0,0,,Po marr një.
+Dialogue: 1,0:02:43.79,0:02:44.63,Q1,,0,0,0,,Ptu!
+Dialogue: 1,0:02:45.04,0:02:49.71,Q1,,0,0,0,,Qenka e tmerrshme! Sikur të godet në gojë\Nnjë grusht plot me sheqer të pastër!
+Dialogue: 1,0:02:50.33,0:02:54.71,Q1,,0,0,0,,Mos kujtuan se po ta mbytnin me ëmbëlsues\Ntë shtrenjtë, do ta bënin më të rafinuar?!
+Dialogue: 1,0:02:54.92,0:02:55.83,Q1,,0,0,0,,Mirë e the.
+Dialogue: 1,0:02:56.25,0:03:00.08,Q1,,0,0,0,,Prodhuesit japonezë të ëmbëlsirave\Ndikan vërtet si t'i bien shkurt.
+Dialogue: 1,0:03:02.13,0:03:04.71,Q1,,0,0,0,,Gjithsesi, unë jam mësuar tashmë me shijen.
+Dialogue: 1,0:03:05.17,0:03:08.54,Q1,,0,0,0,,Po sa më mungojnë shijet japoneze...
+Dialogue: 1,0:03:08.88,0:03:13.46,Q1,,0,0,0,,Ah, çfarë s'do të jepja\Npër një kerri apo ramen fare të zakonshëm!
+Dialogue: 1,0:03:13.71,0:03:17.67,Q1,,0,0,0,,Ndaj, kur lexova për gatimet e tua\Nnë raportin e Vil-it, u bëra tmerrësisht ziliqar!
+Dialogue: 1,0:03:17.67,0:03:20.58,Q1,,0,0,0,,Ups, dola nga tema.
+Dialogue: 1,0:03:21.75,0:03:24.13,Q1,,0,0,0,,Ëh, pra, në botën e lojës,
+Dialogue: 1,0:03:24.13,0:03:30.21,Q1,,0,0,0,,ka një konflikt të rrënjosur thellë\Nmes njerëzve dhe racave gjysmënjerëzore.
+Dialogue: 1,0:03:30.67,0:03:31.92,Q1,,0,0,0,,Ç'mendon për këtë?
+Dialogue: 1,0:03:32.21,0:03:36.83,Q1,,0,0,0,,Po, të shohim... Mua më duket\Nse të gjithë shkojnë mirë me njëri-tjetrin...
+Dialogue: 1,0:03:37.13,0:03:42.46,Q1,,0,0,0,,Ah, por Vil-i tha se dikur racat\Ngjysmënjerëzore diskriminoheshin rëndë.
+Dialogue: 1,0:03:42.46,0:03:48.04,Q1,,0,0,0,,Tha se ata që e kundërshtonin këtë\Nkaluan oqeanin dhe themeluan këtë vend.
+Dialogue: 1,0:03:48.29,0:03:49.42,Q1,,0,0,0,,Pikërisht.
+Dialogue: 1,0:03:49.42,0:03:53.04,Q1,,0,0,0,,Ky është vëllai im i vogël! Më bën kaq krenar.
+Dialogue: 1,0:03:53.50,0:03:57.63,Q1,,0,0,0,,Sa herë flet për Vil-in,\Nnis e buzëqesh si i marrë.
+Dialogue: 1,0:03:58.42,0:04:01.88,Q1,,0,0,0,,Po, pikërisht për këtë, Riesfeldt-i në lojë
+Dialogue: 1,0:04:02.04,0:04:05.33,Q1,,0,0,0,,shihet si vend përbindëshash e gjysmënjerëzish\Nqë e urrejnë njerëzimin.
+Dialogue: 1,0:04:06.21,0:04:11.67,Q1,,0,0,0,,Dhe mbreti i tyre, pra unë,\Nluan rolin e «Mbretit Demon».
+Dialogue: 1,0:04:12.29,0:04:17.54,Q1,,0,0,0,,Kjo e shpjegon Shenjtoren... Por këtu\Ns'më duket aspak si një vend i tillë.
+Dialogue: 1,0:04:17.92,0:04:20.29,Q1,,0,0,0,,Mos harro, kjo ka ndodhur shumë kohë më parë.
+Dialogue: 1,0:04:20.67,0:04:25.63,Q1,,0,0,0,,Dhe unë, si turist i vërtetë, jam marrë\Nme diplomaci që para se të bëhesha mbret,
+Dialogue: 1,0:04:25.63,0:04:28.33,Q1,,0,0,0,,duke sqaruar keqkuptimet e vendeve të tjera.
+Dialogue: 1,0:04:29.58,0:04:34.46,Q1,,0,0,0,,Të njohësh lojën është një gjë.\NTë veprosh vërtet? Kjo më bën përshtypje.
+Dialogue: 1,0:04:34.88,0:04:38.63,Q1,,0,0,0,,Por, në fund,\Nthirrja e Shenjtores prapë ndodhi.
+Dialogue: 1,0:04:38.63,0:04:42.25,Q1,,0,0,0,,Mbase është nga ato raste kur\Nngjarjet duhet të ndjekin patjetër skenarin...
+Dialogue: 1,0:04:42.46,0:04:45.50,Q1,,0,0,0,,Sigurisht... Tani gjithçka ka kuptim.
+Dialogue: 1,0:04:45.63,0:04:46.58,Q1,,0,0,0,,Çfarë?
+Dialogue: 1,0:04:46.88,0:04:50.17,Q1,,0,0,0,,Shtimi i përbindëshave kohët e fundit.
+Dialogue: 1,0:04:50.46,0:04:53.58,Q1,,0,0,0,,Kjo vërteton se shkaku\Nishte thirrja e Shenjtores.
+Dialogue: 1,0:04:55.58,0:04:59.17,Q1,,0,0,0,,Pra, ishte sikur të shtypje\Nbutonin e nisjes së lojës.
+Dialogue: 1,0:04:59.33,0:05:02.21,Q1,,0,0,0,,Dhe këtu hyn prania jote, Rin.
+Dialogue: 1,0:05:02.54,0:05:03.42,Q1,,0,0,0,,Unë?
+Dialogue: 1,0:05:03.42,0:05:07.50,Q1,,0,0,0,,Rituali duhet të thërrasë vetëm një person,\Nkështu që ti je një anomali.
+Dialogue: 1,0:05:07.50,0:05:11.92,Q1,,0,0,0,,Besoj se kjo të jep mundësinë\Nta pengosh qëllimin e Shenjtores.
+Dialogue: 1,0:05:12.33,0:05:14.17,Q1,,0,0,0,,Po ti pse s'mundesh?
+Dialogue: 1,0:05:14.50,0:05:18.83,Q1,,0,0,0,,Jam tepër i lidhur me një personazh kryesor.\NS'e kam atë liri veprimi.
+Dialogue: 1,0:05:19.67,0:05:22.75,Q1,,0,0,0,,Për më tepër, ti i ke ndërprerë tashmë\Nngjarjet që ndihmojnë përparimin e Shenjtores.
+Dialogue: 1,0:05:23.79,0:05:25.13,Q1,,0,0,0,,Përparimin?
+Dialogue: 1,0:05:25.67,0:05:29.00,Q1,,0,0,0,,E mban mend që thashë se Shenjtorja\Npërparon duke përfunduar ngjarje
+Dialogue: 1,0:05:29.00,0:05:33.08,Q1,,0,0,0,,dhe forcohet kur rrit afrimitetin\Nme shokët e saj të pashëm të grupit?
+Dialogue: 1,0:05:33.42,0:05:35.13,Q1,,0,0,0,,Të kujton ndonjë gjë kjo?
+Dialogue: 1,0:05:35.54,0:05:36.21,Q1,,0,0,0,,Ah.
+Dialogue: 1,0:05:36.63,0:05:39.38,Q1,,0,0,0,,Përvojë, afrimitet, sende...
+Dialogue: 1,0:05:39.71,0:05:44.50,Q1,,0,0,0,,Kur dëgjova se të gjitha shkuan dëm,\Nnisa të brohorisja!
+Dialogue: 1,0:05:45.88,0:05:50.25,Q1,,0,0,0,,S'e di nëse vajza tjetër\Nqë thirrën është e apasionuar pas lojërave,
+Dialogue: 1,0:05:50.75,0:05:55.50,Q1,,0,0,0,,por një lojë ku s'të rritet as përvoja\Nas afrimiteti është kot fare...
+Dialogue: 1,0:05:55.50,0:06:01.08,Q1,,0,0,0,,Unë do të doja t'ia bëja edhe më keq\Ndhe ta ktheja lojën në një rrëmujë muti!
+Dialogue: 1,0:06:02.75,0:06:05.50,Q1,,0,0,0,,Këtë e thotë ai që punon për krijuesit e lojës...?
+Dialogue: 1,0:06:05.83,0:06:07.96,Q1,,0,0,0,,As unë s'jam ende gati të vdes.
+Dialogue: 1,0:06:07.96,0:06:11.42,Q1,,0,0,0,,Dhe më ka ardhur në majë të hundës\Nkjo përplasja njerëz kundër gjysmënjerëzve.
+Dialogue: 1,0:06:12.92,0:06:14.92,Q1,,0,0,0,,Atëherë, çfarë ke ndër mend?
+Dialogue: 1,0:06:15.21,0:06:17.21,Q1,,0,0,0,,T'u paraprijmë ngjarjeve kyçe.
+Dialogue: 1,0:06:17.54,0:06:20.83,Q1,,0,0,0,,Smorgasbord-i do të marrë dy misione.
+Dialogue: 1,0:06:21.13,0:06:26.54,Q1,,0,0,0,,Ah, prit pak. Vil-i dhe të tjerët\Nduhej të ishin të dashurit e mundshëm të Shenjtores?
+Dialogue: 1,0:06:26.54,0:06:31.58,Q1,,0,0,0,,Gjithë ato fytyra të bukura bashkë?\NS'është çudi që më bien pikët e jetës!
+Dialogue: 1,0:06:32.17,0:06:34.88,Q1,,0,0,0,,Edhe personalitetet i kanë të veçanta!
+Dialogue: 1,0:06:36.63,0:06:37.38,Q1,,0,0,0,,Çfarë...?
+Dialogue: 1,0:06:41.67,0:06:42.79,Q1,,0,0,0,,HEEEEJ!
+Dialogue: 1,0:06:43.08,0:06:46.92,Q1,,0,0,0,,E keqe! Pse na le\Nprapë pas?! E keqe!
+Dialogue: 1,0:06:46.92,0:06:48.75,Q1,,0,0,0,,E di, e di! Të kërkova falje!
+Dialogue: 1,0:06:49.00,0:06:51.79,Q1,,0,0,0,,Je mirë? S'të ngacmoi, apo jo?
+Dialogue: 1,0:06:51.79,0:06:53.46,Q1,,0,0,0,,Më fal që të lamë vetëm.
+Dialogue: 1,0:06:53.46,0:06:55.38,Q1,,0,0,0,,Dukesh pak e zbehtë...
+Dialogue: 1,0:06:55.79,0:06:57.38,Q1,,0,0,0,,Ah, jo. Jam mirë.
+Dialogue: 1,0:06:57.38,0:07:01.38,Q1,,0,0,0,,Tani e tutje do të jemi\Npranë teje, ndaj mos u shqetëso.
+Dialogue: 1,0:07:01.63,0:07:02.50,Q1,,0,0,0,,Ëh, faleminderit.
+Dialogue: 1,0:07:02.67,0:07:04.75,Q1,,0,0,0,,Të duan shumë, Rin.
+Dialogue: 1,0:07:04.75,0:07:07.46,Q1,,0,0,0,,Ose s'ka besim tek unë askush?
+Dialogue: 1,0:07:08.46,0:07:12.08,Q1,,0,0,0,,Më lëndoni! S'kam bërë asgjë të keqe.
+Dialogue: 1,0:07:12.08,0:07:13.63,Q1,,0,0,0,,Po thotë të vërtetën, Vil!
+Dialogue: 1,0:07:13.63,0:07:17.33,Q1,,0,0,0,,Mora shumë informacion njëherësh\Ndhe jam pak e trullosur, kaq.
+Dialogue: 1,0:07:17.33,0:07:18.46,Q1,,0,0,0,,Mirë, nëse e thua ti.
+Dialogue: 1,0:07:19.33,0:07:21.17,Q1,,0,0,0,,Tani jemi të gjithë dakord?
+Dialogue: 1,0:07:21.54,0:07:23.50,Q1,,0,0,0,,Atëherë, ta provojmë edhe një herë.
+Dialogue: 1,0:07:30.04,0:07:33.00,Q1,,0,0,0,,Mirë se u ktheve, Vil! Sa mirë që erdhe!
+Dialogue: 1,0:07:33.00,0:07:34.38,Q1,,0,0,0,,Hëëëë?!
+Dialogue: 1,0:07:35.21,0:07:36.75,Q1,,0,0,0,,Ngadalë, vëlla!
+Dialogue: 1,0:07:36.75,0:07:38.63,Q1,,0,0,0,,Thjesht jam i lumtur që je mirë!
+Dialogue: 1,0:07:38.96,0:07:42.29,Q1,,0,0,0,,S'ke ndryshuar! Sapo hedh sytë tjetërkund,\Nti bën ndonjë marrëzi!
+Dialogue: 1,0:07:42.29,0:07:47.13,Q1,,0,0,0,,S'ka kuptim! Edhe me forcën time prej draghoul-i,\Ns'të shkëpus dot kurrë nga vetja!
+Dialogue: 1,0:07:47.21,0:07:51.67,Q1,,0,0,0,,Ju falënderoj që i qëndruat pranë\Nvëllait tim mistrec pasi u arratis.
+Dialogue: 1,0:07:49.17,0:07:49.96,Q6,,0,0,0,,Hej!
+Dialogue: 1,0:07:52.29,0:07:54.83,Q1,,0,0,0,,Gjithë jetën ka qenë kokë më vete!
+Dialogue: 1,0:07:54.83,0:07:57.46,Q1,,0,0,0,,Sa herë kthej shpinën,\Ns'i dihet çfarë do të bëjë!
+Dialogue: 1,0:07:57.79,0:07:59.83,Q1,,0,0,0,,Ah, më sëmur nga meraku!
+Dialogue: 1,0:08:00.42,0:08:02.50,Q7,,0,0,0,,Çfarë? Hajt, mjaft tani!
+Dialogue: 1,0:08:00.42,0:08:02.50,Q1,,0,0,0,,Këtë përkëdhelje e ruan vetëm për Vil-in.
+Dialogue: 1,0:08:02.50,0:08:04.54,Q8,,0,0,0,,S'mund të më trajtosh gjithë jetën si fëmijë!
+Dialogue: 1,0:08:02.50,0:08:04.54,Q1,,0,0,0,,Si mbret, është shumë i mprehtë.
+Dialogue: 1,0:08:04.54,0:08:05.46,Q8,,0,0,0,,Më lësho!
+Dialogue: 1,0:08:04.83,0:08:07.13,Q1,,0,0,0,,Madhëria e Tij kujdeset shumë për Vil-in.
+Dialogue: 1,0:08:07.42,0:08:09.79,Q1,,0,0,0,,Pra, është i fiksuar pas të vëllait.
+Dialogue: 1,0:08:11.21,0:08:14.92,Q1,,0,0,0,,Mbase kjo ishte një nga arsyet\Npse Vil-i s'kishte qejf të kthehej në shtëpi...
+Dialogue: 1,0:08:22.29,0:08:24.96,Q1,,0,0,0,,Mund t'i besojmë këtij informacioni, vëlla?
+Dialogue: 1,0:08:24.96,0:08:25.79,Q1,,0,0,0,,Po.
+Dialogue: 1,0:08:25.79,0:08:30.29,Q1,,0,0,0,,Këtë zbuluan informatorët e mi për thirrjen\Ne Shenjtores pasi mora raportin tënd.
+Dialogue: 1,0:08:30.71,0:08:35.50,Q1,,0,0,0,,Shenjtorja dhe shoqëruesit e saj kanë ardhur\Npërtej detit dhe po lëvizin në vendin tonë.
+Dialogue: 1,0:08:35.50,0:08:41.17,Q1,,0,0,0,,Thonë se qëllimi i tyre përfundimtar\Nështë të vrasin Mbretin Demon: mua.
+Dialogue: 1,0:08:43.67,0:08:46.42,Q1,,0,0,0,,Nxitësit duhet të jenë fëmijët e tretë ose më të vegjël.
+Dialogue: 1,0:08:46.42,0:08:49.92,Q1,,0,0,0,,Pinjollë mbretërorë dhe të elitës\Nqë mbështesin epërsinë njerëzore.
+Dialogue: 1,0:08:50.33,0:08:53.21,Q1,,0,0,0,,Pra, ca parazitë të mllefosur\Nqë s'do të trashëgojnë kurrë pronat e familjes
+Dialogue: 1,0:08:53.21,0:08:56.33,Q1,,0,0,0,,kanë rrëmbyer rastin për të kryer\Nnjë thirrje të dyshimtë të Shenjtores.
+Dialogue: 1,0:08:56.83,0:09:00.54,Q1,,0,0,0,,Ndonëse mua vetë kjo puna e epërsisë njerëzore\Nma vlon gjakun...
+Dialogue: 1,0:09:00.79,0:09:02.04,Q1,,0,0,0,,Hej, qetësohu.
+Dialogue: 1,0:09:02.25,0:09:06.21,Q1,,0,0,0,,Çfarë plani ke? E di që s'je tipi\Nqë dorëzohet dhe pranon humbjen.
+Dialogue: 1,0:09:06.54,0:09:12.33,Q1,,0,0,0,,Sigurisht që jo. Po i vëzhgoj,\Ndhe kam përgatitur edhe masa më të drejtpërdrejta.
+Dialogue: 1,0:09:13.00,0:09:16.71,Q1,,0,0,0,,Me këtë rast, kam dy kërkesa\Npër Smorgasbord-in.
+Dialogue: 1,0:09:16.71,0:09:17.71,Q1,,0,0,0,,Prit, për ne?
+Dialogue: 1,0:09:18.17,0:09:20.96,Q1,,0,0,0,,Meqë ra fjala, Rin-i ka pranuar tashmë.
+Dialogue: 1,0:09:22.58,0:09:25.38,Q1,,0,0,0,,Rin... Je e sigurt që s'të ka kërcënuar?
+Dialogue: 1,0:09:25.50,0:09:30.13,Q1,,0,0,0,,Jo, jo! Aspak! Më falni\Nqë s'e diskutova më parë me ju.
+Dialogue: 1,0:09:30.54,0:09:33.00,Q1,,0,0,0,,Me gjithë këta përbindësha që po shfaqen,
+Dialogue: 1,0:09:33.00,0:09:36.00,Q1,,0,0,0,,duket se shkaku vërtet\Nka qenë thirrja e Shenjtores...
+Dialogue: 1,0:09:36.00,0:09:39.50,Q1,,0,0,0,,Dhe meqë isha pjesë e saj,\Nndihem disi përgjegjëse...
+Dialogue: 1,0:09:39.83,0:09:43.79,Q1,,0,0,0,,Aspak! Rin, në gjithë këtë histori\Nti je viktimë e rrethanave!
+Dialogue: 1,0:09:43.79,0:09:45.71,Q1,,0,0,0,,Ti nuk ke asnjë faj.
+Dialogue: 1,0:09:45.71,0:09:47.88,Q1,,0,0,0,,Po! S'ke bërë gjë të keqe!
+Dialogue: 1,0:09:48.04,0:09:49.29,Q1,,0,0,0,,Ju...
+Dialogue: 1,0:09:49.63,0:09:54.58,Q1,,0,0,0,,Besoj se deshe të ndihmoje vëllanë tim.\NMë fal që të ngarkuam me këtë.
+Dialogue: 1,0:09:54.58,0:09:56.83,Q1,,0,0,0,,P-Po, pra...
+Dialogue: 1,0:09:57.67,0:09:59.92,Q1,,0,0,0,,Mirë, e pranojmë misionin.
+Dialogue: 1,0:10:00.17,0:10:04.17,Q1,,0,0,0,,S'mund ta lejojmë të ndizet prapë\Nkjo armiqësi mes njerëzve e gjysmënjerëzve!
+Dialogue: 1,0:10:07.50,0:10:08.71,Q1,,0,0,0,,Mirë që kaloi kjo...
+Dialogue: 1,0:10:09.33,0:10:11.96,Q1,,0,0,0,,Atëherë, ta shqyrtojmë edhe një herë misionin?
+Dialogue: 1,0:10:12.50,0:10:17.00,Q1,,0,0,0,,Në një fshat afër kryeqytetit po shihen\Nçdo natë hije të mëdha misterioze.
+Dialogue: 1,0:10:17.42,0:10:22.38,Q1,,0,0,0,,Duhet t'i hetojmë dhe, sipas rastit,\Nta zhdukim rrezikun. Apo jo, Rin?
+Dialogue: 1,0:10:22.38,0:10:23.96,Q1,,0,0,0,,Po, kështu tha.
+Dialogue: 1,0:10:24.17,0:10:26.83,Q1,,0,0,0,,Ende s'ka pasur viktima,
+Dialogue: 1,0:10:26.83,0:10:31.25,Q1,,0,0,0,,por të gjithë në fshat janë të stresuar\Ndhe natën mezi flenë.
+Dialogue: 1,0:10:31.54,0:10:35.71,Q1,,0,0,0,,Mungesa e gjumit është po aq e rëndë\Nsa barku bosh.
+Dialogue: 1,0:10:36.92,0:10:38.67,Q1,,0,0,0,,Me sa duket, sipas të dhënave,
+Dialogue: 1,0:10:38.67,0:10:42.50,Q1,,0,0,0,,thirrja e Shenjtores krijon\N«vatra energjie» në vende të ndryshme,
+Dialogue: 1,0:10:42.50,0:10:45.08,Q1,,0,0,0,,që shërbejnë për t'i dhënë më shumë fuqi.
+Dialogue: 1,0:10:45.83,0:10:49.21,Q1,,0,0,0,,Pra, ende s'e dimë\Nsaktësisht çfarë janë, por...
+Dialogue: 1,0:10:49.21,0:10:53.00,Q1,,0,0,0,,Duhet t'i vëmë nën kontroll para\Nse Shenjtorja t'i përdorë për t'u forcuar?
+Dialogue: 1,0:10:53.75,0:10:54.83,Q1,,0,0,0,,Pikërisht.
+Dialogue: 1,0:10:54.83,0:10:56.17,Q1,,0,0,0,,Ka kuptim.
+Dialogue: 1,0:10:56.50,0:10:59.04,Q1,,0,0,0,,Edhe misioni tjetër është i ngjashëm?
+Dialogue: 1,0:10:59.04,0:11:03.92,Q1,,0,0,0,,Për atë... le të presim\Nta mbarojmë këtë para se të vendosim.
+Dialogue: 1,0:11:04.54,0:11:05.33,Q1,,0,0,0,,Rin...?
+Dialogue: 1,0:11:05.33,0:11:06.75,Q1,,0,0,0,,Hej, shikoni atje lart!
+Dialogue: 1,0:11:07.67,0:11:09.21,Q1,,0,0,0,,Sa lart e sa madhështorë!
+Dialogue: 1,0:11:10.29,0:11:12.58,Q1,,0,0,0,,M-Mos janë ato hijet?!
+Dialogue: 1,0:11:12.58,0:11:13.38,Q1,,0,0,0,,Ka shumë mundësi!
+Dialogue: 1,0:11:13.63,0:11:15.54,Q1,,0,0,0,,Mirë, atëherë! T'i ndjekim!
+Dialogue: 1,0:11:24.75,0:11:26.96,Q1,,0,0,0,,A ishte ajo... një hungërimë?
+Dialogue: 1,0:11:27.25,0:11:29.29,Q1,,0,0,0,,Pse na lëshove?!
+Dialogue: 1,0:11:29.29,0:11:31.54,Q1,,0,0,0,,Herën tjetër na mbaj më fort!
+Dialogue: 1,0:11:31.92,0:11:34.29,Q1,,0,0,0,,Dukeshin si lakuriqë nate gjigantë, por...
+Dialogue: 1,0:11:34.29,0:11:36.71,Q1,,0,0,0,,Së pari të mbledhim informacion në fshat.
+Dialogue: 1,0:11:37.33,0:11:38.96,Q1,,0,0,0,,Mirë! Përpara!
+Dialogue: 1,0:11:43.63,0:11:48.92,Q1,,0,0,0,,Pikërisht kështu. Hijet fluturojnë\Nrreth fshatit gjithë natën.
+Dialogue: 1,0:11:49.29,0:11:53.79,Q1,,0,0,0,,Ende s'kanë sulmuar\Nas fshatarët, as bagëtitë, por...
+Dialogue: 1,0:11:54.33,0:11:58.83,Q1,,0,0,0,,Mund të ndodhë nga çasti në çast.\NDuhet të jetë e vështirë të jetosh me atë frikë.
+Dialogue: 1,0:11:59.25,0:12:02.50,Q1,,0,0,0,,Duke ndenjur vigjilentë gjithë kohën,\Nmezi flini,
+Dialogue: 1,0:12:02.50,0:12:04.79,Q1,,0,0,0,,dhe rraskapiteni mendërisht e fizikisht.
+Dialogue: 1,0:12:05.00,0:12:10.29,Q1,,0,0,0,,Ne të moshuarit ende ia dalim,\Npor fëmijët e gjorë s'po durojnë dot më.
+Dialogue: 1,0:12:10.75,0:12:16.54,Q1,,0,0,0,,Po... Fëmijët e ndiejnë ankthin\Npërreth dhe preken lehtë.
+Dialogue: 1,0:12:17.08,0:12:22.58,Q1,,0,0,0,,Si mundësi të fundit, kërkova ndihmë\Nnga kryeqyteti. Ju falënderoj që erdhët...
+Dialogue: 1,0:12:22.58,0:12:26.92,Q1,,0,0,0,,Tani jeni në duar të sigurta.\NSmorgasbord-i do të merret me këtë.
+Dialogue: 1,0:12:27.25,0:12:31.08,Q1,,0,0,0,,Na ndihmon çdo hollësi që mund të jepni,\Nsado e vogël qoftë.
+Dialogue: 1,0:12:31.33,0:12:34.63,Q1,,0,0,0,,Po, sigurisht! Sipas\Ntë rinjve të fshatit...
+Dialogue: 1,0:12:36.63,0:12:41.58,Q1,,0,0,0,,Këto krijesa gjigante filluan të shfaqeshin\Nsapo më thirrën mua këtu...
+Dialogue: 1,0:12:41.96,0:12:45.75,Q1,,0,0,0,,Kjo thuajse vërteton se thirrja e Shenjtores\Nishte ajo që e shkaktoi ngjarjen...
+Dialogue: 1,0:12:46.25,0:12:47.38,Q1,,0,0,0,,Motër e madhe?
+Dialogue: 1,0:12:48.25,0:12:50.63,Q1,,0,0,0,,Edhe ti dhe shokët e tu jeni aventurierë?
+Dialogue: 1,0:12:51.21,0:12:53.96,Q1,,0,0,0,,Jam gati tridhjetë vjeçe dhe më thotë\N«motër e madhe»?! Sa e ëmbël!
+Dialogue: 1,0:12:54.33,0:12:55.63,Q1,,0,0,0,,Ç'kemi!
+Dialogue: 1,0:12:55.63,0:12:58.38,Q1,,0,0,0,,Quhem Rin dhe jam kuzhinierja e Smorgasbord-it!
+Dialogue: 1,0:12:59.25,0:13:01.33,Q1,,0,0,0,,Edhe unë jam nga Smorgasbord-i. Quhem Aria.
+Dialogue: 1,0:13:01.58,0:13:03.33,Q1,,0,0,0,,Mos na harroni edhe ne!
+Dialogue: 1,0:13:03.58,0:13:06.29,Q1,,0,0,0,,Puna jonë është të jemi të lezetshëm e me gëzof!
+Dialogue: 1,0:13:06.50,0:13:07.79,Q1,,0,0,0,,Një kotele!
+Dialogue: 1,0:13:08.08,0:13:09.63,Q1,,0,0,0,,Sa e lezetshme!
+Dialogue: 1,0:13:08.25,0:13:10.67,Q6,,0,0,0,,A s'jemi të lezetshëm? Lezet fare!
+Dialogue: 1,0:13:12.00,0:13:15.54,Q1,,0,0,0,,Motër e madhe, grupi yt\Ndo t'i largojë gjërat e frikshme?
+Dialogue: 1,0:13:17.33,0:13:19.75,Q1,,0,0,0,,S'i dua gjërat e frikshme!
+Dialogue: 1,0:13:19.96,0:13:22.25,Q1,,0,0,0,,Kemi ardhur për t'u marrë me to.
+Dialogue: 1,0:13:23.00,0:13:24.00,Q1,,0,0,0,,Sigurisht!
+Dialogue: 1,0:13:24.00,0:13:28.00,Q1,,0,0,0,,Do t'u japim një mësim atyre krijesave\Ndhe pastaj do t'i skuqim mirë e mirë!
+Dialogue: 1,0:13:28.29,0:13:31.58,Q1,,0,0,0,,Tani që përmende ushqimin e skuqur,\Nduhet patjetër të përfshihemi.
+Dialogue: 1,0:13:32.54,0:13:37.75,Q1,,0,0,0,,Kemi gjetur ku dyshojmë se e kanë folenë.\NRin, Aria. Jeni gati?
+Dialogue: 1,0:13:37.75,0:13:39.46,Q1,,0,0,0,,Po, unë jam gati!
+Dialogue: 1,0:13:39.46,0:13:41.63,Q1,,0,0,0,,Po, ta mbarojmë këtë punë!
+Dialogue: 1,0:13:42.08,0:13:45.00,Q1,,0,0,0,,Do të zbulojmë se çfarë\Njanë në të vërtetë ato hije.
+Dialogue: 1,0:13:45.00,0:13:47.71,Q1,,0,0,0,,Dhe pastaj s'do të keni më frikë natën.
+Dialogue: 1,0:13:48.00,0:13:50.92,Q1,,0,0,0,,Do t'i hedhim një sy shpejt\Ndhe do të kthehemi menjëherë! Do ta shihni!
+Dialogue: 1,0:13:52.08,0:13:53.17,Q1,,0,0,0,,Mirë!
+Dialogue: 1,0:13:59.17,0:14:03.96,Q1,,0,0,0,,Nga përmasat dhe ato zhurma... këto janë\Nhijet që fluturonin afër fshatit!
+Dialogue: 1,0:14:04.25,0:14:10.08,Q1,,0,0,0,,Shpinë e maja krahësh të bardha,\Nsy të kuq dhe hundë të sheshta...
+Dialogue: 1,0:14:10.46,0:14:12.54,Q1,,0,0,0,,Pa dyshim, janë lakuriqë nate gjigantë.
+Dialogue: 1,0:14:13.04,0:14:16.63,Q1,,0,0,0,,«Gjigantë», hë. Po, emër i përshtatshëm.
+Dialogue: 1,0:14:16.63,0:14:19.50,Q1,,0,0,0,,Në fakt... zakonisht janë\Nsa ai më i vogli atje.
+Dialogue: 1,0:14:19.67,0:14:20.33,Q1,,0,0,0,,Çfarë?!
+Dialogue: 1,0:14:20.96,0:14:23.42,Q1,,0,0,0,,S'ka skuqje për këta... Jo, prit pak!
+Dialogue: 1,0:14:23.42,0:14:26.63,Q1,,0,0,0,,Janë tepër të mëdhenj! Ndonjë mutacion?
+Dialogue: 1,0:14:26.63,0:14:31.63,Q1,,0,0,0,,Po, është e arsyeshme të mendojmë\Nse diçka po i bën të rriten.
+Dialogue: 1,0:14:32.17,0:14:34.54,Q1,,0,0,0,,Edhe kjo pasojë e thirrjes së Shenjtores?
+Dialogue: 1,0:14:35.00,0:14:39.08,Q1,,0,0,0,,Të bën të pyesësh se çfarë dreqin hanë\Npër të mbajtur atë trup gjigant!
+Dialogue: 1,0:14:39.50,0:14:42.17,Q1,,0,0,0,,S'po sulmojnë fshatarë apo bagëti...
+Dialogue: 1,0:14:42.67,0:14:44.38,Q1,,0,0,0,,Me siguri po hanë këto.
+Dialogue: 1,0:14:44.88,0:14:45.67,Q1,,0,0,0,,Ah!
+Dialogue: 1,0:14:46.04,0:14:48.13,Q1,,0,0,0,,Mos është një... grerëz e tërbuar?
+Dialogue: 1,0:14:48.13,0:14:50.04,Q1,,0,0,0,,Po pse është kaq e madhe?
+Dialogue: 1,0:14:50.42,0:14:52.50,Q1,,0,0,0,,Pra, edhe insektet po rriten?
+Dialogue: 1,0:14:52.50,0:14:53.21,Q1,,0,0,0,,Jo.
+Dialogue: 1,0:14:53.83,0:14:58.42,Q1,,0,0,0,,Unë dhe Aria kontrolluam zonën,\Npor vetëm grerëzat e tërbuara ishin të pazakonta.
+Dialogue: 1,0:14:58.88,0:15:01.04,Q1,,0,0,0,,Ndjeva diçka të çuditshme te foleja e tyre.
+Dialogue: 1,0:15:01.04,0:15:03.42,Q1,,0,0,0,,Mbase aty është shkaku?
+Dialogue: 1,0:15:03.88,0:15:05.25,Q1,,0,0,0,,E kuptoj.
+Dialogue: 1,0:15:05.25,0:15:10.33,Q1,,0,0,0,,Lakuriqët gjigantë po rriten ngaqë janë ushqyer\Nme këto grerëza për një kohë të gjatë.
+Dialogue: 1,0:15:10.71,0:15:12.67,Q1,,0,0,0,,Si të thuash, një efekt anësor.
+Dialogue: 1,0:15:12.67,0:15:15.04,Q1,,0,0,0,,Atëherë duhet të merremi së pari me folenë.
+Dialogue: 1,0:15:16.75,0:15:18.58,Q1,,0,0,0,,Çfa... Hej! Gomamiso?!
+Dialogue: 1,0:15:19.46,0:15:23.33,Q1,,0,0,0,,Hej, kjo gjëja e çuditshme në tokë?\NKa erë e shije të mirë!
+Dialogue: 1,0:15:23.75,0:15:27.88,Q1,,0,0,0,,Ju lutem, mos u fërkoni pas meje\Npasi keni ngrënë zorrë insektesh!
+Dialogue: 1,0:15:27.88,0:15:30.96,Q1,,0,0,0,,Jeni të lezetshëm, por insektet s'i duroj!
+Dialogue: 1,0:15:30.96,0:15:33.88,Q8,,0,0,0,,Ç'të keqe ka të përqafohesh me ne?!
+Dialogue: 1,0:15:31.38,0:15:35.17,Q1,,0,0,0,,Ed, na ço te foleja e grerëzave të tërbuara.
+Dialogue: 1,0:15:35.17,0:15:36.33,Q1,,0,0,0,,Urdhëroni!
+Dialogue: 1,0:15:38.63,0:15:40.83,Q1,,0,0,0,,Do të hyjmë brenda asaj gjëje?
+Dialogue: 1,0:15:41.42,0:15:46.46,Q1,,0,0,0,,Një a dy s'janë problem, por edhe unë\Ndo ta pësoja po të më thumbonte një tufë e tërë.
+Dialogue: 1,0:15:46.46,0:15:50.00,Q1,,0,0,0,,Aria, mund t'i kapësh grerëzat\Nme rrjetat e tua si më parë?
+Dialogue: 1,0:15:50.00,0:15:52.21,Q1,,0,0,0,,Nëse janë jashtë, sigurisht.
+Dialogue: 1,0:15:52.21,0:15:55.54,Q1,,0,0,0,,Por nëse dalin të tjera nga foleja,\Nrrjetat e mia s'do të mjaftojnë.
+Dialogue: 1,0:15:55.96,0:16:01.08,Q1,,0,0,0,,Dhe s'kemi insekticid...\NMbase mund t'i mpijmë me të ftohtë?
+Dialogue: 1,0:16:01.08,0:16:03.54,Q1,,0,0,0,,Po, nëse ngrijmë gjithë folenë.
+Dialogue: 1,0:16:03.54,0:16:05.83,Q1,,0,0,0,,Por një shënjestër aq e madhe...
+Dialogue: 1,0:16:06.00,0:16:09.33,Q1,,0,0,0,,Diçka kaq e madhe? Do pak kohë,\Npor unë mund t'ia dal.
+Dialogue: 1,0:16:09.54,0:16:10.63,Q1,,0,0,0,,Vërtet?!
+Dialogue: 1,0:16:10.96,0:16:13.13,Q1,,0,0,0,,Mirë. Atëherë e kemi planin.
+Dialogue: 1,0:16:15.21,0:16:20.33,Q1,,0,0,0,,Së pari, kapim grerëzat roje\Nme një rrjetë të bërë nga fijet e Aria-s.
+Dialogue: 1,0:16:20.75,0:16:24.54,Q1,,0,0,0,,Pastaj, Xenon-i përdor magjinë paralizuese\Npër të ndalur përforcimet që dalin.
+Dialogue: 1,0:16:25.83,0:16:26.71,Q1,,0,0,0,,Në fund,
+Dialogue: 1,0:16:26.71,0:16:32.88,Q1,,0,0,0,,Ed-i e ngrin folenë me magjinë alkimike\Ndhe i asgjëson njëherësh grerëzat brenda!
+Dialogue: 1,0:16:33.79,0:16:35.88,Q1,,0,0,0,,Kjo mbaroi shpejt.
+Dialogue: 1,0:16:35.88,0:16:39.67,Q1,,0,0,0,,Me sa duket, s'paskësh nevojë\Ntë rrija si truproja jote.
+Dialogue: 1,0:16:40.08,0:16:40.96,Q1,,0,0,0,,Urra!
+Dialogue: 1,0:16:40.96,0:16:42.21,Q1,,0,0,0,,Kollaj fare.
+Dialogue: 1,0:16:42.38,0:16:46.17,Q1,,0,0,0,,Hej, hej! E shihni atë gjënë?\NNga brenda na vjen një erë e mirë!
+Dialogue: 1,0:16:46.38,0:16:51.00,Q1,,0,0,0,,Erë e mirë? Tani që e mendoj,\Nkështu thatë edhe për grerëzën më parë...
+Dialogue: 1,0:16:51.50,0:16:55.54,Q1,,0,0,0,,Vërtet ndiej një lloj mane të veçantë\Nqë vjen nga brenda folesë.
+Dialogue: 1,0:16:55.54,0:16:58.96,Q1,,0,0,0,,Mbase kjo është «era e mirë»\Npër të cilën flet Gomamiso-ja jonë?
+Dialogue: 1,0:16:59.38,0:17:03.17,Q1,,0,0,0,,Ah, po, edhe ti përmende\Ndiçka të ngjashme, Aria!
+Dialogue: 1,0:17:04.13,0:17:05.83,Q1,,0,0,0,,Ed, si është brenda?
+Dialogue: 1,0:17:06.25,0:17:11.63,Q1,,0,0,0,,Hëm... I ftohti duhet të jetë përhapur tashmë.\NBesoj se kanë ngordhur të gjitha.
+Dialogue: 1,0:17:11.63,0:17:12.71,Q1,,0,0,0,,Mirë.
+Dialogue: 1,0:17:14.58,0:17:17.42,Q1,,0,0,0,,Ju të tjerët rrini këtu dhe siguroni zonën.
+Dialogue: 1,0:17:17.83,0:17:19.21,Q1,,0,0,0,,Unë do të kontrolloj brenda.
+Dialogue: 1,0:17:19.21,0:17:20.88,Q1,,0,0,0,,Po vij me ty!
+Dialogue: 1,0:17:20.88,0:17:21.58,Q1,,0,0,0,,Edhe ne!
+Dialogue: 1,0:17:42.13,0:17:43.33,Q1,,0,0,0,,Qenka gjigante!
+Dialogue: 1,0:17:43.33,0:17:47.13,Q1,,0,0,0,,Ah, vë bast se këtë po ndienin\NAria dhe Xenon-i.
+Dialogue: 1,0:17:47.58,0:17:49.46,Q1,,0,0,0,,Mos është mbretëresha ajo?!
+Dialogue: 1,0:17:58.13,0:17:59.83,Q1,,0,0,0,,Ndal, Miso!
+Dialogue: 1,0:18:03.88,0:18:07.08,Q1,,0,0,0,,Heeej! Është e jona! Na e jep!
+Dialogue: 1,0:18:07.38,0:18:08.75,Q1,,0,0,0,,Jo, kurrsesi!
+Dialogue: 1,0:18:08.75,0:18:11.29,Q1,,0,0,0,,U përket të gjithëve në grup!
+Dialogue: 1,0:18:11.29,0:18:14.96,Q1,,0,0,0,,Jooo! Ka erë shumë të mirë! Është e shijshme!
+Dialogue: 1,0:18:15.38,0:18:18.71,Q1,,0,0,0,,Ai kristali që ke në dorë...\NBesoj se është ajo që quhet gur magjik.
+Dialogue: 1,0:18:19.54,0:18:20.54,Q1,,0,0,0,,Gur magjik?
+Dialogue: 1,0:18:20.54,0:18:23.75,Q1,,0,0,0,,E thënë thjesht, është një masë mane.
+Dialogue: 1,0:18:23.75,0:18:25.88,Q1,,0,0,0,,Edhe unë shoh një të tillë për herë të parë.
+Dialogue: 1,0:18:26.25,0:18:29.63,Q1,,0,0,0,,Me shumë gjasë, ai ishte shkaku\Ni përmasave të mëdha të grerëzave.
+Dialogue: 1,0:18:30.38,0:18:34.75,Q1,,0,0,0,,Kam dëgjuar se gurët magjikë\Nformohen natyrshëm për një kohë të gjatë
+Dialogue: 1,0:18:34.75,0:18:37.79,Q1,,0,0,0,,në thellësi të birucave apo vendeve të tjera\Nku grumbullohet mana.
+Dialogue: 1,0:18:38.00,0:18:42.79,Q1,,0,0,0,,Besoj se kjo është fuqia për Shenjtoren\Npër të cilën na foli Noah!
+Dialogue: 1,0:18:43.25,0:18:44.92,Q1,,0,0,0,,Ashtu? Atëherë do të thotë...
+Dialogue: 1,0:18:44.92,0:18:47.58,Q1,,0,0,0,,Po! Misioni ynë i parë përfundoi!
+Dialogue: 1,0:18:48.38,0:18:49.71,Q1,,0,0,0,,Po!
+Dialogue: 1,0:18:48.38,0:18:49.71,Q9,,0,0,0,,Urra!
+Dialogue: 1,0:18:50.04,0:18:56.04,Q1,,0,0,0,,Më pas, anëtarët e Smorgasbord-it\Ni vranë të gjithë lakuriqët e stërmëdhenj.
+Dialogue: 1,0:18:56.54,0:19:00.04,Q1,,0,0,0,,Pasi u thamë fshatarëve\Nse më në fund mund të flinin të qetë,
+Dialogue: 1,0:19:00.04,0:19:01.88,Q1,,0,0,0,,u larguam nga fshati.
+Dialogue: 1,0:19:01.88,0:19:03.63,Q1,,0,0,0,,Dhe pas kësaj...
+Dialogue: 1,0:19:04.25,0:19:06.08,Q1,,0,0,0,,Është koha për darkë!
+Dialogue: 1,0:19:06.75,0:19:11.79,Q1,,0,0,0,,Mendova se mund të ndodhte diçka e tillë...\Nndaj poqa paraprakisht një derr pylli!
+Dialogue: 1,0:19:12.00,0:19:13.21,Q1,,0,0,0,,Ooo!
+Dialogue: 1,0:19:13.21,0:19:16.88,Q1,,0,0,0,,Mund ta përdor furrën e të tjerat\Npa e nxjerrë fare Campy-n!
+Dialogue: 1,0:19:17.08,0:19:18.79,Q1,,0,0,0,,Si do ta hamë mishin?
+Dialogue: 1,0:19:20.00,0:19:23.21,Q1,,0,0,0,,Mendova të bëja\Nca sanduiçe pak ndryshe!
+Dialogue: 1,0:19:23.79,0:19:28.04,Q1,,0,0,0,,Përgatisni mishin e pjekur, proshutë e djathë,\Ndhe prisni plot kastravecë turshi.
+Dialogue: 1,0:19:28.46,0:19:32.58,Q1,,0,0,0,,Lyeni bukën me bollëk mustardë\Ndhe shtoni mbushjen...
+Dialogue: 1,0:19:33.08,0:19:36.00,Q1,,0,0,0,,pastaj thekeni me shumë gjalpë!
+Dialogue: 1,0:19:36.42,0:19:38.21,Q1,,0,0,0,,Lëreni ta thithë gjithë gjalpin...
+Dialogue: 1,0:19:38.96,0:19:41.33,Q1,,0,0,0,,dhe kur të bëhet krokante nga jashtë...
+Dialogue: 1,0:19:42.92,0:19:47.00,Q1,,0,0,0,,sanduiçi juaj kuban i thekur\Nme mish derri pylli është gati!
+Dialogue: 1,0:19:48.79,0:19:50.75,Q1,,0,0,0,,Ka një aromë mëkatare!
+Dialogue: 1,0:19:50.75,0:19:53.71,Q1,,0,0,0,,Të hash diçka të tillë kaq vonë\Nnatën duhet të jetë mëkat!
+Dialogue: 1,0:19:54.29,0:19:57.46,Q1,,0,0,0,,Hehehe! Le të mëkatojmë të gjithë bashkë!
+Dialogue: 1,0:19:57.75,0:20:00.04,Q1,,0,0,0,,Mirë, hani tani!
+Dialogue: 1,0:20:04.17,0:20:06.38,Q1,,0,0,0,,Çfarë dreqin po na jep të hamë, Rin?!
+Dialogue: 1,0:20:06.38,0:20:08.58,Q1,,0,0,0,,Ky qenka mëkat në çdo kafshatë!
+Dialogue: 1,0:20:08.92,0:20:14.58,Q1,,0,0,0,,Gjalpi i pasur dhe mishi i lëngshëm...\NSikur më shpërthejnë shijet në gojë!
+Dialogue: 1,0:20:14.58,0:20:17.67,Q1,,0,0,0,,Mëkati vetë në këtë orë të natës...
+Dialogue: 1,0:20:17.67,0:20:20.75,Q1,,0,0,0,,O Zot, ki mëshirë për dishepullin tënd mëkatar!
+Dialogue: 1,0:20:23.13,0:20:24.75,Q1,,0,0,0,,Të përfundojmë një birucë?
+Dialogue: 1,0:20:25.21,0:20:29.29,Q1,,0,0,0,,Po. Ka një birucë të fshehtë\Njo shumë larg kryeqytetit.
+Dialogue: 1,0:20:29.54,0:20:33.79,Q1,,0,0,0,,Brenda saj ndodhet një rruzull i fuqishëm\Nqë mund ta forcojë Shenjtoren.
+Dialogue: 1,0:20:33.79,0:20:36.33,Q1,,0,0,0,,Dhe kjo birucë ka një kusht të veçantë:
+Dialogue: 1,0:20:36.33,0:20:40.50,Q1,,0,0,0,,vetëm Shenjtorja, pra dikush\Nnga një botë tjetër, mund ta pushtojë.
+Dialogue: 1,0:20:40.50,0:20:42.67,Q1,,0,0,0,,Një tjetër telash i bezdisshëm...
+Dialogue: 1,0:20:43.21,0:20:48.46,Q1,,0,0,0,,Gjithashtu, në lojë kjo është biruca ku\NVil-i dhe shokët e tij humbasin jetën.
+Dialogue: 1,0:20:52.54,0:20:53.46,Q1,,0,0,0,,...Çfarë?
+Dialogue: 1,0:20:54.13,0:20:57.54,Q1,,0,0,0,,Në të vërtetë, ata të katër\Ns'janë të dashur të mundshëm apo diçka e tillë.
+Dialogue: 1,0:20:57.54,0:21:01.71,Q1,,0,0,0,,Janë thjesht personazhe pa emër, NPC,\Nqë u japin gjallëri ngjarjeve të Shenjtores.
+Dialogue: 1,0:21:02.25,0:21:04.46,Q1,,0,0,0,,NPC?! Vil-i dhe të tjerët?!
+Dialogue: 1,0:21:04.92,0:21:06.83,Q1,,0,0,0,,Çfarë? Jo, prit një çast...
+Dialogue: 1,0:21:07.50,0:21:09.42,Q1,,0,0,0,,Dhe në këtë birucë, ata...?
+Dialogue: 1,0:21:09.42,0:21:10.46,Q1,,0,0,0,,Jo!
+Dialogue: 1,0:21:10.71,0:21:17.08,Q1,,0,0,0,,Po të rrezikoja vetëm jetën time,\Ns'do t'ju përfshija ty apo Vil-in në këtë.
+Dialogue: 1,0:21:17.63,0:21:19.75,Q1,,0,0,0,,Por nëse ngjarjet ndjekin rrjedhën e parashikuar,
+Dialogue: 1,0:21:19.75,0:21:22.71,Q1,,0,0,0,,s'e di ç'do të bëhet me mbretërinë\Ndhe gjysmënjerëzit...
+Dialogue: 1,0:21:23.50,0:21:24.58,Q1,,0,0,0,,Noah...
+Dialogue: 1,0:21:26.04,0:21:31.38,Q1,,0,0,0,,Por ti, Rin... Me aftësinë tënde,\Nmund t'ia prishësh planet skenarit!
+Dialogue: 1,0:21:31.83,0:21:32.92,Q1,,0,0,0,,Aftësinë time?
+Dialogue: 1,0:21:32.92,0:21:35.83,Q1,,0,0,0,,Prandaj, edhe pse mbase\Ns'është e drejtë ta them kështu...
+Dialogue: 1,0:21:36.29,0:21:40.50,Q1,,0,0,0,,dua që ti të vendosësh nëse\NSmorgasbord-i do ta pranojë këtë mision.
+Dialogue: 1,0:21:41.71,0:21:43.13,Q1,,0,0,0,,Unë?
+Dialogue: 1,0:21:46.71,0:21:47.58,Q1,,0,0,0,,Hej, miq!
+Dialogue: 1,0:21:48.50,0:21:51.25,Q1,,0,0,0,,Le të shqyrtojmë hollësitë e misionit të dytë.
+Dialogue: 1,0:21:55.21,0:21:57.42,Q1,,0,0,0,,Miqtë e mi të shtrenjtë janë NPC?
+Dialogue: 1,0:21:58.50,0:22:00.75,Q1,,0,0,0,,Shenjtore apo jo, aq më bën.
+Dialogue: 1,0:22:01.33,0:22:02.88,Q1,,0,0,0,,Nëse kështu duhet të shkojnë ngjarjet...
+Dialogue: 1,0:22:02.88,0:22:04.92,Q1,,0,0,0,,do ta përmbys gjithçka!
+Dialogue: 0,0:00:01.00,0:00:06.96,Q0,,0,0,0,,{\pos(499.2,151.2)}{\an7}Vajza e Trëndafilit të Egër
+Dialogue: 0,0:00:06.96,0:00:10.42,Q2,,0,0,0,,{\pos(179.2,302.4)}{\an7}????
+Dialogue: 0,0:00:06.96,0:00:10.42,Q2,,0,0,0,,{\pos(153.6,352.8)}{\an7}Sulm
+Dialogue: 0,0:00:06.96,0:00:10.42,Q2,,0,0,0,,{\pos(153.6,403.2)}{\an7}Magji
+Dialogue: 0,0:00:06.96,0:00:10.42,Q2,,0,0,0,,{\pos(166.4,453.6)}{\an7}Send
+Dialogue: 0,0:00:06.96,0:00:10.42,Q2,,0,0,0,,{\pos(166.4,504)}{\an7}Ik
+Dialogue: 0,0:00:06.96,0:00:07.75,Q3,,0,0,0,,{\pos(448,453.6)}{\an7}????
+Dialogue: 0,0:00:06.96,0:00:07.75,Q3,,0,0,0,,{\pos(473.6,504)}{\an7}«O Zot, kjo është e frikshme...»
+Dialogue: 0,0:00:07.75,0:00:08.75,Q2,,0,0,0,,{\pos(460.8,453.6)}{\an7}Ashram
+Dialogue: 0,0:00:07.75,0:00:08.75,Q2,,0,0,0,,{\pos(512,504)}{\an7}«Më beso! Ja ku po ia nis!»
+Dialogue: 0,0:00:08.75,0:00:10.42,Q2,,0,0,0,,{\pos(448,453.6)}{\an7}????
+Dialogue: 0,0:00:08.75,0:00:10.42,Q2,,0,0,0,,{\pos(473.6,504)}{\an7}«U mor vesh! Hja!»
+Dialogue: 0,0:00:10.42,0:00:14.21,Q4,,0,0,0,,{\pos(460.8,403.2)}{\an7}Ceres
+Dialogue: 0,0:00:10.42,0:00:14.21,Q4,,0,0,0,,{\pos(473.6,453.6)}{\an7}«Prit...
+Dialogue: 0,0:00:10.42,0:00:14.21,Q4,,0,0,0,,{\pos(486.4,504)}{\an7}Po më fton në takim?»
+Dialogue: 0,0:02:25.21,0:02:30.71,Q2,,0,0,0,,{\pos(102.4,619.2)}{\an7}Episodi 11: Një sanduiç kuban në mesnatë ka shije mëkati!
+Dialogue: 0,0:04:54.42,0:04:58.88,Q5,,0,0,0,,{\pos(499.2,604.8)}{\an7}Vajza e Trëndafilit të Egër
+Dialogue: 0,0:23:36.04,0:23:41.00,Q10,,0,0,0,,{\pos(576,266.4)}{\an7}Episodi 12
+Dialogue: 0,0:23:36.04,0:23:41.00,Q11,,0,0,0,,{\pos(192,396)}{\an7}Ju lumtë, shijoni kerrin! Por aventura vazhdon pa fund!
+

@@ -13,7 +13,8 @@
         "liar-game-kcq5v"
       ],
       "file": "files/liar-game-24.sq.vtt",
-      "offset": 0
+      "offset": 0,
+      "assFile": "ass/liar-game-24.sq.ass"
     },
     {
       "id": "grand-blue-s3-11",
@@ -25,7 +26,8 @@
         "grand-blue-season-3"
       ],
       "file": "files/grand-blue-s3-11.sq.vtt",
-      "offset": 0
+      "offset": 0,
+      "assFile": "ass/grand-blue-s3-11.sq.ass"
     },
     {
       "id": "crowned-in-a-hundred-days-25",
@@ -37,7 +39,8 @@
         "crowned-in-a-hundred-days"
       ],
       "file": "files/crowned-in-a-hundred-days-25.sq.vtt",
-      "offset": 0
+      "offset": 0,
+      "assFile": "ass/crowned-in-a-hundred-days-25.sq.ass"
     },
     {
       "id": "buchigire-reijou-11",
@@ -49,7 +52,8 @@
         "buchigire-reijou-wa-houfuku-wo-chikaimashita-madousho-no-chikara-de-sokoku-wo-tataki-tsubushimasu"
       ],
       "file": "files/buchigire-reijou-11.sq.vtt",
-      "offset": 0
+      "offset": 0,
+      "assFile": "ass/buchigire-reijou-11.sq.ass"
     },
     {
       "id": "skeleton-knight-s2-11",
@@ -61,7 +65,8 @@
         "skeleton-knight-in-another-world-season-2"
       ],
       "file": "files/skeleton-knight-s2-11.sq.vtt",
-      "offset": 0
+      "offset": 0,
+      "assFile": "ass/skeleton-knight-s2-11.sq.ass"
     },
     {
       "id": "insipid-prince-11",
@@ -73,7 +78,8 @@
         "the-insipid-prince-s-furtive-grab-for-the-throne-46638"
       ],
       "file": "files/insipid-prince-11.sq.vtt",
-      "offset": 0
+      "offset": 0,
+      "assFile": "ass/insipid-prince-11.sq.ass"
     },
     {
       "id": "forsaken-saintess-11",
@@ -85,7 +91,8 @@
         "the-forsaken-saintess-and-her-foodie-roadtrip-in-another-world-3cd1a"
       ],
       "file": "files/forsaken-saintess-11.sq.vtt",
-      "offset": 0
+      "offset": 0,
+      "assFile": "ass/forsaken-saintess-11.sq.ass"
     },
     {
       "id": "oh-boy-was-i-wrong-11",
@@ -97,7 +104,8 @@
         "oh-boy-was-i-wrong-about-her-eb482"
       ],
       "file": "files/oh-boy-was-i-wrong-11.sq.vtt",
-      "offset": 0
+      "offset": 0,
+      "assFile": "ass/oh-boy-was-i-wrong-11.sq.ass"
     },
     {
       "id": "love-unseen-11",
@@ -109,7 +117,8 @@
         "love-unseen-beneath-the-clear-night-sky-dfe0a"
       ],
       "file": "files/love-unseen-11.sq.vtt",
-      "offset": 0
+      "offset": 0,
+      "assFile": "ass/love-unseen-11.sq.ass"
     },
     {
       "id": "young-ladies-11",
@@ -121,7 +130,8 @@
         "young-ladies-don-t-play-fighting-games-2ff37"
       ],
       "file": "files/young-ladies-11.sq.vtt",
-      "offset": 0
+      "offset": 0,
+      "assFile": "ass/young-ladies-11.sq.ass"
     },
     {
       "id": "oblivious-saint-12",
@@ -133,7 +143,8 @@
         "the-oblivious-saint-can-t-contain-her-power"
       ],
       "file": "files/oblivious-saint-12.sq.vtt",
-      "offset": 0
+      "offset": 0,
+      "assFile": "ass/oblivious-saint-12.sq.ass"
     },
     {
       "id": "kimi-ga-shinu-11",
@@ -145,7 +156,8 @@
         "kimi-ga-shinu-made-koi-wo-shitai"
       ],
       "file": "files/kimi-ga-shinu-11.sq.vtt",
-      "offset": 0
+      "offset": 0,
+      "assFile": "ass/kimi-ga-shinu-11.sq.ass"
     }
   ]
 }

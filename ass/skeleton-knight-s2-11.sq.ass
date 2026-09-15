@@ -1,0 +1,310 @@
+﻿[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+YCbCr Matrix: TV.601
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback_Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Narration,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Italics - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback_Italics - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Sign_Basic,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: sign_18391_180_Episode_1,Times New Roman,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,110,110,0,0,1,0,0,8,10,10,115,1
+Style: sign_18391_181_The_Wandering_Kn,Times New Roman,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,110,110,0,0,1,0,0,2,10,10,115,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.87,0:00:03.00,Main,Tsubone,0,0,0,,Ti je ai që e ktheu\NSasuke-n në të pavdekur?!
+Dialogue: 0,0:00:03.71,0:00:07.97,Main,Palurumo,0,0,0,,Sasuke? Ah, e ke fjalën për kukullën time?
+Dialogue: 0,0:00:08.84,0:00:09.98,Main,Chiyome,0,0,0,,Kukullën...?!
+Dialogue: 0,0:00:12.38,0:00:15.70,Main,Tsubone,0,0,0,,Nga veshja jote,\Nbesoj se je pjesë e kishës.
+Dialogue: 0,0:00:15.70,0:00:18.27,Main,Tsubone,0,0,0,,Por diçka më thotë\Nse s'je prift i zakonshëm.
+Dialogue: 0,0:00:18.70,0:00:21.75,Main,Palurumo,0,0,0,,Vërtet pret\Nt'u përgjigjem krijesave si ju?
+Dialogue: 0,0:00:21.75,0:00:23.96,Main,Tsubone,0,0,0,,Mos u bëj kështu.
+Dialogue: 0,0:00:23.96,0:00:27.43,Main,Tsubone,0,0,0,,Do të doja të dëgjoja gjithçka...\Nsepse më ke ngjallur interes.
+Dialogue: 0,0:00:28.01,0:00:32.14,Main,Tsubone,0,0,0,,Pra... kush je dhe nga vjen?
+Dialogue: 0,0:00:32.71,0:00:35.97,Main,Tsubone,0,0,0,,A... do... të... ma... thuash?
+Dialogue: 0,0:01:14.56,0:01:18.89,Main,Arc,0,0,0,,Pra, një mënyrë për t'i mbajtur duart të pastra\Ndhe për të shmangur çdo dyshim?
+Dialogue: 0,0:01:20.44,0:01:21.26,Main,Arc,0,0,0,,Në gardë!
+Dialogue: 0,0:01:21.26,0:01:24.18,Main,Arc,0,0,0,,Prerja e Viverna-s!
+Dialogue: 0,0:01:23.20,0:01:24.18,Sign_Basic,Sign,0,0,0,,{\fad(550,0)\an5\fnTimes New Roman\b1\fs40\c&H463932&\3c&HFDFBE6&\frz76.84\frx2\fry356\pos(86,158.667)}Prerja e Viverna-s
+Dialogue: 0,0:02:08.49,0:02:10.57,Italics,Arc,0,0,0,,Mirëmbrëma. Jam unë, Arc.
+Dialogue: 0,0:02:10.57,0:02:13.04,Italics,Arc,0,0,0,,Mbërritëm në qytetin njerëzor\Ntë Tajiento-s dhe
+Dialogue: 0,0:02:13.04,0:02:15.68,Italics,Arc,0,0,0,,hasëm të pavdekur e giamiantë të tërbuar!
+Dialogue: 0,0:02:15.68,0:02:19.49,Italics,Arc,0,0,0,,Dhe sapo menduam se gjetëm\Nzotëri Sasuke-n, me të ishte...
+Dialogue: 0,0:02:19.49,0:02:23.31,Main,Palurumo,0,0,0,,Unë jam Palurumo Avaritia Liberalitas.
+Dialogue: 0,0:02:23.31,0:02:26.29,Main,Palurumo,0,0,0,,Një nga shtatë kardinalët\Ne Kishës Hilk.
+Dialogue: 0,0:02:28.49,0:02:29.99,Main,Arc,0,0,0,,Kisha Hilk?
+Dialogue: 0,0:02:29.99,0:02:31.38,Main,Ariane,0,0,0,,Kam dëgjuar për ta.
+Dialogue: 0,0:02:31.38,0:02:34.81,Main,Ariane,0,0,0,,Është një besim që kohët e fundit\Npo përhapet mes njerëzve.
+Dialogue: 0,0:02:34.81,0:02:38.37,Main,Chiyome,0,0,0,,Me sa duket, i quajnë të papastër\Nnjerëzit-bisha dhe elfët...
+Dialogue: 0,0:02:39.59,0:02:46.83,Main,Arc,0,0,0,,E kuptoj. Megjithatë, flet shumë\Npër dikë kaq përçmues.
+Dialogue: 0,0:02:47.56,0:02:50.26,Main,Palurumo,0,0,0,,Pse? Pse sapo...
+Dialogue: 0,0:02:51.07,0:02:55.64,Main,Tsubone,0,0,0,,Hë, çfarë të të bëj të na tregosh tani?
+Dialogue: 0,0:02:57.14,0:02:59.67,Main,Palurumo,0,0,0,,E kuptoj. Kjo është vepër e teknikës sate.
+Dialogue: 0,0:02:59.67,0:03:00.46,Main,Ariane,0,0,0,,Teknikës?
+Dialogue: 0,0:03:00.46,0:03:02.01,Main,Arc,0,0,0,,Për çfarë po flet?
+Dialogue: 0,0:03:02.43,0:03:04.40,Main,Tsubone,0,0,0,,Ah, më zbulove.
+Dialogue: 0,0:03:04.40,0:03:08.78,Main,Chiyome,0,0,0,,Tsubone përdor teknika hijesh\Nqë e lejojnë të manipulojë njerëzit.
+Dialogue: 0,0:03:08.78,0:03:10.07,Main,Ariane,0,0,0,,Mund t'i kontrollojë njerëzit?!
+Dialogue: 0,0:03:10.07,0:03:10.93,Main,Arc,0,0,0,,Për besë!
+Dialogue: 0,0:03:11.78,0:03:14.54,Main,Tsubone,0,0,0,,Trupi në hije, Mjegulla Aromatike\Ne Zogut Këngëtar Fantazmë!
+Dialogue: 0,0:03:14.94,0:03:16.30,Sign_Basic,Sign,0,0,0,,{\fad(400,0)\frz12.87\frx0\fry2\fnTimes New Roman\shad0\3c&H897D84&\pos(368,308)\b1}Trupi në Hije,\NMjegulla Aromatike e Zogut Këngëtar Fantazmë
+Dialogue: 0,0:03:21.59,0:03:26.27,Main,Tsubone,0,0,0,,Tani, na jep ca përgjigje,\Nkardinal Palurumo.
+Dialogue: 0,0:03:26.27,0:03:28.97,Main,Tsubone,0,0,0,,Pse është Sasuke i pavdekur?
+Dialogue: 0,0:03:31.23,0:03:33.35,Main,Tsubone,0,0,0,,Përgjigju! Pse është Sasuke—
+Dialogue: 0,0:03:33.35,0:03:35.05,Main,Palurumo,0,0,0,,Një teknikë mjaft mbresëlënëse.
+Dialogue: 0,0:03:35.61,0:03:39.23,Main,Palurumo,0,0,0,,Të më çorientojë mua,\Nqoftë edhe për pak çaste.
+Dialogue: 0,0:03:39.62,0:03:44.61,Main,Palurumo,0,0,0,,Megjithatë, s'mund të mendosh se marifetet\Ne tua të vogla do të bëjnë gjithmonë punë.
+Dialogue: 0,0:03:44.61,0:03:46.96,Main,Chiyome,0,0,0,,Po i reziston teknikës së Tsubone-s?!
+Dialogue: 0,0:03:46.96,0:03:49.98,Main,Tsubone,0,0,0,,E shoh që s'e paske fituar\Nkot atë pozitë.
+Dialogue: 0,0:03:49.98,0:03:54.23,Main,Tsubone,0,0,0,,Atëherë të shohim si do t'i bësh ballë\Nnjë teknike më të fortë!
+Dialogue: 0,0:03:54.69,0:03:56.53,Main,Palurumo,0,0,0,,S'do të jetë e nevojshme.
+Dialogue: 0,0:03:57.01,0:04:00.51,Main,Palurumo,0,0,0,,Nëse vetëm këtë doni të dini,\Ns'e kam problem t'jua tregoj.
+Dialogue: 0,0:04:00.82,0:04:01.71,Main,Tsubone,0,0,0,,Çfarë?
+Dialogue: 0,0:04:02.12,0:04:05.51,Main,Palurumo,0,0,0,,Pyetët pse ky njeri është i pavdekur?
+Dialogue: 0,0:04:08.95,0:04:13.94,Main,Palurumo,0,0,0,,Po bënim eksperimente me të pavdekur\Nnë një fshat të caktuar.
+Dialogue: 0,0:04:14.58,0:04:18.05,Main,Ariane,0,0,0,,Pra, ju ishit pas\Nasaj që ndodhi në Denel!
+Dialogue: 0,0:04:18.05,0:04:23.95,Main,Palurumo,0,0,0,,Ah, pra ishte grupi juaj\Nqë shkatërroi atë laborator.
+Dialogue: 0,0:04:23.95,0:04:29.08,Main,Chiyome,0,0,0,,Në gjithë vendin janë rrëmbyer\Nelfë, njerëz-bisha, madje edhe njerëz.
+Dialogue: 0,0:04:29.66,0:04:31.04,Main,Chiyome,0,0,0,,Rrëmbyesit kanë thënë të gjithë
+Dialogue: 0,0:04:31.31,0:04:34.44,Main,Chiyome,0,0,0,,se robërit ia dorëzonin\Nnjë blerësi nga jashtë vendit...
+Dialogue: 0,0:04:34.96,0:04:38.79,Main,Arc,0,0,0,,Dhe gjithë kohën\Nfijet i tërhiqnit ju.
+Dialogue: 0,0:04:38.79,0:04:42.20,Main,Ariane,0,0,0,,I morët ato viktima\Ndhe i përdorët për eksperimente!
+Dialogue: 0,0:04:42.57,0:04:43.72,Main,Palurumo,0,0,0,,Saktë.
+Dialogue: 0,0:04:43.72,0:04:47.73,Main,Palurumo,0,0,0,,Që të krijonim\Nnjë ushtri të vdekurish të gjallë.
+Dialogue: 0,0:04:48.21,0:04:51.76,Main,Tsubone,0,0,0,,Sasuke po kërkonte\Nnjerëzit-bisha të rrëmbyer...
+Dialogue: 0,0:04:52.94,0:04:54.09,Main,Chiyome,0,0,0,,Mos vallë?!
+Dialogue: 0,0:04:54.38,0:04:58.37,Main,Palurumo,0,0,0,,Siç e menduat.\NAi e kishte zbuluar çfarë po bënim
+Dialogue: 0,0:04:58.37,0:05:01.83,Main,Palurumo,0,0,0,,dhe depërtoi në Mbretërinë e Shenjtë Hilk.
+Dialogue: 0,0:05:17.74,0:05:19.72,Flashback,Sasuke,0,0,0,,Rrini të qetë. Do t'ju nxjerr jashtë.
+Dialogue: 0,0:05:19.72,0:05:23.53,Flashback,Thanatos,0,0,0,,Një njeri-bishë... hëm, dhe\Nanëtar i klanit Jinshin.
+Dialogue: 0,0:05:29.57,0:05:31.25,Flashback,Sasuke,0,0,0,,Trupi në erë, Cikloni Kosites!
+Dialogue: 0,0:05:37.92,0:05:39.94,Flashback,Sasuke,0,0,0,,Trupi në erë, Vorbulla Burg!
+Dialogue: 0,0:05:45.71,0:05:48.53,Flashback,Thanatos,0,0,0,,Ke fuqi interesante.
+Dialogue: 0,0:05:50.63,0:05:54.82,Flashback,Thanatos,0,0,0,,Pikërisht ato që kërkojmë\Nte një subjekt eksperimentesh...
+Dialogue: 0,0:05:58.71,0:06:03.45,Main,Palurumo,0,0,0,,Por zoti Thanatos e kapi fare lehtë.
+Dialogue: 0,0:06:03.45,0:06:07.55,Main,Chiyome,0,0,0,,Gënjen! Sasuke s'do të kapej\Nkurrë kaq lehtë!
+Dialogue: 0,0:06:07.97,0:06:11.82,Main,Palurumo,0,0,0,,Kryeprifti ynë, zoti Thanatos,\Nka fuqi që tejkalojnë edhe ato të Zotit.
+Dialogue: 0,0:06:11.82,0:06:15.71,Main,Palurumo,0,0,0,,Askush në botë\Ns'mund ta sfidojë.
+Dialogue: 0,0:06:15.71,0:06:19.34,Main,Ariane,0,0,0,,Thanatos? Besoj se ai është\Npas gjithë kësaj.
+Dialogue: 0,0:06:19.34,0:06:20.54,Main,Palurumo,0,0,0,,Mos e harro vendin tënd!
+Dialogue: 0,0:06:21.22,0:06:24.03,Main,Palurumo,0,0,0,,Një elfe e thjeshtë s'ka të drejtë të flasë për të!
+Dialogue: 0,0:06:24.03,0:06:26.85,Main,Palurumo,0,0,0,,Shkëlqesia e Tij sundon\NMbretërinë e Shenjtë Hilk...
+Dialogue: 0,0:06:26.85,0:06:31.23,Main,Palurumo,0,0,0,,Jo, është bariu që\Ndo të prijë çdo qenie të gjallë!
+Dialogue: 0,0:06:31.23,0:06:35.74,Main,Tsubone,0,0,0,,Si, saktësisht? Ai e ktheu\NSasuke-n në të pavdekur!
+Dialogue: 0,0:06:35.74,0:06:39.87,Main,Palurumo,0,0,0,,Saktë. Dhe, të them të drejtën,\Ne kam zili për atë privilegj.
+Dialogue: 0,0:06:39.87,0:06:41.24,Main,Ariane,0,0,0,,Çfarë?!
+Dialogue: 0,0:06:41.67,0:06:45.21,Main,Paraulumo,0,0,0,,U ringjall si një i pavdekur\Nqë mund të veprojë i pavarur,
+Dialogue: 0,0:06:45.21,0:06:46.16,Main,Paraulumo,0,0,0,,me gjykimin e vet.
+Dialogue: 0,0:06:46.16,0:06:52.54,Main,Paraulumo,0,0,0,,Madje mori një mision\Ndrejtpërdrejt nga Shkëlqesia e Tij!
+Dialogue: 0,0:06:52.54,0:06:56.42,Main,Paraulumo,0,0,0,,Të komandojë të pavdekurit e tjerë...
+Dialogue: 0,0:06:56.76,0:07:01.02,Main,Paraulumo,0,0,0,,Një nder më i madh se ç'ka merituar\Nkurrë ndonjë njeri-bishë.
+Dialogue: 0,0:07:01.55,0:07:04.43,Main,Ariane,0,0,0,,Pse po e sulmon Kisha Hilk\Nkëtë qytet?
+Dialogue: 0,0:07:04.43,0:07:09.00,Main,Palurumo,0,0,0,,Tajiento-n po e sulmojnë vetëm\Ngiamiantët dhe të pavdekurit.
+Dialogue: 0,0:07:09.48,0:07:11.43,Main,Palurumo,0,0,0,,Përkundrazi, klerikët tanë
+Dialogue: 0,0:07:11.43,0:07:15.44,Main,Palurumo,0,0,0,,po u zgjasin dorën e shpëtimit\Natyre që vuajnë këtu.
+Dialogue: 0,0:07:15.44,0:07:16.94,Main,Ariane,0,0,0,,Ç'paturpësi—!
+Dialogue: 0,0:07:16.94,0:07:21.49,Main,Arc,0,0,0,,Pra, një mënyrë për t'i mbajtur duart të pastra\Ndhe për të shmangur çdo dyshim?
+Dialogue: 0,0:07:21.84,0:07:24.44,Main,Arc,0,0,0,,Duket se kemi përballë keqbërës të vërtetë!
+Dialogue: 0,0:07:24.84,0:07:27.45,Main,Tsubone,0,0,0,,Ç'u bë me njerëzit tanë\Nqë Sasuke u përpoq të shpëtonte?
+Dialogue: 0,0:07:27.45,0:07:30.72,Main,Palurumo,0,0,0,,E dini, s'jam i sigurt.
+Dialogue: 0,0:07:30.72,0:07:34.93,Main,Palurumo,0,0,0,,Mbase po enden nëpër rrugë\Nsi të pavdekur teksa flasim.
+Dialogue: 0,0:07:35.60,0:07:39.96,Main,Palurumo,0,0,0,,Nëse është kështu,\Nme siguri ndihet i kënaqur.
+Dialogue: 0,0:07:39.96,0:07:45.86,Main,Palurumo,0,0,0,,I shërben kryepriftit tonë me ndihmën\Ne atyre që donte të shpëtonte!
+Dialogue: 0,0:07:48.29,0:07:51.04,Main,Chiyome,0,0,0,,Sasuke është vërtet i jashtëzakonshëm.
+Dialogue: 0,0:07:52.21,0:07:54.34,Main,Chiyome,0,0,0,,Zbuloi kërcënimin ndaj popullit tonë
+Dialogue: 0,0:07:54.70,0:07:57.37,Main,Chiyome,0,0,0,,dhe pastaj depërtoi i vetëm\Nnë selinë e armikut...
+Dialogue: 0,0:07:57.67,0:08:00.97,Main,Chiyome,0,0,0,,Pikërisht siç do të prisja nga\Nnjeriu që adhuroja si vëllanë tim.
+Dialogue: 0,0:08:01.75,0:08:05.88,Main,Chiyome,0,0,0,,Dhe tani, do ta vazhdoj unë në vend të tij.
+Dialogue: 0,0:08:11.08,0:08:13.73,Main,Palurumo,0,0,0,,Mbase fola tepër.
+Dialogue: 0,0:08:14.20,0:08:18.97,Main,Palurumo,0,0,0,,S'ka rëndësi. E arrita qëllimin.\NDhe për më tepër...
+Dialogue: 0,0:08:18.97,0:08:22.67,Main,Palurumo,0,0,0,,gjithsesi, do të vdisni të gjithë këtu.
+Dialogue: 0,0:08:29.73,0:08:31.31,Main,Chiyome,0,0,0,,Me Sasuke-n merrem unë.
+Dialogue: 0,0:08:31.31,0:08:33.53,Main,Arc,0,0,0,,Jeni e sigurt, zonjusha Chiyome?
+Dialogue: 0,0:08:33.53,0:08:37.61,Main,Chiyome,0,0,0,,Kam ndër mend ta çliroj shpirtin\Ne vëllait tim me duart e mia.
+Dialogue: 0,0:08:38.02,0:08:41.02,Main,Arc,0,0,0,,Zonjusha Chiyome... Mirë, u kuptua!
+Dialogue: 0,0:08:41.02,0:08:43.44,Main,Ariane,0,0,0,,Ne merremi me të pavdekurit.
+Dialogue: 0,0:08:43.44,0:08:45.29,Main,Tsubone,0,0,0,,Po mbështetem tek ti, Chiyome.
+Dialogue: 0,0:08:45.29,0:08:46.28,Main,Chiyome,0,0,0,,Mirë.
+Dialogue: 0,0:08:46.28,0:08:49.41,Main,Palurumo,0,0,0,,Shkatërrojini bashkë me qytetin.
+Dialogue: 0,0:08:59.28,0:09:00.71,Main,Ariane,0,0,0,,Të pavdekurit...
+Dialogue: 0,0:09:01.72,0:09:03.23,Main,Arc,0,0,0,,Palurumo iku!
+Dialogue: 0,0:09:03.23,0:09:04.60,Main,Arc,0,0,0,,Kur arriti të...?
+Dialogue: 0,0:09:04.60,0:09:05.48,Main,Chiyome,0,0,0,,Po vijnë!
+Dialogue: 0,0:09:15.31,0:09:21.34,Main,Ariane,0,0,0,,Zjarr, vallëzo e shpërndahu,\Nqë të bëhen hi bashkë me shpirtrat!
+Dialogue: 0,0:09:25.48,0:09:27.86,Main,Ariane,0,0,0,,S'do t'ju lëmë\Ntë ndërhyni në betejën e tyre!
+Dialogue: 0,0:09:28.90,0:09:29.88,Main,Arc,0,0,0,,Në gardë!
+Dialogue: 0,0:09:29.88,0:09:32.42,Main,Arc,0,0,0,,Prerja e Viverna-s!
+Dialogue: 0,0:09:32.09,0:09:33.14,Sign_Basic,Sign,0,0,0,,{\fad(575,0)\an5\fnTimes New Roman\b1\fs40\c&H463932&\3c&HFDFBE6&\frz76.84\frx2\fry356\pos(69.333,155.334)}Prerja e Viverna-s
+Dialogue: 0,0:09:43.06,0:09:45.31,Main,Tsubone,0,0,0,,Trupi në hije, Marioneta e Përjetshme!
+Dialogue: 0,0:09:45.27,0:09:46.56,Sign_Basic,Sign,0,0,0,,{\fad(425,0)\an8\fnTimes New Roman\b1\c&HA14155&\3c&HFAE0E8&\4c&HD385B2&}Trupi në Hije, Marioneta e Përjetshme
+Dialogue: 0,0:09:54.39,0:09:56.36,Main,Tsubone,0,0,0,,Keni rastin të ikni. Shpejt!
+Dialogue: 0,0:09:58.94,0:10:03.10,Main,Tsubone,0,0,0,,Ashtu. Pastroji ata\Ntë pavdekur për mua, të lutem.
+Dialogue: 0,0:10:03.10,0:10:04.65,Main,Tsubone,0,0,0,,Giamiant i mbarë!
+Dialogue: 0,0:10:10.68,0:10:11.86,Main,Danka,0,0,0,,Erdhëm t'ju çlirojmë.
+Dialogue: 0,0:10:11.86,0:10:13.84,Main,Ayn,0,0,0,,Vraponi të gjithë, shpejt!
+Dialogue: 0,0:10:19.60,0:10:21.54,Main,Tsubone,0,0,0,,Kaq duhet të mjaftojë.
+Dialogue: 0,0:10:21.54,0:10:24.88,Main,Tsubone,0,0,0,,Mirë, giamiant! Gatitu!
+Dialogue: 0,0:10:26.43,0:10:29.05,Main,Tsubone,0,0,0,,Ngrije dorën e djathtë lart...
+Dialogue: 0,0:10:31.12,0:10:32.15,Main,Tsubone,0,0,0,,dhe bam!
+Dialogue: 0,0:10:36.64,0:10:38.76,Main,Tsubone,0,0,0,,Mirë. Faleminderit për ndihmën.
+Dialogue: 0,0:10:46.00,0:10:48.25,Main,Chiyome,0,0,0,,Trupi në ujë, Shurikenët e Përmbytjes!
+Dialogue: 0,0:10:48.83,0:10:50.83,Main,Sasuke,0,0,0,,Trupi në erë, Shurikenët e Tornados!
+Dialogue: 0,0:10:52.53,0:10:54.68,Main,Chiyome,0,0,0,,Trupi në ujë, Rrymat Heshta!
+Dialogue: 0,0:10:54.68,0:10:56.51,Main,Sasuke,0,0,0,,Trupi në erë, Heshtat e Stuhisë!
+Dialogue: 0,0:11:02.30,0:11:04.39,Main,Sasuke,0,0,0,,Trupi në erë, Vorbulla Burg!
+Dialogue: 0,0:11:12.58,0:11:13.90,Italics,Chiyome,0,0,0,,Sasuke...
+Dialogue: 0,0:11:17.67,0:11:20.51,Flashback,Rou,0,0,0,,Kur ikën, mos u shqetëso\Nta zgjedhësh rrugën më të shkurtër.
+Dialogue: 0,0:11:20.51,0:11:22.15,Flashback,Rou,0,0,0,,Armiku e parashikon tepër lehtë.
+Dialogue: 0,0:11:29.90,0:11:33.32,Flashback,Rou,0,0,0,,Një luftëtar i fortë mund\Nt'i befasojë gjithmonë armiqtë.
+Dialogue: 0,0:11:34.13,0:11:36.87,Flashback,Rou,0,0,0,,Dhe kur dikush befasohet,\Nmendja e tij lë hapësira të pambrojtura.
+Dialogue: 0,0:11:37.70,0:11:40.29,Flashback,Rou,0,0,0,,Atëherë s'të duhet as shpejtësi, as forcë.
+Dialogue: 0,0:11:40.60,0:11:45.22,Flashback,Rou,0,0,0,,Dhe sa më i fortë armiku,\Naq më shumë duhet ta mbash mend këtë.
+Dialogue: 0,0:11:46.49,0:11:48.93,Flashback,Rou,0,0,0,,Vërtet s'duhet\Ntë tregohesh aq e pakujdesshme.
+Dialogue: 0,0:11:49.31,0:11:53.30,Flashback,Mia,0,0,0,,M-Më fal! Domethënë, që të solla telashe...
+Dialogue: 0,0:11:56.01,0:11:57.62,Flashback,Sasuke,0,0,0,,Më mjafton që je mirë.
+Dialogue: 0,0:11:58.63,0:12:01.78,Flashback,Sasuke,0,0,0,,S'do të doja të provoja\Ndhimbjen e humbjes së familjes...
+Dialogue: 0,0:12:03.04,0:12:04.28,Flashback,Mia,0,0,0,,Vëlla...
+Dialogue: 0,0:12:05.28,0:12:07.58,Main,Sasuke,0,0,0,,Trupi në erë, Shurikenët e Tornados!
+Dialogue: 0,0:12:17.41,0:12:18.09,Main,Sasuke,0,0,0,,Trupi në erë...
+Dialogue: 0,0:12:20.55,0:12:22.01,Main,Sasuke,0,0,0,,Heshtat e Stuhisë!
+Dialogue: 0,0:12:29.01,0:12:30.20,Main,Ariane,0,0,0,,Chiyome!
+Dialogue: 0,0:12:31.01,0:12:36.01,sign_18391_180_Episode_1,Sign,0,0,0,,Episodi 11
+Dialogue: 0,0:12:31.01,0:12:36.01,sign_18391_181_The_Wandering_Kn,Sign,0,0,0,,Duel gjaku! Vdekje mes qytetit që shembet
+Dialogue: 0,0:12:47.03,0:12:48.24,Main,Ariane,0,0,0,,Një mur akulli?
+Dialogue: 0,0:12:48.83,0:12:49.91,Flashback,Sasuke,0,0,0,,Heshtat e Stuhisë!
+Dialogue: 0,0:12:50.61,0:12:53.54,Flashback,Chiyome,0,0,0,,Trupi në ujë, Shurikenët e Përmbytjes — Ngricë!
+Dialogue: 0,0:13:04.72,0:13:05.36,Main,Tsubone,0,0,0,,Chiyome!
+Dialogue: 0,0:13:05.36,0:13:06.18,Main,Ariane,0,0,0,,Chiyome!
+Dialogue: 0,0:13:08.15,0:13:11.87,Main,Chiyome,0,0,0,,Duket se ende kisha dyshime.
+Dialogue: 0,0:13:13.56,0:13:18.22,Main,Chiyome,0,0,0,,Vëllai im s'është më.\NKëtë ia përsërisja vetes gjithë kohën...
+Dialogue: 0,0:13:19.19,0:13:23.57,Main,Chiyome,0,0,0,,Por diku, thellë brenda,\Nende s'e kisha humbur shpresën.
+Dialogue: 0,0:13:24.55,0:13:28.11,Main,Chiyome,0,0,0,,Ishte gati ta sakrifikonte\Nkëtë vajzë për të më vrarë mua...
+Dialogue: 0,0:13:29.20,0:13:32.95,Main,Chiyome,0,0,0,,Vëllai që njoh unë\Ns'do ta bënte kurrë këtë.
+Dialogue: 0,0:13:32.95,0:13:36.46,Main,Chiyome,0,0,0,,Dhe tani e di me siguri\Nse ai nuk është Sasuke!
+Dialogue: 0,0:13:36.96,0:13:38.55,Main,Chiyome,0,0,0,,Të lutem, kujdesu për të.
+Dialogue: 0,0:13:44.85,0:13:47.47,Italics,Chiyome,0,0,0,,Vëllai im e përdor shpatën\Nmë mirë se kaq...
+Dialogue: 0,0:13:48.18,0:13:50.38,Main,Sasuke,0,0,0,,Trupi në erë, Shurikenët e Tornados!
+Dialogue: 0,0:13:50.38,0:13:51.28,Main,Sasuke,0,0,0,,Supremë!
+Dialogue: 0,0:13:51.85,0:13:53.78,Main,Chiyome,0,0,0,,Trupi në ujë, Shurikenët e Përmbytjes!
+Dialogue: 0,0:13:54.15,0:13:55.01,Main,Chiyome,0,0,0,,Supremë!
+Dialogue: 0,0:14:01.02,0:14:03.82,Main,Chiyome,0,0,0,,Ninjutsu-ja e tij ishte\Nmë e fuqishme se kaq...
+Dialogue: 0,0:14:04.44,0:14:06.68,Main,Sasuke,0,0,0,,Trupi në erë, Tehet e Mbështjella me Erë...
+Dialogue: 0,0:14:06.68,0:14:07.49,Main,Sasuke,0,0,0,,Korrje!
+Dialogue: 0,0:14:14.07,0:14:15.12,Italics,Chiyome,0,0,0,,Vëllai im...
+Dialogue: 0,0:14:16.00,0:14:17.34,Italics,Chiyome,0,0,0,,Vëllai im...!
+Dialogue: 0,0:14:55.41,0:14:57.78,Main,Sasuke,0,0,0,,Trupi në erë, Vorbulla Kositëse.
+Dialogue: 0,0:14:59.41,0:15:00.42,Main,Ariane,0,0,0,,Chiyome!
+Dialogue: 0,0:15:11.75,0:15:12.91,Main,Tsubone,0,0,0,,Këtu mbaron.
+Dialogue: 0,0:15:18.64,0:15:21.70,Main,Chiyome,0,0,0,,Ai ishte një karrem që krijova\Nme ninjutsu uji.
+Dialogue: 0,0:15:22.37,0:15:23.85,Main,Chiyome,0,0,0,,E le veten krejt të pambrojtur.
+Dialogue: 0,0:15:25.00,0:15:28.11,Main,Chiyome,0,0,0,,Trupi në ujë, Burgimi i Gjilpërave të Gjakut.
+Dialogue: 0,0:15:29.53,0:15:31.24,Sign_Basic,Sign,0,0,0,,{\fad(700,0)\pos(320,238)\fnTimes New Roman\b1\c&HF3ECC9&\3c&H976F32&\bord1\4c&HF9E8E4&\shad2}Trupi në Ujë, Burgimi i Gjilpërave të Gjakut
+Dialogue: 0,0:15:43.12,0:15:46.80,Main,Chiyome,0,0,0,,Vërtet s'duhet\Ntë tregohesh aq i pakujdesshëm.
+Dialogue: 0,0:15:48.88,0:15:51.28,Main,Sasuke,0,0,0,,Qenke... bërë kaq e fortë...
+Dialogue: 0,0:15:56.78,0:15:59.52,Main,Chiyome,0,0,0,,Sasuke?
+Dialogue: 0,0:16:02.47,0:16:03.72,Main,Ariane,0,0,0,,Është i vetëdijshëm?
+Dialogue: 0,0:16:04.32,0:16:06.22,Main,Ariane,0,0,0,,Duhet ta thërrasim shpejt Arc-un\Nqë ta shërojë!
+Dialogue: 0,0:16:06.22,0:16:07.18,Main,Tsubone,0,0,0,,S'do të ndihmojë.
+Dialogue: 0,0:16:08.48,0:16:12.78,Main,Tsubone,0,0,0,,Magjia shëruese s'vepron mbi një trup të vdekur.
+Dialogue: 0,0:16:16.78,0:16:19.24,Main,Sasuke,0,0,0,,E... mbajte mend.
+Dialogue: 0,0:16:19.92,0:16:20.80,Main,Chiyome,0,0,0,,Po.
+Dialogue: 0,0:16:21.67,0:16:24.04,Main,Sasuke,0,0,0,,Një luftëtar vërtet i fortë...
+Dialogue: 0,0:16:24.49,0:16:27.04,Main,Chiyome,0,0,0,,...mund t'i befasojë gjithmonë armiqtë.
+Dialogue: 0,0:16:27.04,0:16:29.05,Main,Sasuke,0,0,0,,Ka edhe më shumë.
+Dialogue: 0,0:16:29.42,0:16:33.55,Main,Sasuke,0,0,0,,Mund ta rrezikojë jetën...\Npër të mirën e të tjerëve.
+Dialogue: 0,0:16:35.97,0:16:38.32,Main,Sasuke,0,0,0,,Më fal, Chiyome.
+Dialogue: 0,0:16:39.31,0:16:43.76,Main,Sasuke,0,0,0,,Por të më përcjellë familja ime...\Ntë më përcjellësh {\i1}ti{\i0}...
+Dialogue: 0,0:16:44.66,0:16:46.59,Main,Sasuke,0,0,0,,është nderi më i madh që mund të kërkoja.
+Dialogue: 0,0:16:48.65,0:16:49.80,Main,Sasuke,0,0,0,,Faleminderit.
+Dialogue: 0,0:17:11.26,0:17:13.69,Main,Chiyome,0,0,0,,Sikur vëllai im të kishte ende\Nforcën që kishte kur ishte gjallë,
+Dialogue: 0,0:17:14.27,0:17:16.43,Main,Chiyome,0,0,0,,s'do të kisha asnjë mundësi kundër tij.
+Dialogue: 0,0:17:17.59,0:17:20.91,Main,Chiyome,0,0,0,,Ju falënderoj për ndihmën, zonjusha Ariane.
+Dialogue: 0,0:17:21.60,0:17:24.69,Main,Chiyome,0,0,0,,Tani, të nxitojmë të takohemi\Nme zotëri Danka-n dhe të—
+Dialogue: 0,0:17:25.50,0:17:27.72,Main,Chiyome,0,0,0,,Zonjusha Ariane?! Çfarë ka?
+Dialogue: 0,0:17:28.46,0:17:30.26,Main,Ariane,0,0,0,,S'ke pse të sillesh\Nsikur s'të dhemb.
+Dialogue: 0,0:17:31.61,0:17:34.55,Main,Ariane,0,0,0,,Ai kishte shumë rëndësi për ty, apo jo?
+Dialogue: 0,0:17:38.34,0:17:39.52,Main,Chiyome,0,0,0,,Po.
+Dialogue: 0,0:17:53.56,0:17:56.51,Main,Charros,0,0,0,,Të pavdekurit nuk po lëvizin më!
+Dialogue: 0,0:17:56.76,0:17:59.53,Main,Charros,0,0,0,,Ç'dreqin po bën Palurumo?!
+Dialogue: 0,0:17:59.53,0:18:01.64,Main,Palurumo,0,0,0,,Ç'mendon se po bëja?
+Dialogue: 0,0:18:01.96,0:18:05.02,Main,Charros,0,0,0,,Pas gjithë atyre fjalëve, në fund dështove!
+Dialogue: 0,0:18:05.02,0:18:07.44,Main,Palurumo,0,0,0,,Mendon se dështova?
+Dialogue: 0,0:18:07.44,0:18:13.65,Main,Palurumo,0,0,0,,Shkatërrimi i Tajiento-s ishte\Nmisioni yt, kardinal Charros.
+Dialogue: 0,0:18:15.15,0:18:19.21,Main,Palurumo,0,0,0,,Unë jam këtu vetëm për të të ndihmuar.
+Dialogue: 0,0:18:19.21,0:18:23.41,Main,Palurumo,0,0,0,,Nëse misioni s'përmbushet,\Nfaji është vetëm i yti.
+Dialogue: 0,0:18:25.92,0:18:29.19,Main,Palurumo,0,0,0,,Kardinalët e tjerë\Nkanë nisur tashmë veprimet...
+Dialogue: 0,0:18:29.83,0:18:31.50,Main,Palurumo,0,0,0,,Disa po u hyjnë në zemër
+Dialogue: 0,0:18:31.50,0:18:35.26,Main,Palurumo,0,0,0,,fisnikëve për t'i kontrolluar\Nshtetet nga brenda.
+Dialogue: 0,0:18:35.78,0:18:40.76,Main,Palurumo,0,0,0,,Disa kanë nisur eksperimente\Npër t'i forcuar më tej trupat tona.
+Dialogue: 0,0:18:40.96,0:18:46.27,Main,Palurumo,0,0,0,,Gjithçka që bota\Ntë zhytet në kaos.
+Dialogue: 0,0:18:46.27,0:18:48.10,Main,Palurumo,0,0,0,,Sa më shumë të shtohet kaosi,
+Dialogue: 0,0:18:48.10,0:18:51.21,Main,Palurumo,0,0,0,,aq më shumë njerëzimi do të kapet\Npas Kishës Hilk për shpëtim.
+Dialogue: 0,0:18:51.21,0:18:54.02,Main,Charros,0,0,0,,Mendon se s'e di këtë?!
+Dialogue: 0,0:18:54.02,0:18:58.78,Main,Palurumo,0,0,0,,Atëherë përmbushe detyrën tënde,\Npër hir të Shkëlqesisë së Tij.
+Dialogue: 0,0:19:02.07,0:19:04.89,Main,Tsubone,0,0,0,,E di që Sasuke e vlerëson\Natë që bëre për të.
+Dialogue: 0,0:19:05.49,0:19:07.90,Main,Tsubone,0,0,0,,Edhe unë të jam mirënjohëse, Chiyome.
+Dialogue: 0,0:19:08.29,0:19:09.45,Main,Chiyome,0,0,0,,Tsubone...
+Dialogue: 0,0:19:10.36,0:19:11.29,Main,Danka,0,0,0,,Ariane.
+Dialogue: 0,0:19:13.21,0:19:15.50,Main,Ariane,0,0,0,,Danka! Si shkoi shpëtimi?
+Dialogue: 0,0:19:15.50,0:19:21.13,Main,Danka,0,0,0,,Me sukses. Ayn-i i shoqëroi të gjithë\Ntë rrëmbyerit jashtë qytetit.
+Dialogue: 0,0:19:21.82,0:19:22.81,Main,Chiyome,0,0,0,,Ç'lehtësim.
+Dialogue: 0,0:19:23.22,0:19:25.75,Main,Danka,0,0,0,,Duket se edhe ju\Ni keni zgjidhur punët tuaja.
+Dialogue: 0,0:19:26.22,0:19:27.04,Main,Chiyome,0,0,0,,Po.
+Dialogue: 0,0:19:30.23,0:19:32.71,Main,Soldier 2,0,0,0,,Të pavdekurit s'po sulmojnë më!
+Dialogue: 0,0:19:32.71,0:19:34.69,Main,Soldier 3,0,0,0,,Tani përqendrohuni te giamiantët!
+Dialogue: 0,0:19:34.69,0:19:36.84,Main,Tsubone,0,0,0,,Njerëzit e kanë përmbysur betejën.
+Dialogue: 0,0:19:37.26,0:19:39.74,Main,Chiyome,0,0,0,,Duhet t'i ndihmojmë?
+Dialogue: 0,0:19:39.74,0:19:41.86,Main,Danka,0,0,0,,Jo. Përfundimi është i qartë.
+Dialogue: 0,0:19:42.24,0:19:44.16,Main,Danka,0,0,0,,S'kemi nevojë të ndërhyjmë më.
+Dialogue: 0,0:19:44.16,0:19:45.12,Main,Ariane,0,0,0,,Mirë.
+Dialogue: 0,0:19:45.54,0:19:47.16,Main,Danka,0,0,0,,Vura re se Arc-u s'është këtu.
+Dialogue: 0,0:19:47.16,0:19:49.68,Main,Ariane,0,0,0,,Tani që e mendoj...
+Dialogue: 0,0:19:51.55,0:19:55.12,Main,Arc,0,0,0,,Gjatë luftimit përfunduam\Nthellë brenda qytetit.
+Dialogue: 0,0:19:55.12,0:19:57.64,Main,Arc,0,0,0,,Ku të jenë zonjusha Ariane\Ndhe të tjerët, vallë?
+Dialogue: 0,0:20:01.63,0:20:03.86,Main,Woman 1,0,0,0,,Kardinal Charros, ju lutemi, na shpëtoni!
+Dialogue: 0,0:20:03.86,0:20:06.01,Main,Man 1,0,0,0,,Ju lutemi, na ndihmoni me fuqinë tuaj!
+Dialogue: 0,0:20:06.01,0:20:06.87,Main,Crowd,0,0,0,,Kardinal Charros!
+Dialogue: 0,0:20:06.87,0:20:08.87,Main,Crowd,0,0,0,,Ka giamiantë dhe\Ntë pavdekur në qytet!
+Dialogue: 0,0:20:08.87,0:20:10.73,Main,Crowd,0,0,0,,Do të vdesim të gjithë!
+Dialogue: 0,0:20:11.21,0:20:13.07,Main,Crowd,0,0,0,,Është kardinali Charros!
+Dialogue: 0,0:20:11.98,0:20:14.29,Main - Top,Crowd,0,0,0,,Kardinali Charros ka ardhur të na ndihmojë!
+Dialogue: 0,0:20:13.07,0:20:15.52,Main,Woman 2,0,0,0,,Ju lutemi, kardinal Charros!
+Dialogue: 0,0:20:23.24,0:20:27.24,Main,Charros,0,0,0,,Më keni ardhur në majë të hundës të gjithë!
+Dialogue: 0,0:20:34.05,0:20:36.52,Main,Charros,0,0,0,,Ky qytet gjithsesi do të shkatërrohet!
+Dialogue: 0,0:20:36.52,0:20:40.06,Main,Charros,0,0,0,,Po ju çliroj nga tmerri juaj!
+Dialogue: 0,0:20:43.26,0:20:45.90,Main,Charros,0,0,0,,Koha për të ngrënë!
+Dialogue: 0,0:20:52.43,0:20:56.53,Main,Charros,0,0,0,,Zakonisht i parapëlqej\Npak më të pjekur, por...
+Dialogue: 0,0:20:56.94,0:20:59.94,Main,Charros,0,0,0,,S'duhet çuar gjë dëm!
+Dialogue: 0,0:21:06.52,0:21:08.84,Main,Arc,0,0,0,,Ponta, çoje djalin në vend të sigurt.
+Dialogue: 0,0:21:14.21,0:21:15.88,Main,Charros,0,0,0,,Po ti kush na qenke?!
+Dialogue: 0,0:21:16.30,0:21:19.07,Main,Arc,0,0,0,,Dhe sapo të pavdekurit\Nishin qetësuar...
+Dialogue: 0,0:21:19.07,0:21:21.21,Main,Arc,0,0,0,,Besoj se je nga Kisha Hilk?
+Dialogue: 0,0:21:21.21,0:21:24.61,Main,Charros,0,0,0,,Pse duhet të të tregoj gjë?!
+Dialogue: 0,0:21:24.61,0:21:26.97,Main,Charros,0,0,0,,Ma ndërpreve vaktin!
+Dialogue: 0,0:21:26.97,0:21:28.22,Main,Arc,0,0,0,,Vaktin tënd?
+Dialogue: 0,0:21:34.25,0:21:37.61,Main,Charros,0,0,0,,Ma prishe kënaqësinë!
+Dialogue: 0,0:21:40.20,0:21:43.86,Main,Danka,0,0,0,,Ç'është kjo fuqi magjike\Nkaq e ligë dhe e jashtëzakonshme?!
+Dialogue: 0,0:21:44.32,0:21:47.16,Main,Danka,0,0,0,,Mos është shfaqur një rrezik i ri i madh?
+Dialogue: 0,0:21:47.16,0:21:48.66,Main,Ariane,0,0,0,,Të nxitojmë!
+Dialogue: 0,0:21:51.09,0:21:53.79,Main,Charros,0,0,0,,Do ta paguash.
+Dialogue: 0,0:21:53.79,0:21:58.82,Main,Charros,0,0,0,,Sepse do të të ha\Ntë gjithin, deri në fund!
+Dialogue: 0,0:22:04.27,0:22:08.43,Main,Arc,0,0,0,,Duket se rashë në një betejë me kryearmikun.
+Dialogue: 0,0:23:40.02,0:23:45.02,sign_18391_180_Episode_1,Sign,0,0,0,,Herën tjetër
+Dialogue: 0,0:23:40.02,0:23:45.02,sign_18391_181_The_Wandering_Kn,Sign,0,0,0,,{\pos(320,270)}Ndëshkim hyjnor! Skeleti jep\Ndrejtësinë që shfaros të keqen!
+Dialogue: 0,0:23:45.02,0:23:50.25,Sign_Basic,Sign,0,0,0,,{\an8\fs18\b1\c&H8F01BD&\3c&HD0EBF4&\bord4\shad0}Një pamje qyteti si Tajiento!\N#PontaNëShëtitje
+

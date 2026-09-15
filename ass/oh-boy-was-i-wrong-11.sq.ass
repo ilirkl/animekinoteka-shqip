@@ -1,0 +1,401 @@
+﻿[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback_Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Narration,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Italics - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback_Italics - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Sign_Basic,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.98,0:00:07.23,Sign_Basic,text,0,0,0,,SHIRO
+Dialogue: 0,0:00:05.75,0:00:07.23,Main,Ema,0,0,0,,Porosi e re!
+Dialogue: 0,0:00:07.75,0:00:11.11,Main,Ema,0,0,0,,Për tavolinën gjashtë, një anmitsu me krem\Ndhe dy parfe kudzu.
+Dialogue: 0,0:00:12.36,0:00:15.24,Main,Hayato,0,0,0,,Porosia gati! Kemi tashmë\Nshumë pjata që presin të shërbehen.
+Dialogue: 0,0:00:15.24,0:00:17.43,Main,Haruki,0,0,0,,Hë? A-Ah, mirë.
+Dialogue: 0,0:00:17.43,0:00:19.26,Main,Haruki,0,0,0,,Ëh, tavolina një ishte...
+Dialogue: 0,0:00:19.26,0:00:20.87,Main,Ema,0,0,0,,Pranë dritares, apo jo?
+Dialogue: 0,0:00:20.87,0:00:22.75,Main,Ema,0,0,0,,Këtë po e çoj unë,
+Dialogue: 0,0:00:22.75,0:00:25.45,Main,Ema,0,0,0,,ndaj ti shërbeji\Nvendit katër te banaku.
+Dialogue: 0,0:00:25.45,0:00:26.75,Main,Haruki,0,0,0,,N-Në rregull.
+Dialogue: 0,0:00:30.38,0:00:32.92,Main,Haruki,0,0,0,,Ja anmitsu-ja juaj me krem.
+Dialogue: 0,0:00:34.16,0:00:35.13,Main,Haruki,0,0,0,,Mirë se erdh—
+Dialogue: 0,0:00:35.68,0:00:37.01,Main,Himeko,0,0,0,,Haru?!
+Dialogue: 0,0:00:37.01,0:00:37.89,Main,Haruki,0,0,0,,Hime?
+Dialogue: 0,0:00:37.89,0:00:40.88,Main,Himeko,0,0,0,,Ç-Ç-Ç-Çfarë bën këtu?!
+Dialogue: 0,0:00:40.88,0:00:44.04,Main,Hayato,0,0,0,,Mirë se erdhët. Kemi ca vende\Ntë lira nga fundi,
+Dialogue: 0,0:00:44.04,0:00:45.52,Main,Hayato,0,0,0,,ndaj urdhëroni brenda.
+Dialogue: 0,0:00:45.52,0:00:47.65,Main,Himeko,0,0,0,,Edhe Hayato? Pse?!
+Dialogue: 0,0:00:47.91,0:00:49.65,Main,Hayato,0,0,0,,Ë-Ëh...
+Dialogue: 0,0:01:08.71,0:01:17.22,Sign_Basic,text,0,0,0,,SA GABIM QË E PASKAM NJOHUR
+Dialogue: 0,0:02:27.62,0:02:28.92,Main - Top,Himeko,0,0,0,,Pra, kjo qenka arsyeja.
+Dialogue: 0,0:02:28.41,0:02:32.38,Sign_Basic,text,0,0,0,,{\pos(602,310)\an3}EPISODI 11 «MJAFTON TË JEMI BASHKË»
+Dialogue: 0,0:02:28.92,0:02:32.23,Main - Top,Himeko,0,0,0,,Shoku i Hayato-s ju kërkoi të zëvendësonit dikë.
+Dialogue: 0,0:02:32.23,0:02:32.96,Main - Top,Haruki,0,0,0,,Po.
+Dialogue: 0,0:02:32.96,0:02:37.12,Main,Himeko,0,0,0,,Po hej, dukesh shumë\Ne lezetshme me atë uniformë!
+Dialogue: 0,0:02:37.12,0:02:39.38,Main,Haruki,0,0,0,,Vërtet? S'më rri çuditshëm?
+Dialogue: 0,0:02:39.69,0:02:41.17,Main,Himeko,0,0,0,,Jo, të rri mirë.
+Dialogue: 0,0:02:41.17,0:02:42.94,Main,Himeko,0,0,0,,Dukesh madje si një vajzë e vërtetë!
+Dialogue: 0,0:02:42.94,0:02:44.64,Main,Himeko,0,0,0,,Vetëm mos u sill si vetja dhe je në rregull.
+Dialogue: 0,0:02:45.75,0:02:48.07,Main,Kazuki,0,0,0,,Nikaido është shumë e zonja\Ntë fshehë natyrën e vet,
+Dialogue: 0,0:02:48.07,0:02:49.64,Main,Kazuki,0,0,0,,ndaj s'besoj se ka pse të shqetësohet.
+Dialogue: 0,0:02:49.64,0:02:52.15,Main,Haruki,0,0,0,,Hëm? Po {\i1}ti{\i0} ç'bën këtu, Kaido?
+Dialogue: 0,0:02:53.34,0:02:57.78,Main,Himeko,0,0,0,,U ndeshëm me Kazuki-n jashtë\Ndhe vendosëm të hynim bashkë.
+Dialogue: 0,0:02:57.78,0:02:59.15,Main,Kazuki,0,0,0,,Po, kështu që jemi në rregull.
+Dialogue: 0,0:03:00.91,0:03:01.91,Main,Kazuki,0,0,0,,Au!
+Dialogue: 0,0:03:02.21,0:03:04.16,Main,Kazuki,0,0,0,,Të lutem, mos ma shkel këmbën, kameriere!
+Dialogue: 0,0:03:04.48,0:03:07.41,Main,Kazuki,0,0,0,,Hëm. Merrni gjithë\Nkohën që ju duhet për porosinë.
+Dialogue: 0,0:03:10.16,0:03:13.67,Main,Honoka,0,0,0,,Himeko, s'e dija fare\Nqë ishit shoqe me Nikaido-n!
+Dialogue: 0,0:03:13.67,0:03:16.90,Main,Himeko,0,0,0,,Nikaido-n? Ah, e ke fjalën për Haru-n?
+Dialogue: 0,0:03:16.90,0:03:20.27,Main,Honoka,0,0,0,,Aman! Njeh ndonjë tjetër\Naq të përsosur?
+Dialogue: 0,0:03:20.27,0:03:22.18,Main,Friend 1,0,0,0,,Lëkura thuajse i shkëlqente!
+Dialogue: 0,0:03:22.18,0:03:26.68,Main - Top,Honoka,0,0,0,,Apo jo? Është kaq e lezetshme,\Nme stil dhe femërore!
+Dialogue: 0,0:03:23.47,0:03:26.68,Italics,Haruki (M),0,0,0,,Uau, Hime paska bërë\Nplot shoqe që tani.
+Dialogue: 0,0:03:26.99,0:03:28.68,Main,Ema,0,0,0,,Çdo gjë në rregull, Nikaido?
+Dialogue: 0,0:03:28.68,0:03:33.44,Main,Haruki,0,0,0,,Ëh, po. Jam mirë. Ah, u lirua\Nnjë vend te banaku. Po shkoj të...
+Dialogue: 0,0:03:33.44,0:03:37.65,Main,Ema,0,0,0,,Prit pak. Porosia tjetër\Nështë gati, ndaj ta çojmë.
+Dialogue: 0,0:03:37.65,0:03:40.25,Main,Haruki,0,0,0,,Uau, bashkëpunoni shumë mirë.
+Dialogue: 0,0:03:40.25,0:03:42.83,Main,Ema,0,0,0,,Po, ndihmoj shpesh këtu.
+Dialogue: 0,0:03:42.83,0:03:43.82,Main,Iori,0,0,0,,Ke një fije.
+Dialogue: 0,0:03:46.19,0:03:47.33,Main,Ema,0,0,0,,Faleminderit.
+Dialogue: 0,0:03:49.83,0:03:52.20,Main,Ema,0,0,0,,Jemi shokë që nga fëmijëria.
+Dialogue: 0,0:03:52.20,0:03:53.33,Main,Ema,0,0,0,,Dhe jemi çift.
+Dialogue: 0,0:03:53.33,0:03:55.58,Main,Haruki,0,0,0,,Çfarë? A-Ah, prandaj.
+Dialogue: 0,0:03:55.94,0:03:59.04,Main,Ema,0,0,0,,Të kanë ftuar tashmë\Nnë daljen tonë në pishinë, Nikaido?
+Dialogue: 0,0:03:59.04,0:04:01.50,Main,Haruki,0,0,0,,Ëh, po. Më kanë ftuar.
+Dialogue: 0,0:04:01.50,0:04:04.76,Main,Ema,0,0,0,,Atëherë të blejmë bashkë\Nrroba banje të lezetshme!
+Dialogue: 0,0:04:04.76,0:04:05.34,Main,Haruki,0,0,0,,Hë?
+Dialogue: 0,0:04:05.68,0:04:09.10,Main,Ema,0,0,0,,Do të zgjedhim pajisjet e duhura të luftës\Npër t'i lënë pas vajzat e tjera
+Dialogue: 0,0:04:09.10,0:04:11.16,Main,Ema,0,0,0,,dhe për t'i shtënë në dorë\Ndjemtë që kemi në shënjestër!
+Dialogue: 0,0:04:11.16,0:04:13.73,Main,Ema,0,0,0,,Në fund të fundit, dashuria është betejë!
+Dialogue: 0,0:04:13.73,0:04:17.18,Main,Haruki,0,0,0,,D-Dashuria? Po, por unë\Ns'kam vënë njeri në shënjestër!
+Dialogue: 0,0:04:17.18,0:04:18.86,Main,Ema,0,0,0,,Hajt, do të kënaqemi!
+Dialogue: 0,0:04:19.16,0:04:20.61,Main,Ema,0,0,0,,Ah, qenka gati.
+Dialogue: 0,0:04:21.13,0:04:22.72,Main,Haruki,0,0,0,,Faleminderit që pritët.
+Dialogue: 0,0:04:22.72,0:04:25.11,Main,Haruki,0,0,0,,Ja asortimenti juaj i topthave të orizit.
+Dialogue: 0,0:04:30.16,0:04:32.54,Main,Hayato,0,0,0,,Porosia gati! Për tavolinën shtatë.
+Dialogue: 0,0:04:32.82,0:04:35.92,Main,Ema,0,0,0,,Gjithsej bëhen 3 400 jenë.
+Dialogue: 0,0:04:37.26,0:04:38.20,Main,Haruki,0,0,0,,Në rregull.
+Dialogue: 0,0:04:42.92,0:04:43.80,Main,Hayato,0,0,0,,Haruki!
+Dialogue: 0,0:04:49.84,0:04:51.18,Main,Hayato,0,0,0,,A-Au.
+Dialogue: 0,0:04:51.93,0:04:53.81,Main,Hayato,0,0,0,,Je mirë, Haruki?
+Dialogue: 0,0:04:54.10,0:04:56.44,Main,Haruki,0,0,0,,Ëh... çfarë? Ah, Hayato?
+Dialogue: 0,0:04:56.74,0:04:58.19,Main,Haruki,0,0,0,,M-Më fal.
+Dialogue: 0,0:04:58.19,0:04:59.29,Main,Hayato,0,0,0,,U lëndove?
+Dialogue: 0,0:04:59.29,0:05:01.00,Main,Haruki,0,0,0,,Nuk... besoj.
+Dialogue: 0,0:05:01.00,0:05:03.80,Main,Ema,0,0,0,,Na falni! Do ta pastrojmë menjëherë.
+Dialogue: 0,0:05:04.45,0:05:06.38,Main,Haruki,0,0,0,,M-Më falni, unë...
+Dialogue: 0,0:05:08.03,0:05:10.70,Main,Hayato,0,0,0,,Dëshironi t'ju sjellim gjë tjetër?
+Dialogue: 0,0:05:10.70,0:05:13.70,Main,Ema,0,0,0,,Shpresojmë t'ju shohim sërish së shpejti.
+Dialogue: 0,0:05:21.77,0:05:22.71,Main,Haruki,0,0,0,,Hë?
+Dialogue: 0,0:05:23.04,0:05:24.39,Main,Hayato,0,0,0,,Hajt, mblidhe veten.
+Dialogue: 0,0:05:24.39,0:05:27.22,Main,Hayato,0,0,0,,Ta çojmë deri në fund\Nsë bashku, Haruki.
+Dialogue: 0,0:05:29.44,0:05:32.41,Italics,Haruki (M),0,0,0,,Ka kaq shumë punë dhe unë po bëj gabime,
+Dialogue: 0,0:05:32.41,0:05:35.48,Italics,Haruki (M),0,0,0,,por sa kohë jemi bashkë,\Nçdo gjë është e këndshme.
+Dialogue: 0,0:05:35.98,0:05:40.11,Italics,Haruki (M),0,0,0,,Këtë e kisha kuptuar tashmë\Nshtatë vjet më parë, apo jo?
+Dialogue: 0,0:05:40.80,0:05:43.73,Main,Haruki,0,0,0,,Më falni. Ju kërkoj ndjesë për rrëmujën.
+Dialogue: 0,0:06:01.24,0:06:04.76,Italics,Saki (M),0,0,0,,Të lutem, ndihmoje nënën e Hime-s\Ntë shërohet sa më shpejt.
+Dialogue: 0,0:06:12.19,0:06:13.64,Italics,Himeko,0,0,0,,Hej, hidhi një sy kësaj!
+Dialogue: 0,0:06:14.81,0:06:17.66,Italics,Himeko,0,0,0,,Hayato gjeti punë\Nnë një ëmbëltore për së mbari!
+Dialogue: 0,0:06:17.66,0:06:19.27,Italics,Himeko,0,0,0,,Dhe, ja ku e ke!
+Dialogue: 0,0:06:19.27,0:06:22.65,Sign_Basic,text,0,0,0,,EDHE HARU!
+Dialogue: 0,0:06:19.99,0:06:22.65,Italics,Saki,0,0,0,,Vëllai yt dhe Haruki\Npo punojnë bashkë?
+Dialogue: 0,0:06:22.65,0:06:24.15,Italics,Himeko,0,0,0,,Po, bashkë!
+Dialogue: 0,0:06:27.20,0:06:28.27,Main,Saki,0,0,0,,Sa bukur.
+Dialogue: 0,0:06:29.03,0:06:32.16,Italics,Saki (M),0,0,0,,Unë kam mundur vetëm\Nta shoh nga larg.
+Dialogue: 0,0:06:32.61,0:06:35.04,Italics,Haruki,0,0,0,,Uau! Ç'dreqin?\NKur e bëre atë foto?
+Dialogue: 0,0:06:35.04,0:06:40.22,Italics,Himeko,0,0,0,,Ah! Haru, hej, a ka dyqani juaj\Nndonjë ulje për punonjësit?
+Dialogue: 0,0:06:40.22,0:06:42.33,Italics,Haruki,0,0,0,,Hëm, s'jam e sigurt.
+Dialogue: 0,0:06:42.33,0:06:43.95,Italics,Himeko,0,0,0,,Mendova se kur të kthehemi në Tsukinose,
+Dialogue: 0,0:06:43.95,0:06:47.05,Italics,Himeko,0,0,0,,mund t'i çojmë Saki-t\Ndiçka dhuratë.
+Dialogue: 0,0:06:47.05,0:06:49.15,Italics,Haruki,0,0,0,,Mirë, do të pyes herën tjetër.
+Dialogue: 0,0:06:49.15,0:06:54.36,Italics,Haruki,0,0,0,,Pra, do të ktheheni në Tsukinose\Ngjatë pushimeve të verës, hë?
+Dialogue: 0,0:06:54.36,0:06:58.43,Italics,Haruki,0,0,0,,Hëm, mbase unë do t'i përkushtohem\Npunës sa kohë të jeni larg.
+Dialogue: 0,0:06:58.92,0:06:59.69,Main,Saki,0,0,0,,Hë?
+Dialogue: 0,0:07:00.08,0:07:02.35,Italics,Saki,0,0,0,,Ti s'do të kthehesh,\NHaruki?
+Dialogue: 0,0:07:02.35,0:07:05.36,Italics,Haruki,0,0,0,,Gjithsesi, s'besoj se kam më\Nshtëpi ku të kthehem. Ha ha ha.
+Dialogue: 0,0:07:05.36,0:07:09.15,Italics,Saki,0,0,0,,Atëherë pse s'rrin në shtëpinë time?
+Dialogue: 0,0:07:09.15,0:07:10.74,Italics,Haruki,0,0,0,,Po, në fakt, unë...
+Dialogue: 0,0:07:10.74,0:07:13.18,Italics,Saki,0,0,0,,Do të doja shumë\Ntë të shihja, Haruki.
+Dialogue: 0,0:07:13.18,0:07:14.12,Italics,Haruki,0,0,0,,Ëh...
+Dialogue: 0,0:07:14.12,0:07:15.46,Italics,Haruki,0,0,0,,Ëh, hahaha...
+Dialogue: 0,0:07:15.46,0:07:17.38,Main,Haruki,0,0,0,,Edhe unë dua të të shoh, Saki.
+Dialogue: 0,0:07:17.38,0:07:19.46,Italics,Haruki,0,0,0,,Do të shoh nëse mund\Nta gjej një mënyrë.
+Dialogue: 0,0:07:24.91,0:07:27.14,Main,Haruki,0,0,0,,Tsukinose, hë?
+Dialogue: 0,0:07:28.22,0:07:29.97,Italics,Saki,0,0,0,,Po, të lutem!
+Dialogue: 0,0:07:30.28,0:07:33.47,Main,Haruki,0,0,0,,Saki duket vajzë shumë e mirë.
+Dialogue: 0,0:07:34.06,0:07:36.86,Main,Haruki,0,0,0,,Vë bast se ajo dhe Hayato\Ndo të ishin çift i bukur.
+Dialogue: 0,0:07:36.86,0:07:39.46,Main,Haruki,0,0,0,,Në Tsukinose e duan të gjithë.
+Dialogue: 0,0:07:43.05,0:07:45.98,Flashback,Grandmother,0,0,0,,Na ke vënë vërtet\Nnë një pozitë të tmerrshme.
+Dialogue: 0,0:07:45.98,0:07:48.48,Flashback,Grandmother,0,0,0,,S'e dimë fare çfarë gjaku\Ntë ndyrë i rrjedh në deje.
+Dialogue: 0,0:07:48.48,0:07:51.49,Flashback,Grandfather,0,0,0,,Por ti je fëmija i Mao-s,\Nndaj do të kujdesemi për ty.
+Dialogue: 0,0:07:52.03,0:07:53.11,Flashback,Mao,0,0,0,,Haruki.
+Dialogue: 0,0:07:53.44,0:07:54.54,Flashback,Grandmother,0,0,0,,Haruki.
+Dialogue: 0,0:07:55.39,0:07:58.38,Main,Haruki,0,0,0,,Atë që merr hua, duhet ta kthesh, hë?
+Dialogue: 0,0:07:59.25,0:08:00.33,Italics,Haruki (M),0,0,0,,E kuptoj këtë.
+Dialogue: 0,0:08:00.33,0:08:04.37,Italics,Haruki (M),0,0,0,,Prandaj unë dhe Hayato «ia kemi borxh»\Nnjëri-tjetrit, por s'marrim kurrë hua.
+Dialogue: 0,0:08:05.60,0:08:08.63,Main,Haruki,0,0,0,,Mbase herën tjetër\Nduhet të sjell ca pizhame.
+Dialogue: 0,0:08:09.69,0:08:12.68,Main,Hayato,0,0,0,,Hej, Haruki! Darka është gati.
+Dialogue: 0,0:08:15.14,0:08:17.76,Main,Haruki,0,0,0,,Uau, sa e shijshme duket!
+Dialogue: 0,0:08:17.76,0:08:20.38,Main,Hayato,0,0,0,,Edhe bifteku i derrit me hudhër është gati.
+Dialogue: 0,0:08:20.38,0:08:21.08,Main,Haruki,0,0,0,,Hej.
+Dialogue: 0,0:08:21.08,0:08:21.64,Main,Hayato,0,0,0,,Hëm?
+Dialogue: 0,0:08:22.01,0:08:25.65,Main,Haruki,0,0,0,,Po mendoja, a do të ishte\Nnë rregull të shkoja në Tsukinose?
+Dialogue: 0,0:08:27.90,0:08:29.15,Main,Hayato,0,0,0,,S'e kam idenë.
+Dialogue: 0,0:08:30.31,0:08:34.91,Main,Haruki,0,0,0,,Po. Gjithsesi, duket se gjyshi dhe gjyshja\Nthuajse ia kanë mbathur nga qyteti.
+Dialogue: 0,0:08:35.24,0:08:39.16,Main,Hayato,0,0,0,,Po, me siguri njerëzit do të kishin\Nplot pyetje po të shfaqeshe atje.
+Dialogue: 0,0:08:39.48,0:08:42.28,Main,Haruki,0,0,0,,Por unë s'i kam përgjigjet.
+Dialogue: 0,0:08:42.28,0:08:46.09,Main,Hayato,0,0,0,,Edhe nëse e kuptojnë këtë,\Ndisa me siguri prapë do të pyesnin.
+Dialogue: 0,0:08:46.83,0:08:51.80,Main,Haruki,0,0,0,,Po, ka gjasa. As vetë s'e di\Nsi do të dilja para tyre.
+Dialogue: 0,0:08:54.92,0:08:56.90,Main,Hayato,0,0,0,,Hej, të hamë njëherë.
+Dialogue: 0,0:08:56.90,0:08:58.24,Main,Haruki,0,0,0,,Mirë.
+Dialogue: 0,0:09:01.09,0:09:03.68,Main,Haruki,0,0,0,,Çfarë tasash të përdorim\Npër minestronen?
+Dialogue: 0,0:09:03.68,0:09:05.76,Main,Hayato,0,0,0,,S'sheh ndonjë që bën punë?
+Dialogue: 0,0:09:05.76,0:09:09.51,Main,Hayato,0,0,0,,Po, mund të përdorim\Ntasat e supës miso.
+Dialogue: 0,0:09:09.51,0:09:10.69,Main,Haruki,0,0,0,,Do të ishte e çuditshme.
+Dialogue: 0,0:09:11.12,0:09:12.69,Main,Hayato,0,0,0,,Dëgjo, Haruki...
+Dialogue: 0,0:09:12.96,0:09:13.57,Main,Haruki,0,0,0,,Hëm?
+Dialogue: 0,0:09:14.00,0:09:16.70,Main,Hayato,0,0,0,,S'e di çfarë do të\Nmendonin të tjerët,
+Dialogue: 0,0:09:17.07,0:09:20.88,Main,Hayato,0,0,0,,por unë do të gëzohesha shumë\Npo të shkoja në Tsukinose me ty.
+Dialogue: 0,0:09:22.81,0:09:24.11,Main,Haruki,0,0,0,,Mirë.
+Dialogue: 0,0:09:29.21,0:09:34.46,Sign_Basic,text,0,0,0,,MORI IORI
+Dialogue: 0,0:09:29.21,0:09:30.73,Italics,Iori,0,0,0,,Më fal, po vonohem.
+Dialogue: 0,0:09:30.73,0:09:33.26,Italics,Iori,0,0,0,,Ti dhe Kazuki shkoni\Npërpara te restoranti yakiniku.
+Dialogue: 0,0:09:33.26,0:09:34.46,Main,Hayato,0,0,0,,Seriozisht?
+Dialogue: 0,0:09:36.24,0:09:37.47,Main,Hayato,0,0,0,,Çfarë po ndodh atje?
+Dialogue: 0,0:09:37.47,0:09:39.74,Main,Airi,0,0,0,,Ah, hajde. Pse jo?
+Dialogue: 0,0:09:39.74,0:09:43.72,Main,Kazuki,0,0,0,,Thashë jo! Gjithsesi,\Nkam lënë takim me shokët.
+Dialogue: 0,0:09:43.72,0:09:46.09,Main,Airi,0,0,0,,Ti ke shokë, Kazuki-çi?
+Dialogue: 0,0:09:46.09,0:09:49.03,Main,Airi,0,0,0,,O Zot, sa për të qeshur!
+Dialogue: 0,0:09:49.03,0:09:50.23,Italics,Hayato (M),0,0,0,,Po i vardiset?
+Dialogue: 0,0:09:50.57,0:09:52.05,Main,Kazuki,0,0,0,,Ah, Hayato!
+Dialogue: 0,0:09:52.88,0:09:56.56,Main,Airi,0,0,0,,Hë? Kazuki-çi paska\Nvërtet shokë?
+Dialogue: 0,0:09:56.56,0:09:57.99,Main,Airi,0,0,0,,Besoj i bëri në gjimnaz.
+Dialogue: 0,0:09:57.99,0:10:00.81,Main,Kazuki,0,0,0,,Hë? Po, domethënë... Hej!
+Dialogue: 0,0:10:00.81,0:10:01.99,Main,Airi,0,0,0,,Hëm?
+Dialogue: 0,0:10:02.39,0:10:04.55,Main,Airi,0,0,0,,Hë, po ti çfarë kërkon?
+Dialogue: 0,0:10:04.55,0:10:07.65,Main,Airi,0,0,0,,Vajza?\NAi i tërheq si magnet, e di?
+Dialogue: 0,0:10:07.65,0:10:10.88,Main,Airi,0,0,0,,Apo dëgjove thashetheme\Npër të kaluarën tonë?
+Dialogue: 0,0:10:10.88,0:10:12.38,Main,Kazuki,0,0,0,,Airi!
+Dialogue: 0,0:10:12.79,0:10:15.38,Italics,Hayato (M),0,0,0,,Kjo vajzë qenka rast më vete.
+Dialogue: 0,0:10:16.32,0:10:19.13,Main,Hayato,0,0,0,,Unë kërkoj yakiniku pa kufi.
+Dialogue: 0,0:10:20.50,0:10:21.14,Main,Airi,0,0,0,,Hë?
+Dialogue: 0,0:10:21.73,0:10:23.02,Main,Hayato,0,0,0,,Apo jo, Kazuki?
+Dialogue: 0,0:10:23.02,0:10:26.92,Main,Hayato,0,0,0,,S'quhej vendi diçka si\NMoo-Moo Ushimaru Taro?
+Dialogue: 0,0:10:26.92,0:10:29.27,Main,Kazuki,0,0,0,,Ëh, po. Pikërisht—
+Dialogue: 0,0:10:31.76,0:10:34.20,Main,Airi,0,0,0,,Çfarë? Ky është vërtet\Nshoku yt, Kazuki-çi?
+Dialogue: 0,0:10:34.20,0:10:36.03,Main,Airi,0,0,0,,E di ai çfarë ka ndodhur?
+Dialogue: 0,0:10:36.03,0:10:39.54,Main,Hayato,0,0,0,,S'e di çfarë ka ndodhur,\Ndhe s'më intereson.
+Dialogue: 0,0:10:39.54,0:10:41.58,Main,Hayato,0,0,0,,Sidomos nëse ai\Ns'do të flasë për këtë.
+Dialogue: 0,0:10:41.58,0:10:45.04,Main,Hayato,0,0,0,,Po, jam shoku i tij, por s'më\Ninteresojnë të palarat e tij.
+Dialogue: 0,0:10:45.92,0:10:47.76,Main,Airi,0,0,0,,O Zot, sa për të qeshur!
+Dialogue: 0,0:10:47.76,0:10:50.53,Main,Airi,0,0,0,,Dëgjoje si të mbrojti me aq vrull.
+Dialogue: 0,0:10:51.12,0:10:53.35,Main,Hayato,0,0,0,,I tillë është Hayato.
+Dialogue: 0,0:10:53.35,0:10:54.05,Main,Airi,0,0,0,,Hë?
+Dialogue: 0,0:10:54.98,0:10:56.57,Main,Airi,0,0,0,,Po, dukesh tip argëtues.
+Dialogue: 0,0:10:56.57,0:10:58.52,Main,Airi,0,0,0,,Më jep një mënyrë si të të kontaktoj.
+Dialogue: 0,0:10:58.52,0:11:00.68,Main,Hayato,0,0,0,,Hë? Jo, më mirë jo.
+Dialogue: 0,0:11:01.00,0:11:03.43,Main,Kazuki,0,0,0,,Airi, po e vë\NHayato-n në siklet.
+Dialogue: 0,0:11:03.77,0:11:07.04,Main,Airi,0,0,0,,S'më ka refuzuar njeri\Nmë parë! Sa për të qeshur!
+Dialogue: 0,0:11:07.04,0:11:10.17,Main,Airi,0,0,0,,Po mos u bëj kështu...\NHayato-çi, apo jo?
+Dialogue: 0,0:11:11.72,0:11:12.73,Main,Airi,0,0,0,,Pfu.
+Dialogue: 0,0:11:12.73,0:11:16.35,Main,Airi,0,0,0,,Alo? Ah, e kanë afruar orarin?
+Dialogue: 0,0:11:16.35,0:11:19.44,Main - Top,Airi,0,0,0,,Atëherë, mbase duhet të...
+Dialogue: 0,0:11:16.35,0:11:18.53,Main,Hayato,0,0,0,,Ëh, hej. Kazuki?
+Dialogue: 0,0:11:18.53,0:11:19.44,Main,Kazuki,0,0,0,,Hajde, ikim.
+Dialogue: 0,0:11:19.44,0:11:23.82,Sign_Basic,text,0,0,0,,MOO-MOO USHIMARU TARO
+Dialogue: 0,0:11:21.11,0:11:23.82,Main,Iori,0,0,0,,Ajo vajza ishte Sato Airi, apo jo?
+Dialogue: 0,0:11:24.12,0:11:26.27,Main,Kazuki,0,0,0,,Na pe, Iori?
+Dialogue: 0,0:11:26.27,0:11:28.83,Main,Kazuki,0,0,0,,Duhej të kishe ardhur të na shpëtoje.
+Dialogue: 0,0:11:28.83,0:11:30.29,Main,Iori,0,0,0,,Po, as që bëhej fjalë!
+Dialogue: 0,0:11:30.29,0:11:33.08,Main,Hayato,0,0,0,,Edhe ti, Iori? E ke shoqe?
+Dialogue: 0,0:11:33.08,0:11:34.64,Main,Iori,0,0,0,,S'e njohe?
+Dialogue: 0,0:11:34.64,0:11:36.73,Main,Iori,0,0,0,,Ishte Sato Airi, modelja!
+Dialogue: 0,0:11:36.73,0:11:39.21,Main,Iori,0,0,0,,Ema i sheh gjithmonë postimet\Npër të marrë ide veshjesh.
+Dialogue: 0,0:11:39.21,0:11:40.59,Main,Hayato,0,0,0,,Qenka modele?
+Dialogue: 0,0:11:40.59,0:11:44.15,Main,Iori,0,0,0,,Po, dhe tani është shumë në modë,\Nndaj del kudo.
+Dialogue: 0,0:11:44.15,0:11:45.84,Main,Hayato,0,0,0,,Nga të njeh ty?
+Dialogue: 0,0:11:47.55,0:11:50.26,Main,Kazuki,0,0,0,,Është ish-e dashura ime.
+Dialogue: 0,0:11:50.88,0:11:51.60,Main,Hayato,0,0,0,,Çfarë?!
+Dialogue: 0,0:11:50.88,0:11:51.60,Main - Top,Iori,0,0,0,,Çfarë?!
+Dialogue: 0,0:11:52.00,0:11:57.48,Main,Kazuki,0,0,0,,Po, por më tepër e përdornim\Nnjëri-tjetrin sesa ishim çift.
+Dialogue: 0,0:11:57.48,0:12:01.47,Main,Kazuki,0,0,0,,Tani që e mendoj, ishim bashkë\Nthuajse vetëm sa për emër,
+Dialogue: 0,0:12:01.47,0:12:03.92,Main,Kazuki,0,0,0,,sepse kujtoja se kjo\Nmë dallonte nga të tjerët.
+Dialogue: 0,0:12:03.92,0:12:05.37,Main,Kazuki,0,0,0,,Isha një idiot.
+Dialogue: 0,0:12:05.71,0:12:08.56,Main,Kazuki,0,0,0,,E gjithë kjo shkaktoi shumë telashe,
+Dialogue: 0,0:12:08.56,0:12:11.06,Main,Kazuki,0,0,0,,ndaj i dhashë fund kur mbarova shkollën.
+Dialogue: 0,0:12:11.92,0:12:14.57,Italics,Hayato (M),0,0,0,,Po, Kazuki i ngjan shumë Haruki-t.
+Dialogue: 0,0:12:14.57,0:12:16.33,Italics,Hayato (M),0,0,0,,Sillet sikur i ka gjërat në vijë,
+Dialogue: 0,0:12:16.33,0:12:18.13,Italics,Hayato (M),0,0,0,,por ende po kërkon rrugën e vet.
+Dialogue: 0,0:12:18.13,0:12:18.88,Main,Hayato,0,0,0,,Aman.
+Dialogue: 0,0:12:19.20,0:12:21.59,Main,Kazuki,0,0,0,,Au! Hayato?
+Dialogue: 0,0:12:21.59,0:12:22.63,Main,Hayato,0,0,0,,Budalla.
+Dialogue: 0,0:12:25.76,0:12:27.76,Main,Iori,0,0,0,,Hej, hej, mishi është gati!
+Dialogue: 0,0:12:28.07,0:12:29.26,Main,Kazuki,0,0,0,,Më prisni!
+Dialogue: 0,0:12:29.64,0:12:30.80,Main,Hayato,0,0,0,,Ai është imi.
+Dialogue: 0,0:12:30.80,0:12:32.24,Main,Kazuki,0,0,0,,Edhe ti?
+Dialogue: 0,0:12:36.84,0:12:39.41,Main,Hayato,0,0,0,,Uf, hëngra tepër.
+Dialogue: 0,0:12:39.41,0:12:41.28,Main,Hayato,0,0,0,,Të paktën i nxorëm paratë që paguam.
+Dialogue: 0,0:12:41.74,0:12:43.94,Main,Kazuki,0,0,0,,S'duhej të isha munduar t'ju mbaja ritmin.
+Dialogue: 0,0:12:43.94,0:12:45.38,Main,Iori,0,0,0,,Mezi po eci.
+Dialogue: 0,0:12:45.38,0:12:47.64,Main,Iori,0,0,0,,Më duket sikur do t'i nxjerr të gjitha.
+Dialogue: 0,0:12:47.64,0:12:52.27,Main,Iori,0,0,0,,Po gjithmonë kam dashur ta provoja\Ndrekën pa kufi që kanë ditëve të javës.
+Dialogue: 0,0:12:52.27,0:12:55.17,Main,Iori,0,0,0,,Ishte vërtet e shijshme,\Nndaj mbase Ema...
+Dialogue: 0,0:12:55.17,0:12:59.21,Main,Iori,0,0,0,,Ah, mendoni se vajzat e kanë mbaruar\Npazarin për rroba banje tani?
+Dialogue: 0,0:12:59.21,0:13:01.55,Main,Hayato,0,0,0,,Hëm? Po, ka mundësi.
+Dialogue: 0,0:13:01.55,0:13:05.25,Main,Kazuki,0,0,0,,«Vajzat», në shumës?\NPra, edhe Nikaido shkoi me të?
+Dialogue: 0,0:13:05.25,0:13:07.13,Main,Hayato,0,0,0,,Edhe Himeko iu bashkua.
+Dialogue: 0,0:13:07.13,0:13:08.24,Main,Kazuki,0,0,0,,Hë.
+Dialogue: 0,0:13:08.24,0:13:10.47,Main,Iori,0,0,0,,Ç'lloj rrobash banje të ketë blerë vallë!
+Dialogue: 0,0:13:10.47,0:13:12.31,Main,Iori,0,0,0,,Mezi pret t'i shohësh, apo jo?
+Dialogue: 0,0:13:12.31,0:13:14.43,Main,Hayato,0,0,0,,Hë? Jo, s'është se...
+Dialogue: 0,0:13:14.43,0:13:17.78,Main,Iori,0,0,0,,S'je kureshtar ta shohësh\NNikaido-n me rroba banje?
+Dialogue: 0,0:13:30.23,0:13:34.38,Main,Hayato,0,0,0,,Po, ajo është vajzë.
+Dialogue: 0,0:13:40.00,0:13:43.21,Main,Himeko,0,0,0,,Haru, po këto bikini që lidhen anash?
+Dialogue: 0,0:13:43.21,0:13:45.31,Main,Himeko,0,0,0,,S'mendon se duhet\Ntë guxosh pak më shumë?
+Dialogue: 0,0:13:45.31,0:13:47.15,Main,Haruki,0,0,0,,P-Pjesa e poshtme mbahet me lidhëse?
+Dialogue: 0,0:13:47.15,0:13:50.01,Main,Haruki,0,0,0,,M-Mbase ende s'jam gati për këtë.
+Dialogue: 0,0:13:50.01,0:13:52.38,Main,Himeko,0,0,0,,Ema, po një palë si këto?
+Dialogue: 0,0:13:52.38,0:13:55.88,Main,Himeko,0,0,0,,Provo diçka pak më të mbuluar\Nqë të të bëjë të dukesh më e pjekur,
+Dialogue: 0,0:13:55.88,0:13:59.23,Main,Himeko,0,0,0,,dhe i dashuri yt mund\Ntë kthehet nga qengj në ujk!
+Dialogue: 0,0:13:59.23,0:14:00.35,Main,Himeko,0,0,0,,Vë bast se po!
+Dialogue: 0,0:14:01.26,0:14:02.15,Main,Ema,0,0,0,,S'e di.
+Dialogue: 0,0:14:02.48,0:14:05.15,Main,Himeko,0,0,0,,Pashë edhe ca të tjera që do t'ju shkonin.
+Dialogue: 0,0:14:05.53,0:14:07.79,Main,Himeko,0,0,0,,Këto për Haru-n,\Ndhe këto për Ema-n.
+Dialogue: 0,0:14:07.79,0:14:10.37,Main,Haruki,0,0,0,,P-Po këto s'të mbulojnë fare poshtë!
+Dialogue: 0,0:14:10.37,0:14:14.29,Main,Himeko,0,0,0,,Këto lidhëset përpara janë të bukura,\Npor ngjyra mbase është tepër e zbehtë.
+Dialogue: 0,0:14:14.79,0:14:18.72,Main,Ema,0,0,0,,Jo, prit. Kjo mund t'i shkojë shumë\Nlëkurës së çelët të Nikaido-s!
+Dialogue: 0,0:14:18.72,0:14:21.04,Main,Himeko,0,0,0,,Pikërisht! E kupton ç'dua të them?
+Dialogue: 0,0:14:21.04,0:14:23.47,Main,Haruki,0,0,0,,Kështu qenka pazari me vajza?
+Dialogue: 0,0:14:23.47,0:14:26.05,Main,Haruki,0,0,0,,Me Hayato-n ishte krejt ndryshe!
+Dialogue: 0,0:14:26.41,0:14:32.05,Italics,Haruki (M),0,0,0,,Tha se s'kishte telefon sepse\Ns'vendoste dot cilin të merrte, apo jo?
+Dialogue: 0,0:14:34.68,0:14:36.52,Main,Himeko,0,0,0,,Haru, koha t'i provosh!
+Dialogue: 0,0:14:36.90,0:14:38.54,Main,Haruki,0,0,0,,Prit, të gjitha ato?
+Dialogue: 0,0:14:38.54,0:14:40.02,Main,Himeko,0,0,0,,Të gjitha këto!
+Dialogue: 0,0:14:38.54,0:14:40.02,Main - Top,Ema,0,0,0,,Të gjitha këto!
+Dialogue: 0,0:14:56.08,0:14:58.79,Main,Himeko,0,0,0,,Haru, Ema,\Nbesoj se bëmë goxha blerje të mira!
+Dialogue: 0,0:14:59.11,0:15:03.03,Main,Ema,0,0,0,,Ke të drejtë. Mezi vendosa,\Npor besoj se bëra zgjedhjen e duhur!
+Dialogue: 0,0:15:03.94,0:15:07.42,Main,Airi,0,0,0,,Hej, miq! Përshëndetje të gjithëve!
+Dialogue: 0,0:15:08.93,0:15:10.43,Main,Himeko,0,0,0,,Po ndodh diçka.
+Dialogue: 0,0:15:10.43,0:15:13.80,Main,Airi,0,0,0,,Sot do t'ju prezantoj\Nmodelet tona të reja me superkamera
+Dialogue: 0,0:15:14.23,0:15:17.71,Main,Airi,0,0,0,,dhe do t'ju tregoj si përdoret\Naplikacioni i ri i filtrave Airi-ized!
+Dialogue: 0,0:15:17.71,0:15:19.66,Main,Crowd,0,0,0,,Uau!
+Dialogue: 0,0:15:22.10,0:15:24.36,Main,Himeko,0,0,0,,Haru! Është Airi, është Airi!
+Dialogue: 0,0:15:24.36,0:15:26.50,Main,Himeko,0,0,0,,Uau! Është vërtet ajo!
+Dialogue: 0,0:15:26.50,0:15:28.23,Main,Ema,0,0,0,,Qenka tepër e lezetshme!
+Dialogue: 0,0:15:28.23,0:15:29.54,Main,Himeko,0,0,0,,Dua ta shoh nga afër!
+Dialogue: 0,0:15:29.54,0:15:30.32,Main,Ema,0,0,0,,Shkojmë!
+Dialogue: 0,0:15:30.66,0:15:35.95,Main,Haruki,0,0,0,,Më falni, ndihem pak e lodhur,\Nndaj do të gjej një vend të pushoj.
+Dialogue: 0,0:15:45.13,0:15:46.43,Main,Girl 1,0,0,0,,Po, është e famshme!
+Dialogue: 0,0:15:46.43,0:15:47.59,Main,Girl 2,0,0,0,,Hajde ta shohim!
+Dialogue: 0,0:15:51.01,0:15:52.59,Main,Haruki,0,0,0,,Mami...
+Dialogue: 0,0:16:03.81,0:16:08.07,Sign_Basic,text,0,0,0,,NIKAIDO
+Dialogue: 0,0:16:09.24,0:16:10.78,Italics,Haruki,0,0,0,,Ah, sikur të kthehesha dot në shtëpi.
+Dialogue: 0,0:16:30.95,0:16:33.54,Main,Seiji,0,0,0,,S'do të shkosh ta shohësh Airi-n?
+Dialogue: 0,0:16:34.53,0:16:38.03,Main,Seiji,0,0,0,,Mos u shqetëso. Është thjesht rastësi\Nqë po takohemi sërish.
+Dialogue: 0,0:16:38.03,0:16:40.77,Main,Seiji,0,0,0,,Të kërkoj falje për\Nsjelljen time në spital.
+Dialogue: 0,0:16:41.05,0:16:41.89,Main,Haruki,0,0,0,,Ah.
+Dialogue: 0,0:16:53.35,0:16:54.99,Main,Seiji,0,0,0,,Do të doja të mos më shihje aq vëngër.
+Dialogue: 0,0:16:54.99,0:16:56.87,Main,Seiji,0,0,0,,Gjynah për atë fytyrë të bukur.
+Dialogue: 0,0:16:56.87,0:16:59.40,Main,Haruki,0,0,0,,Më fal, por vetëm këtë fytyrë kam.
+Dialogue: 0,0:16:59.40,0:17:00.87,Main,Haruki,0,0,0,,Po përpiqesh të më ngacmosh? Jo, faleminderit.
+Dialogue: 0,0:17:00.87,0:17:06.00,Main,Seiji,0,0,0,,Jo, jo. Unë jam, ëh, një nga\Norganizatorët e kësaj veprimtarie.
+Dialogue: 0,0:17:06.00,0:17:08.38,Main,Haruki,0,0,0,,Dhe çfarë do\Nnjë organizator i tillë nga unë?
+Dialogue: 0,0:17:08.80,0:17:13.06,Main,Haruki,0,0,0,,Je shumë e bukur, por besoj se me\Npak përkujdesje mund të shkëlqeje vërtet.
+Dialogue: 0,0:17:13.06,0:17:15.76,Main,Haruki,0,0,0,,E ke menduar ndonjëherë\Ntë hysh në botën e spektaklit?
+Dialogue: 0,0:17:16.09,0:17:18.51,Main,Haruki,0,0,0,,Jo, kurrë. As edhe një herë.
+Dialogue: 0,0:17:18.51,0:17:22.52,Main,Seiji,0,0,0,,Ah, më fal. Mund të thuash\Nse është një lloj vesi nga puna.
+Dialogue: 0,0:17:22.80,0:17:25.36,Main,Haruki,0,0,0,,Shko thuaja dikujt tjetër!
+Dialogue: 0,0:17:27.70,0:17:28.65,Main,Seiji,0,0,0,,Takura Mao.
+Dialogue: 0,0:17:38.96,0:17:39.78,Main,Seiji,0,0,0,,Ti je...
+Dialogue: 0,0:17:40.12,0:17:41.53,Main,Haruki,0,0,0,,Për çfarë e keni fjalën vallë?
+Dialogue: 0,0:17:42.91,0:17:46.39,Main,Haruki,0,0,0,,S'është emri i një aktoreje ai?
+Dialogue: 0,0:17:46.39,0:17:50.30,Main,Haruki,0,0,0,,S'më interesojnë këto gjëra,\Nndaj nuk i ndjek.
+Dialogue: 0,0:17:50.30,0:17:52.17,Main,Haruki,0,0,0,,Tani, me lejen tuaj.
+Dialogue: 0,0:17:52.47,0:17:54.17,Main,Seiji,0,0,0,,Hë? Ëh, po unë...
+Dialogue: 0,0:17:54.17,0:17:56.67,Main,Haruki,0,0,0,,Mirë, duhet të iki.
+Dialogue: 0,0:17:59.68,0:18:00.94,Main,Seiji,0,0,0,,Hej! Prit!
+Dialogue: 0,0:18:25.54,0:18:27.61,Italics,Haruki (M),0,0,0,,Vetëm, s'mund...
+Dialogue: 0,0:18:29.00,0:18:33.56,Italics,Haruki (M),0,0,0,,Por s'duhet të mbështetem...\NS'duhet t'i bëhem barrë...
+Dialogue: 0,0:18:35.30,0:18:35.92,Italics,Haruki (M),0,0,0,,Nuk mundem.
+Dialogue: 0,0:18:35.92,0:18:36.80,Main,Hayato,0,0,0,,Haruki!
+Dialogue: 0,0:18:44.90,0:18:47.04,Main,Hayato,0,0,0,,Çfarë ke? Çfarë ndodhi?
+Dialogue: 0,0:18:47.04,0:18:49.44,Main,Haruki,0,0,0,,Hayato? Si...
+Dialogue: 0,0:18:55.57,0:18:58.57,Main,Haruki,0,0,0,,Ëh, po...
+Dialogue: 0,0:19:01.79,0:19:03.58,Main,Haruki,0,0,0,,As vetë s'e di mirë.
+Dialogue: 0,0:19:04.31,0:19:05.12,Main,Hayato,0,0,0,,Hë?
+Dialogue: 0,0:19:05.80,0:19:06.51,Main,Haruki,0,0,0,,Hëm?
+Dialogue: 0,0:19:09.89,0:19:10.60,Main,Hayato,0,0,0,,Çfa—
+Dialogue: 0,0:19:10.60,0:19:12.65,Main,Haruki,0,0,0,,Mban erë yakiniku. S'është e drejtë!
+Dialogue: 0,0:19:12.65,0:19:14.73,Main,Hayato,0,0,0,,Po, domethënë, mund ta shpjegoj.
+Dialogue: 0,0:19:14.73,0:19:15.61,Main,Haruki,0,0,0,,Hëm?
+Dialogue: 0,0:19:21.09,0:19:23.05,Main,Hayato,0,0,0,,Je mirë? Ja.
+Dialogue: 0,0:19:23.05,0:19:25.25,Main,Haruki,0,0,0,,Ëh, po. Faleminderit.
+Dialogue: 0,0:19:26.69,0:19:29.42,Main,Haruki,0,0,0,,Prit, ku janë Kaido dhe Mori?
+Dialogue: 0,0:19:29.42,0:19:34.05,Main,Hayato,0,0,0,,U bashkuan me Himeko-n dhe Isami-n,\Ndhe thanë se do të vijnë kur të mbarojë eventi.
+Dialogue: 0,0:19:34.05,0:19:35.36,Main,Haruki,0,0,0,,Në rregull.
+Dialogue: 0,0:19:44.07,0:19:45.87,Main,Hayato,0,0,0,,Takura Mao, hë?
+Dialogue: 0,0:19:48.75,0:19:51.62,Main,Hayato,0,0,0,,M-Më fal, s'ishte çasti i duhur.
+Dialogue: 0,0:19:52.56,0:19:54.63,Main,Haruki,0,0,0,,J-Jam mirë.
+Dialogue: 0,0:19:55.54,0:19:56.58,Main,Hayato,0,0,0,,Haruki...
+Dialogue: 0,0:19:57.96,0:20:01.18,Main,Haruki,0,0,0,,S'e di mirë çfarë po ndodh.
+Dialogue: 0,0:20:01.18,0:20:03.99,Main,Haruki,0,0,0,,Një burrë nga eventi i Sato Airi-t m'u afrua
+Dialogue: 0,0:20:03.99,0:20:07.55,Main,Haruki,0,0,0,,dhe dukej se më njihte mua dhe Takura Mao-n.
+Dialogue: 0,0:20:07.55,0:20:10.14,Main,Haruki,0,0,0,,S'e kuptoja çfarë\Npo ndodhte, dhe pastaj...
+Dialogue: 0,0:20:10.62,0:20:12.14,Main,Hayato,0,0,0,,Pra, kjo paska ndodhur.
+Dialogue: 0,0:20:13.68,0:20:16.45,Main,Haruki,0,0,0,,Po, s'di ta shpjegoj mirë.
+Dialogue: 0,0:20:16.45,0:20:22.16,Main,Haruki,0,0,0,,Jashtë Tsukinose-s s'mund të ketë shumë\Nnjerëz që e dinë se unë ekzistoj.
+Dialogue: 0,0:20:22.16,0:20:25.91,Main,Haruki,0,0,0,,Mendja thjesht m'u zbraz, dhe...
+Dialogue: 0,0:20:27.21,0:20:31.91,Main,Hayato,0,0,0,,E di, kjo është hera e dytë që mamaja ime\Nu rrëzua dhe përfundoi në spital.
+Dialogue: 0,0:20:32.52,0:20:33.41,Main,Haruki,0,0,0,,Hë?
+Dialogue: 0,0:20:33.70,0:20:36.76,Main,Hayato,0,0,0,,Dhe i ka mbetur një lloj pasoje.
+Dialogue: 0,0:20:36.76,0:20:38.31,Main,Hayato,0,0,0,,S'ia rrezikon jetën,
+Dialogue: 0,0:20:38.31,0:20:41.07,Main,Hayato,0,0,0,,as s'është paralizuar apo diçka e tillë,
+Dialogue: 0,0:20:41.07,0:20:43.02,Main,Hayato,0,0,0,,por tani i përdor duart me vështirësi.
+Dialogue: 0,0:20:43.02,0:20:45.68,Main,Hayato,0,0,0,,Po përpiqet shumë gjatë rehabilitimit,
+Dialogue: 0,0:20:45.68,0:20:47.66,Main,Hayato,0,0,0,,por edhe pasi ta përfundojë,
+Dialogue: 0,0:20:47.66,0:20:50.86,Main,Hayato,0,0,0,,me siguri s'do të mund\Ntë jetojë si më parë.
+Dialogue: 0,0:20:50.86,0:20:53.04,Main,Hayato,0,0,0,,Besoj se do ta ketë të vështirë.
+Dialogue: 0,0:20:53.55,0:20:57.91,Main,Hayato,0,0,0,,Dhe s'ka gjë, sepse\Ndo t'ia dalim, por...
+Dialogue: 0,0:20:58.35,0:21:00.94,Main,Hayato,0,0,0,,Po, çfarë po përpiqem të them?
+Dialogue: 0,0:21:01.84,0:21:03.44,Main,Haruki,0,0,0,,H-Hej!
+Dialogue: 0,0:21:04.09,0:21:07.02,Main,Hayato,0,0,0,,S'e kam problem edhe po të më\Nbëhesh bezdia më e madhe në botë,
+Dialogue: 0,0:21:07.02,0:21:10.20,Main,Hayato,0,0,0,,vetëm mos më bëj të shqetësohem për ty.
+Dialogue: 0,0:21:10.57,0:21:12.56,Main,Haruki,0,0,0,,Hë? A-Ah...
+Dialogue: 0,0:21:17.61,0:21:19.90,Main,Haruki,0,0,0,,Ah, prapë kështu, Hayato.
+Dialogue: 0,0:21:19.90,0:21:22.96,Main,Haruki,0,0,0,,Prapë po më trajton\Nnjësoj si Hime-n.
+Dialogue: 0,0:21:24.04,0:21:25.40,Main,Hayato,0,0,0,,Po, me sa duket.
+Dialogue: 0,0:21:25.40,0:21:28.47,Main,Hayato,0,0,0,,Kam lindur një vit para teje,\Npra jam një vit më e madhe, apo jo?
+Dialogue: 0,0:21:28.47,0:21:31.56,Main,Haruki,0,0,0,,Mos ma kthe me kunja. Nejse, s'ka gjë.
+Dialogue: 0,0:21:31.56,0:21:34.36,Main,Haruki,0,0,0,,Vetëm mos e bëj këtë\Nme njerëz të tjerë, dakord?
+Dialogue: 0,0:21:34.36,0:21:35.73,Main,Haruki,0,0,0,,Do të më vije në siklet.
+Dialogue: 0,0:21:36.02,0:21:39.20,Main,Hayato,0,0,0,,S'do ta bëja.\NPor ti, Haruki, ti je...
+Dialogue: 0,0:21:39.20,0:21:41.11,Main,Hayato,0,0,0,,Ti je Haruki imja e vetme, dakord?
+Dialogue: 0,0:21:41.96,0:21:43.48,Main,Haruki,0,0,0,,Ç'do të thotë kjo tani?
+Dialogue: 0,0:21:44.24,0:21:45.49,Main,Hayato,0,0,0,,Do të thotë atë që do të thotë.
+Dialogue: 0,0:21:45.49,0:21:47.36,Main,Himeko,0,0,0,,Haru!
+Dialogue: 0,0:21:47.68,0:21:48.87,Main,Hayato,0,0,0,,Uau!
+Dialogue: 0,0:21:47.68,0:21:48.87,Main - Top,Haruki,0,0,0,,Uau!
+Dialogue: 0,0:21:49.17,0:21:51.74,Main,Himeko,0,0,0,,Haru, Haru, Haru!\NIshte e paparë! E paparë!
+Dialogue: 0,0:21:51.74,0:21:54.62,Main,Himeko,0,0,0,,Bëra foto me një yll!\NDuhet ta shohësh!
+Dialogue: 0,0:21:58.43,0:21:59.88,Main,Hayato,0,0,0,,Të nisemi?
+Dialogue: 0,0:22:00.41,0:22:01.38,Main,Haruki,0,0,0,,Po!
+Dialogue: 0,0:22:11.31,0:22:15.27,Sign_Basic,Credits,0,0,0,,{\an8}PËRKTHIMI: MICHAEL ARNOLD
+Dialogue: 0,0:22:15.86,0:22:19.74,Sign_Basic,Credits,0,0,0,,{\an8}SINKRONIZIMI: HENRY LIN\NREDAKTIMI: ZACHARY CARLYSLE
+Dialogue: 0,0:22:20.28,0:22:24.24,Sign_Basic,Credits,0,0,0,,{\an8}KONTROLLI I CILËSISË: S. BILYEU\NKONTROLLI I PËRKTHIMIT: ELIZABETH ELLIS
+

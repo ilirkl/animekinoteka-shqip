@@ -1,0 +1,201 @@
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+PlayResX: 640
+PlayResY: 360
+ScaledBorderAndShadow: yes
+Title: English (US)
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: TopLeft,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,7,20,20,23,1
+Style: TopCenter,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: TopRight,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,9,20,20,23,1
+Style: CenterLeft,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,4,20,20,23,1
+Style: CenterCenter,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,5,20,20,23,1
+Style: CenterRight,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,6,20,20,23,1
+Style: BottomLeft,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,1,20,20,23,1
+Style: BottomCenter,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: BottomRight,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,3,20,20,23,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:41.92,0:00:44.50,TopCenter,,0,0,0,,I KURORËZUAR BRENDA NJËQIND DITËSH
+Dialogue: 0,0:00:44.58,0:00:46.58,TopCenter,,0,0,0,,TË GJITHA ELEMENTET JANË TRILLIME.\NMOS I IMITONI.
+Dialogue: 0,0:00:58.04,0:00:59.04,BottomCenter,,0,0,0,,Mbreti Lie,
+Dialogue: 0,0:00:59.50,0:01:00.50,BottomCenter,,0,0,0,,u ktheva.
+Dialogue: 0,0:01:01.79,0:01:03.00,BottomCenter,,0,0,0,,U vonove shumë.
+Dialogue: 0,0:01:03.54,0:01:04.92,BottomCenter,,0,0,0,,Zbulove gjë gjatë hetimit?
+Dialogue: 0,0:01:05.79,0:01:06.79,BottomCenter,,0,0,0,,Ku është Qin Tian?
+Dialogue: 0,0:01:07.13,0:01:08.38,BottomCenter,,0,0,0,,E dërgova të të gjente.
+Dialogue: 0,0:01:11.50,0:01:12.67,BottomCenter,,0,0,0,,Më falni, mbreti Lie.
+Dialogue: 0,0:01:12.75,0:01:13.88,BottomCenter,,0,0,0,,Situata është e ndërlikuar.
+Dialogue: 0,0:01:14.75,0:01:16.50,BottomCenter,,0,0,0,,Dhe përfshin drejtpërdrejt Qin Tian-in.
+Dialogue: 0,0:01:16.88,0:01:18.00,BottomCenter,,0,0,0,,Prandaj m'u desh pak kohë.
+Dialogue: 0,0:01:18.50,0:01:20.04,BottomCenter,,0,0,0,,Përfshin Qin Tian-in?
+Dialogue: 0,0:01:21.00,0:01:23.42,BottomCenter,,0,0,0,,Ai kryekuzhinieri\Nnga Distrikti 9 ishte njeriu i tij.
+Dialogue: 0,0:01:23.50,0:01:26.79,BottomCenter,,0,0,0,,Qin Tian donte ta sillte në Qytetin Mbretëror\Npër t'ju helmuar ju dhe mbretëreshën.
+Dialogue: 0,0:01:26.88,0:01:29.92,BottomCenter,,0,0,0,,Kur ai refuzoi,\NQin Tian ia inskenoi vetëvrasjen.
+Dialogue: 0,0:01:30.00,0:01:31.38,BottomCenter,,0,0,0,,Po thua se
+Dialogue: 0,0:01:32.17,0:01:34.75,BottomCenter,,0,0,0,,Qin Tian u përpoq të më vriste?
+Dialogue: 0,0:01:35.88,0:01:36.92,BottomCenter,,0,0,0,,Ku është tani?
+Dialogue: 0,0:01:37.63,0:01:40.42,BottomCenter,,0,0,0,,Pasi zbulova të vërtetën,\Nu përpoq të më mbyllte gojën.
+Dialogue: 0,0:01:40.50,0:01:41.88,BottomCenter,,0,0,0,,Kjo na çoi në përleshje.
+Dialogue: 0,0:01:42.38,0:01:44.79,BottomCenter,,0,0,0,,Në fund, e hoqa qafe vetë.
+Dialogue: 0,0:01:45.50,0:01:46.54,BottomCenter,,0,0,0,,Çfarë?
+Dialogue: 0,0:01:46.63,0:01:47.63,BottomCenter,,0,0,0,,E vrave?
+Dialogue: 0,0:01:48.00,0:01:49.75,BottomCenter,,0,0,0,,Nuk zbulova vetëm\Nkomplotin e tij kundër jush,
+Dialogue: 0,0:01:50.04,0:01:52.67,BottomCenter,,0,0,0,,por edhe se kontrollonte fshehurazi\NDistriktet 9 dhe 10.
+Dialogue: 0,0:01:52.75,0:01:54.67,BottomCenter,,0,0,0,,Korrupsioni i tij ua nxinte jetën\Nbanorëve vendas.
+Dialogue: 0,0:01:58.63,0:01:59.79,BottomCenter,,0,0,0,,S'e kisha përfytyruar kurrë
+Dialogue: 0,0:01:59.88,0:02:01.75,BottomCenter,,0,0,0,,se do të bënte gjëra të tilla.
+Dialogue: 0,0:02:04.17,0:02:05.17,BottomCenter,,0,0,0,,Më lër tani.
+Dialogue: 0,0:02:05.88,0:02:07.00,BottomCenter,,0,0,0,,Dua të rri pak vetëm.
+Dialogue: 0,0:02:16.13,0:02:18.04,BottomCenter,,0,0,0,,Duket se e mbajtëm përkohësisht në vend\Natë mbretin Lie të rremë.
+Dialogue: 0,0:02:18.50,0:02:20.63,BottomCenter,,0,0,0,,Duhet të shkoj në Distriktin 9\Ndhe të takohem me të tjerët.
+Dialogue: 0,0:02:25.17,0:02:26.75,BottomCenter,,0,0,0,,Sapo u ktheve nga Distrikti 9?
+Dialogue: 0,0:02:27.79,0:02:28.79,BottomCenter,,0,0,0,,Ti je
+Dialogue: 0,0:02:29.42,0:02:31.25,BottomCenter,,0,0,0,,vajza që Lie solli nga Distrikti 9.
+Dialogue: 0,0:02:33.75,0:02:36.38,BottomCenter,,0,0,0,,Ke parë dikë me emrin Wang Xiaoming?
+Dialogue: 0,0:02:38.79,0:02:40.63,BottomCenter,,0,0,0,,Ç'të jenë duke bërë tani\Nata tregtarët, vallë?
+Dialogue: 0,0:02:41.29,0:02:43.54,BottomCenter,,0,0,0,,Tregtarët mendojnë vetëm për fitimin.
+Dialogue: 0,0:02:43.63,0:02:44.75,BottomCenter,,0,0,0,,Asnjërit s'i zihet besë.
+Dialogue: 0,0:02:45.75,0:02:46.79,BottomCenter,,0,0,0,,E vërtetë,
+Dialogue: 0,0:02:47.13,0:02:49.75,BottomCenter,,0,0,0,,por përfitimi i ndërsjellë\Ne mban gjallë bashkëpunimin.
+Dialogue: 0,0:02:50.38,0:02:52.79,BottomCenter,,0,0,0,,Ata do të jenë vendimtarë\Npër rimëkëmbjen e Distrikteve 9 dhe 10.
+Dialogue: 0,0:02:52.88,0:02:55.08,BottomCenter,,0,0,0,,Megjithatë, karakteri vjen i pari.
+Dialogue: 0,0:02:55.17,0:02:57.46,BottomCenter,,0,0,0,,Atëherë, ta diskutojmë\Nçmimin e marrëveshjes sonë?
+Dialogue: 0,0:02:57.54,0:02:59.04,BottomCenter,,0,0,0,,Po flas thjesht për biznes.
+Dialogue: 0,0:02:59.13,0:03:00.75,BottomCenter,,0,0,0,,Mos i përziej ndjenjat personale.
+Dialogue: 0,0:03:01.75,0:03:02.96,BottomCenter,,0,0,0,,Ndjenjat personale?
+Dialogue: 0,0:03:03.04,0:03:04.67,BottomCenter,,0,0,0,,Zgjedhje interesante fjalësh.
+Dialogue: 0,0:03:04.75,0:03:07.75,BottomCenter,,0,0,0,,Hej, po e vë në siklet duke ia thënë sheshit.
+Dialogue: 0,0:03:09.63,0:03:11.88,BottomCenter,,0,0,0,,Edhe ne kemi ndjenja personale?
+Dialogue: 0,0:03:12.54,0:03:13.79,BottomCenter,,0,0,0,,Sillu siç duhet.
+Dialogue: 0,0:03:13.88,0:03:16.54,BottomCenter,,0,0,0,,Ç'e dallon këtë\Nnga një grabitqar i rëndomtë?
+Dialogue: 0,0:03:20.25,0:03:21.54,BottomCenter,,0,0,0,,Meow, çfarë ke?
+Dialogue: 0,0:03:22.50,0:03:23.50,BottomCenter,,0,0,0,,Mos të ka ngrirë ndonjë magji?
+Dialogue: 0,0:03:24.50,0:03:25.50,BottomCenter,,0,0,0,,Çfarë po sheh?
+Dialogue: 0,0:03:33.42,0:03:35.79,BottomCenter,,0,0,0,,Meow, je mirë?
+Dialogue: 0,0:03:37.38,0:03:38.42,BottomCenter,,0,0,0,,Jo, s'është asgjë.
+Dialogue: 0,0:03:39.13,0:03:40.13,BottomCenter,,0,0,0,,Dua të shkoj të blej diçka.
+Dialogue: 0,0:03:40.67,0:03:41.75,BottomCenter,,0,0,0,,Ju kthehuni më parë\Nte zyra e administratës së distriktit.
+Dialogue: 0,0:03:42.92,0:03:43.96,BottomCenter,,0,0,0,,Të blesh çfarë?
+Dialogue: 0,0:03:44.04,0:03:45.17,BottomCenter,,0,0,0,,Hajde.
+Dialogue: 0,0:03:45.25,0:03:46.25,BottomCenter,,0,0,0,,Ne po kthehemi.
+Dialogue: 0,0:03:47.50,0:03:48.50,BottomCenter,,0,0,0,,Gjithë këto të fshehta.
+Dialogue: 0,0:04:05.13,0:04:07.63,BottomCenter,,0,0,0,,Xiaohong, ku është porosia ime?\NU bë një jetë.
+Dialogue: 0,0:04:08.00,0:04:08.96,BottomCenter,,0,0,0,,Po vjen menjëherë.
+Dialogue: 0,0:04:09.04,0:04:10.04,BottomCenter,,0,0,0,,Edhe një çast.
+Dialogue: 0,0:04:11.13,0:04:13.33,BottomCenter,,0,0,0,,Si gjen kohë të pish birrë fshehurazi?
+Dialogue: 0,0:04:13.42,0:04:14.88,BottomCenter,,0,0,0,,- Klientit po i soset durimi.\N- Babi.
+Dialogue: 0,0:04:15.42,0:04:16.75,BottomCenter,,0,0,0,,Po, po, e di.
+Dialogue: 0,0:04:31.13,0:04:32.13,BottomCenter,,0,0,0,,Mirë se erdhët!
+Dialogue: 0,0:04:34.25,0:04:35.25,BottomCenter,,0,0,0,,Ah, dreq.
+Dialogue: 0,0:04:35.88,0:04:37.00,BottomCenter,,0,0,0,,Më falni shumë.
+Dialogue: 0,0:04:37.38,0:04:39.63,BottomCenter,,0,0,0,,Po përgatisja ushqimin në kuzhinë\Ndhe s'ju pashë kur hytë.
+Dialogue: 0,0:04:40.00,0:04:41.00,BottomCenter,,0,0,0,,Urdhëroni brenda.
+Dialogue: 0,0:04:41.29,0:04:42.71,BottomCenter,,0,0,0,,Kohët e fundit s'kemi shumë punë.
+Dialogue: 0,0:04:42.79,0:04:44.00,BottomCenter,,0,0,0,,Uluni ku të dëshironi.
+Dialogue: 0,0:04:47.75,0:04:48.79,BottomCenter,,0,0,0,,Çfarë do të hani?
+Dialogue: 0,0:04:49.42,0:04:50.42,BottomCenter,,0,0,0,,Lëng të kthjellët.
+Dialogue: 0,0:04:51.92,0:04:53.38,BottomCenter,,0,0,0,,Nga e njihni këtë gatim?
+Dialogue: 0,0:04:53.92,0:04:54.92,BottomCenter,,0,0,0,,Unë...
+Dialogue: 0,0:04:55.38,0:04:57.46,BottomCenter,,0,0,0,,Ma tregoi një mik para ca kohësh.
+Dialogue: 0,0:04:57.54,0:04:58.88,BottomCenter,,0,0,0,,Tha se është pjata juaj e fshehtë.
+Dialogue: 0,0:04:59.25,0:05:01.17,BottomCenter,,0,0,0,,Ndaj u ndala këtu gjatë udhëtimit të punës.
+Dialogue: 0,0:05:02.42,0:05:04.63,BottomCenter,,0,0,0,,Xiaoming do të jetë mburrur prapë.
+Dialogue: 0,0:05:06.50,0:05:08.25,BottomCenter,,0,0,0,,Por kjo pjatë mund të jetë pak e thjeshtë.
+Dialogue: 0,0:05:08.79,0:05:10.63,BottomCenter,,0,0,0,,Nëse s'ju pengon, po shkoj ta përgatis.
+Dialogue: 0,0:05:12.00,0:05:13.00,BottomCenter,,0,0,0,,Do të doja shumë ta provoja.
+Dialogue: 0,0:05:13.79,0:05:15.38,BottomCenter,,0,0,0,,Mirë, uluni pak.
+Dialogue: 0,0:05:20.75,0:05:23.17,BottomCenter,,0,0,0,,Flokë të errët, afërsisht kaq i gjatë.
+Dialogue: 0,0:05:23.79,0:05:25.67,BottomCenter,,0,0,0,,Shumë i sigurt në vete dhe mjaft i mprehtë.
+Dialogue: 0,0:05:26.38,0:05:27.54,BottomCenter,,0,0,0,,Tani që e përmend,
+Dialogue: 0,0:05:28.13,0:05:30.42,BottomCenter,,0,0,0,,më duket se mund\Ntë kem parë dikë të tillë.
+Dialogue: 0,0:05:30.92,0:05:31.92,BottomCenter,,0,0,0,,Vërtet?
+Dialogue: 0,0:05:32.29,0:05:33.46,BottomCenter,,0,0,0,,Si është tani?
+Dialogue: 0,0:05:33.54,0:05:34.54,BottomCenter,,0,0,0,,Është mirë?
+Dialogue: 0,0:05:39.38,0:05:40.38,BottomCenter,,0,0,0,,Erdhi, erdhi!
+Dialogue: 0,0:05:41.25,0:05:42.79,BottomCenter,,0,0,0,,Më falni që ju mbajta në pritje.
+Dialogue: 0,0:05:42.88,0:05:43.88,BottomCenter,,0,0,0,,Faleminderit.
+Dialogue: 0,0:05:45.13,0:05:46.63,BottomCenter,,0,0,0,,Kisha kohë pa e gatuar këtë pjatë.
+Dialogue: 0,0:05:47.13,0:05:48.42,BottomCenter,,0,0,0,,S'e di si ka dalë.
+Dialogue: 0,0:05:48.50,0:05:49.50,BottomCenter,,0,0,0,,Shpresoj t'ju pëlqejë.
+Dialogue: 0,0:05:54.29,0:05:56.17,BottomCenter,,0,0,0,,S'e dija që kjo pjatë ishte kaq e mirë.
+Dialogue: 0,0:06:00.88,0:06:02.54,BottomCenter,,0,0,0,,Ngadalë. Me qetësi.
+Dialogue: 0,0:06:02.63,0:06:03.63,BottomCenter,,0,0,0,,Po mbytesh.
+Dialogue: 0,0:06:04.29,0:06:06.50,BottomCenter,,0,0,0,,Ishe shumë i uritur? Hëngre kaq shpejt.
+Dialogue: 0,0:06:07.63,0:06:09.04,BottomCenter,,0,0,0,,Po të sjell ca peceta.
+Dialogue: 0,0:06:20.13,0:06:21.75,BottomCenter,,0,0,0,,Mos u shqetëso. Është mirë.
+Dialogue: 0,0:06:22.75,0:06:23.75,BottomCenter,,0,0,0,,Sa mirë që e dëgjoj këtë.
+Dialogue: 0,0:06:27.54,0:06:30.04,BottomCenter,,0,0,0,,Ja. Mbarove. Fshije gojën.
+Dialogue: 0,0:06:32.79,0:06:33.79,BottomCenter,,0,0,0,,Ku është ai?
+Dialogue: 0,0:06:41.63,0:06:42.63,BottomCenter,,0,0,0,,U kthyen. Ja ku erdhën.
+Dialogue: 0,0:06:43.00,0:06:44.17,BottomCenter,,0,0,0,,Duket se gjithçka u zgjidh.
+Dialogue: 0,0:06:44.88,0:06:45.88,BottomCenter,,0,0,0,,Ku është Qin Tian?
+Dialogue: 0,0:06:46.17,0:06:48.63,BottomCenter,,0,0,0,,- Do të na vihet prapë pas?\N- S'do t'ju kërcënojë më kurrë.
+Dialogue: 0,0:06:49.38,0:06:52.92,BottomCenter,,0,0,0,,Për më tepër, zonjusha Huang do të marrë\Nnjë post në administratën e distriktit.
+Dialogue: 0,0:06:54.42,0:06:56.38,BottomCenter,,0,0,0,,Zonjusha Huang? Sigurisht, e njohim mirë.
+Dialogue: 0,0:06:56.88,0:06:59.92,BottomCenter,,0,0,0,,Pra, po thua\Nse zoti Qin Tian u mposht?
+Dialogue: 0,0:07:00.38,0:07:02.88,BottomCenter,,0,0,0,,Do të thotë që Distrikti 9\Nmund të vendosë më në fund për veten?
+Dialogue: 0,0:07:03.63,0:07:06.04,BottomCenter,,0,0,0,,Vërtet? Lan, na trego çfarë ndodhi!
+Dialogue: 0,0:07:06.42,0:07:08.46,BottomCenter,,0,0,0,,Po! Ku është ai djali, Meow?
+Dialogue: 0,0:07:08.54,0:07:10.04,BottomCenter,,0,0,0,,Ai e mposhti Qin Tian-in?
+Dialogue: 0,0:07:18.38,0:07:19.67,BottomCenter,,0,0,0,,Është mbreti Lie.
+Dialogue: 0,0:07:20.88,0:07:25.50,BottomCenter,,0,0,0,,Mbreti Lie! Përshëndetje, mbreti Lie.\NJu shprehim nderimet tona.
+Dialogue: 0,0:07:29.63,0:07:33.13,BottomCenter,,0,0,0,,Ai mistreci Long Ao\Npaska fshehur diçka vërtet.
+Dialogue: 0,0:07:34.00,0:07:35.00,BottomCenter,,0,0,0,,Pse
+Dialogue: 0,0:07:35.79,0:07:37.13,BottomCenter,,0,0,0,,ka ardhur mbreti Lie këtu?
+Dialogue: 0,0:07:37.50,0:07:38.50,BottomCenter,,0,0,0,,Më tregoni,
+Dialogue: 0,0:07:39.17,0:07:41.13,BottomCenter,,0,0,0,,çfarë ka ndodhur saktësisht këtu?
+Dialogue: 0,0:07:41.88,0:07:43.63,BottomCenter,,0,0,0,,Ku është kreu i Distriktit 9?
+Dialogue: 0,0:07:44.79,0:07:47.63,BottomCenter,,0,0,0,,E vrau Qin Tian.
+Dialogue: 0,0:07:48.92,0:07:50.00,BottomCenter,,0,0,0,,Kush je ti?
+Dialogue: 0,0:07:50.54,0:07:52.67,BottomCenter,,0,0,0,,Mbreti Lie,
+Dialogue: 0,0:07:53.88,0:07:55.04,BottomCenter,,0,0,0,,unë jam kreu i Distriktit 10.
+Dialogue: 0,0:07:55.38,0:07:58.63,BottomCenter,,0,0,0,,Ju kemi sjellë gjithmonë telashe.\NFaleminderit për durimin tuaj.
+Dialogue: 0,0:07:59.04,0:08:00.04,BottomCenter,,0,0,0,,Por duhet ta kuptoni,
+Dialogue: 0,0:08:00.13,0:08:03.46,BottomCenter,,0,0,0,,për gjithçka e kishin fajin Qin Tian\Ndhe ajo fundërrina nga Distrikti 9.
+Dialogue: 0,0:08:03.54,0:08:04.63,BottomCenter,,0,0,0,,Kryemagjistar Lei Wan,
+Dialogue: 0,0:08:05.00,0:08:06.04,BottomCenter,,0,0,0,,çfarë të ka gjetur?
+Dialogue: 0,0:08:06.13,0:08:07.96,BottomCenter,,0,0,0,,Ata ua pinin gjakun\Nbanorëve të të dy distrikteve.
+Dialogue: 0,0:08:08.04,0:08:11.00,BottomCenter,,0,0,0,,Pastaj, para ca ditësh,\Nu përleshën dhe njëri vdiq.
+Dialogue: 0,0:08:11.29,0:08:14.21,BottomCenter,,0,0,0,,Tjetrin e kapi zoti Long Ao
+Dialogue: 0,0:08:14.29,0:08:15.54,BottomCenter,,0,0,0,,dhe e ekzekutoi në vend.
+Dialogue: 0,0:08:19.17,0:08:22.25,BottomCenter,,0,0,0,,Më falni, zemërimi ndaj padrejtësisë\Nmë mori përpara.
+Dialogue: 0,0:08:23.50,0:08:24.63,BottomCenter,,0,0,0,,Marrëzi të plota.
+Dialogue: 0,0:08:25.88,0:08:26.88,BottomCenter,,0,0,0,,Një kryetar i thjeshtë distrikti,
+Dialogue: 0,0:08:27.25,0:08:29.38,BottomCenter,,0,0,0,,si guxoi ta sfidonte Qin Tian-in?
+Dialogue: 0,0:08:31.25,0:08:33.38,BottomCenter,,0,0,0,,Sepse kishin një fëmijë bashkë.
+Dialogue: 0,0:08:34.00,0:08:35.00,BottomCenter,,0,0,0,,Ky është.
+Dialogue: 0,0:08:38.00,0:08:41.29,BottomCenter,,0,0,0,,Po thoni që kreu i Distriktit 9\Ndhe Qin Tian kishin një lidhje
+Dialogue: 0,0:08:41.38,0:08:42.63,BottomCenter,,0,0,0,,dhe ky është djali i tyre?
+Dialogue: 0,0:08:43.13,0:08:44.17,BottomCenter,,0,0,0,,Po, po, pikërisht.
+Dialogue: 0,0:08:44.25,0:08:45.42,BottomCenter,,0,0,0,,Mund ta dëshmojmë.
+Dialogue: 0,0:08:45.50,0:08:47.42,BottomCenter,,0,0,0,,E dinë të gjithë në Distriktin 9.
+Dialogue: 0,0:08:47.50,0:08:50.04,BottomCenter,,0,0,0,,E di çdo njeri, s'është as sekret.
+Dialogue: 0,0:08:50.13,0:08:51.88,BottomCenter,,0,0,0,,Kryemagjistar Lei Wan, je i paparë.
+Dialogue: 0,0:08:52.25,0:08:54.50,BottomCenter,,0,0,0,,Po më shpik prindër\Naty për aty.
+Dialogue: 0,0:09:05.13,0:09:08.29,BottomCenter,,0,0,0,,Pse e ke shikimin plot urrejtje?
+Dialogue: 0,0:09:08.88,0:09:10.88,BottomCenter,,0,0,0,,Ai njeri na braktisi\Nsapo linda unë.
+Dialogue: 0,0:09:11.88,0:09:14.88,BottomCenter,,0,0,0,,Tani do të rimarr gjithçka që kam humbur.
+Dialogue: 0,0:09:15.54,0:09:17.50,BottomCenter,,0,0,0,,Do të bëhesh kreu i distriktit?
+Dialogue: 0,0:09:18.00,0:09:19.13,BottomCenter,,0,0,0,,Çfarë të bën të denjë?
+Dialogue: 0,0:09:20.38,0:09:21.92,BottomCenter,,0,0,0,,Këtë djalë e kam parë të rritet.
+Dialogue: 0,0:09:22.00,0:09:24.50,BottomCenter,,0,0,0,,Është i besueshëm.\NNxënësi e ka kaluar mësuesin.
+Dialogue: 0,0:09:32.75,0:09:35.79,BottomCenter,,0,0,0,,Dua vërtet ta shtrij\Nme një grusht.
+Dialogue: 0,0:09:36.13,0:09:37.13,BottomCenter,,0,0,0,,Ruaj qetësinë.
+Dialogue: 0,0:09:57.67,0:09:59.71,BottomCenter,,0,0,0,,E ndjeva qëllimin tënd vrasës.
+Dialogue: 0,0:09:59.79,0:10:00.79,BottomCenter,,0,0,0,,Mirë.
+Dialogue: 0,0:10:01.75,0:10:02.79,BottomCenter,,0,0,0,,Në këtë rast,
+Dialogue: 0,0:10:03.25,0:10:05.83,BottomCenter,,0,0,0,,do të të jap një mundësi ta provosh veten.
+Dialogue: 0,0:10:05.92,0:10:08.50,BottomCenter,,0,0,0,,Nesër merr pjesë\Nnë provimin për kreun e distriktit.
+Dialogue: 0,0:10:10.79,0:10:12.04,BottomCenter,,0,0,0,,Provimi për kreun e distriktit?
+Dialogue: 0,0:10:16.17,0:10:17.17,BottomCenter,,0,0,0,,Çfarë thua?
+Dialogue: 0,0:10:17.75,0:10:19.46,BottomCenter,,0,0,0,,E ke ndarë mendjen?
+Dialogue: 0,0:10:29.54,0:10:31.33,TopCenter,,0,0,0,,76 DITË
+

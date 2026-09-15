@@ -1,0 +1,297 @@
+﻿[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+YCbCr Matrix: TV.601
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Audio File: CR_TheObliviousSai_S1.0E12.0_OSPSIM0012_378818_video_ja-jp_J9629724.mp4
+Video File: CR_TheObliviousSai_S1.0E12.0_OSPSIM0012_378818_video_ja-jp_J9629724.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 1.500000
+Scroll Position: 239
+Active Line: 246
+Video Position: 29926
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Main - Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Main - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Main - Top + Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback - Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback - Top + Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Signs,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,20,20,18,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.55,0:00:02.86,Main - Italics,FLORA {N},0,0,0,,«S'mund t'ia lejoj vetes të humbas ndaj Carolina-s.»
+Dialogue: 0,0:00:03.11,0:00:04.72,Main - Italics,FLORA {N},0,0,0,,Me këtë mendim në kokë,
+Dialogue: 0,0:00:04.72,0:00:08.24,Main - Italics,FLORA {N},0,0,0,,përdora Teknikën e Ndaluar\Nqë më ofroi kryepeshkopi Jonathan.
+Dialogue: 0,0:00:08.24,0:00:10.99,Main - Italics,FLORA {N},0,0,0,,Trupi im s'e përballoi dot,\Ndhe mbeta në prag të vdekjes.
+Dialogue: 0,0:00:11.25,0:00:14.49,Main - Italics,FLORA {N},0,0,0,,Dhe ajo që më shpëtoi\Nishte pikërisht Carolina.
+Dialogue: 0,0:00:15.14,0:00:20.25,Main - Italics,FLORA {N},0,0,0,,S'do ta fal kurrë atë femër që jo vetëm\Nma shkeli krenarinë para të gjithëve,
+Dialogue: 0,0:00:20.25,0:00:23.84,Main - Italics,FLORA {N},0,0,0,,por më rrëmbeu edhe titullin e Shenjtores!
+Dialogue: 0,0:00:26.79,0:00:29.89,Default,ERIC,0,0,0,,Mes vrullit të përgatitjeve për Noel-in,
+Dialogue: 0,0:00:29.89,0:00:32.55,Default,ERIC,0,0,0,,ju falënderoj që iu përgjigjët thirrjes sime.
+Dialogue: 0,0:00:33.47,0:00:36.06,Default,ERIC,0,0,0,,Arsyeja pse ju thirra\Nkëtë herë...
+Dialogue: 0,0:00:37.07,0:00:40.44,Default,ERIC,0,0,0,,është zgjedhja e princit trashëgimtar.
+Dialogue: 0,0:00:41.56,0:00:44.08,Default,ERIC,0,0,0,,Para se të filloj,\Nduhet të sqaroj diçka.
+Dialogue: 0,0:00:44.40,0:00:47.59,Default,ERIC,0,0,0,,Këtë vendim e kam marrë\Njo si babai juaj,
+Dialogue: 0,0:00:47.59,0:00:50.54,Default,ERIC,0,0,0,,por si perandori i këtij vendi.
+Dialogue: 0,0:00:50.54,0:00:54.45,Default,ERIC,0,0,0,,Më vjen keq, por s'do të pranoj\Nas kundërshtime, as kundërargumente.
+Dialogue: 0,0:00:54.79,0:00:57.23,Default,ERIC,0,0,0,,Gilbert-i, që rrezaton karizëm,
+Dialogue: 0,0:00:57.61,0:00:59.96,Default,ERIC,0,0,0,,dhe Edward-i, që është më i fortë se kushdo...
+Dialogue: 0,0:01:00.23,0:01:03.66,Default,ERIC,0,0,0,,Pasi e shqyrtova nga çdo anë,\Nky është vendimi im.
+Dialogue: 0,0:01:04.90,0:01:07.77,Default,ERIC,0,0,0,,Më i denji për t'u bërë\Nperandori i ardhshëm është...
+Dialogue: 0,0:01:09.16,0:01:13.22,Default,ERIC,0,0,0,,Princi i parë, Gilbert Ruby Martinez.
+Dialogue: 0,0:01:13.22,0:01:14.47,Default,GILBERT,0,0,0,,Unë?
+Dialogue: 0,0:01:19.91,0:01:21.85,Default,EDWARD,0,0,0,,Vëlla, urime.
+Dialogue: 0,0:01:23.27,0:01:24.36,Default,GILBERT,0,0,0,,Faleminderit.
+Dialogue: 0,0:01:25.13,0:01:27.38,Main - Italics,CAROLINA {M},0,0,0,,Kjo duhet t'i japë fund edhe grindjes së fraksioneve.
+Dialogue: 0,0:01:28.14,0:01:29.22,Main - Italics,CAROLINA {M},0,0,0,,Falë Zotit...
+Dialogue: 0,0:01:29.90,0:01:31.49,Main - Italics,CAROLINA {M},0,0,0,,Vërtet, jam shumë e lumtur.
+Dialogue: 0,0:02:53.58,0:02:59.70,Signs,SCREENCAP,0,0,0,,EPISODI 12: ZBATIMI I HAKMARRJES
+Dialogue: 0,0:03:10.06,0:03:12.70,Default,TEODORE,0,0,0,,Tani do të filloj transferimin.
+Dialogue: 0,0:03:18.06,0:03:20.74,Default,NATHAN,0,0,0,,Mirë se erdhët në Mbretërinë e Celestia-s.
+Dialogue: 0,0:03:23.94,0:03:26.73,Default,CAROLINA,0,0,0,,Jam e nderuar që dolët\Npersonalisht të më mirëprisni.
+Dialogue: 0,0:03:26.73,0:03:32.01,Default,NATHAN,0,0,0,,Edhe për mua është nder\Ntë marr pjesë në detyrën tuaj të parë.
+Dialogue: 0,0:03:32.01,0:03:34.74,Default,NATHAN,0,0,0,,Do të kujdesem të keni\Nmikpritjen më të mirë.
+Dialogue: 0,0:03:35.35,0:03:37.05,Default,CAROLINA,0,0,0,,Ju falënderoj shumë.
+Dialogue: 0,0:03:41.20,0:03:45.39,Main - Italics,CAROLINA {M},0,0,0,,Baba... Po fajëson veten\Npër atë që ka ndodhur
+Dialogue: 0,0:03:45.39,0:03:47.83,Main - Italics,CAROLINA {M},0,0,0,,mes meje dhe motrës, apo jo?
+Dialogue: 0,0:03:47.83,0:03:52.25,Default,NATHAN,0,0,0,,Lartësia Juaj, princesha Carolina,\Nme siguri jeni përgatitur për Noel-in e nesërm.
+Dialogue: 0,0:03:52.71,0:03:54.54,Default,NATHAN,0,0,0,,Sot duhet të pushoni.
+Dialogue: 0,0:03:54.54,0:03:58.26,Default,NATHAN,0,0,0,,Raymond, të lutem, shoqëroji\Nnë dhomat e miqve.
+Dialogue: 0,0:03:59.69,0:04:00.42,Default,RAYMOND,0,0,0,,Po, Madhëri.
+Dialogue: 0,0:04:04.71,0:04:09.40,Default,CAROLINA,0,0,0,,Ëh... Si ka qenë Flora\Nqë atëherë?
+Dialogue: 0,0:04:11.38,0:04:13.96,Default,RAYMOND,0,0,0,,Është mbyllur në dhomën e saj.
+Dialogue: 0,0:04:15.90,0:04:18.32,Default,IRIS,0,0,0,,Është ditë e bukur, zonjusha ime.
+Dialogue: 0,0:04:18.32,0:04:20.53,Default,IRIS,0,0,0,,Për ndryshim, pse s'dalim\Npak jashtë dhe—
+Dialogue: 0,0:04:22.80,0:04:24.66,Default,IRIS,0,0,0,,Çfarë po bënit?
+Dialogue: 0,0:04:24.66,0:04:27.41,Default,FLORA,0,0,0,,Asgjë! Largohu!
+Dialogue: 0,0:04:28.28,0:04:31.17,Default,RAYMOND,0,0,0,,S'kam mundur ta shoh fare.
+Dialogue: 0,0:04:31.17,0:04:32.68,Default,CAROLINA,0,0,0,,E kuptoj...
+Dialogue: 0,0:04:33.46,0:04:37.12,Default,CAROLINA,0,0,0,,Ëh, baba, të lutem, më fal\Nqë ta mbajta të fshehtë të vërtetën
+Dialogue: 0,0:04:37.12,0:04:41.76,Default,CAROLINA,0,0,0,,për marrëdhënien tonë\Ngjithë këtë kohë.
+Dialogue: 0,0:04:41.76,0:04:42.78,Default,CAROLINA,0,0,0,,Për shkak të kësaj...
+Dialogue: 0,0:04:42.78,0:04:44.78,Default,RAYMOND,0,0,0,,Jo, nuk është faji yt!
+Dialogue: 0,0:04:44.78,0:04:47.56,Default,RAYMOND,0,0,0,,Ishte faji im që s'e vura re më herët.
+Dialogue: 0,0:04:48.19,0:04:53.31,Default,RAYMOND,0,0,0,,Edhe tani, duhet vërtet të flas\Nme Flora-n. Edhe me zor, po të duhet.
+Dialogue: 0,0:04:53.86,0:04:56.05,Default,RAYMOND,0,0,0,,E megjithatë s'e kam bërë.
+Dialogue: 0,0:04:57.04,0:04:57.99,Default,RAYMOND,0,0,0,,Normalisht...
+Dialogue: 0,0:04:58.33,0:05:02.70,Flashback,FLORA {FLASHBACK},0,0,0,,Më mirë të vdes\Nsesa të më shpëtosh ti!
+Dialogue: 0,0:05:03.59,0:05:07.28,Default,RAYMOND,0,0,0,,Do të ishte akuzuar\Npër fyerje të familjes perandorake.
+Dialogue: 0,0:05:07.70,0:05:11.46,Default,RAYMOND,0,0,0,,Por ti, me mirësinë tënde, e kurseve.
+Dialogue: 0,0:05:12.10,0:05:13.41,Default,CAROLINA,0,0,0,,Baba...
+Dialogue: 0,0:05:13.96,0:05:18.49,Default,RAYMOND,0,0,0,,Edhe nëse s'e bëj dot tani...\Na mund të presësh edhe pak?
+Dialogue: 0,0:05:18.97,0:05:19.97,Default,CAROLINA,0,0,0,,Sigurisht.
+Dialogue: 0,0:05:19.97,0:05:23.22,Default,RAYMOND,0,0,0,,Ah, faleminderit, Carolina.
+Dialogue: 0,0:05:23.72,0:05:28.26,Default,RAYMOND,0,0,0,,Mezi pres të shoh\Nsa e bukur do të dukesh nesër.
+Dialogue: 0,0:05:28.26,0:05:29.22,Default,CAROLINA,0,0,0,,Faleminderit!
+Dialogue: 0,0:05:56.26,0:05:58.25,Default,MARISA,0,0,0,,Dukeni shumë e bukur.
+Dialogue: 0,0:06:01.38,0:06:03.34,Default,CAROLINA,0,0,0,,Gjithçka falë teje, Marisa.
+Dialogue: 0,0:06:03.34,0:06:04.90,Default,MARISA,0,0,0,,Jeni shumë e sjellshme.
+Dialogue: 0,0:06:04.90,0:06:07.13,Default,MARISA,0,0,0,,Tani vjen kjo.
+Dialogue: 0,0:06:14.48,0:06:16.40,Default,MARISA,0,0,0,,Jeni vërtet mahnitëse.
+Dialogue: 0,0:06:16.40,0:06:17.57,Default,CAROLINA,0,0,0,,Faleminderit.
+Dialogue: 0,0:06:18.67,0:06:19.73,Default,EDWARD,0,0,0,,Mund të hyj?
+Dialogue: 0,0:06:20.05,0:06:21.02,Default,CAROLINA,0,0,0,,Urdhëro.
+Dialogue: 0,0:06:28.49,0:06:31.18,Default,EDWARD,0,0,0,,Je... kaq e mrekullueshme.
+Dialogue: 0,0:06:32.31,0:06:33.75,Default,EDWARD,0,0,0,,Të rri shumë bukur.
+Dialogue: 0,0:06:34.16,0:06:36.50,Default,TEODORE,0,0,0,,Vërtet, ju shkon shumë.
+Dialogue: 0,0:06:36.90,0:06:40.34,Default,TEODORE,0,0,0,,Bëmë mirë që ia lamë këtë\NMadhërisë së Saj, perandoreshës Vanessa.
+Dialogue: 0,0:06:40.34,0:06:42.89,Default,CAROLINA,0,0,0,,Vërtet. Po të varej vetëm nga unë,
+Dialogue: 0,0:06:42.89,0:06:45.13,Default,CAROLINA,0,0,0,,do të mbetesha e hutuar\Npa vendosur dot.
+Dialogue: 0,0:06:47.03,0:06:49.64,Default,EDWARD,0,0,0,,A-Ah, po. Lina, merre këtë.
+Dialogue: 0,0:06:52.98,0:06:55.58,Default,TEODORE,0,0,0,,Le ta shqyrtojmë programin e sotëm.
+Dialogue: 0,0:06:55.89,0:06:59.61,Default,TEODORE,0,0,0,,Së pari do të kaloni me karrocë\Nnë paradë deri te vatra ceremoniale,
+Dialogue: 0,0:06:59.61,0:07:02.60,Default,TEODORE,0,0,0,,pastaj do të bëhet ndezja\Nqë shënon fillimin e Noel-it.
+Dialogue: 0,0:07:03.29,0:07:08.03,Default,TEODORE,0,0,0,,Më pas është parashikuar\Ntë kthehemi këtu për festën.
+Dialogue: 0,0:07:11.23,0:07:12.91,Default,TEODORE,0,0,0,,Thuajse erdhi ora.
+Dialogue: 0,0:07:12.91,0:07:15.37,Default,EDWARD,0,0,0,,Atëherë, të shkojmë, Lina.
+Dialogue: 0,0:07:20.11,0:07:20.75,Default,EDWARD,0,0,0,,Lina?
+Dialogue: 0,0:07:20.75,0:07:23.01,Default,CAROLINA,0,0,0,,Sapo më kapën emocionet.
+Dialogue: 0,0:07:23.01,0:07:24.28,Default,EDWARD,0,0,0,,Do t'ia dalësh shumë mirë.
+Dialogue: 0,0:07:26.00,0:07:27.51,Default,CAROLINA,0,0,0,,Faleminderit.
+Dialogue: 0,0:07:28.31,0:07:31.27,Main - Italics,CAROLINA {M},0,0,0,,Ashtu është. S'është vetëm Ed-i...
+Dialogue: 0,0:07:31.27,0:07:34.14,Main - Italics,CAROLINA {M},0,0,0,,Të gjithë po kujdesen për mua.
+Dialogue: 0,0:07:34.83,0:07:40.25,Main - Italics,CAROLINA {M},0,0,0,,Tani duhet të mund\Nta përmbush siç duhet rolin e Shenjtores.
+Dialogue: 0,0:07:49.14,0:07:51.14,Main - Italics,FLORA {M},0,0,0,,Kjo është mundësia ime e fundit.
+Dialogue: 0,0:07:51.95,0:07:55.23,Main - Italics,FLORA {M},0,0,0,,Do të kujdesem që kjo të marrë fund sot.
+Dialogue: 0,0:07:56.34,0:07:58.65,Main - Italics,FLORA {M},0,0,0,,Duhet të afrohem më shumë.
+Dialogue: 0,0:08:10.59,0:08:12.30,Default,CROWD {BOY?},0,0,0,,Shenjtorja!
+Dialogue: 0,0:08:12.30,0:08:13.97,Default,CROWD {MAN?},0,0,0,,Princesha Carolina!
+Dialogue: 0,0:08:14.54,0:08:17.89,Default,TEODORE,0,0,0,,Lartësia e Saj, princesha Carolina,\Ngëzon vërtet popullaritet të jashtëzakonshëm.
+Dialogue: 0,0:08:17.89,0:08:19.62,Default,TEODORE,0,0,0,,Pyes veten nëse ka ndikuar
+Dialogue: 0,0:08:19.62,0:08:22.90,Default,TEODORE,0,0,0,,pakësimi i përbindëshave\Nbrenda kufijve tanë.
+Dialogue: 0,0:08:22.90,0:08:25.86,Default,EDWARD,0,0,0,,Është dëshmi e fuqisë\Nhyjnore të jashtëzakonshme të Lina-s.
+Dialogue: 0,0:08:26.48,0:08:29.93,Main - Italics,CAROLINA {M},0,0,0,,Të mendosh që po më mirëpresin\Nkaq shumë njerëz...
+Dialogue: 0,0:08:30.96,0:08:34.94,Main - Italics,CAROLINA {M},0,0,0,,kur e lashë vendin tim krejt vetëm.
+Dialogue: 0,0:09:15.92,0:09:17.44,Default,CROWD {9:16},0,0,0,,Princesha Carolina!
+Dialogue: 0,0:09:23.67,0:09:25.05,Main - Italics,FLORA {M},0,0,0,,Nëse veproj tani...
+Dialogue: 0,0:09:31.39,0:09:32.88,Default,COLLETT,0,0,0,,Lartësia Juaj, ju lutem, merreni këtë.
+Dialogue: 0,0:09:33.75,0:09:34.54,Default,EDWARD,0,0,0,,Mirë.
+Dialogue: 0,0:09:41.12,0:09:42.76,Default,FLORA,0,0,0,,Çfarë mendoni se po bëni?!
+Dialogue: 0,0:09:43.64,0:09:46.77,Default,IRIS,0,0,0,,Ju lutem, ndaloni më në fund, zonjusha ime.
+Dialogue: 0,0:09:46.77,0:09:48.22,Default,FLORA,0,0,0,,Iris?!
+Dialogue: 0,0:09:48.22,0:09:49.72,Default,FLORA,0,0,0,,Çfarë është gjithë kjo?!
+Dialogue: 0,0:09:49.72,0:09:52.40,Default,FLORA,0,0,0,,Edhe ti do të më pengosh?!
+Dialogue: 0,0:09:52.40,0:09:55.55,Default,IRIS,0,0,0,,E kuptoj si ndiheni.\NAq sa më dhemb, zonjusha ime!
+Dialogue: 0,0:09:56.22,0:09:58.16,Default,IRIS,0,0,0,,Pikërisht prandaj dua t'ju ndaloj!
+Dialogue: 0,0:10:01.74,0:10:05.17,Default,FLORA,0,0,0,,Deri tani, gjithçka\Nqë keni bërë për dikë si unë...
+Dialogue: 0,0:10:17.71,0:10:19.08,Default,IRIS,0,0,0,,Zonjusha ime...
+Dialogue: 0,0:10:20.64,0:10:21.60,Default,EDWARD,0,0,0,,Bëj kujdes.
+Dialogue: 0,0:10:22.15,0:10:24.23,Default,CAROLINA,0,0,0,,Do të bëj. Faleminderit.
+Dialogue: 0,0:11:06.23,0:11:10.77,Default,CAROLINA,0,0,0,,Unë, Shenjtorja Carolina,\Nshpall fillimin e Noel-it!
+Dialogue: 0,0:11:11.07,0:11:16.78,Default,CAROLINA,0,0,0,,Zoti bekoftë çdo qytetar\Ntë Mbretërisë së Celestia-s!
+Dialogue: 0,0:11:21.37,0:11:26.54,Main - Italics,CAROLINA {M},0,0,0,,Kaq shumë njerëz po ma njohin vlerën.
+Dialogue: 0,0:11:26.97,0:11:31.09,Main - Italics,CAROLINA {M},0,0,0,,Nga thellësia e zemrës,\Njam e lumtur që u bëra Shenjtore.
+Dialogue: 0,0:11:33.34,0:11:37.59,Main - Italics,FLORA {M},0,0,0,,Rasti im i fundit do të jetë\Nkur të kalojë me karrocë.
+Dialogue: 0,0:11:50.15,0:11:52.15,Main - Italics,FLORA {M},0,0,0,,Nëse qëlloj nga afër, atëherë...
+Dialogue: 0,0:11:55.16,0:11:57.65,Main - Italics,FLORA {M},0,0,0,,Çfarë po bën, Flora?!
+Dialogue: 0,0:11:57.92,0:12:00.72,Main - Italics,FLORA {M},0,0,0,,S'ke menduar\Npër këtë që nga ajo ditë?!
+Dialogue: 0,0:12:01.03,0:12:03.92,Main - Italics,FLORA {M},0,0,0,,Pas gjithë kësaj,\Npse po ngurron?!
+Dialogue: 0,0:12:03.92,0:12:05.56,Main - Italics,FLORA {M},0,0,0,,Të hyri frika?!
+Dialogue: 0,0:12:12.24,0:12:14.92,Main - Italics,FLORA {M},0,0,0,,Çfarë po... Pse dreqin po...
+Dialogue: 0,0:12:15.43,0:12:16.72,Main - Italics,FLORA {M},0,0,0,,Ajo buzëqeshje!
+Dialogue: 0,0:12:18.43,0:12:19.74,Main - Italics,FLORA {M},0,0,0,,Nënë?!
+Dialogue: 0,0:12:21.62,0:12:27.63,Main - Italics,FLORA {M},0,0,0,,Ah, e kuptoj... Nuk është\Nse s'mund ta vras Carolina-n.
+Dialogue: 0,0:12:28.06,0:12:30.12,Main - Italics,FLORA {M},0,0,0,,Është se nuk dua.
+Dialogue: 0,0:12:33.14,0:12:35.58,Main - Italics,FLORA {M},0,0,0,,Unë isha ajo që u soll tmerrësisht.
+Dialogue: 0,0:12:37.13,0:12:43.86,Main - Italics,FLORA {M},0,0,0,,Pasi vdiq nëna, mua s'më lejohej\Ntë qaja apo të shfaqja dobësi,
+Dialogue: 0,0:12:43.86,0:12:49.54,Main - Italics,FLORA {M},0,0,0,,ndaj u zbraza te Carolina,\Nduke ia hedhur të gjithë fajin asaj.
+Dialogue: 0,0:12:49.54,0:12:54.08,Main - Italics,FLORA {M},0,0,0,,Sepse e duroja më lehtë\Nkur kisha dikë për të urryer.
+Dialogue: 0,0:12:56.41,0:13:01.14,Main - Italics,FLORA {M},0,0,0,,Por fajtorja e vërtetë isha unë.
+Dialogue: 0,0:13:02.20,0:13:07.56,Main - Italics,FLORA {M},0,0,0,,Dikush si unë... s'ka të drejtë të jetojë.
+Dialogue: 0,0:13:07.84,0:13:11.81,Main - Italics,FLORA {M},0,0,0,,Ajo që duhet të vdesë... jam unë.
+Dialogue: 0,0:13:12.94,0:13:16.69,Main - Italics,FLORA {M},0,0,0,,Më fal që të kam bërë\Nkaq shumë gjëra të tmerrshme, Carolina.
+Dialogue: 0,0:13:17.30,0:13:19.30,Main - Italics,FLORA {M},0,0,0,,Edhe ti, baba...
+Dialogue: 0,0:13:20.72,0:13:24.70,Default,FLORA,0,0,0,,Ju lutem, më falni që po shkoj\Npara jush për t'u bashkuar me nënën.
+Dialogue: 0,0:13:24.70,0:13:25.74,Default,RAYMOND,0,0,0,,Ndalo menjëherë!
+Dialogue: 0,0:13:25.74,0:13:27.04,Default,FLORA,0,0,0,,Baba?!
+Dialogue: 0,0:13:27.52,0:13:30.16,Default,FLORA,0,0,0,,Iris?! Çfarë po bën?!
+Dialogue: 0,0:13:31.80,0:13:36.51,Default,FLORA,0,0,0,,Unë... u përpoqa ta vrisja Carolina-n!\NMe këtë armë!
+Dialogue: 0,0:13:36.51,0:13:38.62,Default,FLORA,0,0,0,,Dhe pas gjithçkaje që kam bërë deri tani...
+Dialogue: 0,0:13:39.20,0:13:42.63,Default,FLORA,0,0,0,,Kjo është më e pakta për të shlyer fajin.
+Dialogue: 0,0:13:42.63,0:13:47.22,Default,RAYMOND,0,0,0,,Nëse kështu ndihesh, s'do të të lejoj\Nta shlyesh fajin duke i dhënë fund jetës!
+Dialogue: 0,0:13:47.50,0:13:49.47,Default,RAYMOND,0,0,0,,Duhet të jetosh dhe t'i shlyesh mëkatet!
+Dialogue: 0,0:13:50.41,0:13:53.88,Default,RAYMOND,0,0,0,,Është e vërtetë që veprimet e tua\Nmeritojnë dënimin me vdekje.
+Dialogue: 0,0:13:54.23,0:13:58.27,Default,RAYMOND,0,0,0,,Por unë s'jam aq i fortë\Nsa ta pranoj thjesht vdekjen
+Dialogue: 0,0:13:58.27,0:13:59.93,Default,RAYMOND,0,0,0,,e vajzës sime të shtrenjtë!
+Dialogue: 0,0:13:59.93,0:14:07.22,Default,RAYMOND,0,0,0,,Edhe sikur e gjithë bota të të dënonte,\Nunë do të doja që ti të jetoje.
+Dialogue: 0,0:14:07.72,0:14:08.99,Default,FLORA,0,0,0,,Baba...
+Dialogue: 0,0:14:09.40,0:14:12.87,Default,RAYMOND,0,0,0,,Më fal që nuk të kam\Nkuptuar deri tani.
+Dialogue: 0,0:14:32.68,0:14:34.38,Default,FLORA,0,0,0,,Dua të të kërkoj falje për të gjitha mënyrat
+Dialogue: 0,0:14:34.38,0:14:36.40,Default,FLORA,0,0,0,,si të kam keqtrajtuar gjithë këtë kohë.
+Dialogue: 0,0:14:36.40,0:14:42.40,Default,FLORA,0,0,0,,Dhe... që mendova madje të të vrisja.
+Dialogue: 0,0:14:42.40,0:14:44.53,Default,CAROLINA,0,0,0,,Mendove të më vrisje?
+Dialogue: 0,0:14:44.53,0:14:48.23,Default,RAYMOND,0,0,0,,Më lejoni të kërkoj edhe unë falje sërish.
+Dialogue: 0,0:14:48.23,0:14:50.70,Default,RAYMOND,0,0,0,,Më vjen thellësisht keq.
+Dialogue: 0,0:14:52.50,0:14:55.04,Default,FLORA,0,0,0,,E di që është pak vonë\Npër të gjitha këto, apo jo?
+Dialogue: 0,0:14:55.74,0:14:59.79,Default,FLORA,0,0,0,,Megjithatë, dua ta shlyej siç duhet\Natë që kam bërë, sa jam ende gjallë.
+Dialogue: 0,0:15:00.18,0:15:05.17,Default,FLORA,0,0,0,,Nëse doni t'ia shpall botës\Nkrimet e mia, do ta bëj.
+Dialogue: 0,0:15:05.64,0:15:07.30,Default,FLORA,0,0,0,,Jam gati të pranoj çdo ndëshkim.
+Dialogue: 0,0:15:14.79,0:15:17.94,Default,CAROLINA,0,0,0,,Atëherë, për të shlyer padrejtësitë ndaj meje,
+Dialogue: 0,0:15:18.50,0:15:20.97,Default,CAROLINA,0,0,0,,ju kërkoj të ndihmoni\Npër t'ia rikthyer lavdinë
+Dialogue: 0,0:15:20.97,0:15:22.07,Default,CAROLINA,0,0,0,,Mbretërisë së Celestia-s.
+Dialogue: 0,0:15:22.07,0:15:22.99,Default,FLORA,0,0,0,,Çfarë?
+Dialogue: 0,0:15:24.07,0:15:26.11,Default,CAROLINA,0,0,0,,Mënyrën po jua lë juve.
+Dialogue: 0,0:15:26.49,0:15:31.08,Default,CAROLINA,0,0,0,,Ju lutem, mbrojeni atdheun tim...\NVendlindjen e nënës.
+Dialogue: 0,0:15:31.47,0:15:34.02,Default,CAROLINA,0,0,0,,Ky është ndëshkimi\Nqë ju vendos të dyve.
+Dialogue: 0,0:15:42.17,0:15:47.15,Main - Italics,CAROLINA {N},0,0,0,,Dhe kështu, Noel-i në\NMbretërinë e Celestia-s përfundoi.
+Dialogue: 0,0:15:47.58,0:15:52.38,Main - Italics,CAROLINA {N},0,0,0,,Më pas, edhe Noel-i në Mbretërinë\Ne Noir-it pati sukses.
+Dialogue: 0,0:15:52.38,0:15:57.23,Main - Italics,CAROLINA {N},0,0,0,,Mbeti vetëm këtu, Perandoria e Malcosia-s.
+Dialogue: 0,0:15:58.64,0:16:02.57,Main - Italics,CAROLINA {N},0,0,0,,Pak pasi u ktheva në shtëpi,\Nmora një letër nga motra ime e madhe.
+Dialogue: 0,0:16:04.88,0:16:07.51,Main - Italics,FLORA,0,0,0,,Carolina, si po kalon?
+Dialogue: 0,0:16:07.51,0:16:11.77,Main - Italics,FLORA,0,0,0,,Sot doja të të tregoja diçka,\Nndaj po të shkruaj...
+Dialogue: 0,0:16:13.55,0:16:14.70,Flashback,FLORA,0,0,0,,Baba.
+Dialogue: 0,0:16:15.03,0:16:17.51,Flashback,RAYMOND,0,0,0,,Çfarë ka? Qenke kaq zyrtare.
+Dialogue: 0,0:16:17.51,0:16:20.11,Flashback,FLORA,0,0,0,,Në fakt, kam një kërkesë.
+Dialogue: 0,0:16:20.94,0:16:24.80,Flashback,FLORA,0,0,0,,Të lutem, më lejo të trashëgoj\Ntitullin tënd të dukës dhe postin e kancelarit.
+Dialogue: 0,0:16:25.59,0:16:27.67,Flashback,FLORA,0,0,0,,E di që është e guximshme.
+Dialogue: 0,0:16:27.67,0:16:31.68,Flashback,FLORA,0,0,0,,Por këtë e bëj për\Ntë mbajtur premtimin ndaj Carolina-s!
+Dialogue: 0,0:16:32.59,0:16:33.62,Flashback,RAYMOND,0,0,0,,E kuptoj...
+Dialogue: 0,0:16:34.19,0:16:37.93,Flashback,RAYMOND,0,0,0,,Megjithatë, ajo zgjedhje është shumë\Nmë e vështirë nga ç'e përfytyron.
+Dialogue: 0,0:16:37.93,0:16:41.22,Flashback,RAYMOND,0,0,0,,Mund të pendohesh. Edhe kështu...
+Dialogue: 0,0:16:41.22,0:16:44.50,Flashback,FLORA,0,0,0,,Jo, baba. Nuk do të pendohem.
+Dialogue: 0,0:16:45.44,0:16:47.26,Flashback,FLORA,0,0,0,,Jam e përgatitur.
+Dialogue: 0,0:16:47.26,0:16:51.20,Flashback,FLORA,0,0,0,,Tani e tutje dua të bëj\Natë që është më e mira për Celestia-n.
+Dialogue: 0,0:16:53.47,0:16:55.78,Main - Italics,FLORA,0,0,0,,Që tani e tutje, kam ndër mend\Ntë mësoj shumë gjëra
+Dialogue: 0,0:16:55.78,0:16:58.67,Main - Italics,FLORA,0,0,0,,dhe të bëhem më e denjë\Ne më e mençur se kushdo.
+Dialogue: 0,0:16:58.67,0:17:04.83,Main - Italics,FLORA,0,0,0,,Dua të jem po aq\Ne dhembshur sa ti dhe nëna.
+Dialogue: 0,0:17:06.50,0:17:07.21,Default,CAROLINA,0,0,0,,Hyni.
+Dialogue: 0,0:17:11.66,0:17:13.72,Default,MARISA,0,0,0,,Ëh, na thirrët?
+Dialogue: 0,0:17:14.00,0:17:15.55,Default,CAROLINA,0,0,0,,Po, po ju prisja.
+Dialogue: 0,0:17:15.55,0:17:17.72,Default,CAROLINA,0,0,0,,Ju falënderoj të dyve, si gjithmonë.
+Dialogue: 0,0:17:18.02,0:17:21.73,Default,CAROLINA,0,0,0,,Falë jush, kam mundur\Ntë jetoj jetën më të lumtur.
+Dialogue: 0,0:17:21.73,0:17:23.73,Default,CAROLINA,0,0,0,,Ju jam shumë mirënjohëse.
+Dialogue: 0,0:17:24.08,0:17:28.36,Default,OWEN,0,0,0,,Ç-Ç'është kjo papritur?\NPrit, po më pushoni nga puna?!
+Dialogue: 0,0:17:29.19,0:17:31.74,Default,CAROLINA,0,0,0,,Teo, nuk ua ke\Nshpjeguar gjërat?
+Dialogue: 0,0:17:31.74,0:17:35.24,Default,TEO,0,0,0,,Jo, mendova se do të ishte më mirë\Ntë mbetej surprizë.
+Dialogue: 0,0:17:35.24,0:17:37.24,Default,CAROLINA,0,0,0,,Ah, Teo...
+Dialogue: 0,0:17:37.83,0:17:40.66,Default,CAROLINA,0,0,0,,Thjesht doja të thosha se mezi\Npres të ardhmen tonë së bashku.
+Dialogue: 0,0:17:42.32,0:17:44.92,Default,CAROLINA,0,0,0,,Këto janë dhurata\Nmirënjohjeje për ju të dy.
+Dialogue: 0,0:17:44.92,0:17:46.99,Default,CAROLINA,0,0,0,,Nëse dëshironi, ju lutem, pranojini.
+Dialogue: 0,0:17:51.99,0:17:55.43,Default,MARISA,0,0,0,,Kjo është... E thurët\Nvetë, Lartësia Juaj?
+Dialogue: 0,0:17:55.70,0:17:56.49,Default,CAROLINA,0,0,0,,Po.
+Dialogue: 0,0:17:57.15,0:17:58.68,Default,MARISA,0,0,0,,Ju falënderoj shumë.
+Dialogue: 0,0:17:59.07,0:18:00.41,Default,MARISA,0,0,0,,Do ta ruaj si trashëgimi familjare.
+Dialogue: 0,0:18:00.94,0:18:02.19,Default,CAROLINA,0,0,0,,Të lutem, përdore.
+Dialogue: 0,0:18:02.19,0:18:05.39,Default,OWEN,0,0,0,,K-Kjo është... ajo e asaj kohe!
+Dialogue: 0,0:18:06.47,0:18:09.40,Flashback,CAROLINA {FLASHBACK},0,0,0,,Pse nuk provon të më shërbesh edhe një herë?
+Dialogue: 0,0:18:09.76,0:18:13.63,Flashback,CAROLINA {FLASHBACK},0,0,0,,Jo për dikë tjetër,\Npor për lumturinë tënde.
+Dialogue: 0,0:18:14.54,0:18:16.16,Default,CAROLINA,0,0,0,,E përfundova.
+Dialogue: 0,0:18:17.03,0:18:19.66,Default,OWEN,0,0,0,,Do ta ruaj si hajmali fati!
+Dialogue: 0,0:18:19.66,0:18:21.45,Default,CAROLINA,0,0,0,,Po e tepron.
+Dialogue: 0,0:18:21.45,0:18:24.17,Default,TEODORE,0,0,0,,Mirë, thuajse erdhi ora.
+Dialogue: 0,0:18:24.48,0:18:26.42,Default,TEODORE,0,0,0,,Princ Edward po ju pret.
+Dialogue: 0,0:18:26.74,0:18:27.61,Default,CAROLINA,0,0,0,,Po.
+Dialogue: 0,0:18:30.00,0:18:31.58,Default,MARISA,0,0,0,,Faleminderit që më prite.
+Dialogue: 0,0:18:38.48,0:18:40.68,Default,EDWARD,0,0,0,,Lina... Dukesh e bukur.
+Dialogue: 0,0:18:41.19,0:18:43.43,Default,CAROLINA,0,0,0,,Ed, edhe ti dukesh i mrekullueshëm.
+Dialogue: 0,0:18:44.38,0:18:48.06,Default,VOICE,0,0,0,,Po hyn Lartësia e Tij Perandorake,\Nprinci i dytë Edward Ruby Martinez,
+Dialogue: 0,0:18:48.06,0:18:51.50,Default,VOICE,0,0,0,,dhe Lartësia e Saj Perandorake,\Nprincesha Carolina Ruby Martinez!
+Dialogue: 0,0:18:56.73,0:19:00.39,Default,ERIC,0,0,0,,Sonte jam i lumtur ta kremtoj
+Dialogue: 0,0:19:00.39,0:19:04.08,Default,ERIC,0,0,0,,këtë Noel krah Shenjtores sonë të parë.
+Dialogue: 0,0:19:04.67,0:19:08.54,Default,ERIC,0,0,0,,Dhe në këtë ditë të lavdishme,\Nkam edhe një lajm të mirë për të gjithë.
+Dialogue: 0,0:19:11.95,0:19:16.30,Default,ERIC,0,0,0,,Princi i parë Gilbert Ruby Martinez,\Neja përpara.
+Dialogue: 0,0:19:16.30,0:19:16.93,Default,GILBERT,0,0,0,,Po, Madhëri.
+Dialogue: 0,0:19:23.66,0:19:26.44,Default,ERIC,0,0,0,,Në emrin tim, Eric Ruby Martinez,
+Dialogue: 0,0:19:26.75,0:19:32.07,Default,ERIC,0,0,0,,shpall se Gilbert Ruby Martinez\Ndo të jetë perandori i ardhshëm!
+Dialogue: 0,0:19:35.35,0:19:36.79,Default,GILBERT,0,0,0,,Kam ndër mend të ndjek
+Dialogue: 0,0:19:36.79,0:19:39.66,Default,GILBERT,0,0,0,,shembullin e tim eti dhe të përkushtohem\Npër t'u bërë perandor i mirë!
+Dialogue: 0,0:19:40.28,0:19:41.95,Default,GILBERT,0,0,0,,Ju kërkoj edhe mbështetjen tuaj!
+Dialogue: 0,0:19:44.35,0:19:47.96,Default,ERIC,0,0,0,,Lavdi Perandorisë së madhe të Malcosia-s!
+Dialogue: 0,0:19:47.96,0:19:52.34,Default,ALL IN VENUE,0,0,0,,Lavdi Perandorisë së madhe të Malcosia-s!
+Dialogue: 0,0:20:03.05,0:20:06.35,Default,EDWARD,0,0,0,,Lina, a ma jep nderin\Ntë kërcej një valle me ty?
+Dialogue: 0,0:20:07.24,0:20:09.44,Default,CAROLINA,0,0,0,,Po. Me shumë kënaqësi.
+Dialogue: 0,0:20:19.66,0:20:21.51,Default,TEODORE,0,0,0,,Po ndieni zili?
+Dialogue: 0,0:20:21.51,0:20:24.24,Default,GILBERT,0,0,0,,A mund të mos m'i hapësh plagët e vjetra?
+Dialogue: 0,0:20:24.55,0:20:29.75,Default,TEODORE,0,0,0,,Lartësia Juaj duhet të gjejë një princeshë\Naq të mirë sa Carolina, në mos më të mirë.
+Dialogue: 0,0:20:30.32,0:20:31.25,Default,TEODORE,0,0,0,,Apo jo?
+Dialogue: 0,0:20:31.68,0:20:34.63,Default,GILBERT,0,0,0,,Vërtet, paske karakter\Ntë keq, e di këtë?
+Dialogue: 0,0:20:48.14,0:20:52.65,Default,EDWARD,0,0,0,,Lina, je lodhur?\NPërgatitjet deri sot duhet të kenë qenë të rënda.
+Dialogue: 0,0:20:52.99,0:20:55.28,Default,CAROLINA,0,0,0,,Jo, jam mirë.
+Dialogue: 0,0:20:55.74,0:21:00.09,Default,EDWARD,0,0,0,,E hapëm vallëzimin,\Nndaj askush s'duhet të ankohet.
+Dialogue: 0,0:21:00.52,0:21:02.77,Default,EDWARD,0,0,0,,Pse s'kthehemi në pallat?
+Dialogue: 0,0:21:02.77,0:21:04.56,Default,CAROLINA,0,0,0,,Faleminderit, Ed.
+Dialogue: 0,0:21:20.75,0:21:25.93,Main - Italics,CAROLINA {M},0,0,0,,Ed-i më vë gjithmonë mua të parën.
+Dialogue: 0,0:21:26.30,0:21:30.43,Main - Italics,CAROLINA {M},0,0,0,,Që arrita të fitoj\Nbesim në vete,
+Dialogue: 0,0:21:30.76,0:21:32.94,Main - Italics,CAROLINA {M},0,0,0,,ta kapërcej të kaluarën,
+Dialogue: 0,0:21:32.94,0:21:37.19,Main - Italics,CAROLINA {M},0,0,0,,madje edhe ta fal motrën time të madhe...
+Dialogue: 0,0:21:37.19,0:21:39.68,Main - Italics,CAROLINA {M},0,0,0,,Gjithçka është falë tij.
+Dialogue: 0,0:21:40.56,0:21:41.45,Default,EDWARD,0,0,0,,Çfarë ke?
+Dialogue: 0,0:21:42.81,0:21:47.45,Default,CAROLINA,0,0,0,,Ed, të falënderoj shumë që më do.
+Dialogue: 0,0:21:50.36,0:21:52.83,Default,EDWARD,0,0,0,,Këtë duhet ta them unë.
+Dialogue: 0,0:21:56.96,0:21:58.97,Main - Italics,CAROLINA {N},0,0,0,,Kjo është historia se si unë,
+Dialogue: 0,0:21:58.97,0:22:02.22,Main - Italics,CAROLINA {N},0,0,0,,dikur e njohur si turpi i vetëm\Ni shtëpisë dukale Sanchez,
+Dialogue: 0,0:22:02.81,0:22:08.10,Main - Italics,CAROLINA {N},0,0,0,,gjeta lumturi me bollëk\Nfalë takimit me Ed-in.
+

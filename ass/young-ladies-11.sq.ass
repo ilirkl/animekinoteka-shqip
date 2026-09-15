@@ -1,0 +1,340 @@
+﻿[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 8
+YCbCr Matrix: TV.601
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Top Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Flashback Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Narrator,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.48,0:00:06.49,Default,Sign,0,0,0,,{\p1\an7\bord2\shad0\blur0.3\1a&H30&\fscx270\fscy150\c&HFFFFFF&\3c&HD8D6D7&}m 0 0 l 100 0 100 100 0 100{\p0}
+Dialogue: 0,0:00:04.48,0:00:06.49,Default,Sign,0,0,0,,{\an7\bord0\shad0\b1\fs14\fscx92\clip(20.5,20,282.5,171)\c&H545151&\move(26.5,130.5,26.5,-60.5)}FightingGameWimp\h\h\h\h{\fs11\c&H878081&}para 10 minutash\N{\fs14}Po të isha profesionist e të humbja kështu\Nnë një turne të madh, do të luaja mendsh\N\N{\c&H545151&}Yokai Nekosui\h\h\h\h{\fs11\c&H878081&}para 15 minutash\N{\fs14}Ah, sikur ta kisha parë drejtpërdrejt\N{\c&HE0B283&}#EVOJapan #StreetFighter6 #SF6\N\N{\c&H545151&}Healthy Mura\h\h\h\h{\fs11\c&H878081&}para 20 minutash\N{\fs14}Dëgjoni, po bëhet nami për këtë,\Npor duket fat i rastit. Ajo thjesht eci\Nkur Cafeore deshi ta mbaronte me dëmtim në bllokim.\NSeriozisht, askush s'e bën dot qëllimisht.
+Dialogue: 0,0:00:06.49,0:00:07.86,Default,Sign,0,0,0,,{\p1\an9\bord2\shad0\blur0.3\1a&H30&\fscx270\fscy150\c&HFFFFFF&\3c&HD8D6D7&}m 0 0 l 100 0 100 100 0 100{\p0}
+Dialogue: 0,0:00:06.49,0:00:07.86,Default,Sign,0,0,0,,{\an7\bord0\shad0\b1\fs14\fscx92\c&H545151&\clip(350,20,620.5,170)\move(364.5,127,364.5,-4)}Chikuwabu Wheat\h\h\h\h{\fs11\c&H878081&}para 20 minutash\N{\fs14}Hë. S'qe aspak keq. Të pres\Nnë ligat e mëdha.\N\N{\c&H545151&}Minoru Shimahada (i vërteti)\h\h\h\h{\fs11\c&H878081&}para 20 minutash\N{\fs14}O burrë, m'u ngrit mishi kokërr\N{\c&HD0A26B&}#EVOJapan
+Dialogue: 0,0:00:07.86,0:00:09.86,Default,Sign,0,0,0,,{\bord0\shad0\blur0.2\b1\fs16\c&H8B7679&\frz11.5\pos(195,26)}Aoi Inazuma
+Dialogue: 0,0:00:07.86,0:00:09.86,Default,Sign,0,0,0,,{\bord0\shad0\blur0.2\b1\an8\fs14\c&H8B7679&\frz12\pos(333,44.5)}Cafeore kundër Bukuroshes Misterioze
+Dialogue: 0,0:00:11.62,0:00:13.12,Default,Spectator,0,0,0,,Ajo është White Lily?
+Dialogue: 0,0:00:13.12,0:00:14.62,Default,Spectator,0,0,0,,Bukuroshja misterioze.
+Dialogue: 0,0:00:14.62,0:00:15.57,Default,Spectator,0,0,0,,Një vajzë.
+Dialogue: 0,0:00:23.00,0:00:24.70,Default,Aya,0,0,0,,Është në qendër të vëmendjes.
+Dialogue: 0,0:00:24.94,0:00:27.87,Default,Aya,0,0,0,,Mos duhet të shqetësohemi se nga emocionet\Ns'do ta mbajë dot levën,
+Dialogue: 0,0:00:27.87,0:00:30.50,Default,Aya,0,0,0,,me kaq shumë njerëz\Nqë e shohin në skenë?
+Dialogue: 0,0:00:30.50,0:00:31.72,Default,Yu,0,0,0,,Ke të drejtë.
+Dialogue: 0,0:00:50.45,0:00:53.14,Default,Arisa,0,0,0,,Ah, sa mirë. Sa e lumtur jam.
+Dialogue: 0,0:00:53.14,0:00:55.99,Default,Arisa,0,0,0,,Isha në humor\Npër ta bërë dikë pluhur.
+Dialogue: 0,0:00:56.81,0:00:58.43,Default,Arisa,0,0,0,,S'më interesonte kë.
+Dialogue: 0,0:01:01.25,0:01:03.70,Default,Arisa,0,0,0,,Por më vjen mirë që do të jesh ti.
+Dialogue: 0,0:01:03.98,0:01:06.17,Default,Arisa,0,0,0,,Tërheqja nga loja është tepër e mirë për ty.
+Dialogue: 0,0:01:06.17,0:01:09.88,Default,Arisa,0,0,0,,Do të të jap një humbje\Nqë të të vijë të vrasësh veten.
+Dialogue: 0,0:01:12.50,0:01:14.08,Default,Mio,0,0,0,,Je e sigurt që do ta bësh këtë?
+Dialogue: 0,0:01:14.08,0:01:19.43,Default,Mio,0,0,0,,Sa më shumë të mburresh, aq më shumë\Ndo të turpërohesh kur të humbasësh.
+Dialogue: 0,0:01:26.34,0:01:30.68,Flashback,Yu,0,0,0,,Prit, do të luash me atë mistrecen?\NDhe do të transmetoheni drejtpërdrejt?
+Dialogue: 0,0:01:30.68,0:01:32.23,Flashback,Mio,0,0,0,,Kështu më thanë.
+Dialogue: 0,0:01:32.23,0:01:36.18,Flashback,Mio,0,0,0,,Atëherë, mund të m'i ruani\Ngjërat, Inuyu-senpai?
+Dialogue: 0,0:01:41.95,0:01:44.41,Flashback,Yu,0,0,0,,Çfarë mendon?
+Dialogue: 0,0:01:44.41,0:01:46.15,Flashback,Yu,0,0,0,,Për zonjushën Mistrece.
+Dialogue: 0,0:01:50.13,0:01:51.47,Flashback,Mio,0,0,0,,Është e çuditshme.
+Dialogue: 0,0:01:51.91,0:01:56.63,Flashback,Mio,0,0,0,,Jam përplasur disa herë me të,\Ndhe gjithmonë më ka acaruar.
+Dialogue: 0,0:01:57.01,0:01:57.91,Flashback,Mio,0,0,0,,Por...
+Dialogue: 0,0:01:58.86,0:02:00.27,Flashback,Mio,0,0,0,,Këtë po e pres me padurim.
+Dialogue: 0,0:02:23.33,0:02:33.59,Default,Sign,0,0,0,,{\an8\fnCourier New\b1\bord5\fs40\t(\fs28)\shad0\c&H1CFEFC&\3c&H8B04E0&\t(2279,2280,\alpha&HFF&)\t(2850,2851,\alpha&H00&)\t(4280,4281,\alpha&HFF&)\t(5144,5145,\alpha&H00&)\t(9481,9482,\c&HE8FEDF&\3c&HF171F4&)\t(9650,9651,\c&H1CFEFC&\3c&H8B04E0&)\t(9900,9901,\c&HE8FEDF&\3c&HF171F4&)}ZONJUSHAT NUK LUAJNË\NLOJËRA LUFTIMI
+Dialogue: 0,0:03:46.49,0:03:50.24,Default,Flamberge,0,0,0,,O burrë, ç'ofendime të egra\Nsapo i transmetuam gjithë botës.
+Dialogue: 0,0:03:50.24,0:03:53.51,Default,Satan,0,0,0,,Duket se këto të dyja njihen prej kohësh.
+Dialogue: 0,0:03:53.51,0:03:55.72,Default,Satan,0,0,0,,Mund të jetë ndeshje për të larë hesapet.
+Dialogue: 0,0:03:55.72,0:04:01.83,Top,Satan,0,0,0,,Ndonjëherë shohim një profesionist kundër\Ndikujt që thjesht provon fatin në transmetim,
+Dialogue: 0,0:04:01.83,0:04:03.60,Top,Satan,0,0,0,,por kur janë dy lojtare të panjohura...
+Dialogue: 0,0:04:03.60,0:04:06.45,Italics,Arisa {M},0,0,0,,Mos më shit ato broçkullat e tua gazmore.
+Dialogue: 0,0:04:06.45,0:04:10.05,Italics,Arisa {M},0,0,0,,Ti merresh me sport elektronik vetëm\Npër të vrarë kohën me shoqet e tua dështake.
+Dialogue: 0,0:04:10.05,0:04:13.80,Italics,Arisa {M},0,0,0,,Kaq vlejnë për ty lojërat luftarake.\NE kam gabim?
+Dialogue: 0,0:04:14.26,0:04:17.01,Italics,Arisa {M},0,0,0,,Jam e fortë sepse jam vetëm.
+Dialogue: 0,0:04:17.35,0:04:20.14,Italics,Arisa {M},0,0,0,,Pikërisht. Jam e fortë.
+Dialogue: 0,0:04:20.50,0:04:23.29,Italics,Arisa {M},0,0,0,,Dhe meqë jam e fortë, kam të drejtë.
+Dialogue: 0,0:04:23.87,0:04:26.04,Italics,Arisa {M},0,0,0,,Dhe meqë kam të drejtë, meritoj të fitoj.
+Dialogue: 0,0:04:28.04,0:04:31.13,Default,Satan,0,0,0,,Uau! Sa shpejt\Ni zgjodhën personazhet!
+Dialogue: 0,0:04:31.13,0:04:32.00,Default,Flamberge,0,0,0,,Mirë, ju të dyja.
+Dialogue: 0,0:04:32.00,0:04:34.08,Default,Flamberge,0,0,0,,E shoh që jeni të etura për gjak.
+Dialogue: 0,0:04:34.08,0:04:37.74,Default,Flamberge,0,0,0,,Pra, White Lily me Ryu-n\Nkundër Alice-s me Guile-in.
+Dialogue: 0,0:04:37.74,0:04:41.97,Default,Flamberge,0,0,0,,Ja ku fillojmë!
+Dialogue: 0,0:04:40.20,0:04:41.97,Top,Satan,0,0,0,,Suksese!
+Dialogue: 0,0:04:49.05,0:04:52.87,Default,Flamberge,0,0,0,,Luftë projektilesh që në fillim,\Naq në sinkron sa duket e planifikuar!
+Dialogue: 0,0:04:52.87,0:04:57.26,Default,Satan,0,0,0,,A do të vendoset nga ajo që thyen\Nritmin dhe kërcen përpara e para?
+Dialogue: 0,0:05:01.10,0:05:04.32,Default,Spectator,0,0,0,,Asnjëra s'do të kërcejë.
+Dialogue: 0,0:05:04.32,0:05:07.78,Default,Spectator A,0,0,0,,Sikur secila po i thotë tjetrës\Ntë lëvizë e para.
+Dialogue: 0,0:05:07.78,0:05:09.46,Default,Satan,0,0,0,,Por Guile është personazh me ngarkim.
+Dialogue: 0,0:05:09.46,0:05:12.24,Default,Satan,0,0,0,,Duhet t'i ngarkojë\Nprojektilët para se t'i lëshojë.
+Dialogue: 0,0:05:12.24,0:05:15.88,Default,Satan,0,0,0,,E kompenson me rikuperim më të shpejtë\Ndhe më pak pushim mes goditjeve.
+Dialogue: 0,0:05:15.88,0:05:19.21,Default,Satan,0,0,0,,Nëse e vazhdojnë këtë luftë projektilesh,\Ndihet cila do të humbasë.
+Dialogue: 0,0:05:24.09,0:05:27.31,Default,Flamberge,0,0,0,,Asnjëra s'po sprapset.\NRefuzojnë të tërhiqen!
+Dialogue: 0,0:05:27.31,0:05:32.01,Default,Flamberge,0,0,0,,Kanë 30 sekonda që lëshojnë projektilë\Nnga pozicionet fillestare!
+Dialogue: 0,0:05:30.77,0:05:33.48,Default,Sign,0,0,0,,{\p1\an7\bord0\blur0.3\1a&H30&\fscx270\fscy150\c&H120D07&}m 0 0 l 100 0 100 100 0 100{\p0}
+Dialogue: 0,0:05:30.77,0:05:33.48,Default,Sign,0,0,0,,{\an7\bord0\shad0\b1\fs14\fscx92\clip(20.5,20,282.5,171)\move(24,134.5,24,-129.5)}30?!\N\N30 sekonda hahahaha\N\NKanë një jetë kështu\N\N30 sekonda? Vërtet?\N\Nhaha\N\Nvdiqa së qeshuri\N\NMe gjithë respektin, broçkulla\N\NÇ'dreqin po na bëjnë të shohim?\N\NDo të shkrihem së qeshuri po e harxhuan kohën\Nkështu\N\NDuhet të qëllojnë vetëm ata\Nqë janë gati të... Prapë projektil?
+Dialogue: 0,0:05:33.48,0:05:35.44,Default,Sign,0,0,0,,{\p1\an9\bord0\blur0.3\1a&H30&\fscx270\fscy150\c&H151213&}m 0 0 l 100 0 100 100 0 100{\p0}
+Dialogue: 0,0:05:33.48,0:05:35.44,Default,Sign,0,0,0,,{\an7\bord0\shad0\b1\fs14\fscx92\move(363,111.5,363,-452.5)\clip(349.5,19.5,620.5,170)}Me gjithë respektin, broçkulla\N\NÇ'dreqin po na bëjnë të shohim?\N\NDo të shkrihem së qeshuri po e harxhuan kohën\Nkështu\N\NDuhet të qëllojnë vetëm ata\Nqë janë gati të... Prapë projektil?\N\NÇ'janë këto, fillestare?\N\NLuftë projektilesh\N\NS'kam parë kurrë një kaq të gjatë\N\NEnde vazhdojnë? hahahaha\N\NProjektil në fillim, projektil për jetë\N\NUf...\N\NTani po bëjnë thjesht kokëfortën\N\N30 SEKONDA hahahaha\N\NDuket se erdhi koha të nguliten\N\NKush lëviz e para, humbet...\N\NI bëjnë dot komandat. Bravo.\N\NKu po shkon kjo? hahaha\N\NPyetja është, çfarë vjen më pas?\N\NO po! Shkëmbim zjarri!\N\NA ka kuptim ta nisësh\Nme projektil në këtë lojë?\N\NJo vetëm ta nisësh me të. A vlejnë\Nfare projektilët? Në SF2 përfitimi\Nnga projektilët ia vlente, por tani\Njanë vetëm rrezik i madh.\N\NShumë thonë se projektilët s'vlejnë, por...\N...edhe duhet të rrezikojë që të...\N...ndaj unë anoj nga...
+Dialogue: 0,0:05:37.36,0:05:39.19,Default,Satan,0,0,0,,Një OD Sonic Boom!
+Dialogue: 0,0:05:40.36,0:05:43.03,Italics,Arisa,0,0,0,,S'di të bësh asgjë tjetër?
+Dialogue: 0,0:05:43.03,0:05:47.15,Default,Flamberge,0,0,0,,Një Reverse Spin Kick!\NAlice hidhet në sulm e para!
+Dialogue: 0,0:05:47.15,0:05:48.62,Default,Foreign Player,0,0,0,,Alice lëvizi e para!
+Dialogue: 0,0:05:48.62,0:05:50.83,Default,Foreign Player C,0,0,0,,Po e afron luftimin.
+Dialogue: 0,0:05:52.34,0:05:56.43,Default,Flamberge,0,0,0,,Alice e ruan vrullin,\Nduke e shtyrë White Lily-n në qoshe.
+Dialogue: 0,0:06:05.96,0:06:07.92,Italics,Aya {M},0,0,0,,U fut thellë.
+Dialogue: 0,0:06:10.07,0:06:12.42,Default,Flamberge,0,0,0,,Uau! Edhe një tjetër!
+Dialogue: 0,0:06:12.42,0:06:13.36,Default,Spectator,0,0,0,,Uh.
+Dialogue: 0,0:06:13.36,0:06:16.26,Default,Spectator,0,0,0,,Ç'lloj e çmendure bën\Ndy të tilla rresht ngjitur me kundërshtarin?
+Dialogue: 0,0:06:18.63,0:06:20.83,Default,Flamberge,0,0,0,,Tani është në qoshe,\Ndomethënë në ferrin mbi tokë.
+Dialogue: 0,0:06:20.83,0:06:22.52,Default,Flamberge,0,0,0,,Ja ku vjen një kombinim goditjesh.
+Dialogue: 0,0:06:22.77,0:06:25.20,Default,Flamberge,0,0,0,,Ky po që është dëm i madh.
+Dialogue: 0,0:06:25.70,0:06:28.21,Default,Flamberge,0,0,0,,Dhe ende s'ka dalë nga ajo qoshe.
+Dialogue: 0,0:06:28.68,0:06:30.11,Default,Yu,0,0,0,,Rraskapitje.
+Dialogue: 0,0:06:31.74,0:06:34.70,Default,Flamberge,0,0,0,,Kjo ia la thuajse bosh\Nmatësin Drive White Lily-t.
+Dialogue: 0,0:06:34.70,0:06:37.41,Default,Satan,0,0,0,,Nëse mpihet tani,\Ndo të hajë një kombinim maksimal,
+Dialogue: 0,0:06:37.41,0:06:38.91,Default,Satan,0,0,0,,dhe do të mbarojë në vend.
+Dialogue: 0,0:06:40.12,0:06:41.82,Default,Flamberge,0,0,0,,Ja presioni i Alice-s gjatë ngritjes!
+Dialogue: 0,0:06:47.97,0:06:50.47,Default,Flamberge,0,0,0,,A-Ajo eci përpara dhe e hodhi!
+Dialogue: 0,0:06:51.24,0:06:52.42,Default,Spectator,0,0,0,,Pse eci?
+Dialogue: 0,0:06:52.42,0:06:53.88,Default,Foreign Player C,0,0,0,,S'po e sheh ekranin?
+Dialogue: 0,0:06:54.10,0:06:55.72,Default,Cecil,0,0,0,,Ç'e çmendur.
+Dialogue: 0,0:06:57.16,0:07:01.18,Default,Hideyoshi,0,0,0,,«Dikush kaq gjakatar s'do ta lëshojë\Npresionin gjatë ngritjes»,
+Dialogue: 0,0:07:01.18,0:07:04.64,Default,Hideyoshi,0,0,0,,mendoi Alice, ndaj u tërhoq\Npër t'iu shmangur një lëvizjeje të pathyeshme.
+Dialogue: 0,0:07:05.01,0:07:07.60,Default,Hideyoshi,0,0,0,,Dhe analiza e kujdesshme iu kthye kundër.
+Dialogue: 0,0:07:07.61,0:07:10.82,Default,Sign,0,0,0,,{\fnArial\b1\an1\bord0\shad0\fs14\blur0.3\c&H484141&\pos(69,264)}Lojtar profesionist
+Dialogue: 0,0:07:07.61,0:07:10.82,Default,Sign,0,0,0,,{\fnArial\b1\an7\bord0\shad0\fs16\blur0.3\c&H484141&\pos(70,304)}Zangief Suginami
+Dialogue: 0,0:07:08.27,0:07:10.81,Top,Suginami,0,0,0,,Të ecësh përpara në atë situatë?
+Dialogue: 0,0:07:10.81,0:07:12.53,Default,Arisa,0,0,0,,E pastaj?
+Dialogue: 0,0:07:19.57,0:07:21.04,Top Italics,Aya {M},0,0,0,,Një hedhje prapa.
+Dialogue: 0,0:07:19.58,0:07:21.04,Default,Sign,0,0,0,,{\bord0\shad0\blur0.3\b1\fs14\c&H4D4B4C&\pos(424,220)}Hedhje prapa
+Dialogue: 0,0:07:19.58,0:07:21.04,Default,Sign,0,0,0,,{\bord0\shad0\blur0.3\b1\fs11\an1\c&H686467&\pos(392,251)}Një hedhje normale
+Dialogue: 0,0:07:19.58,0:07:21.04,Default,Sign,0,0,0,,{\bord0\shad0\blur0.3\b1\fs11\an1\c&H686467&\pos(420,261)}që ndërron pozicionet e personazheve.
+Dialogue: 0,0:07:19.58,0:07:21.04,Default,Sign,0,0,0,,{\bord0\shad0\blur0.3\b1\fs11\an1\c&H686467&\pos(430,329)}E disponueshme për të gjithë personazhet.
+Dialogue: 0,0:07:24.01,0:07:25.26,Default,Flamberge,0,0,0,,Dhe një hedhje tjetër.
+Dialogue: 0,0:07:25.26,0:07:27.96,Default,Flamberge,0,0,0,,White Lily sapo mori hov?
+Dialogue: 0,0:07:32.50,0:07:34.64,Default,Flamberge,0,0,0,,Çfarë sheh White Lily që unë s'e shoh?
+Dialogue: 0,0:07:34.64,0:07:37.71,Default,Flamberge,0,0,0,,Po i kap aq shumë goditje,\Nsa është për të qeshur.
+Dialogue: 0,0:07:39.56,0:07:41.56,Default,Flamberge,0,0,0,,A mund ta çojë deri te fitorja?
+Dialogue: 0,0:07:41.82,0:07:42.86,Italics,Arisa,0,0,0,,Mos u...
+Dialogue: 0,0:07:42.86,0:07:43.69,Default,Arisa,0,0,0,,...mburr!
+Dialogue: 0,0:07:44.11,0:07:46.87,Default,Flamberge,0,0,0,,Uau. Tani edhe Alice\Npo provon hedhje të rrezikshme.
+Dialogue: 0,0:07:46.87,0:07:49.45,Top,Flamberge,0,0,0,,Me këto të dyja, pritet gjithçka.
+Dialogue: 0,0:07:46.87,0:07:47.60,Default,Aya,0,0,0,,S'është mirë.
+Dialogue: 0,0:07:48.13,0:07:52.72,Default,Aya,0,0,0,,Kjo e nxori Alice-n nga qosheja\Ndhe e la me më shumë jetë.
+Dialogue: 0,0:07:57.04,0:07:59.00,Default,Flamberge,0,0,0,,Kanë mbetur vetëm 17 sekonda.
+Dialogue: 0,0:07:59.00,0:08:02.20,Italics,Aya {M},0,0,0,,Alice-s i mjafton ta ndalojë\NMio-n të bëjë dëm që të fitojë.
+Dialogue: 0,0:08:02.48,0:08:05.34,Italics,Arisa {M},0,0,0,,Çfarë do të bësh, White Lily?
+Dialogue: 0,0:08:05.34,0:08:06.88,Italics,Arisa {M},0,0,0,,Eja më vrit.
+Dialogue: 0,0:08:06.88,0:08:07.75,Italics,Arisa {M},0,0,0,,Nëse mundesh.
+Dialogue: 0,0:08:10.17,0:08:11.92,Default,Flamberge,0,0,0,,Edhe dhjetë sekonda.
+Dialogue: 0,0:08:13.63,0:08:16.14,Default,Flamberge,0,0,0,,Alice tërhiqet. White Lily e ndjek.
+Dialogue: 0,0:08:18.35,0:08:19.59,Default,Satan,0,0,0,,Dhe tani...
+Dialogue: 0,0:08:19.59,0:08:23.56,Default,Satan,0,0,0,,Alice ndalet dhe bllokon\Npër të mos përfunduar në qoshe!
+Dialogue: 0,0:08:25.01,0:08:26.29,Default,Flamberge,0,0,0,,Edhe gjashtë sekonda!
+Dialogue: 0,0:08:26.29,0:08:27.28,Default,Flamberge,0,0,0,,Pesë!
+Dialogue: 0,0:08:36.61,0:08:38.74,Default,Spectator,0,0,0,,U dorëzua?
+Dialogue: 0,0:09:02.06,0:09:03.64,Default,Flamberge,0,0,0,,Koha mbaroi!
+Dialogue: 0,0:09:03.64,0:09:07.31,Default,Flamberge,0,0,0,,Ajo goditja e fundit\Nerdhi paksa vonë!
+Dialogue: 0,0:09:07.31,0:09:10.34,Default,Flamberge,0,0,0,,Raundin e parë e fiton Alice.
+Dialogue: 0,0:09:12.26,0:09:14.53,Italics,Arisa,0,0,0,,Dreq! Dreq!
+Dialogue: 0,0:09:15.00,0:09:17.14,Italics,Arisa,0,0,0,,Dreq, dreq, dreq, dreq!
+Dialogue: 0,0:09:18.32,0:09:20.46,Italics,Flamberge,0,0,0,,Guile-i i Alice-s s'ndalet fare.
+Dialogue: 0,0:09:24.18,0:09:27.29,Italics,Flamberge,0,0,0,,Dhe e çon deri në nokaut.
+Dialogue: 0,0:09:28.21,0:09:33.42,Default,Sign,0,0,0,,{\bord0\shad0\blur0.3\fs12\fscx90\fnArial Black\c&H0C0C0C&\pos(159,255.5)}Duke parë nga shtëpia
+Dialogue: 0,0:09:28.21,0:09:33.42,Default,Sign,0,0,0,,{\bord0\shad0\blur0.3\fs15\fscx90\fnArial Black\c&H0C0C0C&\pos(160,312.5)}Yasumoto
+Dialogue: 0,0:09:29.91,0:09:33.42,Italics,Flamberge,0,0,0,,Lojën e parë e fiton Guile-i i Alice-s.
+Dialogue: 0,0:09:33.42,0:09:36.27,Italics,Satan,0,0,0,,Po e mbani mend raundin e parë?
+Dialogue: 0,0:09:36.27,0:09:40.39,Italics,Satan,0,0,0,,White Lily «i besoi» Alice-s\Nse do ta ndalte Rush-in me një grusht të shpejtë,
+Dialogue: 0,0:09:40.39,0:09:44.54,Italics,Satan,0,0,0,,ndaj e joshi ta hidhte grushtin\Nme një Rush jashtë rrezes,
+Dialogue: 0,0:09:44.54,0:09:46.84,Italics,Satan,0,0,0,,duke synuar ta lidhte Blade Kick-un\Nme një supergoditje.
+Dialogue: 0,0:09:46.84,0:09:49.07,Italics,Flamberge,0,0,0,,O burrë, ç'lexim i kundërshtarit.
+Dialogue: 0,0:09:49.07,0:09:52.70,Italics,Flamberge,0,0,0,,Mund të kishte shkuar ndryshe\Nsikur të kishte edhe një sekondë.
+Dialogue: 0,0:09:53.27,0:09:55.99,Default,Sign,0,0,0,,{\an8\bord0\shad0\fs15\b1\blur0.2\pos(125,38)\c&H7B7E76&}Për ty
+Dialogue: 0,0:09:53.27,0:09:55.99,Default,Sign,0,0,0,,{\an8\bord0\fnArial\shad0\fs15\b1\blur0.2\c&HE8EEF0&\pos(502,38)}Po ndjek
+Dialogue: 0,0:09:53.27,0:09:55.99,Default,Sign,0,0,0,,{\an1\bord0\shad0\fs20\b1\blur0.2\c&HE6E9EC&\pos(42.5,91.5)}Mbi të gjitha, edhe ai Blade Kick direkt në {\alpha&HHFF&\t(195,196,\alpha&H00&)}fu{\alpha&HHFF&\t(235,236,\alpha&H00&)}nd,
+Dialogue: 0,0:09:53.27,0:09:55.99,Default,Sign,0,0,0,,{\an7\bord0\shad0\fs20\b1\blur0.2\c&HE6E9EC&\pos(42.5,150)\alpha&HFF&\t(525,526,\alpha&H00&)}«{\alpha&HFF&\t(275,276,\alpha&H00&)}White {\alpha&HFF&\t(445,446,\alpha&H00&)}Lily{\alpha&HFF&\t(525,526,\alpha&H00&)}» {\alpha&HFF&\t(605,606,\alpha&H00&)}duket {\alpha&HFF&\t(695,696,\alpha&H00&)}se {\alpha&HFF&\t(855,856,\alpha&H00&)}thjesht{\alpha&HFF&\t(1070,1071,\alpha&H00&)} po {\alpha&HFF&\t(1110,1111,\alpha&H00&)}i {\alpha&HFF&\t(1195,1196,\alpha&H00&)}sht{\alpha&HFF&\t(1275,1276,\alpha&H00&)}yp {\alpha&HFF&\t(1360,1361,\alpha&H00&)}but{\alpha&HFF&\t(1530,1531,\alpha&H00&)}onat
+Dialogue: 0,0:09:53.27,0:09:55.99,Default,Sign,0,0,0,,{\an8\bord0\shad0\fs14\b1\blur0.2\c&HB48718&\pos(117,194.5)}Çdokush mund të përgjigjet
+Dialogue: 0,0:09:53.27,0:09:55.99,Default,Sign,0,0,0,,{\bord2.5\fnArial\shad0\fs16\fsp2\b1\blur0.2\c&H4B4E4F&\3c&HF0EFF1&\pos(555,237)\t(1610,1611,\c&H672C04&\3c&HE4A617&)\t(1695,1696,\c&H4B4E4F&\3c&HF0EFF1&)}Posto
+Dialogue: 0,0:09:55.99,0:09:58.20,Default,Sign,0,0,0,,{\bord1.8\fsp1\shad0\an8\q2\fs30\blur0.3\3c&H897D82&\move(980,63.5,-233,63.5)}«White Lily» duket se thjesht po shtyp butonat\h\h\h\h\h\h\h\h\hI ka mbetur fryma\NKush emocionohet kaq nga një ndeshje fëmijësh?\h\h\h\h\h\h\h\h\hMë duket mua apo vogëlushja qenka e zonja? haha\NI duhet bombol oksigjeni?\h\h\h\h\h\h\h\h\hÇ'do të bëjnë tani?\h\h\h\h\h\h\h\h\hO burrë, po bëhet serioze\NS'ka «shtypje kuturu» në ndeshje të vërtetë\h\h\h\h\h\h\h\h\hPo merr mjaftueshëm ajër White Lily?\NAto shikime të vrasin\h\h\h\h\h\h\h\h\hPo tani, çfarë vjen?\h\h\h\h\h\h\h\h\hAh, sikur të kishte edhe një sekondë\NKërkojnë gjak. E bën interesante\h\h\h\h\h\h\h\h\hE pranoj, ishte çmenduri\NPër të thënë të vërtetën, ishte qejf haha\h\h\h\h\h\h\h\h\hHej, goca qenka e zonja
+Dialogue: 0,0:10:04.69,0:10:07.32,Italics,Arisa,0,0,0,,Dreq. Edhe një sekondë...
+Dialogue: 0,0:10:07.32,0:10:09.94,Italics,Arisa,0,0,0,,dhe kjo shtrigë do të më kishte vrarë.
+Dialogue: 0,0:10:11.08,0:10:14.92,Italics,Arisa {M},0,0,0,,Do të humbja ndaj kësaj...\Nkësaj shakaje me këmbë.
+Dialogue: 0,0:10:14.92,0:10:18.36,Italics,Arisa {M},0,0,0,,Dreq. Dreq! Dreq, dreq, dreq!
+Dialogue: 0,0:10:21.56,0:10:24.80,Italics,Arisa {M},0,0,0,,Më shumë. Duhet të jem më e pamëshirshme.
+Dialogue: 0,0:10:45.67,0:10:47.12,Default,Spectator A,0,0,0,,Prapë luftë projektilesh?
+Dialogue: 0,0:10:47.12,0:10:48.12,Default,Spectator B,0,0,0,,Janë në sinkron.
+Dialogue: 0,0:10:48.12,0:10:49.66,Default,Spectator C,0,0,0,,Edhe 30 sekonda përballje pa lëvizur?
+Dialogue: 0,0:10:56.79,0:10:57.96,Default,Flamberge,0,0,0,,Ç-Çfarë ishte {\i1}ajo?{\i0}
+Dialogue: 0,0:10:57.96,0:11:00.64,Default,Flamberge,0,0,0,,Një Shoryu nga hiçi, sikur ia lexoi mendjen!
+Dialogue: 0,0:11:00.64,0:11:04.84,Default,Yoshioka,0,0,0,,Alice ndali breshërinë e projektilëve\Npër një goditje të llogaritur saktë.
+Dialogue: 0,0:11:04.84,0:11:08.18,Default,Onoda,0,0,0,,Dhe White Lily iu përgjigj\Nme një Shoryuken në çastin e përsosur.
+Dialogue: 0,0:11:08.18,0:11:09.49,Default,Yoshioka; Onoda,0,0,0,,Si?
+Dialogue: 0,0:11:08.18,0:11:09.49,Top,Yoshioka; Onoda,0,0,0,,Si?
+Dialogue: 0,0:11:11.86,0:11:14.07,Default,Hideyoshi,0,0,0,,Back Knuckle i Guile-it...
+Dialogue: 0,0:11:14.31,0:11:16.53,Top,Hideyoshi,0,0,0,,është goditje e mirë me rreze të gjatë.
+Dialogue: 0,0:11:14.07,0:11:16.52,Default,Sign,0,0,0,,{\fs15\b1\bord0\shad0\blur0.2\pos(326.5,320)\c&HFBE8F0&}Ecën përpara duke goditur me pjesën e pasme të grushtit.
+Dialogue: 0,0:11:14.07,0:11:16.52,Default,Sign,0,0,0,,{\fs15\b1\bord0\shad0\blur0.2\pos(326.5,337)\an8\c&HFBE8F0&}Lejon të lëvizësh para kundërshtarit edhe nëse bllokohet.
+Dialogue: 0,0:11:17.73,0:11:23.73,Default,Hideyoshi,0,0,0,,Bashkë me projektilët, kap ata\Nqë përpiqen të afrohen duke bllokuar.
+Dialogue: 0,0:11:23.73,0:11:26.59,Default,Hideyoshi,0,0,0,,Ky marifet përdoret që nga SF2.
+Dialogue: 0,0:11:26.94,0:11:31.97,Default,Hideyoshi,0,0,0,,White Lily u afrua dhe bllokoi\Nvetëm një Sonic Boom.
+Dialogue: 0,0:11:32.26,0:11:35.64,Default,Hideyoshi,0,0,0,,Alice e pa dhe menjëherë\Npërdori Back Knuckle.
+Dialogue: 0,0:11:35.64,0:11:38.63,Default,Hideyoshi,0,0,0,,Pastaj hëngri një Shoryu.
+Dialogue: 0,0:11:40.08,0:11:44.07,Default,Cecil,0,0,0,,Por s'kishte pse të përdorte\NShoryu aty, apo jo?
+Dialogue: 0,0:11:44.07,0:11:45.22,Default,Cecil,0,0,0,,Është rrezik i kotë.
+Dialogue: 0,0:11:47.50,0:11:52.47,Default,Cecil,0,0,0,,Ka shumë gjëra që s'i kuptoj\Nte stili i lojës së asaj White Lily-t.
+Dialogue: 0,0:11:52.93,0:11:55.03,Default,Hideyoshi,0,0,0,,«S'e kupton»?
+Dialogue: 0,0:11:55.03,0:11:57.07,Default,Cecil,0,0,0,,Jo, s'e kuptoj.
+Dialogue: 0,0:11:57.99,0:11:59.91,Default,Hideyoshi,0,0,0,,S'e kupton, hë?
+Dialogue: 0,0:12:02.61,0:12:04.49,Default,Flamberge,0,0,0,,Ja presioni i White Lily-t gjatë ngritjes!
+Dialogue: 0,0:12:08.15,0:12:09.42,Default,Spectator,0,0,0,,Shoryu gjatë okizeme-s?
+Dialogue: 0,0:12:09.42,0:12:10.41,Default,Foreign Player,0,0,0,,Ç'dreqin...
+Dialogue: 0,0:12:10.41,0:12:12.87,Default,Cecil,0,0,0,,A e mendoi fare\Nç'ndodh nëse ia bllokon?
+Dialogue: 0,0:12:12.87,0:12:14.30,Default,Flamberge,0,0,0,,Dhe ende po e vazhdon presionin.
+Dialogue: 0,0:12:17.69,0:12:20.51,Default,Flamberge,0,0,0,,Ç'ishte {\i1}ajo{\i0} tani?\NS'e kam idenë çfarë sapo pashë.
+Dialogue: 0,0:12:20.51,0:12:26.44,Default,Flamberge,0,0,0,,White Lily nisi Shoryuken-ët nga neutralja,\Ndhe ka saktësi të frikshme!
+Dialogue: 0,0:12:29.42,0:12:30.73,Italics,Arisa {M},0,0,0,,Mjaft me këto.
+Dialogue: 0,0:12:30.73,0:12:32.82,Default,Flamberge,0,0,0,,Vërtet e bëri!
+Dialogue: 0,0:12:40.15,0:12:42.98,Italics,Arisa {M},0,0,0,,Ç'bezdi e mallkuar.
+Dialogue: 0,0:12:46.83,0:12:49.11,Italics,Arisa {M},0,0,0,,Je një bezdi e mallkuar!
+Dialogue: 0,0:12:52.37,0:12:54.29,Italics,Arisa {M},0,0,0,,Mos të të rritet mendja.
+Dialogue: 0,0:12:54.77,0:12:57.03,Italics,Arisa {M},0,0,0,,Të thashë, s'do të humbas...
+Dialogue: 0,0:12:57.03,0:13:00.32,Italics,Arisa {M},0,0,0,,ndaj një amatoreje që argëtohet\Nme shoqet e saj.
+Dialogue: 0,0:13:00.75,0:13:01.97,Italics,Arisa {M},0,0,0,,Kurrë.
+Dialogue: 0,0:13:02.23,0:13:03.76,Italics,Arisa {M},0,0,0,,Kurrë!
+Dialogue: 0,0:13:04.67,0:13:05.93,Italics,Arisa {M},0,0,0,,S'do të...
+Dialogue: 0,0:13:06.38,0:13:07.72,Italics,Arisa {M},0,0,0,,humbas kurrë ndaj teje!
+Dialogue: 0,0:13:27.11,0:13:29.00,Default,Spectator,0,0,0,,Mund ta kishte ndëshkuar atë gabim.
+Dialogue: 0,0:13:28.30,0:13:30.05,Top,Spectator,0,0,0,,Shoryu duke ecur përpara?
+Dialogue: 0,0:13:29.91,0:13:31.20,Default,Spectator,0,0,0,,Tani po kapardiset.
+Dialogue: 0,0:13:31.20,0:13:32.66,Default,Gekido,0,0,0,,Bisha.
+Dialogue: 0,0:13:33.86,0:13:37.02,Default,Gekido,0,0,0,,E ka lëshuar bishën.
+Dialogue: 0,0:13:39.30,0:13:42.80,Default,Gekido,0,0,0,,Bishën që quhet «instinkti i luftëtarit».
+Dialogue: 0,0:14:04.59,0:14:06.70,Default,Flamberge,0,0,0,,E çau me forcë!
+Dialogue: 0,0:14:07.15,0:14:10.61,Default,Flamberge,0,0,0,,Sa ndryshim nga loja e parë,\Nku u mbaroi koha.
+Dialogue: 0,0:14:10.61,0:14:16.79,Default,Flamberge,0,0,0,,Në lojën e dytë, bishat brenda\Nkëtyre vajzave janë zgjuar plotësisht!
+Dialogue: 0,0:14:26.01,0:14:27.34,Italics,Aya; Yu {M},0,0,0,,Goditje e pajisjes!
+Dialogue: 0,0:14:27.34,0:14:31.34,Default,Sign,0,0,0,,{\bord0\shad0\b1\blur0.2\fs20\c&H615B5C&\pos(101,100)}Goditja e pajisjes
+Dialogue: 0,0:14:27.34,0:14:31.34,Default,Sign,0,0,0,,{\bord0\shad0\b1\blur0.2\an1\fs14\c&H615B5C&\pos(152,162)}Zhargon për goditjen e makinës së lojës. Edhe goditja me kokë\Napo e kontrollorit tënd llogaritet si «goditje e pajisjes».\NT'i dorëzohesh zemërimit e të godasësh diçka është josportive\Ndhe mund të të lëndojë, ndaj s'këshillohet kurrë, sidomos\Nnë sallat e lojërave, ku i sjell telashe biznesit.
+Dialogue: 0,0:14:33.81,0:14:34.64,Default,Spectator,0,0,0,,Ajo...
+Dialogue: 0,0:14:34.64,0:14:36.90,Default,Spectator,0,0,0,,...sapo e goditi kontrollorin me gjithë forcën?
+Dialogue: 0,0:14:36.90,0:14:39.11,Default,Sign,0,0,0,,{\p1\an7\bord1\shad0\blur0.3\alpha&H30&\fscx270\fscy150\c&H3E4040&\3c&H28282A&}m 0 0 l 100 0 100 100 0 100{\p0}
+Dialogue: 0,0:14:36.90,0:14:39.11,Default,Sign,0,0,0,,{\an7\bord0\shad0\b1\fs14\fscx92\clip(20.5,20,282.5,171)\move(24,134.5,24,-59.5)}E kupton ajo që po transmetohet drejtpërdrejt?\N\NMendoni se vogëlushja prish shumë\Ntastiera?\N\NDuhet të sillet më mirë\N\NGodite monitorin që t'i mësosh edukatën\N\NMëso ta kontrollosh zemërimin. S'je\Nmajmun\N\NSinqerisht, pas goditjes e kuptoj më mirë\N\NEdhe unë do të nxehesha
+Dialogue: 0,0:14:39.11,0:14:42.57,Default,Suginami,0,0,0,,Kjo mund të bëhet\N«goditja që u dëgjua në gjithë botën».
+Dialogue: 0,0:14:44.29,0:14:47.34,Default,Cafeore,0,0,0,,Kjo po që është muzikë për veshët e mi.
+Dialogue: 0,0:14:51.13,0:14:52.29,Default,Arisa,0,0,0,,Pse?
+Dialogue: 0,0:14:56.19,0:14:57.38,Italics,Arisa {M},0,0,0,,Pse...
+Dialogue: 0,0:14:59.83,0:15:01.05,Italics,Arisa {M},0,0,0,,...ti?
+Dialogue: 0,0:15:16.51,0:15:18.01,Italics,Arisa {M},0,0,0,,Hidhe tutje.
+Dialogue: 0,0:15:18.01,0:15:23.70,Italics,Arisa {M},0,0,0,,Idenë se s'të mund dot dikush\Nqë humb kohën me shoqet,
+Dialogue: 0,0:15:23.70,0:15:24.95,Italics,Arisa {M},0,0,0,,lëre mënjanë tani për tani.
+Dialogue: 0,0:15:28.36,0:15:30.24,Italics,Arisa {M},0,0,0,,Do ta pranoj vlerën tënde.
+Dialogue: 0,0:15:31.38,0:15:35.68,Italics,Arisa {M},0,0,0,,Do ta pranoj që të mund të të mposht.
+Dialogue: 0,0:15:39.03,0:15:43.12,Default,Mio,0,0,0,,Duhet të duroj\Nedhe pak.
+Dialogue: 0,0:15:43.51,0:15:46.84,Default,Arisa,0,0,0,,Do të të sulmoj me gjithçka që kam!
+Dialogue: 0,0:15:56.35,0:15:58.81,Default,Sign,0,0,0,,{\an8\bord0\shad0\blur0.3\b1\fs14\c&H6C4B3B&\frz10.15\pos(150,23.5)}Yu-san
+Dialogue: 0,0:15:56.35,0:15:58.81,Default,Sign,0,0,0,,{\an1\bord0\shad0\blur0.3\b1\fs10\c&H87482E&\frz10.7\pos(128.5,67.5)}Më rrahën aq keq, sa do të qesh me këtë gjithë jetën
+Dialogue: 0,0:15:56.35,0:15:58.81,Default,Sign,0,0,0,,{\an1\bord0\shad0\blur0.3\b1\fs10\c&H87482E&\frz11.5\pos(142.5,89)}U bë aq keq, sa kaloi në anën tjetër
+Dialogue: 0,0:15:56.35,0:15:58.81,Default,Sign,0,0,0,,{\an1\bord0\shad0\blur0.3\b1\fs10\c&H87482E&\frz11.5\pos(151,128)}ndaj s'jam as e nxehur
+Dialogue: 0,0:15:56.35,0:15:58.81,Default,Sign,0,0,0,,{\an1\bord0\shad0\blur0.3\b1\fs10\c&H87482E&\frz12\pos(157,157)}Lojërat luftarake qenkan të vështira, hë?
+Dialogue: 0,0:15:56.35,0:15:58.81,Default,Sign,0,0,0,,{\an1\bord0\shad0\blur0.3\b1\fs10\c&H87482E&\frz13\pos(161,212)}Tamateya, ku je tani?
+Dialogue: 0,0:15:56.35,0:15:58.81,Default,Sign,0,0,0,,{\an1\bord0\shad0\blur0.3\b1\fs14\c&H746148&\frz13.15\pos(192.5,283.5)}Mesazh
+Dialogue: 0,0:16:08.89,0:16:11.61,Default,Staff,0,0,0,,Ajo ndeshja në skenë\Nqenka e jashtëzakonshme.
+Dialogue: 0,0:16:11.61,0:16:14.25,Default,Staff,0,0,0,,Bukuroshja e re\Nkundër bukuroshes së vogël?
+Dialogue: 0,0:16:29.51,0:16:30.66,Default,Tamaki,0,0,0,,Si...
+Dialogue: 0,0:16:40.66,0:16:43.40,Default,Yu,0,0,0,,Si mendon se arrin të luajë ashtu?
+Dialogue: 0,0:16:44.57,0:16:49.23,Default,Aya,0,0,0,,Besoj sepse është argëtuar\Nme lojën sipas mënyrës së vet.
+Dialogue: 0,0:16:50.57,0:16:55.62,Default,Aya,0,0,0,,S'sheh lojtarë të zotë në internet\Npër të marrë shembull apo gjëra të tilla.
+Dialogue: 0,0:16:55.95,0:16:59.94,Default,Aya,0,0,0,,I pëlqen\Nt'i mendojë vetë gjërat.
+Dialogue: 0,0:17:00.52,0:17:04.79,Default,Aya,0,0,0,,Kur luan, vë të parat atë që i pëlqen\Ndhe atë që i ngjall interes.
+Dialogue: 0,0:17:04.79,0:17:07.14,Default,Aya,0,0,0,,Por është çuditërisht e zonja pavarësisht kësaj.
+Dialogue: 0,0:17:07.14,0:17:08.89,Default,Aya,0,0,0,,Të paktën kështu mendoja.
+Dialogue: 0,0:17:09.33,0:17:13.60,Default,Aya,0,0,0,,Por në të vërtetë,\Najo s'është e zonja {\i1}pavarësisht{\i0} kësaj.
+Dialogue: 0,0:17:14.05,0:17:17.47,Default,Ayay,0,0,0,,Është e zonja {\i1}falë{\i0} kësaj.
+Dialogue: 0,0:17:18.99,0:17:22.14,Default,Hideyoshi,0,0,0,,Sot mund t'i gjesh\Ntë gjitha përgjigjet në internet.
+Dialogue: 0,0:17:22.14,0:17:24.23,Default,Hideyoshi,0,0,0,,Lojërat luftarake s'bëjnë përjashtim.
+Dialogue: 0,0:17:24.45,0:17:27.06,Default,Hideyoshi,0,0,0,,Mëson teknikat\Nqë të tjerët i quajnë të mira
+Dialogue: 0,0:17:27.06,0:17:29.16,Default,Hideyoshi,0,0,0,,dhe ndërton një stil që të sjell fitore.
+Dialogue: 0,0:17:31.18,0:17:35.40,Default,Hideyoshi,0,0,0,,Kështu merr rrugën më të shkurtër.\NPo pse të ndalesh aty?
+Dialogue: 0,0:17:35.40,0:17:37.03,Default,Hideyoshi,0,0,0,,Merr të keqen bashkë me të mirën.
+Dialogue: 0,0:17:37.35,0:17:40.37,Default,Hideyoshi,0,0,0,,Ushtro gjëra që të tjerët i quajnë të kota.
+Dialogue: 0,0:17:40.62,0:17:43.45,Default,Hideyoshi,0,0,0,,Sikur po bën një devijim pa merak.
+Dialogue: 0,0:17:43.45,0:17:46.16,Default,Hideyoshi,0,0,0,,Sikur po i lë pas\Ntë gjitha shtigjet e shkelura.
+Dialogue: 0,0:17:46.16,0:17:49.37,Default,Hideyoshi,0,0,0,,Sikur po kërkon thesar\Nnë një grumbull hedhurinash.
+Dialogue: 0,0:17:49.37,0:17:52.83,Default,Hideyoshi,0,0,0,,Kur një lojtar del\Nnga ana tjetër e kësaj rruge, thua:
+Dialogue: 0,0:17:52.83,0:17:55.23,Default,Hideyoshi,0,0,0,,«S'e kuptoj, por është i zoti».
+Dialogue: 0,0:17:57.26,0:18:00.21,Default,Cecil,0,0,0,,Po thua se ajo i ka luajtur\Nlojërat luftarake kështu?
+Dialogue: 0,0:18:00.59,0:18:01.80,Default,Cecil,0,0,0,,Ajo vajza?
+Dialogue: 0,0:18:03.01,0:18:04.75,Default,Hideyoshi,0,0,0,,Kjo është diçka...
+Dialogue: 0,0:18:04.77,0:18:06.47,Default,Hideyoshi,0,0,0,,që as unë s'e kuptoj.
+Dialogue: 0,0:18:12.10,0:18:18.57,Default,Aya,0,0,0,,Besoj se ëndërronte të luante Smash\Nte një shoqe pas shkollës.
+Dialogue: 0,0:18:19.08,0:18:21.29,Default,Aya,0,0,0,,Po, në fakt...
+Dialogue: 0,0:18:23.23,0:18:26.34,Default,Aya,0,0,0,,Mbase ishte më tepër\Nnjë «uri» sesa një «ëndërr».
+Dialogue: 0,0:18:26.69,0:18:28.42,Default,Aya,0,0,0,,Prandaj është kaq...
+Dialogue: 0,0:18:31.46,0:18:32.54,Italics,Aya {M},0,0,0,,Është kaq...
+Dialogue: 0,0:18:45.00,0:18:49.14,Default,Flamberge,0,0,0,,Shinku Hadoken-i i White Lily-t\Ndepërton përmes Sonic Boom-it të Guile-it!
+Dialogue: 0,0:18:49.14,0:18:52.07,Default,Satan,0,0,0,,Kjo ndeshje po shkon\Nnë raundin e fundit të lojës së fundit!
+Dialogue: 0,0:18:52.07,0:18:54.11,Default,Flamberge,0,0,0,,Çasti vendimtar thuajse erdhi.
+Dialogue: 0,0:18:57.44,0:18:58.87,Italics,Arisa {M},0,0,0,,Pse?
+Dialogue: 0,0:18:59.36,0:19:01.07,Italics,Arisa {M},0,0,0,,Pse {\i0}ti?{\i1}
+Dialogue: 0,0:19:02.34,0:19:03.58,Default,Flamberge,0,0,0,,Ky po që është stil!
+Dialogue: 0,0:19:03.58,0:19:06.16,Default,Flamberge,0,0,0,,E joshi të godiste në bosh me një hap prapa\Ndhe e ndëshkoi!
+Dialogue: 0,0:19:07.32,0:19:09.01,Italics,Arisa {M},0,0,0,,Duhej të kishte qenë Miyu.
+Dialogue: 0,0:19:09.84,0:19:11.58,Italics,Arisa {M},0,0,0,,Doja të luaja me Miyu-n kështu.
+Dialogue: 0,0:19:11.84,0:19:14.54,Italics,Arisa {M},0,0,0,,Ta sulmoja me gjithçka që kam.
+Dialogue: 0,0:19:14.80,0:19:17.31,Italics,Arisa {M},0,0,0,,Atëherë pse? Pse?
+Dialogue: 0,0:19:17.79,0:19:20.98,Italics,Arisa {M},0,0,0,,Pse nuk je Miyu?!
+Dialogue: 0,0:19:20.98,0:19:22.88,Default,Flamberge,0,0,0,,Po hidhet në sulm!
+Dialogue: 0,0:19:22.88,0:19:26.85,Italics,Arisa {M},0,0,0,,Doja të argëtohesha\Nme Miyu-n kështu.
+Dialogue: 0,0:19:40.29,0:19:42.08,Default,Flamberge,0,0,0,,Devijim i përsosur, hov përpara dhe hedhje.
+Dialogue: 0,0:19:42.08,0:19:46.10,Default,Flamberge,0,0,0,,Alice po e shtonte presionin,\Npor tani është bllokuar në qoshe!
+Dialogue: 0,0:19:42.95,0:19:45.16,Default,Sign,0,0,0,,{\p1\an7\bord1\shad0\blur0.3\alpha&H30&\fscx270\fscy150\c&H3E4040&\3c&H28282A&}m 0 0 l 100 0 100 100 0 100{\p0}
+Dialogue: 0,0:19:42.95,0:19:45.16,Default,Sign,0,0,0,,{\an7\bord0\shad0\b1\fs14\fscx92\clip(20.5,20,282.5,171)\move(24,134.5,24,-299.5)}Shoryu apo hedhje?\N\NDo ta bëjë prapë atë marrëzinë\Nme Shoryu gjatë okizeme-s?!\N\NS'ka mundësi. Jo PRAPË\N\NA duhet të shqetësohemi për gjakun nga hunda?\N\NVërtet s'e kam idenë ç'do të bëjë\N\NFiks\N\NÇ'problem ka ajo? haha\N\NS'duhet ta ndalë gjakderdhjen?\N\NSikur mund ta ndërpresë ndeshjen\N\NJa ku fillon!\N\NSeriozisht, mjaft më\N\NNdodh\N\NHedhje patjetër\N\NS'e kuptoj\N\NKjo po që të vë njohuritë në provë\N\NPo tani?!\N\NKa edhe më\N\NS'e kuptoj dhe më tremb
+Dialogue: 0,0:19:47.29,0:19:51.36,Italics,Arisa {M},0,0,0,,Mund të vazhdojë me Shoryu\Nderisa t'ia bllokoj njërin.
+Dialogue: 0,0:19:51.36,0:19:54.57,Italics,Arisa {M},0,0,0,,Mbase mendon se do të kem frikë nga Shoryu\Ndhe do të mbyllem në mbrojtje,
+Dialogue: 0,0:19:54.57,0:19:56.00,Italics,Arisa {M},0,0,0,,ndaj do të provojë një hedhje.
+Dialogue: 0,0:19:56.00,0:19:58.66,Italics,Arisa {M},0,0,0,,Një çlirim i vonuar nga kapja i mbulon të dyja,
+Dialogue: 0,0:19:58.66,0:20:03.06,Italics,Arisa {M},0,0,0,,por s'do të habitesha po ta vononte\NShoryu-n për ta kundërshtuar këtë.
+Dialogue: 0,0:20:04.61,0:20:05.98,Default,Spectator,0,0,0,,Ky s'është Shoryu.
+Dialogue: 0,0:20:07.50,0:20:10.47,Default,Flamberge,0,0,0,,Uau! S'e besoj!
+Dialogue: 0,0:20:10.77,0:20:12.73,Default,Sign,0,0,0,,{\p1\an7\bord1\shad0\blur0.3\alpha&H30&\fscx270\fscy150\c&H3E4040&\3c&H28282A&}m 0 0 l 100 0 100 100 0 100{\p0}
+Dialogue: 0,0:20:10.77,0:20:12.73,Default,Sign,0,0,0,,{\an7\bord0\shad0\b1\fs14\fscx92\clip(20.5,20,282.5,171)\move(30,134.5,24,-219.5)}hahahaha\N\NKështu të dua!\N\NHë???\N\NMë doli truri nga veshët\N\Nsofdgkjr\N\NTani thjesht do t'i kapë Shoryu-t\N\NSa Shoryu do të bëjë kjo goca?\N\NE dija haha\N\NOOOOOO\N\NPaska dhunti për t'i acaruar njerëzit\N\NDo jetë përpjekur të bllokojë një goditje\Ne pastaj të kërcejë dhe hëngri Shoryu-n\N\N«S'ka të bëjë me trupin. Duhet\Nt'ia thyej shpirtin!»\N\NShpërthe nga inati sa të duash, vogëlushe\N\NKjo PO që kërkon një goditje pajisjeje
+Dialogue: 0,0:20:12.72,0:20:18.21,Default,Cecil,0,0,0,,Në vend të Shoryu-t në ngritje apo hedhjes,\Nu afrua dhe bëri një Shoryu me vonesë?
+Dialogue: 0,0:20:18.21,0:20:20.85,Default,Cecil,0,0,0,,Vërtet paska talent\Npër ta acaruar kundërshtarin.
+Dialogue: 0,0:20:20.85,0:20:23.95,Default,Hideyoshi,0,0,0,,Mos shpreson që tjetrës\Nt'i plasë ndonjë enë gjaku e të vdesë?
+Dialogue: 0,0:20:24.17,0:20:26.66,Italics,Arisa {M},0,0,0,,Ajo... Ajo është...
+Dialogue: 0,0:20:28.03,0:20:30.83,Italics,Gekido {M},0,0,0,,Duhet ta kuptosh shpejt, Alice.
+Dialogue: 0,0:20:32.14,0:20:35.13,Italics,Gekido {M},0,0,0,,Ajo është thjesht budallaqe.
+Dialogue: 0,0:20:35.13,0:20:39.05,Default,Flamberge,0,0,0,,Në çastin e përsosur. Ai Tatsumaki\Nkaloi drejt përmes Sonic Boom-it!
+Dialogue: 0,0:20:39.05,0:20:40.34,Default,Spectator,0,0,0,,Me reagim?
+Dialogue: 0,0:20:39.72,0:20:40.59,Top,Spectator,0,0,0,,S'ka mundësi.
+Dialogue: 0,0:20:40.34,0:20:41.75,Default,Spectator,0,0,0,,E parashikoi me bindje të plotë?
+Dialogue: 0,0:20:41.97,0:20:43.97,Default,Gekido,0,0,0,,Ishte me reagim.
+Dialogue: 0,0:20:43.97,0:20:47.58,Default,Satan,0,0,0,,I besoi instinktit, ose leximit të kundërshtarit,\Nse po vinte një Sonic Boom
+Dialogue: 0,0:20:47.58,0:20:51.76,Default,Satan,0,0,0,,dhe me siguri e përqendroi vëmendjen\Nduke pritur {\i1}vetëm{\i0} lëvizjen e Sonic Boom-it,
+Dialogue: 0,0:20:51.76,0:20:53.35,Default,Satan,0,0,0,,që të kalonte përmes me pathyeshmëri, me reagim.
+Dialogue: 0,0:21:04.65,0:21:05.76,Default,Flamberge,0,0,0,,Çlirohet nga kapja!
+Dialogue: 0,0:21:05.76,0:21:07.90,Default,Spectator,0,0,0,,Hej, shiko fytyrën e vogëlushes.
+Dialogue: 0,0:21:07.90,0:21:08.61,Default,Spectator,0,0,0,,Po.
+Dialogue: 0,0:21:09.46,0:21:10.57,Default,Hana,0,0,0,,Hë.
+Dialogue: 0,0:21:11.04,0:21:16.24,Default,Hana,0,0,0,,S'e sheh përditë Alice-n të luajë\Npa u dukur e tërbuar fare.
+Dialogue: 0,0:21:18.26,0:21:19.26,Default,Flamberge,0,0,0,,Kaloi përmes!
+Dialogue: 0,0:21:19.26,0:21:21.06,Default,Flamberge,0,0,0,,Shikojeni atë Somersault!
+Dialogue: 0,0:21:21.50,0:21:24.08,Default,Flamberge,0,0,0,,Tani Alice po kalon përmes\Nnjë projektili me pathyeshmëri!
+Dialogue: 0,0:21:31.52,0:21:33.63,Default,Flamberge,0,0,0,,E përsosur! E zuri mirë!
+Dialogue: 0,0:21:33.63,0:21:38.32,Default,Flamberge,0,0,0,,E pa kërcimin që po vinte dhe përgatiti\Nnjë shkelm rrotullues ulur për ta rrëzuar!
+Dialogue: 0,0:21:53.79,0:22:00.62,Italics,Arisa {M},0,0,0,,Vazhdoj të eci krejt vetëm\Nnë një tunel të zi pa fund.
+Dialogue: 0,0:22:01.71,0:22:06.32,Italics,Arisa {M},0,0,0,,Sa larg duhet të shkoj\Nqë ajo të më falë?
+Dialogue: 0,0:22:13.06,0:22:18.81,Default,CREDITS,0,0,0,,{\an7\bord2\fs18\shad0\3c&H4743C0&}Përkthimi: William Varteresian\NSinkronizimi: Edgar Cruz\NRedaktimi: SMR\NKontrolli i cilësisë: Geoff Mazzolini\NKontrolli i përkthimit: David Saylor
+Dialogue: 0,0:23:39.97,0:23:50.06,Default,Sign,0,0,0,,{\an1\fnArial\fs12\bord1\shad0\b1\blur0.3\fscx90\3c&H111211&\pos(477,325)}Ilustrimi: Kengoro Nishide
+
