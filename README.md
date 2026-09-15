@@ -28,23 +28,8 @@ Duhet të të dalë një dosje që përmban `manifest.json`, `background.js` dhe
 3. Kliko **Load unpacked** (Ngarko të pashpaketuar)
 4. Zgjidh dosjen që sapo shpaketove
 
-### 4. Konfiguro
-
-1. Te `chrome://extensions` kliko **Details** → **Extension options**
-2. Plotëso:
-
-   | Fusha | Vlera |
-   | --- | --- |
-   | GitHub user or org | `ilirkl` |
-   | Repository | `animekinoteka-shqip` |
-   | Branch | `main` |
-
-3. Kliko **Save and test** — duhet të shfaqet *"Found 10 subtitle entries"*
-4. Kliko **Allow subtitles on any player host** dhe prano kërkesën e Chrome
-
-**Pse duhet ajo leje:** videoja luhet nga një lojtar i jashtëm, jo nga vetë Anikoto, dhe
-adresa e tij ndryshon herë pas here. Pa këtë leje shtojca nuk arrin dot te lojtari dhe
-titrat nuk shfaqen. Leja jepet vetëm një herë dhe mund ta heqësh kur të duash.
+**Kaq.** Nuk ka konfigurim, nuk ka çelësa për të vendosur, nuk ka leje për të dhënë —
+shtojca punon menjëherë pas instalimit.
 
 ---
 
@@ -72,24 +57,8 @@ Rregullimi i kohës ruhet veçmas për çdo episod, vetëm në kompjuterin tënd
 > Përdor butonin `⛶` të shtojcës për ekran të plotë. Butoni i vetë lojtarit i fsheh
 > titrat tona, sepse hap vetëm kornizën e videos.
 
----
-
-## Episodet me titra shqip
-
-| Buchigire Reijou wa Houfuku wo Chikaimashita | 11 |
-| Crowned in a Hundred Days | 25 |
-| Grand Blue | 11 |
-| Liar Game | 24 |
-| Love Unseen Beneath the Clear Night Sky | 11 |
-| Oh Boy, Was I Wrong About Her | 11 |
-| Skeleton Knight in Another World | 11 |
-| The Forsaken Saintess and Her Foodie Roadtrip in Another World | 11 |
-| The Insipid Prince's Furtive Grab for The Throne | 11 |
-| Young Ladies Don't Play Fighting Games | 11 |
-
-Lista përditësohet sa herë shtohen titra të reja. Shtojca i merr vetvetiu — mjafton ta
-rihapësh faqen. Ndryshimet e reja mund të duan deri në 10 minuta; butoni **Save and test**
-te opsionet e përditëson menjëherë.
+Titrat e reja shtohen vazhdimisht dhe shtojca i merr vetvetiu — mjafton ta rihapësh
+faqen. Ndryshimet mund të duan deri në 10 minuta që të dalin.
 
 ---
 

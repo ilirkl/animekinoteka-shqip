@@ -15,6 +15,7 @@
   let lastDomReport = 0;
   let lastHeartbeat = 0;
   let everHadFrame = false;  // distinguishes "playback not started" from a real failure
+  let frameSince = 0;        // when the current player frame appeared
 
   // The iframe's src attribute is readable from here even though its document is not,
   // which is how the player's host is discovered without hardcoding it.
@@ -64,7 +65,7 @@
   }
   // Bumped whenever this file changes, so a stale build is obvious at a glance rather
   // than being mistaken for a bug that was already fixed.
-  const BUILD = '2026-09-15-f';
+  const BUILD = '2026-09-15-g';
   log('content script loaded', {build: BUILD, readyState: document.readyState});
 
   // A single self-contained report. The chrome://extensions page only records warnings
@@ -260,14 +261,23 @@
         if (frame.src !== lastFrameSrc) {
           lastFrameSrc = frame.src;
           resend = 8;
+          frameSince = now;
+          grant = null;
+          log('player frame appeared', {src: frame.src, srcAttr: frame.getAttribute('src'), origin: frameOrigin()});
+        }
+        // The manifest already covers the usual player host, so its content script
+        // reports in by itself and no permission is involved. Runtime injection — and
+        // the prompt it needs — is only requested once that has clearly not happened,
+        // which means the host has changed to one the manifest does not match.
+        if (!embed && !grant && frameSince && now - frameSince > 2500) {
           const origin = frameOrigin();
-          log('player frame appeared', {src: frame.src, srcAttr: frame.getAttribute('src'), origin});
-          if (origin) {
+          if (!origin) warn('frame found but has no usable origin', describeDom());
+          else {
+            grant = {pending: true};
+            log('player host not covered by the manifest, requesting injection', origin);
             chrome.runtime.sendMessage({type: 'embed', origin})
               .then(reply => { grant = reply; log('runtime injection reply', reply); })
-              .catch(error => warn('runtime injection failed', error.message));
-          } else {
-            warn('frame found but has no usable origin', describeDom());
+              .catch(error => { grant = null; warn('runtime injection failed', error.message); });
           }
         }
         if (resend > 0 && entry.vtt) {
@@ -323,6 +333,7 @@
     if (key === lastKey) return;
     lastKey = key;
     entry = null; lastRendered = ''; lastTimeAt = 0; embed = null; offset = 0;
+    frameSince = 0; grant = null;
     log('episode detected', next);
     if (!mount()) { log('no #player element to attach the overlay to'); return; }
     caption.innerHTML = '';

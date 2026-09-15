@@ -13,7 +13,9 @@
   "host_permissions": [
     "https://raw.githubusercontent.com/*",
     "https://cdn.jsdelivr.net/*",
-    "https://*.github.io/*"
+    "https://*.github.io/*",
+    "https://megaplay.buzz/*",
+    "https://*.megaplay.buzz/*"
   ],
   "optional_host_permissions": ["https://*/*"],
   "background": {"service_worker": "background.js", "type": "module"},

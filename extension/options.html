@@ -14,7 +14,7 @@ code{background:#14161a;padding:2px 5px;border-radius:4px}
 </style></head>
 <body>
 <h1>Subtitle repository</h1>
-<p>Point the extension at the GitHub repository holding your Albanian subtitles. It reads <code>index.json</code> from the repository root.</p>
+<p><strong>Nothing here needs changing.</strong> The extension is already set up and works as soon as it is installed. These fields only matter if you host your own subtitles somewhere else — it reads <code>index.json</code> from the repository root.</p>
 <div class="row">
   <div><label for="owner">GitHub user or org</label><input id="owner" placeholder="your-username"></div>
   <div><label for="repo">Repository</label><input id="repo" placeholder="animekinoteka-subs"></div>
@@ -27,7 +27,8 @@ code{background:#14161a;padding:2px 5px;border-radius:4px}
 <p id="result" role="status"></p>
 
 <h1 style="margin-top:34px">Player access</h1>
-<p>Anikoto loads the video from a third-party player whose host changes from time to time. Granting access to any HTTPS host lets subtitles keep working when it changes, without updating the extension. This is broad access — it is what makes the player reachable, so grant it only if you are comfortable with that.</p>
+<p><strong>Not needed for now.</strong> The current player host is already covered by the extension, so subtitles work without granting anything.</p>
+<p>Anikoto loads the video from a third-party player whose host changes from time to time. If it changes to one the extension does not know, subtitles stop appearing until you grant access below. This is broad access — any HTTPS site — so grant it only if you are comfortable with that, and only when subtitles have actually stopped working.</p>
 <button id="grant">Allow subtitles on any player host</button>
 <p id="grant-result" role="status"></p>
 <script type="module" src="options.js"></script>
