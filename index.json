@@ -122,6 +122,30 @@
       ],
       "file": "files/young-ladies-11.sq.vtt",
       "offset": 0
+    },
+    {
+      "id": "oblivious-saint-12",
+      "title": "The Oblivious Saint Can't Contain Her Power",
+      "episode": "12",
+      "malId": 62080,
+      "anilistId": 196219,
+      "slugs": [
+        "the-oblivious-saint-can-t-contain-her-power"
+      ],
+      "file": "files/oblivious-saint-12.sq.vtt",
+      "offset": 0
+    },
+    {
+      "id": "kimi-ga-shinu-11",
+      "title": "Kimi ga Shinu made Koi wo Shitai",
+      "episode": "11",
+      "malId": 61126,
+      "anilistId": 187260,
+      "slugs": [
+        "kimi-ga-shinu-made-koi-wo-shitai"
+      ],
+      "file": "files/kimi-ga-shinu-11.sq.vtt",
+      "offset": 0
     }
   ]
 }
