@@ -2,6 +2,7 @@ import {readFile, writeFile, mkdir, copyFile, access, rename} from 'node:fs/prom
 import {resolve, join, basename} from 'node:path';
 import {pathToFileURL} from 'node:url';
 import {execFileSync} from 'node:child_process';
+import {knownNumbering} from './numbering.mjs';
 
 const [projectArg, command, argument] = process.argv.slice(2);
 const project = resolve(projectArg);
@@ -33,6 +34,20 @@ async function match(filename) {
   const catalog = await load(join(project, 'catalog.json'));
   const existing = catalog.find(e => basename(e.subtitle) === filename);
   if (existing) return {duplicate:true, id:existing.id};
+  const numbered = knownNumbering(parsed);
+  if (numbered) {
+    const anime = await getAnime(numbered.slug);
+    const episode = anime.episodes.find(e => String(e.number) === numbered.episode && e.sub);
+    if (anime.title !== numbered.title || !episode || Number(episode.malId) !== numbered.malId)
+      throw Error('Verified numbering no longer agrees with live Anikoto metadata');
+    const result = {filename,title:anime.title,episode:numbered.episode,season:1,part:numbered.part,
+      sourceEpisode:numbered.sourceEpisode,sourceTitle:numbered.sourceTitle,numberingEvidence:numbered.evidence,
+      slug:anime.slug,malId:episode.malId,anilistId:anime.anilistId ?? null,sourcePage:anime.sourcePage,
+      score:1,margin:1};
+    const index = await load(join(repo,'index.json'));
+    const already = duplicate(catalog,result) || duplicate(index.entries,result);
+    return already ? {duplicate:true,id:already.id} : result;
+  }
   const seen = new Map();
   for (const query of searchQueries(parsed.title)) {
     // A failed query could hide the competing season. Fail closed and retry next hour.
@@ -98,6 +113,12 @@ async function publish(folder) {
     slug:fresh.slug,malId:fresh.malId,anilistId:fresh.anilistId};
   const publicEntry = {id,title:entry.title,episode:fresh.episode,malId:entry.malId,anilistId:entry.anilistId,
     slugs:[entry.slug],file,assFile,offset:0,sourceReleaseId:releaseId};
+  if (fresh.sourceEpisode) {
+    for (const key of ['sourceEpisode','sourceTitle','part','numberingEvidence']) {
+      entry[key] = fresh[key];
+      publicEntry[key] = fresh[key];
+    }
+  }
   journal = {base:git('rev-parse','HEAD'), paths:[file,assFile,'index.json'], entry, publicEntry};
   await atomic(journalPath, journal);
   await mkdir(join(repo,'ass'), {recursive:true});
