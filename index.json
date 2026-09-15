@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "language": "sq",
+  "updated": "2026-09-15",
+  "entries": [
+    {
+      "id": "liar-game-24",
+      "title": "Liar Game",
+      "episode": "24",
+      "malId": 62331,
+      "anilistId": 197754,
+      "slugs": [
+        "liar-game-kcq5v"
+      ],
+      "file": "files/liar-game-24.sq.vtt",
+      "offset": 0
+    },
+    {
+      "id": "grand-blue-s3-11",
+      "title": "Grand Blue",
+      "episode": "11",
+      "malId": 62542,
+      "anilistId": 199111,
+      "slugs": [
+        "grand-blue-season-3"
+      ],
+      "file": "files/grand-blue-s3-11.sq.vtt",
+      "offset": 0
+    }
+  ]
+}
