@@ -5,8 +5,30 @@
 .akn-caption:empty{display:none}
 .akn-panel{position:absolute;right:10px;top:10px;display:flex;align-items:center;gap:6px;padding:5px 8px;border-radius:999px;background:rgba(10,12,14,.78);backdrop-filter:blur(6px);border:1px solid rgba(255,255,255,.18);opacity:0;transition:opacity .2s;pointer-events:auto}
 #player:hover .akn-panel,.akn-panel:focus-within{opacity:1}
-.akn-tick{position:absolute;top:6px;left:6px;z-index:9;display:inline-block;background:#d7f583;color:#0b0d09;font:700 9px/1.4 system-ui,"Segoe UI",sans-serif;letter-spacing:.4px;padding:3px 6px;border-radius:5px;box-shadow:0 2px 6px rgba(0,0,0,.45);pointer-events:none}
-#w-episodes a .akn-tick{position:static;margin-left:6px;box-shadow:none;vertical-align:middle}
+/* Injected into someone else's page: Anikoto styles `.poster span` for its thumbnail
+   wrapper, which was stretching this badge into a full-size block. Every layout
+   property is pinned so no page rule can reshape it. */
+.akn-tick{
+  position:absolute !important;
+  top:6px !important;left:6px !important;right:auto !important;bottom:auto !important;
+  width:auto !important;height:auto !important;
+  min-width:0 !important;min-height:0 !important;max-width:none !important;max-height:none !important;
+  display:inline-block !important;float:none !important;
+  margin:0 !important;padding:3px 6px !important;
+  background:#e41e20 !important;color:#fff !important;
+  font:700 9px/1.35 system-ui,"Segoe UI",sans-serif !important;
+  letter-spacing:.4px !important;text-align:left !important;white-space:nowrap !important;
+  border:0 !important;border-radius:5px !important;
+  box-shadow:0 2px 6px rgba(0,0,0,.45) !important;
+  transform:none !important;opacity:1 !important;visibility:visible !important;
+  pointer-events:none !important;z-index:9 !important;
+}
+#w-episodes a .akn-tick{
+  position:static !important;
+  margin-left:6px !important;
+  box-shadow:none !important;
+  vertical-align:middle !important;
+}
 .akn-status{font-size:11px;color:#d7f583;letter-spacing:.4px;white-space:nowrap;padding:0 4px}
 .akn-status.akn-warn{color:#ffb4b4}
 .akn-panel:has(.akn-warn){opacity:1}

@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Animekinoteka — Albanian subtitles for Anikoto",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Overlays Albanian subtitles on the Anikoto player, matched automatically to the series and episode you are watching.",
   "icons": {
     "16": "icons/icon-16.png",

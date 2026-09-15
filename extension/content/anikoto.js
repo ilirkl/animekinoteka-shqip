@@ -65,7 +65,7 @@
   }
   // Bumped whenever this file changes, so a stale build is obvious at a glance rather
   // than being mistaken for a bug that was already fixed.
-  const BUILD = '2026-09-15-g';
+  const BUILD = '2026-09-15-h';
   log('content script loaded', {build: BUILD, readyState: document.readyState});
 
   // A single self-contained report. The chrome://extensions page only records warnings
@@ -385,7 +385,7 @@
   function tick(title) {
     const badge = document.createElement('span');
     badge.className = 'akn-tick';
-    badge.textContent = '✓ SHQIP';
+    badge.textContent = 'SHQIP';
     badge.title = title;
     return badge;
   }

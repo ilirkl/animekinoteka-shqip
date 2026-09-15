@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
   <app appid='cdnlibddcglkelokinoljflehjbbibkp'>
-    <updatecheck codebase='https://raw.githubusercontent.com/ilirkl/animekinoteka-shqip/main/extension/animekinoteka-extension-0.2.0.crx' version='0.2.0' />
+    <updatecheck codebase='https://raw.githubusercontent.com/ilirkl/animekinoteka-shqip/main/extension/animekinoteka-extension-0.2.1.crx' version='0.2.1' />
   </app>
 </gupdate>
