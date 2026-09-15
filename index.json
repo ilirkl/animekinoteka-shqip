@@ -172,6 +172,24 @@
       "assFile": "ass/at-688656.sq.ass",
       "offset": 0,
       "sourceReleaseId": "688656"
+    },
+    {
+      "id": "at-688626",
+      "title": "Yoroi-Shinden Samurai Troopers Part 2",
+      "episode": "11",
+      "malId": 63047,
+      "anilistId": null,
+      "slugs": [
+        "yoroi-shinden-samurai-troopers-part-2-14f03"
+      ],
+      "file": "files/at-688626.sq.vtt",
+      "assFile": "ass/at-688626.sq.ass",
+      "offset": 0,
+      "sourceReleaseId": "688626",
+      "sourceEpisode": "23",
+      "sourceTitle": "Yoroi Shin Den Samurai Troopers",
+      "part": 2,
+      "numberingEvidence": "https://www.samurai-trooper.net/news/detail.php?cid=6&id=23809&offset=0"
     }
   ]
 }
