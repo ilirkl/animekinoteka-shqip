@@ -13,3 +13,5 @@ jobs:
           persist-credentials: false
       - name: Verify source access from GitHub
         run: python3 tools/subtitle-automation/cloud-readiness.py
+      - name: Verify matching with the production runtime
+        run: node tools/subtitle-automation/cloud-match-check.mjs
