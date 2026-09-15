@@ -1,0 +1,325 @@
+﻿[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Top Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Overlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Default Raised,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Overlap Low,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.10,0:00:03.88,Italics,Narrator,0,0,0,,Kjo është Hattusa,
+Dialogue: 0,0:00:04.37,0:00:08.90,Italics,Narrator,0,0,0,,kryeqyteti i Perandorisë Hitite \Nnë shekullin XIV para erës sonë.
+Dialogue: 0,0:00:10.59,0:00:16.08,Italics,Narrator,0,0,0,,Kjo është historia e një vajze \Nqë, mbi krahët e erërave të nxehta,
+Dialogue: 0,0:00:16.65,0:00:18.84,Italics,Narrator,0,0,0,,përshkon hapësirat e pafundme të Anadollit.
+Dialogue: 0,0:00:27.35,0:00:31.24,Italics,Yuri,0,0,0,,Era fryn fort, \Nduke ngritur rërën e thatë.
+Dialogue: 0,0:00:33.22,0:00:34.97,Italics,Yuri,0,0,0,,Era fryn e nxehtë,
+Dialogue: 0,0:00:35.73,0:00:37.76,Italics,Yuri,0,0,0,,dhe unë jetoj nën këtë qiell,
+Dialogue: 0,0:00:38.40,0:00:40.96,Italics,Yuri,0,0,0,,në brigjet e lumit të kuq.
+Dialogue: 0,0:00:38.18,0:00:42.52,Default,Sign,0,0,0,,{\an8}LUMI I KUQ
+Dialogue: 0,0:02:05.98,0:02:10.99,Default,Sign,0,0,0,,{\an8}ATJE KU ËSHTË ZEMRA IME
+Dialogue: 0,0:02:07.81,0:02:09.42,Italics,Yuri,0,0,0,,Atje ku është zemra ime.
+Dialogue: 0,0:02:11.39,0:02:13.97,Default,Attendant,0,0,0,,Këtu, në haremin e princit trashëgimtar,
+Dialogue: 0,0:02:13.97,0:02:18.46,Default,Attendant,0,0,0,,ka rreth 200 konkubina \Ndhe shërbyese.
+Dialogue: 0,0:02:18.46,0:02:19.79,Default,Yuri,0,0,0,,A është i martuar?
+Dialogue: 0,0:02:19.79,0:02:21.46,Default,Attendant,0,0,0,,Jo.
+Dialogue: 0,0:02:21.46,0:02:24.97,Default,Attendant,0,0,0,,Dhe thotë se nuk do të martohet me askënd.
+Dialogue: 0,0:02:24.97,0:02:28.61,Default,Attendant,0,0,0,,Mund të shëtisni lirisht \Nnëpër salla dhe oborre.
+Dialogue: 0,0:02:28.61,0:02:33.16,Default,Attendant,0,0,0,,Por nuk duhet të hyni në dhomën më jugore,\N Dhomën e Drerit Blu.
+Dialogue: 0,0:02:33.59,0:02:37.53,Default,Attendant,0,0,0,,Princi ka vrarë çdo grua\N që ka guxuar të shkelë atje.
+Dialogue: 0,0:02:39.93,0:02:42.23,Default,Attendant,0,0,0,,Këtu ndahemi. Ju uroj gjithë të mirat.
+Dialogue: 0,0:02:44.91,0:02:48.13,Default,Ryui,0,0,0,,Sidoqoftë, le të presim këtu\N princin tonë.
+Dialogue: 0,0:02:48.13,0:02:49.21,Default,Yuri,0,0,0,,Në asnjë mënyrë.
+Dialogue: 0,0:02:49.21,0:02:51.52,Default,Yuri,0,0,0,,Do të gjejmë një rrugëdalje.
+Dialogue: 0,0:02:52.55,0:02:55.68,Default,Yuri,0,0,0,,S'dua t'i hap më punë princit.
+Dialogue: 0,0:02:55.68,0:02:57.55,Default,Yuri,0,0,0,,Do të arratisem vetë.
+Dialogue: 0,0:03:00.80,0:03:03.30,Default,Nadia,0,0,0,,Kjo është vajza e re e haremit?
+Dialogue: 0,0:03:03.30,0:03:05.05,Default,Attendant,0,0,0,,Ti atje. Prezantohu.
+Dialogue: 0,0:03:05.05,0:03:07.43,Default,Attendant,0,0,0,,Je në praninë e zonjës Nadia,
+Dialogue: 0,0:03:07.43,0:03:10.84,Default,Attendant,0,0,0,,konkubinës me rangun më të lartë,\Nnga familja mbretërore e Babilonisë.
+Dialogue: 0,0:03:11.15,0:03:12.26,Default,Yuri,0,0,0,,Më të lartin?
+Dialogue: 0,0:03:12.71,0:03:13.80,Default,Nadia,0,0,0,,S'ka nevojë.
+Dialogue: 0,0:03:14.86,0:03:16.77,Default,Nadia,0,0,0,,Ndihu si në shtëpinë tënde.
+Dialogue: 0,0:03:19.39,0:03:22.10,Default,Shala,0,0,0,,Sa e paturpshme! \NAs grua e ligjshme nuk është.
+Dialogue: 0,0:03:22.10,0:03:24.14,Default,Ryui,0,0,0,,Nuk ka rang më të lartë se zonja Yuri.
+Dialogue: 0,0:03:24.73,0:03:26.11,Default,Yuri,0,0,0,,Ajo i ngjan...
+Dialogue: 0,0:03:27.46,0:03:30.27,Default,Nadia,0,0,0,,Tani e pashë me sytë e mi atë vajzën, Yuri.
+Dialogue: 0,0:03:30.27,0:03:32.61,Default,Nadia,0,0,0,,Si ta heqim qafe?
+Dialogue: 0,0:03:32.61,0:03:38.29,Default,Urhi,0,0,0,,Sugjeroj ta shtyjmë princin trashëgimtar \Nta vrasë vetë, pa bërë shumë bujë.
+Dialogue: 0,0:03:38.29,0:03:39.49,Default,Nadia,0,0,0,,A mund të bëhet kjo?
+Dialogue: 0,0:03:40.13,0:03:41.99,Default,Urhi,0,0,0,,Mund të përdorim {\i1}atë{\i0} dhomë.
+Dialogue: 0,0:03:44.11,0:03:45.45,Default,Nadia,0,0,0,,Ke të drejtë.
+Dialogue: 0,0:03:45.73,0:03:49.65,Default,Nadia,0,0,0,,Do ta fusim në Dhomën e Drerit Blu,\Nqë Lartësia e Tij ta zërë brenda.
+Dialogue: 0,0:03:51.93,0:03:53.75,Default,Yuri,0,0,0,,Një tjetër mesazh nga princi Kail?
+Dialogue: 0,0:03:56.18,0:04:00.52,Default,Nadia,0,0,0,,Lartësi, një shërbyese pa\N dikë në Dhomën e Drerit Blu.
+Dialogue: 0,0:04:01.43,0:04:02.55,Default,Prince of Darkness,0,0,0,,Çfarë?
+Dialogue: 0,0:04:07.37,0:04:08.86,Default,Yuri,0,0,0,,Ku është princi Kail?
+Dialogue: 0,0:04:08.86,0:04:10.23,Default,Ryui,0,0,0,,Sa e çuditshme.
+Dialogue: 0,0:04:13.79,0:04:16.17,Default,Prince of Darkness,0,0,0,,E pacipë! Pse je këtu brenda?
+Dialogue: 0,0:04:24.06,0:04:25.70,Italics,Prince of Darkness,0,0,0,,Tatukia?
+Dialogue: 0,0:04:27.87,0:04:30.43,Default,Nadia,0,0,0,,Lartësi, vriteni menjëherë!
+Dialogue: 0,0:04:30.43,0:04:33.54,Default,Nadia,0,0,0,,Duhet ta ekzekutoni atë vajzë\N në vend!
+Dialogue: 0,0:04:33.54,0:04:37.91,Default,Yuri,0,0,0,,E {\i1}dija{\i0} që më dukej e njohur. \NËshtë kopje e mbretëreshës Nakia.
+Dialogue: 0,0:04:37.91,0:04:42.29,Default,Ryui,0,0,0,,Ah, po. Edhe Nakia është \Nnga familja mbretërore e Babilonisë.
+Dialogue: 0,0:04:42.29,0:04:44.47,Default,Shala,0,0,0,,Pra, është e motra?
+Dialogue: 0,0:04:45.83,0:04:48.52,Default,Yuri,0,0,0,,Ti më joshe të vija këtu \Nme atë letër.
+Dialogue: 0,0:04:50.48,0:04:52.28,Default,Prince of Darkness,0,0,0,,Është e vërtetë, Nadia?
+Dialogue: 0,0:04:54.68,0:04:56.86,Default,Nadia,0,0,0,,Faji është juaji, Lartësi.
+Dialogue: 0,0:04:56.86,0:04:59.40,Default,Nadia,0,0,0,,Morët edhe një konkubinë tjetër.
+Dialogue: 0,0:04:59.95,0:05:04.28,Default,Nadia,0,0,0,,U bëra konkubina juaj \Nme shpresën se do të bëhesha gruaja juaj.
+Dialogue: 0,0:05:04.56,0:05:09.96,Default,Nadia,0,0,0,,Por vetëm princesha Tatukia \Nka vend në zemrën tuaj.
+Dialogue: 0,0:05:09.96,0:05:11.90,Default,Prince of Darkness,0,0,0,,Hesht, Nadia!
+Dialogue: 0,0:05:19.13,0:05:21.26,Default,Prince of Darkness,0,0,0,,Largohu. Do të të vras edhe ty.
+Dialogue: 0,0:05:21.26,0:05:23.34,Default,Yuri,0,0,0,,Po pse duhet ta vrasësh?
+Dialogue: 0,0:05:23.34,0:05:26.47,Default,Prince of Darkness,0,0,0,,Të dhimbset jeta e një gruaje \Nqë thuri plane për të të vrarë?
+Dialogue: 0,0:05:26.47,0:05:29.28,Default,Yuri,0,0,0,,Mjaft më. E bëri\Nsepse të do.
+Dialogue: 0,0:05:29.28,0:05:32.77,Default,Yuri,0,0,0,,E di shumë mirë si është \Ntë duash të bësh gjithçka për dashurinë.
+Dialogue: 0,0:05:37.70,0:05:39.77,Default,Prince of Darkness,0,0,0,,Grua mendjelehtë.
+Dialogue: 0,0:05:39.77,0:05:43.99,Default,Prince of Darkness,0,0,0,,Çdo letër e dërguar nga Mursili \Ndo të kishte vulën e tij.
+Dialogue: 0,0:05:46.33,0:05:51.16,Default,Prince of Darkness,0,0,0,,Të ka marrë aq shumë malli për të,\Nsa nuk arrin të mendosh me kthjelltësi?
+Dialogue: 0,0:05:56.42,0:05:59.36,Italics,Prince of Darkness,0,0,0,,Pse m'u duk sikur e pashë tek kjo vajzë?
+Dialogue: 0,0:05:59.67,0:06:01.35,Default,Yuri,0,0,0,,Ç-Çfarë?
+Dialogue: 0,0:06:04.34,0:06:07.30,Default,Prince of Darkness,0,0,0,,Nuk do të të fal për herë të dytë\Nnëse hyn sërish në këtë dhomë.
+Dialogue: 0,0:06:15.77,0:06:21.68,Italics,Urhi,0,0,0,,Prisja më shumë guxim prej saj,\N si motra e mbretëreshës Nakia.
+Dialogue: 0,0:06:27.59,0:06:29.24,Default,Yuri,0,0,0,,Ryui. Shala.
+Dialogue: 0,0:06:29.67,0:06:32.25,Default,Yuri,0,0,0,,Kam vendosur të mos arratisem.
+Dialogue: 0,0:06:35.03,0:06:38.67,Default,Yuri,0,0,0,,Nëse do të bëj diçka,\Nduhet t'i shërbejë princit Kail.
+Dialogue: 0,0:06:38.67,0:06:40.46,Default,Ryui,0,0,0,,Por kështu do ta vësh\N veten në rrezik.
+Dialogue: 0,0:06:40.46,0:06:43.09,Default,Yuri,0,0,0,,Do të jem mirë. S'do të më ndodhë gjë.
+Dialogue: 0,0:06:43.80,0:06:46.93,Default,Prince of Darkness,0,0,0,,Çfarë? Dëshiron të shohësh robërit?
+Dialogue: 0,0:06:46.93,0:06:50.81,Default,Yuri,0,0,0,,Dua të sigurohem që po i trajton\N aq mirë sa premtove.
+Dialogue: 0,0:06:50.81,0:06:54.60,Default,Prince of Darkness,0,0,0,,Bëj si të duash. \NPor do të të shoqërojë një rojë.
+Dialogue: 0,0:07:01.94,0:07:05.55,Default,Yuri,0,0,0,,Shyqyr. \NNuk duket se po i keqtrajtojnë.
+Dialogue: 0,0:07:09.54,0:07:10.98,Default,Yuri,0,0,0,,A është i plagosur?
+Dialogue: 0,0:07:16.84,0:07:18.58,Default,Yuri,0,0,0,,Ç'është kjo erë e tmerrshme?
+Dialogue: 0,0:07:22.36,0:07:24.26,Default,Yuri,0,0,0,,Çfarë {\i1}është{\i0} ky vend?
+Dialogue: 0,0:07:24.26,0:07:27.89,Default,Ryui,0,0,0,,Këtu duhet t'i mbajnë të sëmurët \Ndhe të plagosurit.
+Dialogue: 0,0:07:27.89,0:07:30.36,Default,Patient A,0,0,0,,I-Ishtar e shenjtë?
+Dialogue: 0,0:07:31.53,0:07:34.64,Default,Patient A,0,0,0,,J-Ju lutem, largohuni që këtej.
+Dialogue: 0,0:07:35.01,0:07:40.14,Default,Patient A,0,0,0,,Po qëndruat, do të përfundoni si ne.
+Dialogue: 0,0:07:42.00,0:07:44.91,Default,Yuri,0,0,0,,Mos u dorëzo! Zgjohu!
+Dialogue: 0,0:07:50.04,0:07:51.74,Default,Yuri,0,0,0,,Ryui. Shala.
+Dialogue: 0,0:07:51.74,0:07:53.20,Default,Yuri,0,0,0,,Më ndihmoni ta rregullojmë këtë gjendje.
+Dialogue: 0,0:07:58.58,0:08:01.46,Default,Prince of Darkness,0,0,0,,Ç'po bën ajo rrugaçe {\i1}këtë{\i0} herë?
+Dialogue: 0,0:08:01.46,0:08:05.52,Default,Aide,0,0,0,,Me sa duket, po kujdeset\N për të plagosurit, Lartësi.
+Dialogue: 0,0:08:15.27,0:08:17.25,Default,Yuri,0,0,0,,Tani është shumë më pastër.
+Dialogue: 0,0:08:20.81,0:08:23.65,Default,Yuri,0,0,0,,Mirë. Të lajmë teshat e sotme.
+Dialogue: 0,0:08:23.65,0:08:26.32,Default,Ryui,0,0,0,,Por do të bëheni prapë pis kokë e këmbë.
+Dialogue: 0,0:08:26.32,0:08:29.98,Default,Shala,0,0,0,,Vërtet, kjo punë \Nnuk i shkon aspak rangut tuaj.
+Dialogue: 0,0:08:29.98,0:08:31.57,Default,Patient A,0,0,0,,Është e bukur.
+Dialogue: 0,0:08:31.57,0:08:35.08,Default,Patient B,0,0,0,,Ashtu është. S'kam parë kurrë\N ndonjë aq të bukur sa ajo.
+Dialogue: 0,0:08:35.47,0:08:38.17,Default,Patient A,0,0,0,,Është e mbuluar me pisllëk\Ndhe s'ka asnjë stoli,
+Dialogue: 0,0:08:38.17,0:08:40.40,Default,Patient A,0,0,0,,por është më e bukur se çdo princeshë.
+Dialogue: 0,0:08:48.59,0:08:50.30,Italics,Prince of Darkness,0,0,0,,Ajo vajzë...
+Dialogue: 0,0:08:50.30,0:08:53.93,Italics,Prince of Darkness,0,0,0,,Ua fiton zemrat njerëzve\N vetëm duke qenë vetvetja,
+Dialogue: 0,0:08:53.93,0:08:56.78,Italics,Prince of Darkness,0,0,0,,pa pasur nevojë të jetë Ishtar \Napo konkubina e Mursilit.
+Dialogue: 0,0:08:57.73,0:09:00.80,Italics,Prince of Darkness,0,0,0,,Edhe ai burrë qenka mes gjithë atyre\Nqë janë magjepsur prej saj?
+Dialogue: 0,0:09:01.73,0:09:03.81,Italics,Prince of Darkness,0,0,0,,Por gratë ndryshojnë gjithmonë.
+Dialogue: 0,0:09:04.24,0:09:07.73,Italics,Prince of Darkness,0,0,0,,Edhe ajo vajzë do të ndryshojë si Tatukia.
+Dialogue: 0,0:09:08.74,0:09:10.20,Flashback,Tatukia,0,0,0,,Matti!
+Dialogue: 0,0:09:12.77,0:09:13.70,Default,Soldier,0,0,0,,Lartësi!
+Dialogue: 0,0:09:15.87,0:09:18.00,Default,Soldier,0,0,0,,Kemi marrë një lajm nga kufiri.
+Dialogue: 0,0:09:18.00,0:09:21.15,Default,Soldier,0,0,0,,Vija e parë dhe e dytë \Ne mbrojtjes sonë kanë rënë.
+Dialogue: 0,0:09:21.15,0:09:23.08,Default,Soldier,0,0,0,,Hititët së shpejti do të jenë këtu.
+Dialogue: 0,0:09:23.08,0:09:24.50,Default,Prince of Darkness,0,0,0,,Çfarë the?
+Dialogue: 0,0:09:27.36,0:09:31.26,Default,Kash,0,0,0,,E pabesueshme. I shkatërruam\N karrocat luftarake të mitanasve.
+Dialogue: 0,0:09:31.56,0:09:34.98,Default,Rusafa,0,0,0,,Do t'i kemi mposhtur mitanasit\N pa mbaruar viti.
+Dialogue: 0,0:09:34.98,0:09:36.40,Default,Kail,0,0,0,,Duhet edhe më shpejt.
+Dialogue: 0,0:09:37.99,0:09:41.12,Default,Kail,0,0,0,,Kanë mbetur vetëm pesë muaj \Nqë ta mbaj premtimin që i dhashë Yurit.
+Dialogue: 0,0:09:41.47,0:09:44.71,Default,Kail,0,0,0,,Duhet ta mposhtim Princin e Errësirës \Npara se të vijë ajo ditë.
+Dialogue: 0,0:09:50.20,0:09:51.66,Default,Prince of Darkness,0,0,0,,Mallkuar qofsh, Mursili.
+Dialogue: 0,0:09:51.66,0:09:54.52,Default,Prince of Darkness,0,0,0,,Si arrite ta shkatërrosh \Nushtrinë time të fuqishme të karrocave?
+Dialogue: 0,0:09:55.05,0:09:57.70,Default,Prince of Darkness,0,0,0,,Por nuk do të të lë të afrohesh më.
+Dialogue: 0,0:09:58.08,0:09:59.33,Default,Prince of Darkness,0,0,0,,Do ta udhëheq vetë sulmin.
+Dialogue: 0,0:10:01.58,0:10:05.01,Default,Soldier,0,0,0,,Lartësia e Tij do të luftojë me ne! \NDuhet të përgatitemi!
+Dialogue: 0,0:10:09.16,0:10:12.68,Default,Shala,0,0,0,,Zonja Yuri, princi Kail \Nsë shpejti do të vijë të na marrë.
+Dialogue: 0,0:10:12.68,0:10:15.57,Default,Yuri,0,0,0,,Duhet ta ketë përdorur hekurin disi.
+Dialogue: 0,0:10:15.57,0:10:18.51,Default,Yuri,0,0,0,,Tani në Anadoll është stina e erërave.
+Dialogue: 0,0:10:18.51,0:10:21.06,Default,Shala,0,0,0,,Po. Stina kur prodhohet hekuri.
+Dialogue: 0,0:10:21.06,0:10:23.31,Default,Yuri,0,0,0,,Largimi i Princit të Errësirës \Nështë rasti ynë.
+Dialogue: 0,0:10:23.64,0:10:26.78,Default,Yuri,0,0,0,,Mund t'i tregojmë princit Kail\Nse mbrojtja këtu është dobësuar.
+Dialogue: 0,0:10:26.78,0:10:30.33,Default,Ryui,0,0,0,,Por s'mund të shkojmë askund\Nme rojat që na mbajnë nën vëzhgim.
+Dialogue: 0,0:10:30.98,0:10:32.23,Default,Yuri,0,0,0,,Ma lini mua këtë punë.
+Dialogue: 0,0:10:33.20,0:10:35.20,Default,Patient D,0,0,0,,Ju qenkeni, zonja Yuri.
+Dialogue: 0,0:10:35.20,0:10:38.70,Default,Yuri,0,0,0,,Pa më thoni, kush është më i shëndetshmi këtu?
+Dialogue: 0,0:10:38.70,0:10:40.21,Default,Patient D,0,0,0,,Më i shëndetshmi?
+Dialogue: 0,0:10:40.21,0:10:44.19,Default,Patient D,0,0,0,,Dje sollën një burrë \Nqë duket mjaft i gjallë.
+Dialogue: 0,0:10:44.67,0:10:45.85,Default,Yuri,0,0,0,,Faleminderit.
+Dialogue: 0,0:10:51.82,0:10:52.80,Default,Both,0,0,0,,Zonja Yuri!
+Dialogue: 0,0:10:56.30,0:11:00.39,Default,Zannanza,0,0,0,,Uau! Vërtet paskeni \Nshërbyese të shkëlqyera.
+Dialogue: 0,0:11:00.39,0:11:02.19,Default,Yuri,0,0,0,,Princi Zannanza?
+Dialogue: 0,0:11:02.52,0:11:04.66,Default,Both,0,0,0,,N-Na falni, ju lutem.
+Dialogue: 0,0:11:04.66,0:11:07.65,Default,Shala,0,0,0,,Nuk e dinim që robi i ri ishit ju.
+Dialogue: 0,0:11:07.65,0:11:10.62,Default,Yuri,0,0,0,,Princ Zannanza, pse keni ardhur në të vërtetë?
+Dialogue: 0,0:11:10.62,0:11:12.72,Default,Zannanza,0,0,0,,Për të të marrë, sigurisht.
+Dialogue: 0,0:11:13.99,0:11:15.65,Default,Zannanza,0,0,0,,Ma urdhëroi im vëlla.
+Dialogue: 0,0:11:15.65,0:11:18.16,Default,Yuri,0,0,0,,Princi Kail po më shpëton?
+Dialogue: 0,0:11:18.16,0:11:19.45,Default,Zannanza,0,0,0,,Po.
+Dialogue: 0,0:11:19.45,0:11:23.22,Default,Zannanza,0,0,0,,Eja, im vëlla po afrohet. \NDo të shkojmë bashkë.
+Dialogue: 0,0:11:23.22,0:11:25.33,Default,Yuri,0,0,0,,Jo. Unë do të qëndroj këtu.
+Dialogue: 0,0:11:25.70,0:11:29.25,Default,Yuri,0,0,0,,Do të jem unë ajo që do të hapë\N portat e qytetit.
+Dialogue: 0,0:11:29.25,0:11:32.78,Default,Zannanza,0,0,0,,Por pas katër muajsh lind ylli i mëngjesit.
+Dialogue: 0,0:11:32.78,0:11:35.47,Default,Zannanza,0,0,0,,Duhet të të çojmë menjëherë tek im vëlla.
+Dialogue: 0,0:11:35.47,0:11:39.22,Default,Zannanza,0,0,0,,Përndryshe, nuk do të mund \Ntë bashkohesh sërish me familjen tënde.
+Dialogue: 0,0:11:44.18,0:11:45.56,Default,Yuri,0,0,0,,Po, e di.
+Dialogue: 0,0:11:45.83,0:11:49.66,Default,Yuri,0,0,0,,Por princi Kail gjithmonë \Ngjen një mënyrë për të më shpëtuar.
+Dialogue: 0,0:11:49.66,0:11:52.82,Default,Yuri,0,0,0,,Këtë herë dua ta ndihmoj unë.
+Dialogue: 0,0:11:53.20,0:11:54.70,Default,Zannanza,0,0,0,,Yuri.
+Dialogue: 0,0:11:54.70,0:11:55.76,Default,Patient E,0,0,0,,Lartësi.
+Dialogue: 0,0:11:56.45,0:11:59.16,Default,Patient E,0,0,0,,Jemi të gjithë në shërbimin tuaj.
+Dialogue: 0,0:11:59.16,0:12:02.53,Default,Patient F,0,0,0,,Falë zonjës Yuri, \Ntani kemi fuqi.
+Dialogue: 0,0:12:03.15,0:12:04.36,Default,Zannanza,0,0,0,,Ju...
+Dialogue: 0,0:12:05.31,0:12:07.34,Default,Yuri,0,0,0,,Unë do të bëj ç'të mundem këtu.
+Dialogue: 0,0:12:07.34,0:12:11.65,Default,Yuri,0,0,0,,Ju kthehuni te princi Kail \Ndhe tregojini për ne.
+Dialogue: 0,0:12:13.92,0:12:18.01,Default,Zannanza,0,0,0,,Yuri, je pjekur shumë.
+Dialogue: 0,0:12:18.01,0:12:21.72,Default,Yuri,0,0,0,,Vërtet? Qenkam zgjatur?
+Dialogue: 0,0:12:23.61,0:12:28.07,Default,Zannanza,0,0,0,,Do të kthehem tek im vëlla, \Npastaj do të vij me udhëzime të tjera.
+Dialogue: 0,0:12:29.07,0:12:31.19,Default,Yuri,0,0,0,,Prisni, princ Zannanza!
+Dialogue: 0,0:12:31.54,0:12:33.48,Default,Yuri,0,0,0,,Jepjani edhe këtë princit Kail.
+Dialogue: 0,0:12:38.11,0:12:39.24,Default,Yuri,0,0,0,,Të dua.
+Dialogue: 0,0:12:39.69,0:12:44.33,Default,Yuri,0,0,0,,Edhe pse nuk jemi bashkë,\N unë përsëri të dua.
+Dialogue: 0,0:12:51.83,0:12:52.75,Default,Zannanza,0,0,0,,Po nisem tani.
+Dialogue: 0,0:12:53.35,0:12:55.82,Default,Zannanza,0,0,0,,Dua të dal nga qyteti\N sa është ende errësirë.
+Dialogue: 0,0:12:55.82,0:12:56.92,Default,Yuri,0,0,0,,Kini kujdes.
+Dialogue: 0,0:12:57.41,0:12:59.57,Default,Yuri,0,0,0,,Faleminderit që erdhët të më shpëtoni.
+Dialogue: 0,0:13:11.36,0:13:13.15,Default,Prince of Darkness,0,0,0,,Përpara, burra!
+Dialogue: 0,0:13:25.67,0:13:28.05,Default,Soldier B,0,0,0,,Tre veta në një karrocë?
+Dialogue: 0,0:13:28.05,0:13:30.37,Default,Soldier C,0,0,0,,Karrocat s'mbajnë dot aq shumë!
+Dialogue: 0,0:13:31.15,0:13:35.88,Default,Kash,0,0,0,,Për fatin tuaj të keq, \Nboshtet tona janë përforcuar me hekur.
+Dialogue: 0,0:13:35.88,0:13:39.71,Default,Kash,0,0,0,,Boshtet tuaja prej druri s'maten dot\N me tonat, o qen!
+Dialogue: 0,0:13:40.03,0:13:41.26,Default,Kail,0,0,0,,Qëndroni vigjilentë.
+Dialogue: 0,0:13:41.26,0:13:45.18,Default,Kail,0,0,0,,Po luftojmë kundër karrocierëve shumë të zotë, \Ntë udhëhequr nga vetë Princi i Errësirës.
+Dialogue: 0,0:13:46.62,0:13:48.14,Default,Kail,0,0,0,,Princ i Errësirës!
+Dialogue: 0,0:13:48.14,0:13:49.77,Default,Prince of Darkness,0,0,0,,Kail Mursili!
+Dialogue: 0,0:14:04.24,0:14:08.24,Default,Prince of Darkness,0,0,0,,Dukesh shumë i tërbuar \Nqë ta mora Ishtarin.
+Dialogue: 0,0:14:12.21,0:14:13.14,Italics,Kail,0,0,0,,Yuri.
+Dialogue: 0,0:14:13.56,0:14:17.00,Italics,Kail,0,0,0,,Do të të marr përsëri, \Nqë të të dërgoj në shtëpi.
+Dialogue: 0,0:14:19.83,0:14:24.97,Italics,Prince of Darkness,0,0,0,,Sa çudi. Shpata e Mursilit \Nduhej ta kishte këputur timen deri tani.
+Dialogue: 0,0:14:25.79,0:14:28.56,Default,Soldier D,0,0,0,,Lartësi! Tym nga Wassuganni!
+Dialogue: 0,0:14:29.46,0:14:30.48,Default,Prince of Darkness,0,0,0,,Çfarë?
+Dialogue: 0,0:14:33.02,0:14:36.56,Default,Prince of Darkness,0,0,0,,E gjithë kjo ishte një kurth \Npër të më shpërqendruar?
+Dialogue: 0,0:14:43.89,0:14:46.97,Default,Yuri,0,0,0,,Kur ta pushtojmë qytetin,\N a do të ketë marrë fund gjithçka?
+Dialogue: 0,0:14:46.97,0:14:50.08,Default,Zannanza,0,0,0,,Jo. Nuk mjafton të marrim kryeqytetin.
+Dialogue: 0,0:14:50.42,0:14:54.39,Default,Zannanza,0,0,0,,Që të fitojmë vërtet, duhet të kapim \Nedhe mbretin, edhe princin.
+Dialogue: 0,0:14:54.39,0:14:58.08,Default,Zannanza,0,0,0,,Dua të dërgoj trupa në pallat, \Npor nuk kam mjaftueshëm ushtarë.
+Dialogue: 0,0:14:58.08,0:15:00.06,Default,Yuri,0,0,0,,Atëherë do të shkoj unë.
+Dialogue: 0,0:15:00.06,0:15:02.59,Default,Yuri,0,0,0,,Unë mund të futem fshehurazi në pallat.
+Dialogue: 0,0:15:02.59,0:15:04.22,Default,Zannaza,0,0,0,,Mos e ke humbur mendjen?
+Dialogue: 0,0:15:04.22,0:15:06.65,Default,Zannanza,0,0,0,,Duhet të kthehesh tek im vëlla.
+Dialogue: 0,0:15:06.65,0:15:09.77,Default,Soldier,0,0,0,,Është Princi i Errësirës!\N Është kthyer!
+Dialogue: 0,0:15:12.35,0:15:15.81,Default,Prince of Darkness,0,0,0,,Shpejt, drejt pallatit! \NDuhet të shpëtojmë mbretin!
+Dialogue: 0,0:15:15.81,0:15:19.62,Default,Yuri,0,0,0,,Lartësi, duhet të nxitoj para se \NPrinci i Errësirës të ikë me mbretin.
+Dialogue: 0,0:15:19.62,0:15:23.14,Default,Yuri,0,0,0,,Përndryshe, të gjitha përpjekjet e princit Kail\N do të shkojnë dëm.
+Dialogue: 0,0:15:23.14,0:15:24.40,Default,Zannanza,0,0,0,,Në rregull.
+Dialogue: 0,0:15:24.40,0:15:28.53,Default,Zannanza,0,0,0,,Por vetëm mbaji aty Princin e Errësirës\Ndhe mbretin derisa të vijë im vëlla.
+Dialogue: 0,0:15:28.85,0:15:32.41,Default,Zannanza,0,0,0,,Sapo të mbërrijë, bëj ç'të mundesh \Npër t'u larguar edhe vetë.
+Dialogue: 0,0:15:32.67,0:15:33.59,Default,Yuri,0,0,0,,U kuptuam.
+Dialogue: 0,0:15:36.16,0:15:37.66,Default,King,0,0,0,,K-Kërkoni ndihmë!
+Dialogue: 0,0:15:37.66,0:15:40.04,Default,King,0,0,0,,Thuajuni egjiptianëve të dërgojnë përforcime.
+Dialogue: 0,0:15:40.04,0:15:42.98,Default,King,0,0,0,,Përndryshe, ky pallat \Ndo të bjerë në duart e armikut.
+Dialogue: 0,0:15:42.98,0:15:45.01,Default,Prince of Darkness,0,0,0,,Është tepër vonë për këtë.
+Dialogue: 0,0:15:45.01,0:15:48.43,Default,Prince of Darkness,0,0,0,,Duhet të bëhemi gati të braktisim Wassugannin.
+Dialogue: 0,0:15:48.43,0:15:49.87,Default,King,0,0,0,,Nuk mundemi!
+Dialogue: 0,0:15:49.87,0:15:53.39,Default,King,0,0,0,,Po dola nga pallati, \Nhititët do të më kapin e do të më vrasin.
+Dialogue: 0,0:15:53.75,0:15:55.99,Default,King,0,0,0,,Unë do të qëndroj këtu!
+Dialogue: 0,0:15:56.85,0:15:59.39,Default,Prince of Darkness,0,0,0,,Nuk është mirë të plakesh.
+Dialogue: 0,0:15:59.39,0:16:01.64,Default,Prince of Darkness,0,0,0,,E humbet forcën që kishe dikur.
+Dialogue: 0,0:16:01.64,0:16:02.90,Default,Yuri,0,0,0,,Princ i Errësirës!
+Dialogue: 0,0:16:03.40,0:16:07.47,Default,Prince of Darkness,0,0,0,,Ende këtu qenke? \NKujtova se ishe arratisur.
+Dialogue: 0,0:16:07.47,0:16:09.97,Default,Prince of Darkness,0,0,0,,S'kam kohë të merrem me ty.
+Dialogue: 0,0:16:09.97,0:16:10.87,Default,Yuri,0,0,0,,Prit!
+Dialogue: 0,0:16:10.87,0:16:12.02,Default,Nadia,0,0,0,,Lartësi!
+Dialogue: 0,0:16:12.02,0:16:14.08,Default,Nadia,0,0,0,,Ju lutem, më merrni me vete.
+Dialogue: 0,0:16:14.51,0:16:17.94,Default,Prince of Darkness,0,0,0,,Mund të strehohesh te motra jote,\N mbretëresha e hititëve.
+Dialogue: 0,0:16:17.94,0:16:20.75,Default,Nadia,0,0,0,,Por unë dua të jem vetëm me {\i1}ju!{\i0}
+Dialogue: 0,0:16:20.75,0:16:23.59,Default,Nadia,0,0,0,,Ju lutem, ju përgjërohem. Ju përgjërohem.
+Dialogue: 0,0:16:23.59,0:16:26.02,Default,Yuri,0,0,0,,Hej, pse po tregohesh kaq i pashpirt?
+Dialogue: 0,0:16:26.02,0:16:28.40,Default,Yuri,0,0,0,,Po Tatukia?
+Dialogue: 0,0:16:29.98,0:16:33.07,Default,Prince of Darkness,0,0,0,,Që të mos kesh\N krijuar përshtypjen e gabuar,
+Dialogue: 0,0:16:33.07,0:16:35.56,Default,Prince of Darkness,0,0,0,,Tatukia është motra ime e madhe.
+Dialogue: 0,0:16:37.06,0:16:40.68,Default,Prince of Darkness,0,0,0,,E dërguan në Egjipt si konkubinë\N njëzet vjet më parë.
+Dialogue: 0,0:16:41.08,0:16:44.27,Default,Prince of Darkness,0,0,0,,Im atë e shkëmbeu\N me një grumbull ari.
+Dialogue: 0,0:16:44.27,0:16:46.25,Default,Yuri,0,0,0,,S-Si mundi ta bënte këtë?
+Dialogue: 0,0:16:46.74,0:16:49.08,Default,Prince of Darkness,0,0,0,,Kurseje mëshirën tënde.
+Dialogue: 0,0:16:49.54,0:16:51.66,Default,Prince of Darkness,0,0,0,,Vërtet shkoi te faraoni me lot në sy,
+Dialogue: 0,0:16:51.66,0:16:55.58,Default,Prince of Darkness,0,0,0,,por ai faraon vdiq, \Ndhe ajo u bë mbretëreshë.
+Dialogue: 0,0:16:55.58,0:16:57.52,Default,Prince of Darkness,0,0,0,,Pastaj vdiq edhe i shoqi, faraoni,
+Dialogue: 0,0:16:57.52,0:17:01.25,Default,Prince of Darkness,0,0,0,,duke e lënë atë sundimtaren e fuqishme \Nqë drejtonte realisht vendin ku ishte vendosur.
+Dialogue: 0,0:17:01.56,0:17:05.84,Default,Prince of Darkness,0,0,0,,Sot motra ime njihet si Nefertiti, \Nmbretëresha e gjithë Egjiptit.
+Dialogue: 0,0:17:06.25,0:17:09.69,Default,Prince of Darkness,0,0,0,,Të gjitha gratë mbijetojnë falë \Ndinakërisë dhe dredhive të tyre.
+Dialogue: 0,0:17:09.69,0:17:13.76,Default,Prince of Darkness,0,0,0,,Pastaj majmen \Nduke u ushqyer me pushtet dhe ar.
+Dialogue: 0,0:17:14.77,0:17:16.01,Default,Yuri,0,0,0,,E ke gabim.
+Dialogue: 0,0:17:16.60,0:17:21.73,Default,Yuri,0,0,0,,Ishte krejt e vetme në një vend të huaj, \Nndaj bëri ç'të mundej për të mbijetuar.
+Dialogue: 0,0:17:22.44,0:17:24.77,Default,Yuri,0,0,0,,Më vjen keq për motrën tënde.
+Dialogue: 0,0:17:24.77,0:17:29.34,Default,Yuri,0,0,0,,Lulet dhe pemët nuk rriten dot \Npa ujë e pa dritë dielli.
+Dialogue: 0,0:17:29.78,0:17:34.16,Default,Yuri,0,0,0,,As njeriu s'mund të bëhet i fortë pa dashuri!
+Dialogue: 0,0:17:34.67,0:17:37.66,Default,Prince of Darkness,0,0,0,,A të do siç duhet njeriu yt?
+Dialogue: 0,0:17:39.12,0:17:41.98,Default,Prince of Darkness,0,0,0,,Mursili ka më shumë gjasa \Ntë ngjitet në fron,
+Dialogue: 0,0:17:41.98,0:17:44.91,Default,Prince of Darkness,0,0,0,,por a dëshiron të të bëjë mbretëreshën e tij?
+Dialogue: 0,0:17:44.91,0:17:47.13,Default,Yuri,0,0,0,,Unë nuk kam rangun për t'u bërë mbretëreshë.
+Dialogue: 0,0:17:47.46,0:17:48.44,Default,Yuri,0,0,0,,Për më tepër...
+Dialogue: 0,0:17:48.99,0:17:51.34,Default,Yuri,0,0,0,,Shumë shpejt, unë do të...
+Dialogue: 0,0:17:53.23,0:17:56.06,Default,Prince of Darkness,0,0,0,,Vërtet je një grua e çuditshme.
+Dialogue: 0,0:17:56.06,0:17:59.04,Default,Prince of Darkness,0,0,0,,Ndoshta do të më argëtonte \Ntë të mbaja për vete.
+Dialogue: 0,0:18:07.65,0:18:10.95,Default,Soldier,0,0,0,,Ë-Është Kail Mursili!
+Dialogue: 0,0:18:10.95,0:18:14.08,Default,Soldier E,0,0,0,,Lartësi, ushtria hitite \Npo sulmon portën kryesore.
+Dialogue: 0,0:18:16.12,0:18:17.22,Default,Yuri,0,0,0,,Duhet të shkoj!
+Dialogue: 0,0:18:25.87,0:18:26.92,Default,Kail,0,0,0,,Zannanza!
+Dialogue: 0,0:18:26.92,0:18:28.27,Default,Kail,0,0,0,,Ku është Yuri?
+Dialogue: 0,0:18:28.27,0:18:29.82,Default,Zannanza,0,0,0,,Në pallat.
+Dialogue: 0,0:18:29.82,0:18:32.92,Default,Zannanza,0,0,0,,Duhej të largohej\N sapo të mbërrije ti.
+Dialogue: 0,0:18:33.37,0:18:34.62,Italics,Kail,0,0,0,,Yuri.
+Dialogue: 0,0:18:35.54,0:18:37.68,Default,Soldier F,0,0,0,,Mos lëvizni, Ishtar e shenjtë!
+Dialogue: 0,0:18:37.68,0:18:38.64,Default,Yuri,0,0,0,,Ryui!
+Dialogue: 0,0:18:38.64,0:18:40.56,Default,Ryui,0,0,0,,Menjëherë, zonja Yuri!
+Dialogue: 0,0:18:41.59,0:18:42.52,Default,Yuri,0,0,0,,Më falni, djema.
+Dialogue: 0,0:18:45.45,0:18:46.89,Default,Yuri,0,0,0,,Më hapni rrugën.
+Dialogue: 0,0:18:47.23,0:18:49.65,Default,Soldier,0,0,0,,Kthehuni, ju lutem, Ishtar e shenjtë!
+Dialogue: 0,0:19:00.86,0:19:03.72,Default,Yuri,0,0,0,,Më në fund do t'ju shoh sërish, princ Kail.
+Dialogue: 0,0:19:04.69,0:19:07.03,Default,Kail,0,0,0,,Ai është flamuri i gardës perandorake.
+Dialogue: 0,0:19:07.03,0:19:08.29,Default,Kail,0,0,0,,Xhaxha?
+Dialogue: 0,0:19:08.54,0:19:10.94,Default,Zuida,0,0,0,,Kail, më mahnite.
+Dialogue: 0,0:19:10.94,0:19:13.84,Default,Zuida,0,0,0,,S'e mendoja se do të arrije kaq larg\N në vetëm tetë muaj.
+Dialogue: 0,0:19:13.84,0:19:16.29,Default,Zannanza,0,0,0,,Yurit ia detyrojmë këtë përparim të shpejtë.
+Dialogue: 0,0:19:16.29,0:19:19.23,Default,Zannanza,0,0,0,,Princi i Errësirës\Ngaboi që e rrëmbeu.
+Dialogue: 0,0:19:19.23,0:19:21.78,Default,Zannanza,0,0,0,,I dha vëllait tim një shtysë të fortë.
+Dialogue: 0,0:19:21.78,0:19:22.95,Default,Soldier A,0,0,0,,Princ Kail.
+Dialogue: 0,0:19:23.35,0:19:25.35,Default,Soldier A,0,0,0,,I kemi çarë portat e pallatit.
+Dialogue: 0,0:19:25.62,0:19:28.19,Default,Kail,0,0,0,,Mirë. Yuri është ende e bllokuar brenda.
+Dialogue: 0,0:19:28.64,0:19:30.58,Default,Kail,0,0,0,,Pse ka tym?
+Dialogue: 0,0:19:30.58,0:19:34.42,Default,Soldier A,0,0,0,,Trupat mitanase i kanë vënë zjarrin qytetit \Npër të mbuluar arratisjen e tyre.
+Dialogue: 0,0:19:34.42,0:19:36.95,Default,Soldier A,0,0,0,,Flakët kanë arritur deri në pallat.
+Dialogue: 0,0:19:36.95,0:19:40.50,Default,Kail,0,0,0,,Çfarë the? \NKa ende shumë njerëz brenda.
+Dialogue: 0,0:19:40.50,0:19:41.58,Default,Kail,0,0,0,,Shuajeni zjarrin!
+Dialogue: 0,0:19:44.28,0:19:46.41,Default,Kail,0,0,0,,Mirë. Do të shkoj unë.
+Dialogue: 0,0:19:47.52,0:19:50.06,Italics,Yuri,0,0,0,,Jam kaq pranë princit Kail.
+Dialogue: 0,0:19:54.00,0:19:56.14,Default,Yuri,0,0,0,,Aslan? Çfarë ke?
+Dialogue: 0,0:19:56.54,0:19:57.80,Default,Yuri,0,0,0,,Hej!
+Dialogue: 0,0:20:33.00,0:20:35.34,Default,Yuri,0,0,0,,Princ Kail!
+Dialogue: 0,0:20:37.59,0:20:38.46,Default,Kail,0,0,0,,Yuri!
+Dialogue: 0,0:20:41.09,0:20:42.05,Default,Kail,0,0,0,,Yuri!
+Dialogue: 0,0:20:43.16,0:20:44.60,Default,Both,0,0,0,,Zonja Yuri!
+Dialogue: 0,0:20:48.79,0:20:50.02,Default,Yuri,0,0,0,,Princ i Errësirës!
+Dialogue: 0,0:20:58.53,0:20:59.95,Default,Ryui/Shala,0,0,0,,Zonja Yuri!
+Dialogue: 0,0:21:00.26,0:21:03.70,Default,Prince of Darkness,0,0,0,,Kail Mursili. Do të tërhiqesh\Nbashkë me trupat e tua.
+Dialogue: 0,0:21:03.70,0:21:04.99,Default,Kail,0,0,0,,Çfarë?
+Dialogue: 0,0:21:04.99,0:21:07.62,Default,Prince of Darkness,0,0,0,,Mbreti dhe unë do të largohemi të lirë.
+Dialogue: 0,0:21:07.62,0:21:10.25,Default,Prince of Darkness,0,0,0,,Nëse të dhimbset kjo grua, \Ndo të na lësh të kalojmë.
+Dialogue: 0,0:21:15.25,0:21:18.46,Default,CREDITS,0,0,0,,{\an8}PËRKTHIMI: GAD ONYENEHO
+Dialogue: 0,0:21:18.75,0:21:21.92,Default,CREDITS,0,0,0,,{\an8}SINKRONIZIMI: KRZYSZTOF KUNC\NREDAKTIMI: SMR
+Dialogue: 0,0:21:22.21,0:21:25.38,Default,CREDITS,0,0,0,,{\an8}KONTROLLI I CILËSISË: ALICIA ASHBY\NKONTROLLI I PËRKTHIMIT: DAVID SAYLOR
+Dialogue: 0,0:22:44.93,0:22:49.93,Default,Sign,0,0,0,,{\an8}KOHA E CAKTUAR
+

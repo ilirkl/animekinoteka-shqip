@@ -158,6 +158,20 @@
       "file": "files/kimi-ga-shinu-11.sq.vtt",
       "offset": 0,
       "assFile": "ass/kimi-ga-shinu-11.sq.ass"
+    },
+    {
+      "id": "at-688656",
+      "title": "Red River",
+      "episode": "11",
+      "malId": 63489,
+      "anilistId": null,
+      "slugs": [
+        "red-river-993eb"
+      ],
+      "file": "files/at-688656.sq.vtt",
+      "assFile": "ass/at-688656.sq.ass",
+      "offset": 0,
+      "sourceReleaseId": "688656"
     }
   ]
 }
