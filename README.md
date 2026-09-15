@@ -10,7 +10,7 @@ asgjë manualisht.
 
 ### 1. Shkarko skedarët
 
-[**Shkarko animekinoteka-extension-0.1.0.zip**](https://github.com/ilirkl/animekinoteka-shqip/raw/main/extension/animekinoteka-extension-0.1.0.zip)
+[**Shkarko animekinoteka-extension-0.2.0.zip**](https://github.com/ilirkl/animekinoteka-shqip/raw/main/extension/animekinoteka-extension-0.2.0.zip)
 
 Ose kliko butonin e gjelbër **Code → Download ZIP** për të gjithë depon.
 
@@ -108,4 +108,4 @@ mbetet burimi i vetëm i së vërtetës.
 
 ---
 
-Versioni 0.1.0
+Versioni 0.2.0
