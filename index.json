@@ -26,6 +26,90 @@
       ],
       "file": "files/grand-blue-s3-11.sq.vtt",
       "offset": 0
+    },
+    {
+      "id": "crowned-in-a-hundred-days-25",
+      "title": "Crowned in a Hundred Days",
+      "episode": "25",
+      "malId": 62957,
+      "anilistId": 213484,
+      "slugs": [
+        "crowned-in-a-hundred-days"
+      ],
+      "file": "files/crowned-in-a-hundred-days-25.sq.vtt",
+      "offset": 0
+    },
+    {
+      "id": "buchigire-reijou-11",
+      "title": "Buchigire Reijou wa Houfuku wo Chikaimashita",
+      "episode": "11",
+      "malId": 62289,
+      "anilistId": 199408,
+      "slugs": [
+        "buchigire-reijou-wa-houfuku-wo-chikaimashita-madousho-no-chikara-de-sokoku-wo-tataki-tsubushimasu"
+      ],
+      "file": "files/buchigire-reijou-11.sq.vtt",
+      "offset": 0
+    },
+    {
+      "id": "skeleton-knight-s2-11",
+      "title": "Skeleton Knight in Another World",
+      "episode": "11",
+      "malId": 60522,
+      "anilistId": 185542,
+      "slugs": [
+        "skeleton-knight-in-another-world-season-2"
+      ],
+      "file": "files/skeleton-knight-s2-11.sq.vtt",
+      "offset": 0
+    },
+    {
+      "id": "insipid-prince-11",
+      "title": "The Insipid Prince's Furtive Grab for The Throne",
+      "episode": "11",
+      "malId": 56736,
+      "anilistId": null,
+      "slugs": [
+        "the-insipid-prince-s-furtive-grab-for-the-throne-46638"
+      ],
+      "file": "files/insipid-prince-11.sq.vtt",
+      "offset": 0
+    },
+    {
+      "id": "forsaken-saintess-11",
+      "title": "The Forsaken Saintess and Her Foodie Roadtrip in Another World",
+      "episode": "11",
+      "malId": 63752,
+      "anilistId": null,
+      "slugs": [
+        "the-forsaken-saintess-and-her-foodie-roadtrip-in-another-world-3cd1a"
+      ],
+      "file": "files/forsaken-saintess-11.sq.vtt",
+      "offset": 0
+    },
+    {
+      "id": "oh-boy-was-i-wrong-11",
+      "title": "Oh Boy, Was I Wrong About Her",
+      "episode": "11",
+      "malId": 56735,
+      "anilistId": null,
+      "slugs": [
+        "oh-boy-was-i-wrong-about-her-eb482"
+      ],
+      "file": "files/oh-boy-was-i-wrong-11.sq.vtt",
+      "offset": 0
+    },
+    {
+      "id": "love-unseen-11",
+      "title": "Love Unseen Beneath the Clear Night Sky",
+      "episode": "11",
+      "malId": 62936,
+      "anilistId": null,
+      "slugs": [
+        "love-unseen-beneath-the-clear-night-sky-dfe0a"
+      ],
+      "file": "files/love-unseen-11.sq.vtt",
+      "offset": 0
     }
   ]
 }
