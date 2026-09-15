@@ -110,6 +110,18 @@
       ],
       "file": "files/love-unseen-11.sq.vtt",
       "offset": 0
+    },
+    {
+      "id": "young-ladies-11",
+      "title": "Young Ladies Don't Play Fighting Games",
+      "episode": "11",
+      "malId": 46488,
+      "anilistId": 128757,
+      "slugs": [
+        "young-ladies-don-t-play-fighting-games-2ff37"
+      ],
+      "file": "files/young-ladies-11.sq.vtt",
+      "offset": 0
     }
   ]
 }
