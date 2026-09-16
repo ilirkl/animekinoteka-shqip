@@ -1,0 +1,389 @@
+﻿[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+Update Details: v4 - changed line 278 to match episode title
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: BD DX,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.69,0:00:07.40,BD DX,Sign,0,0,0,,{\an8}VULË
+Dialogue: 0,0:00:07.48,0:00:10.48,BD DX,Sign,0,0,0,,{\an8}PRINCI TRASHËGIMTAR - EI GYOUMEI
+Dialogue: 0,0:00:11.40,0:00:12.65,BD DX,,0,0,0,,Thirrni një shaman.
+Dialogue: 0,0:00:12.74,0:00:15.41,BD DX,,0,0,0,,Vendosni sërish një ndalim të rreptë\Ntë folurit për personelin mjekësor.
+Dialogue: 0,0:00:15.49,0:00:16.66,BD DX,,0,0,0,,P-Po, zotëri.
+Dialogue: 0,0:00:16.91,0:00:19.99,BD DX,,0,0,0,,Mos e bëni të ditur gjendjen shëndetësore\Ntë Madhërisë së Saj Perandoreshës.
+Dialogue: 0,0:00:20.49,0:00:24.92,BD DX,,0,0,0,,Përkundrazi, thoni se ka gjakftohtësi të mjaftueshme\Npër të pranuar vizitën time.
+Dialogue: 0,0:00:25.25,0:00:28.42,BD DX,,0,0,0,,Ju duhet të ktheheni në pallatin kryesor\Npara meje, me buzëqeshje në fytyrë.
+Dialogue: 0,0:00:28.50,0:00:29.92,BD DX,,0,0,0,,M-Megjithatë—
+Dialogue: 0,0:00:30.13,0:00:31.55,BD DX,,0,0,0,,Tridhjetë minuta.
+Dialogue: 0,0:00:31.63,0:00:33.42,BD DX,,0,0,0,,Nuk do të rri më gjatë se kaq.
+Dialogue: 0,0:00:33.92,0:00:36.89,BD DX,,0,0,0,,Prandaj ju lutem, më lejoni të rri këtu.
+Dialogue: 0,0:00:39.18,0:00:40.18,BD DX,,0,0,0,,-Kuptohet.\N-Kuptohet.
+Dialogue: 0,0:00:43.52,0:00:45.94,BD DX,Sign,0,0,0,,{\an8}VULË
+Dialogue: 0,0:00:47.27,0:00:48.44,BD DX,,0,0,0,,Hape.
+Dialogue: 0,0:00:49.40,0:00:50.69,BD DX,,0,0,0,,Të lutem!
+Dialogue: 0,0:00:51.28,0:00:53.24,BD DX,,0,0,0,,A jeni ju,\NLartësia Juaj Princi Trashëgimtar?
+Dialogue: 0,0:00:54.20,0:00:55.11,BD DX,,0,0,0,,A je ti, Tousetsu?
+Dialogue: 0,0:00:55.20,0:00:57.32,BD DX,,0,0,0,,Një talisman vulosjeje është vendosur\Nnë Pallatin Kou
+Dialogue: 0,0:00:57.41,0:00:59.33,BD DX,,0,0,0,,për të penguar përhapjen\Ne sëmundjes.
+Dialogue: 0,0:00:59.62,0:01:03.20,BD DX,,0,0,0,,Nëse është çështje urgjente,\Ndo ta dëgjoj pikërisht këtu.
+Dialogue: 0,0:01:03.45,0:01:05.21,BD DX,,0,0,0,,Tousetsu, a ka Reirini...
+Dialogue: 0,0:01:05.96,0:01:08.83,BD DX,,0,0,0,,Jo. A erdhi Shu Keigetsu këtu?
+Dialogue: 0,0:01:09.84,0:01:12.84,BD DX,Sign,0,0,0,,{\an8\pos(361.667,36.667)}ZONJA KRYESORE E OBORRIT PËR REIRININ\NKOU TOUSETSU
+Dialogue: 0,0:01:13.21,0:01:14.97,BD DX,,0,0,0,,Hapi portat, Tousetsu.
+Dialogue: 0,0:01:15.22,0:01:17.38,BD DX,,0,0,0,,{\an8}Nuk do t'u bindesh urdhrave\Ntë princit trashëgimtar?
+Dialogue: 0,0:01:17.47,0:01:21.31,BD DX,,0,0,0,,{\an8}VULË
+Dialogue: 0,0:01:45.87,0:01:50.54,BD DX,,0,0,0,,{\an8\pos(160,36.667)}EDHE PSE JAM\NNJË ZUZARE E PAZONJA
+Dialogue: 0,0:03:01.49,0:03:04.83,BD DX,,0,0,0,,Tousetsu, ti e di, apo jo?
+Dialogue: 0,0:03:06.41,0:03:07.87,BD DX,,0,0,0,,Përgjigjmu, Tousetsu.
+Dialogue: 0,0:03:09.00,0:03:10.33,BD DX,,0,0,0,,Nuk mund t'i përgjigjem asaj pyetjeje.
+Dialogue: 0,0:03:10.41,0:03:11.54,BD DX,,0,0,0,,Përse kështu?
+Dialogue: 0,0:03:18.30,0:03:21.80,BD DX,,0,0,0,,Reirini ndërroi trupat me Shu Keigetsun,\Napo jo?
+Dialogue: 0,0:03:22.34,0:03:25.26,BD DX,,0,0,0,,A nuk ia mori trupin ajo grua?
+Dialogue: 0,0:03:25.47,0:03:27.85,BD DX,,0,0,0,,Zonja jote është dhunuar.
+Dialogue: 0,0:03:27.93,0:03:30.43,BD DX,,0,0,0,,Pse nuk u përpoqe as\Ntë ma raportoje?
+Dialogue: 0,0:03:31.89,0:03:35.69,BD DX,,0,0,0,,{\i1}Të ndaloj ta lëndosh atë ose veten.{\i0}
+Dialogue: 0,0:03:35.98,0:03:39.03,BD DX,,0,0,0,,{\i1}Dhe nuk guxon t'ua thuash të vërtetën\NMadhërisë së Saj dhe Lartësisë së Tij.{\i0}
+Dialogue: 0,0:03:41.03,0:03:43.57,BD DX,,0,0,0,,Sepse ky është ndëshkimi im.
+Dialogue: 0,0:03:43.66,0:03:44.57,BD DX,,0,0,0,,Çfarë the?
+Dialogue: 0,0:03:44.66,0:03:46.74,BD DX,,0,0,0,,Sepse ky është ndëshkimi im për veten,
+Dialogue: 0,0:03:46.83,0:03:50.29,BD DX,,0,0,0,,pasi nuk arrita ta shtrija dorën\Ngjatë rrezikut të zonjës sime!
+Dialogue: 0,0:03:51.91,0:03:54.79,BD DX,,0,0,0,,Reirini të bindi për këtë, apo jo?
+Dialogue: 0,0:03:56.96,0:03:59.67,BD DX,,0,0,0,,Të lutem shumë, fol me mua, Tousetsu.
+Dialogue: 0,0:04:00.42,0:04:02.22,BD DX,,0,0,0,,Lartësia Juaj, ju jeni dikush
+Dialogue: 0,0:04:02.30,0:04:06.60,BD DX,,0,0,0,,që mund t'i kapërcejë dëshirat e zonjës Reirin\Ndhe ta ndryshojë rrënjësisht situatën.
+Dialogue: 0,0:04:07.10,0:04:08.68,BD DX,,0,0,0,,Ju lutem, më kurseni.
+Dialogue: 0,0:04:09.31,0:04:12.14,BD DX,,0,0,0,,Unë do ta ndryshoja rrënjësisht situatën?
+Dialogue: 0,0:04:12.64,0:04:15.19,BD DX,,0,0,0,,Do të thuash sepse\Nmund të shkoj kundër vullnetit të Reirinit
+Dialogue: 0,0:04:15.27,0:04:18.07,BD DX,,0,0,0,,dhe ta ndëshkoj Shu Keigetsun\Nsi princ trashëgimtar?
+Dialogue: 0,0:04:24.41,0:04:25.91,BD DX,,0,0,0,,Lartësia Juaj, çfarë po—
+Dialogue: 0,0:04:27.70,0:04:29.70,BD DX,,0,0,0,,Tani për tani, nuk kam kurorë mbi kokë.
+Dialogue: 0,0:04:30.20,0:04:33.29,BD DX,,0,0,0,,Betohem se nuk do ta\Npërdor pa nevojë autoritetin tim.
+Dialogue: 0,0:04:33.87,0:04:36.42,BD DX,,0,0,0,,Prandaj të lutem, më lër të kaloj.
+Dialogue: 0,0:04:37.67,0:04:38.88,BD DX,,0,0,0,,Siç e shihni...
+Dialogue: 0,0:04:38.96,0:04:41.05,BD DX,,0,0,0,,Ju lutem ndaloni, Lartësia Juaj!
+Dialogue: 0,0:04:46.59,0:04:48.26,BD DX,,0,0,0,,Ju lutem, nga kjo anë.
+Dialogue: 0,0:04:49.35,0:04:53.39,BD DX,,0,0,0,,Do t'ju tregoj gjithçka\Nqë di, gjatë rrugës.
+Dialogue: 0,0:04:53.89,0:04:56.02,BD DX,,0,0,0,,Të falënderoj, Tousetsu.
+Dialogue: 0,0:04:56.44,0:04:58.31,BD DX,,0,0,0,,Së pari, nuk ka arsye
+Dialogue: 0,0:04:58.40,0:05:02.49,BD DX,,0,0,0,,pse një zonjë oborri\Nmund ta kthejë pas princin trashëgimtar.
+Dialogue: 0,0:05:05.03,0:05:07.53,BD DX,Sign,0,0,0,,{\an8}VAJZA E KLANIT SHU - SHU KEIGETSU\N(SHPIRTI I REIRINIT)
+Dialogue: 0,0:05:07.62,0:05:10.53,BD DX,Sign,0,0,0,,{\an8}VAJZA E KLANIT KOU - KOU REIRIN\N(SHPIRTI I KEIGETSUT)
+Dialogue: 0,0:05:07.62,0:05:10.78,BD DX,,0,0,0,,Unë sapo...\Nu shërova nga një sëmundje!
+Dialogue: 0,0:05:14.25,0:05:15.92,BD DX,,0,0,0,,S'e duroj dot më.
+Dialogue: 0,0:05:16.12,0:05:17.92,BD DX,,0,0,0,,Mos u shqetësoni, zonja Keigetsu!
+Dialogue: 0,0:05:18.46,0:05:19.63,BD DX,,0,0,0,,Mbërritëm!
+Dialogue: 0,0:05:20.17,0:05:22.17,BD DX,Sign,0,0,0,,{\an8}ZONJA E OBORRIT E KLANIT SHU - LEELEE
+Dialogue: 0,0:05:23.76,0:05:24.97,BD DX,,0,0,0,,Zonjë!
+Dialogue: 0,0:05:25.05,0:05:26.43,BD DX,,0,0,0,,Po anulimi i ndërrimit—
+Dialogue: 0,0:05:26.59,0:05:29.35,BD DX,,0,0,0,,Leelee, më fal!\NPër atë do të flasim më vonë!
+Dialogue: 0,0:05:29.43,0:05:30.85,BD DX,,0,0,0,,Ti atje!
+Dialogue: 0,0:05:30.93,0:05:32.18,BD DX,,0,0,0,,Mos rri ashtu më këmbë!
+Dialogue: 0,0:05:32.26,0:05:34.23,BD DX,,0,0,0,,Ndaleje para se t'i dalë çdo gjë nga kontrolli!
+Dialogue: 0,0:05:34.31,0:05:36.94,BD DX,,0,0,0,,Oh, ende nuk është zgjidhur.
+Dialogue: 0,0:05:37.35,0:05:39.23,BD DX,,0,0,0,,Ja ku është, zonja Keigetsu.
+Dialogue: 0,0:05:39.31,0:05:42.48,BD DX,,0,0,0,,Shumëkëmbëshi që fitoi\Nbetejën e kanibalizmit!
+Dialogue: 0,0:05:42.69,0:05:44.44,BD DX,,0,0,0,,Me të mund të bëjmë magjinë e helmit!
+Dialogue: 0,0:05:51.49,0:05:53.99,BD DX,Sign,0,0,0,,{\an8}KAPITENI I SYVE TË SHQIPONJËS - SHIN-U
+Dialogue: 0,0:05:52.41,0:05:53.99,BD DX,,0,0,0,,Kapiten!
+Dialogue: 0,0:05:55.04,0:05:56.62,BD DX,,0,0,0,,Kjo nuk është mirë!
+Dialogue: 0,0:05:56.12,0:05:59.13,BD DX,Sign,0,0,0,,{\an8}EUNUKU - BUNKOU
+Dialogue: 0,0:05:56.62,0:05:57.96,BD DX,,0,0,0,,Nuk duhet ta nxjerrësh\Nnjë thesar kombëtar
+Dialogue: 0,0:05:58.04,0:05:59.42,BD DX,,0,0,0,,si Harku i Mbrojtjes\Npa leje!
+Dialogue: 0,0:05:59.50,0:06:00.42,BD DX,,0,0,0,,Hesht.
+Dialogue: 0,0:06:00.50,0:06:03.25,BD DX,,0,0,0,,Hesht? Sa e keqe!
+Dialogue: 0,0:06:03.34,0:06:07.42,BD DX,,0,0,0,,{\i1}Shu Keigetsu nuk erdhi\Npër të rrëmbyer Harkun e Mbrojtjes.{\i0}
+Dialogue: 0,0:06:07.51,0:06:10.34,BD DX,,0,0,0,,{\i1}Ka gjasa të jetë duke përdorur\Nmjete të tjera.{\i0}
+Dialogue: 0,0:06:10.85,0:06:12.56,BD DX,,0,0,0,,Kjo është me gjykimin tim.
+Dialogue: 0,0:06:12.64,0:06:16.77,BD DX,,0,0,0,,Do të dëshmoj se ti u përpoqe të më ndalje,\Nprandaj mbylle gojën.
+Dialogue: 0,0:06:16.85,0:06:18.81,BD DX,,0,0,0,,Do të dëshmoni për këtë?
+Dialogue: 0,0:06:18.89,0:06:20.10,BD DX,,0,0,0,,Atëherë do të hesht.
+Dialogue: 0,0:06:20.86,0:06:22.94,BD DX,,0,0,0,,Pra, për t'u lutur për shërimin\Ne Madhërisë së Saj Perandoreshës,
+Dialogue: 0,0:06:23.02,0:06:25.11,BD DX,,0,0,0,,këtë herë,\Ndo ta bëni ju, kapiten?
+Dialogue: 0,0:06:25.32,0:06:29.86,BD DX,,0,0,0,,Sinqerisht, mendoja se nuk besonit\Nnë mallkime e bestytni,
+Dialogue: 0,0:06:29.95,0:06:31.03,BD DX,,0,0,0,,prandaj kjo është e papritur.
+Dialogue: 0,0:06:31.12,0:06:32.66,BD DX,,0,0,0,,Zakonisht nuk besoj në to.
+Dialogue: 0,0:06:32.74,0:06:35.95,BD DX,,0,0,0,,Por kur Vajza e klanit Shu\Ne tërhoqi këtë hark,
+Dialogue: 0,0:06:36.04,0:06:38.75,BD DX,,0,0,0,,sëmundja e zonjës Kou Reirin u qetësua.
+Dialogue: 0,0:06:39.04,0:06:40.04,BD DX,,0,0,0,,Përveç kësaj...
+Dialogue: 0,0:06:42.33,0:06:44.50,BD DX,,0,0,0,,edhe zuzarja më e madhe\Ne Oborrit të Vajzave
+Dialogue: 0,0:06:44.59,0:06:47.42,BD DX,,0,0,0,,deshi ta tërhiqte Harkun për Madhërinë e Saj.
+Dialogue: 0,0:06:47.51,0:06:50.68,BD DX,,0,0,0,,Unë, si Kapiten i Syve të Shqiponjës,\Nnuk mund të rri e të shoh.
+Dialogue: 0,0:06:51.51,0:06:54.97,BD DX,,0,0,0,,{\i1}Lartësia e Tij duhet të ketë pasur\Nkujdes për Shu Keigetsun...{\i0}
+Dialogue: 0,0:06:55.64,0:06:58.14,BD DX,,0,0,0,,{\i1}por pse e largoi aq shumë?{\i0}
+Dialogue: 0,0:06:58.52,0:07:01.94,BD DX,,0,0,0,,{\i1}Jo. Hetimi nuk është punë\Ne Kapitenit të Syve të Shqiponjës.{\i0}
+Dialogue: 0,0:07:02.35,0:07:06.69,BD DX,,0,0,0,,{\i1}Puna ime është të mbikëqyr disiplinën\Ne oborrit të brendshëm dhe të heq rreziqet.{\i0}
+Dialogue: 0,0:07:07.74,0:07:09.45,BD DX,,0,0,0,,{\i1}Kam gjakun e Perandorit në mua{\i0}
+Dialogue: 0,0:07:09.53,0:07:12.20,BD DX,,0,0,0,,{\i1}dhe jam pjesë e familjes Gen,\Nnën mbrojtjen e ujit.{\i0}
+Dialogue: 0,0:07:13.16,0:07:16.20,BD DX,,0,0,0,,{\i1}Përdorimi im i Harkut të Mbrojtjes\Nduhet t'ia çlirojë potencialin e plotë.{\i0}
+Dialogue: 0,0:07:19.33,0:07:20.37,BD DX,,0,0,0,,Çfarë?
+Dialogue: 0,0:07:20.46,0:07:23.17,BD DX,,0,0,0,,H-Harku i Mbrojtjes—
+Dialogue: 0,0:07:23.25,0:07:26.63,BD DX,,0,0,0,,Sh-Shkatërrimi i një thesari kombëtar\Ndo të thotë ekzekutim!
+Dialogue: 0,0:07:26.71,0:07:28.59,BD DX,,0,0,0,,E tërhoqe me një fuqi budallaqe!
+Dialogue: 0,0:07:29.01,0:07:32.72,BD DX,,0,0,0,,Jo, një hark kaq i fuqishëm\Nnuk mund të tejkalohet.
+Dialogue: 0,0:07:33.09,0:07:35.64,BD DX,,0,0,0,,Kam dëgjuar se korda nuk është këputur asnjëherë
+Dialogue: 0,0:07:35.72,0:07:37.60,BD DX,,0,0,0,,që kur u vendos\Ndisa qindra vjet më parë.
+Dialogue: 0,0:07:37.68,0:07:40.06,BD DX,,0,0,0,,Atëherë, pse pikërisht tani?
+Dialogue: 0,0:07:41.39,0:07:45.61,BD DX,,0,0,0,,{\i1}Kur e tërhoqa harkun, ishte sikur\Npo tkurrej nga diçka.{\i0}
+Dialogue: 0,0:07:46.19,0:07:48.73,BD DX,,0,0,0,,{\i1}Ishte sikur iu lehtësua\Npresioni{\i0}
+Dialogue: 0,0:07:48.82,0:07:51.74,BD DX,,0,0,0,,{\i1}kur ra në duart e njohura\Ntë klanit Gen,{\i0}
+Dialogue: 0,0:07:51.82,0:07:55.28,BD DX,,0,0,0,,{\i1}dhe lirimi i tensionit\Nfjalë për fjalë e këputi kordën.{\i0}
+Dialogue: 0,0:07:56.37,0:07:58.87,BD DX,,0,0,0,,{\i1}Klani Gen mbikëqyr ujin dhe luftën.{\i0}
+Dialogue: 0,0:07:58.95,0:08:02.71,BD DX,,0,0,0,,{\i1}Harku i Mbrojtjes u krijua\Nnga një mjeshtër zejtar prej tyre.{\i0}
+Dialogue: 0,0:08:02.79,0:08:06.34,BD DX,,0,0,0,,{\i1}Ai shpon çdo armik,\Ndhe as flakën përvëluese nuk e ka frikë.{\i0}
+Dialogue: 0,0:08:06.84,0:08:10.34,BD DX,,0,0,0,,{\i1}Nëse ka një gjë\Nqë mund ta tejkalojë këtë hark...{\i0}
+Dialogue: 0,0:08:11.55,0:08:13.01,BD DX,,0,0,0,,Do të ishte çi-ja e tokës?
+Dialogue: 0,0:08:13.34,0:08:17.64,BD DX,,0,0,0,,{\i1}Toka e mund ujin. Toka e rëndë\Nmund t'i qetësojë edhe ujërat e egra.{\i0}
+Dialogue: 0,0:08:17.72,0:08:19.85,BD DX,,0,0,0,,{\i1}Klani Kou sundon tokën.{\i0}
+Dialogue: 0,0:08:20.27,0:08:23.48,BD DX,,0,0,0,,{\i1}Vajza e klanit Shu e mbajti të tërhequr\NHarkun e Mbrojtjes për mbi gjashtë orë.{\i0}
+Dialogue: 0,0:08:23.69,0:08:25.77,BD DX,,0,0,0,,{\i1}Klani Shu sundohet nga zjarri.{\i0}
+Dialogue: 0,0:08:25.86,0:08:28.77,BD DX,,0,0,0,,{\i1}Zakonisht, nuk duhet\Ntë jetë i pajtueshëm me ujin.{\i0}
+Dialogue: 0,0:08:29.23,0:08:30.32,BD DX,,0,0,0,,{\i1}Nuk mund të jetë.{\i0}
+Dialogue: 0,0:08:30.40,0:08:31.53,BD DX,,0,0,0,,{\i1}Por sidoqoftë...{\i0}
+Dialogue: 0,0:08:36.20,0:08:40.08,BD DX,,0,0,0,,{\an8}{\i1}Shpesh thonë se je sundimtar i urtë,\Ndhe je i mirë, kushëri i dashur—{\i0}
+Dialogue: 0,0:08:42.12,0:08:43.96,BD DX,,0,0,0,,Ja çfarë po ndodh, pra.
+Dialogue: 0,0:08:44.54,0:08:46.38,BD DX,,0,0,0,,Hë? Çfarë?
+Dialogue: 0,0:08:46.46,0:08:47.88,BD DX,,0,0,0,,Kapiten?
+Dialogue: 0,0:08:47.96,0:08:49.21,BD DX,,0,0,0,,Ku po shkoni?
+Dialogue: 0,0:08:49.46,0:08:51.09,BD DX,,0,0,0,,Po kthehem në Pallatin Shu.
+Dialogue: 0,0:08:52.30,0:08:53.42,BD DX,,0,0,0,,Hë?
+Dialogue: 0,0:08:54.13,0:08:58.97,BD DX,,0,0,0,,D-Dëshmia juaj!
+Dialogue: 0,0:08:59.10,0:09:01.10,BD DX,,0,0,0,,Pse ke një gjë të tillë?
+Dialogue: 0,0:09:01.27,0:09:03.10,BD DX,,0,0,0,,Epo, ëëë...
+Dialogue: 0,0:09:03.48,0:09:05.85,BD DX,,0,0,0,,Kisha ndërmend ta përdorja\Nmerimangën dhe shumëkëmbëshin
+Dialogue: 0,0:09:05.94,0:09:09.69,BD DX,,0,0,0,,që m'i dha Leelee si ushqim\Npër mikun tim mi...
+Dialogue: 0,0:09:10.15,0:09:11.57,BD DX,,0,0,0,,"M'i dha"?
+Dialogue: 0,0:09:11.82,0:09:13.74,BD DX,,0,0,0,,...por nuk kisha ndonjë enë.
+Dialogue: 0,0:09:13.82,0:09:16.86,BD DX,,0,0,0,,Nuk doja të përdorja\Nsendet personale të të tjerëve,
+Dialogue: 0,0:09:16.95,0:09:20.24,BD DX,,0,0,0,,prandaj i futa bashkë\Nnë të vetmen kavanoz që kisha aty.
+Dialogue: 0,0:09:20.33,0:09:23.37,BD DX,,0,0,0,,Dhe shumëkëmbëshi e hëngri merimangën.
+Dialogue: 0,0:09:23.58,0:09:27.12,BD DX,,0,0,0,,Krijoi magjinë e helmit\Nsi pasojë e modestisë së saj, hë.
+Dialogue: 0,0:09:27.83,0:09:31.13,BD DX,,0,0,0,,Po çfarë do të bësh me të?\NErdhe ta kërkoje?
+Dialogue: 0,0:09:31.63,0:09:36.01,BD DX,,0,0,0,,Leelee, Madhëria e Saj Perandoresha vuan\Nnga një sëmundje që buron nga një mallkim.
+Dialogue: 0,0:09:36.80,0:09:39.93,BD DX,,0,0,0,,Dhe ai mallkim është një\Nqë ia hodhi Konkubina Fisnike Shu.
+Dialogue: 0,0:09:40.01,0:09:41.01,BD DX,,0,0,0,,Çfarë?
+Dialogue: 0,0:09:41.43,0:09:45.98,BD DX,,0,0,0,,Prandaj sa më shpejt, duam\Nta përfundojmë kundërmallkimin
+Dialogue: 0,0:09:46.06,0:09:47.90,BD DX,,0,0,0,,me këtë magji helmi dhe ta shpëtojmë Madhërinë e Saj.
+Dialogue: 0,0:09:48.15,0:09:49.73,BD DX,,0,0,0,,Nuk mund të jetë.
+Dialogue: 0,0:09:49.81,0:09:51.61,BD DX,,0,0,0,,Konkubina Fisnike Shu?
+Dialogue: 0,0:09:52.44,0:09:54.82,BD DX,,0,0,0,,A ia përmende këtë\NLartësisë së Tij, princit trashëgimtar?
+Dialogue: 0,0:09:54.90,0:09:56.53,BD DX,,0,0,0,,Hë? Pse Lartësisë së Tij?
+Dialogue: 0,0:09:56.95,0:10:02.03,BD DX,,0,0,0,,Në fakt, para pak çastesh, sapo\Nkapërceve gardhin, u shfaq Lartësia e Tij.
+Dialogue: 0,0:10:02.41,0:10:03.91,BD DX,,0,0,0,,Dhe po i binte portës,
+Dialogue: 0,0:10:03.99,0:10:06.54,BD DX,,0,0,0,,duke bërtitur: "Erdhe këtu,\Napo jo? Reirin!"
+Dialogue: 0,0:10:07.33,0:10:10.67,BD DX,,0,0,0,,Ishte sikur ishte i sigurt\Nse zonja Kou Reirin nuk ishte brenda,
+Dialogue: 0,0:10:10.75,0:10:15.46,BD DX,,0,0,0,,por përkundrazi Vajza\Nqë sapo kërceu brenda pak çaste më parë.
+Dialogue: 0,0:10:15.55,0:10:16.47,BD DX,,0,0,0,,Me fjalë të tjera...
+Dialogue: 0,0:10:16.55,0:10:18.05,BD DX,,0,0,0,,E ka kuptuar.
+Dialogue: 0,0:10:18.13,0:10:19.80,BD DX,,0,0,0,,Lartësia e Tij më në fund—
+Dialogue: 0,0:10:20.18,0:10:21.93,BD DX,,0,0,0,,Edhe unë kështu mendoj.
+Dialogue: 0,0:10:22.56,0:10:25.56,BD DX,,0,0,0,,Jam e sigurt se Lartësia e Tij është i zemëruar.
+Dialogue: 0,0:10:25.64,0:10:31.77,BD DX,,0,0,0,,Kur dhoma në Pallatin Kou të jetë bosh,\Nmund të kthehet sërish këtu.
+Dialogue: 0,0:10:32.65,0:10:38.03,BD DX,,0,0,0,,Zonja Keigetsu, mund të jetë më mirë\Nta anuloni ndërrimin së pari.
+Dialogue: 0,0:10:41.20,0:10:43.58,BD DX,,0,0,0,,Nuk do ta anuloj ndërrimin.
+Dialogue: 0,0:10:44.03,0:10:45.04,BD DX,,0,0,0,,Hë?
+Dialogue: 0,0:10:46.58,0:10:48.21,BD DX,,0,0,0,,Më lër të qetë, mjaft!
+Dialogue: 0,0:10:48.29,0:10:51.00,BD DX,,0,0,0,,Nuk je në gjendje\Ntë thuash një gjë të tillë!
+Dialogue: 0,0:10:51.08,0:10:54.55,BD DX,,0,0,0,,Sa zhurmë po bën\Nnjë zonjë e thjeshtë e ulët oborri.
+Dialogue: 0,0:10:55.13,0:10:56.51,BD DX,,0,0,0,,Epo, më falni!
+Dialogue: 0,0:10:56.59,0:10:58.22,BD DX,,0,0,0,,Tani jam zonjë e lartë oborri!
+Dialogue: 0,0:10:58.76,0:11:01.76,BD DX,,0,0,0,,Jetën ta shpëtoi zonja Reirin!
+Dialogue: 0,0:11:01.84,0:11:04.26,BD DX,,0,0,0,,A nuk ke zemër njeriu brenda?
+Dialogue: 0,0:11:04.35,0:11:05.35,BD DX,,0,0,0,,Leelee...
+Dialogue: 0,0:11:05.51,0:11:07.85,BD DX,,0,0,0,,Nxito dhe anuloje ndërrimin.
+Dialogue: 0,0:11:07.93,0:11:10.27,BD DX,,0,0,0,,A nuk ke guximin\Nt'i lash të gjitha këto ndyrësira
+Dialogue: 0,0:11:10.35,0:11:12.52,BD DX,,0,0,0,,që shkaktuan kaq shumë telashe,\Nqoftë edhe pak?
+Dialogue: 0,0:11:12.61,0:11:13.52,BD DX,,0,0,0,,E kam.
+Dialogue: 0,0:11:13.61,0:11:14.61,BD DX,,0,0,0,,Hë?
+Dialogue: 0,0:11:15.32,0:11:18.90,BD DX,,0,0,0,,E kam guximin të jem përgjegjëse\Nsë paku për veprimet e mia!
+Dialogue: 0,0:11:20.07,0:11:24.33,BD DX,,0,0,0,,Por anulimi i ndërrimit\Nharxhon gjithashtu shumë çi,
+Dialogue: 0,0:11:24.41,0:11:26.49,BD DX,,0,0,0,,prandaj nuk i bëj dot të dyja në të njëjtën ditë!
+Dialogue: 0,0:11:28.08,0:11:31.29,BD DX,,0,0,0,,Prandaj nuk mund ta bëj tani.
+Dialogue: 0,0:11:31.46,0:11:35.79,BD DX,,0,0,0,,A do të thotë kjo\Nse do ta plotësosh së pari dëshirën time?
+Dialogue: 0,0:11:36.09,0:11:38.13,BD DX,,0,0,0,,Mos më keqkupto!
+Dialogue: 0,0:11:38.21,0:11:40.26,BD DX,,0,0,0,,Nuk është për hirin tënd, e qartë?
+Dialogue: 0,0:11:40.42,0:11:44.30,BD DX,,0,0,0,,Thjesht dua t'i tregoj dikujt që më përqeshi\Nse ç'jam në gjendje të bëj!
+Dialogue: 0,0:11:44.39,0:11:46.39,BD DX,,0,0,0,,-Megjithatë—\N-Oh, hesht!
+Dialogue: 0,0:11:46.56,0:11:49.27,BD DX,,0,0,0,,Po përpiqem t'i ndreq gabimet\Ne konkubinës së klanit Shu
+Dialogue: 0,0:11:49.35,0:11:51.85,BD DX,,0,0,0,,si pjesëtare e klanit Shu!
+Dialogue: 0,0:11:51.94,0:11:53.27,BD DX,,0,0,0,,"Po përpiqem t'i ndreq"...
+Dialogue: 0,0:11:53.35,0:11:57.19,BD DX,,0,0,0,,V-Veç kësaj, nëse i bëj një nder\NMadhërisë së Saj Perandoreshës,
+Dialogue: 0,0:11:57.27,0:12:00.61,BD DX,,0,0,0,,do të shërbejë si rrethanë lehtësuese\Npasi të anulohet ndërrimi!
+Dialogue: 0,0:12:00.86,0:12:02.24,BD DX,,0,0,0,,Hej, Leelee.
+Dialogue: 0,0:12:02.32,0:12:05.95,BD DX,,0,0,0,,Zonja Keigetsu është vërtet\Nnjë krijesë e vogël e dashur, në fund të fundit.
+Dialogue: 0,0:12:06.03,0:12:08.37,BD DX,,0,0,0,,Epo... nuk e di për këtë.
+Dialogue: 0,0:12:10.96,0:12:14.67,BD DX,,0,0,0,,Së pari, mendo se kë do të mallkosh.
+Dialogue: 0,0:12:14.84,0:12:17.17,BD DX,,0,0,0,,Merr objektin përfaqësues,\nnë këtë rast, këtë kavanoz.
+Dialogue: 0,0:12:17.34,0:12:19.42,BD DX,,0,0,0,,Shkruaj hollësitë mbi të.
+Dialogue: 0,0:12:22.43,0:12:25.68,BD DX,,0,0,0,,Merimanga që mallkon një fisnike\Nnë Pallatin Kou,
+Dialogue: 0,0:12:26.02,0:12:30.31,BD DX,,0,0,0,,kështu që është më shumë një kundërmallkim\Nkundër merimangës së magjisë së helmit
+Dialogue: 0,0:12:30.39,0:12:32.94,BD DX,,0,0,0,,sesa hedhja e një mallkimi mbi Konkubinën Fisnike Shu.
+Dialogue: 0,0:12:33.23,0:12:34.98,BD DX,,0,0,0,,Kjo është pak më e lehtë\Npër t'u përballuar emocionalisht.
+Dialogue: 0,0:12:35.06,0:12:37.23,BD DX,,0,0,0,,Mallkimi do të kthehet\Nte Konkubina Fisnike Shu, hedhësja,
+Dialogue: 0,0:12:37.31,0:12:38.32,BD DX,,0,0,0,,sapo të thyhet.
+Dialogue: 0,0:12:38.86,0:12:41.03,BD DX,,0,0,0,,Pra, në fund të fundit dalim\Nme të njëjtin rezultat.
+Dialogue: 0,0:12:43.20,0:12:44.32,BD DX,,0,0,0,,Le të fillojmë.
+Dialogue: 0,0:12:46.91,0:12:52.96,BD DX,,0,0,0,,Sipas rregullave të vendosura që në fillimet\Ne qiellit dhe tokës, dëgjo urdhrin tim.
+Dialogue: 0,0:13:03.76,0:13:06.43,BD DX,,0,0,0,,Këput merimangën\Nqë është rrënja e mallkimit
+Dialogue: 0,0:13:06.51,0:13:08.47,BD DX,,0,0,0,,dhe shkatërroji fjalë për fjalë trupin.
+Dialogue: 0,0:13:10.06,0:13:11.39,BD DX,,0,0,0,,{\i1}Shkatërro...{\i0}
+Dialogue: 0,0:13:11.47,0:13:14.44,BD DX,Sign,0,0,0,,{\an8}MERIMANGA QË MALLKON NJË FISNIKE NË PALLATIN KOU
+Dialogue: 0,0:13:21.32,0:13:22.69,BD DX,,0,0,0,,Dhe tani flijimi.
+Dialogue: 0,0:13:23.69,0:13:26.70,BD DX,,0,0,0,,Thjesht duhet ta vrasësh këtë shumëkëmbësh.
+Dialogue: 0,0:13:29.95,0:13:32.75,BD DX,,0,0,0,,Ta bëj unë?
+Dialogue: 0,0:13:32.83,0:13:34.21,BD DX,,0,0,0,,Do ta bëj unë!
+Dialogue: 0,0:13:35.71,0:13:37.46,BD DX,,0,0,0,,Ju lutem prisni, zonja Keigetsu.
+Dialogue: 0,0:13:38.58,0:13:41.63,BD DX,,0,0,0,,Sapo thyhet,\Nmallkimi kthehet te hedhësi,
+Dialogue: 0,0:13:41.71,0:13:45.97,BD DX,,0,0,0,,dhe me vrasjen e flijimit,\Nmagjia plotësohet.
+Dialogue: 0,0:13:46.22,0:13:49.47,BD DX,,0,0,0,,Me fjalë të tjera, hedhësi\Nështë ai që e vret flijimin.
+Dialogue: 0,0:13:50.39,0:13:54.39,BD DX,,0,0,0,,Atëherë, po të dështojmë rastësisht,\Nmallkimi do të kthehet mbrapsht.
+Dialogue: 0,0:13:54.48,0:13:58.65,BD DX,,0,0,0,,Dhe kjo do të thotë, zonja Keigetsu,\Nse ju do të vuani si hedhësja?
+Dialogue: 0,0:14:00.52,0:14:04.28,BD DX,,0,0,0,,Zonja Keigetsu, a po\Npërpiqeni ta merrni mbi vete barrën
+Dialogue: 0,0:14:04.36,0:14:07.66,BD DX,,0,0,0,,e humbjes së jetës suaj\Npër të shpëtuar Madhërinë e Saj?
+Dialogue: 0,0:14:08.53,0:14:10.95,BD DX,,0,0,0,,Ju lutem më thoni, zonja Keigetsu.
+Dialogue: 0,0:14:13.12,0:14:18.04,BD DX,,0,0,0,,Gjithmonë dukeni kaq e shkujdesur\Npor e zgjuar në çastet më të papritura.
+Dialogue: 0,0:14:18.29,0:14:21.42,BD DX,,0,0,0,,Nuk kam marrë përgjigje,\Nzonja Keigetsu.
+Dialogue: 0,0:14:22.50,0:14:24.09,BD DX,,0,0,0,,Kjo është e vetmja mënyrë që di.
+Dialogue: 0,0:14:24.17,0:14:25.09,BD DX,,0,0,0,,Hë?
+Dialogue: 0,0:14:25.17,0:14:27.47,BD DX,,0,0,0,,Si të të kërkoj falje.
+Dialogue: 0,0:14:27.55,0:14:29.55,BD DX,,0,0,0,,Si ta zgjidh gjithçka.
+Dialogue: 0,0:14:29.64,0:14:30.93,BD DX,,0,0,0,,Dhe...
+Dialogue: 0,0:14:31.30,0:14:33.89,BD DX,,0,0,0,,si t'u përgjigjem pritshmërive.
+Dialogue: 0,0:14:35.68,0:14:38.85,BD DX,,0,0,0,,Askush nuk më ka dhënë ndonjëherë një mundësi.
+Dialogue: 0,0:14:38.94,0:14:41.48,BD DX,,0,0,0,,Askush nuk më mësoi krenarinë.
+Dialogue: 0,0:14:41.56,0:14:43.48,BD DX,,0,0,0,,Nuk prisnin absolutisht asgjë\Nprej meje.
+Dialogue: 0,0:14:44.11,0:14:45.69,BD DX,,0,0,0,,Prandaj nuk di.
+Dialogue: 0,0:14:46.69,0:14:48.28,BD DX,,0,0,0,,Nuk di, por...
+Dialogue: 0,0:14:48.78,0:14:50.28,BD DX,,0,0,0,,Dua të bëj diçka!
+Dialogue: 0,0:14:50.57,0:14:54.03,BD DX,,0,0,0,,Sepse ti the se isha ylli yt!
+Dialogue: 0,0:14:54.29,0:14:58.66,BD DX,,0,0,0,,Edhe pse kam jetuar gjithë këtë kohë\Nduke u endur nëpër baltë...
+Dialogue: 0,0:14:59.50,0:15:01.33,BD DX,,0,0,0,,kjo më bëri të mendoja se qoftë edhe një herë...
+Dialogue: 0,0:15:01.42,0:15:03.17,BD DX,,0,0,0,,sado e vogël...
+Dialogue: 0,0:15:03.25,0:15:06.59,BD DX,,0,0,0,,doja të bëja diçka të shkëlqyer!
+Dialogue: 0,0:15:06.67,0:15:07.76,BD DX,,0,0,0,,A është kjo e keqe?
+Dialogue: 0,0:15:10.80,0:15:13.22,BD DX,,0,0,0,,Fuqia e kometës...
+Dialogue: 0,0:15:13.55,0:15:15.56,BD DX,,0,0,0,,është vërtet e jashtëzakonshme.
+Dialogue: 0,0:15:20.77,0:15:26.73,BD DX,,0,0,0,,Të përmenda se i bëra dy dëshira\Nkometës, apo jo?
+Dialogue: 0,0:15:29.32,0:15:31.74,BD DX,,0,0,0,,Njëra ishte shëndeti.
+Dialogue: 0,0:15:32.36,0:15:34.24,BD DX,,0,0,0,,Dhe tjetra...
+Dialogue: 0,0:15:35.74,0:15:37.75,BD DX,,0,0,0,,ishte se doja një shoqe.
+Dialogue: 0,0:15:40.25,0:15:45.59,BD DX,,0,0,0,,E kuptoja se isha rritur\Nnë një mjedis të privilegjuar.
+Dialogue: 0,0:15:46.25,0:15:50.01,BD DX,,0,0,0,,Një botë e butë, shumë si një djep.
+Dialogue: 0,0:15:50.38,0:15:53.64,BD DX,,0,0,0,,Megjithatë, unë prapë jam dikush\Nnga familja Kou.
+Dialogue: 0,0:15:54.47,0:15:59.85,BD DX,,0,0,0,,Doja dikë të cilit t'i tregoja dashuri\Ne jo vetëm të merrja dashuri.
+Dialogue: 0,0:16:00.14,0:16:02.94,BD DX,,0,0,0,,Doja një shoqe\Nku të mbështetnim njëra-tjetrën,
+Dialogue: 0,0:16:03.02,0:16:05.65,BD DX,,0,0,0,,një mike që më trajton si të barabartë.
+Dialogue: 0,0:16:06.03,0:16:11.41,BD DX,,0,0,0,,Ti ke një zemër që ndryshon kaq lehtë\Ndhe emocione të egra përtej kontrollit tënd.
+Dialogue: 0,0:16:11.95,0:16:14.20,BD DX,,0,0,0,,Je kaq e pastër\Nsa do ta rrezikoje jetën
+Dialogue: 0,0:16:14.29,0:16:16.87,BD DX,,0,0,0,,për t'i kërkuar falje një vajze që e urreje.
+Dialogue: 0,0:16:17.87,0:16:21.92,BD DX,,0,0,0,,Ke kaq shumë gjëra\Nqë unë nuk i kam.
+Dialogue: 0,0:16:23.84,0:16:28.59,BD DX,,0,0,0,,Të lutem, a do të bëhesh shoqja ime?
+Dialogue: 0,0:16:28.67,0:16:29.80,BD DX,,0,0,0,,Çfarë—
+Dialogue: 0,0:16:30.09,0:16:32.42,BD DX,,0,0,0,,Epo, edhe nëse thua se nuk dëshiron,
+Dialogue: 0,0:16:32.51,0:16:34.80,BD DX,,0,0,0,,unë do ta vulos miqësinë tonë\Nme vullnetin tim.
+Dialogue: 0,0:16:34.97,0:16:36.05,BD DX,,0,0,0,,Hë?
+Dialogue: 0,0:16:36.93,0:16:40.06,BD DX,,0,0,0,,Nëse tehu duhet të bjerë,\Ndo ta bëjmë bashkë.
+Dialogue: 0,0:16:40.60,0:16:43.06,BD DX,,0,0,0,,I ndajmë edhe mallkimet, në rregull?
+Dialogue: 0,0:16:43.35,0:16:45.48,BD DX,,0,0,0,,T-Ti e di...
+Dialogue: 0,0:16:45.56,0:16:46.56,BD DX,,0,0,0,,Po.
+Dialogue: 0,0:16:47.15,0:16:48.19,BD DX,,0,0,0,,E di...
+Dialogue: 0,0:16:48.82,0:16:49.82,BD DX,,0,0,0,,Ndaloje atë.
+Dialogue: 0,0:16:56.24,0:17:01.08,BD DX,,0,0,0,,Çfarë po përpiqesh të bësh\Npa më pyetur mua...
+Dialogue: 0,0:17:01.16,0:17:03.54,BD DX,Sign,0,0,0,,{\an8}KONKUBINA FISNIKE - SHU GABI
+Dialogue: 0,0:17:02.08,0:17:03.54,BD DX,,0,0,0,,Keigetsu?
+Dialogue: 0,0:17:05.04,0:17:06.29,BD DX,,0,0,0,,Konkubinë Fisnike!
+Dialogue: 0,0:17:06.83,0:17:08.79,BD DX,,0,0,0,,Ule kokën...
+Dialogue: 0,0:17:09.38,0:17:11.55,BD DX,,0,0,0,,bijë e thjeshtë e një të huaji.
+Dialogue: 0,0:17:13.05,0:17:15.55,BD DX,,0,0,0,,Kin Gayou...
+Dialogue: 0,0:17:15.89,0:17:18.30,BD DX,,0,0,0,,D-Dikush! Kapiten i Syve të Shqiponjës!
+Dialogue: 0,0:17:18.39,0:17:19.39,BD DX,,0,0,0,,Është e kotë.
+Dialogue: 0,0:17:20.10,0:17:22.43,BD DX,,0,0,0,,Tani për tani, Madhëria e Saj Perandoresha...
+Dialogue: 0,0:17:22.52,0:17:25.31,BD DX,,0,0,0,,ajo grua e bezdisshme, është në krizë.
+Dialogue: 0,0:17:25.85,0:17:28.90,BD DX,,0,0,0,,Të gjithë po ndjekin\Nçdo lëvizje të Pallatit Kou.
+Dialogue: 0,0:17:29.48,0:17:32.90,BD DX,,0,0,0,,Askush nuk do të vijë këtu.
+Dialogue: 0,0:17:36.11,0:17:39.66,BD DX,,0,0,0,,Zemra e saj dhe këmba e saj e djathtë...
+Dialogue: 0,0:17:39.83,0:17:43.16,BD DX,,0,0,0,,Hej, cilën pjesë të shenjës\Nshpove me Harkun e Mbrojtjes?
+Dialogue: 0,0:17:43.25,0:17:46.92,BD DX,,0,0,0,,Një herë në qendër\Ndhe disa herë në buzën e djathtë.
+Dialogue: 0,0:17:47.25,0:17:48.33,BD DX,,0,0,0,,{\i1}Ishte vërtet...{\i0}
+Dialogue: 0,0:17:48.42,0:17:50.04,BD DX,,0,0,0,,{\i1}Konkubina Fisnike Shu.{\i0}
+Dialogue: 0,0:17:50.21,0:17:52.71,BD DX,,0,0,0,,T-Ti... duhet të presësh pak—
+Dialogue: 0,0:18:00.39,0:18:01.39,BD DX,,0,0,0,,Leelee!
+Dialogue: 0,0:18:06.52,0:18:07.44,BD DX,,0,0,0,,Kou Reirin!
+Dialogue: 0,0:18:07.52,0:18:08.73,BD DX,,0,0,0,,Zonja Reirin?
+Dialogue: 0,0:18:08.81,0:18:10.48,BD DX,,0,0,0,,Oh, medet.
+Dialogue: 0,0:18:10.56,0:18:13.57,BD DX,,0,0,0,,Duket se identiteti yt i vërtetë\Nështë përhapur mjaft...
+Dialogue: 0,0:18:14.11,0:18:15.11,BD DX,,0,0,0,,Keigetsu.
+Dialogue: 0,0:18:16.07,0:18:18.20,BD DX,,0,0,0,,Në fund, ishte e pamundur
+Dialogue: 0,0:18:18.28,0:18:22.24,BD DX,,0,0,0,,që një mi kanali të hiqej\Nsi flutur, me sa duket.
+Dialogue: 0,0:18:22.62,0:18:26.25,BD DX,,0,0,0,,Oh, sa vajzë e padobishme që je.
+Dialogue: 0,0:18:27.12,0:18:28.25,BD DX,,0,0,0,,Po.
+Dialogue: 0,0:18:28.54,0:18:29.71,BD DX,,0,0,0,,Sado budallaqe që jam,
+Dialogue: 0,0:18:29.79,0:18:33.46,BD DX,,0,0,0,,më në fund e kuptova se cilat\Njanë ambiciet tuaja, Konkubinë Fisnike.
+Dialogue: 0,0:18:34.09,0:18:37.93,BD DX,,0,0,0,,Dhe po i shtyp\Npikërisht tani.
+Dialogue: 0,0:18:38.97,0:18:43.47,BD DX,,0,0,0,,Nëse e vlerësoni jetën tuaj, besoj se do të\Nishte më mirë ta ulnit tehun.
+Dialogue: 0,0:18:43.97,0:18:45.52,BD DX,,0,0,0,,Është e kundërta.
+Dialogue: 0,0:18:45.60,0:18:47.98,BD DX,,0,0,0,,Ti duhet ta ulësh, Keigetsu.
+Dialogue: 0,0:18:48.35,0:18:51.19,BD DX,,0,0,0,,Ende nuk e ke përfunduar\Nkundërmallkimin, apo jo?
+Dialogue: 0,0:18:51.27,0:18:55.28,BD DX,,0,0,0,,Nëse e vlerëson jetën e "shoqes" tënde\Nqë më në fund bëre
+Dialogue: 0,0:18:55.36,0:18:59.16,BD DX,,0,0,0,,dhe nëse e vlerëson trupin tënd,
+Dialogue: 0,0:18:59.24,0:19:02.62,BD DX,,0,0,0,,ule atë kavanoz dhe atë teh, Keigetsu.
+Dialogue: 0,0:19:02.87,0:19:04.83,BD DX,,0,0,0,,Ju lutem, zonja Keigetsu.
+Dialogue: 0,0:19:04.91,0:19:06.20,BD DX,,0,0,0,,Ule tehun.
+Dialogue: 0,0:19:06.29,0:19:09.33,BD DX,,0,0,0,,Jo, ju lutem mos u shqetësoni për mua.
+Dialogue: 0,0:19:09.42,0:19:10.79,BD DX,,0,0,0,,Bëni atë që duhet bërë.
+Dialogue: 0,0:19:12.54,0:19:14.80,BD DX,,0,0,0,,Sa flutur e vogël e zhurmshme.
+Dialogue: 0,0:19:15.46,0:19:19.72,BD DX,,0,0,0,,Keigetsu-ja ime e gjorë. Duhet të jesh shumë e hutuar.
+Dialogue: 0,0:19:19.80,0:19:22.34,BD DX,,0,0,0,,Vajza ime e dashur.
+Dialogue: 0,0:19:22.43,0:19:24.81,BD DX,,0,0,0,,Mirë, do të të tregoj...
+Dialogue: 0,0:19:25.76,0:19:30.31,BD DX,,0,0,0,,saktësisht çfarë do të ndodhë nëse e\Npërfundon magjinë e helmit pikërisht këtu.
+Dialogue: 0,0:19:30.94,0:19:33.48,BD DX,,0,0,0,,Unë me siguri do të vdes.
+Dialogue: 0,0:19:33.56,0:19:37.90,BD DX,,0,0,0,,Dhe, si pjesëtare e klanit Shu\Nqë kreu tradhti,
+Dialogue: 0,0:19:37.99,0:19:40.65,BD DX,,0,0,0,,ti nuk do të mund t'i shpëtosh\Ndënimit me vdekje.
+Dialogue: 0,0:19:40.74,0:19:43.74,BD DX,,0,0,0,,Megjithatë, nëse e ul tehun...
+Dialogue: 0,0:19:43.91,0:19:48.16,BD DX,,0,0,0,,{\an8}ajo grua do të vdesë,\Ndhe unë do të bëhem Perandoresha.
+Dialogue: 0,0:19:48.25,0:19:52.25,BD DX,,0,0,0,,Dhe kur ta bëj,\Ndo të të trajtoj me respekt.
+Dialogue: 0,0:19:52.71,0:19:55.21,BD DX,,0,0,0,,Madje mund ta lë të jetojë edhe "shoqen" tënde.
+Dialogue: 0,0:19:55.29,0:19:59.01,BD DX,,0,0,0,,Megjithatë, kjo vetëm nëse asaj\Ni merret vetëdija.
+Dialogue: 0,0:20:02.13,0:20:03.89,BD DX,,0,0,0,,N-Ndaloje atë!
+Dialogue: 0,0:20:04.22,0:20:06.64,BD DX,,0,0,0,,Nxito, Keigetsu.
+Dialogue: 0,0:20:06.72,0:20:10.27,BD DX,,0,0,0,,Ky teh është i rëndë,\Nprandaj dora mund të më rrëshqasë pa dashje.
+Dialogue: 0,0:20:10.48,0:20:11.77,BD DX,,0,0,0,,Zonjë!
+Dialogue: 0,0:20:11.98,0:20:14.73,BD DX,,0,0,0,,Çfarë do të bësh, Keigetsu?
+Dialogue: 0,0:20:27.79,0:20:29.29,BD DX,,0,0,0,,Ju lutem ndaloni, zonja Keigetsu—
+Dialogue: 0,0:20:29.37,0:20:30.70,BD DX,,0,0,0,,Hesht.
+Dialogue: 0,0:20:38.59,0:20:40.88,BD DX,,0,0,0,,Vajzë e mirë, Keigetsu!
+Dialogue: 0,0:20:40.97,0:20:42.72,BD DX,,0,0,0,,Kështu duhet të bësh!
+Dialogue: 0,0:20:42.80,0:20:47.01,BD DX,,0,0,0,,Sepse ti je\Nnjë mi kanali i paaftë e i ndyrë!
+Dialogue: 0,0:20:49.56,0:20:50.81,BD DX,,0,0,0,,E ule gardën!
+Dialogue: 0,0:20:57.94,0:20:59.32,BD DX,,0,0,0,,E rrëmbeva!
+Dialogue: 0,0:21:02.11,0:21:03.07,BD DX,,0,0,0,,Oh.
+Dialogue: 0,0:21:03.15,0:21:04.32,BD DX,,0,0,0,,Më fal.
+Dialogue: 0,0:21:04.49,0:21:07.24,BD DX,,0,0,0,,Të ftova ta bënim bashkë,\Npor e bëra vetë.
+Dialogue: 0,0:21:07.32,0:21:10.37,BD DX,,0,0,0,,Zonja Keigetsu, ende po dridhet,
+Dialogue: 0,0:21:10.45,0:21:12.45,BD DX,,0,0,0,,prandaj nëse dëshironi,\Nmund të bashkoheni për goditjen e fundit—
+Dialogue: 0,0:21:12.54,0:21:14.42,BD DX,,0,0,0,,Kjo konsideratë\Nështë krejtësisht e panevojshme!
+Dialogue: 0,0:21:14.50,0:21:16.75,BD DX,,0,0,0,,Mos ma afro atë gjë!
+Dialogue: 0,0:21:17.17,0:21:18.29,BD DX,,0,0,0,,Oh, vdiq.
+Dialogue: 0,0:21:24.55,0:21:27.30,BD DX,Sign,0,0,0,,{\an8}PERANDORESHA - KOU KENSHUU
+Dialogue: 0,0:21:35.98,0:21:37.61,BD DX,,0,0,0,,Largohu!
+Dialogue: 0,0:21:37.69,0:21:39.19,BD DX,,0,0,0,,Ti përbindësh, largohu!
+Dialogue: 0,0:21:39.57,0:21:40.48,BD DX,,0,0,0,,Jo!
+Dialogue: 0,0:21:40.57,0:21:42.48,BD DX,,0,0,0,,Duket se mallkimi u kundërshtua.
+Dialogue: 0,0:21:44.07,0:21:45.74,BD DX,,0,0,0,,Shko andej!
+Dialogue: 0,0:21:45.82,0:21:49.03,BD DX,,0,0,0,,Përpije dhe vrite atë perandoreshë të urryer!
+Dialogue: 0,0:21:49.24,0:21:53.04,BD DX,,0,0,0,,{\an8}Ajo grua që ma mori princin tim!
+Dialogue: 0,0:21:57.71,0:21:58.96,BD DX,,0,0,0,,Dreqin!
+Dialogue: 0,0:22:01.09,0:22:04.63,BD DX,,0,0,0,,Ti mi kanali!
+Dialogue: 0,0:22:06.22,0:22:08.26,BD DX,,0,0,0,,A je mirë, Reirin?
+Dialogue: 0,0:22:08.47,0:22:09.47,BD DX,,0,0,0,,Kushëri i da—
+Dialogue: 0,0:22:10.64,0:22:11.64,BD DX,,0,0,0,,Lartësia Juaj.
+

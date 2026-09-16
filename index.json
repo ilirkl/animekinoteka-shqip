@@ -248,6 +248,20 @@
       "assFile": "ass/at-687966.sq.ass",
       "offset": 0,
       "sourceReleaseId": "687966"
+    },
+    {
+      "id": "at-688010",
+      "title": "Though I Am an Inept Villainess",
+      "episode": "10",
+      "malId": 61240,
+      "anilistId": 188139,
+      "slugs": [
+        "though-i-am-an-inept-villainess-5e26f"
+      ],
+      "file": "files/at-688010.sq.vtt",
+      "assFile": "ass/at-688010.sq.ass",
+      "offset": 0,
+      "sourceReleaseId": "688010"
     }
   ]
 }
