@@ -1,0 +1,334 @@
+﻿[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 8
+YCbCr Matrix: TV.601
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback_Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Narration,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Italics - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback_Italics - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Sign_Basic,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Show_Title,Times New Roman,24,&H00000000,&H000000FF,&H00FFFFFF,&H64000000,-1,0,0,0,100,100,0,0,1,1,0,2,10,10,18,1
+Style: Ep_Title,Georgia,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,140,0,0,1,0,0,2,10,10,60,1
+Style: Subtitles,Trebuchet MS,22,&H00E6EBE1,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,10,10,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.48,0:00:04.73,Show_Title,Text; series title,0,0,0,,{\fad(500,0)\an5\c&H121519&\be.25\fs60\fscx60\pos(550,38)\bord.5}III
+Dialogue: 1,0:00:00.48,0:00:04.73,Show_Title,Text; series title,0,0,0,,{\fad(500,0)\an5\be.25\bord.5\i1\fscy140\fs20\pos(550,38)}M{\c&H031C23&}u{\c&H063846&}s{\c&H0A556A&}h{\c&H0D718D&}o{\c&H108DB0&}k{\c&H13A9D3&}u{\c&H13A9D3&} {\c&H108DB0&}T{\c&H0D718D&}e{\c&H0A556A&}n{\c&H063846&}s{\c&H031C23&}e{\c&H000000&}i
+Dialogue: 1,0:00:00.48,0:00:04.73,Show_Title,Text; series title,0,0,0,,{\fad(500,0)\an8\fnTimes New Roman\b1\c&H13D0F3&\shad0\bord.25\be.25\fs8\i1\pos(520,60)}Job{\c&H000000&}less {\c&H13D0F3&}Rein{\c&H000000&}carnation
+Dialogue: 0,0:00:02.84,0:00:04.12,Main,Rudeus,0,0,0,,E ardhmja?
+Dialogue: 0,0:00:05.00,0:00:07.39,Main - Top,Rudeus,0,0,0,,Pra, ti je... unë i së ardhmes?
+Dialogue: 0,0:00:07.39,0:00:13.25,Main - Top,Oldeus,0,0,0,,Po. Jam ti, rreth pesëdhjetë vjet nga tani.
+Dialogue: 0,0:00:15.52,0:00:19.50,Main,Rudeus,0,0,0,,Nuk mund ta thuash thjesht këtë e \Ntë presësh që ta besoj.
+Dialogue: 0,0:00:19.50,0:00:23.50,Main,Oldeus,0,0,0,,E di emrin tënd të vjetër.
+Dialogue: 0,0:00:23.50,0:00:26.93,Main,Oldeus,0,0,0,,A s'është kjo arsye e mjaftueshme të më besosh?
+Dialogue: 0,0:00:26.93,0:00:29.68,Main,Rudeus,0,0,0,,Kjo botë ka një gjë që quhet magji.
+Dialogue: 0,0:00:29.68,0:00:32.00,Main,Rudeus,0,0,0,,Nuk do të çuditesha nëse \Nmund të lexoje kujtimet e mia.
+Dialogue: 0,0:00:32.00,0:00:38.80,Main,Oldeus,0,0,0,,Nëse lexoj dot kujtime me magji, \Npse s'e përdor dot për të udhëtuar në kohë?
+Dialogue: 0,0:00:42.30,0:00:48.60,Main - Top,Oldeus,0,0,0,,Më fal, por s'kam kohë të shpjegoj \Nteorinë e teleportimit në të shkuarën.
+Dialogue: 0,0:00:48.60,0:00:54.83,Main - Top,Oldeus,0,0,0,,S'dua të tingëlloj si film hollivudian, \Npor vërtet s'ka kohë. Thjesht dëgjo.
+Dialogue: 0,0:00:54.83,0:00:56.57,Main - Top,Rudeus,0,0,0,,Film hollivudian...
+Dialogue: 0,0:00:57.22,0:00:59.95,Main,Rudeus,0,0,0,,A je vërtet... unë?
+Dialogue: 0,0:01:00.74,0:01:01.96,Main,Rudeus,0,0,0,,Por...
+Dialogue: 0,0:01:02.87,0:01:05.26,Main,Oldeus,0,0,0,,Në bodrum nuk ka asgjë.
+Dialogue: 0,0:01:05.97,0:01:09.92,Main,Oldeus,0,0,0,,Shkova në bodrum dhe \Nmendova se atje s'kishte asgjë.
+Dialogue: 0,0:01:09.92,0:01:14.71,Main - Top,Oldeus,0,0,0,,Më vonë, Njeri-Zoti thotë:
+Dialogue: 0,0:01:14.71,0:01:18.22,Main - Top,Oldeus,0,0,0,,"Atëherë s'ka problem", dhe unë e lashë.
+Dialogue: 0,0:01:18.51,0:01:20.97,Main,Oldeus,0,0,0,,Por ai ishte një gabim.
+Dialogue: 0,0:01:21.27,0:01:22.72,Main,Rudeus,0,0,0,,Gabim?
+Dialogue: 0,0:01:22.72,0:01:25.72,Main,Oldeus,0,0,0,,Disa javë pasi shkova në bodrum,
+Dialogue: 0,0:01:26.19,0:01:28.47,Main,Oldeus,0,0,0,,Roxy vdiq.
+Dialogue: 0,0:01:35.00,0:01:37.14,Main,Rudeus,0,0,0,,Vdiq?
+Dialogue: 0,0:01:37.14,0:01:39.61,Main,Rudeus,0,0,0,,Si mund ta shkaktojë këtë \Nthjesht shkuarja në bodrum?!
+Dialogue: 0,0:01:39.84,0:01:42.34,Main,Oldeus,0,0,0,,Po, e kuptoj nga vjen.
+Dialogue: 0,0:01:42.34,0:01:45.05,Main,Oldeus,0,0,0,,Vetëm qetësohu dhe dëgjo.
+Dialogue: 0,0:01:46.95,0:01:50.91,Main,Oldeus,0,0,0,,Nuk jam i sigurt, por besoj \Nse atje poshtë ka një mi.
+Dialogue: 0,0:01:50.91,0:01:53.51,Main,Oldeus,0,0,0,,Një mi që është i sëmurë.
+Dialogue: 0,0:01:53.51,0:01:57.63,Main,Oldeus,0,0,0,,Nëse hap derën, \Nmiu do të trembet,
+Dialogue: 0,0:01:57.63,0:02:00.21,Main,Oldeus,0,0,0,,dhe do të vrapojë... në kuzhinë.
+Dialogue: 0,0:02:00.21,0:02:03.93,Main,Oldeus,0,0,0,,Do të brejë mbetjet e djeshme.
+Dialogue: 0,0:02:04.45,0:02:11.32,Main,Oldeus,0,0,0,,Aisha do t'i hedhë mbetjet duke \Nua dhënë maceve endacake të nesërmen.
+Dialogue: 0,0:02:11.32,0:02:18.32,Main,Oldeus,0,0,0,,Por para se ta bëjë, Roxy do t'i \Nvijë uria dhe do të hajë prej tyre.
+Dialogue: 0,0:02:18.72,0:02:23.25,Main,Oldeus,0,0,0,,Si pasojë, Roxy do të marrë \Nsëmundjen që kishte miu.
+Dialogue: 0,0:02:23.25,0:02:24.33,Main,Rudeus,0,0,0,,Çfarë sëmundjeje?
+Dialogue: 0,0:02:24.67,0:02:26.32,Main,Oldeus,0,0,0,,Sëmundja e gurëzimit.
+Dialogue: 0,0:02:27.70,0:02:34.34,Main,Oldeus,0,0,0,,Ngadalë do t'ia kthejë trupin në \Nmanatit, derisa ta vrasë.
+Dialogue: 0,0:02:34.34,0:02:36.13,Main,Oldeus,0,0,0,,Në fillim askush nuk do ta vërejë.
+Dialogue: 0,0:02:36.13,0:02:41.45,Main,Oldeus,0,0,0,,Në fund të fundit, njerëzit nuk e marrin \Naq shpesh sëmundjen e gurëzimit.
+Dialogue: 0,0:02:41.45,0:02:48.36,Main,Oldeus,0,0,0,,Patogjeni infekton vetëm një jetë tjetër \Nqë ka bërë strehë brenda trupit.
+Dialogue: 0,0:02:48.36,0:02:50.47,Main,Rudeus,0,0,0,,Një jetë tjetër?
+Dialogue: 0,0:02:51.73,0:02:53.35,Main,Rudeus,0,0,0,,Nuk do të thuash që...
+Dialogue: 0,0:02:53.62,0:02:55.12,Main,Oldeus,0,0,0,,Një fetus.
+Dialogue: 0,0:02:56.86,0:02:59.55,Main,Rudeus,0,0,0,,Prit pak. Roxy nuk është—
+Dialogue: 0,0:02:59.55,0:03:01.62,Main,Oldeus,0,0,0,,Jam i sigurt se është shtatzënë.
+Dialogue: 0,0:03:01.62,0:03:06.74,Main,Oldeus,0,0,0,,Por kjo s'është problem — as befasi, \Npo të shohim me se je marrë.
+Dialogue: 0,0:03:07.63,0:03:11.67,Main,Oldeus,0,0,0,,Sëmundja e gurëzimit \Ni kthen minjtë në bartës.
+Dialogue: 0,0:03:11.67,0:03:15.88,Main,Oldeus,0,0,0,,Dhëmbët u bëhen kristal i purpurt, \Nkështu që dallohen lehtë.
+Dialogue: 0,0:03:16.21,0:03:19.65,Main,Oldeus,0,0,0,,Infeksioni mund të përcillet \Nvetëm nga goja.
+Dialogue: 0,0:03:19.65,0:03:24.62,Main,Oldeus,0,0,0,,Patogjeni e ndryshon fetusin, duke e kthyer\Nnë manatit bashkë me nënën.
+Dialogue: 0,0:03:25.64,0:03:29.51,Main,Rudeus,0,0,0,,Dhe Roxy do ta marrë këtë gjë?
+Dialogue: 0,0:03:30.75,0:03:35.04,Main,Oldeus,0,0,0,,Nëse shkon pa menduar në bodrum,
+Dialogue: 0,0:03:35.04,0:03:38.15,Main,Oldeus,0,0,0,,Roxy do t'i ngjitet ethet brenda pak ditësh.
+Dialogue: 0,0:03:38.72,0:03:41.41,Main,Oldeus,0,0,0,,Dhe pastaj, do të vdesë.
+Dialogue: 0,0:03:44.73,0:03:46.35,Main,Rudeus,0,0,0,,Nuk u bë mirë?
+Dialogue: 0,0:03:46.35,0:03:47.86,Main,Rudeus,0,0,0,,Nuk u përpoqe ta shëroje?
+Dialogue: 0,0:03:48.90,0:03:54.24,Main,Oldeus,0,0,0,,Në përpjekje për ta shpëtuar, \Nudhëtova në Vendin e Shenjtë të Milisit
+Dialogue: 0,0:03:54.24,0:03:59.38,Main,Oldeus,0,0,0,,dhe vura në dorë një shortim \Npër magji detoksifikuese të klasit hyjnor.
+Dialogue: 0,0:03:59.65,0:04:03.68,Main,Oldeus,0,0,0,,Por kur u ktheva në shtëpi, \Nishte tashmë tepër vonë.
+Dialogue: 0,0:04:03.68,0:04:04.76,Main,Rudeus,0,0,0,,Jo...
+Dialogue: 0,0:04:06.03,0:04:11.06,Main,Oldeus,0,0,0,,M'u deshën edhe tridhjetë vjet \Npara se t'i lidhja të gjitha.
+Dialogue: 0,0:04:11.06,0:04:13.08,Main,Oldeus,0,0,0,,Njeri-Zoti ma tha.
+Dialogue: 0,0:04:13.44,0:04:16.19,Main,Oldeus,0,0,0,,Mos e lër të të mashtrojë.
+Dialogue: 0,0:04:16.53,0:04:20.69,Main,Oldeus,0,0,0,,Me atë që di nga jeta jote e kaluar, \Nsë paku kaq duhet ta shohësh.
+Dialogue: 0,0:04:21.26,0:04:25.82,Main,Oldeus,0,0,0,,Ai është rrënja e çdo të keqeje, shefi i fundit.
+Dialogue: 0,0:04:30.35,0:04:33.79,Main,Rudeus,0,0,0,,Po, pra... Pse pikërisht Roxy?
+Dialogue: 0,0:04:33.79,0:04:36.56,Main,Oldeus,0,0,0,,Ende nuk e di.
+Dialogue: 0,0:04:37.08,0:04:40.83,Main,Oldeus,0,0,0,,Por e di se e bëri për një arsye.
+Dialogue: 0,0:04:41.22,0:04:44.51,Main,Oldeus,0,0,0,,Në fund, ai më tha:
+Dialogue: 0,0:04:44.83,0:04:50.96,Main,Oldeus,0,0,0,,"Pikërisht se je kaq idiot, \Ngjithçka shkoi tamam si desha unë."
+Dialogue: 0,0:04:50.96,0:04:52.47,Main,Oldeus,0,0,0,,Dreqin.
+Dialogue: 0,0:04:52.47,0:04:54.91,Main,Rudeus,0,0,0,,Njeri-Zoti {\i1}e tha atë?{\i0}
+Dialogue: 0,0:04:54.91,0:05:00.45,Main,Oldeus,0,0,0,,Mendoj se Orsted mund të ketë \Nndonjë të dhënë se çfarë kërkon,
+Dialogue: 0,0:05:00.45,0:05:05.66,Main,Oldeus,0,0,0,,por për pesëdhjetë vjet, \Nnuk arrita kurrë ta gjeja.
+Dialogue: 0,0:05:06.39,0:05:09.86,Main,Rudeus,0,0,0,,A nuk e dinte Nanahoshi ku ishte Orsted?
+Dialogue: 0,0:05:13.42,0:05:15.74,Main,Rudeus,0,0,0,,Ç'i ndodhi Nanahoshit?
+Dialogue: 0,0:05:16.60,0:05:21.22,Main,Oldeus,0,0,0,,Eksperimentet e saj dështuan në fund fare.
+Dialogue: 0,0:05:21.66,0:05:28.47,Main,Oldeus,0,0,0,,Ra në depresion, \Nunë s'arrita ta nxirrja prej tij, dhe pastaj...
+Dialogue: 0,0:05:29.92,0:05:31.39,Main,Rudeus,0,0,0,,E kuptoj.
+Dialogue: 0,0:05:31.39,0:05:32.90,Main,Rudeus,0,0,0,,Mund të ndalesh aty.
+Dialogue: 0,0:05:32.90,0:05:35.39,Main,Oldeus,0,0,0,,Mirë. As unë s'dua ta them.
+Dialogue: 0,0:05:37.56,0:05:41.19,Main,Oldeus,0,0,0,,Dëgjo. Do ta zbulosh \Nvetë këtë,
+Dialogue: 0,0:05:41.19,0:05:44.26,Main,Oldeus,0,0,0,,por Njeri-Zoti nuk quhej \Nkështu në fillim.
+Dialogue: 0,0:05:44.26,0:05:45.66,Main,Rudeus,0,0,0,,Si kështu?
+Dialogue: 0,0:05:45.66,0:05:50.23,Main,Oldeus,0,0,0,,"Zoti i Njerëzve" me sa duket \Ne quanin dikur.
+Dialogue: 0,0:05:50.64,0:05:53.54,Main,Oldeus,0,0,0,,Por tani e quan veten Njeri-Zoti.
+Dialogue: 0,0:05:53.80,0:05:55.29,Main,Rudeus,0,0,0,,Përse e bën këtë?
+Dialogue: 0,0:05:55.29,0:05:56.49,Main,Oldeus,0,0,0,,Ku ta di unë.
+Dialogue: 0,0:05:56.49,0:05:59.12,Main,Oldeus,0,0,0,,Për asnjë arsye të mirë, kjo është e sigurt.
+Dialogue: 0,0:06:00.06,0:06:06.00,Main,Oldeus,0,0,0,,Gjithçka që tha dukej në fillim \Nse ishte për të mirën time.
+Dialogue: 0,0:06:06.41,0:06:10.60,Main,Oldeus,0,0,0,,Dhe, për të qenë i drejtë, \Nkurrë s'më kishte gënjyer deri tani.
+Dialogue: 0,0:06:11.01,0:06:13.85,Main,Oldeus,0,0,0,,Të paktën jo aq sa ta vija re.
+Dialogue: 0,0:06:14.39,0:06:18.01,Main,Oldeus,0,0,0,,Gjithçka ishte për këtë herë të vetme,
+Dialogue: 0,0:06:18.01,0:06:23.10,Main,Oldeus,0,0,0,,për këtë çast të vetëm \Nkur ti, dyshuesi i madh,
+Dialogue: 0,0:06:23.10,0:06:25.36,Main,Oldeus,0,0,0,,do të bindeshe pa pyetur fare!
+Dialogue: 0,0:06:26.35,0:06:28.29,Main,Oldeus,0,0,0,,Mos i bjer në grackë!
+Dialogue: 0,0:06:28.29,0:06:30.18,Main,Oldeus,0,0,0,,E ke lexuar në një manga, e mban mend?
+Dialogue: 0,0:06:30.18,0:06:34.82,Main,Oldeus,0,0,0,,Ata që flasin lehtë për besimin janë \Npikërisht ata që i mashtrojnë të tjerët!
+Dialogue: 0,0:06:34.82,0:06:36.90,Main,Rudeus,0,0,0,,E kuptoj, po mirë, por—
+Dialogue: 0,0:06:36.90,0:06:38.20,Main,Oldeus,0,0,0,,Nuk kupton asgjë!
+Dialogue: 0,0:06:38.55,0:06:43.58,Main,Oldeus,0,0,0,,Pas Roxit, e radhës... e radhës është Sylphie!
+Dialogue: 0,0:06:51.17,0:06:57.94,Main,Oldeus,0,0,0,,Humbja e Roxit ta copëton zemrën dhe\Ns'kujdesesh dot për Sylphien për një kohë.
+Dialogue: 0,0:06:57.94,0:07:04.33,Main,Oldeus,0,0,0,,Ajo lëndohet e bie në depresion, dhe\NNjeri-Zoti përdor Lukun për të përfituar.
+Dialogue: 0,0:07:04.33,0:07:05.52,Main,Rudeus,0,0,0,,Lukun?
+Dialogue: 0,0:07:05.82,0:07:12.72,Main,Oldeus,0,0,0,,Luku e këshillon Arielin, \Ndhe Sylphie më lë e shkon në Asura.
+Dialogue: 0,0:07:13.04,0:07:17.20,Main,Oldeus,0,0,0,,Me Arielin, edhe pse ajo \Ns'ia doli ta fitonte Perugiusin!
+Dialogue: 0,0:07:17.73,0:07:21.94,Main,Oldeus,0,0,0,,Arieli nis një luftë civile... dhe humbet.
+Dialogue: 0,0:07:22.32,0:07:24.70,Main,Oldeus,0,0,0,,Sylphie vritet në betejë.
+Dialogue: 0,0:07:24.70,0:07:27.47,Main,Rudeus,0,0,0,,Vritet? Sylphie vdes?
+Dialogue: 0,0:07:27.47,0:07:31.60,Main,Oldeus,0,0,0,,I humbet të dyja.
+Dialogue: 0,0:07:31.60,0:07:37.53,Main,Oldeus,0,0,0,,Oh, ende e dëgjoj zërin e tij \Nkur ma shpjegoi mashtrimin.
+Dialogue: 0,0:07:37.53,0:07:41.07,Main,Oldeus,0,0,0,,Ndjesinë e dorës së tij \Nqë më përkëdhelte shpinën...
+Dialogue: 0,0:07:41.07,0:07:43.97,Main,Oldeus,0,0,0,,Atë të qeshurën e tij therëse...
+Dialogue: 0,0:07:43.97,0:07:45.56,Main,Oldeus,0,0,0,,Dreqin!
+Dialogue: 0,0:07:45.56,0:07:48.44,Main,Oldeus,0,0,0,,Iu marrtë e mira!
+Dialogue: 0,0:07:51.81,0:07:55.46,Main,Oldeus,0,0,0,,Po ta them sërish: mos i beso.
+Dialogue: 0,0:07:55.46,0:07:57.67,Main,Oldeus,0,0,0,,Do të pendohesh.
+Dialogue: 0,0:08:01.95,0:08:06.11,Main,Oldeus,0,0,0,,Sido qoftë, ka gjasa \Npo pyet veten se çfarë {\i1}duhet{\i0} të bësh.
+Dialogue: 0,0:08:06.66,0:08:09.89,Main,Oldeus,0,0,0,,Do të ishte mirë të nisje... me Erisin.
+Dialogue: 0,0:08:10.19,0:08:11.39,Main,Rudeus,0,0,0,,Erisin?
+Dialogue: 0,0:08:11.39,0:08:15.88,Main,Oldeus,0,0,0,,Dua që t'i shkruash \Nnjë letër që tani.
+Dialogue: 0,0:08:16.25,0:08:20.64,Main,Oldeus,0,0,0,,"Po, të tradhtova pak, \Npor prapë të dua."
+Dialogue: 0,0:08:20.64,0:08:22.06,Main,Rudeus,0,0,0,,Unë s'e dua atë!
+Dialogue: 0,0:08:22.06,0:08:24.49,Main,Rudeus,0,0,0,,Për shkak të saj mbeta me disfunksion erektil.
+Dialogue: 0,0:08:24.49,0:08:29.50,Main,Oldeus,0,0,0,,Lëre të shkojë. Trego se je burrë i vërtetë.
+Dialogue: 0,0:08:29.50,0:08:36.19,Main,Oldeus,0,0,0,,Sigurisht, unë s'arrita ta falja, \Nprandaj u bëmë armiq për vite me radhë.
+Dialogue: 0,0:08:36.19,0:08:37.28,Main,Rudeus,0,0,0,,Vërtet?
+Dialogue: 0,0:08:37.28,0:08:41.77,Main,Oldeus,0,0,0,,Erisi gati sa s'më vrau më shumë \Nherë nga sa mund t'i numëroj.
+Dialogue: 0,0:08:42.19,0:08:45.16,Main,Oldeus,0,0,0,,Më ndiqte kudo,
+Dialogue: 0,0:08:45.16,0:08:48.56,Main,Oldeus,0,0,0,,dhe sa herë që më shihte, \Nkthehej në përleshje.
+Dialogue: 0,0:08:48.96,0:08:53.05,Main,Oldeus,0,0,0,,Megjithatë, besoj se ma kurseu dorën.
+Dialogue: 0,0:08:53.05,0:08:58.38,Main,Oldeus,0,0,0,,Kishte plot mënyra si të më vriste \Npo të kishte dashur vërtet.
+Dialogue: 0,0:08:58.74,0:09:05.15,Main,Oldeus,0,0,0,,Por s'e bëri, dhe kur isha vërtet \Nnë hall, më ndihmonte fshehurazi.
+Dialogue: 0,0:09:05.15,0:09:09.58,Main,Oldeus,0,0,0,,Sikur të ishte princi i \Ntë gjitha perimeve.
+Dialogue: 0,0:09:11.38,0:09:15.24,Main,Oldeus,0,0,0,,Ajo më donte gjatë gjithë kohës.
+Dialogue: 0,0:09:15.65,0:09:19.73,Main,Oldeus,0,0,0,,Por s'ia thotë me fjalë dhe \Ns'dinte ç'tjetër të bënte,
+Dialogue: 0,0:09:19.73,0:09:22.70,Main,Oldeus,0,0,0,,prandaj i binte gjithmonë me grushte.
+Dialogue: 0,0:09:22.70,0:09:26.91,Main,Rudeus,0,0,0,,Pra, pati një kohë \Nkur isha i dhënë pas Erisit,
+Dialogue: 0,0:09:26.91,0:09:29.31,Main,Rudeus,0,0,0,,por tani kam Sylphien dhe Roxin.
+Dialogue: 0,0:09:29.31,0:09:31.14,Main,Oldeus,0,0,0,,S'ka problem.
+Dialogue: 0,0:09:31.14,0:09:35.89,Main,Oldeus,0,0,0,,Do ta kuptojnë po t'ua shpjegosh \Nqë më parë.
+Dialogue: 0,0:09:36.39,0:09:41.21,Main,Oldeus,0,0,0,,Pranoje. Edhe ti vetë ende \Ndigjesh për Erisin.
+Dialogue: 0,0:09:44.30,0:09:45.97,Main,Rudeus,0,0,0,,Lehtë ta thuash ti.
+Dialogue: 0,0:09:45.97,0:09:51.08,Main,Oldeus,0,0,0,,Ç'të keqe ka t'i bësh vend \Nçdo gruaje që thotë se të do?
+Dialogue: 0,0:09:51.08,0:09:54.45,Main,Rudeus,0,0,0,,Mos ma thuaj këtë vetëm se \Ns'është problemi yt.
+Dialogue: 0,0:09:55.54,0:09:59.09,Main,Oldeus,0,0,0,,Mua s'më ka mbetur askush.
+Dialogue: 0,0:09:59.45,0:10:02.44,Main,Oldeus,0,0,0,,Po ta them sepse {\i1}është{\i0} problemi im.
+Dialogue: 0,0:10:04.29,0:10:10.03,Main,Oldeus,0,0,0,,Erisi u mundua kaq shumë e \Nkaq gjatë për të qenë me mua.
+Dialogue: 0,0:10:10.03,0:10:14.58,Main,Oldeus,0,0,0,,"Për çfarë ishte e gjitha \Nnëse nuk e pranon?"
+Dialogue: 0,0:10:14.92,0:10:18.41,Main,Oldeus,0,0,0,,Këtë të thotë Ghislaine \Nkur ta thotë në sy.
+Dialogue: 0,0:10:19.02,0:10:21.77,Main,Oldeus,0,0,0,,Përpara kufomës së Erisit.
+Dialogue: 0,0:10:24.18,0:10:26.85,Main,Rudeus,0,0,0,,Edhe Erisi vdes?
+Dialogue: 0,0:10:26.85,0:10:31.52,Main,Oldeus,0,0,0,,Po. Duke më mbuluar në një betejë.
+Dialogue: 0,0:10:32.99,0:10:36.60,Main,Oldeus,0,0,0,,Pra, më mirë dërgoje atë letër.
+Dialogue: 0,0:10:36.60,0:10:38.86,Main,Oldeus,0,0,0,,Veç nëse do më shumë pendime.
+Dialogue: 0,0:10:38.86,0:10:42.97,Main,Rudeus,0,0,0,,N-Në rregull, epo, po ta vësh \Nkështu, do ta bëj.
+Dialogue: 0,0:10:42.97,0:10:44.71,Main,Rudeus,0,0,0,,Po ku ta dërgoj?
+Dialogue: 0,0:10:45.07,0:10:49.46,Main,Oldeus,0,0,0,,Në Shenjtëroren e Shpatës. \NKjo s'duhet të jetë befasi e plotë.
+Dialogue: 0,0:10:50.49,0:10:53.54,Main,Oldeus,0,0,0,,Mos shkruaj asgjë që e largon.
+Dialogue: 0,0:10:53.54,0:10:58.09,Main,Oldeus,0,0,0,,Nëse Erisi dëshpërohet, \Ndo të të vrasin.
+Dialogue: 0,0:10:58.09,0:10:59.35,Main,Rudeus,0,0,0,,E di.
+Dialogue: 0,0:11:00.93,0:11:03.80,Main,Oldeus,0,0,0,,Unë nuk e dija.
+Dialogue: 0,0:11:03.80,0:11:08.30,Main,Oldeus,0,0,0,,Edhe pse duhej ta dija \Nsi ishte Erisi.
+Dialogue: 0,0:11:08.84,0:11:12.81,Main,Oldeus,0,0,0,,Ajo kurrë s'mendoi se më kishte braktisur.
+Dialogue: 0,0:11:12.81,0:11:16.08,Main,Oldeus,0,0,0,,Por unë nuk e kuptova.
+Dialogue: 0,0:11:16.08,0:11:20.74,Main,Oldeus,0,0,0,,S'ishim në të njëjtin mendim, \Ndhe kjo na bëri të dy fatkeqë.
+Dialogue: 0,0:11:24.25,0:11:27.05,Main,Oldeus,0,0,0,,Një gjë e rëndësishme që harrova të të them:
+Dialogue: 0,0:11:27.05,0:11:28.92,Main,Oldeus,0,0,0,,Mos u përpiq të luftosh Njeri-Zotin.
+Dialogue: 0,0:11:29.26,0:11:32.35,Main,Rudeus,0,0,0,,Të mos e luftoj? Po ai po më mashtron.
+Dialogue: 0,0:11:32.35,0:11:35.80,Main,Oldeus,0,0,0,,Po. Por nuk e mund dot.
+Dialogue: 0,0:11:36.15,0:11:40.80,Main,Oldeus,0,0,0,,Unë s'arrij dot kurrë atje ku është Njeri-Zoti.
+Dialogue: 0,0:11:42.04,0:11:45.80,Main,Oldeus,0,0,0,,U drodha kur e kuptova këtë.
+Dialogue: 0,0:11:46.29,0:11:51.34,Main,Oldeus,0,0,0,,S'ia marr dot hakun as \Npër Roxin e Sylphien.
+Dialogue: 0,0:11:53.04,0:11:58.89,Main,Oldeus,0,0,0,,Pas gjithçkaje që bëra për ta mundur, \Nai mbetet jashtë dorës sime.
+Dialogue: 0,0:11:58.89,0:12:02.60,Main,Oldeus,0,0,0,,Nuk do të shfaqet kurrë\Natje ku mund ta kap.
+Dialogue: 0,0:12:02.60,0:12:08.34,Main,Oldeus,0,0,0,,Unë fluturoj dot në ajër dhe \Nkomunikoj në distanca të largëta.
+Dialogue: 0,0:12:08.34,0:12:14.07,Main,Oldeus,0,0,0,,Madje mësova edhe të kërcej nëpër \Nkohë e të kthehem në të shkuarën.
+Dialogue: 0,0:12:14.50,0:12:18.12,Main,Oldeus,0,0,0,,Sidoqoftë, kjo magji ishte dështim.
+Dialogue: 0,0:12:18.12,0:12:19.35,Main,Rudeus,0,0,0,,Ishte?
+Dialogue: 0,0:12:20.26,0:12:23.91,Main,Oldeus,0,0,0,,Magjia e kësaj bote mund të bëjë gjithçka.
+Dialogue: 0,0:12:23.91,0:12:27.77,Main,Oldeus,0,0,0,,Pak gjëra të kalojnë \Nsapo ta kuptosh këtë.
+Dialogue: 0,0:12:27.77,0:12:30.84,Main,Oldeus,0,0,0,,As rritja sërish e krahut që të mungon.
+Dialogue: 0,0:12:31.15,0:12:35.62,Main,Oldeus,0,0,0,,Por kjo lloj fuqie tani s'ka kuptim.
+Dialogue: 0,0:12:36.02,0:12:42.72,Main,Oldeus,0,0,0,,Kur u bëra i fortë, kisha humbur \Ntashmë gjithkë që doja të mbroja.
+Dialogue: 0,0:12:43.89,0:12:45.60,Main,Rudeus,0,0,0,,H-Hej!
+Dialogue: 0,0:12:46.06,0:12:47.68,Main,Rudeus,0,0,0,,Je lënduar?
+Dialogue: 0,0:12:50.66,0:12:53.78,Main,Oldeus,0,0,0,,Dëgjo. Po ta them sërish.
+Dialogue: 0,0:12:53.78,0:12:57.88,Main,Oldeus,0,0,0,,Nuk e mund dot Njeri-Zotin. \NS'ka mënyrë për të fituar.
+Dialogue: 0,0:12:57.88,0:13:03.48,Main,Oldeus,0,0,0,,Prandaj, lëvdoje nëse duhet,
+Dialogue: 0,0:13:03.48,0:13:07.60,Main,Oldeus,0,0,0,,por mos u përpiq ta luftosh.
+Dialogue: 0,0:13:08.62,0:13:12.35,Main,Oldeus,0,0,0,,Duhet të bësh tri gjëra:
+Dialogue: 0,0:13:12.35,0:13:14.79,Main,Oldeus,0,0,0,,Kërkoji këshillë Nanahoshit.
+Dialogue: 0,0:13:14.79,0:13:17.31,Main,Oldeus,0,0,0,,Dërgoji një letër Erisit.
+Dialogue: 0,0:13:17.31,0:13:21.00,Main,Oldeus,0,0,0,,Dyshoje Njeri-Zotin, \Npor mos e vër kundër vetes.
+Dialogue: 0,0:13:21.79,0:13:24.37,Main,Rudeus,0,0,0,,E gjitha kjo është shumë e papritur.
+Dialogue: 0,0:13:24.37,0:13:27.38,Main,Rudeus,0,0,0,,A s'ke ndonjë këshillë \Nmë konkrete për mua?
+Dialogue: 0,0:13:27.38,0:13:29.20,Main,Oldeus,0,0,0,,Këshillë?
+Dialogue: 0,0:13:30.26,0:13:32.29,Main,Oldeus,0,0,0,,Kjo më kthen pas në kohë.
+Dialogue: 0,0:13:32.29,0:13:36.39,Main,Oldeus,0,0,0,,Po ta mendosh, \Nisha bërë mjaft i butë deri tani.
+Dialogue: 0,0:13:36.70,0:13:42.79,Main,Oldeus,0,0,0,,Epo, do të doja të të jepja \Nvetë më shumë hollësi,
+Dialogue: 0,0:13:42.79,0:13:44.64,Main,Oldeus,0,0,0,,por m'u mbush koha.
+Dialogue: 0,0:13:44.64,0:13:48.53,Main,Rudeus,0,0,0,,Pse vazhdon të thuash se \N"s'ke kohë" ose se "t'u mbush koha"?
+Dialogue: 0,0:13:48.53,0:13:50.98,Main,Rudeus,0,0,0,,Mos do të nisë ndonjë anime \Ne natës vonë, apo si?
+Dialogue: 0,0:13:51.33,0:13:54.66,Main,Oldeus,0,0,0,,Jo. Po mbaron.
+Dialogue: 0,0:13:55.22,0:13:59.51,Main,Oldeus,0,0,0,,Sidoqoftë, mos u mbështet te të \Ntjerët për t'i zgjidhur problemet.
+Dialogue: 0,0:13:59.51,0:14:05.72,Main,Oldeus,0,0,0,,Nuk e nise jetën në këtë botë \Nduke lypur ndihmë vazhdimisht, e mban mend?
+Dialogue: 0,0:14:06.21,0:14:12.12,Main,Oldeus,0,0,0,,Dhe ardhja ime këtu kështu \Nduhet ta ketë ndryshuar historinë.
+Dialogue: 0,0:14:12.12,0:14:15.02,Main,Oldeus,0,0,0,,Tani që u bë kështu,
+Dialogue: 0,0:14:15.02,0:14:20.88,Main,Oldeus,0,0,0,,historia që kalova unë nuk do të ndryshojë.
+Dialogue: 0,0:14:24.76,0:14:30.26,Main,Oldeus,0,0,0,,Ti do të bësh... \Nnjë jetë tjetër... nga imja.
+Dialogue: 0,0:14:30.90,0:14:34.26,Main,Oldeus,0,0,0,,Si gjithmonë, do të fitosh diçka,
+Dialogue: 0,0:14:34.26,0:14:36.26,Main,Oldeus,0,0,0,,dhe do të humbasësh diçka.
+Dialogue: 0,0:14:36.26,0:14:38.77,Main,Oldeus,0,0,0,,Do të nxjerrësh mësime
+Dialogue: 0,0:14:39.05,0:14:40.83,Main,Oldeus,0,0,0,,dhe do të kesh pendime.
+Dialogue: 0,0:14:43.50,0:14:44.19,Main,Rudeus,0,0,0,,Hej!
+Dialogue: 0,0:14:44.19,0:14:45.97,Main,Rudeus,0,0,0,,Je mirë?!
+Dialogue: 0,0:14:48.80,0:14:52.60,Main,Oldeus,0,0,0,,Mos mendo... se ardhja ime nga e ardhmja
+Dialogue: 0,0:14:52.60,0:14:57.16,Main,Oldeus,0,0,0,,do të thotë se i zhbën dot gabimet.
+Dialogue: 0,0:14:57.60,0:15:03.00,Main,Oldeus,0,0,0,,E vërteta është... se në jetë \Nnuk ka rifillime.
+Dialogue: 0,0:15:04.59,0:15:13.73,Sign_Basic,Sign,0,0,0,,{\fad(375,0)\fnTimes New Roman\b1\c&H0D082F&\bord0\shad0\an5\fax.1\fs12\pos(318,162)\frx20\fry2\frz11.63}Ditari
+Dialogue: 0,0:15:04.59,0:15:13.73,Sign_Basic,Sign,0,0,0,,{\fad(375,0)\fnTimes New Roman\b1\c&H0D082F&\bord0\shad0\an5\fax.1\fs6\frx20\fry2\frz11.63\move(323,176,323,178,398,9113)}Rudeus Greyrat
+Dialogue: 0,0:15:04.41,0:15:08.29,Main,Oldeus,0,0,0,,Gjithçka që kam kaluar është shkruar këtu.
+Dialogue: 0,0:15:08.29,0:15:13.37,Main,Oldeus,0,0,0,,Bëj ç'të mundesh që të sigurohesh... \Nse nuk ke pendime.
+Dialogue: 0,0:15:14.31,0:15:17.57,Main,Oldeus,0,0,0,,Mos e lër atë të ndyrë të të qeshë në fytyrë.
+Dialogue: 0,0:15:17.96,0:15:22.24,Main,Oldeus,0,0,0,,Mos... u bëj si unë.
+Dialogue: 0,0:15:22.51,0:15:24.85,Main,Rudeus,0,0,0,,Ç'të ndodhi?
+Dialogue: 0,0:15:26.27,0:15:30.26,Main,Oldeus,0,0,0,,Kërcimi im në kohë s'ishte aq i mirë...
+Dialogue: 0,0:15:30.26,0:15:33.41,Main,Oldeus,0,0,0,,sa të sillte gjithë trupin.
+Dialogue: 0,0:15:33.41,0:15:36.05,Main,Rudeus,0,0,0,,Por sapo the se \Nmund ta rritje sërish krahun.
+Dialogue: 0,0:15:36.05,0:15:38.90,Main,Oldeus,0,0,0,,S'më ka mbetur fare mana.
+Dialogue: 0,0:15:39.52,0:15:45.62,Main,Oldeus,0,0,0,,Sikur Klifi të ishte gjallë, \Ndo të kishte shkuar më mirë.
+Dialogue: 0,0:15:45.62,0:15:49.62,Main,Oldeus,0,0,0,,Mund të të kisha thënë... pak më shumë...
+Dialogue: 0,0:15:51.46,0:15:54.96,Main,Rudeus,0,0,0,,Më fal. Ke thënë mjaft. \NMos u mundo të flasësh.
+Dialogue: 0,0:15:56.47,0:16:00.00,Main,Oldeus,0,0,0,,Pendimet... e tua...
+Dialogue: 0,0:16:00.38,0:16:03.98,Main,Oldeus,0,0,0,,i shkojnë për shtat Njeri-Zotit...
+Dialogue: 0,0:16:04.49,0:16:07.85,Main,Oldeus,0,0,0,,Pse kështu?
+Dialogue: 0,0:16:07.85,0:16:10.25,Main,Oldeus,0,0,0,,Më duhet të them...
+Dialogue: 0,0:16:10.25,0:16:12.98,Main,Oldeus,0,0,0,,Jam në të shkuarën, prandaj...
+Dialogue: 0,0:16:13.64,0:16:16.91,Main,Oldeus,0,0,0,,Dua... të paktën një vështrim...
+Dialogue: 0,0:16:19.87,0:16:24.13,Main,Oldeus,0,0,0,,Oh, Sylphie, Roxy.
+Dialogue: 0,0:16:24.89,0:16:26.59,Main,Oldeus,0,0,0,,Dreqin.
+Dialogue: 0,0:16:27.23,0:16:32.61,Main,Oldeus,0,0,0,,Jeni ende po aq të lezetshme.
+Dialogue: 0,0:16:50.45,0:16:54.39,Main,Sylphiette,0,0,0,,Rudi, m'u duk sikur dëgjova zëra e zhurma.
+Dialogue: 0,0:16:54.39,0:16:55.55,Main,Sylphiette,0,0,0,,A ka ndonjë tjetër aty?
+Dialogue: 0,0:16:55.55,0:16:57.14,Main,Roxy,0,0,0,,Mos është hajdut?
+Dialogue: 0,0:16:57.14,0:16:59.61,Main,Rudeus,0,0,0,,Më falni, isha gjysmë në gjumë.
+Dialogue: 0,0:16:59.61,0:17:02.86,Main,Rudeus,0,0,0,,Pashë një ëndërr të çuditshme dhe bëra magji.
+Dialogue: 0,0:17:02.86,0:17:05.13,Main,Sylphiette,0,0,0,,Bëre magji gjysmë në gjumë?
+Dialogue: 0,0:17:05.13,0:17:06.72,Main,Sylphiette,0,0,0,,Je mirë?
+Dialogue: 0,0:17:06.72,0:17:08.99,Main,Sylphiette,0,0,0,,Mund të fle me ty nëse \Npo sheh sërish makthe.
+Dialogue: 0,0:17:12.26,0:17:14.30,Main,Rudeus,0,0,0,,Jo, jam mirë. Të paktën për sot.
+Dialogue: 0,0:17:14.62,0:17:15.88,Main,Roxy,0,0,0,,Rudi?
+Dialogue: 0,0:17:16.15,0:17:19.88,Main,Rudeus,0,0,0,,Vërtet, jam mirë. Kthehuni në dhomat tuaja.
+Dialogue: 0,0:17:20.30,0:17:22.79,Main,Rudeus,0,0,0,,Do të pastroj pak, pastaj shkoj të fle.
+Dialogue: 0,0:17:25.42,0:17:28.40,Main,Roxy,0,0,0,,Nëse diçka të shqetëson, \Nmos nguro të na e thuash.
+Dialogue: 0,0:17:28.40,0:17:29.71,Main,Rudeus,0,0,0,,Faleminderit.
+Dialogue: 0,0:17:30.05,0:17:32.91,Main,Rudeus,0,0,0,,Në atë rast, bëmë një nder.
+Dialogue: 0,0:17:33.28,0:17:36.60,Main,Rudeus,0,0,0,,Dua që të dyja të rrini në \Ndhomat tuaja gjithë natën sonte.
+Dialogue: 0,0:17:36.85,0:17:40.69,Main,Sylphiette,0,0,0,,Të rrimë në dhomat tona? Uh... pse?
+Dialogue: 0,0:17:40.69,0:17:42.50,Main,Rudeus,0,0,0,,Epo...
+Dialogue: 0,0:17:43.82,0:17:45.33,Main,Roxy,0,0,0,,Në rregull.
+Dialogue: 0,0:17:45.33,0:17:47.47,Main,Roxy,0,0,0,,Nëse ti e thua, Rudi, ashtu do të bëjmë.
+Dialogue: 0,0:17:49.30,0:17:50.96,Main,Sylphiette,0,0,0,,Ke të drejtë.
+Dialogue: 0,0:17:50.96,0:17:53.13,Main,Sylphiette,0,0,0,,Mirë. Nëse ti e thua, Rudi.
+Dialogue: 0,0:17:56.84,0:17:59.10,Main,Roxy,0,0,0,,Epo atëherë, natën e mirë.
+Dialogue: 0,0:17:59.10,0:18:00.46,Main,Sylphie,0,0,0,,Natën, Rudi.
+Dialogue: 0,0:18:00.46,0:18:02.24,Main,Rudeus,0,0,0,,Faleminderit. Natën.
+Dialogue: 0,0:18:11.07,0:18:16.59,Italics,Previous Incarnation {M},0,0,0,,Ishte e gjitha kaq e papritur. Ende s'e besoj \Nplotësisht, por një gjë është e sigurt:
+Dialogue: 0,0:18:17.01,0:18:19.50,Italics,Previous Incarnation {M},0,0,0,,Nuk dua t'i humbas ato të dyja.
+Dialogue: 0,0:18:20.45,0:18:25.30,Italics,Previous Incarnation {M},0,0,0,,Dhe nuk dua të vdes plot \Nme pendime si ai plaku.
+Dialogue: 0,0:19:30.61,0:19:34.47,Italics,Previous Incarnation {M},0,0,0,,Do t'i varros eshtrat e tij në të \Nnjëjtin vend me ato të Paulit.
+Dialogue: 0,0:19:34.90,0:19:39.40,Italics,Previous Incarnation {M},0,0,0,,Nëse plaku ishte vërtet unë, \Nkështu do të kishte dashur.
+Dialogue: 0,0:19:49.03,0:19:52.54,Italics,Previous Incarnation {M},0,0,0,,Plaku më tha të mos shkoja. Megjithatë...
+Dialogue: 0,0:19:59.00,0:20:02.89,Flashback,Oldeus {flashback},0,0,0,,Nuk jam i sigurt, por besoj \Nse atje poshtë ka një mi.
+Dialogue: 0,0:20:15.79,0:20:17.06,Main,Rudeus,0,0,0,,Frost Nova.
+Dialogue: 0,0:20:19.68,0:20:20.95,Main,Rudeus,0,0,0,,Frost Nova.
+Dialogue: 0,0:20:52.14,0:20:57.14,Italics,Previous Incarnation {M},0,0,0,,Trupin do t'ia jap \NGildisë së Magjistarëve për studim.
+Dialogue: 0,0:20:57.51,0:21:02.09,Main,Previous Incarnation {M},0,0,0,,Nëse raportoj atë që më tha plaku \Npër sëmundjen e gurëzimit,
+Dialogue: 0,0:21:02.09,0:21:04.70,Italics,Previous Incarnation {M},0,0,0,,duhet të arrij të zbuloj \Nnëse fliste me vend.
+Dialogue: 0,0:21:05.20,0:21:07.94,Italics,Previous Incarnation {M},0,0,0,,Çfarë të bëj së pari?
+Dialogue: 0,0:21:08.26,0:21:11.10,Italics,Previous Incarnation {M},0,0,0,,Çfarë mund të bëj tani për tani?
+Dialogue: 0,0:21:13.32,0:21:17.92,Italics,Previous Incarnation {M},0,0,0,,Leximi i këtij mund të më tregojë ç'do të vijë.
+Dialogue: 0,0:21:17.92,0:21:28.43,Sign_Basic,Sign,0,0,0,,{\fnTimes New Roman\b1\c&H110D14&\bord1\shad0\fs30\frz355.9\move(305,23,305,240)\3c&H1B1922&}Ditari
+Dialogue: 0,0:21:17.92,0:21:28.43,Sign_Basic,Sign,0,0,0,,{\fnTimes New Roman\b1\c&H110D14&\bord1\shad0\fs17\frz355.9\move(304,70,304,287)\3c&H1B1922&}Rudeus Greyrat
+Dialogue: 1,0:21:18.27,0:21:20.92,Italics,Previous Incarnation {M},0,0,0,,Por ai tha se historia do të ndryshonte.
+Dialogue: 1,0:21:20.92,0:21:25.18,Italics,Previous Incarnation {M},0,0,0,,Për ta thënë me një term lojërash, \Njam në një vijë tjetër bote,
+Dialogue: 1,0:21:25.18,0:21:28.10,Italics,Previous Incarnation {M},0,0,0,,një botë që e ndryshoi ardhja \Nkëtu e vetes sime të së ardhmes.
+Dialogue: 1,0:21:28.43,0:21:34.17,Italics,Previous Incarnation {M},0,0,0,,Mund ta studioj këtë ditar, por ka shumë \Ngjasa që gjërat të mos shkojnë njësoj.
+Dialogue: 0,0:21:36.32,0:21:40.10,Flashback,Oldeus {flashback},0,0,0,,Duhet të bësh tri gjëra:
+Dialogue: 0,0:21:40.10,0:21:42.60,Flashback,Oldeus {flashback},0,0,0,,Kërkoji këshillë Nanahoshit.
+Dialogue: 0,0:21:42.60,0:21:45.08,Flashback,Oldeus {flashback},0,0,0,,Dërgoji një letër Erisit.
+Dialogue: 0,0:21:45.08,0:21:48.99,Flashback,Oldeus {flashback},0,0,0,,Dyshoje Njeri-Zotin, \Npor mos e vër kundër vetes.
+Dialogue: 0,0:21:52.31,0:21:56.82,Italics,Previous Incarnation {M},0,0,0,,Nuk mund ta harroj thjesht \Nditarin e të vazhdoj përpara.
+Dialogue: 0,0:21:57.45,0:22:01.93,Italics,Previous Incarnation {M},0,0,0,,Janë gjurmët që \Nla pas plaku.
+Dialogue: 0,0:21:57.46,0:21:59.58,Sign_Basic,Sign,0,0,0,,{\fad(0,275)\fnTimes New Roman\b1\c&H0D226E&\bord0\shad0\fs30\frz350.6\pos(339,118)}Ditari
+Dialogue: 0,0:21:57.46,0:21:59.58,Sign_Basic,Sign,0,0,0,,{\fad(0,275)\fnTimes New Roman\b1\c&H153D7B&\bord0\shad0\fs14\pos(336,148)\frz350.6}Rudeus Greyrat
+Dialogue: 0,0:22:01.92,0:22:04.92,Ep_Title,Sign; title,0,0,0,,{\b1\shad2}Episodi 12\NNjë fund dhe një fillim
+Dialogue: 0,0:23:34.94,0:23:39.90,Ep_Title,Sign,0,0,0,,{\fs12\fscy\c&H050E3E&\pos(320,260)}Herën tjetër\N{\fs20\1a&HFF&\t(406,2100,1 \1a&H00&)}Ditari
+

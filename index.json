@@ -220,6 +220,20 @@
       "assFile": "ass/at-687997.sq.ass",
       "offset": 0,
       "sourceReleaseId": "687997"
+    },
+    {
+      "id": "at-687959",
+      "title": "Mushoku Tensei: Jobless Reincarnation Season 3",
+      "episode": "12",
+      "malId": 59193,
+      "anilistId": null,
+      "slugs": [
+        "mushoku-tensei-jobless-reincarnation-season-3"
+      ],
+      "file": "files/at-687959.sq.vtt",
+      "assFile": "ass/at-687959.sq.ass",
+      "offset": 0,
+      "sourceReleaseId": "687959"
     }
   ]
 }
