@@ -1,7 +1,7 @@
 {
   "version": 1,
   "language": "sq",
-  "updated": "2026-09-15",
+  "updated": "2026-09-16",
   "entries": [
     {
       "id": "liar-game-24",
@@ -190,6 +190,22 @@
       "sourceTitle": "Yoroi Shin Den Samurai Troopers",
       "part": 2,
       "numberingEvidence": "https://www.samurai-trooper.net/news/detail.php?cid=6&id=23809&offset=0"
+    },
+    {
+      "id": "at-688059",
+      "title": "Anime AzurLane: Slow Ahead! Season 2",
+      "episode": "11",
+      "malId": 56613,
+      "anilistId": 169080,
+      "slugs": [
+        "azur-lane-slow-ahead-season-2-ac697"
+      ],
+      "file": "files/at-688059.sq.vtt",
+      "assFile": "ass/at-688059.sq.ass",
+      "offset": 0,
+      "sourceReleaseId": "688059",
+      "sourceEpisode": "11",
+      "sourceTitle": "Azur Lane - Bisoku Zenshin! S2"
     }
   ]
 }

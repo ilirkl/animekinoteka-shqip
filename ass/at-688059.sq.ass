@@ -1,0 +1,163 @@
+﻿[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: DefaultTop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: DefaultOverlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: italicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashback italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashbackitalicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: overlaptop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: sign_64_2_SLOW_AHEAD_,Trebuchet MS,35,&H00A778E7,&H000000FF,&H00FFFFFF,&H00767E79,-1,0,0,0,100,100,0,0,1,4,2,8,30,30,20,1
+Style: sign_246_3_Episode_1_______,Trebuchet MS,9,&H00FFFFFF,&H000000FF,&H00C76BBE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,1,40,30,45,1
+Style: sign_TrebuchetMS,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_Verdana,Verdana,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_ComicSansMS,Comic Sans MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.00,0:00:04.98,sign_Verdana,Text,0,0,0,,{\c&H5A424F&\3c&HE4DC7B&\shad0\fad(2460,1)\fs40\pos(315,147)\fsp6}Azur Lane
+Dialogue: 0,0:00:00.00,0:00:04.98,sign_Verdana,Text,0,0,0,,{\c&H5A424F&\3c&H1E1E17&\bord4\shad0\fad(2460,1)\fs40\pos(315,147)\blur1\fsp6}Azur Lane
+Dialogue: 0,0:00:02.65,0:00:04.98,sign_64_2_SLOW_AHEAD_,Text,0,0,0,,{\t(1,1690,\fs34)\move(320,305,313,228,0,19)}SL{\c&H9E9DE8&}O{\c&H9F8FCC&}W {\c&H9658E1&}A{\c&HAEA4F4&}H{\c&HB69BD2&}E{\c&HAFACE2&}AD{\c&H9057EE&}! 2!!
+Dialogue: 0,0:00:00.79,0:00:04.53,italics,Javelin & Z23 & Ayanami & Laffey,0,0,0,,Azur Lane: Ngadalë përpara! 2.
+Dialogue: 0,0:00:07.57,0:00:12.41,sign_246_3_Episode_1_______,Text,0,0,0,,{\blur2\fad(1698,899)\fscx80\pos(192,316)}Episodi 11              {\fs19\fsp6}Do të doja të mos më duhej të qëlloja...
+Dialogue: 0,0:00:06.80,0:00:09.68,main,Javelin,0,0,0,,Hajde, hajde! Mund ta bësh edhe një!
+Dialogue: 0,0:00:10.86,0:00:12.69,main,Ayanami,0,0,0,,Kaq ishte për mua.
+Dialogue: 0,0:00:12.69,0:00:14.16,main,Javelin,0,0,0,,Shkëlqyeshëm! Të lumtë!
+Dialogue: 0,0:00:15.08,0:00:17.07,main,Z23,0,0,0,,Ishte një stërvitje e mirë.
+Dialogue: 0,0:00:27.26,0:00:29.05,main,Indiana,0,0,0,,Besoj se kaq ishte për sot.
+Dialogue: 0,0:00:29.05,0:00:31.64,main,Z23,0,0,0,,Vërtet mbresëlënëse, Indiana.
+Dialogue: 0,0:00:31.64,0:00:36.14,main,Indiana,0,0,0,,T'i kapërcesh kufijtë e tu është mjaft \Nngazëlluese. Duhet ta provosh ndonjëherë.
+Dialogue: 0,0:00:37.27,0:00:38.97,main,Laffey,0,0,0,,Duket shumë e rëndë.
+Dialogue: 0,0:00:38.97,0:00:41.56,main,Ayanami,0,0,0,,Sa kilogramë është?
+Dialogue: 0,0:00:41.56,0:00:45.74,main,Indiana,0,0,0,,Numrat nuk kanë rëndësi. \NDuhet të përballesh me veten.
+Dialogue: 0,0:00:45.74,0:00:48.36,main,Javelin,0,0,0,,E kuptoj. Të përballem me veten!
+Dialogue: 0,0:00:48.36,0:00:53.18,main,Indiana,0,0,0,,Po. Çlirohu nga mendimet e papastra \Ndhe përqendrohu vetëm te vetja.
+Dialogue: 0,0:00:53.18,0:00:55.87,main,Indiana,0,0,0,,Pastaj, natyrshëm, mendja \Ndhe trupi yt bëhen më të fortë,
+Dialogue: 0,0:00:55.87,0:00:57.83,main,Indiana,0,0,0,,duke të lejuar të tregohesh e mirë me—
+Dialogue: 0,0:00:56.31,0:00:57.83,main,Laffey,0,0,0,,Çfarë është kjo?
+Dialogue: 0,0:00:57.83,0:00:58.87,main,Indiana,0,0,0,,Prit, jo!
+Dialogue: 0,0:00:58.87,0:01:02.08,main,Indiana,0,0,0,,Ti je si një diell që nuk perëndon kurrë.
+Dialogue: 0,0:01:02.08,0:01:05.38,main,Indiana,0,0,0,,Unë shkëlqej në dritën tënde, si hëna—
+Dialogue: 0,0:01:06.54,0:01:07.60,main,Laffey,0,0,0,,A është kjo ndonjë shaka?
+Dialogue: 0,0:01:07.60,0:01:09.48,main,Ayanami,0,0,0,,Tingëllon më shumë si një letër dashurie...
+Dialogue: 0,0:01:09.48,0:01:11.57,main,Indiana,0,0,0,,Hej! Mos e lexo!
+Dialogue: 0,0:01:11.57,0:01:13.76,main,Javelin,0,0,0,,Pra, ajo po mendonte \Npër komandantin...
+Dialogue: 0,0:01:14.06,0:01:16.06,main,Pittsburg,0,0,0,,Punë të mbarë!
+Dialogue: 0,0:01:18.07,0:01:20.75,main,Pittsburg,0,0,0,,Po një lëng pas stërvitjes?
+Dialogue: 0,0:01:20.75,0:01:22.27,main,Z23,0,0,0,,Pittsburgh.
+Dialogue: 0,0:01:22.54,0:01:25.24,main,Ayanami,0,0,0,,Je dehur me lëng?
+Dialogue: 0,0:01:25.24,0:01:28.02,main,Pittsburg,0,0,0,,Hë? Çfarë do të thuash?
+Dialogue: 0,0:01:28.02,0:01:30.40,main,Laffey,0,0,0,,A nuk duhet të stërvitesh, Pittsburgh?
+Dialogue: 0,0:01:30.88,0:01:35.00,main,Pittsburg,0,0,0,,Jam në rregull. Po stërvitem me komandantin.
+Dialogue: 0,0:01:35.00,0:01:36.79,main,Javelin,0,0,0,,Të kam zili.
+Dialogue: 0,0:01:36.79,0:01:41.04,main,Pittsburg,0,0,0,,Komandanti po bëhet \Nmjaft këmbëngulës kohët e fundit.
+Dialogue: 0,0:01:41.38,0:01:44.08,main,Pittsburg,0,0,0,,Ndoshta do ta provoj teknikën time të re!
+Dialogue: 0,0:01:44.08,0:01:48.00,sign_ComicSansMS,Text,0,0,0,,{\move(300,90,505,90,1,232)\an9\fs40\fsp6\c&H040304&\3c&HF2E1EE&\shad0}Huaaaa...
+Dialogue: 0,0:01:45.54,0:01:48.00,main,Javelin,0,0,0,,Ç-Çfarë lloj stërvitjeje po bën ajo?!
+Dialogue: 0,0:01:48.00,0:01:51.87,main,Indiana,0,0,0,,Pittsburgh, mos i ngatërro vajzat \Nme historitë e tua të çuditshme.
+Dialogue: 0,0:01:52.51,0:01:55.10,main,Pittsburg,0,0,0,,Po flas vetëm për \Nteknikat e lojërave të fatit.
+Dialogue: 0,0:01:55.10,0:01:56.47,main,Javelin,0,0,0,,E kuptoj.
+Dialogue: 0,0:01:56.47,0:01:57.37,main,Laffey,0,0,0,,Pik.
+Dialogue: 0,0:01:59.84,0:02:01.87,main,Laffey,0,0,0,,Ua, sa e bëshme.
+Dialogue: 0,0:02:01.87,0:02:04.85,main,Indiana,0,0,0,,Po. Sezoni i shfaqjeve po afrohet.
+Dialogue: 0,0:02:04.85,0:02:05.99,main,Z23,0,0,0,,Shfaqjeve?
+Dialogue: 0,0:02:05.99,0:02:08.86,main,Pittsburg,0,0,0,,Union-i së shpejti do të vërë në skenë një shfaqje western.
+Dialogue: 0,0:02:09.20,0:02:11.44,main,Pittsburg,0,0,0,,Doni të bëjmë një vizitë paraprake?
+Dialogue: 0,0:02:12.25,0:02:13.99,main,Javelin & Z23,0,0,0,,Po!
+Dialogue: 0,0:02:12.25,0:02:13.99,overlap,Ayanami,0,0,0,,Do të vij!
+Dialogue: 0,0:02:12.25,0:02:13.99,top,Laffey,0,0,0,,Po vij!
+Dialogue: 0,0:02:16.49,0:02:18.36,main,Javelin,0,0,0,,Sa bukur!
+Dialogue: 0,0:02:18.36,0:02:20.24,main,Ayanami,0,0,0,,Edhe e lezetshme.
+Dialogue: 0,0:02:20.24,0:02:22.27,main,Z23,0,0,0,,Kjo veshje është pak e tepruar, por...
+Dialogue: 0,0:02:21.48,0:02:23.45,overlap,Pittsburg,0,0,0,,Oh, të gjithave ju rrinë bukur.
+Dialogue: 0,0:02:24.32,0:02:27.49,main,Javelin,0,0,0,,Edhe veshja jote është shumë e lezetshme, Pittsburgh!
+Dialogue: 0,0:02:27.49,0:02:28.88,main,Pittsburg,0,0,0,,Faleminderit.
+Dialogue: 0,0:02:30.02,0:02:31.77,main,Pittsburg,0,0,0,,Oh, pse u vonuat kaq shumë?
+Dialogue: 0,0:02:32.75,0:02:33.90,main,Pittsburg,0,0,0,,Fshihuni!
+Dialogue: 0,0:02:36.76,0:02:38.35,main,Pittsburg,0,0,0,,A jeni të gjitha mirë?!
+Dialogue: 0,0:02:38.35,0:02:39.36,main,Javelin,0,0,0,,P-Po!
+Dialogue: 0,0:02:39.36,0:02:40.93,main,Ayanami,0,0,0,,Çfarë po ndodh?
+Dialogue: 0,0:02:41.26,0:02:42.43,main,Laffey,0,0,0,,Më trembi.
+Dialogue: 0,0:02:45.35,0:02:46.69,main,Manjuu,0,0,0,,Ciu!
+Dialogue: 0,0:02:46.69,0:02:50.76,main,Pittsburg,0,0,0,,Oho. Çfarë kohe e papërshtatshme.
+Dialogue: 0,0:02:50.76,0:02:52.86,main,Javelin,0,0,0,,P-Për çfarë bëhet fjalë?!
+Dialogue: 0,0:02:52.86,0:02:54.07,main,Pittsburg,0,0,0,,S'ka kohë për shpjegime.
+Dialogue: 0,0:02:54.38,0:02:57.39,main,Pittsburg,0,0,0,,Tani, çfarë të bëj...
+Dialogue: 0,0:03:05.08,0:03:09.59,main,Indiana,0,0,0,,Më falni. E urrej të vonohem, por...
+Dialogue: 0,0:03:28.59,0:03:32.45,main,Pittsburg,0,0,0,,Dhe kështu zhvillohet shfaqja. \NSi ishte? E mirë?
+Dialogue: 0,0:03:32.45,0:03:34.38,main,Ayanami,0,0,0,,Ishte shumë e frikshme.
+Dialogue: 0,0:03:34.38,0:03:36.42,main,Laffey,0,0,0,,Më realiste nga sa mendoja...
+Dialogue: 0,0:03:36.42,0:03:38.48,main,Indiana,0,0,0,,Megjithatë, është e çuditshme...
+Dialogue: 0,0:03:39.35,0:03:42.99,main,Indiana,0,0,0,,Ata banditë nuk duhej \Ntë vinin këtu.
+Dialogue: 0,0:03:42.99,0:03:47.27,main,Pittsburg,0,0,0,,Po. Kjo duhej të ishte e pamundur.
+Dialogue: 0,0:03:47.27,0:03:50.14,main,Ayanami,0,0,0,,Duket se diçka po ndodh.
+Dialogue: 0,0:03:50.14,0:03:51.34,main,Laffey,0,0,0,,Telash?
+Dialogue: 0,0:03:51.59,0:03:53.46,main,Javelin,0,0,0,,Niimi, mos vallë kjo është...
+Dialogue: 0,0:03:53.46,0:03:55.97,main,Z23,0,0,0,,Po, mund të jetë vërtet...
+Dialogue: 0,0:03:56.65,0:03:59.97,main,Indiana,0,0,0,,Dikush po kurdis diçka.
+Dialogue: 0,0:03:59.97,0:04:00.94,main,Indiana,0,0,0,,Të shkojmë!
+Dialogue: 0,0:04:00.94,0:04:02.42,main,Girls,0,0,0,,P-Po!
+Dialogue: 0,0:04:04.60,0:04:06.94,main,Javelin,0,0,0,,A-A nuk po ecën tepër shpejt?!
+Dialogue: 0,0:04:06.94,0:04:09.10,main,Indiana,0,0,0,,Mos u shqetëso! Vetëm mbahu fort!
+Dialogue: 0,0:04:09.36,0:04:11.26,main,Ayanami,0,0,0,,Nuk po godas dot asgjë.
+Dialogue: 0,0:04:11.26,0:04:15.61,main,Pittsburg,0,0,0,,Merr shenjë mirë, sikur po përpiqesh \Nta godasësh komandantin drejt në zemër!
+Dialogue: 0,0:04:16.09,0:04:18.53,main,Laffey,0,0,0,,Indiana, je shumë e zonja.
+Dialogue: 0,0:04:19.31,0:04:21.12,main,Indiana,0,0,0,,Më mësoi komandanti.
+Dialogue: 0,0:04:24.15,0:04:26.60,main,Z23,0,0,0,,Më në fund ju kapëm!
+Dialogue: 0,0:04:26.60,0:04:28.37,main,Ayanami,0,0,0,,Mori fund për ju.
+Dialogue: 0,0:04:30.37,0:04:33.75,main,Indiana,0,0,0,,Tani na tregoni ku është truri i këtij plani.
+Dialogue: 0,0:04:36.10,0:04:38.41,main,Laffey,0,0,0,,Kush është aty?
+Dialogue: 0,0:04:42.04,0:04:44.41,main,Pittsburg,0,0,0,,Pra, më në fund e kuptuat.
+Dialogue: 0,0:04:45.07,0:04:46.68,main,Indiana,0,0,0,,Ishe ti.
+Dialogue: 0,0:04:47.00,0:04:52.35,main,Pittsburg,0,0,0,,Po. Gjithçka ishte \Nnë pëllëmbën e dorës sime.
+Dialogue: 0,0:04:52.61,0:04:54.26,main,Z23,0,0,0,,Oh, jo...
+Dialogue: 0,0:04:54.26,0:04:56.71,main,Indiana,0,0,0,,Nuk dua më \Nviktima të panevojshme.
+Dialogue: 0,0:04:57.60,0:04:58.90,main,Indiana,0,0,0,,Ta zgjidhim këtë, një kundër një.
+Dialogue: 0,0:05:00.11,0:05:01.55,main,Indiana,0,0,0,,A je gati?
+Dialogue: 0,0:05:01.55,0:05:05.26,main,Pittsburg,0,0,0,,Të njëjtën pyetje të bëj edhe unë. \NA gjete një arkivol të mirë?
+Dialogue: 0,0:05:05.26,0:05:08.62,main,Indiana,0,0,0,,Po, vetëm për ty.
+Dialogue: 0,0:05:36.95,0:05:38.28,main,Indiana,0,0,0,,Ta thashë.
+Dialogue: 0,0:05:38.88,0:05:41.96,main,Indiana,0,0,0,,Nëse nuk përballesh dot me veten, \Nnuk ke të ardhme.
+Dialogue: 0,0:05:42.27,0:05:43.53,main,Pittsburg,0,0,0,,Ke të drejtë.
+Dialogue: 0,0:05:43.53,0:05:47.28,main,Pittsburg,0,0,0,,Nuk arrita të besoja plotësisht te vetja.
+Dialogue: 0,0:05:48.00,0:05:53.17,main,Pittsburg,0,0,0,,Po shkoj përpara të shoh sa \Ni rehatshëm është arkivoli...
+Dialogue: 0,0:05:53.65,0:05:56.17,main,Indiana,0,0,0,,Do të doja të mos më duhej të qëlloja...
+Dialogue: 0,0:06:00.05,0:06:02.96,main,Javelin,0,0,0,,Pittsburgh!
+Dialogue: 0,0:06:09.01,0:06:11.08,main,Z23,0,0,0,,Çfarë është kjo?
+Dialogue: 0,0:06:11.08,0:06:13.19,main,Ayanami,0,0,0,,Xhirim filmi?
+Dialogue: 0,0:06:14.79,0:06:17.50,main,Pittsburg,0,0,0,,Në rregull! Punë të mbarë, të gjithëve!
+Dialogue: 0,0:06:17.94,0:06:20.73,main,Javelin,0,0,0,,P-Pittsburgh?! Gjaku yt!
+Dialogue: 0,0:06:20.73,0:06:24.48,main,Pittsburg,0,0,0,,Oh, ky? Është lëng domateje.
+Dialogue: 0,0:06:25.45,0:06:27.70,main,Z23,0,0,0,,D-Dhe ai shkëmbim zjarri?
+Dialogue: 0,0:06:28.02,0:06:29.52,main,Indiana,0,0,0,,Plumba gome.
+Dialogue: 0,0:06:30.08,0:06:32.38,main,Laffey,0,0,0,,Meowofficer-at dhe Manjuu-të...
+Dialogue: 0,0:06:32.38,0:06:34.08,main,Ayanami,0,0,0,,E dinin të gjithë?
+Dialogue: 0,0:06:34.45,0:06:36.41,main,Indiana & Pittsburg,0,0,0,,A nuk jua thamë?
+Dialogue: 0,0:06:39.84,0:06:43.30,main,Indiana,0,0,0,,Do të doja të mos më duhej të qëlloja...
+Dialogue: 0,0:06:45.63,0:06:47.98,main,Javelin,0,0,0,,Pittsburgh!
+Dialogue: 0,0:06:47.98,0:06:49.80,main,Ayanami,0,0,0,,Çfarë lëvdatash unanime.
+Dialogue: 0,0:06:50.83,0:06:54.23,main,Javelin,0,0,0,,Kam n-ndjenja kaq të përziera për këtë.
+Dialogue: 0,0:06:54.98,0:06:57.27,sign_TrebuchetMS,Text,0,0,0,,{\an8\pos(325,254)\c&H454545&\3c&HFEFDFF&\shad0\bord4}NGADALË PËRPARA 2
+Dialogue: 1,0:07:02.35,0:07:10.66,sign_Verdana,Text,0,0,0,,{\c&H5A424F&\3c&HE4DC7B&\shad0\fad(2460,1)\fs40\pos(315,147)\fsp6}Azur Lane
+Dialogue: 0,0:07:02.35,0:07:10.66,sign_Verdana,Text,0,0,0,,{\c&H5A424F&\3c&H1E1E17&\bord4\shad0\fad(2460,1)\fs40\pos(315,147)\blur1\fsp6}Azur Lane
+Dialogue: 0,0:07:05.32,0:07:10.66,sign_64_2_SLOW_AHEAD_,Text,0,0,0,,{\t(1,1690,\fs34)\move(320,305,313,228,0,19)}SL{\c&H9E9DE8&}O{\c&H9F8FCC&}W {\c&H9658E1&}A{\c&HAEA4F4&}H{\c&HB69BD2&}E{\c&HAFACE2&}AD{\c&H9057EE&}! 2!!
+Dialogue: 0,0:08:24.94,0:08:29.95,sign_246_3_Episode_1_______,Text,0,0,0,,{\blur2\fs14\fscx93\pos(408,321)}Ilustrimi i kartës së fundit:     {\fscx100\fsp1}Shin Chou
+
