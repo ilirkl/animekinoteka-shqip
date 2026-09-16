@@ -1,0 +1,327 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+PlayResX: 640
+WrapStyle: 0
+Video Aspect Ratio: 0
+Video Zoom: 8
+PlayResY: 360
+ScaledBorderAndShadow: yes
+
+[Aegisub Project Garbage]
+Audio File: ?video
+Video File: elusivesamurai-eps2-watermarked-mx-deDE-B.avi
+Video Position: 31675
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,1,1,15,0
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: On Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: DefaultLow,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:11.68,0:00:14.97,On Top,,0,0,0,,{\i1}kakero todoku made{\i0}
+Dialogue: 0,0:00:15.02,0:00:19.31,On Top,,0,0,0,,{\i1}kimi ni todoku made{\i0}
+Dialogue: 0,0:00:24.40,0:00:27.57,On Top,,0,0,0,,{\i1}aoku sunda unabara{\i0}
+Dialogue: 0,0:00:28.11,0:00:30.91,On Top,,0,0,0,,{\i1}kiseki no kakera{\i0}
+Dialogue: 0,0:00:31.70,0:00:37.20,On Top,,0,0,0,,{\i1}kazoekirenai hodo deaeta ne{\i0}
+Dialogue: 0,0:00:37.75,0:00:40.37,On Top,,0,0,0,,{\i1}susumu tabi susumu tabi{\i0}
+Dialogue: 0,0:00:40.42,0:00:44.21,On Top,,0,0,0,,{\i1}goru wa mada mienai mama{\i0}
+Dialogue: 0,0:00:44.25,0:00:47.76,On Top,,0,0,0,,{\i1}demo nandatte koerareru yo{\i0}
+Dialogue: 0,0:00:47.80,0:00:51.18,On Top,,0,0,0,,{\i1}sono egao mitai kara{\i0}
+Dialogue: 0,0:00:51.22,0:00:55.39,On Top,,0,0,0,,{\i1}mayoeba hikari ni nareya shinakatta{\i0}
+Dialogue: 0,0:00:55.43,0:00:58.98,On Top,,0,0,0,,{\i1}yowasa mo chanto tagayashita{\i0}
+Dialogue: 0,0:00:59.02,0:01:04.56,On Top,,0,0,0,,{\i1}hontou honki de ita bokura mada{\i0}
+Dialogue: 0,0:01:04.61,0:01:08.49,On Top,,0,0,0,,{\i1}kawaranai yo{\i0}
+Dialogue: 0,0:01:08.53,0:01:09.61,On Top,,0,0,0,,{\i1}kakero{\i0}
+Dialogue: 0,0:01:09.65,0:01:17.16,On Top,,0,0,0,,{\i1}todoku made kimi ni todoku made nee{\i0}
+Dialogue: 0,0:01:17.20,0:01:23.83,On Top,,0,0,0,,{\i1}densetsu miman datte joutou joutou{\i0}
+Dialogue: 0,0:01:23.88,0:01:30.30,On Top,,0,0,0,,{\i1}kirameku chizu itsuka waraeru hi made{\i0}
+Dialogue: 0,0:01:30.34,0:01:36.51,On Top,,0,0,0,,{\i1}mou mayoi wa nainda Fighter daijoubu{\i0}
+Dialogue: 0,0:21:34.13,0:21:37.80,On Top,,0,0,0,,{\i1}kenmei ni me wo korashite{\i0}
+Dialogue: 0,0:21:39.55,0:21:43.30,On Top,,0,0,0,,{\i1}genzaichi wo tashikameteiru{\i0}
+Dialogue: 0,0:21:44.76,0:21:49.31,On Top,,0,0,0,,{\i1}mousou to zetsubou ni nareta noumiso dewa{\i0}
+Dialogue: 0,0:21:49.35,0:21:52.60,On Top,,0,0,0,,{\i1}doushitatte chotto zurechimau ya{\i0}
+Dialogue: 0,0:21:53.23,0:21:57.02,On Top,,0,0,0,,{\i1}senmei ni ukandekuru no wa{\i0}
+Dialogue: 0,0:21:58.40,0:22:02.07,On Top,,0,0,0,,{\i1}itsudatte hidoi omoide de{\i0}
+Dialogue: 0,0:22:03.78,0:22:08.20,On Top,,0,0,0,,{\i1}kantan na taikutsu wo hiroiatsumete wa{\i0}
+Dialogue: 0,0:22:08.24,0:22:11.79,On Top,,0,0,0,,{\i1}dareka mitai ni nacchimaisou{\i0}
+Dialogue: 0,0:22:13.37,0:22:16.46,On Top,,0,0,0,,{\i1}ore ni niau mirai wa doredarou{\i0}
+Dialogue: 0,0:22:16.50,0:22:20.38,On Top,,0,0,0,,{\i1}koko kara jaa ikura me wo korashitemo{\i0}
+Dialogue: 0,0:22:20.42,0:22:22.84,On Top,,0,0,0,,{\i1}nanimo mie wa shinai sa{\i0}
+Dialogue: 0,0:22:22.88,0:22:26.30,On Top,,0,0,0,,{\i1}gyakufuu ni nokkatte{\i0}
+Dialogue: 0,0:22:26.35,0:22:29.18,On Top,,0,0,0,,{\i1}machigatta kuusou wo{\i0}
+Dialogue: 0,0:22:29.22,0:22:33.64,On Top,,0,0,0,,{\i1}kirisaita unmei no sakeme ni nagashikomu{\i0}
+Dialogue: 0,0:22:33.69,0:22:37.19,On Top,,0,0,0,,{\i1}daremo ga sou yatte{\i0}
+Dialogue: 0,0:22:37.23,0:22:41.74,On Top,,0,0,0,,{\i1}inochigake no genjitsu wo kasaneteirunda{\i0}
+Dialogue: 0,0:22:41.78,0:22:44.32,On Top,,0,0,0,,{\i1}negau hima mo nai hodo{\i0}
+Dialogue: 0,0:22:44.36,0:22:48.87,On Top,,0,0,0,,{\i1}sawagashii ashita ga kuru{\i0}
+Dialogue: 0,0:22:48.91,0:22:53.71,On Top,,0,0,0,,{\i1}sono mirai wa hora{\i0}
+Dialogue: 0,0:22:53.75,0:22:57.88,On Top,,0,0,0,,{\i1}ore no mon da yo{\i0}
+Dialogue: 0,0:00:08.68,0:00:11.68,Default,,0,0,0,,
+Dialogue: 0,0:00:11.68,0:00:14.97,Default,,0,0,0,,{\i1}Vrapo, derisa të arrijmë{\i0}
+Dialogue: 0,0:00:15.02,0:00:19.31,Default,,0,0,0,,{\i1}Derisa të arrijmë te ti{\i0}
+Dialogue: 0,0:00:24.40,0:00:27.57,Default,,0,0,0,,{\i1}Deti i hapur, blu e kthjellët{\i0}
+Dialogue: 0,0:00:28.11,0:00:30.91,Default,,0,0,0,,{\i1}Një thërrime mrekullie{\i0}
+Dialogue: 0,0:00:31.70,0:00:37.20,Default,,0,0,0,,{\i1}Kemi takuar më shumë\Nnga sa mund ta imagjinonim ndonjëherë{\i0}
+Dialogue: 0,0:00:37.75,0:00:40.37,Default,,0,0,0,,{\i1}Me çdo hap që hedhim në këtë udhëtim{\i0}
+Dialogue: 0,0:00:40.42,0:00:44.21,Default,,0,0,0,,{\i1}Synimi ende nuk duket{\i0}
+Dialogue: 0,0:00:44.25,0:00:47.76,Default,,0,0,0,,{\i1}Por ne mund të kapërcejmë gjithçka{\i0}
+Dialogue: 0,0:00:47.80,0:00:51.18,Default,,0,0,0,,{\i1}Vetëm për të parë buzëqeshjen tënde{\i0}
+Dialogue: 0,0:00:51.22,0:00:55.39,Default,,0,0,0,,{\i1}Po të lëkundeshim, nuk do të shkëlqenim{\i0}
+Dialogue: 0,0:00:55.43,0:00:58.98,Default,,0,0,0,,{\i1}Madje u përpoqëm t'i mundnim dobësitë tona{\i0}
+Dialogue: 0,0:00:59.02,0:01:04.56,Default,,0,0,0,,{\i1}Ne, që ishim vërtet të përkushtuar{\i0}
+Dialogue: 0,0:01:04.61,0:01:08.49,Default,,0,0,0,,{\i1}Kemi mbetur gjithmonë të njëjtët{\i0}
+Dialogue: 0,0:01:08.53,0:01:09.61,Default,,0,0,0,,{\i1}Vrapo{\i0}
+Dialogue: 0,0:01:09.65,0:01:17.16,Default,,0,0,0,,{\i1}Derisa të arrijmë\Nderisa të arrijmë te ti, hej{\i0}
+Dialogue: 0,0:01:17.20,0:01:23.83,Default,,0,0,0,,{\i1}Më pak se legjendarë?\NS'ka problem! Gjithçka mirë!{\i0}
+Dialogue: 0,0:01:23.88,0:01:30.30,Default,,0,0,0,,{\i1}Deri në ditën kur do të qeshim\Nndiq hartën që shkëlqen{\i0}
+Dialogue: 0,0:01:30.34,0:01:36.51,Default,,0,0,0,,{\i1}Pra, mjaft me ngurrim, luftëtar\Ngjithçka do të shkojë mirë{\i0}
+Dialogue: 0,0:01:42.69,0:01:49.40,Default,,0,0,0,,{\i1}"Mbroni Historinë dhe të Ardhmen —\NRobin dhe Gaban nisin sulmin"{\i0}
+Dialogue: 0,0:02:21.10,0:02:22.89,Default,,0,0,0,,Ç'është ajo?
+Dialogue: 0,0:02:23.52,0:02:25.69,Default,,0,0,0,,Kam një ndjenjë shumë të keqe për këtë.
+Dialogue: 0,0:02:40.79,0:02:42.29,Default,,0,0,0,,Një shigjetë?!
+Dialogue: 0,0:02:43.16,0:02:44.75,Default,,0,0,0,,Jo!
+Dialogue: 0,0:03:04.10,0:03:04.89,Default,,0,0,0,,Çfarë?
+Dialogue: 0,0:03:05.44,0:03:06.27,Default,,0,0,0,,Çfarë?!
+Dialogue: 0,0:03:06.98,0:03:08.86,Default,,0,0,0,,Çfarë? Çfarë? Çfarë?!
+Dialogue: 0,0:03:11.44,0:03:12.48,Default,,0,0,0,,Ronja?!
+Dialogue: 0,0:03:12.90,0:03:14.78,Default,,0,0,0,,Pse po shkon andej?!
+Dialogue: 0,0:03:14.90,0:03:17.82,Default,,0,0,0,,Nuk e di!\NKëmbët po më lëvizin vetë!
+Dialogue: 0,0:03:19.45,0:03:21.08,Default,,0,0,0,,Jo, Ronja!
+Dialogue: 0,0:03:21.20,0:03:22.45,Default,,0,0,0,,Kthehu!
+Dialogue: 0,0:03:22.83,0:03:25.96,Default,,0,0,0,,Ronja! Ç'po bën?!
+Dialogue: 0,0:03:26.42,0:03:28.83,Default,,0,0,0,,Ç'është kjo? Është e çuditshme!
+Dialogue: 0,0:03:29.38,0:03:32.59,Default,,0,0,0,,Do të biesh, Ronja! Jo!
+Dialogue: 0,0:03:33.21,0:03:35.34,Default,,0,0,0,,Ylva, mos qaj!
+Dialogue: 0,0:03:35.38,0:03:36.80,Default,,0,0,0,,Do të jem mirë!
+Dialogue: 0,0:03:38.64,0:03:40.76,Default,,0,0,0,,S'ka gjë! Mos u shqetëso!
+Dialogue: 0,0:03:40.80,0:03:44.02,Default,,0,0,0,,Gjithçka do të shkojë mirë!\NS'ka pse të shqetësohesh!
+Dialogue: 0,0:03:52.52,0:03:54.53,Default,,0,0,0,,Aspak nuk është mirë!
+Dialogue: 0,0:03:54.65,0:03:57.07,Default,,0,0,0,,Ronja! Atje poshtë është Nëntoka!
+Dialogue: 0,0:03:57.20,0:03:59.91,Default,,0,0,0,,Kthehu! Është e rrezikshme!
+Dialogue: 0,0:04:08.46,0:04:09.58,Default,,0,0,0,,U ndal!
+Dialogue: 0,0:04:34.86,0:04:38.49,Default,,0,0,0,,Sommers, e para është gati të bjerë.
+Dialogue: 0,0:04:38.61,0:04:42.82,Default,,0,0,0,,{\i1}Mirë! Le ta dëgjojë gjithë Elbaph-i\Nzërin e kalamajt.{\i0}
+Dialogue: 0,0:04:42.95,0:04:43.95,Default,,0,0,0,,Ronja!
+Dialogue: 0,0:04:44.08,0:04:46.54,Default,,0,0,0,,Kthehu, Ronja! Shpejt!
+Dialogue: 0,0:04:48.62,0:04:51.75,Default,,0,0,0,,Ronja! Kthehu!
+Dialogue: 0,0:04:53.08,0:04:54.29,Default,,0,0,0,,Ronja!
+Dialogue: 0,0:05:04.22,0:05:06.93,Default,,0,0,0,,Të gjithë! Mos u shqetësoni!
+Dialogue: 0,0:05:07.43,0:05:09.06,Default,,0,0,0,,{\i1}S'është gjë!{\i0}
+Dialogue: 0,0:05:09.52,0:05:13.27,Default,,0,0,0,,{\i1}S'është gjë! Jam mirë!{\i0}
+Dialogue: 0,0:05:17.07,0:05:19.90,Default,,0,0,0,,Mirë, e dëgjuat.
+Dialogue: 0,0:05:19.95,0:05:22.78,Default,,0,0,0,,Merrni një vendim njëherë.
+Dialogue: 0,0:05:22.82,0:05:27.12,Default,,0,0,0,,Përndryshe,\Ndo ta shtyjmë të parin fëmijë nga buza!
+Dialogue: 0,0:05:31.50,0:05:36.17,Default,,0,0,0,,Beardhill Jarul!\NJepu urdhrin mësuesve në shkollë!
+Dialogue: 0,0:05:37.50,0:05:39.42,Default,,0,0,0,,Ç'të bëjmë?!
+Dialogue: 0,0:05:39.92,0:05:41.76,Default,,0,0,0,,Si guxojnë ta bëjnë këtë!
+Dialogue: 0,0:05:41.88,0:05:43.72,Default,,0,0,0,,Ronja! Hej!
+Dialogue: 0,0:05:43.84,0:05:45.72,Default,,0,0,0,,Ronja!
+Dialogue: 0,0:06:05.24,0:06:08.83,Default,,0,0,0,,Biblioteka ruan fjalët e njerëzve\Nnga mijëra vjet më parë!
+Dialogue: 0,0:06:08.95,0:06:11.83,Default,,0,0,0,,Për çfarë po flet?!\NShpëtimi i jetëve vjen i pari!
+Dialogue: 0,0:06:11.96,0:06:13.62,Default,,0,0,0,,Kërkesat nuk janë problemi i vërtetë!
+Dialogue: 0,0:06:13.67,0:06:18.04,Default,,0,0,0,,Kjo është një zgjedhje vendimtare që do të përcaktojë\Nnëse Elbaph-i do t'u nënshtrohet që tani e tutje!
+Dialogue: 0,0:06:18.17,0:06:20.59,Default,,0,0,0,,Pra po thua\Nqë t'i lëmë fëmijët të vdesin?!
+Dialogue: 0,0:06:20.71,0:06:22.97,Default,,0,0,0,,Kjo është krejtësisht e papranueshme!
+Dialogue: 0,0:06:23.09,0:06:25.47,Default,,0,0,0,,A ka ndonjë afër vendngjarjes?!
+Dialogue: 0,0:06:25.51,0:06:28.22,Default,,0,0,0,,Ndaleni këtë lojë qesharake!
+Dialogue: 0,0:06:36.27,0:06:38.61,Default,,0,0,0,,Chopper, ti rri këtu.
+Dialogue: 0,0:06:38.73,0:06:40.86,Default,,0,0,0,,Çfarë? Po...
+Dialogue: 0,0:06:40.98,0:06:42.03,Default,,0,0,0,,E di.
+Dialogue: 0,0:06:42.07,0:06:46.03,Default,,0,0,0,,Nuk duhet t'i luftoj para se ta kuptoj\Nse cilat janë fuqitë e tyre.
+Dialogue: 0,0:06:46.16,0:06:47.53,Default,,0,0,0,,--Atëherë...\N--Po...!
+Dialogue: 0,0:06:49.62,0:06:52.66,Default,,0,0,0,,S'e mbaj dot më zemërimin!
+Dialogue: 0,0:06:53.62,0:06:58.79,Default,,0,0,0,,Sa i lig duhet të jesh\Nqë të marrësh drejt e fëmijë peng?!
+Dialogue: 0,0:06:58.84,0:07:02.88,Default,,0,0,0,,Dhe tani po shtyn një prej tyre nga shkëmbi?!\NJe çmendur?!
+Dialogue: 0,0:07:06.43,0:07:09.51,Default,,0,0,0,,Morali i përditshëm i juve insekteve\Nnuk më intereson fare.
+Dialogue: 0,0:07:09.64,0:07:11.10,Default,,0,0,0,,Ky copë...
+Dialogue: 0,0:07:11.22,0:07:14.81,Default,,0,0,0,,Ç'po bëjnë Luffy dhe të tjerët\Nnë një kohë si kjo?!
+Dialogue: 0,0:07:17.90,0:07:20.40,Default,,0,0,0,,Të nisemi!
+Dialogue: 0,0:07:26.61,0:07:27.57,Default,,0,0,0,,Gruaja...
+Dialogue: 0,0:07:27.70,0:07:28.70,Default,,0,0,0,,Dreqin...
+Dialogue: 0,0:07:51.51,0:07:52.97,Default,,0,0,0,,Franky...
+Dialogue: 0,0:07:53.01,0:07:55.14,Default,,0,0,0,,...Radical Beam!
+Dialogue: 0,0:08:01.48,0:08:02.69,Default,,0,0,0,,Franky!
+Dialogue: 0,0:08:04.78,0:08:07.61,Default,,0,0,0,,Të përdorësh fëmijët si levë?
+Dialogue: 0,0:08:07.65,0:08:09.61,Default,,0,0,0,,Ç'të poshtër të sëmurë!
+Dialogue: 0,0:08:09.74,0:08:12.03,Default,,0,0,0,,Franky, do të vij edhe unë!
+Dialogue: 0,0:08:12.16,0:08:15.29,Default,,0,0,0,,Po, sigurisht! Shko!
+Dialogue: 0,0:08:15.41,0:08:16.12,Default,,0,0,0,,Aha!
+Dialogue: 0,0:08:18.42,0:08:20.38,Default,,0,0,0,,Do të vijmë edhe ne!
+Dialogue: 0,0:08:21.38,0:08:23.46,Default,,0,0,0,,Ndahuni!\NNjë skuadër t'i luftojë përbindëshat...
+Dialogue: 0,0:08:24.42,0:08:25.71,Default,,0,0,0,,I dashur...
+Dialogue: 0,0:08:25.84,0:08:29.05,Default,,0,0,0,,...dhe një t'i shpëtojë fëmijët!
+Dialogue: 0,0:08:29.18,0:08:31.80,Default,,0,0,0,,Po!
+Dialogue: 0,0:08:31.93,0:08:33.22,Default,,0,0,0,,Merrni armët!
+Dialogue: 0,0:08:33.26,0:08:36.98,Default,,0,0,0,,As që bëhet fjalë të rrimë duarkryq\Ne t'i lëmë të huajt të bëjnë ç'të duan!
+Dialogue: 0,0:08:37.10,0:08:38.44,Default,,0,0,0,,--Merrni armët!\N--Vraponi!
+Dialogue: 0,0:08:38.56,0:08:40.15,Default,,0,0,0,,--Mos u tërhiqni!\N--Armët!
+Dialogue: 0,0:08:40.81,0:08:42.31,Default,,0,0,0,,--Ku?!\N--Dega 8!
+Dialogue: 0,0:08:42.44,0:08:43.57,Default,,0,0,0,,Do të vijmë edhe ne!
+Dialogue: 0,0:08:43.69,0:08:45.11,Default,,0,0,0,,--Na prisni!\N--Fëmijët!
+Dialogue: 0,0:08:45.65,0:08:48.61,Default,,0,0,0,,Ngrini velat!
+Dialogue: 0,0:08:50.20,0:08:51.11,Default,,0,0,0,,Shkojmë!
+Dialogue: 0,0:08:54.62,0:08:58.33,Default,,0,0,0,,Nxitoni te Rruga e Degës 8!
+Dialogue: 0,0:09:01.29,0:09:03.63,Default,,0,0,0,,Vraponi! Vraponi! Vraponi!
+Dialogue: 0,0:09:03.75,0:09:06.25,Default,,0,0,0,,Po vijmë, fëmijë!
+Dialogue: 0,0:09:09.34,0:09:10.72,Default,,0,0,0,,Ronja!
+Dialogue: 0,0:09:16.06,0:09:19.52,Default,,0,0,0,,Tani, kur ta digjni\Nshkollën dhe bibliotekën,
+Dialogue: 0,0:09:19.56,0:09:22.73,Default,,0,0,0,,asnjë libër i vetëm\Nnuk do të dalë nga ato ndërtesa!
+Dialogue: 0,0:09:22.77,0:09:25.82,Default,,0,0,0,,{\i1}Sepse ajo që duam të shohim të digjet...{\i0}
+Dialogue: 0,0:09:27.03,0:09:30.15,Default,,0,0,0,,...është kultura dhe historia juaj.
+Dialogue: 0,0:09:37.91,0:09:39.95,Default,,0,0,0,,Cien Fleurs!
+Dialogue: 0,0:09:41.79,0:09:43.12,Default,,0,0,0,,Craspedia!
+Dialogue: 0,0:10:00.77,0:10:02.02,Default,,0,0,0,,Robin!
+Dialogue: 0,0:10:02.14,0:10:04.98,Default,,0,0,0,,Robin-san, gëzohem që je mirë!
+Dialogue: 0,0:10:05.11,0:10:06.36,Default,,0,0,0,,Ki kujdes.
+Dialogue: 0,0:10:06.86,0:10:09.07,Default,,0,0,0,,Ende nuk e dimë\Nse çfarë janë në gjendje të bëjnë!
+Dialogue: 0,0:10:11.65,0:10:13.45,Default,,0,0,0,,Po, e di.
+Dialogue: 0,0:10:15.57,0:10:16.45,Default,,0,0,0,,Ti je...
+Dialogue: 0,0:10:23.71,0:10:25.08,Default,,0,0,0,,Cuatro Mano!
+Dialogue: 0,0:10:25.21,0:10:26.67,Default,,0,0,0,,Nico Ro...
+Dialogue: 0,0:10:26.79,0:10:27.75,Default,,0,0,0,,Clutch!
+Dialogue: 0,0:10:37.39,0:10:39.18,Default,,0,0,0,,Ia dole, Robin!
+Dialogue: 0,0:10:39.31,0:10:41.14,Default,,0,0,0,,Ia theve të gjitha kockat!
+Dialogue: 0,0:10:45.56,0:10:46.31,Default,,0,0,0,,Jo...
+Dialogue: 0,0:10:46.81,0:10:47.65,Default,,0,0,0,,Ende nuk ka mbaruar...
+Dialogue: 0,0:11:05.50,0:11:07.33,Default,,0,0,0,,Dreqin! Mos është edhe ai zombi?!
+Dialogue: 0,0:11:07.46,0:11:08.84,Default,,0,0,0,,Ç'kanë këta?!
+Dialogue: 0,0:11:13.55,0:11:16.89,Default,,0,0,0,,Uau! Vërtet bëtë shfaqje!
+Dialogue: 0,0:11:19.10,0:11:21.39,Default,,0,0,0,,Elbaph, a më dëgjon?
+Dialogue: 0,0:11:22.18,0:11:24.60,Default,,0,0,0,,Jarul, cila është përgjigjja jote?
+Dialogue: 0,0:11:26.35,0:11:29.73,Default,,0,0,0,,Janë të pavdekshëm. S'i mundim dot!
+Dialogue: 0,0:11:39.24,0:11:41.41,Default,,0,0,0,,Hoo-hoo, ç'po bën?!
+Dialogue: 0,0:11:41.45,0:11:43.08,Default,,0,0,0,,Mos je dashuruar me mua apo...
+Dialogue: 0,0:11:49.54,0:11:52.75,Default,,0,0,0,,Çfarë?!
+Dialogue: 0,0:12:20.53,0:12:21.87,Default,,0,0,0,,Ç'po bën, Robin?!
+Dialogue: 0,0:12:21.99,0:12:23.83,Default,,0,0,0,,S'ka mundësi! Po e merr me vete poshtë?!
+Dialogue: 0,0:12:26.12,0:12:27.87,Default,,0,0,0,,U hodhe!
+Dialogue: 0,0:12:27.91,0:12:29.96,Default,,0,0,0,,Do të vdesësh?! Hë?!
+Dialogue: 0,0:12:30.33,0:12:33.92,Default,,0,0,0,,Sado lajkatare të jetë kjo,\Nnuk dua të vdes me ty!
+Dialogue: 0,0:12:36.71,0:12:41.09,Default,,0,0,0,,E kuptoj që je i pavdekshëm\Ndhe ke fuqi me bazë gjembash.
+Dialogue: 0,0:12:42.14,0:12:44.51,Default,,0,0,0,,Nëse i heq qafe ato gjemba të padukshëm,
+Dialogue: 0,0:12:45.97,0:12:47.68,Default,,0,0,0,,mund t'i shpëtoj fëmijët!
+Dialogue: 0,0:12:50.19,0:12:51.44,Default,,0,0,0,,Oh...
+Dialogue: 0,0:12:51.90,0:12:57.40,Default,,0,0,0,,Pra mendove se po të më marrësh poshtë me ty,\Nfëmijët do të dalin nga rrezja ime!
+Dialogue: 0,0:12:58.11,0:13:00.11,Default,,0,0,0,,Ç'grua e zgjuar!
+Dialogue: 0,0:13:11.46,0:13:12.67,Default,,0,0,0,,Çfarë?!
+Dialogue: 0,0:13:13.92,0:13:14.88,Default,,0,0,0,,U zhduk!
+Dialogue: 0,0:13:17.01,0:13:21.30,Default,,0,0,0,,Më paska luajtur gjithë kohës!
+Dialogue: 0,0:13:39.61,0:13:42.49,Default,,0,0,0,,Robin, je fantastike! Më bën të dridhem!
+Dialogue: 0,0:13:45.32,0:13:46.95,Default,,0,0,0,,Oh, jo! S'e pres dot!
+Dialogue: 0,0:13:48.16,0:13:52.08,Default,,0,0,0,,Kështu mendova. Sado fort ta tërheq,\Nas që lëviz.
+Dialogue: 0,0:13:52.46,0:13:57.38,Default,,0,0,0,,Si gjembat, e vetmja mënyrë për t'i zgjidhur\Nështë ta rrëzosh atë grua që na lidhi.
+Dialogue: 0,0:13:59.34,0:14:00.84,Default,,0,0,0,,{\i1}A ju duhet...{\i0}
+Dialogue: 0,0:14:01.47,0:14:02.68,Default,,0,0,0,,...një numërim mbrapsht?
+Dialogue: 0,0:14:04.51,0:14:05.72,Default,,0,0,0,,Zëri i atij tipi!
+Dialogue: 0,0:14:13.44,0:14:14.77,Default,,0,0,0,,Ma jep përgjigjen.
+Dialogue: 0,0:14:19.28,0:14:20.74,Default,,0,0,0,,Jarul!
+Dialogue: 0,0:14:26.62,0:14:27.95,Default,,0,0,0,,Hej, Gunko!
+Dialogue: 0,0:14:27.99,0:14:29.79,Default,,0,0,0,,{\i1}Lëri ta dëgjojnë zërin e kalamajt!{\i0}
+Dialogue: 0,0:14:34.71,0:14:35.46,Default,,0,0,0,,Hej.
+Dialogue: 0,0:14:43.09,0:14:44.55,Default,,0,0,0,,Thuaj diçka.
+Dialogue: 0,0:15:02.44,0:15:03.90,Default,,0,0,0,,Kryeplak Jarul!
+Dialogue: 0,0:15:11.83,0:15:15.12,Default,,0,0,0,,Ronja! Ronja!
+Dialogue: 0,0:15:20.63,0:15:21.59,Default,,0,0,0,,Unë...
+Dialogue: 0,0:15:25.13,0:15:26.80,Default,,0,0,0,,...e dua shkollën!
+Dialogue: 0,0:15:27.39,0:15:29.55,Default,,0,0,0,,{\i1}Sepse atje kam shokë!{\i0}
+Dialogue: 0,0:15:29.68,0:15:30.93,Default,,0,0,0,,Ronja!
+Dialogue: 0,0:15:31.31,0:15:33.18,Default,,0,0,0,,Vajza jonë!
+Dialogue: 0,0:15:34.89,0:15:36.94,Default,,0,0,0,,E dua edhe bibliotekën!
+Dialogue: 0,0:15:39.81,0:15:41.69,Default,,0,0,0,,{\i1}Sepse librat më mësojnë...{\i0}
+Dialogue: 0,0:15:42.65,0:15:45.11,Default,,0,0,0,,{\i1}...kaq shumë për botën!{\i0}
+Dialogue: 0,0:15:50.74,0:15:55.75,Default,,0,0,0,,{\i1}Në shkollë,\Nkëtë mësova nga mësuesit e mi!{\i0}
+Dialogue: 0,0:16:00.71,0:16:04.63,Default,,0,0,0,,Nuk duhet t'u shkaktosh telashe\Nnjerëzve të tjerë!
+Dialogue: 0,0:16:07.97,0:16:11.68,Default,,0,0,0,,Nuk duhet të bësh gjëra\Nqë i hidhërojnë njerëzit!
+Dialogue: 0,0:16:12.72,0:16:16.43,Default,,0,0,0,,{\i1}Nëse shkolla dhe biblioteka zhduken...{\i0}
+Dialogue: 0,0:16:16.81,0:16:20.02,Default,,0,0,0,,{\i1}...vetëm që të mos bie unë...{\i0}
+Dialogue: 0,0:16:22.94,0:16:26.07,Default,,0,0,0,,{\i1}mendoj se kjo do t'i hidhëronte të gjithë...{\i0}
+Dialogue: 0,0:16:30.78,0:16:32.87,Default,,0,0,0,,Është nxënëse e mirë.
+Dialogue: 0,0:16:37.21,0:16:38.37,Default,,0,0,0,,Ronja!
+Dialogue: 0,0:16:38.41,0:16:40.75,Default,,0,0,0,,Mos!
+Dialogue: 0,0:16:46.46,0:16:47.51,Default,,0,0,0,,Unë...
+Dialogue: 0,0:17:01.77,0:17:03.11,Default,,0,0,0,,Mendoj...
+Dialogue: 0,0:17:03.77,0:17:06.36,Default,,0,0,0,,...se është më mirë të bie unë!
+Dialogue: 0,0:17:10.28,0:17:12.37,Default,,0,0,0,,Çfarë po thua?!
+Dialogue: 0,0:17:12.49,0:17:14.33,Default,,0,0,0,,Ronja!
+Dialogue: 0,0:17:20.25,0:17:22.88,Default,,0,0,0,,Do t'ju jap edhe 30 sekonda!
+Dialogue: 0,0:17:22.92,0:17:24.75,Default,,0,0,0,,Nëse s'vendosni deri atëherë...
+Dialogue: 0,0:17:26.71,0:17:29.55,Default,,0,0,0,,kalamani bie drejt e poshtë!
+Dialogue: 0,0:17:35.72,0:17:36.97,Default,,0,0,0,,{\i1}Kryeplak Jarul!{\i0}
+Dialogue: 0,0:17:40.56,0:17:42.94,Default,,0,0,0,,Mos u shqetësoni për mua!
+Dialogue: 0,0:17:44.86,0:17:46.07,Default,,0,0,0,,Unë...
+Dialogue: 0,0:17:47.90,0:17:49.99,Default,,0,0,0,,...kam qenë gjithmonë me fat, prandaj...
+Dialogue: 0,0:17:52.41,0:17:55.07,Default,,0,0,0,,Do të jem mirë!
+Dialogue: 0,0:17:58.79,0:18:00.41,Default,,0,0,0,,Edhe dhjetë sekonda.
+Dialogue: 0,0:18:00.54,0:18:01.62,Default,,0,0,0,,Ronja...
+Dialogue: 0,0:18:01.75,0:18:03.33,Default,,0,0,0,,Kaq ishte?
+Dialogue: 0,0:18:08.46,0:18:09.88,Default,,0,0,0,,Edhe pesë sekonda.
+Dialogue: 0,0:18:11.26,0:18:12.13,Default,,0,0,0,,Katër.
+Dialogue: 0,0:18:13.93,0:18:14.76,Default,,0,0,0,,Tre.
+Dialogue: 0,0:18:19.22,0:18:20.35,Default,,0,0,0,,Dy.
+Dialogue: 0,0:18:24.69,0:18:26.27,Default,,0,0,0,,Një!
+Dialogue: 0,0:18:26.65,0:18:28.90,Default,,0,0,0,,Ange!
+Dialogue: 0,0:18:32.99,0:18:34.41,Default,,0,0,0,,{\i1}Vini zjarrin...{\i0}
+Dialogue: 0,0:18:35.03,0:18:37.37,Default,,0,0,0,,...shkollës!
+Dialogue: 0,0:18:38.45,0:18:39.79,Default,,0,0,0,,Kryeplak Jarul!
+Dialogue: 0,0:18:44.17,0:18:45.79,Default,,0,0,0,,{\i1}Digjeni...{\i0}
+Dialogue: 0,0:18:46.79,0:18:49.59,Default,,0,0,0,,{\i1}...bibliotekën.{\i0}
+Dialogue: 0,0:19:04.44,0:19:05.60,Default,,0,0,0,,{\i1}Po, zotëri...{\i0}
+Dialogue: 0,0:19:15.74,0:19:16.36,Default,,0,0,0,,Robin-san!
+Dialogue: 0,0:19:24.33,0:19:25.16,Default,,0,0,0,,Robin!
+Dialogue: 0,0:19:32.34,0:19:35.63,Default,,0,0,0,,Vërtet ma hodhe më parë.
+Dialogue: 0,0:19:35.68,0:19:38.01,Default,,0,0,0,,Ti insekt i mallkuar.
+Dialogue: 0,0:19:39.43,0:19:41.31,Default,,0,0,0,,Robin, ik!
+Dialogue: 0,0:19:41.35,0:19:42.64,Default,,0,0,0,,Bëj diçka!
+Dialogue: 0,0:19:46.39,0:19:49.23,Default,,0,0,0,,Ti u sjell vetëm mjerim njerëzve përreth.
+Dialogue: 0,0:19:49.61,0:19:52.07,Default,,0,0,0,,As gjallë nuk duhet të ishe.
+Dialogue: 0,0:19:52.57,0:19:53.53,Default,,0,0,0,,Apo jo?
+Dialogue: 0,0:19:54.32,0:19:55.78,Default,,0,0,0,,Fëmija Demon.
+Dialogue: 0,0:19:55.90,0:19:56.70,Default,,0,0,0,,Robin!
+Dialogue: 0,0:20:04.33,0:20:06.29,Default,,0,0,0,,Ç'fytyrë e bukur!
+Dialogue: 0,0:20:06.33,0:20:07.29,Default,,0,0,0,,Nico Robin!
+Dialogue: 0,0:20:37.32,0:20:39.24,Default,,0,0,0,,Dreqin! Ç'ishte ajo?!
+Dialogue: 0,0:20:39.28,0:20:41.28,Default,,0,0,0,,Hë?! Nuk po rritet sërish!
+Dialogue: 0,0:20:45.87,0:20:46.95,Default,,0,0,0,,Ç'po ndodh...
+Dialogue: 0,0:20:47.08,0:20:47.96,Default,,0,0,0,,Hej.
+Dialogue: 0,0:20:51.21,0:20:53.25,Default,,0,0,0,,Ka kohë.
+Dialogue: 0,0:20:53.38,0:20:54.30,Default,,0,0,0,,Ti je...
+Dialogue: 0,0:20:54.80,0:20:56.88,Default,,0,0,0,,...Scopper Gaban!
+Dialogue: 0,0:21:34.13,0:21:37.80,Default,,0,0,0,,{\i1}Ja ku jam duke i sforcuar të dy sytë{\i0}
+Dialogue: 0,0:21:39.55,0:21:43.30,Default,,0,0,0,,{\i1}Dhe duke parë ku po qëndroj tani{\i0}
+Dialogue: 0,0:21:44.76,0:21:49.31,Default,,0,0,0,,{\i1}Me trurin e brejtur\Nnga gjithë iluzioni dhe dëshpërimi{\i0}
+Dialogue: 0,0:21:49.35,0:21:52.60,Default,,0,0,0,,{\i1}Gjithmonë jam pak jashtë binarëve disi{\i0}
+Dialogue: 0,0:21:53.23,0:21:57.02,Default,,0,0,0,,{\i1}Gjërat që më dalin gjallë para syve{\i0}
+Dialogue: 0,0:21:58.40,0:22:02.07,Default,,0,0,0,,{\i1}Janë gjithmonë kujtimet mizore{\i0}
+Dialogue: 0,0:22:03.78,0:22:08.20,Default,,0,0,0,,{\i1}Mbledh copëzat\Ne mërzisë së thjeshtë të jetës sime{\i0}
+Dialogue: 0,0:22:08.24,0:22:11.79,Default,,0,0,0,,{\i1}Mund të kthehem në dikë tjetër veç vetes{\i0}
+Dialogue: 0,0:22:13.37,0:22:16.46,Default,,0,0,0,,{\i1}Pyes veten cila e ardhme\Ndo t'i shkonte dikujt si unë tani{\i0}
+Dialogue: 0,0:22:16.50,0:22:20.38,Default,,0,0,0,,{\i1}Që tani e tutje\Nsado fort të përpiqem t'i sforcoj sytë{\i0}
+Dialogue: 0,0:22:20.42,0:22:22.84,Default,,0,0,0,,{\i1}Prapë nuk do të shoh asgjë{\i0}
+Dialogue: 0,0:22:22.88,0:22:26.30,Default,,0,0,0,,{\i1}Po i hipi erës së kundërt{\i0}
+Dialogue: 0,0:22:26.35,0:22:29.18,Default,,0,0,0,,{\i1}E derdh në çarjen e fatit{\i0}
+Dialogue: 0,0:22:29.22,0:22:33.64,Default,,0,0,0,,{\i1}Ndërsa i copëtoj të gjitha fantazitë e rreme{\i0}
+Dialogue: 0,0:22:33.69,0:22:37.19,Default,,0,0,0,,{\i1}Dhe të gjithë{\i0}
+Dialogue: 0,0:22:37.23,0:22:41.74,Default,,0,0,0,,{\i1}po grumbullojnë realitetin e tyre jetë a vdekje\Ngjithë kohës, pikërisht kështu{\i0}
+Dialogue: 0,0:22:41.78,0:22:44.32,Default,,0,0,0,,{\i1}Pastaj e nesërmja vjen shumë e zhurmshme{\i0}
+Dialogue: 0,0:22:44.36,0:22:48.87,Default,,0,0,0,,{\i1}Pa lënë kohë as për t'u lutur{\i0}
+Dialogue: 0,0:22:48.91,0:22:53.71,Default,,0,0,0,,{\i1}Dhe ajo e ardhme që shohim{\i0}
+Dialogue: 0,0:22:53.75,0:22:57.88,Default,,0,0,0,,{\i1}E gjitha më përket mua{\i0}
+Dialogue: 0,0:23:04.30,0:23:08.35,Default,,0,0,0,,{\i1}Kapelet e Kashtës janë të palëvizshme\Nnga fuqitë e Kalorësve të Zotit.{\i0}
+Dialogue: 0,0:23:08.39,0:23:14.06,Default,,0,0,0,,{\i1}Ndërsa Elbaph-i shtyhet drejt greminës,\NKrahu i Majtë i Mbretit të Piratëve kundërsulmon!{\i0}
+Dialogue: 0,0:23:14.56,0:23:16.06,Default,,0,0,0,,{\i1}Në rrugën e tij qëndron Shenjtori Sommers.{\i0}
+Dialogue: 0,0:23:16.69,0:23:20.32,Default,,0,0,0,,{\i1}Dhe Gunko zbulon\Ndobësinë fatale të Gabanit!{\i0}
+Dialogue: 0,0:23:20.44,0:23:21.86,Default,,0,0,0,,Në episodin e ardhshëm të ONE PIECE!
+Dialogue: 0,0:23:21.90,0:23:25.15,Default,,0,0,0,,"Një sekondë jetë a vdekje —\NGaban kundër Kalorësve të Zotit"
+Dialogue: 0,0:23:25.20,0:23:30.62,Default,,0,0,0,,Do të bëhem Mbreti i Piratëve!
+

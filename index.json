@@ -262,6 +262,23 @@
       "assFile": "ass/at-688010.sq.ass",
       "offset": 0,
       "sourceReleaseId": "688010"
+    },
+    {
+      "id": "at-688038",
+      "title": "One Piece",
+      "episode": "1178",
+      "malId": 21,
+      "anilistId": null,
+      "slugs": [
+        "one-piece-odmau"
+      ],
+      "file": "files/at-688038.sq.vtt",
+      "assFile": "ass/at-688038.sq.ass",
+      "offset": 0,
+      "sourceReleaseId": "688038",
+      "sourceEpisode": "1178",
+      "sourceTitle": "One Piece",
+      "numberingEvidence": "https://anikototv.to/watch/one-piece-odmau"
     }
   ]
 }
