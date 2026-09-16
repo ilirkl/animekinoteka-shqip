@@ -1,0 +1,349 @@
+﻿[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+YCbCr Matrix: TV.601
+
+[Aegisub Project Garbage]
+Audio File: CR_GoodbyeLara_S1.0E11.0_GBYSIM0011_378262_video_ja-jp_J9044100.mp4
+Video File: CR_GoodbyeLara_S1.0E11.0_GBYSIM0011_378262_video_ja-jp_J9044100.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 2.500000
+Active Line: 11
+Video Position: 781
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Default Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Italics Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Overlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Overlap Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Boxing Club Sign,Trebuchet MS,14,&H00101632,&H000000FF,&H00253B56,&H00000000,0,0,0,0,100,100,0,0,3,2,0,9,147,408,40,1
+Style: Large Date Signs,Verdana,28,&H00F0F9F9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,156,354,28,1
+Style: Tournament Sign,Times New Roman,26,&H00FFFEFB,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,131,133,257,1
+Style: Tournament Sign Finals,Times New Roman,25,&H00FFFEFB,&H000000FF,&H00BD8E62,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,94,90,257,1
+Style: Blue Bubble Signs,Trebuchet MS,23,&H00F8FEFE,&H000000FF,&H00E48D1E,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,10,364,20,1
+Style: Pink Bubble Signs,Trebuchet MS,23,&H007551EA,&H000000FF,&H00DFDEFE,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,10,493,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.87,0:00:02.83,Flashback,YOUNG GRACE,0,0,0,,Uf.
+Dialogue: 0,0:00:03.54,0:00:06.34,Flashback,YOUNG GRACE,0,0,0,,Jam ngopur me këtë kështjellë mbytëse.
+Dialogue: 0,0:00:06.81,0:00:08.89,Flashback,YOUNG GRACE,0,0,0,,Dua të dal fshehurazi që këtu
+Dialogue: 0,0:00:09.24,0:00:11.24,Flashback,YOUNG GRACE,0,0,0,,dhe të shoh një botë krejt të re.
+Dialogue: 0,0:00:11.53,0:00:13.74,Flashback,YOUNG GRACE,0,0,0,,Prandaj do të shkoj në sipërfaqe.
+Dialogue: 0,0:00:13.74,0:00:14.90,Flashback,YOUNG RIGMOR,0,0,0,,Në sipërfaqe?
+Dialogue: 0,0:00:14.90,0:00:16.15,Flashback,YOUNG GRACE,0,0,0,,Pikërisht.
+Dialogue: 0,0:00:16.15,0:00:21.23,Flashback,YOUNG GRACE,0,0,0,,Atje jetojnë qenie të quajtura "njerëz" \Nme shumë më tepër liri nga ç'kemi ne.
+Dialogue: 0,0:00:21.63,0:00:24.48,Flashback,YOUNG GRACE,0,0,0,,Njerëzit kanë do gjëra të çuditshme \Nqë quhen "këmbë".
+Dialogue: 0,0:00:24.48,0:00:28.03,Flashback,YOUNG GRACE,0,0,0,,Dhe dëgjova se pa to nuk notojnë dot \Natje lart, në sipërfaqe.
+Dialogue: 0,0:00:28.03,0:00:30.81,Flashback,YOUNG RIGMOR,0,0,0,,Po si shkohet atje?
+Dialogue: 0,0:00:32.55,0:00:34.71,Flashback,YOUNG RIGMOR,0,0,0,,Një botë e re, hë?
+Dialogue: 0,0:00:34.71,0:00:36.89,Flashback,YOUNG RIGMOR,0,0,0,,Sa ëndërr e bukur.
+Dialogue: 0,0:00:37.87,0:00:42.06,Flashback,YOUNG RIGMOR,0,0,0,,Do të doja ta shihja edhe unë atë botë \Nme sytë e mi.
+Dialogue: 0,0:00:42.53,0:00:43.77,Flashback,YOUNG RIGMOR,0,0,0,,Kjo ëndrra jote...
+Dialogue: 0,0:00:44.39,0:00:45.30,Flashback,YOUNG RIGMOR,0,0,0,,Grace.
+Dialogue: 0,0:00:45.73,0:00:47.52,Flashback,YOUNG GRACE,0,0,0,,Pikërisht, Rigmor.
+Dialogue: 0,0:00:47.85,0:00:49.27,Flashback,YOUNG GRACE,0,0,0,,Një ditë do të shkojmë atje.
+Dialogue: 0,0:00:50.30,0:00:53.05,Flashback,YOUNG GRACE,0,0,0,,Kjo është ëndrra jonë e re.
+Dialogue: 0,0:00:59.03,0:01:00.41,Default,SEA SERPENT,0,0,0,,Do të shkojmë më tej...
+Dialogue: 0,0:01:02.12,0:01:06.33,Default,SEA SERPENT,0,0,0,,Poshtë, në thellësitë më të thella.
+Dialogue: 0,0:02:39.67,0:02:40.51,Default,SEA SERPENT,0,0,0,,Zgjohu.
+Dialogue: 0,0:02:45.52,0:02:47.89,Default,SEA SERPENT,0,0,0,,Po na mbaron koha.
+Dialogue: 0,0:02:48.81,0:02:49.88,Default,SEA SERPENT,0,0,0,,Ndiqmë.
+Dialogue: 0,0:02:53.21,0:02:55.10,Default,MARI,0,0,0,,Ç'është ky vend?
+Dialogue: 0,0:02:57.24,0:03:00.91,Default,SEA SERPENT,0,0,0,,Janë dhomat e fshehta të zonjës Grace.
+Dialogue: 0,0:03:03.17,0:03:04.33,Default,MARI,0,0,0,,Ç'është kjo?
+Dialogue: 0,0:03:04.71,0:03:06.57,Default,SEA SERPENT,0,0,0,,Pasqyra Magjike.
+Dialogue: 0,0:03:06.57,0:03:09.79,Default,SEA SERPENT,0,0,0,,Për mua s'vlen, sepse jam e verbër...
+Dialogue: 0,0:03:10.26,0:03:12.92,Default,SEA SERPENT,0,0,0,,Por ti duhet të jesh në gjendje ta shohësh.
+Dialogue: 0,0:03:13.37,0:03:17.09,Default,SEA SERPENT,0,0,0,,Botën që dëshiron aq shumë të shohësh.
+Dialogue: 0,0:03:19.19,0:03:20.78,Flashback,ELDERLY WOMAN,0,0,0,,Ku janë?
+Dialogue: 0,0:03:20.78,0:03:23.61,Flashback,ELDERLY WOMAN,0,0,0,,Ku shkuan Grace dhe Rigmor?
+Dialogue: 0,0:03:24.17,0:03:26.54,Flashback,ELDERLY WOMAN,0,0,0,,Oh, ato binjake...
+Dialogue: 0,0:03:26.54,0:03:29.39,Flashback,ELDERLY WOMAN,0,0,0,,Nuk e kuptojnë\Nse janë princesha,
+Dialogue: 0,0:03:29.85,0:03:34.88,Flashback,ELDERLY WOMAN,0,0,0,,dhe se duhet t'i sjellin dritë\Nkëtij pallati sa më shpejt.
+Dialogue: 0,0:03:35.37,0:03:37.30,Flashback,ELDERLY WOMAN,0,0,0,,Sidomos ajo Grace...
+Dialogue: 0,0:03:37.30,0:03:40.53,Flashback,ELDERLY WOMAN,0,0,0,,Nuk ka as më të voglin \Nnijet të më dëgjojë.
+Dialogue: 0,0:03:40.85,0:03:41.82,Flashback,ELDERLY WOMAN,0,0,0,,Vetëm dje,
+Dialogue: 0,0:03:42.11,0:03:44.82,Flashback,ELDERLY WOMAN,0,0,0,,jo vetëm që hyri me forcë në thesar
+Dialogue: 0,0:03:44.82,0:03:47.61,Flashback,ELDERLY WOMAN,0,0,0,,por preku edhe \NRelikjen e Ndaluar!
+Dialogue: 0,0:03:48.08,0:03:50.17,Flashback,ELDERLY WOMAN,0,0,0,,Çfarë ka në mendje, vallë?
+Dialogue: 0,0:03:50.17,0:03:53.12,Flashback,YOUNG ROWAN,0,0,0,,Mund të mos duket ashtu, \Npor Grace është vërtet e menduar.
+Dialogue: 0,0:03:53.46,0:03:57.19,Flashback,YOUNG ROWAN,0,0,0,,Besoj se edhe ky pallat ka nevojë \Npër një princeshë si ajo.
+Dialogue: 0,0:03:57.19,0:03:59.96,Flashback,ELDERLY WOMAN,0,0,0,,Rowan, mos fol marrëzira.
+Dialogue: 0,0:04:00.42,0:04:04.46,Flashback,ELDERLY WOMAN,0,0,0,,Mendime të tilla të liga \Nvetëm sa e largojnë dritën.
+Dialogue: 0,0:04:05.31,0:04:06.62,Flashback,YOUNG GRACE,0,0,0,,Shiko, Rigmor.
+Dialogue: 0,0:04:06.93,0:04:09.97,Flashback,YOUNG GRACE,0,0,0,,I dalin dy shkopinj \Nnga mesi i këmbëve të tij.
+Dialogue: 0,0:04:10.78,0:04:12.81,Flashback,YOUNG GRACE,0,0,0,,Ky ndoshta është njeri.
+Dialogue: 0,0:04:13.55,0:04:16.11,Flashback,RIGMOR,0,0,0,,Pse ka dy pendë në shpinë?
+Dialogue: 0,0:04:16.52,0:04:19.01,Flashback,RIGMOR,0,0,0,,Ato nuk e ndihmojnë të notojë.
+Dialogue: 0,0:04:19.01,0:04:20.19,Flashback,RIGMOR,0,0,0,,Pse janë aty?
+Dialogue: 0,0:04:20.19,0:04:21.24,Flashback,YOUNG GRACE,0,0,0,,Kush e di?
+Dialogue: 0,0:04:21.87,0:04:26.49,Flashback,YOUNG GRACE,0,0,0,,Por njerëzit duket se janë prej atyre \Nqë provojnë gjithçka.
+Dialogue: 0,0:04:26.77,0:04:30.49,Flashback,YOUNG GRACE,0,0,0,,Edhe ne, populli i detit, duhet ta kemi \Natë lloj kureshtjeje.
+Dialogue: 0,0:04:30.90,0:04:34.00,Flashback,YOUNG GRACE,0,0,0,,Prandaj dua të dal \Nnga ky pallat sa më shpejt...
+Dialogue: 0,0:04:34.42,0:04:36.59,Flashback,YOUNG GRACE,0,0,0,,për ta bërë ëndrrën tonë realitet.
+Dialogue: 0,0:04:37.29,0:04:38.61,Flashback,YOUNG GRACE,0,0,0,,Pra, dëgjo!
+Dialogue: 0,0:04:38.61,0:04:40.56,Flashback,YOUNG GRACE,0,0,0,,Gjeta një mënyrë si ta realizojmë!
+Dialogue: 0,0:04:40.56,0:04:43.38,Flashback,YOUNG ROWAN,0,0,0,,Më intereson ta dëgjoj, Grace.
+Dialogue: 0,0:04:43.38,0:04:44.60,Flashback,RIGMOR,0,0,0,,Rowan!
+Dialogue: 0,0:04:45.10,0:04:47.49,Flashback,YOUNG GRACE,0,0,0,,Ah, ti qenke, Rowani qaraman.
+Dialogue: 0,0:04:47.84,0:04:49.64,Flashback,YOUNG ROWAN,0,0,0,,Dukesh në humor të keq.
+Dialogue: 0,0:04:49.86,0:04:52.65,Flashback,YOUNG GRACE,0,0,0,,Sepse i tregove plakës!
+Dialogue: 0,0:04:52.65,0:04:54.64,Flashback,RIGMOR,0,0,0,,Rowani është në anën tënde.
+Dialogue: 0,0:04:54.95,0:04:58.27,Flashback,RIGMOR,0,0,0,,Edhe ai shqetësohet njësoj për pallatin tonë.
+Dialogue: 0,0:04:58.97,0:05:03.67,Flashback,YOUNG ROWAN,0,0,0,,Pallati ynë po humbet dritën dhe \Npo ftohet me çdo ditë që kalon.
+Dialogue: 0,0:05:03.67,0:05:05.68,Flashback,YOUNG ROWAN,0,0,0,,Nuk mund të vazhdojë të ekzistojë kështu.
+Dialogue: 0,0:05:06.73,0:05:12.49,Flashback,YOUNG ROWAN,0,0,0,,Prandaj të admiroj që \Nkërkon një botë përtej pallatit.
+Dialogue: 0,0:05:14.17,0:05:15.40,Flashback,YOUNG GRACE,0,0,0,,Nuk më pëlqen.
+Dialogue: 0,0:05:15.84,0:05:16.70,Flashback,YOUNG ROWAN,0,0,0,,Çfarë the?
+Dialogue: 0,0:05:18.42,0:05:20.46,Flashback Italics,YOUNG GRACE,0,0,0,,Nuk po e bëj këtë për pallatin...
+Dialogue: 0,0:05:20.94,0:05:27.56,Flashback Italics,YOUNG GRACE,0,0,0,,Unë... unë vetë e ndiej dritën... \Nëndrrën në sipërfaqe.
+Dialogue: 0,0:05:34.01,0:05:35.20,Flashback,ELDERLY WOMAN,0,0,0,,Mbreti...!
+Dialogue: 0,0:05:46.83,0:05:48.81,Flashback,ELDERLY WOMAN,0,0,0,,Duhet të nxitojmë.
+Dialogue: 0,0:05:49.26,0:05:51.53,Flashback,ELDERLY WOMAN,0,0,0,,Froni është bosh,
+Dialogue: 0,0:05:51.53,0:05:54.66,Flashback,ELDERLY WOMAN,0,0,0,,dhe fuqia e princeshës \Nka kohë që është humbur.
+Dialogue: 0,0:05:55.16,0:05:58.47,Flashback,ELDERLY WOMAN,0,0,0,,Kështu, pallati ynë nuk ka të ardhme.
+Dialogue: 0,0:05:59.49,0:06:05.07,Flashback,ELDERLY WOMAN,0,0,0,,Fati i tij tani është në duart e tua... \NGjeje dritën e dashurisë së vërtetë.
+Dialogue: 0,0:06:05.41,0:06:08.31,Flashback,ELDERLY WOMAN,0,0,0,,Duhet ta gjesh pa vonesë!
+Dialogue: 0,0:06:10.44,0:06:12.26,Flashback,YOUNG GRACE,0,0,0,,Është aq mbytëse. S'e duroj dot.
+Dialogue: 0,0:06:12.75,0:06:14.97,Flashback,YOUNG GRACE,0,0,0,,Plaka dhe të gjithë në kështjellë...
+Dialogue: 0,0:06:15.45,0:06:18.27,Flashback,YOUNG GRACE,0,0,0,,Na i imponojnë vazhdimisht të gjitha detyrimet.
+Dialogue: 0,0:06:19.05,0:06:20.51,Flashback,YOUNG GRACE,0,0,0,,Jam ngopur me këtë.
+Dialogue: 0,0:06:20.92,0:06:26.03,Flashback,YOUNG GRACE,0,0,0,,Duhet të ikim shpejt që këtu \Ndhe ta bëjmë ëndrrën tonë realitet.
+Dialogue: 0,0:06:27.84,0:06:30.40,Flashback,RIGMOR,0,0,0,,Grace, në të vërtetë...
+Dialogue: 0,0:06:34.80,0:06:36.04,Flashback,RIGMOR,0,0,0,,Ç'është ajo?
+Dialogue: 0,0:06:36.47,0:06:39.54,Flashback,YOUNG GRACE,0,0,0,,Është një eliksir që na kthen \Nne, popullin e detit, në njerëz.
+Dialogue: 0,0:06:41.21,0:06:42.97,Flashback,YOUNG GRACE,0,0,0,,Më në fund e gjeta.
+Dialogue: 0,0:06:42.97,0:06:45.67,Flashback,YOUNG GRACE,0,0,0,,Thellë brenda pallatit, \Nnë një vend të ndaluar.
+Dialogue: 0,0:06:46.75,0:06:49.43,Flashback,YOUNG GRACE,0,0,0,,Është një eliksir i fuqishëm që mund \Ntë ndryshojë vetë formën e jetës.
+Dialogue: 0,0:06:49.67,0:06:53.05,Flashback,YOUNG GRACE,0,0,0,,Por me të, mund ta bëjmë \Nrealitet ëndrrën për të jetuar në tokë.
+Dialogue: 0,0:06:54.48,0:06:55.93,Flashback,YOUNG GRACE,0,0,0,,Le të shkojmë! Bashkë...
+Dialogue: 0,0:06:56.58,0:06:58.68,Flashback,YOUNG GRACE,0,0,0,,Që ëndrra jonë të bëhet e vërtetë!
+Dialogue: 0,0:07:09.52,0:07:10.42,Flashback,YOUNG GRACE,0,0,0,,Pse ngurron?
+Dialogue: 0,0:07:11.13,0:07:13.11,Flashback,YOUNG GRACE,0,0,0,,Për shkak të detyrës sate si princeshë?
+Dialogue: 0,0:07:13.69,0:07:15.58,Flashback,RIGMOR,0,0,0,,Jo... Është...
+Dialogue: 0,0:07:16.50,0:07:17.58,Flashback,RIGMOR,0,0,0,,Është sepse...
+Dialogue: 0,0:07:17.85,0:07:20.78,Flashback,RIGMOR,0,0,0,,Unë u dashurova me të.
+Dialogue: 0,0:07:21.10,0:07:22.52,Flashback,RIGMOR,0,0,0,,Me Rowanin.
+Dialogue: 0,0:07:24.35,0:07:25.70,Flashback,RIGMOR,0,0,0,,Ja pse...
+Dialogue: 0,0:07:26.62,0:07:28.81,Flashback,RIGMOR,0,0,0,,Do të vazhdoj \Ntë jetoj me këtë pallat.
+Dialogue: 0,0:07:30.01,0:07:31.96,Flashback,YOUNG GRACE,0,0,0,,Pra, më gënjeve.
+Dialogue: 0,0:07:33.82,0:07:39.33,Flashback,YOUNG GRACE,0,0,0,,Vetëm unë mendoja \Nse ndanim të njëjtën ëndërr për jetën në tokë.
+Dialogue: 0,0:07:39.96,0:07:40.98,Flashback,RIGMOR,0,0,0,,Jo!
+Dialogue: 0,0:07:40.98,0:07:42.48,Flashback,RIGMOR,0,0,0,,Nuk është e vërtetë, Grace!
+Dialogue: 0,0:07:47.20,0:07:48.40,Flashback,YOUNG GRACE,0,0,0,,Epo, unë po shkoj.
+Dialogue: 0,0:07:53.49,0:07:56.37,Flashback,RIGMOR,0,0,0,,Mos harro, Grace.
+Dialogue: 0,0:07:56.91,0:07:58.32,Flashback,RIGMOR,0,0,0,,Ëndrra jote...
+Dialogue: 0,0:07:59.05,0:08:02.62,Flashback,RIGMOR,0,0,0,,Drita që kërkon... është e bukur.
+Dialogue: 0,0:08:03.70,0:08:04.66,Flashback,YOUNG GRACE,0,0,0,,Është.
+Dialogue: 0,0:08:05.87,0:08:07.38,Flashback,YOUNG GRACE,0,0,0,,Por tani,
+Dialogue: 0,0:08:07.38,0:08:09.93,Flashback,YOUNG GRACE,0,0,0,,është vetëm ëndrra ime.
+Dialogue: 0,0:08:27.10,0:08:31.21,Flashback Italics,YOUNG GRACE,0,0,0,,Ku po shkoj?
+Dialogue: 0,0:08:37.29,0:08:38.51,Default,LISA,0,0,0,,Baba...
+Dialogue: 0,0:08:39.66,0:08:41.13,Default,LISA,0,0,0,,Çfarë duhej të kishim bërë?
+Dialogue: 0,0:08:41.65,0:08:45.92,Default,LISA,0,0,0,,Jeta në sipërfaqe ia ka \Nnjollosur zemrën Larës.
+Dialogue: 0,0:08:46.41,0:08:50.28,Default,LISA,0,0,0,,Sikur shtriga të mos i kishte dhënë këmbë...
+Dialogue: 0,0:08:51.27,0:08:54.88,Default,ROWAN,0,0,0,,Lara duhet të mësojë çfarë duhet të bëjë.
+Dialogue: 0,0:09:26.05,0:09:27.41,Flashback Italics,YOUNG GRACE,0,0,0,,E bukur.
+Dialogue: 0,0:09:29.94,0:09:33.93,Flashback,RIGMOR,0,0,0,,Të dua, Rowan.
+Dialogue: 0,0:09:43.79,0:09:44.95,Flashback,MERMAN A,0,0,0,,Ka dritë!
+Dialogue: 0,0:09:44.95,0:09:46.06,Flashback,MERMAID A,0,0,0,,Dritë!
+Dialogue: 0,0:09:49.06,0:09:51.22,Flashback,MERMAID B,0,0,0,,Është drita e princeshës!
+Dialogue: 0,0:09:54.32,0:09:59.70,Flashback,MERMAN B,0,0,0,,Zonja Rigmor e ka gjetur \Ndashurinë e vërtetë me zotin Rowan!
+Dialogue: 0,0:10:00.23,0:10:03.05,Flashback,MERMAN C,0,0,0,,Lind një princeshë e re!
+Dialogue: 0,0:10:05.60,0:10:06.71,Flashback,LUCIAN,0,0,0,,E dashura ime.
+Dialogue: 0,0:10:07.93,0:10:09.96,Flashback,LUCIAN,0,0,0,,Dua të të sjell gëzim të madh,
+Dialogue: 0,0:10:10.79,0:10:12.73,Flashback,LUCIAN,0,0,0,,lulja ime e bukur në lulëzim.
+Dialogue: 0,0:10:13.71,0:10:15.44,Flashback Italics,YOUNG GRACE,0,0,0,,Sa njeri i bukur.
+Dialogue: 0,0:10:15.85,0:10:18.22,Flashback Italics,YOUNG GRACE,0,0,0,,Arsyeja pse erdha këtu...
+Dialogue: 0,0:10:18.55,0:10:21.77,Flashback Italics,YOUNG GRACE,0,0,0,,është të ndjek një dritë të ndritshme.
+Dialogue: 0,0:10:23.54,0:10:26.73,Flashback Italics,YOUNG GRACE,0,0,0,,Dritën e dashurisë që ndihet vetëm...
+Dialogue: 0,0:10:27.21,0:10:28.65,Flashback Italics,YOUNG GRACE,0,0,0,,thellë në zemrën time.
+Dialogue: 0,0:10:31.29,0:10:35.86,Flashback,YOUNG ROWAN,0,0,0,,Tani drita mbush çdo cep \Ntë pallatit, duke shkëlqyer fort,
+Dialogue: 0,0:10:36.78,0:10:39.36,Flashback,YOUNG ROWAN,0,0,0,,dhe princesha të reja kanë \Nnisur të lulëzojnë me jetë.
+Dialogue: 0,0:10:40.47,0:10:42.51,Flashback,YOUNG ROWAN,0,0,0,,Shikoje këtë pamje.
+Dialogue: 0,0:10:42.51,0:10:45.30,Flashback,RIGMOR,0,0,0,,Po. Është vërtet e bukur.
+Dialogue: 0,0:10:45.30,0:10:48.87,Flashback,RIGMOR,0,0,0,,Shpresoj që kjo dritë të vazhdojë \Ntë shkëlqejë përgjithmonë.
+Dialogue: 0,0:10:49.26,0:10:52.18,Flashback,RIGMOR,0,0,0,,Për gjithë popullin e detit.
+Dialogue: 0,0:10:54.00,0:10:55.93,Flashback,YOUNG ROWAN,0,0,0,,Po, edhe unë.
+Dialogue: 0,0:10:58.05,0:11:02.69,Flashback,SERVANT,0,0,0,,Zonja Rigmor thotë se \Nzonja Grace iku për shkakun e saj.
+Dialogue: 0,0:11:02.69,0:11:05.35,Flashback,ELDERLY WOMAN,0,0,0,,Ishin binjake, të pandara \Nqë në fillim.
+Dialogue: 0,0:11:05.35,0:11:06.89,Flashback,ELDERLY WOMAN,0,0,0,,Duhet të jetë e dhimbshme.
+Dialogue: 0,0:11:07.38,0:11:10.64,Flashback,ELDERLY WOMAN,0,0,0,,Por tani, nuk do të takohen kurrë më.
+Dialogue: 0,0:11:11.45,0:11:14.91,Flashback,ELDERLY WOMAN,0,0,0,,Ne jemi qenie që jetojmë me dritën.
+Dialogue: 0,0:11:14.91,0:11:19.65,Flashback,ELDERLY WOMAN,0,0,0,,Kurse njerëzit janë qenie që jetojnë me fjalët.
+Dialogue: 0,0:11:19.65,0:11:23.79,Flashback,ELDERLY WOMAN,0,0,0,,Njerëzit e hedhin poshtë gjithçka që \Nnuk shprehet dot me fjalë.
+Dialogue: 0,0:11:24.41,0:11:27.16,Flashback,ELDERLY WOMAN,0,0,0,,Për një sirenë që guxon \Ntë dalë në sipërfaqe,
+Dialogue: 0,0:11:27.50,0:11:29.80,Flashback,ELDERLY WOMAN,0,0,0,,e pret vetëm një fat.
+Dialogue: 0,0:11:37.42,0:11:40.31,Flashback,LUCIAN,0,0,0,,Ç'të ndodhi?
+Dialogue: 0,0:11:42.17,0:11:46.45,Flashback,LUCIAN,0,0,0,,Më ke mashtruar gjithë këtë kohë?
+Dialogue: 0,0:11:46.78,0:11:49.61,Flashback,LUCIAN,0,0,0,,Duke fshehur atë formën tënde të tmerrshme?
+Dialogue: 0,0:11:49.61,0:11:51.12,Flashback,YOUNG GRACE,0,0,0,,J-Jo! Kurrë nuk do të—
+Dialogue: 0,0:11:51.12,0:11:52.06,Flashback,LUCIAN,0,0,0,,Mbylle gojën!
+Dialogue: 0,0:11:52.80,0:11:56.87,Flashback,LUCIAN,0,0,0,,Sirenat janë përbindësha që \Nna manipulojnë me fjalët e tyre të ëmbla.
+Dialogue: 0,0:11:56.87,0:11:59.07,Flashback,YOUNG GRACE,0,0,0,,Jo... Jo!
+Dialogue: 0,0:11:59.07,0:12:00.69,Flashback,YOUNG GRACE,0,0,0,,Unë vërtet të...
+Dialogue: 0,0:12:00.93,0:12:03.29,Flashback,LUCIAN,0,0,0,,Ti as zemër njeriu nuk ke!
+Dialogue: 0,0:12:03.29,0:12:04.07,Flashback,YOUNG GRACE,0,0,0,,Jo!
+Dialogue: 0,0:12:04.07,0:12:05.45,Flashback,YOUNG GRACE,0,0,0,,Jo!
+Dialogue: 0,0:12:05.45,0:12:07.60,Flashback,YOUNG GRACE,0,0,0,,Unë jam njeri!
+Dialogue: 0,0:12:07.60,0:12:08.58,Flashback,LUCIAN,0,0,0,,Mjaft më!
+Dialogue: 0,0:12:08.87,0:12:12.61,Flashback,LUCIAN,0,0,0,,Mos i përdor fjalët tona, përbindësh i shëmtuar.
+Dialogue: 0,0:12:25.76,0:12:26.81,Flashback,RIGMOR,0,0,0,,Grace...
+Dialogue: 0,0:12:27.97,0:12:29.19,Flashback,MAN A,0,0,0,,Gjeni atë grua!
+Dialogue: 0,0:12:29.19,0:12:30.81,Flashback,MAN B,0,0,0,,Mblidhni ushtarët!
+Dialogue: 0,0:12:30.81,0:12:31.98,Flashback,MAN C,0,0,0,,Zgjoni peshkatarët!
+Dialogue: 0,0:12:40.61,0:12:42.64,Flashback,YOUNG GRACE,0,0,0,,Çfarë kam...
+Dialogue: 0,0:12:43.49,0:12:44.61,Flashback,YOUNG GRACE,0,0,0,,Jo...
+Dialogue: 0,0:12:45.93,0:12:47.07,Flashback,YOUNG GRACE,0,0,0,,Jo...
+Dialogue: 0,0:12:48.02,0:12:50.47,Flashback,YOUNG GRACE,0,0,0,,Çfarë kam bërë?!
+Dialogue: 0,0:13:09.61,0:13:11.35,Flashback,MAN D,0,0,0,,Hej! E gjeta!
+Dialogue: 0,0:13:12.93,0:13:14.84,Flashback,MAN E,0,0,0,,Ç'është ai përbindësh?
+Dialogue: 0,0:13:15.16,0:13:16.42,Flashback,MAN F,0,0,0,,Sa i llahtarshëm!
+Dialogue: 0,0:13:16.42,0:13:17.35,Flashback,MAN F,0,0,0,,Vriteni!
+Dialogue: 0,0:13:17.35,0:13:18.37,Flashback,MAN G,0,0,0,,Bëjeni!
+Dialogue: 0,0:13:22.39,0:13:23.43,Flashback,MAN H,0,0,0,,Vriteni!
+Dialogue: 0,0:13:25.11,0:13:25.97,Flashback,MAN I,0,0,0,,Ecni!
+Dialogue: 0,0:13:44.52,0:13:45.69,Flashback,YOUNG GRACE,0,0,0,,Rigmor?
+Dialogue: 0,0:13:46.20,0:13:48.15,Flashback,YOUNG GRACE,0,0,0,,A është ëndërr kjo?
+Dialogue: 0,0:13:48.48,0:13:50.64,Flashback,RIGMOR,0,0,0,,Jo, kjo nuk është ëndërr.
+Dialogue: 0,0:13:52.17,0:13:54.64,Flashback,RIGMOR,0,0,0,,Dëgjova zërin nga zemra jote,
+Dialogue: 0,0:13:55.34,0:13:57.91,Flashback,RIGMOR,0,0,0,,dhe ndoqa dritën e unazës.
+Dialogue: 0,0:13:59.11,0:14:02.29,Flashback,YOUNG GRACE,0,0,0,,Unë... unë...!
+Dialogue: 0,0:14:07.63,0:14:08.83,Flashback,YOUNG GRACE,0,0,0,,Unë jam...
+Dialogue: 0,0:14:12.00,0:14:14.39,Flashback,YOUNG GRACE,0,0,0,,Sa budallaqe që jam!
+Dialogue: 0,0:14:14.39,0:14:15.41,Flashback,RIGMOR,0,0,0,,Grace...
+Dialogue: 0,0:14:16.76,0:14:19.37,Flashback,RIGMOR,0,0,0,,Edhe unë jam budallaqe.
+Dialogue: 0,0:14:19.86,0:14:23.17,Flashback,RIGMOR,0,0,0,,Veprova pa menduar...
+Dialogue: 0,0:14:24.17,0:14:26.19,Flashback,RIGMOR,0,0,0,,Thjesht u sula këtu vetëm.
+Dialogue: 0,0:14:26.90,0:14:29.32,Flashback,YOUNG GRACE,0,0,0,,Ishte një dëshirë që \Nnuk mund të plotësohej kurrë.
+Dialogue: 0,0:14:29.92,0:14:34.32,Flashback,YOUNG GRACE,0,0,0,,Erdha këtu, por gjithçka shkoi kot!
+Dialogue: 0,0:14:35.45,0:14:36.46,Flashback,RIGMOR,0,0,0,,Jo...
+Dialogue: 0,0:14:37.17,0:14:38.97,Flashback,RIGMOR,0,0,0,,Ende e shoh me sytë e mi...
+Dialogue: 0,0:14:39.48,0:14:43.69,Flashback,RIGMOR,0,0,0,,Bukurinë tënde dhe ëndrrën tënde të bukur.
+Dialogue: 0,0:14:44.58,0:14:45.54,Flashback,RIGMOR,0,0,0,,E shoh.
+Dialogue: 0,0:14:46.94,0:14:52.22,Flashback,RIGMOR,0,0,0,,Nuk ka rëndësi\Nnëse është në tokë a në det.
+Dialogue: 0,0:14:52.82,0:14:56.81,Flashback,RIGMOR,0,0,0,,Sa kohë që mund të jetosh për dashurinë,
+Dialogue: 0,0:14:57.27,0:15:03.21,Flashback,RIGMOR,0,0,0,,mund të gjesh dritë...\Nkudo që të jesh.
+Dialogue: 0,0:15:06.73,0:15:10.34,Flashback,RIGMOR,0,0,0,,Ëndrra... jonë...
+Dialogue: 0,0:15:35.11,0:15:39.44,Default,ROWAN,0,0,0,,Nuk do ta harroj kurrë atë pamje
+Dialogue: 0,0:15:39.44,0:15:45.96,Default,ROWAN,0,0,0,,as urrejtjen time të pashuar për shtrigën \Ndhe për ata njerëz.
+Dialogue: 0,0:15:46.75,0:15:48.99,Default,ROWAN,0,0,0,,Vendosa një ligj.
+Dialogue: 0,0:15:49.31,0:15:53.32,Default,ROWAN,0,0,0,,Dekretova që askush të mos \Nu afrohej më kurrë njerëzve
+Dialogue: 0,0:15:54.07,0:15:57.64,Default,ROWAN,0,0,0,,dhe e dëbova shtrigën.
+Dialogue: 0,0:15:58.22,0:16:01.61,Default,ROWAN,0,0,0,,Ishte pikërisht ai mall për sipërfaqen \Nqë solli shtrigën
+Dialogue: 0,0:16:01.61,0:16:03.53,Default,ROWAN,0,0,0,,dhe atë tragjedi.
+Dialogue: 0,0:16:04.14,0:16:09.75,Default,ROWAN,0,0,0,,Prandaj, duhet ta çliroj edhe zemrën tënde \Nnga obsesioni i saj.
+Dialogue: 0,0:16:10.22,0:16:15.03,Default,ROWAN,0,0,0,,Ky është ligji sipas të cilit ne, populli i detit, \Nduhet të jetojmë, Lara!
+Dialogue: 0,0:16:19.54,0:16:21.43,Default,SEA SERPENT,0,0,0,,Mos e kthe shikimin.
+Dialogue: 0,0:16:21.43,0:16:25.29,Default,SEA SERPENT,0,0,0,,Ajo pasqyrë vë në provë zemrën \Ne atij që shikon në të.
+Dialogue: 0,0:16:25.99,0:16:30.10,Default,SEA SERPENT,0,0,0,,Shikoje deri në fund... të gjithën.
+Dialogue: 0,0:16:33.03,0:16:35.33,Flashback Top,WOMAN A,0,0,0,,Sikur të mos ishte ajo shtriga e mallkuar...
+Dialogue: 0,0:16:36.25,0:16:38.75,Flashback Top,MAN B,0,0,0,,Por do të ngrihet sërish një princeshë e re!
+Dialogue: 0,0:16:38.75,0:16:41.06,Flashback Top,MAN C,0,0,0,,Bindjuni zotit Rowan!
+Dialogue: 0,0:16:41.06,0:16:43.47,Flashback Top,MAN D,0,0,0,,Princesha e re ka lindur!
+Dialogue: 0,0:16:41.45,0:16:42.60,Flashback,YOUNG LUNA,0,0,0,,Vërtet prej këtu vijmë?
+Dialogue: 0,0:16:42.60,0:16:43.64,Flashback,YOUNG LISA,0,0,0,,Është sirenë blu.
+Dialogue: 0,0:16:43.64,0:16:44.40,Flashback Top,YOUNG LUNA,0,0,0,,Jo, e kuqe!
+Dialogue: 0,0:16:44.40,0:16:47.23,Flashback Top,LAURA,0,0,0,,Ndaluni, ju të dyja. Babai po shikon.
+Dialogue: 0,0:16:43.47,0:16:44.74,Flashback,ROWAN,0,0,0,,Shikoni, bijat e mia!
+Dialogue: 0,0:16:44.74,0:16:48.71,Flashback,ROWAN,0,0,0,,Ka lindur princesha jonë e gjashtë, Lara.
+Dialogue: 0,0:16:49.85,0:16:51.00,Flashback,LARA,0,0,0,,Vërtet nuk e di...
+Dialogue: 0,0:16:51.47,0:16:55.21,Flashback,LARA,0,0,0,,A janë vërtet njerëzit krijesa kaq të ulëta?
+Dialogue: 0,0:17:01.29,0:17:03.59,Flashback,SEA SERPENT,0,0,0,,Zonja Grace, ai eliksir...
+Dialogue: 0,0:17:03.59,0:17:04.58,Flashback,GRACE,0,0,0,,Po.
+Dialogue: 0,0:17:05.31,0:17:07.33,Flashback,GRACE,0,0,0,,Thjesht dua ta shoh.
+Dialogue: 0,0:17:07.33,0:17:11.84,Flashback,GRACE,0,0,0,,Fundin e historisë së një sirene budallaqe.
+Dialogue: 0,0:17:33.18,0:17:34.38,Flashback,SEA SERPENT,0,0,0,,Zonja Grace...
+Dialogue: 0,0:17:36.07,0:17:37.03,Flashback,GRACE,0,0,0,,Po pse?
+Dialogue: 0,0:17:41.40,0:17:42.32,Flashback,GRACE,0,0,0,,Ti.
+Dialogue: 0,0:17:42.32,0:17:43.10,Flashback,SEA SERPENT,0,0,0,,Po.
+Dialogue: 0,0:17:43.67,0:17:47.25,Flashback,GRACE,0,0,0,,Shko në sipërfaqe dhe mblidhe atë shkumë.
+Dialogue: 0,0:17:47.69,0:17:48.44,Flashback,SEA SERPENT,0,0,0,,Shkumën?
+Dialogue: 0,0:17:48.81,0:17:50.46,Flashback,GRACE,0,0,0,,Mos lër as edhe një pikë!
+Dialogue: 0,0:17:50.87,0:17:52.50,Flashback,GRACE,0,0,0,,Mblidhe të gjithën!
+Dialogue: 0,0:17:53.32,0:17:54.05,Flashback Italics,GRACE,0,0,0,,Lara.
+Dialogue: 0,0:17:55.05,0:18:00.50,Flashback Italics,GRACE,0,0,0,,Ti flijove jetën tënde\Npër të mbrojtur atë që do.
+Dialogue: 0,0:18:01.20,0:18:06.28,Flashback Italics,GRACE,0,0,0,,Ti arrite ta refuzoje atë teh,\Nqë kërkon shpagim për një zemër të thyer.
+Dialogue: 0,0:18:07.19,0:18:08.27,Flashback Italics,GRACE,0,0,0,,Po si?
+Dialogue: 0,0:18:08.99,0:18:13.81,Flashback Italics,GRACE,0,0,0,,Ndërkohë, unë vrava atë\Nqë doja, me lotët e mi.
+Dialogue: 0,0:18:15.16,0:18:17.33,Flashback Italics,GRACE,0,0,0,,Cili është ndryshimi mes nesh?
+Dialogue: 0,0:18:28.65,0:18:32.25,Flashback,RIGMOR,0,0,0,,Sa kohë që mund të jetosh për dashurinë...
+Dialogue: 0,0:18:35.04,0:18:36.17,Flashback,RIGMOR,0,0,0,,Grace.
+Dialogue: 0,0:18:41.05,0:18:42.19,Flashback Italics,GRACE,0,0,0,,Jo ende.
+Dialogue: 0,0:18:43.09,0:18:45.93,Flashback Italics,GRACE,0,0,0,,Nuk do ta lë të mbarojë ende.
+Dialogue: 0,0:18:46.71,0:18:50.50,Flashback Italics,GRACE,0,0,0,,Ti do të ma tregosh \Npjesën tjetër të historisë.
+Dialogue: 0,0:18:51.42,0:18:53.16,Flashback Italics,GRACE,0,0,0,,Me çdo kusht.
+Dialogue: 0,0:18:54.01,0:18:55.19,Flashback,ROWAN,0,0,0,,Shtrigë...
+Dialogue: 0,0:18:56.29,0:19:00.20,Flashback,ROWAN,0,0,0,,A do të rikthehet vërtet Lara në jetë?
+Dialogue: 0,0:19:01.14,0:19:02.28,Flashback,GRACE,0,0,0,,Po.
+Dialogue: 0,0:19:02.28,0:19:07.20,Flashback,GRACE,0,0,0,,Ta thitha gjithë dritën ty, \Ntë atit të saj, dhe ia dhashë asaj.
+Dialogue: 0,0:19:08.43,0:19:09.29,Flashback,ROWAN,0,0,0,,Lara.
+Dialogue: 0,0:19:10.96,0:19:12.62,Flashback,ROWAN,0,0,0,,Sa kohë që Lara jeton...
+Dialogue: 0,0:19:13.15,0:19:17.07,Flashback,ROWAN,0,0,0,,Sa kohë që kemi dritën e Larës... \Ndritën e princeshës...
+Dialogue: 0,0:19:17.59,0:19:22.72,Flashback,ROWAN,0,0,0,,Ajo fuqi mund të bëhet edhe \Nungjill për të shkatërruar njerëzit.
+Dialogue: 0,0:19:25.16,0:19:27.03,Flashback,SEA SERPENT,0,0,0,,Po harxhon shumë fuqi.
+Dialogue: 0,0:19:27.47,0:19:30.92,Flashback,SEA SERPENT,0,0,0,,Nuk mund ta mbash \Ngjithë popullin e detit në gjumë kështu.
+Dialogue: 0,0:19:31.27,0:19:33.48,Flashback,GRACE,0,0,0,,Me kohë, Lara do të kthehet
+Dialogue: 0,0:19:34.15,0:19:36.23,Flashback,GRACE,0,0,0,,për t'u përballur me një sprovë të re.
+Dialogue: 0,0:19:37.22,0:19:40.52,Flashback,GRACE,0,0,0,,Prandaj duhet t'i vë në gjumë Rowanin \Ndhe të gjithë të tjerët...
+Dialogue: 0,0:19:41.00,0:19:42.64,Flashback,GRACE,0,0,0,,Përndryshe do të bëheshin pengesë.
+Dialogue: 0,0:19:42.64,0:19:45.60,Flashback,SEA SERPENT,0,0,0,,Por kështu, ti do të...
+Dialogue: 0,0:19:46.52,0:19:49.25,Flashback,GRACE,0,0,0,,Atëherë do ta braktis këtë trup.
+Dialogue: 0,0:19:49.80,0:19:54.63,Flashback,GRACE,0,0,0,,Me një enë më të vogël, \Nfuqia ime do të zgjasë pak më shumë.
+Dialogue: 0,0:19:54.95,0:20:00.01,Flashback,GRACE,0,0,0,,Do të vazhdoj të pres \Nditën kur Lara të ringjallet.
+Dialogue: 0,0:20:18.36,0:20:19.47,Flashback Italics,GRACE,0,0,0,,Nxito.
+Dialogue: 0,0:20:20.41,0:20:22.65,Flashback Italics,GRACE,0,0,0,,Nxito e ringjallu, Lara.
+Dialogue: 0,0:20:23.75,0:20:27.74,Flashback Italics,GRACE,0,0,0,,Ende dua të shoh\Npjesën tjetër të historisë sate.
+Dialogue: 0,0:20:28.41,0:20:33.05,Flashback Italics,GRACE,0,0,0,,Ti je grimca e fundit e dritës që më ka mbetur.
+Dialogue: 0,0:20:33.69,0:20:39.12,Flashback Italics,GRACE,0,0,0,,Diçka që edhe unë, që vrava atë\Nqë dua dhe humba dritën time, mund ta shoh...
+Dialogue: 0,0:20:39.81,0:20:41.52,Flashback Italics,GRACE,0,0,0,,Rrezja e vetme e shpresës që ka mbetur.
+Dialogue: 0,0:20:42.42,0:20:45.93,Flashback Italics,GRACE,0,0,0,,Ti mund ta bësh të ndodhë.
+Dialogue: 0,0:20:45.93,0:20:49.53,Flashback Italics,GRACE,0,0,0,,Me zemrën tënde të pastër, \Nduhet të jesh në gjendje ta plotësosh
+Dialogue: 0,0:20:50.81,0:20:52.43,Flashback Italics,GRACE,0,0,0,,ëndrrën për të jetuar në sipërfaqe!
+Dialogue: 0,0:20:54.38,0:20:55.61,Flashback Italics,GRACE,0,0,0,,Nëse jo...
+Dialogue: 0,0:20:56.20,0:20:58.80,Flashback Italics,GRACE,0,0,0,,Nëse vërtet nuk ka dritë \Nnë sipërfaqe,
+Dialogue: 0,0:20:59.86,0:21:01.29,Flashback Italics,GRACE,0,0,0,,atëherë pse...
+Dialogue: 0,0:21:02.73,0:21:05.53,Flashback Italics,GRACE,0,0,0,,Për çfarë e bëra gjithë këtë?
+Dialogue: 0,0:21:13.55,0:21:14.73,Flashback,YOUNG MARI,0,0,0,,Lëvizi.
+Dialogue: 0,0:21:18.01,0:21:19.14,Flashback,YOUNG MARI,0,0,0,,Është gjallë.
+Dialogue: 0,0:21:21.82,0:21:23.37,Flashback,YOUNG MARI,0,0,0,,I mbylli sërish sytë.
+Dialogue: 0,0:21:23.87,0:21:24.75,Flashback,YOUNG MARI,0,0,0,,Oh, jo.
+Dialogue: 0,0:21:25.85,0:21:26.59,Flashback,YOUNG MARI,0,0,0,,Kjo nuk është mirë.
+Dialogue: 0,0:21:26.59,0:21:27.59,Flashback,GON (GRACE),0,0,0,,Hesht.
+Dialogue: 0,0:21:29.55,0:21:31.72,Flashback,GON (GRACE),0,0,0,,Më lër të vdes në paqe.
+Dialogue: 0,0:21:32.85,0:21:34.47,Flashback,YOUNG MARI,0,0,0,,Flet?!
+Dialogue: 0,0:21:37.98,0:21:39.29,Flashback,GON (GRACE),0,0,0,,Hej, ndaloje.
+Dialogue: 0,0:21:39.72,0:21:40.98,Flashback,GON (GRACE),0,0,0,,Çfarë ke ndërmend?
+Dialogue: 0,0:21:42.17,0:21:44.74,Flashback,GON (GRACE),0,0,0,,Ti, kalama! Më lër!
+Dialogue: 0,0:21:45.74,0:21:47.49,Flashback,YOUNG MARI,0,0,0,,Paske gojë të pistë.
+Dialogue: 0,0:21:48.33,0:21:49.53,Flashback,YOUNG MARI,0,0,0,,S'ka gjë.
+Dialogue: 0,0:21:50.49,0:21:53.14,Flashback,YOUNG MARI,0,0,0,,Nuk ke pse të vdesësh ende.
+Dialogue: 0,0:21:56.09,0:21:59.51,Default,Credits,0,0,0,,{\an2\b1\c&HFFFFFF&\3c&H020216&}Përkthimi: Sachiko Takahashi
+Dialogue: 0,0:21:59.51,0:22:02.51,Default,Credits,0,0,0,,{\an2\b1\c&HFFFFFF&\3c&H020216&}Sinkronizimi: Andy Ellis\NRedaktimi dhe tipografia: Ashley Barboza
+Dialogue: 0,0:22:02.51,0:22:05.51,Default,Credits,0,0,0,,{\an2\b1\c&HFFFFFF&\3c&H020216&}Kontrolli i cilësisë: Riley Dalton\NVerifikimi i përkthimit: Sriram Gurunathan
+Dialogue: 0,0:22:50.57,0:22:51.68,Flashback,GRACE,0,0,0,,E shoh.
+Dialogue: 0,0:22:53.68,0:22:54.85,Flashback,GRACE,0,0,0,,Dritën.
+Dialogue: 0,0:22:56.64,0:22:58.10,Flashback,GRACE,0,0,0,,Ende e shoh.
+Dialogue: 0,0:22:59.42,0:23:01.22,Flashback,GRACE,0,0,0,,Një dritë e bukur.
+Dialogue: 0,0:23:04.19,0:23:04.81,Flashback,GRACE,0,0,0,,Jeton.
+Dialogue: 0,0:23:07.00,0:23:08.02,Flashback,GRACE,0,0,0,,Drita...
+Dialogue: 0,0:23:09.65,0:23:10.72,Flashback,GRACE,0,0,0,,ëndrra jonë...
+Dialogue: 0,0:23:11.44,0:23:12.85,Flashback,GRACE,0,0,0,,ende jeton...
+Dialogue: 0,0:23:15.65,0:23:16.63,Flashback,GRACE,0,0,0,,pikërisht këtu.
+Dialogue: 0,0:23:28.97,0:23:29.78,Flashback,GRACE,0,0,0,,Lara...
+Dialogue: 0,0:23:31.58,0:23:32.36,Flashback,GRACE,0,0,0,,Mari.
+Dialogue: 0,0:23:37.45,0:23:41.38,Flashback,GRACE,0,0,0,,Jeto për dashurinë, jo për ligjet.
+Dialogue: 0,0:23:58.45,0:24:00.25,Default,SIGN,0,0,0,,{\an8\pos(522,249)\shad0\bord0\b1\fs21\c&HCCCCCC&}Vijon
+

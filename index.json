@@ -206,6 +206,20 @@
       "sourceReleaseId": "688059",
       "sourceEpisode": "11",
       "sourceTitle": "Azur Lane - Bisoku Zenshin! S2"
+    },
+    {
+      "id": "at-687997",
+      "title": "Goodbye, Lara",
+      "episode": "11",
+      "malId": 58878,
+      "anilistId": 177637,
+      "slugs": [
+        "goodbye-lara-60394"
+      ],
+      "file": "files/at-687997.sq.vtt",
+      "assFile": "ass/at-687997.sq.ass",
+      "offset": 0,
+      "sourceReleaseId": "687997"
     }
   ]
 }
