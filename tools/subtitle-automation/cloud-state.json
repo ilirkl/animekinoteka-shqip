@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-16T00:00:00Z",
+  "updated": "2026-09-16T11:05:25Z",
   "pending": [
     {
       "sourceReleaseId": "688367",
@@ -8,45 +8,6 @@
       "sourceEpisode": "12",
       "status": "blocked-attachment",
       "reason": "Expected exactly one unforced English ASS track"
-    },
-    {
-      "sourceReleaseId": "688010",
-      "sourceTitle": "Futsutsuka na Akujo dewa Gozaimasu ga",
-      "sourceEpisode": "10",
-      "status": "queued",
-      "slug": "though-i-am-an-inept-villainess-5e26f",
-      "malId": 61240
-    },
-    {
-      "sourceReleaseId": "687997",
-      "sourceTitle": "Sayonara Lara",
-      "sourceEpisode": "11",
-      "status": "queued",
-      "slug": "goodbye-lara-60394",
-      "malId": 58878
-    },
-    {
-      "sourceReleaseId": "687959",
-      "sourceTitle": "Mushoku Tensei S3",
-      "sourceEpisode": "12",
-      "status": "queued",
-      "slug": "mushoku-tensei-jobless-reincarnation-season-3",
-      "malId": 59193
-    },
-    {
-      "sourceReleaseId": "687966",
-      "sourceTitle": "Kuroneko to Majo no Kyoushitsu",
-      "sourceEpisode": "23",
-      "status": "queued",
-      "slug": "the-classroom-of-a-black-cat-and-a-witch-bavvd",
-      "malId": 62171
-    },
-    {
-      "sourceReleaseId": "688038",
-      "sourceTitle": "One Piece",
-      "sourceEpisode": "1178",
-      "status": "hold-ambiguous",
-      "reason": "Multiple equally scored Anikoto candidates"
     },
     {
       "sourceReleaseId": "688403",
