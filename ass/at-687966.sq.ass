@@ -1,0 +1,425 @@
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+PlayResX: 640
+PlayResY: 360
+ScaledBorderAndShadow: yes
+Title: English (US)
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: TopLeft,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,7,20,20,23,1
+Style: TopCenter,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: TopRight,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,9,20,20,23,1
+Style: CenterLeft,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,4,20,20,23,1
+Style: CenterCenter,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,5,20,20,23,1
+Style: CenterRight,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,6,20,20,23,1
+Style: BottomLeft,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,1,20,20,23,1
+Style: BottomCenter,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: BottomRight,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,3,20,20,23,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:35.79,0:01:37.33,BottomCenter,,0,0,0,,Po tallesh me mua?
+Dialogue: 0,0:01:39.00,0:01:43.29,BottomCenter,,0,0,0,,Deri ku do të shkosh, Spica?
+Dialogue: 0,0:01:44.21,0:01:47.17,BottomCenter,,0,0,0,,Oh, dreqin! Më duhet të shpall\Nmbarimin e provimit përfundimtar!
+Dialogue: 0,0:01:47.25,0:01:49.75,BottomCenter,,0,0,0,,Prit, unë qenkam mace!
+Dialogue: 0,0:01:49.83,0:01:52.38,BottomCenter,,0,0,0,,Për çfarë po mjaullin?
+Dialogue: 0,0:01:52.71,0:01:55.88,BottomCenter,,0,0,0,,Qenke plot energji\Nqë në mëngjes herët.
+Dialogue: 0,0:01:57.29,0:02:00.50,BottomCenter,,0,0,0,,Mendova se mund të ishe kthyer\Nnë mace deri tani, prandaj erdha të ndihmoj.
+Dialogue: 0,0:02:00.58,0:02:01.88,BottomCenter,,0,0,0,,Bëje mirë të më falënderosh.
+Dialogue: 0,0:02:03.96,0:02:05.58,BottomCenter,,0,0,0,,{\i1}Të gjithë!{\i0}
+Dialogue: 0,0:02:06.63,0:02:07.71,BottomCenter,,0,0,0,,Drejtoresha?
+Dialogue: 0,0:02:07.79,0:02:10.08,BottomCenter,,0,0,0,,{\i1}Provimi mbaroi!{\i0}
+Dialogue: 0,0:02:12.08,0:02:15.25,BottomCenter,,0,0,0,,{\i1}Të gjithë nxënësit, ju lutem kthehuni{\i0}\N{\i1}në pikën e nisjes.{\i0}
+Dialogue: 0,0:02:17.21,0:02:19.63,BottomCenter,,0,0,0,,Shpresoj që Kironi të jetë mirë.
+Dialogue: 0,0:02:20.50,0:02:22.00,BottomCenter,,0,0,0,,Po bëj shaka...
+Dialogue: 0,0:02:22.08,0:02:27.04,BottomCenter,,0,0,0,,Nuk gjeta asgjë\Naskund në shpellë.
+Dialogue: 0,0:02:27.42,0:02:29.71,BottomCenter,,0,0,0,,Jam i vetmi që mori zero pikë.
+Dialogue: 0,0:02:30.50,0:02:32.13,BottomCenter,,0,0,0,,Po mbetem në klasë.
+Dialogue: 0,0:02:32.21,0:02:33.58,BottomCenter,,0,0,0,,Kiron...
+Dialogue: 0,0:02:40.63,0:02:42.00,BottomCenter,,0,0,0,,Ngushëllimet e mia.
+Dialogue: 0,0:02:42.08,0:02:43.42,BottomCenter,,0,0,0,,Për çfarë ishte kjo tani?!
+Dialogue: 0,0:02:43.50,0:02:44.96,BottomCenter,,0,0,0,,Provimi mbaroi.
+Dialogue: 0,0:02:45.04,0:02:46.63,BottomCenter,,0,0,0,,Merri rrobat e tua.
+Dialogue: 0,0:02:46.71,0:02:48.42,BottomCenter,,0,0,0,,Faleminderit që m'i dhe hua.
+Dialogue: 0,0:02:48.79,0:02:53.79,BottomCenter,,0,0,0,,Nuk duket se e ke vënë re,\Npor çanta jote po shkëlqen.
+Dialogue: 0,0:02:55.88,0:02:57.29,BottomCenter,,0,0,0,,A nuk është ky...
+Dialogue: 0,0:02:58.46,0:02:59.75,BottomCenter,,0,0,0,,Një safir!
+Dialogue: 0,0:02:59.83,0:03:01.21,BottomCenter,,0,0,0,,Pse ndodhet këtu?!
+Dialogue: 0,0:03:01.29,0:03:03.21,BottomCenter,,0,0,0,,Është nga shpella.
+Dialogue: 0,0:03:03.92,0:03:08.92,BottomCenter,,0,0,0,,Me sa duket ra kur përdore\Nmagjinë e erës për të shembur tavanin.
+Dialogue: 0,0:03:09.25,0:03:11.75,BottomCenter,,0,0,0,,Ra pikërisht në çantën tënde.
+Dialogue: 0,0:03:12.75,0:03:14.21,BottomCenter,,0,0,0,,Mund të ma kishe thënë!
+Dialogue: 0,0:03:14.29,0:03:16.21,BottomCenter,,0,0,0,,Si nuk e vure re?
+Dialogue: 0,0:03:16.58,0:03:19.04,BottomCenter,,0,0,0,,Sidoqoftë... Sa lehtësim.
+Dialogue: 0,0:03:19.54,0:03:21.71,BottomCenter,,0,0,0,,Sa lehtësim!
+Dialogue: 0,0:03:21.79,0:03:23.08,BottomCenter,,0,0,0,,Mendova se shkova!
+Dialogue: 0,0:03:23.17,0:03:26.92,BottomCenter,,0,0,0,,Ky është Princi im Kiron!
+Dialogue: 0,0:03:27.00,0:03:28.96,BottomCenter,,0,0,0,,A ishte vërtet në rregull kjo, voodie?
+Dialogue: 0,0:03:29.04,0:03:30.17,BottomCenter,,0,0,0,,Për çfarë po flet?
+Dialogue: 0,0:03:30.25,0:03:32.83,BottomCenter,,0,0,0,,A nuk ishte safiri yt, voodie?
+Dialogue: 0,0:03:32.92,0:03:37.42,BottomCenter,,0,0,0,,Të pashë kur e futje fshehurazi kur\Nia ktheve rrobat, voodie.
+Dialogue: 0,0:03:37.50,0:03:41.38,BottomCenter,,0,0,0,,E di që të erdhi keq për të,\Npor do të humbasësh pikë, voodie.
+Dialogue: 0,0:03:41.46,0:03:42.67,BottomCenter,,0,0,0,,Më erdhi keq për të?
+Dialogue: 0,0:03:43.42,0:03:46.04,BottomCenter,,0,0,0,,Të dukem aq zemërmirë?
+Dialogue: 0,0:03:46.38,0:03:50.96,BottomCenter,,0,0,0,,Do ta meritonte të mbetej po të mos\Nkishte aftësinë për të kaluar.
+Dialogue: 0,0:03:51.38,0:03:57.63,BottomCenter,,0,0,0,,Përpjekjet e tij në shpellë ia fituan\Nsafirin. Kaq është.
+Dialogue: 0,0:03:58.29,0:04:01.67,BottomCenter,,0,0,0,,Është fakt që na ndihmoi mua dhe Librën.
+Dialogue: 0,0:04:01.75,0:04:05.71,BottomCenter,,0,0,0,,Por nuk është prej atyre që do ta\Nkishte pranuar po t'ia jepja drejtpërdrejt.
+Dialogue: 0,0:04:05.79,0:04:06.79,BottomCenter,,0,0,0,,Prandaj...
+Dialogue: 0,0:04:07.58,0:04:08.88,BottomCenter,,0,0,0,,Mos i thuaj gjë.
+Dialogue: 0,0:04:12.71,0:04:14.29,BottomCenter,,0,0,0,,Dreqin!
+Dialogue: 0,0:04:14.38,0:04:16.46,BottomCenter,,0,0,0,,Nuk e mora diamantin!
+Dialogue: 0,0:04:16.54,0:04:18.38,BottomCenter,,0,0,0,,A e mori dikush diamantin?
+Dialogue: 0,0:04:18.46,0:04:19.50,BottomCenter,,0,0,0,,Kiron!
+Dialogue: 0,0:04:19.58,0:04:21.08,BottomCenter,,0,0,0,,Mos qaj sa herë që më sheh!
+Dialogue: 0,0:04:21.17,0:04:24.33,BottomCenter,,0,0,0,,Punë të shkëlqyer, të gjithë.
+Dialogue: 0,0:04:24.42,0:04:26.67,BottomCenter,,0,0,0,,Hë? Ku është profesor Klodi?
+Dialogue: 0,0:04:26.75,0:04:31.54,BottomCenter,,0,0,0,,Jam këtu në vend të profesor Klodit\Nsepse e ka zënë barku
+Dialogue: 0,0:04:31.63,0:04:32.96,TopCenter,,0,0,0,,pasi hëngri ca kërpudha sa për të ngrënë.
+Dialogue: 0,0:04:33.04,0:04:34.17,TopCenter,,0,0,0,,O BURRË!
+Dialogue: 0,0:04:34.25,0:04:37.00,BottomCenter,,0,0,0,,Hej, a nuk e kemi parë më parë atë mace?
+Dialogue: 0,0:04:37.08,0:04:38.00,BottomCenter,,0,0,0,,S'e di.
+Dialogue: 0,0:04:38.08,0:04:40.63,BottomCenter,,0,0,0,,Epo, atëherë, koha për rezultatet!
+Dialogue: 0,0:04:40.71,0:04:43.21,BottomCenter,,0,0,0,,Në vendin e njëmbëdhjetë, Merrou me 1 pikë.
+Dialogue: 0,0:04:43.29,0:04:45.21,BottomCenter,,0,0,0,,Pikët e mia janë shumë të ulëta!
+Dialogue: 0,0:04:45.29,0:04:48.33,BottomCenter,,0,0,0,,Gjithashtu në vendin e njëmbëdhjetë,\NAstrea me 1 pikë.
+Dialogue: 0,0:04:48.42,0:04:49.58,BottomCenter,,0,0,0,,Oh, medet.
+Dialogue: 0,0:04:49.67,0:04:51.88,BottomCenter,,0,0,0,,Në vendin e dhjetë, Io me 2 pikë.
+Dialogue: 0,0:04:52.67,0:04:54.92,BottomCenter,,0,0,0,,Në vendin e nëntë, Kironi me 10 pikë.
+Dialogue: 0,0:04:55.00,0:04:56.79,BottomCenter,,0,0,0,,Nuk jam i fundit.
+Dialogue: 0,0:04:56.88,0:04:59.50,BottomCenter,,0,0,0,,Në vendin e tetë, Tarfi me 15 pikë.
+Dialogue: 0,0:04:59.96,0:05:02.79,BottomCenter,,0,0,0,,Në vendin e shtatë, Kapela me 25 pikë.
+Dialogue: 0,0:05:02.88,0:05:04.21,BottomCenter,,0,0,0,,Vendi i shtatë...
+Dialogue: 0,0:05:04.29,0:05:06.79,BottomCenter,,0,0,0,,Në vendin e gjashtë, Eva me 30 pikë.
+Dialogue: 0,0:05:06.88,0:05:08.63,BottomCenter,,0,0,0,,E munda Kapelën!
+Dialogue: 0,0:05:08.71,0:05:11.00,BottomCenter,,0,0,0,,Në vendin e pestë, Hana me 45 pikë.
+Dialogue: 0,0:05:11.08,0:05:12.17,BottomCenter,,0,0,0,,Jo keq.
+Dialogue: 0,0:05:12.25,0:05:14.71,BottomCenter,,0,0,0,,Në vendin e katërt, Leo me 60 pikë.
+Dialogue: 0,0:05:14.79,0:05:16.92,BottomCenter,,0,0,0,,Nuk zura vendin e parë...
+Dialogue: 0,0:05:17.00,0:05:20.63,BottomCenter,,0,0,0,,Në vendin e tretë, Kastori dhe\NPoluksi me 70 pikë.
+Dialogue: 0,0:05:20.71,0:05:21.96,BottomCenter,,0,0,0,,Tre të parët!
+Dialogue: 0,0:05:22.04,0:05:23.33,BottomCenter,,0,0,0,,{\i1}Ia dolëm mirë, vëlla.{\i0}
+Dialogue: 0,0:05:23.42,0:05:24.08,BottomCenter,,0,0,0,,{\i1}Po.{\i0}
+Dialogue: 0,0:05:24.42,0:05:27.67,BottomCenter,,0,0,0,,Në vendin e dytë, Aria me 90 pikë.
+Dialogue: 0,0:05:30.58,0:05:34.92,BottomCenter,,0,0,0,,Dhe në vendin e parë, Spica me 150 pikë.
+Dialogue: 0,0:05:35.21,0:05:36.75,BottomCenter,,0,0,0,,Spica doli e para?!
+Dialogue: 0,0:05:36.83,0:05:37.67,BottomCenter,,0,0,0,,Vërtet?
+Dialogue: 0,0:05:37.75,0:05:38.96,BottomCenter,,0,0,0,,E mori diamantin?
+Dialogue: 0,0:05:39.88,0:05:41.92,BottomCenter,,0,0,0,,Të lumtë, Spica!
+Dialogue: 0,0:05:42.00,0:05:43.88,BottomCenter,,0,0,0,,{\i1}E dija që mund ta bënte.{\i0}
+Dialogue: 0,0:05:43.96,0:05:46.46,BottomCenter,,0,0,0,,Po ku janë ato të dyja, në fakt?
+Dialogue: 0,0:05:47.13,0:05:48.29,BottomCenter,,0,0,0,,Atje!
+Dialogue: 0,0:05:48.58,0:05:50.96,BottomCenter,,0,0,0,,Vendi i parë dhe i dytë po flenë?!
+Dialogue: 0,0:05:51.46,0:05:53.96,BottomCenter,,0,0,0,,Hajde, more, po e prish momentin.
+Dialogue: 0,0:05:54.04,0:05:56.21,BottomCenter,,0,0,0,,Duhet të kenë punuar shumë për të.
+Dialogue: 0,0:05:56.29,0:05:57.21,BottomCenter,,0,0,0,,Ke të drejtë.
+Dialogue: 0,0:05:57.75,0:06:00.29,BottomCenter,,0,0,0,,Të lumtë, Spica.
+Dialogue: 0,0:06:02.71,0:06:05.71,BottomCenter,,0,0,0,,Të gjithë morën një gur të çmuar,\Nqë do të thotë se askush nuk mbeti.
+Dialogue: 0,0:06:05.79,0:06:08.17,BottomCenter,,0,0,0,,Të gjithë ia dolët mirë.
+Dialogue: 0,0:06:08.25,0:06:10.67,BottomCenter,,0,0,0,,Anija do të vijë të na\Nmarrë në mbrëmje.
+Dialogue: 0,0:06:10.75,0:06:13.00,BottomCenter,,0,0,0,,Ndërkohë, pushoni mirë.
+Dialogue: 0,0:06:13.08,0:06:14.33,BottomCenter,,0,0,0,,Në mbrëmje?!
+Dialogue: 0,0:06:14.42,0:06:16.54,BottomCenter,,0,0,0,,Pse po vonohet kaq anija?
+Dialogue: 0,0:06:16.63,0:06:17.83,BottomCenter,,0,0,0,,Më ka zënë gjumi!
+Dialogue: 0,0:06:17.92,0:06:19.92,BottomCenter,,0,0,0,,Dua të shkoj në shtëpi e të fle në shtratin tim.
+Dialogue: 0,0:06:20.00,0:06:21.17,BottomCenter,,0,0,0,,Ç'do të bëjmë deri atëherë?
+Dialogue: 0,0:06:21.25,0:06:23.13,BottomCenter,,0,0,0,,A ka gjë për të bërë fare?
+Dialogue: 0,0:06:23.42,0:06:27.21,BottomCenter,,0,0,0,,Po ç'tjetër do të bënit?
+Dialogue: 0,0:06:28.25,0:06:30.88,BottomCenter,,0,0,0,,Kjo është një plazh pushimi.
+Dialogue: 0,0:06:30.96,0:06:33.54,BottomCenter,,0,0,0,,Provimi mbaroi dhe të gjithë janë të qetë.
+Dialogue: 0,0:06:33.63,0:06:36.17,BottomCenter,,0,0,0,,Kjo do të thotë vetëm një gjë...
+Dialogue: 0,0:06:37.50,0:06:39.38,BottomCenter,,0,0,0,,Erdhi koha e kampingut!
+Dialogue: 0,0:06:39.46,0:06:40.29,BottomCenter,,0,0,0,,Tani?!
+Dialogue: 0,0:06:40.38,0:06:43.88,BottomCenter,,0,0,0,,Koha për not! Barbekju! Zjarre kampi!
+Dialogue: 0,0:06:43.96,0:06:45.96,TopCenter,,0,0,0,,ÇFARË JE TI, FËMIJË?!
+Dialogue: 0,0:06:51.92,0:06:53.13,BottomCenter,,0,0,0,,Një, dy...
+Dialogue: 0,0:06:58.17,0:06:59.88,BottomCenter,,0,0,0,,Uau!
+Dialogue: 0,0:07:07.25,0:07:09.46,BottomCenter,,0,0,0,,{\i1}Ne e pranuam sugjerimin e drejtoreshës{\i0}
+Dialogue: 0,0:07:09.54,0:07:14.54,BottomCenter,,0,0,0,,{\i1}dhe ngritëm kamp në plazh derisa{\i0}\N{\i1}anija të mbërrinte në mbrëmje.{\i0}
+Dialogue: 0,0:07:20.29,0:07:23.58,BottomCenter,,0,0,0,,Magjia e Gaforres: Rrëshqitësi Detar!
+Dialogue: 0,0:07:40.63,0:07:42.54,BottomCenter,,0,0,0,,{\i1}Magjia e Peshqve:{\i0}
+Dialogue: 0,0:07:43.29,0:07:45.29,BottomCenter,,0,0,0,,{\i1}Mbledhja e Miqve!{\i0}
+Dialogue: 0,0:07:52.08,0:07:53.75,BottomCenter,,0,0,0,,E kapa drekën!
+Dialogue: 0,0:07:53.83,0:07:55.25,BottomCenter,,0,0,0,,Miku im!
+Dialogue: 0,0:07:56.00,0:07:58.13,BottomCenter,,0,0,0,,Shikoji. Sa të gëzuar.
+Dialogue: 0,0:07:58.21,0:07:59.96,BottomCenter,,0,0,0,,Janë ende fëmijë.
+Dialogue: 0,0:08:01.46,0:08:03.25,BottomCenter,,0,0,0,,Djema!
+Dialogue: 0,0:08:03.33,0:08:05.38,BottomCenter,,0,0,0,,Ta nisim barbekjunë!
+Dialogue: 0,0:08:05.46,0:08:07.38,BottomCenter,,0,0,0,,Profesorja po vdes urie!
+Dialogue: 0,0:08:07.46,0:08:09.46,BottomCenter,,0,0,0,,{\i1}Grua fëmijë!{\i0}
+Dialogue: 0,0:08:09.54,0:08:11.67,BottomCenter,,0,0,0,,Çfarë të gatuajmë?
+Dialogue: 0,0:08:11.75,0:08:14.25,BottomCenter,,0,0,0,,Solla ca perime, por...
+Dialogue: 0,0:08:14.33,0:08:16.50,BottomCenter,,0,0,0,,E di se çfarë mund të hamë!
+Dialogue: 0,0:08:16.58,0:08:17.42,BottomCenter,,0,0,0,,Do të shkoj ta marr!
+Dialogue: 0,0:08:17.50,0:08:19.58,BottomCenter,,0,0,0,,Vërtet? Atëherë, a mund ta bësh këtë?
+Dialogue: 0,0:08:19.67,0:08:20.33,BottomCenter,,0,0,0,,Po!
+Dialogue: 0,0:08:20.42,0:08:22.21,BottomCenter,,0,0,0,,Do të ndihmoj edhe unë, Spica.
+Dialogue: 0,0:08:22.29,0:08:23.79,BottomCenter,,0,0,0,,Faleminderit, Hana!
+Dialogue: 0,0:08:23.88,0:08:27.04,BottomCenter,,0,0,0,,Mirë, le të shkojmë te shpella\Ntë marrim ca mish krimbi!
+Dialogue: 0,0:08:27.13,0:08:28.63,BottomCenter,,0,0,0,,{\i1}Mish krimbi?!{\i0}
+Dialogue: 0,0:08:30.25,0:08:31.42,BottomCenter,,0,0,0,,Shkojmë!
+Dialogue: 0,0:08:31.50,0:08:33.04,BottomCenter,,0,0,0,,Jo, ëëë, uh...
+Dialogue: 0,0:08:33.13,0:08:35.58,BottomCenter,,0,0,0,,Le të grumbullojmë gurë për të bërë një furrë.
+Dialogue: 0,0:08:41.25,0:08:42.50,BottomCenter,,0,0,0,,Sa i rëndë...
+Dialogue: 0,0:08:42.58,0:08:44.17,BottomCenter,,0,0,0,,Qenke shumë i dobët.
+Dialogue: 0,0:08:47.46,0:08:49.79,BottomCenter,,0,0,0,,Unë do të bëj kupa dhe pjata.
+Dialogue: 0,0:08:49.88,0:08:51.29,BottomCenter,,0,0,0,,Sa e dobishme.
+Dialogue: 0,0:08:52.58,0:08:54.67,BottomCenter,,0,0,0,,Unë do ta pres ushqimin.
+Dialogue: 0,0:08:54.75,0:08:56.17,BottomCenter,,0,0,0,,Eva, ti kujdesu për zjarrin.
+Dialogue: 0,0:08:56.25,0:08:58.29,BottomCenter,,0,0,0,,Dua të përqendrohem te ngrënia.
+Dialogue: 0,0:08:58.38,0:09:01.13,BottomCenter,,0,0,0,,Pa punë, pa ushqim.
+Dialogue: 0,0:09:03.29,0:09:04.83,BottomCenter,,0,0,0,,Drejtoreshë...
+Dialogue: 0,0:09:04.92,0:09:05.67,BottomCenter,,0,0,0,,Po?
+Dialogue: 0,0:09:05.75,0:09:08.71,BottomCenter,,0,0,0,,A mund të hamë edhe ne Voodie-t?
+Dialogue: 0,0:09:08.79,0:09:11.17,BottomCenter,,0,0,0,,Sigurisht. Çfarë hani ju?
+Dialogue: 0,0:09:11.25,0:09:12.50,BottomCenter,,0,0,0,,Pak flokë.
+Dialogue: 0,0:09:12.58,0:09:13.58,BottomCenter,,0,0,0,,Uh.
+Dialogue: 0,0:09:22.58,0:09:24.67,BottomCenter,,0,0,0,,Mishi i krimbit është shumë i mirë!
+Dialogue: 0,0:09:26.50,0:09:27.75,BottomCenter,,0,0,0,,Po, aspak keq.
+Dialogue: 0,0:09:28.88,0:09:30.96,BottomCenter,,0,0,0,,Ky u bë gati. E do?
+Dialogue: 0,0:09:32.58,0:09:34.96,BottomCenter,,0,0,0,,Të gjithë, hani edhe ca perime.
+Dialogue: 0,0:09:35.04,0:09:36.25,BottomCenter,,0,0,0,,Mirë.
+Dialogue: 0,0:09:36.33,0:09:38.42,BottomCenter,,0,0,0,,Uau, qenke vërtet i zoti në paraqitje.
+Dialogue: 0,0:09:38.50,0:09:39.54,BottomCenter,,0,0,0,,Gjithçka duket kaq e shijshme!
+Dialogue: 0,0:09:39.63,0:09:43.54,BottomCenter,,0,0,0,,E vlerësoj ndjeshmërinë tënde\Nestetike, Tarf.
+Dialogue: 0,0:09:43.63,0:09:44.67,BottomCenter,,0,0,0,,Për çfarë po flet?
+Dialogue: 0,0:09:44.75,0:09:46.46,BottomCenter,,0,0,0,,E shijshme!
+Dialogue: 0,0:09:46.54,0:09:49.29,BottomCenter,,0,0,0,,Sidomos duke qenë se gjatë\Nprovimit mezi hanim.
+Dialogue: 0,0:09:49.38,0:09:52.33,BottomCenter,,0,0,0,,Të lumtë për detyrat\Nmbështetëse, të gjithëve.
+Dialogue: 0,0:09:52.42,0:09:53.33,BottomCenter,,0,0,0,,Gëzuar!
+Dialogue: 0,0:09:53.67,0:09:56.08,BottomCenter,,0,0,0,,Gëzuar!
+Dialogue: 0,0:09:56.92,0:09:59.50,BottomCenter,,0,0,0,,Kurrë nuk mendova se Spica\Ndo të zinte vendin e parë.
+Dialogue: 0,0:09:59.58,0:10:01.25,BottomCenter,,0,0,0,,As unë nuk e besoj.
+Dialogue: 0,0:10:01.33,0:10:04.38,BottomCenter,,0,0,0,,Isha djersitur i tëri,\Nduke menduar se Kironi mund të mbetej.
+Dialogue: 0,0:10:05.33,0:10:06.54,BottomCenter,,0,0,0,,Merr pak kripë.
+Dialogue: 0,0:10:06.63,0:10:07.42,BottomCenter,,0,0,0,,Faleminderit.
+Dialogue: 0,0:10:07.50,0:10:09.54,BottomCenter,,0,0,0,,Ishte argëtuese.
+Dialogue: 0,0:10:09.63,0:10:11.50,BottomCenter,,0,0,0,,- Sa burrë i bukur!\N- E di!
+Dialogue: 0,0:10:11.58,0:10:13.54,BottomCenter,,0,0,0,,A e pe kur zonjusha Leo...
+Dialogue: 0,0:10:15.29,0:10:19.88,BottomCenter,,0,0,0,,Oh, meqë ra fjala, Xhoni\Nerdhi të më ndihmonte në fund.
+Dialogue: 0,0:10:19.96,0:10:22.00,BottomCenter,,0,0,0,,A i the ti, Merrou?
+Dialogue: 0,0:10:22.08,0:10:22.75,BottomCenter,,0,0,0,,Jo.
+Dialogue: 0,0:10:23.04,0:10:27.33,BottomCenter,,0,0,0,,I thashë vetëm se ti\Nna e more aloen.
+Dialogue: 0,0:10:28.13,0:10:32.50,BottomCenter,,0,0,0,,Mendoj se po të kërkonte që të\Ntë falënderonte se i kurove plagën.
+Dialogue: 0,0:10:33.83,0:10:37.96,BottomCenter,,0,0,0,,Dhe pa breshkën\Ntë fundosej me ty brenda.
+Dialogue: 0,0:10:40.00,0:10:44.33,BottomCenter,,0,0,0,,Tha se nxitoi brenda\Nduke menduar se mund të ishe në rrezik.
+Dialogue: 0,0:10:44.42,0:10:47.25,BottomCenter,,0,0,0,,Thjesht e gjeti rastësisht\Nshkopin tënd rrugës.
+Dialogue: 0,0:10:47.33,0:10:49.38,BottomCenter,,0,0,0,,Kështu paska ndodhur.
+Dialogue: 0,0:10:49.71,0:10:54.79,BottomCenter,,0,0,0,,Do të kisha humbur po të\Nmos ishte shfaqur Xhoni.
+Dialogue: 0,0:10:55.21,0:10:57.21,BottomCenter,,0,0,0,,Pata fat.
+Dialogue: 0,0:10:57.29,0:11:00.79,BottomCenter,,0,0,0,,Fati yt erdhi nga mirësia jote, Spica.
+Dialogue: 0,0:11:02.38,0:11:04.58,BottomCenter,,0,0,0,,Njerëzit e talentuar e krijojnë vetë fatin.
+Dialogue: 0,0:11:04.67,0:11:06.38,BottomCenter,,0,0,0,,Merrou...
+Dialogue: 0,0:11:15.08,0:11:16.21,BottomCenter,,0,0,0,,Aria.
+Dialogue: 0,0:11:16.29,0:11:17.96,BottomCenter,,0,0,0,,Mos rri ashtu më këmbë.
+Dialogue: 0,0:11:18.04,0:11:19.83,BottomCenter,,0,0,0,,Këtu ka ushqim të porsapjekur.
+Dialogue: 0,0:11:22.21,0:11:24.38,BottomCenter,,0,0,0,,Jo, jam mirë. Faleminderit.
+Dialogue: 0,0:11:27.13,0:11:30.42,BottomCenter,,0,0,0,,{\i1}P-Pse po sillet kaq ftohtë?{\i0}
+Dialogue: 0,0:11:30.50,0:11:32.13,BottomCenter,,0,0,0,,{\i1}Kjo s'i ngjan asaj.{\i0}
+Dialogue: 0,0:11:32.58,0:11:34.71,BottomCenter,,0,0,0,,Spica, ke një çast?
+Dialogue: 0,0:11:34.79,0:11:36.21,BottomCenter,,0,0,0,,Profesor!
+Dialogue: 0,0:11:36.29,0:11:37.54,BottomCenter,,0,0,0,,Duhet të flasim.
+Dialogue: 0,0:11:38.38,0:11:40.00,BottomCenter,,0,0,0,,{\i1}Ja ku shkojmë!{\i0}
+Dialogue: 0,0:11:40.08,0:11:42.13,BottomCenter,,0,0,0,,{\i1}Tani, më lavdëro sa të mundesh!{\i0}
+Dialogue: 0,0:11:42.21,0:11:43.96,BottomCenter,,0,0,0,,{\i1}Lavdëroje gruan që zuri vendin e parë!{\i0}
+Dialogue: 0,0:11:44.04,0:11:45.63,BottomCenter,,0,0,0,,Mos u mburr.
+Dialogue: 0,0:11:47.54,0:11:50.13,BottomCenter,,0,0,0,,Mezi e zure vendin e parë.
+Dialogue: 0,0:11:50.21,0:11:54.25,BottomCenter,,0,0,0,,Siç të njoh, do të\Nmbushesh me vete dhe do ta prishësh.
+Dialogue: 0,0:11:54.33,0:11:57.71,BottomCenter,,0,0,0,,Mbaj parasysh se ka\Nnjerëz shumë, shumë mbi ty.
+Dialogue: 0,0:11:57.79,0:11:58.88,BottomCenter,,0,0,0,,Uh!
+Dialogue: 0,0:11:58.96,0:12:02.00,BottomCenter,,0,0,0,,Pse s'ma fal dot këtë fitore?
+Dialogue: 0,0:12:02.08,0:12:03.21,BottomCenter,,0,0,0,,Çfarë?
+Dialogue: 0,0:12:03.29,0:12:04.71,BottomCenter,,0,0,0,,Unë gjithmonë të lavdëroj.
+Dialogue: 0,0:12:04.79,0:12:05.58,BottomCenter,,0,0,0,,Kur?!
+Dialogue: 0,0:12:05.67,0:12:08.71,BottomCenter,,0,0,0,,Aria ishte përpara në aftësi të pastër.
+Dialogue: 0,0:12:08.79,0:12:10.67,BottomCenter,,0,0,0,,Por ti fitove.
+Dialogue: 0,0:12:10.75,0:12:13.04,BottomCenter,,0,0,0,,E di se çfarë bëri ndryshimin?
+Dialogue: 0,0:12:14.50,0:12:16.83,BottomCenter,,0,0,0,,Magjia e re, me sa besoj?
+Dialogue: 0,0:12:16.92,0:12:18.46,BottomCenter,,0,0,0,,Epo, kjo është një pjesë.
+Dialogue: 0,0:12:19.17,0:12:20.71,BottomCenter,,0,0,0,,Arias iu mbarua fuqia magjike.
+Dialogue: 0,0:12:20.79,0:12:22.88,BottomCenter,,0,0,0,,Prandaj humbi.
+Dialogue: 0,0:12:22.96,0:12:26.58,BottomCenter,,0,0,0,,Në fakt, edhe mua sa s'm'u mbarua.
+Dialogue: 0,0:12:26.67,0:12:30.04,BottomCenter,,0,0,0,,Po përpiqesha me dëshpërim\Ntë mos mbetesha pa fuqi.
+Dialogue: 0,0:12:30.13,0:12:31.75,BottomCenter,,0,0,0,,Ky është ndryshimi.
+Dialogue: 0,0:12:31.83,0:12:36.21,BottomCenter,,0,0,0,,Arias nuk i ishte mbaruar kurrë deri tani.
+Dialogue: 0,0:12:36.29,0:12:39.04,BottomCenter,,0,0,0,,Prandaj nuk i kishte kushtuar kurrë vëmendje\Nrezervave të saj magjike.
+Dialogue: 0,0:12:39.54,0:12:44.54,BottomCenter,,0,0,0,,Ndërkohë, ti mbete në provimet e gjysmëvitit\Nsepse mbete pa fuqi magjike.
+Dialogue: 0,0:12:44.63,0:12:48.75,BottomCenter,,0,0,0,,Dhe atë përvojë e përdore\Npër t'i kuptuar kufijtë e tu.
+Dialogue: 0,0:12:48.83,0:12:52.92,BottomCenter,,0,0,0,,Prandaj arrite ta menaxhoje\Nfuqinë dhe të luftoje deri në fund.
+Dialogue: 0,0:12:53.58,0:12:57.79,BottomCenter,,0,0,0,,Përvojën tënde të hidhur\Ne përdore për të fituar.
+Dialogue: 0,0:12:59.08,0:13:01.08,BottomCenter,,0,0,0,,Urime, Spica.
+Dialogue: 0,0:13:02.25,0:13:04.21,BottomCenter,,0,0,0,,Profesor...
+Dialogue: 0,0:13:04.71,0:13:06.50,BottomCenter,,0,0,0,,Oh, ja ku qenkeni.
+Dialogue: 0,0:13:06.58,0:13:07.67,BottomCenter,,0,0,0,,Drejtoreshë.
+Dialogue: 0,0:13:07.75,0:13:10.29,BottomCenter,,0,0,0,,Ç'po bëni ju të dy këtu jashtë?
+Dialogue: 0,0:13:10.58,0:13:12.42,BottomCenter,,0,0,0,,Erdhi koha e zjarrit të kampit!
+Dialogue: 0,0:13:12.50,0:13:13.46,BottomCenter,,0,0,0,,Zjarri i kampit!
+Dialogue: 0,0:13:13.54,0:13:16.17,BottomCenter,,0,0,0,,{\i1}Po kënaqet më shumë se kushdo tjetër.{\i0}
+Dialogue: 0,0:13:16.25,0:13:18.71,BottomCenter,,0,0,0,,Hajde! Ta nisim!
+Dialogue: 0,0:13:18.79,0:13:19.75,BottomCenter,,0,0,0,,Oh, medet.
+Dialogue: 0,0:13:19.83,0:13:21.67,BottomCenter,,0,0,0,,Hej, profesor...
+Dialogue: 0,0:13:21.75,0:13:24.04,BottomCenter,,0,0,0,,A mund të flas me ju për Arian?
+Dialogue: 0,0:13:34.50,0:13:36.38,BottomCenter,,0,0,0,,{\i1}Vendi i dytë...{\i0}
+Dialogue: 0,0:13:36.88,0:13:39.79,BottomCenter,,0,0,0,,{\i1}Humba.{\i0}
+Dialogue: 0,0:13:42.00,0:13:43.71,BottomCenter,,0,0,0,,Pse rri këtu e vrenjtur?
+Dialogue: 0,0:13:43.79,0:13:45.38,BottomCenter,,0,0,0,,Kjo s'të ngjan ty.
+Dialogue: 0,0:13:46.79,0:13:48.67,BottomCenter,,0,0,0,,S'është gjë.
+Dialogue: 0,0:13:48.75,0:13:49.79,BottomCenter,,0,0,0,,Mirupafshim.
+Dialogue: 0,0:13:51.25,0:13:52.25,BottomCenter,,0,0,0,,Hej, Aria...
+Dialogue: 0,0:13:52.54,0:13:54.54,BottomCenter,,0,0,0,,Je e zemëruar me veten\Nqë humbe, apo jo?
+Dialogue: 0,0:13:55.63,0:13:57.75,BottomCenter,,0,0,0,,Atëherë po jepje gjithçka.
+Dialogue: 0,0:13:58.17,0:14:01.38,BottomCenter,,0,0,0,,E sheh tani si ndihet?
+Dialogue: 0,0:14:02.08,0:14:03.29,BottomCenter,,0,0,0,,Çfarë?
+Dialogue: 0,0:14:03.38,0:14:04.96,BottomCenter,,0,0,0,,U bë e sikletshme mes teje dhe Arias?
+Dialogue: 0,0:14:05.46,0:14:08.33,BottomCenter,,0,0,0,,Lëre të qetë.\NKoha do ta zgjidhë.
+Dialogue: 0,0:14:08.42,0:14:11.13,BottomCenter,,0,0,0,,Por kurrë s'ka qenë kështu më parë.
+Dialogue: 0,0:14:11.21,0:14:16.13,BottomCenter,,0,0,0,,Dhe Aria ishte ndryshe nga\Nzakonisht kur po luftonim.
+Dialogue: 0,0:14:16.21,0:14:17.92,BottomCenter,,0,0,0,,Pyete drejtpërdrejt.
+Dialogue: 0,0:14:18.54,0:14:21.67,BottomCenter,,0,0,0,,Jini të sinqerta me njëra-tjetrën,\Ndhe do të zgjidhet vetvetiu.
+Dialogue: 0,0:14:22.50,0:14:26.42,BottomCenter,,0,0,0,,{\i1}A jeni i sigurt se do të{\i0}\N{\i1}shkojë mirë, profesor?{\i0}
+Dialogue: 0,0:14:27.33,0:14:28.71,BottomCenter,,0,0,0,,Jo shumë.
+Dialogue: 0,0:14:28.79,0:14:31.79,BottomCenter,,0,0,0,,S'më intereson përfundimi,\Nmjafton që u argëtova.
+Dialogue: 0,0:14:31.88,0:14:33.79,BottomCenter,,0,0,0,,Urime, Spica.
+Dialogue: 0,0:14:33.88,0:14:35.54,BottomCenter,,0,0,0,,Hej, mos vrapo!
+Dialogue: 0,0:14:41.50,0:14:42.63,BottomCenter,,0,0,0,,Më fal.
+Dialogue: 0,0:14:44.50,0:14:48.50,BottomCenter,,0,0,0,,Gjithë kohën mendoja\Nse garat ishin thjesht lojëra.
+Dialogue: 0,0:14:48.96,0:14:54.21,BottomCenter,,0,0,0,,S'më bëri fare përshtypje kur\Nhumba një turne skerme shumë kohë më parë.
+Dialogue: 0,0:14:54.96,0:14:59.17,BottomCenter,,0,0,0,,Por këtë herë, për ndonjë\Narsye, s'e duroj dot!
+Dialogue: 0,0:15:01.25,0:15:03.08,BottomCenter,,0,0,0,,Si kështu, "për ndonjë arsye"?
+Dialogue: 0,0:15:03.17,0:15:06.96,BottomCenter,,0,0,0,,Është qartazi sepse e do\Nmagjinë dhe e merr seriozisht.
+Dialogue: 0,0:15:09.58,0:15:10.88,BottomCenter,,0,0,0,,Qartazi jo.
+Dialogue: 0,0:15:10.96,0:15:13.50,BottomCenter,,0,0,0,,Nisa të merrem me magji\Nthjesht për të të ngacmuar.
+Dialogue: 0,0:15:13.58,0:15:15.46,BottomCenter,,0,0,0,,Dhe hyra në Diana\Nthjesht sa për qejf.
+Dialogue: 0,0:15:15.54,0:15:17.71,BottomCenter,,0,0,0,,Nuk jam serioze për të!
+Dialogue: 0,0:15:17.79,0:15:19.50,BottomCenter,,0,0,0,,Pse mundohesh të gënjesh?
+Dialogue: 0,0:15:20.46,0:15:22.58,BottomCenter,,0,0,0,,E kuptoj.
+Dialogue: 0,0:15:22.96,0:15:26.96,BottomCenter,,0,0,0,,Magjinë e Ujorit nuk e përdor dot\Nvetëm me talent.
+Dialogue: 0,0:15:27.58,0:15:32.00,BottomCenter,,0,0,0,,Ti the se studion shumë dhe\Ni përsërit bazat pa fund.
+Dialogue: 0,0:15:32.08,0:15:35.79,BottomCenter,,0,0,0,,Kurrë s'do të kishe derdhur kaq\Nshumë mund po të mos e doje.
+Dialogue: 0,0:15:37.13,0:15:39.38,BottomCenter,,0,0,0,,N-Nuk e dua.
+Dialogue: 0,0:15:39.46,0:15:44.38,BottomCenter,,0,0,0,,Kur the se nuk doje të\Nhumbje ndaj një ëndërrimtareje si unë,
+Dialogue: 0,0:15:44.92,0:15:49.67,BottomCenter,,0,0,0,,unë e kuptova sikur\Ndëshiroje të mund të ëndërroje edhe ti.
+Dialogue: 0,0:15:55.04,0:15:59.17,BottomCenter,,0,0,0,,Ti s'do ta kuptoje si ndihem, Spica.
+Dialogue: 0,0:16:01.75,0:16:05.29,BottomCenter,,0,0,0,,Ti je kaq e sinqertë për ëndrrat e tua të kota.
+Dialogue: 0,0:16:05.67,0:16:07.96,BottomCenter,,0,0,0,,Kurrë s'di kur të dorëzohesh,\Nedhe kur je e zonja për asgjë.
+Dialogue: 0,0:16:09.88,0:16:12.67,BottomCenter,,0,0,0,,Gjithmonë bën përparim të qëndrueshëm.
+Dialogue: 0,0:16:13.38,0:16:15.96,BottomCenter,,0,0,0,,Kjo më bëri xheloze.
+Dialogue: 0,0:16:17.88,0:16:20.88,BottomCenter,,0,0,0,,{\i1}Kështu më paska menduar?{\i0}
+Dialogue: 0,0:16:20.96,0:16:26.71,BottomCenter,,0,0,0,,Gjithmonë kam pasur frikë t'i shpreh\Nëndrrat e mia e të zhgënjej dikë.
+Dialogue: 0,0:16:28.33,0:16:31.58,BottomCenter,,0,0,0,,{\i1}S'e duroja dot të isha zhgënjim.{\i0}
+Dialogue: 0,0:16:35.04,0:16:41.33,BottomCenter,,0,0,0,,E di ç'do të thuash për presionin\Ndhe dhimbjen e mospërmbushjes së pritshmërive.
+Dialogue: 0,0:16:41.96,0:16:45.67,BottomCenter,,0,0,0,,Por sinqerisht, kujt i intereson\Nse ç'mendojnë të tjerët?
+Dialogue: 0,0:16:45.75,0:16:48.29,BottomCenter,,0,0,0,,Ëndrrat nuk janë për askënd tjetër veç vetes.
+Dialogue: 0,0:16:49.42,0:16:51.38,BottomCenter,,0,0,0,,Për veten?
+Dialogue: 0,0:16:51.46,0:16:51.96,BottomCenter,,0,0,0,,Po.
+Dialogue: 0,0:16:52.33,0:16:54.67,BottomCenter,,0,0,0,,Ti po bën atë që do të bësh.
+Dialogue: 0,0:16:54.75,0:16:57.96,BottomCenter,,0,0,0,,Nëse shkon mirë apo jo,\Nka rëndësi vetëm për ty.
+Dialogue: 0,0:16:58.04,0:16:59.46,BottomCenter,,0,0,0,,Kujt i intereson gjithçka tjetër?
+Dialogue: 0,0:17:01.00,0:17:02.63,BottomCenter,,0,0,0,,Ke të drejtë.
+Dialogue: 0,0:17:03.33,0:17:04.71,BottomCenter,,0,0,0,,Jam mirë.
+Dialogue: 0,0:17:05.29,0:17:07.83,BottomCenter,,0,0,0,,Në fund të fundit, kjo është ëndrra ime.
+Dialogue: 0,0:17:09.25,0:17:14.38,BottomCenter,,0,0,0,,{\i1}Gjithë këtë kohë i kam fshehur ndjenjat{\i0}\N{\i1}e mia dhe kam ëndërruar për hir të të tjerëve.{\i0}
+Dialogue: 0,0:17:15.38,0:17:19.08,BottomCenter,,0,0,0,,{\i1}Por ajo që tha Spica ma bëri të qartë.{\i0}
+Dialogue: 0,0:17:22.00,0:17:25.63,BottomCenter,,0,0,0,,{\i1}Unë e dua magjinë.{\i0}
+Dialogue: 0,0:17:26.21,0:17:29.71,BottomCenter,,0,0,0,,{\i1}Dua të bëhem magjistare edhe më e mirë!{\i0}
+Dialogue: 0,0:17:30.92,0:17:34.29,BottomCenter,,0,0,0,,{\i1}A do të thotë kjo se mund të ëndërroj sërish?{\i0}
+Dialogue: 0,0:17:34.83,0:17:38.13,BottomCenter,,0,0,0,,{\i1}Jo për askënd tjetër këtë{\i0}\N{\i1}herë, por për veten time.{\i0}
+Dialogue: 0,0:17:39.08,0:17:40.75,BottomCenter,,0,0,0,,{\i1}Ëndrra ime.{\i0}
+Dialogue: 0,0:17:43.50,0:17:45.63,BottomCenter,,0,0,0,,Më fal, Spica.
+Dialogue: 0,0:17:45.71,0:17:47.58,BottomCenter,,0,0,0,,Që qesha me ëndrrat e tua.
+Dialogue: 0,0:17:47.92,0:17:51.88,BottomCenter,,0,0,0,,Mendoj se do të\Nprovoj të ëndërroj si ti.
+Dialogue: 0,0:17:51.96,0:17:53.58,BottomCenter,,0,0,0,,Pra, paske një ëndërr?
+Dialogue: 0,0:17:53.67,0:17:56.17,BottomCenter,,0,0,0,,Bukur! Cila është? Jam me ty!
+Dialogue: 0,0:17:57.50,0:18:01.96,BottomCenter,,0,0,0,,Do të përpiqem të arrij në klasën\Ne parë para teje, Spica!
+Dialogue: 0,0:18:02.04,0:18:04.63,BottomCenter,,0,0,0,,U-U kthye sërish në atë të prapën e vjetër!
+Dialogue: 0,0:18:04.71,0:18:06.88,BottomCenter,,0,0,0,,Prit, Aria, je\Nseriozisht për klasën e parë?
+Dialogue: 0,0:18:06.96,0:18:08.25,BottomCenter,,0,0,0,,Krejtësisht seriozisht.
+Dialogue: 0,0:18:08.33,0:18:10.92,BottomCenter,,0,0,0,,Le të garojmë të shohim kush\Narrin i pari në klasën e parë.
+Dialogue: 0,0:18:11.00,0:18:12.46,BottomCenter,,0,0,0,,Oh, moj vajzë.
+Dialogue: 0,0:18:12.54,0:18:15.67,BottomCenter,,0,0,0,,Nuk do të më kalosh\Nmë përpara, ta dish.
+Dialogue: 0,0:18:15.75,0:18:16.96,BottomCenter,,0,0,0,,E pranoj sfidën tënde.
+Dialogue: 0,0:18:17.04,0:18:20.17,BottomCenter,,0,0,0,,Je e adhurueshme, si mbushesh\Nme vete pas një fitoreje.
+Dialogue: 0,0:18:20.25,0:18:22.46,BottomCenter,,0,0,0,,Ç'është kjo tani? Rrush i papjekur?
+Dialogue: 0,0:18:30.88,0:18:33.25,BottomCenter,,0,0,0,,Të jesh i ri, apo jo?
+Dialogue: 0,0:18:33.33,0:18:35.33,BottomCenter,,0,0,0,,E bukur.
+Dialogue: 0,0:18:36.79,0:18:41.04,BottomCenter,,0,0,0,,{\i1}Dhe kështu provimi përfundimtar mori fund.{\i0}
+Dialogue: 0,0:20:15.75,0:20:18.08,BottomCenter,,0,0,0,,Anija duhet të jetë këtu së shpejti.
+Dialogue: 0,0:20:18.17,0:20:20.50,BottomCenter,,0,0,0,,Këtu është ku u themi\Nlamtumirë Voodie-ve.
+Dialogue: 0,0:20:21.25,0:20:26.33,BottomCenter,,0,0,0,,{\i1}Oh... Mendova se do të vinin me{\i0}\N{\i1}ne, por ishin vetëm për provimin.{\i0}
+Dialogue: 0,0:20:26.42,0:20:28.71,BottomCenter,,0,0,0,,{\i1}Ishim bashkë për kaq gjatë.{\i0}
+Dialogue: 0,0:20:30.75,0:20:32.96,BottomCenter,,0,0,0,,S'e duroj dot të them lamtumirë.
+Dialogue: 0,0:20:33.04,0:20:35.21,BottomCenter,,0,0,0,,Le të këndojmë sërish një duet ndonjë ditë.
+Dialogue: 0,0:20:35.29,0:20:38.46,BottomCenter,,0,0,0,,{\i1}Kënduam bashkë{\i0}
+Dialogue: 0,0:20:38.54,0:20:42.04,BottomCenter,,0,0,0,,{\i1}Kurrë s'do t'i harroj kujtimet tona bashkë{\i0}
+Dialogue: 0,0:20:42.13,0:20:46.75,BottomCenter,,0,0,0,,{\i1}Le të takohemi sërish ndonjë ditë{\i0}
+Dialogue: 0,0:20:48.25,0:20:51.79,BottomCenter,,0,0,0,,Nuk ishe ndonjë Voodie i madh,\Nduke u frikësuar gjithë kohës.
+Dialogue: 0,0:20:51.88,0:20:54.04,BottomCenter,,0,0,0,,Por je në rregull.
+Dialogue: 0,0:20:54.67,0:20:58.88,BottomCenter,,0,0,0,,Mendova se më ra shorti i keq\Nme ty, sepse ishe kaq i dobët.
+Dialogue: 0,0:20:58.96,0:20:59.63,BottomCenter,,0,0,0,,Hej!
+Dialogue: 0,0:20:59.71,0:21:02.25,BottomCenter,,0,0,0,,Por dole mjaft i mirë.\NTë dua, voodie.
+Dialogue: 0,0:21:02.63,0:21:05.42,BottomCenter,,0,0,0,,U ndjeva i fortë me mbështetjen tënde.
+Dialogue: 0,0:21:05.50,0:21:06.17,BottomCenter,,0,0,0,,Faleminderit.
+Dialogue: 0,0:21:06.25,0:21:09.08,BottomCenter,,0,0,0,,E admirova qetësinë tënde, voodie.
+Dialogue: 0,0:21:09.17,0:21:12.00,BottomCenter,,0,0,0,,Mos pusho së qeni vetvetja, voodie.
+Dialogue: 0,0:21:12.08,0:21:14.25,BottomCenter,,0,0,0,,Nuk do të them lamtumirë.
+Dialogue: 0,0:21:14.33,0:21:17.75,BottomCenter,,0,0,0,,Do të jetosh në zemrën time përgjithmonë.
+Dialogue: 0,0:21:17.83,0:21:20.13,BottomCenter,,0,0,0,,Je kaq i dashur, edhe në fund!
+Dialogue: 0,0:21:20.21,0:21:23.63,BottomCenter,,0,0,0,,Martohu me mua! Më varros në varrin tënd!
+Dialogue: 0,0:21:23.96,0:21:26.50,BottomCenter,,0,0,0,,Kurrë nuk më bëzave, Voodie.
+Dialogue: 0,0:21:26.58,0:21:29.79,BottomCenter,,0,0,0,,Je kaq i mirë. Më pëlqen.\NNatën e mirë, Voodie.
+Dialogue: 0,0:21:29.88,0:21:33.79,BottomCenter,,0,0,0,,Je kaq i qetë. Më pëlqeu të rrija\Nme ty, voodie.
+Dialogue: 0,0:21:33.88,0:21:36.17,BottomCenter,,0,0,0,,Po më merr gjumi, voodie.
+Dialogue: 0,0:21:36.25,0:21:37.25,BottomCenter,,0,0,0,,Natën.
+Dialogue: 0,0:21:38.13,0:21:39.67,BottomCenter,,0,0,0,,Të lumtë.
+Dialogue: 0,0:21:39.75,0:21:41.96,BottomCenter,,0,0,0,,Ji krenar që ishe voodie i Leos.
+Dialogue: 0,0:21:42.04,0:21:45.67,BottomCenter,,0,0,0,,Jam i nderuar që ju shërbeva, zonjusha Leo.
+Dialogue: 0,0:21:46.33,0:21:49.92,BottomCenter,,0,0,0,,Nuk ishte për shumë kohë,\Npor faleminderit që më ndihmove.
+Dialogue: 0,0:21:50.00,0:21:51.04,BottomCenter,,0,0,0,,E vlerësoj.
+Dialogue: 0,0:21:51.13,0:21:54.92,BottomCenter,,0,0,0,,Jo, unë thjesht i kryeva\Ndetyrat e mia si Voodie-i juaj.
+Dialogue: 0,0:21:55.00,0:21:57.88,BottomCenter,,0,0,0,,Megjithatë, ishte kohë e shpenzuar mirë.
+Dialogue: 0,0:21:57.96,0:21:59.25,BottomCenter,,0,0,0,,Ju falënderoj.
+Dialogue: 0,0:21:59.33,0:22:00.67,BottomCenter,,0,0,0,,Qenke shumë serioz.
+Dialogue: 0,0:22:00.75,0:22:02.71,BottomCenter,,0,0,0,,Do të doja të flisnim edhe pak.
+Dialogue: 0,0:22:02.79,0:22:03.71,BottomCenter,,0,0,0,,Kujdesu për veten.
+Dialogue: 0,0:22:03.79,0:22:06.21,BottomCenter,,0,0,0,,Je kaq i butë dhe i besueshëm.
+Dialogue: 0,0:22:06.29,0:22:09.00,BottomCenter,,0,0,0,,Ishit fantastike, zonjë...
+Dialogue: 0,0:22:09.08,0:22:10.33,BottomCenter,,0,0,0,,jo, Mami!
+Dialogue: 0,0:22:11.25,0:22:14.29,BottomCenter,,0,0,0,,Faleminderit që më ndihmove të bëja Iopallatin.
+Dialogue: 0,0:22:14.38,0:22:15.63,BottomCenter,,0,0,0,,Ishte argëtuese.
+Dialogue: 0,0:22:15.71,0:22:20.13,BottomCenter,,0,0,0,,Askush tjetër nuk na vizitoi,\Npor ishte shumë bukur, voodie.
+Dialogue: 0,0:22:20.92,0:22:22.54,BottomCenter,,0,0,0,,Të dua, Voodie.
+Dialogue: 0,0:22:22.63,0:22:23.46,BottomCenter,,0,0,0,,Mirupafshim.
+Dialogue: 0,0:22:23.54,0:22:24.42,BottomCenter,,0,0,0,,{\i1}Mirupafshim.{\i0}
+Dialogue: 0,0:22:24.50,0:22:26.21,BottomCenter,,0,0,0,,Edhe vëllai thotë mirupafshim.
+Dialogue: 0,0:22:26.29,0:22:27.71,BottomCenter,,0,0,0,,Mirupafshim, voodie.
+Dialogue: 0,0:22:27.79,0:22:30.29,BottomCenter,,0,0,0,,Të rrimë bashkë përgjithmonë, voodie.
+Dialogue: 0,0:22:31.04,0:22:33.08,BottomCenter,,0,0,0,,Tani jemi miq, apo jo?
+Dialogue: 0,0:22:33.17,0:22:34.29,BottomCenter,,0,0,0,,Madje shoqe të ngushta.
+Dialogue: 0,0:22:34.58,0:22:35.71,BottomCenter,,0,0,0,,E di, apo jo?
+Dialogue: 0,0:22:35.79,0:22:40.75,BottomCenter,,0,0,0,,Jemi MMPV — miq më të mirë përgjithmonë, voodie.
+Dialogue: 0,0:22:41.25,0:22:43.67,BottomCenter,,0,0,0,,Këtu ndahen rrugët tona.
+Dialogue: 0,0:22:43.75,0:22:45.21,BottomCenter,,0,0,0,,Do të më marrësh malli.
+Dialogue: 0,0:22:45.29,0:22:46.92,BottomCenter,,0,0,0,,Kaluam kaq shumë kohë bashkë.
+Dialogue: 0,0:22:47.00,0:22:50.88,BottomCenter,,0,0,0,,Jam e lumtur që s'do të\Nkujdesem më për ty.
+Dialogue: 0,0:22:50.96,0:22:53.33,BottomCenter,,0,0,0,,Mirë, atëherë.
+Dialogue: 0,0:22:54.71,0:22:56.75,BottomCenter,,0,0,0,,Epo, vazhdo kështu.
+Dialogue: 0,0:22:56.83,0:22:58.92,BottomCenter,,0,0,0,,Do të të ruaj nga larg.
+Dialogue: 0,0:23:02.71,0:23:03.96,BottomCenter,,0,0,0,,Voodie?
+Dialogue: 0,0:23:04.04,0:23:05.63,BottomCenter,,0,0,0,,Ç'ke, Voodie?
+Dialogue: 0,0:23:05.71,0:23:07.17,BottomCenter,,0,0,0,,E mbaroi punën e vet.
+Dialogue: 0,0:23:07.25,0:23:09.29,BottomCenter,,0,0,0,,Është sërish thjesht një kukull.
+Dialogue: 0,0:23:09.67,0:23:12.67,BottomCenter,,0,0,0,,Mund ta marrësh në shtëpi\Ndhe ta mbash pranë vetes.
+Dialogue: 0,0:23:17.96,0:23:19.17,BottomCenter,,0,0,0,,Ashtu do të bëj.
+Dialogue: 0,0:23:19.67,0:23:24.13,BottomCenter,,0,0,0,,Më ruaj derisa të\Narrij në klasën e parë, mirë?
+Dialogue: 0,0:23:25.38,0:23:28.13,BottomCenter,,0,0,0,,Profesor Klod! M'u thye shkopi!
+Dialogue: 0,0:23:28.21,0:23:29.88,BottomCenter,,0,0,0,,Po, e ke sfilitur mjaft.
+Dialogue: 0,0:23:29.96,0:23:32.08,BottomCenter,,0,0,0,,Do të të çoj në një dyqan të mirë.\NTë shkojmë në qytet.
+Dialogue: 0,0:23:32.17,0:23:33.83,BottomCenter,,0,0,0,,A është kjo ajo që mendoj unë?
+Dialogue: 0,0:23:33.92,0:23:35.88,BottomCenter,,0,0,0,,Episodi i ardhshëm: "Takimi i ndaluar."
+Dialogue: 0,0:23:35.96,0:23:39.58,BottomCenter,,0,0,0,,Dua të zgjedh rroba të bukura e\Ntë bëj grim e t'i rregulloj flokët!
+

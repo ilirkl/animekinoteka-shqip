@@ -234,6 +234,20 @@
       "assFile": "ass/at-687959.sq.ass",
       "offset": 0,
       "sourceReleaseId": "687959"
+    },
+    {
+      "id": "at-687966",
+      "title": "The Classroom of a Black Cat and a Witch",
+      "episode": "23",
+      "malId": 62171,
+      "anilistId": 196974,
+      "slugs": [
+        "the-classroom-of-a-black-cat-and-a-witch-bavvd"
+      ],
+      "file": "files/at-687966.sq.vtt",
+      "assFile": "ass/at-687966.sq.ass",
+      "offset": 0,
+      "sourceReleaseId": "687966"
     }
   ]
 }
