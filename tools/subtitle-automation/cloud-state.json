@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-16T11:05:25Z",
+  "updated": "2026-09-16T14:10:29Z",
   "pending": [
     {
       "sourceReleaseId": "688367",
@@ -15,6 +15,31 @@
       "sourceEpisode": "11",
       "status": "hold-ambiguous",
       "reason": "Top Anikoto candidate did not meet the minimum confidence score; catalog already contains a likely matching episode"
+    },
+    {
+      "sourceReleaseId": "688753",
+      "sourceTitle": "Re Zero kara Hajimeru Isekai Seikatsu",
+      "sourceEpisode": "83",
+      "status": "hold-ambiguous",
+      "reason": "Multiple equally scored Anikoto candidates"
+    },
+    {
+      "sourceReleaseId": "688736",
+      "sourceTitle": "Youjo Senki S2",
+      "sourceEpisode": "11",
+      "status": "queued",
+      "slug": "youjo-senki-ii",
+      "malId": 49233,
+      "anilistId": 135865
+    },
+    {
+      "sourceReleaseId": "688706",
+      "sourceTitle": "Clevatess S2",
+      "sourceEpisode": "11",
+      "status": "queued",
+      "slug": "clevatess-season-2",
+      "malId": 62513,
+      "anilistId": null
     }
   ]
 }
