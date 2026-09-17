@@ -352,6 +352,24 @@
       "sourceEpisode": "11",
       "sourceTitle": "Toukutsu Ou",
       "numberingEvidence": "https://anikototv.to/watch/tomb-raider-king-91d21"
+    },
+    {
+      "id": "at-688753",
+      "title": "Re:ZERO -Starting Life in Another World- Season 4",
+      "episode": "17",
+      "malId": 61316,
+      "anilistId": null,
+      "slugs": [
+        "re-zero-starting-life-in-another-world-season-4-4hk9h"
+      ],
+      "file": "files/at-688753.sq.vtt",
+      "assFile": "ass/at-688753.sq.ass",
+      "offset": 0,
+      "sourceReleaseId": "688753",
+      "sourceEpisode": "83",
+      "sourceTitle": "Re Zero kara Hajimeru Isekai Seikatsu",
+      "part": 4,
+      "numberingEvidence": "https://anikototv.to/watch/re-zero-starting-life-in-another-world-season-4-4hk9h"
     }
   ]
 }

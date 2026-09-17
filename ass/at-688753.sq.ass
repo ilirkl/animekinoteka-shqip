@@ -1,0 +1,356 @@
+﻿[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: italicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashback italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashbackitalicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: overlaptop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: sign_Arial,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_ArialBlack,Arial Black,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_CourierNew,Courier New,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_ComicSansMS,Comic Sans MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_Georgia,Georgia,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_Impact,Impact,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_TimesNewRoman,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_TrebuchetMS,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_Verdana,Verdana,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: Episode Title,Times New Roman,30,&H00000000,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,30,30,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.68,0:00:04.31,main,Subaru,0,0,0,,Emri im është Subaru Natsuki!
+Dialogue: 0,0:00:04.68,0:00:07.65,main,Subaru,0,0,0,,Jam kalorësi numër një i Emilia-tanit!
+Dialogue: 0,0:00:09.53,0:00:15.53,main,Rye,0,0,0,,A s'të duket se po e ul pak\Nsi tepër mbrojtjen tënde?!
+Dialogue: 0,0:00:16.53,0:00:19.48,main,Emilia,0,0,0,,Unë nuk e ul kurrë mbrojtjen!
+Dialogue: 0,0:00:24.50,0:00:25.96,main,Subaru,0,0,0,,Dreqi! Ai ia doli të...
+Dialogue: 0,0:00:25.96,0:00:26.87,main,Emilia,0,0,0,,Subaru!
+Dialogue: 0,0:00:26.87,0:00:28.44,main,Subaru,0,0,0,,Uou, uou!
+Dialogue: 0,0:00:28.44,0:00:30.50,main,Subaru,0,0,0,,Emilia-tan!
+Dialogue: 0,0:00:30.50,0:00:34.26,main,Subaru,0,0,0,,Flokët e tu janë kaq të butë dhe me erë\Nkaq të mirë! Mos po përdor ndonjë shampo të re?
+Dialogue: 0,0:00:34.26,0:00:37.14,main,Emilia,0,0,0,,Subaru, trap! Trap i vërtetë!
+Dialogue: 0,0:00:37.14,0:00:40.71,main,Emilia,0,0,0,,Isha kaq, kaq shumë e shqetësuar për\Nty, o trap! Trap! Trap!
+Dialogue: 0,0:00:40.71,0:00:43.19,main,Subaru,0,0,0,,Shumë herë the 'trap'...
+Dialogue: 0,0:00:43.19,0:00:45.62,main,Subaru,0,0,0,,Dua të them, s'kam justifikim, por...
+Dialogue: 0,0:00:49.85,0:00:52.03,main,Emilia,0,0,0,,Je kthyer në vete tani?
+Dialogue: 0,0:00:52.03,0:00:52.61,main,Subaru,0,0,0,,Po.
+Dialogue: 0,0:00:53.11,0:00:56.07,main,Emilia,0,0,0,,Ishe prapë Subaru edhe kur\Nnuk i kishe kujtimet e tua.
+Dialogue: 0,0:00:56.07,0:00:59.05,main,Emilia,0,0,0,,Nuk zgjati shumë,\Npor ti u përpoqe aq shumë që të...
+Dialogue: 0,0:00:59.05,0:01:00.83,main,Subaru,0,0,0,,E di. Është në rregull.
+Dialogue: 0,0:01:01.30,0:01:06.07,main,Subaru,0,0,0,,Ai Subaru është ende këtu,\Nbrenda nesh të dyve.
+Dialogue: 0,0:01:06.07,0:01:09.39,main,Subaru,0,0,0,,Kështu që gjithçka është vërtet në rregull, Emilia-tan.
+Dialogue: 0,0:01:09.39,0:01:10.25,main,Emilia,0,0,0,,Po.
+Dialogue: 0,0:01:21.19,0:01:22.47,main,Subaru,0,0,0,,Të gjeta.
+Dialogue: 0,0:01:24.38,0:01:27.98,main,Subaru,0,0,0,,Gjëja e parë në radhë, le të shkojmë\Ntë marrim partneren time të adhurueshme.
+Dialogue: 0,0:02:58.40,0:02:59.42,main,Subaru,0,0,0,,Beako!
+Dialogue: 0,0:02:59.42,0:03:00.66,main,Emilia,0,0,0,,Beatrice!
+Dialogue: 0,0:03:01.35,0:03:06.11,main,Beatrice,0,0,0,,S-Subaru dhe një grua\Nqë nuk e njoh qenkan këtu!
+Dialogue: 0,0:03:06.55,0:03:10.26,main,Subaru,0,0,0,,Oh, Beako! Je kaq e lehtë! Dhe kaq e lezetshme!
+Dialogue: 0,0:03:10.26,0:03:14.00,main,Emilia,0,0,0,,Shiko, Beatrice! Subaru\Nmban mend çdo gjë tani!
+Dialogue: 0,0:03:11.12,0:03:14.75,top,Subaru,0,0,0,,Ja kështu! Hopa-hopa! Hopa-hopa!
+Dialogue: 0,0:03:14.00,0:03:17.71,main,Beatrice,0,0,0,,Prit, me sa duket! Prit, të thashë!
+Dialogue: 0,0:03:17.71,0:03:21.41,main,Beatrice,0,0,0,,Subaru, a mban mend vërtet\Nçdo gjë, me sa duket?
+Dialogue: 0,0:03:21.41,0:03:25.78,main,Beatrice,0,0,0,,Përfshirë Betty-n dhe mënyrën\Nsi jetonim? Çdo gjë?
+Dialogue: 0,0:03:25.78,0:03:30.17,main,Subaru,0,0,0,,Po, ashtu është.\NNdaj mos u duk aq e shqetësuar.
+Dialogue: 0,0:03:30.17,0:03:31.38,main,Subaru,0,0,0,,Përveç kësaj...
+Dialogue: 0,0:03:34.11,0:03:36.51,main,Subaru,0,0,0,,Uh... motra e madhe?
+Dialogue: 0,0:03:37.89,0:03:40.72,main,Ram,0,0,0,,Bora u shkri me të vërtetë shpejt, apo jo?
+Dialogue: 0,0:03:40.72,0:03:43.02,main,Ram,0,0,0,,Pikërisht ajo zhurmë e madhe për asgjë\Nqë prisja nga ty, Barusu.
+Dialogue: 0,0:03:43.67,0:03:45.78,main,Subaru,0,0,0,,Është kthimi im i shumëpritur!
+Dialogue: 0,0:03:45.78,0:03:50.29,main,Subaru,0,0,0,,Njihuni me Subaru Natsuki-n, njeriun e pranverës\Nqë vjen kur bora shkri...
+Dialogue: 0,0:03:51.10,0:03:51.82,main,Subaru,0,0,0,,Au...
+Dialogue: 0,0:03:52.91,0:03:56.82,main,Emilia,0,0,0,,Duket se Patrasche është shumë\Ne lumtur të të shohë përsëri.
+Dialogue: 0,0:03:56.82,0:04:00.29,main,Subaru,0,0,0,,Më duket sikur ka kaluar një përjetësi qysh kur\Nkam marrë një mikpritje tsundere si kjo.
+Dialogue: 0,0:04:00.29,0:04:03.79,main,Subaru,0,0,0,,Jo. Më vjen keq që të shqetësova edhe ty.
+Dialogue: 0,0:04:05.82,0:04:09.27,main,Subaru,0,0,0,,Por duhet t'i ruaj\Nsentimentalizmat për më vonë.
+Dialogue: 0,0:04:09.27,0:04:11.02,main,Subaru,0,0,0,,Le ta mbyllim këtë punë shpejt.
+Dialogue: 0,0:04:11.02,0:04:13.52,main,Ram,0,0,0,,Është diçka që dua të pyes më parë.
+Dialogue: 0,0:04:14.29,0:04:16.01,main,Emilia,0,0,0,,Oh, unë?
+Dialogue: 0,0:04:16.01,0:04:19.71,main,Emilia,0,0,0,,Po! Jam Emilia. Thjesht Emilia.
+Dialogue: 0,0:04:19.71,0:04:21.43,main,Emilia,0,0,0,,Ka shumë gjëra që do të doja të thosha,
+Dialogue: 0,0:04:21.43,0:04:26.19,main,Emilia,0,0,0,,por ne jemi familje... ti, unë dhe Beatrice...\Ndhe po shkojmë drejt të njëjtit qëllim.
+Dialogue: 0,0:04:27.18,0:04:30.29,main,Emilia,0,0,0,,Çfarë? Mos thashë ndonjë gjë të çuditshme?
+Dialogue: 0,0:04:30.69,0:04:34.07,main,Ram,0,0,0,,Ka shumë gjëra që do të doja\Ntë vërtetoja, por s'ka rëndësi.
+Dialogue: 0,0:04:34.07,0:04:35.70,main,Ram,0,0,0,,Lakorja qëndron prapa kësaj, apo jo?
+Dialogue: 0,0:04:35.70,0:04:37.66,main,Ram,0,0,0,,Nuk më pëlqen thjesht të pranoj humbjen.
+Dialogue: 0,0:04:38.26,0:04:42.61,main,Emilia,0,0,0,,Jam dakord. Do t'ua kthejmë me siguri!
+Dialogue: 0,0:04:42.61,0:04:46.37,main,Beatrice,0,0,0,,Tamam! Do t'ua shpaguajmë\Nnjëqind milionë fish, me sa duket!
+Dialogue: 0,0:04:47.11,0:04:49.71,main,Subaru,0,0,0,,Tani po që ndihem vërtet sikur jam kthyer në shtëpi!
+Dialogue: 0,0:04:51.03,0:04:53.55,main,Subaru,0,0,0,,Pra kjo është ajo që po ndodh\Nnë kullë tani.
+Dialogue: 0,0:04:53.98,0:04:57.21,main,Subaru,0,0,0,,Me fjalë të tjera, pengesat konkrete\Npara nesh janë...
+Dialogue: 0,0:04:57.21,0:04:58.85,main,Ram,0,0,0,,Dy Lakmitë...
+Dialogue: 0,0:04:58.85,0:05:02.06,main,Emilia,0,0,0,,...bishat magjike që sulmojnë\Nnga jashtë, dhe...
+Dialogue: 0,0:05:02.06,0:05:05.31,main,Beatrice,0,0,0,,...sulmi i Shaula-s. Katër pengesa.
+Dialogue: 0,0:05:05.31,0:05:06.48,main,Subaru,0,0,0,,E drejtë.
+Dialogue: 0,0:05:08.32,0:05:11.70,italics,Subaru INT,0,0,0,,Pra ajo duhet të jetë shfaqur për të njëjtën\Narsye si te Shenjtërorja...
+Dialogue: 0,0:05:11.70,0:05:14.81,italics,Subaru INT,0,0,0,,sepse Rui ishte këtu, dhe ajo\Ndi rreth Kthimit me anë të Vdekjes.
+Dialogue: 0,0:05:14.81,0:05:19.07,italics,Subaru INT,0,0,0,,Tani që ajo iku,\Nnuk duhet të kthehet më... mendoj.
+Dialogue: 0,0:05:19.07,0:05:20.51,main,Emilia,0,0,0,,Subaru?
+Dialogue: 0,0:05:20.51,0:05:21.95,main,Subaru,0,0,0,,Oh, më falni.
+Dialogue: 0,0:05:21.95,0:05:25.24,main,Emilia,0,0,0,,A je mirë? A ndihesh sikur\Npo të tërheqin andej e këtej?
+Dialogue: 0,0:05:25.24,0:05:27.96,main,Subaru,0,0,0,,Ja edhe një shprehje tjetër që\Nkisha kohë pa e dëgjuar...
+Dialogue: 0,0:05:29.25,0:05:31.21,main,Emilia,0,0,0,,Subaru! Thuaje edhe një herë!
+Dialogue: 0,0:05:31.52,0:05:33.42,main,Subaru,0,0,0,,Më vonë, në rregull? Do ta them më vonë.
+Dialogue: 0,0:05:35.77,0:05:38.40,main,Subaru,0,0,0,,Gjithsesi, këto janë\Nkatër pengesat me të cilat përballemi.
+Dialogue: 0,0:05:38.40,0:05:42.13,main,Subaru,0,0,0,,Do t'i përballojmë të gjithë\Nsë bashku. Është luftë e gjithanshme.
+Dialogue: 0,0:05:42.13,0:05:44.35,main,Subaru,0,0,0,,Dhe për këtë... Ram.
+Dialogue: 0,0:05:54.69,0:05:55.50,main,Foxidna,0,0,0,,Shaula?!
+Dialogue: 0,0:05:55.91,0:06:00.18,main,Shaula,0,0,0,,Dikush... Dikush theu një rregull...
+Dialogue: 0,0:06:01.20,0:06:03.81,main,Foxidna,0,0,0,,Kjo është keq.\NAjo nuk mban dot më.
+Dialogue: 0,0:06:04.44,0:06:06.23,main,Foxidna,0,0,0,,Meili, si po ia del mbanë?
+Dialogue: 0,0:06:06.23,0:06:09.04,main,Meili,0,0,0,,I kam duart plot, siç po e sheh!
+Dialogue: 0,0:06:10.11,0:06:11.89,main,Subaru,0,0,0,,Shaula!
+Dialogue: 0,0:06:16.83,0:06:18.26,main,Shaula,0,0,0,,Zotëri?
+Dialogue: 0,0:06:21.95,0:06:24.42,main,Shaula,0,0,0,,Zotëri, të lutem... Më jep...
+Dialogue: 0,0:06:24.42,0:06:27.88,main,Shaula,0,0,0,,Më jep urdhrin!
+Dialogue: 0,0:06:31.47,0:06:34.19,main,Shaula,0,0,0,,Nëse nuk ma jep... unë...
+Dialogue: 0,0:06:35.60,0:06:37.01,main,Shaula,0,0,0,,Zotëri!
+Dialogue: 0,0:06:38.38,0:06:44.03,main,Subaru,0,0,0,,Po ta përsëris, s'ka asnjë arsye\Nqë të më quash zotëri.
+Dialogue: 0,0:06:47.26,0:06:50.48,main,Subaru,0,0,0,,Nuk do të të them të vrasësh veten.
+Dialogue: 0,0:06:50.48,0:06:54.51,main,Subaru,0,0,0,,Nuk do të të lë t'i japësh fund në lot\N400 viteve të tua të pritjes!
+Dialogue: 0,0:06:55.93,0:06:59.02,main,Shaula,0,0,0,,Zotëri... të dua!
+Dialogue: 0,0:07:16.27,0:07:18.24,main,Subaru,0,0,0,,Meili! Echidna!
+Dialogue: 0,0:07:18.24,0:07:20.03,main,Foxidna,0,0,0,,Natsuki?! Je kthyer në...
+Dialogue: 0,0:07:20.03,0:07:20.50,main,Foxidna,0,0,0,,Jo...
+Dialogue: 0,0:07:21.04,0:07:22.36,main,Foxidna,0,0,0,,I rimore kujtimet e tua?!
+Dialogue: 0,0:07:22.36,0:07:25.55,main,Subaru,0,0,0,,Kuptoke shpejt. Nga e dite?
+Dialogue: 0,0:07:25.55,0:07:27.95,main,Foxidna,0,0,0,,E kuptoj nga shprehja në fytyrën e Beatrice-s.
+Dialogue: 0,0:07:28.89,0:07:30.08,main,Foxidna,0,0,0,,Kush është...
+Dialogue: 0,0:07:30.08,0:07:33.24,main,Subaru,0,0,0,,Është vepër e Lakmisë. Njësoj si Julius-i.
+Dialogue: 0,0:07:33.24,0:07:34.76,main,Subaru,0,0,0,,Emri i saj është Emilia.
+Dialogue: 0,0:07:37.78,0:07:40.82,main,Subaru,0,0,0,,Echidna, bashkohu me Julius-in.
+Dialogue: 0,0:07:40.82,0:07:44.00,main,Subaru,0,0,0,,Kam folur me Emilia-n se çfarë\Nduhet bërë prej andej.
+Dialogue: 0,0:07:44.00,0:07:45.61,main,Foxidna,0,0,0,,Çfarë do të bëni ju të dy?
+Dialogue: 0,0:07:45.61,0:07:50.53,main,Beatrice,0,0,0,,Subaru dhe Betty do të luajnë me\Nkëtë akrep gjigant, me sa duket.
+Dialogue: 0,0:07:50.85,0:07:55.04,main,Foxidna,0,0,0,,Nuk do t'i vë në dyshim\Nplanet e tua tani. Do të bindem.
+Dialogue: 0,0:07:55.04,0:07:56.40,main,Foxidna,0,0,0,,Ndonjë mesazh për Julius-in?
+Dialogue: 0,0:07:56.40,0:07:58.45,main,Subaru,0,0,0,,Jo, jo veçanërisht.
+Dialogue: 0,0:07:58.45,0:08:01.00,main,Subaru,0,0,0,,Ai është Julius Juukulius, e di vetë.
+Dialogue: 0,0:08:02.46,0:08:04.95,main,Subaru,0,0,0,,Oh, në fakt, kam një mesazh!
+Dialogue: 0,0:08:04.95,0:08:06.96,main,Subaru,0,0,0,,Të gjithë të tjerët po kalojnë një kohë të vështirë,
+Dialogue: 0,0:08:06.96,0:08:10.24,main,Subaru,0,0,0,,ndaj nxito të përfundosh\Npunën tënde që t'i ndihmosh ata.
+Dialogue: 0,0:08:10.24,0:08:13.52,main,Foxidna,0,0,0,,E kuptova. Do t'ia përcjell fjalë për fjalë.
+Dialogue: 0,0:08:15.88,0:08:18.88,main,Subaru,0,0,0,,Pikërisht siç diskutuam.\NTi je çelësi këtu, Emilia-tan.
+Dialogue: 0,0:08:18.88,0:08:21.00,main,Emilia,0,0,0,,Në rregull. Ma lër mua.
+Dialogue: 0,0:08:21.00,0:08:22.88,main,Emilia,0,0,0,,Dhe mos shko të vdesësh\Napo ndonjë gjë të tillë, mirë?
+Dialogue: 0,0:08:23.20,0:08:24.59,main,Subaru,0,0,0,,Sigurisht.
+Dialogue: 0,0:08:26.43,0:08:29.69,main,Meili,0,0,0,,Dhe? Çfarë supozohet të bëj unë?
+Dialogue: 0,0:08:29.69,0:08:32.14,main,Subaru,0,0,0,,Më vjen keq, por do të na ndihmosh ne, Meili.
+Dialogue: 0,0:08:32.51,0:08:38.62,main,Subaru,0,0,0,,Ti, unë dhe Beako do të ndalojmë\Nturmën e bishave dhe akrepin e madh.
+Dialogue: 0,0:08:39.76,0:08:40.69,main,Beatrice,0,0,0,,Po vjen!
+Dialogue: 0,0:08:44.88,0:08:46.61,main,Meili,0,0,0,,Kapuni fort!
+Dialogue: 0,0:08:54.79,0:08:57.68,main,Beatrice,0,0,0,,Uou, uou, uou, me sa duket!
+Dialogue: 0,0:08:58.60,0:09:03.62,main,Subaru,0,0,0,,Nuk e kisha menduar kurrë se unë dhe ti\Ndo të luftonim krah për krah!
+Dialogue: 0,0:09:08.88,0:09:10.06,main,Meili,0,0,0,,Shmangiuni!
+Dialogue: 0,0:09:10.86,0:09:13.53,main,Beatrice,0,0,0,,Uou, uou, uou, të thashë!
+Dialogue: 0,0:09:19.89,0:09:21.80,main,Subaru,0,0,0,,As që ndihem i gjallë...
+Dialogue: 0,0:09:21.80,0:09:24.01,main,Subaru,0,0,0,,Ishte si një makth!
+Dialogue: 0,0:09:24.01,0:09:26.46,main,Meili,0,0,0,,Oh, kjo sapo ka filluar.
+Dialogue: 0,0:09:29.66,0:09:35.32,main,Subaru,0,0,0,,Le ta bëjmë! Do ta shkatërrojmë fatin... ose më saktë,\Ntë gjithë sistemin e kullës!
+Dialogue: 0,0:09:38.32,0:09:42.14,main,Reid,0,0,0,,Vërtet mendon se mund të më mundësh\Nashtu, vlla?!
+Dialogue: 0,0:09:48.74,0:09:49.92,main,Emilia,0,0,0,,Mjaft më.
+Dialogue: 0,0:09:59.89,0:10:02.58,main,Reid,0,0,0,,Ç'dreqin? Qenke shumë seksi!
+Dialogue: 0,0:10:02.58,0:10:06.65,main,Reid,0,0,0,,Tmerrësisht seksi! Më mirë të përballem me ty!
+Dialogue: 0,0:10:07.05,0:10:09.06,main,Emilia,0,0,0,,Më vjen keq që ndërhyra,
+Dialogue: 0,0:10:09.06,0:10:12.41,main,Emilia,0,0,0,,por na duhet Julius-i për të të mposhtur ty.
+Dialogue: 0,0:10:12.41,0:10:14.38,main,Reid,0,0,0,,Çfarë the?
+Dialogue: 0,0:10:14.38,0:10:16.64,main,Julius,0,0,0,,E di që sapo më shpëtove, por...
+Dialogue: 0,0:10:16.64,0:10:19.84,main,Julius,0,0,0,,Echidna, kush është kjo grua?
+Dialogue: 0,0:10:19.84,0:10:24.80,main,Foxidna,0,0,0,,Sipas Natsukit, ajo është dikush\Nnë të njëjtën pozitë si ti.
+Dialogue: 0,0:10:24.80,0:10:25.50,main,Julius,0,0,0,,Çfarë?
+Dialogue: 0,0:10:26.02,0:10:30.97,main,Emilia,0,0,0,,Po, Julius. Tani e di\Nshumë mirë se si ndihesh.
+Dialogue: 0,0:10:31.28,0:10:33.70,main,Julius,0,0,0,,Atëherë qenka e vërtetë...
+Dialogue: 0,0:10:33.70,0:10:37.28,main,Reid,0,0,0,,Hej, jepi. Cili është muhabeti yt, e bukur?
+Dialogue: 0,0:10:37.28,0:10:40.52,main,Reid,0,0,0,,Për ndonjë arsye, dora ime thjesht nuk\Ndo që të zgjatet për të të ndaluar.
+Dialogue: 0,0:10:40.52,0:10:41.31,main,Reid,0,0,0,,Mos më thuaj...
+Dialogue: 0,0:10:41.69,0:10:44.36,main,Reid,0,0,0,,që e ke kaluar tashmë provimin?!
+Dialogue: 0,0:10:44.36,0:10:48.32,main,Emilia,0,0,0,,Po, ashtu është. Më preke gjoksin\Nme shkopinjtë e tu dhe humbe.
+Dialogue: 0,0:10:48.32,0:10:52.14,main,Reid,0,0,0,,Ha! Nuk mund të kisha kërkuar\Nnjë mënyrë më zbavitëse për të humbur!
+Dialogue: 0,0:10:52.14,0:10:54.79,main,Reid,0,0,0,,Është një mëkat i vërtetë që nuk e mbaj mend!
+Dialogue: 0,0:10:54.79,0:10:56.91,main,Emilia,0,0,0,,Julius, unë...
+Dialogue: 0,0:10:56.91,0:11:02.64,main,Julius,0,0,0,,Shko, e bukura emri i së cilës\Nështë i panjohur njëlloj si imi.
+Dialogue: 0,0:11:02.64,0:11:04.00,main,Julius,0,0,0,,Të uroj më të mirën.
+Dialogue: 0,0:11:05.09,0:11:06.96,main,Emilia,0,0,0,,Në rregull. Edhe unë ty.
+Dialogue: 0,0:11:13.59,0:11:18.22,main,Julius,0,0,0,,A do të qëndrosh këtu\Ndhe të vëzhgosh betejën time?
+Dialogue: 0,0:11:18.22,0:11:21.81,main,Foxidna,0,0,0,,Nëse ma lejon...
+Dialogue: 0,0:11:21.81,0:11:24.00,main,Foxidna,0,0,0,,Jo, nuk është e drejtë.
+Dialogue: 0,0:11:24.00,0:11:28.12,main,Foxidna,0,0,0,,E përcaktova vetë se\Nkjo është ajo që duhet të bëj.
+Dialogue: 0,0:11:28.12,0:11:29.21,main,Foxidna,0,0,0,,Në fund të fundit...
+Dialogue: 0,0:11:30.06,0:11:33.70,main,Foxidna,0,0,0,,Në fund të fundit, ti je kalorësi i Anastasia Hoshin-it.
+Dialogue: 0,0:11:33.99,0:11:35.06,main,Foxidna,0,0,0,,A nuk je?
+Dialogue: 0,0:11:36.84,0:11:39.84,main,Julius,0,0,0,,Kjo më jep edhe më shumë\Nforcë nga sa e prisja.
+Dialogue: 0,0:11:39.84,0:11:42.24,main,Julius,0,0,0,,Dikush që as nuk e di se kush jam
+Dialogue: 0,0:11:42.24,0:11:45.54,main,Julius,0,0,0,,ka besim tek unë dhe vendos shpresat tek unë,
+Dialogue: 0,0:11:45.54,0:11:47.67,main,Julius,0,0,0,,një njeri që fare mirë mund të mos jetë askush.
+Dialogue: 0,0:11:48.06,0:11:50.78,main,Foxidna,0,0,0,,Julius, kam një mesazh për ty.
+Dialogue: 0,0:11:51.59,0:11:56.14,main,Foxidna,0,0,0,,Nxito të mbarosh punën tënde\Nqë të mund të ndihmosh të tjerët.
+Dialogue: 0,0:11:57.65,0:12:02.18,main,Julius,0,0,0,,Nëse ai ka thyer guaskën e tij,\Nnuk duhet të mbetem prapa.
+Dialogue: 0,0:12:05.81,0:12:07.62,main,Reid,0,0,0,,Jam Reid, shpatari i thuprave.
+Dialogue: 0,0:12:07.92,0:12:10.96,main,Reid,0,0,0,,Vazhdo e bjer, por mbaje mend atë emër.
+Dialogue: 0,0:12:12.32,0:12:14.32,main,Julius,0,0,0,,Më lejo të të them emrin tim sërish.
+Dialogue: 0,0:12:14.32,0:12:19.58,main,Julius,0,0,0,,Jam Julius Juukulius, kalorësi numër një\Ni Zonjushës Anastasia Hoshin.
+Dialogue: 0,0:12:20.29,0:12:24.35,main,Julius,0,0,0,,Koha ime duke luajtur rolin\Ne një kalorësi pa emër merr fund tani.
+Dialogue: 0,0:12:28.47,0:12:32.97,main,Rye,0,0,0,,Nuk mund të lidhemi dot as me\NRui-n e vogël e të lezetshme dhe as me Roy-n.
+Dialogue: 0,0:12:32.97,0:12:35.18,main,Rye,0,0,0,,Epo, s'kemi ç'të bëjmë!
+Dialogue: 0,0:12:35.18,0:12:39.98,main,Rye,0,0,0,,Nëse ata nuk munden, do të na duhet\Nta gëlltisim të gjithë këtë vakt vetë!
+Dialogue: 0,0:12:39.98,0:12:41.28,main,Ram,0,0,0,,Sa pa merak që je.
+Dialogue: 0,0:12:42.44,0:12:45.57,main,Ram,0,0,0,,Dhe vërtet mendon se\Nke të drejtë ta bësh këtë?
+Dialogue: 0,0:12:46.38,0:12:51.28,main,Ram,0,0,0,,Kam dëgjuar se ti je ai që grisi dashurinë\Nmes motrave që kisha me Rem-in.
+Dialogue: 0,0:12:54.31,0:12:56.83,main,Ram,0,0,0,,Do të të bëj të hungërish si derr teksa po vdes.
+Dialogue: 0,0:12:56.83,0:13:00.12,main,Reid,0,0,0,,Çfarë ke? Mendon se kjo është lojë?
+Dialogue: 0,0:13:00.12,0:13:03.21,main,Reid,0,0,0,,A mendon? A mendon?!
+Dialogue: 0,0:13:05.26,0:13:07.88,main,Reid,0,0,0,,Siç të ndryshon humori, ashtu të ndryshon dhe shpata.
+Dialogue: 0,0:13:08.22,0:13:12.85,main,Reid,0,0,0,,Po e prisja atë shpërthim\Nnga ty, e megjithatë...
+Dialogue: 0,0:13:12.85,0:13:16.56,main,Reid,0,0,0,,Do të jesh aq i fiksuar\Npas edukatës sa të humbësh?
+Dialogue: 0,0:13:16.56,0:13:19.47,main,Reid,0,0,0,,Dhe je i kënaqur me këtë, vlla?
+Dialogue: 0,0:13:19.47,0:13:21.92,main,Julius,0,0,0,,Të gjitha kritika që më duket se i kam dëgjuar më parë,
+Dialogue: 0,0:13:21.92,0:13:23.78,main,Julius,0,0,0,,por ti vërtet nuk përmbahesh fare, apo jo?
+Dialogue: 0,0:13:23.78,0:13:28.98,main,Reid,0,0,0,,E dija. S'ka asgjë në artin tënd\Ntë shpatës përveç dëshpërimit!
+Dialogue: 0,0:13:31.28,0:13:34.54,main,Reid,0,0,0,,Po bën sikur je ky kalorësi\Ni sjellshëm dhe i duhur,
+Dialogue: 0,0:13:34.54,0:13:38.00,main,Reid,0,0,0,,por nga brenda, je thjesht\Nnjë shpatar i thuprave si unë.
+Dialogue: 0,0:13:38.40,0:13:42.21,main,Reid,0,0,0,,Vetëm të të shoh më zë frymën.\NNuk e duroj dot ta shoh, vlla.
+Dialogue: 0,0:13:44.53,0:13:45.89,main,Julius,0,0,0,,E kuptoj...
+Dialogue: 0,0:13:47.05,0:13:49.05,main,Julius,0,0,0,,Mendoj se më në fund e mora vesh tani.
+Dialogue: 0,0:13:49.41,0:13:50.35,main,Reid,0,0,0,,Hë?
+Dialogue: 0,0:13:50.98,0:13:54.68,main,Julius,0,0,0,,Pse je kaq i pamëshirshëm me mua.
+Dialogue: 0,0:13:54.68,0:13:58.33,main,Julius,0,0,0,,Sheh diçka tek unë\Nqë të kujton veten tënde.
+Dialogue: 0,0:13:58.33,0:14:00.86,main,Reid,0,0,0,,Nuk di asgjë nga ato broçkullat e ndërlikuara.
+Dialogue: 0,0:14:00.86,0:14:03.66,main,Reid,0,0,0,,Di vetëm çfarë më thotë instinkti im:
+Dialogue: 0,0:14:03.66,0:14:07.84,main,Reid,0,0,0,,që do të ishe shumë më interesant\Nnëse do ta hiqje atë maskë!
+Dialogue: 0,0:14:07.84,0:14:09.92,main,Reid,0,0,0,,E di që edhe ti e di këtë!
+Dialogue: 0,0:14:09.92,0:14:12.57,main,Reid,0,0,0,,Nuk ke për të më mundur kurrë kështu siç je tani,
+Dialogue: 0,0:14:12.57,0:14:16.66,main,Reid,0,0,0,,dhe nuk ke për t'i lënë kurrë përshtypje\Nasaj bukuroshes pas teje!
+Dialogue: 0,0:14:18.87,0:14:20.50,main,Julius,0,0,0,,Ke të drejtë.
+Dialogue: 0,0:14:20.78,0:14:24.46,main,Julius,0,0,0,,Pikërisht për këtë arsye nuk do të\Nndaloj kurrë së qeni ky që jam!
+Dialogue: 0,0:14:26.50,0:14:29.27,main,Julius,0,0,0,,Ajo që thua është me siguri e saktë.
+Dialogue: 0,0:14:29.27,0:14:31.22,main,Julius,0,0,0,,Shumë nga thëniet e tua janë të vërteta.
+Dialogue: 0,0:14:31.95,0:14:35.24,main,Julius,0,0,0,,Nuk jam një fëmijë i ligjshëm\Ni familjes Juukulius.
+Dialogue: 0,0:14:35.88,0:14:38.51,main,Julius,0,0,0,,Kam lindur nga njerëz të thjeshtë.
+Dialogue: 0,0:14:38.51,0:14:40.70,main,Julius,0,0,0,,Para se babai im aktual të më merrte,
+Dialogue: 0,0:14:40.70,0:14:43.31,main,Julius,0,0,0,,nuk kisha asnjë njohuri mbi kulturën fisnike.
+Dialogue: 0,0:14:43.31,0:14:47.02,main,Julius,0,0,0,,Ai që jam është diçka që\Ne ndërtova nga themeli.
+Dialogue: 0,0:14:47.02,0:14:49.61,main,Reid,0,0,0,,Është thjesht një fasadë e shëmtuar, sidoqoftë.
+Dialogue: 0,0:14:49.61,0:14:51.50,main,Julius,0,0,0,,Ndoshta ashtu është.
+Dialogue: 0,0:14:51.50,0:14:56.33,main,Julius,0,0,0,,Djali fshatar që nuk dinte asgjë\Nnga idealet fare mirë mund të jetë unë i vërtetë.
+Dialogue: 0,0:14:57.01,0:14:58.29,main,Julius,0,0,0,,Megjithatë...
+Dialogue: 0,0:14:58.94,0:15:01.04,main,Julius,0,0,0,,Takova idealin tim.
+Dialogue: 0,0:15:14.43,0:15:19.74,main,Julius,0,0,0,,Prandaj do t'i çoj aspiratat e mia deri në fund\Ndhe do të mbaj petkun e një kalorësi.
+Dialogue: 0,0:15:19.74,0:15:23.34,main,Julius,0,0,0,,Do të kapem pas pretendimeve të mia\Ndhe do të mbyll brenda veten time origjinale.
+Dialogue: 0,0:15:24.37,0:15:27.72,main,Julius,0,0,0,,Do të qëndroj me qëndrim të denjë,\Ndo të drejtoj rrobat e mia,
+Dialogue: 0,0:15:27.72,0:15:30.26,main,Julius,0,0,0,,do të marr pamjen\Ne atij që dëshiroj të jem,
+Dialogue: 0,0:15:30.26,0:15:32.86,main,Julius,0,0,0,,dhe do të mbahem mbi vendosmërinë time\Npër ta çuar këtë deri në fund.
+Dialogue: 0,0:15:32.86,0:15:37.20,main,Julius,0,0,0,,Kjo është fasada që kam vendosur\Ntë mbaj për gjithë përjetësinë.
+Dialogue: 0,0:15:38.00,0:15:40.63,main,Julius,0,0,0,,Ka, sigurisht, nga ata\Nqë tallen me këtë dukje,
+Dialogue: 0,0:15:40.63,0:15:46.62,main,Julius,0,0,0,,por besoj se ka po aq njerëz\Nqë e shohin atë si të shndritshme,
+Dialogue: 0,0:15:47.26,0:15:50.92,main,Julius,0,0,0,,në të njëjtën mënyrë siç kam aspiruar\Ntë jetoj si kalorës prej shumë kohësh.
+Dialogue: 0,0:15:58.43,0:16:01.72,main,Julius,0,0,0,,Më lejoni t'ju kërkoj ndjesë, sythet e mi.
+Dialogue: 0,0:16:07.78,0:16:10.46,main,Julius,0,0,0,,Kisha frikë nga ndryshimi.
+Dialogue: 0,0:16:11.15,0:16:16.86,main,Julius,0,0,0,,Por tani heq dorë nga ajo\Nvetvete e dobët, e mjerë dhe frikacake.
+Dialogue: 0,0:16:17.79,0:16:21.29,main,Julius,0,0,0,,Sythet e mi, me këtë ju liroj juve.
+Dialogue: 0,0:16:22.06,0:16:25.52,main,Julius,0,0,0,,Më falni që u kapa aq gjatë\Npas lidhjes sonë të thyer.
+Dialogue: 0,0:16:29.75,0:16:33.71,main,Julius,0,0,0,,Pasi i thashë të gjitha këto, tani\Npo ju thërras të gjithëve edhe një herë!
+Dialogue: 0,0:16:34.60,0:16:36.31,main,Julius,0,0,0,,Ju dua të gjithëve.
+Dialogue: 0,0:16:36.84,0:16:41.43,main,Julius,0,0,0,,Nëse mund t'i pranoni afrimet e këtij pretenduesi\Ntë kotë, le të krijojmë një lidhje të re!
+Dialogue: 0,0:16:42.04,0:16:45.94,main,Julius,0,0,0,,Një kontratë të re mes meje dhe jush!
+Dialogue: 0,0:16:52.66,0:16:53.68,main,Julius,0,0,0,,Faleminderit.
+Dialogue: 0,0:16:54.36,0:17:00.06,main,Julius,0,0,0,,Edhe pse mund të lëndojmë njëri-tjetrin,\Nherë thellë, e herë butësisht...
+Dialogue: 0,0:17:00.06,0:17:01.99,main,Julius,0,0,0,,Do të vazhdoj të eci në këtë rrugë.
+Dialogue: 0,0:17:03.70,0:17:08.11,main,Reid,0,0,0,,Je shumë më i fortë tani që\Ndole nga guaska jote.
+Dialogue: 0,0:17:10.93,0:17:13.21,main,Reid,0,0,0,,Do të të bëj të qash!
+Dialogue: 0,0:17:20.24,0:17:22.14,main,Reid,0,0,0,,Me çfarë po qesh?
+Dialogue: 0,0:17:22.42,0:17:25.72,main,Julius,0,0,0,,Asgjë. Thjesht po mendoja
+Dialogue: 0,0:17:25.72,0:17:27.90,main,Julius,0,0,0,,se kur të kthehem në shtëpi prej këtu,
+Dialogue: 0,0:17:27.90,0:17:30.35,main,Julius,0,0,0,,duhet të sfidoj mikun tim Reinhard.
+Dialogue: 0,0:17:31.50,0:17:33.90,main,Reid,0,0,0,,Si the se e kishe emrin, vlla?
+Dialogue: 0,0:17:34.79,0:17:36.96,main,Julius,0,0,0,,Julius Juukulius.
+Dialogue: 0,0:17:36.96,0:17:40.61,main,Julius,0,0,0,,Është një emër mjaft i lehtë për t'u harruar,\Nndaj dëshiroj ta mbaj mend.
+Dialogue: 0,0:17:49.52,0:17:51.38,main,Julius,0,0,0,,Al Cranvel!
+Dialogue: 0,0:17:54.00,0:17:54.92,main,Julius,0,0,0,,Tani...
+Dialogue: 0,0:17:55.32,0:17:56.88,main,Reid,0,0,0,,Mirë, si të duash.
+Dialogue: 0,0:17:57.27,0:17:58.20,main,Julius,0,0,0,,Ja ku po vij!
+Dialogue: 0,0:18:12.97,0:18:13.76,main,Julius,0,0,0,,Ia!
+Dialogue: 0,0:18:18.24,0:18:19.16,main,Julius,0,0,0,,Iku!
+Dialogue: 0,0:18:29.57,0:18:31.36,main,Julius,0,0,0,,Kua! Ia!
+Dialogue: 0,0:18:37.25,0:18:38.78,main,Julius,0,0,0,,Ia! Aro!
+Dialogue: 0,0:18:51.48,0:18:54.95,main,Julius,0,0,0,,Al Clarista!
+Dialogue: 0,0:19:10.29,0:19:14.35,italics,Foxidna INT,0,0,0,,Linda në këtë botë pa asnjë qëllim.
+Dialogue: 0,0:19:15.17,0:19:18.24,italics,Foxidna INT,0,0,0,,Nuk kisha asnjë ide pse linda.
+Dialogue: 0,0:19:19.41,0:19:20.13,italics,Foxidna INT,0,0,0,,Por...
+Dialogue: 0,0:19:24.90,0:19:27.25,main,Foxidna,0,0,0,,A të kujtohet, Ana?
+Dialogue: 0,0:19:28.26,0:19:31.22,main,Foxidna,0,0,0,,Këtu u takova me ty.
+Dialogue: 0,0:19:32.56,0:19:36.00,main,Foxidna,0,0,0,,U mburre se ishe e pangopur
+Dialogue: 0,0:19:36.00,0:19:38.85,main,Foxidna,0,0,0,,dhe doje të shtije në dorë\Nçdo gjë.
+Dialogue: 0,0:19:39.55,0:19:43.30,main,Foxidna,0,0,0,,Prandaj po qëndron këtu\Ndhe nuk po del jashtë, apo jo?
+Dialogue: 0,0:19:44.97,0:19:47.12,main,Foxidna,0,0,0,,Teksa fshihesh brenda od-it tënd,
+Dialogue: 0,0:19:47.44,0:19:50.33,main,Foxidna,0,0,0,,bota e jashtme nuk mund të të arrijë dot.
+Dialogue: 0,0:19:50.84,0:19:55.05,main,Foxidna,0,0,0,,Nëse del prej andej, do të\Nprekesh nga autoriteti i Lakmisë...
+Dialogue: 0,0:19:55.05,0:19:59.99,main,Foxidna,0,0,0,,me fjalë të tjera, do të\Nharrosh Julius Juukulius-in.
+Dialogue: 0,0:20:01.05,0:20:03.84,main,Foxidna,0,0,0,,Dhe kjo të tremb.
+Dialogue: 0,0:20:04.41,0:20:06.64,main,Foxidna,0,0,0,,Për vajzën që donte çdo gjë,
+Dialogue: 0,0:20:06.64,0:20:09.01,main,Foxidna,0,0,0,,asgjë nuk është aq e frikshme sa të humbasësh diçka.
+Dialogue: 0,0:20:09.82,0:20:13.32,main,Foxidna,0,0,0,,Por a je e sigurt se kjo është ajo që do?
+Dialogue: 0,0:20:19.00,0:20:23.19,main,Foxidna,0,0,0,,Dëshiron të humbasësh mundësinë të shohësh\Nkalorësin tënd në momentin e tij më trimëror?
+Dialogue: 0,0:20:23.19,0:20:25.15,main,Foxidna,0,0,0,,Një koprace si ti
+Dialogue: 0,0:20:25.80,0:20:28.41,main,Foxidna,0,0,0,,nuk do të lejonte kurrë që një\Nmundësi e tillë të shkonte dëm.
+Dialogue: 0,0:20:51.30,0:20:52.06,main,Anastasia,0,0,0,,Julius!
+Dialogue: 0,0:20:52.81,0:20:55.52,main,Anastasia,0,0,0,,Kape atë, kalorësi im!
+Dialogue: 0,0:21:18.79,0:21:24.33,main,Reid,0,0,0,,Epo, çfarë fundi i mërzitshëm\Nqë doli të ishte ky.
+Dialogue: 0,0:21:31.55,0:21:34.18,main,Reid,0,0,0,,Besoj se në fund,
+Dialogue: 0,0:21:34.18,0:21:39.39,main,Reid,0,0,0,,një burrë si unë thjesht nuk mund të\Nnxinte brenda një ene tjetër.
+Dialogue: 0,0:21:42.72,0:21:47.24,main,Julius,0,0,0,,Trupi i Roy Alphard-it nuk mund të të përballonte ty?
+Dialogue: 0,0:21:47.24,0:21:49.85,main,Reid,0,0,0,,Mos e keqkupto, vlla.
+Dialogue: 0,0:21:50.41,0:21:52.27,main,Reid,0,0,0,,Sikur të isha në trupin tim,
+Dialogue: 0,0:21:52.27,0:21:54.95,main,Reid,0,0,0,,nuk do të afroheshe dot aq\Nsa të fshije as hundët te unë.
+Dialogue: 0,0:21:54.95,0:21:57.28,main,Julius,0,0,0,,Nuk do ta bëja një gjë të tillë gjithsesi.
+Dialogue: 0,0:21:57.28,0:21:59.80,main,Reid,0,0,0,,Ha! Nuk merr vesh nga qejfi fare.
+Dialogue: 0,0:22:02.89,0:22:06.63,main,Julius,0,0,0,,Kam vetëm respektin më të përzemërt\Npër fuqinë tënde.
+Dialogue: 0,0:22:07.01,0:22:10.25,main,Reid,0,0,0,,Nuk më duhet një djalosh\Nbudalla që të më admirojë mua.
+Dialogue: 0,0:22:10.78,0:22:13.43,main,Reid,0,0,0,,Unë fitova, Julius.
+Dialogue: 0,0:22:17.93,0:22:23.40,main,Julius,0,0,0,,Po. Deri në fundin më të skajshëm,\Nti je fituesi, Reid Astrea.
+Dialogue: 0,0:22:23.40,0:22:24.65,main,Reid,0,0,0,,Ha!
+Dialogue: 0,0:22:25.26,0:22:27.63,main,Reid,0,0,0,,Më pëlqen ajo shprehje në fytyrën tënde...
+Dialogue: 0,0:22:31.64,0:22:33.54,main,Reid,0,0,0,,humbës.
+Dialogue: 0,0:22:31.83,0:22:36.08,Episode Title,Title,0,0,0,,{\fad(812,1)\c&HFEFEFE&\an8}H{\c&H1E00CD&}u{\c&HFEFEFE&}mb{\c&HFDA7C1&}ë{\c&HFEFEFE&}s i Mirë
+Dialogue: 0,0:22:52.45,0:22:54.35,main,Julius,0,0,0,,Është kënaqësi të të takoj.
+Dialogue: 0,0:22:54.35,0:22:55.35,main,Anastasia,0,0,0,,Unë jam...
+Dialogue: 0,0:22:55.90,0:22:58.42,main,Anastasia,0,0,0,,Jam Anastasia Hoshin.
+Dialogue: 0,0:22:58.42,0:23:00.85,main,Anastasia,0,0,0,,Dua çdo gjë në këtë botë.
+Dialogue: 0,0:23:01.57,0:23:04.34,main,Anastasia,0,0,0,,Epo, o burrë jashtëzakonisht i pashëm,
+Dialogue: 0,0:23:04.34,0:23:05.72,main,Anastasia,0,0,0,,si e ke emrin?
+Dialogue: 0,0:23:05.72,0:23:06.40,main,Julius,0,0,0,,Sigurisht.
+Dialogue: 0,0:23:09.41,0:23:11.99,main,Julius,0,0,0,,Jam Julius Juukulius,
+Dialogue: 0,0:23:12.32,0:23:14.03,main,Julius,0,0,0,,kalorësi yt numër një.
+Dialogue: 0,0:23:14.94,0:23:16.79,main,Julius,0,0,0,,Mund të mos e mbash mend,
+Dialogue: 0,0:23:16.79,0:23:19.95,main,Julius,0,0,0,,por unë ta kushtova shpatën time ty.
+Dialogue: 0,0:23:20.93,0:23:27.27,main,Julius,0,0,0,,Jam këtu për të të dhënë gjithë forcën time\Ndhe për të mbështetur ambicien tënde.
+Dialogue: 0,0:23:27.27,0:23:28.62,main,Anastasia,0,0,0,,Ashtu qenka?
+Dialogue: 0,0:23:28.62,0:23:32.13,main,Anastasia,0,0,0,,Nuk mbaj mend vërtet\Nasgjë nga këto, por...
+Dialogue: 0,0:23:32.92,0:23:34.84,main,Anastasia,0,0,0,,Më mjaftoi vetëm një shikim drejt teje
+Dialogue: 0,0:23:35.63,0:23:39.31,main,Anastasia,0,0,0,,për të ditur se duhej të të bëja timin.
+Dialogue: 0,0:23:47.34,0:23:48.18,main,Emilia,0,0,0,,Dola jashtë!
+Dialogue: 0,0:23:48.80,0:23:49.61,main,Emilia,0,0,0,,Hë?
+Dialogue: 0,0:23:50.11,0:23:53.43,main,Emilia,0,0,0,,Kati i parë qenka... jashtë?
+Dialogue: 0,0:23:54.57,0:23:57.07,main,Emilia,0,0,0,,Është madje edhe më lart se retë.
+Dialogue: 0,0:24:06.85,0:24:07.98,main,Emilia,0,0,0,,Ti je...
+Dialogue: 0,0:24:09.63,0:24:13.64,main,Volcanica,0,0,0,,Ti që ke mbërritur majën e kullës,
+Dialogue: 0,0:24:14.38,0:24:18.30,main,Volcanica,0,0,0,,kërkues i plotfuqishmërisë që ke\Nshkelur në katin e parë...
+Dialogue: 0,0:24:19.85,0:24:22.24,main,Volcanica,0,0,0,,Unë jam Volcanica.
+Dialogue: 0,0:24:22.24,0:24:24.63,main,Volcanica,0,0,0,,Sipas besëlidhjes së lashtë,
+Dialogue: 0,0:24:24.63,0:24:28.73,main,Volcanica,0,0,0,,pyes për vullnetin e atij\Nqë ka mbërritur majën.
+Dialogue: 0,0:24:28.73,0:24:38.73,Default,,0,0,0,,
+
