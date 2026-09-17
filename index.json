@@ -384,6 +384,20 @@
       "assFile": "ass/at-689117.sq.ass",
       "offset": 0,
       "sourceReleaseId": "689117"
+    },
+    {
+      "id": "at-689064",
+      "title": "Mebius Dust",
+      "episode": "11",
+      "malId": 63802,
+      "anilistId": 108992,
+      "slugs": [
+        "mebius-dust-a698c"
+      ],
+      "file": "files/at-689064.sq.vtt",
+      "assFile": "ass/at-689064.sq.ass",
+      "offset": 0,
+      "sourceReleaseId": "689064"
     }
   ]
 }
