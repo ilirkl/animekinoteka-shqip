@@ -412,6 +412,23 @@
       "assFile": "ass/at-689010.sq.ass",
       "offset": 0,
       "sourceReleaseId": "689010"
+    },
+    {
+      "id": "at-689154",
+      "title": "KAIJU GIRL CARAMELISE",
+      "episode": "12",
+      "malId": 63150,
+      "anilistId": 204466,
+      "slugs": [
+        "kaiju-girl-caramelise"
+      ],
+      "file": "files/at-689154.sq.vtt",
+      "assFile": "ass/at-689154.sq.ass",
+      "offset": 0,
+      "sourceReleaseId": "689154",
+      "sourceEpisode": "12",
+      "sourceTitle": "Otome Kaijuu Carameliser",
+      "numberingEvidence": "https://anikototv.to/watch/kaiju-girl-caramelise"
     }
   ]
 }

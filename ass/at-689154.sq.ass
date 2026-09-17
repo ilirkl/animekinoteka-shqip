@@ -1,0 +1,310 @@
+﻿[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[Aegisub Project Garbage]
+Audio File: CR_KaijuGirlCarame_S1.0E12_KGCSIM0012_378418_video_ja-jp_J9459676.mp4
+Video File: CR_KaijuGirlCarame_S1.0E12_KGCSIM0012_378418_video_ja-jp_J9459676.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Scroll Position: 223
+Active Line: 257
+Video Position: 30891
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Default - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Italics Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Overlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: SIGNS,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,193,193,20,1
+Style: EPISODE TITLE,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,139,139,20,1
+Style: TV ON SCREEN 1,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0,0,20,1
+Style: TV ON SCREEN 2,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,119,119,20,1
+Style: Ultra Ep Title,Times New Roman,30,&H00FFFCFF,&H000000FF,&H0000A3E2,&H000DA8EA,-1,0,0,0,100,100,0,0,1,1,3,2,10,10,155,1
+Style: Phone Texts,Trebuchet MS,15,&H0085837D,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,245,173,8,1
+Style: Breaking News,Trebuchet MS,24,&H00F9F5FD,&H000000FF,&H003937C6,&H00000000,-1,0,0,0,100,100,0,0,3,2,0,7,10,87,20,1
+Style: Breaking News 2,Trebuchet MS,24,&H00F9F5FD,&H000000FF,&H003937C6,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,10,87,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:08.11,0:00:09.03,Default,Arata,0,0,0,,Harugon!
+Dialogue: 0,0:00:14.30,0:00:20.08,Italics,Kuroe,0,0,0,,M'u duk sikur dëgjova zërin\Ne Minami-kun-it sapo...
+Dialogue: 0,0:02:02.98,0:02:06.48,Ultra Ep Title,sign,0,0,0,,{\shad1.5\fnGeorgia\fs24\c&HEFDEF8&\3c&HF3E0F7&\4c&H353336&\bord1.5\pos(320,128)\clip(261,106,380,108)}Episodi 12
+Dialogue: 0,0:02:02.98,0:02:06.48,Ultra Ep Title,sign,0,0,0,,{\shad1.5\fnGeorgia\fs24\c&HE2CAF6&\3c&HF3E0F7&\4c&H353336&\bord1.5\pos(320,128)\clip(261,108,380,110)}Episodi 12
+Dialogue: 0,0:02:02.98,0:02:06.48,Ultra Ep Title,sign,0,0,0,,{\shad1.5\fnGeorgia\fs24\c&HD5B7F3&\3c&HF3E0F7&\4c&H353336&\bord1.5\pos(320,128)\clip(261,110,380,112)}Episodi 12
+Dialogue: 0,0:02:02.98,0:02:06.48,Ultra Ep Title,sign,0,0,0,,{\shad1.5\fnGeorgia\fs24\c&HC8A3F1&\3c&HF3E0F7&\4c&H353336&\bord1.5\pos(320,128)\clip(261,112,380,114)}Episodi 12
+Dialogue: 0,0:02:02.98,0:02:06.48,Ultra Ep Title,sign,0,0,0,,{\shad1.5\fnGeorgia\fs24\c&HBB8FEF&\3c&HF3E0F7&\4c&H353336&\bord1.5\pos(320,128)\clip(261,114,380,116)}Episodi 12
+Dialogue: 0,0:02:02.98,0:02:06.48,Ultra Ep Title,sign,0,0,0,,{\shad1.5\fnGeorgia\fs24\c&HAE7BEC&\3c&HF3E0F7&\4c&H353336&\bord1.5\pos(320,128)\clip(261,116,380,118)}Episodi 12
+Dialogue: 0,0:02:02.98,0:02:06.48,Ultra Ep Title,sign,0,0,0,,{\shad1.5\fnGeorgia\fs24\c&HA168EA&\3c&HF3E0F7&\4c&H353336&\bord1.5\pos(320,128)\clip(261,118,380,120)}Episodi 12
+Dialogue: 0,0:02:02.98,0:02:06.48,Ultra Ep Title,sign,0,0,0,,{\shad1.5\fnGeorgia\fs24\c&H9454E7&\3c&HF3E0F7&\4c&H353336&\bord1.5\pos(320,128)\clip(261,120,380,122)}Episodi 12
+Dialogue: 0,0:02:02.98,0:02:06.48,Ultra Ep Title,sign,0,0,0,,{\shad1.5\fnGeorgia\fs24\c&H8740E5&\3c&HF3E0F7&\4c&H353336&\bord1.5\pos(320,128)\clip(261,122,380,124)}Episodi 12
+Dialogue: 0,0:02:02.98,0:02:06.48,Ultra Ep Title,sign,0,0,0,,{\shad1.5\fnGeorgia\fs24\c&H7A2CE3&\3c&HF3E0F7&\4c&H353336&\bord1.5\pos(320,128)\clip(261,124,380,126)}Episodi 12
+Dialogue: 0,0:02:02.98,0:02:06.48,Ultra Ep Title,sign,0,0,0,,{\shad1.5\fnGeorgia\fs24\c&H6D19E0&\3c&HF3E0F7&\4c&H353336&\bord1.5\pos(320,128)\clip(261,126,380,128)}Episodi 12
+Dialogue: 0,0:02:02.98,0:02:06.48,Ultra Ep Title,sign,0,0,0,,{\shad1.5\fnGeorgia\fs24\c&H6005DE&\3c&HF3E0F7&\4c&H353336&\bord1.5\pos(320,128)\clip(261,128,380,130)}Episodi 12
+Dialogue: 0,0:02:02.98,0:02:06.48,Ultra Ep Title,sign,0,0,0,,{\shad1.5\fnGeorgia\fs29.25\c&HD0C6F4&\3c&HF5F2F6&\4c&H353336&\bord1.5\pos(319,284)\clip(93,254,256,286)}C{\c&HCABAF3&}h{\c&HC4ADF2&}a{\c&HBEA1F1&}r{\c&HB894F0&}g{\c&HB288F0&}e{\c&HAB7CEF&} {\c&HA56FEE&}T{\c&H9F63ED&}h{\c&H9956EC&}i{\c&H934AEB&}s Një Goditje Me Dashuri
+Dialogue: 0,0:02:02.98,0:02:06.48,Ultra Ep Title,sign,0,0,0,,{\shad1.5\fnGeorgia\fs29.25\c&H934AEB&\3c&HF5F2F6&\4c&H353336&\bord1.5\pos(319,284)\clip(257,255,403,285)}C{\c&HCABAF3&}h{\c&HC4ADF2&}a{\c&HBEA1F1&}r{\c&HB894F0&}g{\c&HB288F0&}e{\c&HAB7CEF&} {\c&HA56FEE&}T{\c&H9F63ED&}h{\c&H9956EC&}i{\c&H934AEB&}s Një Goditje Me Dashuri
+Dialogue: 0,0:02:02.98,0:02:06.48,Ultra Ep Title,sign,0,0,0,,{\shad1.5\fnGeorgia\fs29.25\c&H934AEB&\3c&HF5F2F6&\4c&H353336&\bord1.5\pos(319,284)\clip(403,256,546,284)}C{\c&HCABAF3&}h{\c&HC4ADF2&}a{\c&HBEA1F1&}r{\c&HB894F0&}g{\c&HB288F0&}e{\c&HAB7CEF&} {\c&HA56FEE&}T{\c&H9F63ED&}h{\c&H9956EC&}i{\c&H934AEB&}s {\c&H9650EB&}O{\c&H9956EC&}n{\c&H9C5DEC&}e{\c&H9F63ED&} {\c&HA269ED&}S{\c&HA56FEE&}t{\c&HA875EE&}r{\c&HAB7CEF&}i{\c&HAE82EF&}k{\c&HB288F0&}e{\c&HB58EF0&} {\c&HB894F0&}W{\c&HBB9BF1&}i{\c&HBEA1F1&}t{\c&HC1A7F2&}h{\c&HC4ADF2&} {\c&HC7B3F3&}L{\c&HCABAF3&}o{\c&HCDC0F4&}v{\c&HD0C6F4&}e
+Dialogue: 0,0:02:07.91,0:02:09.48,Default,Reporter,0,0,0,,Po raportoj!
+Dialogue: 0,0:02:09.48,0:02:13.08,Default,Reporter,0,0,0,,Të gjithë qytetarët, ju lutem evakuohuni\Nsa më shpejt të mundeni!
+Dialogue: 0,0:02:22.00,0:02:25.49,Default,Reporter,0,0,0,,Organizmi gjigant fluturues është ende aktiv!
+Dialogue: 0,0:02:25.49,0:02:28.06,Default,Reporter,0,0,0,,Po drejtohet sërish drejt Ginza-s!
+Dialogue: 0,0:02:28.06,0:02:30.52,Default,Reporter,0,0,0,,Të gjithë, ju lutem evakuohuni menjëherë!
+Dialogue: 0,0:02:34.01,0:02:36.39,Default,Manatsu,0,0,0,,Si{\i1}guxoni{\i0}të lëndoni Harugon-in tim!
+Dialogue: 0,0:02:36.39,0:02:38.47,Default,Manatsu,0,0,0,,Do të paguani për këtë!
+Dialogue: 0,0:02:38.47,0:02:40.81,Default,Raimu,0,0,0,,Mana-tee, nuk kemi çfarë të bëjmë!
+Dialogue: 0,0:02:40.81,0:02:43.53,Default,Manatsu,0,0,0,,Shpejt! Duhet të shkojmë te Harugon-i!
+Dialogue: 0,0:02:43.53,0:02:46.30,Default,Raimu,0,0,0,,Në asnjë mënyrë! Ai kaiju tjetër mund të kthehet!
+Dialogue: 0,0:02:46.30,0:02:48.77,Default,Manatsu,0,0,0,,Rairi-san, Seina-san,\Nduhet të evakuoheni të dyja!
+Dialogue: 0,0:02:49.09,0:02:51.98,Default,Manatsu,0,0,0,,Mund të më ulni mua te ajo urë!
+Dialogue: 0,0:02:51.98,0:02:52.67,Default,Butler A,0,0,0,,U kuptua!
+Dialogue: 0,0:02:52.67,0:02:54.11,Default,Raimu,0,0,0,,Mos thuaj 'u kuptua'!
+Dialogue: 0,0:02:54.11,0:02:55.78,Default,Raimu,0,0,0,,Ura po shembet!
+Dialogue: 0,0:02:55.78,0:02:57.33,Default,Raimu,0,0,0,,Ka njerëz atje gjithashtu!
+Dialogue: 0,0:02:58.67,0:03:01.23,Default,Raimu,0,0,0,,Minami-kun?!
+Dialogue: 0,0:03:08.20,0:03:12.17,Default,Daichi,0,0,0,,Të lutem... Të lutem mos më lësho!
+Dialogue: 0,0:03:12.17,0:03:13.76,Default,Arata,0,0,0,,Po, nuk do të të lëshoj.
+Dialogue: 0,0:03:14.05,0:03:14.97,Default,Arata,0,0,0,,Ndaj të lutem...
+Dialogue: 0,0:03:17.22,0:03:19.89,Default,Daichi,0,0,0,,Më ndihmo!
+Dialogue: 0,0:03:19.89,0:03:21.61,Default,Manatsu,0,0,0,,Minami-kun!
+Dialogue: 0,0:03:21.93,0:03:24.95,Default,Manatsu,0,0,0,,A je mirë? Po, me siguri jo!
+Dialogue: 0,0:03:24.95,0:03:26.30,Default,Arata,0,0,0,,Skuadra e Manatsu-san!
+Dialogue: 0,0:03:26.30,0:03:27.65,Default,Arata,0,0,0,,Edhe Seina-san gjithashtu!
+Dialogue: 0,0:03:27.65,0:03:31.57,Default,Raimu,0,0,0,,Po vijmë të të shpëtojmë! Qëndro fort!
+Dialogue: 0,0:03:31.87,0:03:33.36,Default,Manatsu,0,0,0,,Ai do të jetë mirë!
+Dialogue: 0,0:03:33.36,0:03:34.62,Default,Raimu,0,0,0,,Si saktësisht?!
+Dialogue: 0,0:03:34.62,0:03:36.03,Default,Manatsu,0,0,0,,Le të përqendrohemi te Harugon-i!
+Dialogue: 0,0:03:36.03,0:03:38.79,Default,Seina,0,0,0,,Më{\i1}mirë{\i0}mos u rrëzo, fillestar!
+Dialogue: 0,0:03:38.79,0:03:41.49,Default,Seina,0,0,0,,Mos na detyro të kërkojmë aktor tjetër\Nnë këtë fazë të lojës!
+Dialogue: 0,0:03:41.49,0:03:44.01,Default,Seina,0,0,0,,Bëj diçka në këtë çast!
+Dialogue: 0,0:03:44.01,0:03:47.43,Default,Manatsu,0,0,0,,Mirë, po e ul shkallën.
+Dialogue: 0,0:03:46.19,0:03:48.71,Default - Top,Raimu,0,0,0,,Mos bëj sikur\N{\i1}ne{\i0}jemi të çmendurit këtu!
+Dialogue: 0,0:03:52.67,0:03:55.78,Default,Arata,0,0,0,,Kapu fort! Mos shiko poshtë!
+Dialogue: 0,0:03:55.78,0:03:57.62,Default,Daichi,0,0,0,,Kam frikë!
+Dialogue: 0,0:03:57.62,0:03:59.89,Default,Arata,0,0,0,,Shpejt! Ura nuk do të mbajë gjatë!
+Dialogue: 0,0:04:07.81,0:04:08.80,Default,Arata,0,0,0,,Si e ke emrin?
+Dialogue: 0,0:04:11.02,0:04:12.31,Default,Daichi,0,0,0,,Daichi.
+Dialogue: 0,0:04:12.31,0:04:13.44,Default,Arata,0,0,0,,Unë jam Arata.
+Dialogue: 0,0:04:14.07,0:04:17.49,Default,Arata,0,0,0,,Daichi. A e do Akaishi-san?
+Dialogue: 0,0:04:17.49,0:04:20.82,Default,Daichi,0,0,0,,P-Po! E dua! E dua shumë!
+Dialogue: 0,0:04:20.82,0:04:23.31,Default,Daichi,0,0,0,,Edhe pse jam thjesht një fëmijë...
+Dialogue: 0,0:04:23.31,0:04:25.58,Default,Daichi,0,0,0,,nuk do të të lë të më mundësh!
+Dialogue: 0,0:04:25.89,0:04:26.92,Default,Arata,0,0,0,,E kuptoj.
+Dialogue: 0,0:04:28.69,0:04:30.09,Default,Arata,0,0,0,,Jemi rivalë, atëherë.
+Dialogue: 0,0:04:32.45,0:04:34.75,Default,Daichi,0,0,0,,M-Mirë, jam dakord me këtë.
+Dialogue: 0,0:04:35.22,0:04:36.88,Default,Daichi,0,0,0,,Në fund të fundit, ti më shpëtove.
+Dialogue: 0,0:04:37.32,0:04:41.93,Default,Arata,0,0,0,,Nëse ndodh diçka, a do ta\Nmbrosh Akaishi-san për mua?
+Dialogue: 0,0:04:43.75,0:04:46.30,Default,Daichi,0,0,0,,Hej. Çfarë ke ndërmend të bësh?
+Dialogue: 0,0:04:46.30,0:04:47.64,Default,Daichi,0,0,0,,Hajde, shpejt!
+Dialogue: 0,0:04:47.98,0:04:49.35,Default,Raimu,0,0,0,,Minami-kun?!
+Dialogue: 0,0:04:51.06,0:04:53.65,Default,Daichi,0,0,0,,Çfarë po bën?\NDo ta bësh atë të qajë sërish!
+Dialogue: 0,0:04:53.65,0:04:55.30,Default,Daichi,0,0,0,,Nuk e kupton.
+Dialogue: 0,0:04:55.30,0:04:58.86,Default,Daichi,0,0,0,,Ajo qau pasi ju të dy u grindët.
+Dialogue: 0,0:04:58.86,0:05:00.11,Default,Daichi,0,0,0,,Nëse je i dashuri i saj...
+Dialogue: 0,0:05:00.65,0:05:02.82,Default,Daichi,0,0,0,,Nëse je i dashuri i saj,\Nmbroje vetë atë!
+Dialogue: 0,0:05:03.96,0:05:04.72,Default,Arata,0,0,0,,Ke të drejtë.
+Dialogue: 0,0:05:05.67,0:05:06.52,Default,Arata,0,0,0,,Kështu që...
+Dialogue: 0,0:05:08.09,0:05:09.07,Default,Arata,0,0,0,,Do të kthehem.
+Dialogue: 0,0:05:39.96,0:05:41.40,Default,Raimu,0,0,0,,Minami-kun!
+Dialogue: 0,0:05:41.40,0:05:43.74,Default,Raimu,0,0,0,,Minami-kun!
+Dialogue: 0,0:05:44.17,0:05:47.85,Default,Raimu,0,0,0,,Çfarë do t'i them Kuro-taso-s tani?!
+Dialogue: 0,0:05:48.57,0:05:51.88,Default,Raimu,0,0,0,,Por në këtë situatë, ajo mund të...
+Dialogue: 0,0:05:52.50,0:05:54.14,Default,Manatsu,0,0,0,,Mos u shqetësoni.
+Dialogue: 0,0:05:54.82,0:05:57.26,Default,Manatsu,0,0,0,,Kuroe-san është priftëresha e Harugon-it!
+Dialogue: 0,0:05:57.26,0:05:58.59,Default,Manatsu,0,0,0,,Harugon-i me siguri do ta mbrojë atë!
+Dialogue: 0,0:05:58.59,0:06:00.88,Default,Raimu,0,0,0,,Harugon-i u mposht tashmë!
+Dialogue: 0,0:06:05.91,0:06:08.82,Default,Manatsu,0,0,0,,Mos më lër pas, Harugon!
+Dialogue: 0,0:06:08.82,0:06:13.88,Default,Manatsu,0,0,0,,Një botë pa ty është e zhveshur nga kuptimi!
+Dialogue: 0,0:06:13.88,0:06:17.74,Default,Seina,0,0,0,,Idiot. Të paktën kthehu i gjallë.
+Dialogue: 0,0:06:17.74,0:06:18.95,Default,Seina,0,0,0,,Fillestar budalla.
+Dialogue: 0,0:06:21.32,0:06:22.18,Default,Seina,0,0,0,,Hej.
+Dialogue: 0,0:06:36.88,0:06:37.96,Default,Raimu,0,0,0,,Minami-kun!
+Dialogue: 0,0:06:53.56,0:06:55.05,Default,Arata,0,0,0,,Harugon!
+Dialogue: 0,0:07:02.64,0:07:03.68,Default,Arata,0,0,0,,Harugon!
+Dialogue: 0,0:07:09.82,0:07:12.90,Default,Arata,0,0,0,,E di që duhet të ketë dhembur, Harugon.
+Dialogue: 0,0:07:20.96,0:07:22.42,Default,Manatsu,0,0,0,,Fletëza e tij!
+Dialogue: 0,0:07:22.42,0:07:25.49,Default,Manatsu,0,0,0,,Fletëza kurrizore e Harugon-it u ndriçua për një çast!
+Dialogue: 0,0:07:26.13,0:07:27.09,Default,Raimu,0,0,0,,Ku?!
+Dialogue: 0,0:07:27.59,0:07:29.37,Default,Raimu,0,0,0,,Nuk shoh asnjë dritë...
+Dialogue: 0,0:07:29.37,0:07:30.74,Default,Manatsu,0,0,0,,Ishte vetëm për një sekondë.
+Dialogue: 0,0:07:30.74,0:07:32.71,Default,Manatsu,0,0,0,,Nuk ishte imagjinata ime!
+Dialogue: 0,0:07:32.71,0:07:34.35,Default,Manatsu,0,0,0,,E kam seriozisht!
+Dialogue: 0,0:07:38.06,0:07:42.54,Default,Manatsu,0,0,0,,Harugon-i është ende gjallë!
+Dialogue: 0,0:07:40.23,0:07:42.65,Overlap,Raimu,0,0,0,,Qetësohu, Mana-tee!
+Dialogue: 0,0:07:45.03,0:07:47.39,Overlap,Raimu,0,0,0,,Seina-san, më ndihmo ta mbaj!
+Dialogue: 0,0:07:43.09,0:07:43.95,Default,Daichi,0,0,0,,Hej.
+Dialogue: 0,0:07:44.66,0:07:45.75,Default,Daichi,0,0,0,,Hej.
+Dialogue: 0,0:07:45.75,0:07:47.04,Default,Daichi,0,0,0,,Hej!
+Dialogue: 0,0:07:47.04,0:07:48.36,Default,Daichi,0,0,0,,Hej, ju djema!
+Dialogue: 0,0:07:48.36,0:07:51.49,Default,Daichi,0,0,0,,Hej! Kjo është vërtet shumë keq!
+Dialogue: 0,0:07:51.97,0:07:52.83,Default,Daichi,0,0,0,,Shikoni!
+Dialogue: 0,0:08:00.08,0:08:02.71,Default,Raimu,0,0,0,,M-Minami-kun!
+Dialogue: 0,0:08:02.71,0:08:06.61,Default,Raimu,0,0,0,,Çfarë po bën?!
+Dialogue: 0,0:08:07.76,0:08:08.87,Italics Top,Reporter,0,0,0,,Lajm urgjent!
+Dialogue: 0,0:08:08.87,0:08:13.20,Italics Top,Reporter,0,0,0,,Jemi njoftuar se ndodhet një person\Nmbi trupin e organizmit gjigant!
+Dialogue: 0,0:08:13.20,0:08:14.89,Italics Top,Reporter,0,0,0,,A mund të afrohemi më pranë?!
+Dialogue: 0,0:08:15.22,0:08:16.72,Default,Crowd,0,0,0,,Uau, duket e çmendur.
+Dialogue: 0,0:08:16.72,0:08:18.06,Default,Crowd,0,0,0,,Ku është personi?
+Dialogue: 0,0:08:18.06,0:08:19.60,Default,Crowd,0,0,0,,Çfarë po bën?
+Dialogue: 0,0:08:19.92,0:08:21.82,Default,Reporter,0,0,0,,Duket se është një mashkull.
+Dialogue: 0,0:08:21.82,0:08:23.94,Default,Reporter,0,0,0,,Nuk mund t'ia shoh fytyrën nga këtu.
+Dialogue: 0,0:08:24.40,0:08:26.98,Default,Reporter,0,0,0,,Çfarë po përpiqet të bëjë vallë?!
+Dialogue: 0,0:08:29.99,0:08:31.20,Default,Crowd,0,0,0,,Nuk është e sigurt!
+Dialogue: 0,0:08:31.20,0:08:32.82,Default,Crowd,0,0,0,,Afrojeni kamerën më shumë!
+Dialogue: 0,0:08:32.82,0:08:35.10,Default,Crowd,0,0,0,,A nuk është ai Princi i Kaiju-ve?
+Dialogue: 0,0:08:35.10,0:08:37.12,Default,Crowd,0,0,0,,Nuk ka shans të jetë ai...
+Dialogue: 0,0:08:55.87,0:08:58.25,Default,Arata,0,0,0,,Po vij!
+Dialogue: 0,0:08:59.41,0:09:00.53,Default,Arata,0,0,0,,Më prit!
+Dialogue: 0,0:09:02.35,0:09:03.88,Default,Manatsu,0,0,0,,Minami-kun!
+Dialogue: 0,0:09:03.88,0:09:05.72,Default,Manatsu,0,0,0,,Ç'dreqin po bën vallë?!
+Dialogue: 0,0:09:05.72,0:09:07.73,Default,Seina,0,0,0,,Çfarë{\i1}ke{\i0}kështu?!
+Dialogue: 0,0:09:07.73,0:09:09.87,Default,Arata,0,0,0,,Harugon-i është gjallë!
+Dialogue: 0,0:09:09.87,0:09:12.91,Default,Arata,0,0,0,,Nëse afrohem më pranë,\Nmund ta zgjoj atë!
+Dialogue: 0,0:09:13.48,0:09:14.86,Default,Arata,0,0,0,,Ikni me vrap, të gjithë ju!
+Dialogue: 0,0:09:14.86,0:09:16.62,Default,Arata,0,0,0,,Ai kaiju tjetër mund të kthehet!
+Dialogue: 0,0:09:16.62,0:09:17.99,Default,Seina,0,0,0,,Për çfarë po flet?!
+Dialogue: 0,0:09:17.99,0:09:20.50,Default,Seina,0,0,0,,Kthehu këtu në këtë çast!
+Dialogue: 0,0:09:22.58,0:09:26.47,Default,Manatsu,0,0,0,,Vërtet nuk të fitoj dot.
+Dialogue: 0,0:09:31.43,0:09:33.70,Default,Manatsu/Raimu,0,0,0,,Vrapo, Minami-kun!
+Dialogue: 0,0:09:32.74,0:09:34.84,Overlap,Daichi,0,0,0,,Jepi, zotëri!
+Dialogue: 0,0:09:33.70,0:09:36.89,Default,Seina,0,0,0,,Hej, mos e nxisni!
+Dialogue: 1,0:09:52.99,0:09:55.95,Breaking News,sign,0,0,0,,{\clip(m 9 19 l 54 19 93 19 102 32 96 46 9 46)}Lajm i Fundit{\c&H2D2A30&\3c&HF9F9F9&}Organizmi Fluturues Kthehet në Harumi
+Dialogue: 0,0:09:52.99,0:09:55.95,Breaking News,sign,0,0,0,,{\p1\bord0\an8\shad0\c&HFFFFFF&\frz359.9\fscx190\fscy12.3\pos(228.833,19.666)}m 0 0 l 230 0 l 230 215 l 0 215
+Dialogue: 0,0:09:52.99,0:09:55.95,Breaking News 2,sign,0,0,0,,{\c&H2D2A30&\3c&HF9F9F9&\pos(105.333,20.666)}Organizmi Fluturues Kthehet në Harumi
+Dialogue: 0,0:09:53.37,0:09:55.95,Default,Raimu,0,0,0,,Ai kaiju po kthehet këtu!
+Dialogue: 0,0:09:55.95,0:09:59.06,Default,Manatsu,0,0,0,,Mos vallë... do që\Nta vrasë përfundimisht Harugon-in?!
+Dialogue: 0,0:10:01.76,0:10:02.95,Default,Manatsu/Raimu,0,0,0,,Minami-kun!
+Dialogue: 0,0:10:30.09,0:10:31.17,Default,Kuroe,0,0,0,,Një ëndërr?
+Dialogue: 0,0:10:33.31,0:10:38.87,Default,Kuroe,0,0,0,,Oh, faleminderit Zotit!
+Dialogue: 0,0:10:39.34,0:10:42.14,Default,Kuroe,0,0,0,,Mora një tmerr të vërtetë.
+Dialogue: 0,0:10:42.14,0:10:44.49,Default,Kuroe,0,0,0,,Sikur të isha në një film me përbindësha.
+Dialogue: 0,0:10:45.83,0:10:49.07,Phone Texts,sign,0,0,0,,{\frz17.13\pos(157,94)\c&HF5F4FA&\fad(1,2383)}Minami Arata
+Dialogue: 0,0:10:45.83,0:10:49.07,Phone Texts,sign,0,0,0,,{\frz16.57\fs20\pos(212,141)\fad(1,2383)}Mirëmëngjes!
+Dialogue: 0,0:10:47.07,0:10:48.53,Default,Kuroe,0,0,0,,Minami-kun!
+Dialogue: 0,0:10:49.21,0:10:51.07,Phone Texts,sign,0,0,0,,{\frz16.57\fs20\pos(168,10)}Mirëmëngjes!
+Dialogue: 0,0:10:49.09,0:10:51.07,Phone Texts,sign,0,0,0,,{\fad(141,1)\frz17.13\pos(157,94)\c&HF5F4FA&}Minami Arata
+Dialogue: 0,0:10:49.09,0:10:51.07,Phone Texts,sign,0,0,0,,{\fad(141,1)\frz16.57\fs20\pos(209,141)}Sapo u nisa
+Dialogue: 0,0:10:51.23,0:10:52.01,Phone Texts,sign,0,0,0,,{\frz16.57\fs20\pos(166,12)}Sapo u nisa
+Dialogue: 0,0:10:51.23,0:10:52.01,Phone Texts,sign,0,0,0,,{\frz17.13\pos(157,94)\c&HF5F4FA&}Minami Arata
+Dialogue: 0,0:10:52.01,0:10:53.22,Default,Kuroe,0,0,0,,Dreqi!
+Dialogue: 0,0:10:53.22,0:10:55.68,Italics,Kuroe,0,0,0,,Harrova që sot kam një takim\Nme Minami-kun-in!
+Dialogue: 0,0:10:55.68,0:10:58.74,Default,Kuroe,0,0,0,,Kisha ndërmend të bëhesha gati dy orë më parë!
+Dialogue: 0,0:10:58.74,0:11:00.58,Default,Kuroe,0,0,0,,Madje edhe manikyri po më qërohet!
+Dialogue: 0,0:11:03.52,0:11:06.88,Italics,Kuroe,0,0,0,,Mezi po pres për ato\Npetullat te Butters!
+Dialogue: 0,0:11:08.04,0:11:09.86,Italics,Kuroe,0,0,0,,Cilën duhet të zgjedh?
+Dialogue: 0,0:11:09.86,0:11:11.90,Italics,Kuroe,0,0,0,,Nuk vendos dot...
+Dialogue: 0,0:11:12.32,0:11:16.13,Italics,Kuroe,0,0,0,,Nëse e ndaj me Minami-kun-in,\Nmund t'i marrim të dyja!
+Dialogue: 0,0:11:16.13,0:11:17.93,Default,Arata,0,0,0,,Janë të dyja të shijshme!
+Dialogue: 0,0:11:17.93,0:11:20.28,Italics,Kaiju,0,0,0,,Të dalësh në takim është kaq bukur!
+Dialogue: 0,0:11:22.22,0:11:23.11,Default,Kaiju,0,0,0,,Po.
+Dialogue: 0,0:11:24.15,0:11:25.00,Default,Kaiju,0,0,0,,Po.
+Dialogue: 0,0:11:29.79,0:11:30.86,Default,Kaiju,0,0,0,,Po!
+Dialogue: 0,0:11:33.38,0:11:35.22,Default,Kaiju,0,0,0,,M-Minami-kun?!
+Dialogue: 0,0:11:35.56,0:11:37.27,Default,Arata,0,0,0,,Më fal, Akaishi-san.
+Dialogue: 0,0:11:37.27,0:11:38.90,Default,Arata,0,0,0,,Erdha pak si herët.
+Dialogue: 0,0:11:38.90,0:11:40.35,Default,Kuroe,0,0,0,,P-Prit vetëm një minutë!
+Dialogue: 0,0:11:40.35,0:11:41.53,Default,Kuroe,0,0,0,,Po vij menjëherë!
+Dialogue: 0,0:11:41.53,0:11:45.85,Default,Kuroe,0,0,0,,Um... buzëkuqi, shamia,\Nkuleta, telefoni...
+Dialogue: 0,0:11:45.85,0:11:47.23,Default,Arata,0,0,0,,Merr kohën tënde.
+Dialogue: 0,0:11:48.39,0:11:51.76,Italics,Kuroe,0,0,0,,Pyes veten nëse do të më\Nlavdërojë veshjen e re...
+Dialogue: 0,0:11:55.40,0:11:57.26,Default,Kuroe,0,0,0,,Më fal që të lashë të presësh, Minami-kun!
+Dialogue: 0,0:12:20.48,0:12:23.12,Default,Arata,0,0,0,,Akaishi-san? Çfarë ke?
+Dialogue: 0,0:12:24.26,0:12:28.24,Default,Kuroe,0,0,0,,M-Më fal, Minami-kun.
+Dialogue: 0,0:12:29.25,0:12:32.28,Default,Kuroe,0,0,0,,A mund të më japësh... vetëm një minutë?
+Dialogue: 0,0:12:33.59,0:12:35.53,Default,Kuroe,0,0,0,,Po kthehem menjëherë!
+Dialogue: 0,0:12:35.98,0:12:37.44,Italics,Kuroe,0,0,0,,Duhet të ndërrohem...
+Dialogue: 0,0:12:37.44,0:12:39.30,Italics,Kuroe,0,0,0,,Duhet të ndërrohem...
+Dialogue: 0,0:12:39.30,0:12:40.65,Italics,Kuroe,0,0,0,,Duhet të ndërrohem...
+Dialogue: 0,0:12:49.96,0:12:51.33,Default,Kuroe,0,0,0,,Ka kaq shumë gjëra këtu.
+Dialogue: 0,0:12:51.33,0:12:53.92,Default,Kuroe,0,0,0,,Jam e sigurt që do të gjej një veshje për takim...
+Dialogue: 0,0:13:24.08,0:13:26.77,Default,Arata,0,0,0,,Akaishi-san. Çfarë ke?
+Dialogue: 0,0:13:27.68,0:13:28.78,Default,Kuroe,0,0,0,,Më vjen keq.
+Dialogue: 0,0:13:30.27,0:13:31.44,Default,Kuroe,0,0,0,,Nuk mund të vij dot.
+Dialogue: 0,0:13:31.92,0:13:33.00,Default,Arata,0,0,0,,Pse jo?
+Dialogue: 0,0:13:33.00,0:13:34.24,Default,Kuroe,0,0,0,,Më fal!
+Dialogue: 0,0:13:44.05,0:13:45.60,Default,Kuroe,0,0,0,,Minami-kun?
+Dialogue: 0,0:14:23.24,0:14:24.29,Default,Kuroe,0,0,0,,Sepse...
+Dialogue: 0,0:14:25.16,0:14:26.32,Default,Kuroe,0,0,0,,Nuk kam asgjë.
+Dialogue: 0,0:14:27.02,0:14:29.98,Default,Kuroe,0,0,0,,Asnjë rrobë të bukur që mund të vesh.
+Dialogue: 0,0:14:31.07,0:14:33.42,Default,Kuroe,0,0,0,,Asnjë të vetme...
+Dialogue: 0,0:14:39.63,0:14:40.82,Default,Arata,0,0,0,,Nuk ka problem.
+Dialogue: 0,0:14:46.88,0:14:48.14,Default,Arata,0,0,0,,E ke veshur tashmë.
+Dialogue: 0,0:14:49.33,0:14:52.32,Default,Arata,0,0,0,,Kështu që kthehu, mirë?
+Dialogue: 0,0:15:05.07,0:15:08.29,Default,Arata,0,0,0,,Hajde të shkojmë të hamë petulla...
+Dialogue: 0,0:15:09.14,0:15:10.46,Default,Arata,0,0,0,,Akaishi-san.
+Dialogue: 0,0:15:25.31,0:15:26.91,Default,Daichi,0,0,0,,U-U kthye...
+Dialogue: 0,0:15:29.37,0:15:30.28,Default,Manatsu,0,0,0,,Harugon!
+Dialogue: 0,0:15:30.28,0:15:32.04,Default,Raimu,0,0,0,,Minami-kun! Vrapo!
+Dialogue: 0,0:15:32.04,0:15:35.96,Default,Seina,0,0,0,,Jo. Është tepër vonë!
+Dialogue: 0,0:16:45.24,0:16:49.08,Default,Manatsu,0,0,0,,Trupi i Harugon-it po... rigjenerohet.
+Dialogue: 0,0:17:04.77,0:17:07.84,Default,Arata,0,0,0,,Fatmirësisht. Tani mund ta them.
+Dialogue: 0,0:17:10.89,0:17:12.00,Default,Arata,0,0,0,,Më fal...
+Dialogue: 0,0:17:12.58,0:17:13.80,Default,Arata,0,0,0,,Akaishi-san.
+Dialogue: 0,0:17:20.31,0:17:21.27,Italics,Kuroe,0,0,0,,Uau.
+Dialogue: 0,0:17:22.57,0:17:24.65,Italics,Kuroe,0,0,0,,Bota është prapë e gjitha rozë.
+Dialogue: 0,0:17:31.50,0:17:36.74,Italics,Kuroe,0,0,0,,Nuk kam pse të jem\Nvajza më e bukur në botë.
+Dialogue: 0,0:17:45.82,0:17:50.22,Italics,Kuroe,0,0,0,,Sepse mund të bërtas\Nme zërin më të lartë në botë!
+Dialogue: 0,0:17:58.96,0:18:00.19,Italics,Kuroe,0,0,0,,Minami-kun!
+Dialogue: 0,0:18:01.03,0:18:08.23,Default,Kuroe,0,0,0,,Të dua!
+Dialogue: 0,0:18:13.86,0:18:18.16,Italics,Kuroe,0,0,0,,Nëse kjo u dëgjua në të gjithë botën,\Nështë pak e sikletshme, por...
+Dialogue: 0,0:18:26.57,0:18:29.30,Default,Crowd,0,0,0,,K-Kjo është e mrekullueshme, Harugon!
+Dialogue: 0,0:18:29.30,0:18:31.28,Default,Crowd,0,0,0,,Faleminderit, Harugon!
+Dialogue: 0,0:18:31.28,0:18:33.26,Default,Crowd,0,0,0,,Je si perëndi!
+Dialogue: 0,0:18:31.19,0:18:35.72,Overlap,Crowd,0,0,0,,Harugon! Harugon!
+Dialogue: 0,0:18:35.72,0:18:37.93,Default,Daichi,0,0,0,,Harugon-i është i mrekullueshëm!
+Dialogue: 0,0:18:37.93,0:18:39.81,Default,Manatsu,0,0,0,,Nuk ka mbaruar ende! Po lëviz akoma!
+Dialogue: 0,0:18:57.82,0:19:00.07,Default,Raimu,0,0,0,,I-Iku me vrap?!
+Dialogue: 0,0:19:00.07,0:19:01.79,Default,Manatsu,0,0,0,,Por ku?
+Dialogue: 0,0:19:03.59,0:19:06.52,Default,Manatsu,0,0,0,,Kush je ti në të vërtetë?
+Dialogue: 0,0:19:09.04,0:19:11.57,Default,Kotaro,0,0,0,,E bëre Kuro-n të luftonte?
+Dialogue: 0,0:19:17.15,0:19:19.76,Default,Kotaro,0,0,0,,Çfarë ke ndërmend të bësh tani e tutje?
+Dialogue: 0,0:19:20.22,0:19:21.60,Default,Kotaro,0,0,0,,Akaishi-senpai...
+Dialogue: 0,0:19:22.53,0:19:25.19,Default,Rinko,0,0,0,,Më fal që të lashë vetëm!
+Dialogue: 0,0:19:25.63,0:19:29.32,Default,Rinko,0,0,0,,Do të vij të të marr së shpejti, Kuro-tan!
+Dialogue: 0,0:19:33.42,0:19:34.95,Default,Daichi,0,0,0,,Harugon-i po lëviz!
+Dialogue: 0,0:19:34.95,0:19:37.07,Default,Raimu,0,0,0,,Po! Ku është Minami-kun?!
+Dialogue: 0,0:19:38.30,0:19:39.98,Default,Raimu,0,0,0,,Faleminderit Zotit që është mirë!
+Dialogue: 0,0:19:39.98,0:19:43.87,Default,Seina,0,0,0,,K-Ku po e çon ai kaiju atë?!
+Dialogue: 0,0:19:43.87,0:19:48.62,Default,Manatsu,0,0,0,,Minami-kun! Nuk do të të lë\Nta mbash Harugon-in vetëm për vete!
+Dialogue: 0,0:19:50.98,0:19:52.52,Default,Arata,0,0,0,,Jam kaq i lumtur që je mirë.
+Dialogue: 0,0:19:53.00,0:19:55.72,Default,Arata,0,0,0,,A je mirë? Nuk ke më dhimbje?
+Dialogue: 0,0:19:55.72,0:19:58.26,Default,Arata,0,0,0,,Ashtu është. Fola me Daichi-n.
+Dialogue: 0,0:19:58.63,0:20:01.10,Default,Arata,0,0,0,,Nuk e kisha imagjinuar kurrë që ishte thjesht një fëmijë.
+Dialogue: 0,0:20:01.10,0:20:02.43,Default,Arata,0,0,0,,Më vjen vërtet shumë keq.
+Dialogue: 0,0:20:02.43,0:20:06.60,Default,Arata,0,0,0,,Dhe mund të kesh keqkuptuar,\Npor Seina-san është aktore!
+Dialogue: 0,0:20:06.60,0:20:09.85,Default,Arata,0,0,0,,Vërtet nuk ke asgjë\Npër t'u shqetësuar, Akaishi-san!
+Dialogue: 0,0:20:10.53,0:20:12.07,Italics,Kuroe,0,0,0,,Si...
+Dialogue: 0,0:20:12.07,0:20:15.10,Italics,Kuroe,0,0,0,,Si mund të buzëqeshësh ende?
+Dialogue: 0,0:20:16.61,0:20:20.16,Italics,Kuroe,0,0,0,,Unë jam një kaiju këtu...
+Dialogue: 0,0:20:35.55,0:20:36.51,Default,Arata,0,0,0,,Akaishi-san!
+Dialogue: 0,0:20:38.51,0:20:42.47,Default,Arata,0,0,0,,Mos ik! Dua të mësoj më shumë rreth teje!
+Dialogue: 0,0:20:45.27,0:20:49.48,Default,Arata,0,0,0,,Le të kalojmë më shumë kohë bashkë!
+Dialogue: 0,0:20:50.47,0:20:52.47,Default,Arata,0,0,0,,Nuk ka problem edhe nëse trupi yt\Nështë i mbuluar me gjemba.
+Dialogue: 0,0:20:53.22,0:20:55.09,Default,Arata,0,0,0,,Ata nuk më lëndojnë fare mua!
+Dialogue: 0,0:20:56.13,0:20:57.54,Default,Arata,0,0,0,,Eja tek unë!
+Dialogue: 0,0:20:57.90,0:21:03.03,Default,Arata,0,0,0,,E dashura ime më e bukur\Ndhe më e veçantë në botë!
+Dialogue: 0,0:21:19.35,0:21:22.55,Default,Kuroe,0,0,0,,E kam ëndërruar këtë për kaq shumë kohë...
+Dialogue: 0,0:21:23.44,0:21:25.56,Default,Kuroe,0,0,0,,Qysh nga momenti i parë që të takova...
+Dialogue: 0,0:21:28.40,0:21:29.66,Default,Arata,0,0,0,,Kjo nuk është një ëndërr.
+Dialogue: 0,0:23:18.85,0:23:19.61,Default,Arata,0,0,0,,Në rregull?
+Dialogue: 0,0:23:22.51,0:23:23.59,Default,Kuroe,0,0,0,,Patjetër!
+Dialogue: 0,0:23:24.42,0:23:26.04,Default,Arata,0,0,0,,Por e pranoj...
+Dialogue: 0,0:23:26.76,0:23:30.35,Default,Arata,0,0,0,,nuk të shoh dot drejtpërdrejt tani.
+Dialogue: 0,0:23:33.60,0:23:35.66,Default,Arata,0,0,0,,Q-Qetësohu!
+Dialogue: 0,0:23:38.40,0:23:40.43,Default,Kuroe,0,0,0,,K-Kjo është keq.
+Dialogue: 0,0:23:40.98,0:23:44.73,Default,Kuroe,0,0,0,,Unë shndërrohem në kaiju kur emocionohem!
+Dialogue: 0,0:23:44.73,0:23:46.45,Default,Arata,0,0,0,,Ç-Çfarë të bëjmë?!
+Dialogue: 0,0:23:51.16,0:23:52.29,Default,Arata,0,0,0,,Akaishi-san.
+Dialogue: 0,0:23:52.83,0:23:53.93,Default,Arata,0,0,0,,Shkojmë.
+Dialogue: 0,0:23:55.96,0:23:56.90,Default,Kuroe,0,0,0,,Po!
+
