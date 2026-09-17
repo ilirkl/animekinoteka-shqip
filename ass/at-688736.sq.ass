@@ -1,0 +1,338 @@
+﻿[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 8
+YCbCr Matrix: TV.601
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Default - italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Default - flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Default - margin,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Title,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,40,40,60,0
+Style: Disclaimer,Trebuchet MS,14,&H00C2C2C4,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,1,390,10,60,0
+Style: Setting,Times New Roman,18,&H002F2721,&H000000FF,&H00DFE3E1,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,0
+Style: SettingW,Times New Roman,18,&H002F2721,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,0
+Style: NameR,Times New Roman,16,&H002F2721,&H000000FF,&H00CED3D1,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,230,20,20,0
+Style: NameL,Times New Roman,16,&H002F2721,&H000000FF,&H00CED3D1,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,240,20,0
+Style: SignA,Times New Roman,18,&H00D4D5D2,&H000000FF,&H00313025,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.77,Setting,sign,0,0,0,,{\blur2\bord1\pos(318,222)}27 shtator, Viti i Bashkuar 1927, Fronti Lindor
+Dialogue: 0,0:00:03.32,0:00:07.28,Default,Zettour,0,0,0,,Gradim në gjeneral, \Nduke shpërfillur rregulloret e paraluftës...
+Dialogue: 0,0:00:07.28,0:00:10.57,Default,Zettour,0,0,0,,Yjet nuk vlejnë më si dikur.
+Dialogue: 0,0:00:07.27,0:00:11.28,Disclaimer,sign,0,0,0,,{\an9\pos(553,49)\c&HE7EAF2&}Me marrjen e këtij mesazhi, ju jeni\Ngraduar Gjeneral i Këmbësorisë
+Dialogue: 0,0:00:11.79,0:00:15.44,Default - italics,Zettour,0,0,0,,Mund të korrim fitore të pabesueshme \Nnë nivel taktik,
+Dialogue: 0,0:00:15.44,0:00:18.28,Default - italics,Zettour,0,0,0,,por kjo nuk na ndihmon aspak strategjikisht.
+Dialogue: 0,0:00:18.28,0:00:24.05,Default - italics,Zettour,0,0,0,,Çfarë ka në mendje Rudersdorf-i, \Nqë po tregohet kaq agresiv?
+Dialogue: 0,0:00:26.53,0:00:30.04,Default,Zettour,0,0,0,,Dua të dërgoj një letër. \NPërgatitni një korrier.
+Dialogue: 0,0:00:36.27,0:00:38.65,Default,Zettour,0,0,0,,Dhe tani që erdhi çasti...
+Dialogue: 0,0:00:38.65,0:00:42.76,Default,Zettour,0,0,0,,Nuk kam asnjë ide se çfarë të shkruaj.
+Dialogue: 0,0:00:44.48,0:00:45.97,Default,Zettour,0,0,0,,Miku im...
+Dialogue: 0,0:02:21.07,0:02:26.62,Disclaimer,sign,0,0,0,,{\an1\fad(488,475)\an1\pos(82,325)\fs9\q2\blur2\fsp.2}Kjo histori është një vepër trillimi. Njerëzit, organizatat, vendet, ligjet, emrat etj. nuk kanë asnjë lidhje me ndonjë homolog të botës reale.
+Dialogue: 0,0:02:30.10,0:02:32.24,Default,Rudersdorf,0,0,0,,Nuk ka kohë...
+Dialogue: 0,0:02:32.63,0:02:34.94,Default,Rudersdorf,0,0,0,,Po na mbaron koha...
+Dialogue: 0,0:02:35.59,0:02:38.59,Title,sign,0,0,0,,{\pos(340,138)}Episodi Njëmbëdhjetë\NOra e Rërës
+Dialogue: 0,0:02:47.56,0:02:50.71,Default,Rudersdorf,0,0,0,,Çfarë ka? Çfarë ndodhi?
+Dialogue: 0,0:02:51.13,0:02:54.07,Default,Wife,0,0,0,,Po evakuojnë zonën përreth \Nkufirit jugor, kështu thonë.
+Dialogue: 0,0:02:54.75,0:02:57.89,Default,Wife,0,0,0,,Nuk e di çfarë shkruhej \Nnë gazetën zyrtare ushtarake?
+Dialogue: 0,0:02:58.97,0:03:01.87,Default,Rudersdorf,0,0,0,,Ah, ke të drejtë.
+Dialogue: 0,0:03:05.80,0:03:08.11,Default,Rudersdorf,0,0,0,,Paska kaluar një vit i tërë, ë?
+Dialogue: 0,0:03:09.64,0:03:11.19,Default,Rudersdorf,0,0,0,,Më vjen keq.
+Dialogue: 0,0:03:11.62,0:03:13.49,Default,Daughter,0,0,0,,Të lutem, mos kërko falje.
+Dialogue: 0,0:03:13.91,0:03:18.09,Default,Daughter,0,0,0,,Ishte martesë vetëm prej pesë ditësh, \Npor nuk jam penduar për asgjë.
+Dialogue: 0,0:03:18.09,0:03:19.00,Default,Daughter,0,0,0,,Dhe...
+Dialogue: 0,0:03:19.64,0:03:21.62,Default,Daughter,0,0,0,,u bekova me fëmijën tim.
+Dialogue: 0,0:03:22.82,0:03:27.60,Default,Daughter,0,0,0,,Para se të nisej atë ditë, ai tha...
+Dialogue: 0,0:03:27.60,0:03:32.28,Default,Daughter,0,0,0,,Nëse ndodh diçka... \Nnëse ai vdes për mua, për ne...
+Dialogue: 0,0:03:34.71,0:03:37.23,Default,Daughter,0,0,0,,atëherë vdekja e tij do të kishte një kuptim.
+Dialogue: 0,0:03:45.11,0:03:47.92,Default,Officer,0,0,0,,Ju që dolët vullnetarë
+Dialogue: 0,0:03:47.92,0:03:52.78,Default,Officer,0,0,0,,ndonëse nuk kishit moshën e rekrutimit, \Njeni të zgjedhurit e Perandorisë,
+Dialogue: 0,0:03:52.78,0:03:55.09,Default,Officer,0,0,0,,krenaria e saj dhe e ardhmja e saj!
+Dialogue: 0,0:03:55.34,0:03:59.20,Default,Officer,0,0,0,,Atdheu ynë është në rrezik! \NPor ne nuk kemi pse të kemi frikë!
+Dialogue: 0,0:03:59.20,0:04:02.86,Default,Officer,0,0,0,,Sepse ju do të jeni në radhët tona!
+Dialogue: 0,0:04:02.86,0:04:07.84,Default,Officer,0,0,0,,Ata që do të vijnë pas jush \Ndo t'i thurin këngë trimërisë suaj!
+Dialogue: 0,0:03:52.68,0:03:55.08,Default,Man,0,0,0,,{\an8}Çfarë patriotizmi i mrekullueshëm.
+Dialogue: 0,0:03:55.66,0:03:59.09,Default,Man,0,0,0,,{\an8}Pff... s'më besohet që ka \Nende njerëz që nuk dalin vullnetarë.
+Dialogue: 0,0:03:59.09,0:04:00.87,Default,Man,0,0,0,,{\an8}Mezi po pres t'ua shoh \Nshprehjen e fytyrës
+Dialogue: 0,0:04:00.87,0:04:03.56,Default,Man,0,0,0,,{\an8}kur të përpiqen të hyjnë në \Nqeveri pas luftës.
+Dialogue: 0,0:04:03.56,0:04:04.89,Default,Man,0,0,0,,{\an8}Ke plotësisht të drejtë.
+Dialogue: 0,0:04:04.89,0:04:09.06,Default,Man,0,0,0,,{\an8}Ç'vlerë kanë ata, kur të gjithë \Ntë tjerët po sakrifikojnë veten?
+Dialogue: 0,0:04:09.72,0:04:13.02,Default - italics,Rudersdorf,0,0,0,,Përballë kësaj... këtyre zërave...
+Dialogue: 0,0:04:13.02,0:04:16.15,Default - italics,Rudersdorf,0,0,0,,A mund të themi se gjithçka shkoi dëm?
+Dialogue: 0,0:04:27.62,0:04:31.12,Default,Rudersdorf,0,0,0,,Bombardim në lartësi të ulët? \NNë mes të ditës? E pamundur!
+Dialogue: 0,0:04:36.02,0:04:37.37,Default,Rudersdorf,0,0,0,,Cila është situata?
+Dialogue: 0,0:04:37.37,0:04:39.91,Default,Rerugen,0,0,0,,Gjeneral, situata është e rëndë.
+Dialogue: 0,0:04:39.91,0:04:42.67,Default,Rerugen,0,0,0,,Kanë bombarduar sheshin tonë të ceremonive.
+Dialogue: 0,0:04:42.67,0:04:44.54,Default,Rerugen,0,0,0,,Dëmet ishin minimale, por...
+Dialogue: 0,0:04:44.54,0:04:47.71,Default,Rudersdorf,0,0,0,,Është poshtëruese për ushtrinë, po.
+Dialogue: 0,0:04:47.71,0:04:51.62,Default,Rerugen,0,0,0,,Përdorën bombarduesit e tyre të rinj të shpejtësisë së lartë.
+Dialogue: 0,0:04:51.62,0:04:53.86,Default,Rerugen,0,0,0,,Gjuajtësit tanë nuk arritën dot në kohë.
+Dialogue: 0,0:04:53.86,0:04:58.73,Default,Rudersdorf,0,0,0,,Gjuajtësit e lehtë nuk kapën dot \Nbombarduesit e ngarkuar me bomba?
+Dialogue: 0,0:04:58.73,0:05:04.29,Default,Rerugen,0,0,0,,Shpejtësia e lartë e lundrimit të armikut bën që \Ntë ketë shumë pak kohë për t'i kapur.
+Dialogue: 0,0:05:04.29,0:05:06.10,Default,Rerugen,0,0,0,,Dhe kur janë në numër të vogël,
+Dialogue: 0,0:05:06.10,0:05:08.45,Default,Rerugen,0,0,0,,është e vështirë të identifikohen \Ndhe të gjurmohen, siç më njoftuan.
+Dialogue: 0,0:05:10.17,0:05:14.40,Default,Rudersdorf,0,0,0,,Atëherë pse u bombarduam para \Nse të jepnim qoftë edhe alarmin?
+Dialogue: 0,0:05:14.40,0:05:17.05,Default,Rerugen,0,0,0,,Ata po përdorin \Nnjë numër të vogël bombarduesish
+Dialogue: 0,0:05:17.05,0:05:20.08,Default,Rerugen,0,0,0,,si karrem për të shpërqendruar \Nnjësitë tona mbrojtëse.
+Dialogue: 0,0:05:20.34,0:05:22.99,Default,Rerugen,0,0,0,,Kjo me gjasë u gjykua si \Nnjë tjetër karrem dhe u shpërfill.
+Dialogue: 0,0:05:22.99,0:05:28.10,Default,Rudersdorf,0,0,0,,U përpoqëm të mos bëheshim si bariu që bërtiste 'Ujku', \Npor ujku qenka vërtet aty?
+Dialogue: 0,0:05:28.10,0:05:31.22,Default,Rudersdorf,0,0,0,,Duhet të nxitojmë dhe të kërkojmë \Nnjë mënyrë për t'u përballur me këtë.
+Dialogue: 0,0:05:31.22,0:05:33.41,Default,Rudersdorf,0,0,0,,Armiku po sajon vazhdimisht \Nide të reja.
+Dialogue: 0,0:05:33.41,0:05:35.82,Default,Rudersdorf,0,0,0,,Nuk mund të mbetemi prapa!
+Dialogue: 0,0:05:35.82,0:05:37.00,Default,Rerugen,0,0,0,,Zotëri!
+Dialogue: 0,0:05:40.19,0:05:41.32,Default - italics,Rudersdorf,0,0,0,,Ashtu është.
+Dialogue: 0,0:05:41.71,0:05:44.08,Default - italics,Rudersdorf,0,0,0,,Nuk mund të mbetemi prapa.
+Dialogue: 0,0:05:44.08,0:05:47.02,Default - italics,Rudersdorf,0,0,0,,Ne... Perandoria...
+Dialogue: 0,0:05:47.53,0:05:50.39,Default - italics,Rudersdorf,0,0,0,,nuk mund të mbetet prapa!
+Dialogue: 0,0:06:05.71,0:06:07.50,Default - italics,Rudersdorf,0,0,0,,Nuk mund të marrë fund ende.
+Dialogue: 0,0:06:12.05,0:06:15.57,Default - italics,Rudersdorf,0,0,0,,Atij budallait Zettour nuk \Nka për t'i pëlqyer aspak kjo.
+Dialogue: 0,0:06:22.27,0:06:26.78,Disclaimer,sign,0,0,0,,{\an9\pos(548,91)\c&HF6FAFF&}Plani i Luftës: Ildoa
+Dialogue: 0,0:06:16.43,0:06:21.17,Default - italics,Rudersdorf,0,0,0,,Por është më mirë sesa \Ntë humbasim shansin tonë...
+Dialogue: 0,0:06:21.17,0:06:22.27,Default - italics,Rudersdorf,0,0,0,,Duhet ta bëjmë tani!
+Dialogue: 0,0:06:23.40,0:06:25.86,Default - italics,Rudersdorf,0,0,0,,Për Perandorinë!
+Dialogue: 0,0:06:32.78,0:06:35.79,Setting,sign,0,0,0,,{\blur2\bord1\pos(322,267)}30 shtator, Viti i Bashkuar 1927
+Dialogue: 0,0:06:43.59,0:06:46.79,Default,Zettour,0,0,0,,Erdhe deri këtu?
+Dialogue: 0,0:06:47.16,0:06:49.52,Default,Zettour,0,0,0,,Me siguri të paskam munguar shumë.
+Dialogue: 0,0:06:50.35,0:06:52.03,Default,Rudersdorf,0,0,0,,Nuk e mohoj dot.
+Dialogue: 0,0:06:52.64,0:06:55.19,Default,Zettour,0,0,0,,Shaka ishte...
+Dialogue: 0,0:06:55.19,0:06:57.15,Default,Rudersdorf,0,0,0,,E lexove planin, besoj.
+Dialogue: 0,0:06:57.15,0:07:00.57,Default,Zettour,0,0,0,,Po. Dhe kam një pyetje.
+Dialogue: 0,0:07:01.05,0:07:03.65,Default,Zettour,0,0,0,,A je çmendur gjë?
+Dialogue: 0,0:07:03.90,0:07:05.47,Default,Rudersdorf,0,0,0,,Sigurisht që jo.
+Dialogue: 0,0:07:05.47,0:07:08.15,Default,Rudersdorf,0,0,0,,Po përpiqem t'i siguroj fitoren Perandorisë sonë.
+Dialogue: 0,0:07:08.93,0:07:12.19,Default,Rudersdorf,0,0,0,,Të sigurojmë epërsinë ajrore në perëndim,
+Dialogue: 0,0:07:12.51,0:07:15.31,Default,Rudersdorf,0,0,0,,të garantojmë aftësinë tonë për të vazhduar luftën,
+Dialogue: 0,0:07:15.31,0:07:16.73,Default,Rudersdorf,0,0,0,,dhe pastaj të rrëzojmë Ildoa-n.
+Dialogue: 0,0:07:17.07,0:07:19.49,Default,Rudersdorf,0,0,0,,Është e vetmja mënyrë për të fituar.
+Dialogue: 0,0:07:20.77,0:07:22.49,Default,Zettour,0,0,0,,Një plan i mrekullueshëm.
+Dialogue: 0,0:07:22.49,0:07:27.00,Default,Zettour,0,0,0,,Përveç faktit që \Nështë krejtësisht i pamundur.
+Dialogue: 0,0:07:28.51,0:07:33.81,Default,Rudersdorf,0,0,0,,Nëse ushtria merr kontrollin e plotë, \Ndo të jetë i mundur.
+Dialogue: 0,0:07:33.81,0:07:35.78,Default,Rudersdorf,0,0,0,,Mund të japim vërtet gjithçka tonën në këtë.
+Dialogue: 0,0:07:36.50,0:07:40.55,Default,Rudersdorf,0,0,0,,Ushtria ka aftësinë, \Nvendosmërinë dhe vullnetin!
+Dialogue: 0,0:07:40.55,0:07:42.55,Default,Rudersdorf,0,0,0,,Prandaj mund t'ia dalim!
+Dialogue: 0,0:07:42.55,0:07:45.27,Default,Zettour,0,0,0,,Kishim rënë dakord të përpiqeshim \Nta zgjidhnim me diplomaci.
+Dialogue: 0,0:07:45.27,0:07:48.40,Default,Zettour,0,0,0,,A nuk kishe rënë dakord për këtë?
+Dialogue: 0,0:07:48.40,0:07:50.90,Default,Rudersdorf,0,0,0,,Ajo tashmë ka dështuar.
+Dialogue: 0,0:07:50.90,0:07:52.13,Default,Zettour,0,0,0,,Mos u bëj budalla.
+Dialogue: 0,0:07:52.13,0:07:53.41,Default,Zettour,0,0,0,,Mund ta bëjmë të funksionojë.
+Dialogue: 0,0:07:53.41,0:07:56.49,Default,Rudersdorf,0,0,0,,Mendon se mund t'i pranojmë \Nato kushte qesharake?
+Dialogue: 0,0:07:56.97,0:08:01.42,Default,Zettour,0,0,0,,I bëmë mjaftueshëm kuriozë sa \Ntë jenë të gatshëm të na vënë kushte.
+Dialogue: 0,0:08:01.76,0:08:03.16,Default,Zettour,0,0,0,,Pastaj...
+Dialogue: 0,0:08:03.38,0:08:08.00,Default,Zettour,0,0,0,,Nëse të dyja palët humbasin edhe një milion, \Njo, dhjetë milionë jetë,
+Dialogue: 0,0:08:08.00,0:08:11.55,Default,Zettour,0,0,0,,edhe më budallai prej tyre \Ndo të jetë i gatshëm të flasë.
+Dialogue: 0,0:08:12.20,0:08:13.29,Default,Rudersdorf,0,0,0,,Mos u bëj qesharak!
+Dialogue: 0,0:08:13.29,0:08:15.60,Default,Rudersdorf,0,0,0,,E di sa njerëz kanë vdekur tashmë?
+Dialogue: 0,0:08:16.05,0:08:20.40,Default,Rudersdorf,0,0,0,,Ç'kuptim ka që edhe më shumë ushtarë \Ntë vdesin kot më kot?
+Dialogue: 0,0:08:20.40,0:08:23.09,Default,Zettour,0,0,0,,Duket se të paska mbetur ende \Npak arsye në kokë.
+Dialogue: 0,0:08:23.09,0:08:26.25,Default,Zettour,0,0,0,,Por po heq dorë nga diplomacia?
+Dialogue: 0,0:08:26.25,0:08:29.52,Default,Rudersdorf,0,0,0,,Sa më shumë kohë të kalojë, \Naq më e vështirë bëhet diplomacia.
+Dialogue: 0,0:08:29.52,0:08:33.79,Default,Rudersdorf,0,0,0,,Perandoria ende mund të fitojë \Nepërsi taktike.
+Dialogue: 0,0:08:33.79,0:08:37.95,Default,Rudersdorf,0,0,0,,Por nëse kalon më shumë kohë, \Ndo ta humbasim edhe atë!
+Dialogue: 0,0:08:37.95,0:08:40.27,Default,Zettour,0,0,0,,Pra ky është plani yt?
+Dialogue: 0,0:08:40.27,0:08:42.45,Default,Zettour,0,0,0,,'T'i godasim sa ende mundemi'?
+Dialogue: 0,0:08:42.45,0:08:43.37,Default,Rudersdorf,0,0,0,,Pikërisht.
+Dialogue: 0,0:08:43.37,0:08:44.24,Default,Zettour,0,0,0,,Kjo nuk funksionon dot.
+Dialogue: 0,0:08:44.24,0:08:47.06,Default,Zettour,0,0,0,,Të sakrifikosh strategjinë \Npër hir të taktikës...
+Dialogue: 0,0:08:47.06,0:08:49.50,Default,Rudersdorf,0,0,0,,Nuk mund të zmbrapsemi\N edhe më tej në mbrojtje.
+Dialogue: 0,0:08:50.27,0:08:52.58,Default,Rudersdorf,0,0,0,,Duhet të bëjmë diçka drastike!
+Dialogue: 0,0:08:56.91,0:09:01.06,Default,Zettour,0,0,0,,Dhe ti e quan veten oficer i strategjisë?
+Dialogue: 0,0:09:01.06,0:09:02.23,Default,Rudersdorf,0,0,0,,Çfarë?
+Dialogue: 0,0:09:02.23,0:09:06.42,Default,Zettour,0,0,0,,Pse po të shkon goja lëng vetëm \Nsepse dikush tringëlloi një zile?
+Dialogue: 0,0:09:06.42,0:09:08.88,Default,Zettour,0,0,0,,Që kur u shndërrove në një qen të rëndomtë?
+Dialogue: 0,0:09:08.88,0:09:10.00,Default,Rudersdorf,0,0,0,,Pusho!
+Dialogue: 0,0:09:10.00,0:09:13.06,Default,Rudersdorf,0,0,0,,Nëse fjalët nuk i bëjnë \Ntë kuptojnë, atëherë forca...
+Dialogue: 0,0:09:13.58,0:09:16.41,Default,Zettour,0,0,0,,Shihe realitetin në sy, Rudersdorf!
+Dialogue: 0,0:09:16.41,0:09:18.50,Default,Zettour,0,0,0,,Je çmendur fare!
+Dialogue: 0,0:09:18.50,0:09:19.79,Default,Rudersdorf,0,0,0,,Jo, ti je çmendur!
+Dialogue: 0,0:09:19.79,0:09:21.34,Default,Zettour,0,0,0,,Ajo kokë mbi supe \Ntë shërben vetëm për zbukurim?
+Dialogue: 0,0:09:21.34,0:09:22.99,Default,Zettour,0,0,0,,Për çfarë e ke atë tru?
+Dialogue: 0,0:09:22.99,0:09:25.04,Default,Zettour,0,0,0,,Mendo për këtë me logjikë racionale!
+Dialogue: 0,0:09:27.28,0:09:29.42,Default,Rudersdorf,0,0,0,,Nuk mund ta humbasim këtë!
+Dialogue: 0,0:09:29.42,0:09:34.87,Default,Rudersdorf,0,0,0,,Çfarë do t'i themi Perandorisë nëse nuk \Nsjellim një fitore të denjë për këto sakrifica?
+Dialogue: 0,0:09:36.90,0:09:38.76,Default,Zettour,0,0,0,,Do t'i themi vetëm një gjë.
+Dialogue: 0,0:09:39.53,0:09:43.01,Default,Zettour,0,0,0,,Do të kërkojmë falje për paaftësinë tonë.
+Dialogue: 0,0:09:44.74,0:09:47.26,Default,Zettour,0,0,0,,Dhe pastaj le të na vrasin me gurë.
+Dialogue: 0,0:09:57.17,0:10:03.74,Default,Rudersdorf,0,0,0,,Zettour, përdor kokën para \Nse të nxjerrësh marrëzira nga goja.
+Dialogue: 0,0:10:04.02,0:10:06.42,Default,Rudersdorf,0,0,0,,Ne jemi ushtarë perandorakë!
+Dialogue: 0,0:10:06.84,0:10:09.10,Default,Rudersdorf,0,0,0,,Humbja mund të jetë e pashmangshme,
+Dialogue: 0,0:10:09.53,0:10:12.28,Default,Rudersdorf,0,0,0,,por ne prapëseprapë duhet të fitojmë!
+Dialogue: 0,0:10:15.04,0:10:18.11,Default,Zettour,0,0,0,,Të përdor kokën, ë?
+Dialogue: 0,0:10:19.05,0:10:23.70,Default,Zettour,0,0,0,,Pff... sa e vështirë qenka të kesh \Nnjë budalla për mik.
+Dialogue: 0,0:10:23.70,0:10:29.15,Default,Zettour,0,0,0,,Po të doja, mund të përdorja \Nautoritetin tim si gjeneral për të të mbyllur gojën.
+Dialogue: 0,0:10:30.53,0:10:33.19,Default,Rudersdorf,0,0,0,,Të tregohem më zyrtar kur \Ntë flas me ty, atëherë?
+Dialogue: 0,0:10:33.19,0:10:34.55,Default,Zettour,0,0,0,,Mos u mundo kot.
+Dialogue: 0,0:10:34.55,0:10:37.79,Default,Zettour,0,0,0,,Jam i sigurt që edhe ti u gradove.
+Dialogue: 0,0:10:37.79,0:10:40.20,Default,Rudersdorf,0,0,0,,I merrke vesh shpejt lajmet.
+Dialogue: 0,0:10:40.75,0:10:46.50,Default,Zettour,0,0,0,,Nuk e kisha menduar kurrë se të dy do të \Nmbanim këta yje pa vlerë.
+Dialogue: 0,0:10:46.50,0:10:48.17,Default,Rudersdorf,0,0,0,,Jam i sigurt.
+Dialogue: 0,0:10:48.17,0:10:51.79,Default,Rudersdorf,0,0,0,,Komandanti i Regjimentit Laudon \Nme siguri është shumë i befasuar.
+Dialogue: 0,0:10:51.79,0:10:56.05,Default,Zettour,0,0,0,,Mund të ngazëllehet aq shumë, sa t'ia nisë \Nt'i bjerë melodisë së zgjimit me bori.
+Dialogue: 0,0:11:00.94,0:11:03.90,Default,Zettour,0,0,0,,E shoh sa i palëkundur je për këtë.
+Dialogue: 0,0:11:03.90,0:11:07.64,Default,Zettour,0,0,0,,Si miku yt, do të bëj gjithçka që mundem.
+Dialogue: 0,0:11:08.05,0:11:10.52,Default,Rudersdorf,0,0,0,,Faleminderit... ta kam borxh.
+Dialogue: 0,0:11:23.13,0:11:24.89,Default,Tanya,0,0,0,,Më falni.
+Dialogue: 0,0:11:27.08,0:11:30.62,Default,Tanya,0,0,0,,A ishte mirë Gjeneral Rudersdorf-i?
+Dialogue: 0,0:11:31.80,0:11:34.84,Default,Zettour,0,0,0,,Po, si gjithmonë.
+Dialogue: 0,0:11:35.17,0:11:37.83,Default,Zettour,0,0,0,,As vetë vdekja nuk e ndryshon dot atë.
+Dialogue: 0,0:11:38.21,0:11:40.51,Default,Tanya,0,0,0,,Më vjen mirë që e dëgjoj këtë.
+Dialogue: 0,0:11:40.51,0:11:44.30,Default,Tanya,0,0,0,,Pra, çfarë mund të bëj për ju?
+Dialogue: 0,0:11:44.82,0:11:48.75,Default,Zettour,0,0,0,,Nënkolonel, më duhet \Ntë bësh diçka për mua.
+Dialogue: 0,0:11:49.09,0:11:50.38,Default,Tanya,0,0,0,,Patjetër.
+Dialogue: 0,0:11:50.38,0:11:52.32,Default,Tanya,0,0,0,,Për çfarë bëhet fjalë?
+Dialogue: 0,0:11:54.18,0:11:56.93,Default,Zettour,0,0,0,,Dua që ti...
+Dialogue: 0,0:11:58.27,0:12:00.46,Default,Zettour,0,0,0,,...të vrasësh mikun tim më të ngushtë.
+Dialogue: 0,0:12:11.75,0:12:14.49,Default,Tanya,0,0,0,,Çfarë thatë, zotëri?
+Dialogue: 0,0:12:14.49,0:12:18.51,Default,Zettour,0,0,0,,Dua që t'ia hedhësh në erë \Ntrutë mikut tim më të ngushtë.
+Dialogue: 0,0:12:18.90,0:12:20.80,Default,Zettour,0,0,0,,Besoj se u shpreha mjaft qartë.
+Dialogue: 0,0:12:22.36,0:12:24.14,Default,Tanya,0,0,0,,A mund të pyes përse?
+Dialogue: 0,0:12:24.14,0:12:27.51,Default,Zettour,0,0,0,,Oh? Do të dëgjosh arsyen?
+Dialogue: 0,0:12:27.51,0:12:30.82,Default,Tanya,0,0,0,,Nuk jam një vrasëse \Nqë vret pa arsye.
+Dialogue: 0,0:12:30.82,0:12:33.89,Default,Tanya,0,0,0,,Jam një ushtare që i njeh detyrat \Ndhe vlerëson nderin e saj.
+Dialogue: 0,0:12:34.21,0:12:39.89,Default,Zettour,0,0,0,,Ai tha se ka ndër mend të përmbysë diçka
+Dialogue: 0,0:12:39.89,0:12:43.03,Default,Zettour,0,0,0,,që duhet të qëndrojë aty ku është.
+Dialogue: 0,0:12:43.03,0:12:48.44,Default,Zettour,0,0,0,,As logjika ushtarake nuk mund të vihet \Nkurrë mbi interesin kombëtar.
+Dialogue: 0,0:12:48.84,0:12:51.65,Default,Zettour,0,0,0,,Strategjia t'i shërbejë taktikës?
+Dialogue: 0,0:12:51.65,0:12:53.23,Default,Zettour,0,0,0,,Kjo nuk mund të ndodhë.
+Dialogue: 0,0:12:53.46,0:12:58.15,Default,Zettour,0,0,0,,Në nivelin taktik,\Ndo ta kërkoj fitoren me kënaqësi.
+Dialogue: 0,0:12:58.15,0:13:03.28,Default,Zettour,0,0,0,,Por kjo është e mundur vetëm \Nnëse Perandoria ka një strategji kombëtare.
+Dialogue: 0,0:13:03.28,0:13:04.91,Default,Zettour,0,0,0,,Taktikë pa strategji?
+Dialogue: 0,0:13:04.91,0:13:06.75,Default,Zettour,0,0,0,,Fitore pa mundur ta shfrytëzosh?
+Dialogue: 0,0:13:06.75,0:13:09.44,Default,Zettour,0,0,0,,Çdo gjë që arrijmë në atë mënyrë \Nështë krejtësisht e pakuptimtë.
+Dialogue: 0,0:13:09.95,0:13:12.89,Default,Tanya,0,0,0,,Më lejoni të bëj një pyetje.
+Dialogue: 0,0:13:13.32,0:13:16.06,Default,Tanya,0,0,0,,Çfarë do të bëni pasi \Ntë arrihet kjo?
+Dialogue: 0,0:13:16.06,0:13:19.82,Default,Zettour,0,0,0,,Do të na duhet të përgatitemi për një tërheqje të pastër.
+Dialogue: 0,0:13:20.04,0:13:24.44,Default,Tanya,0,0,0,,Nuk jeni kundër që \Nushtria të marrë kontrollin e plotë?
+Dialogue: 0,0:13:24.44,0:13:28.45,Default,Zettour,0,0,0,,Vërtet. Por nëse tregohemi shumë \Ntë ashpër gjatë këtij procesi,
+Dialogue: 0,0:13:28.45,0:13:31.15,Default,Zettour,0,0,0,,vetëm sa do të shkaktojmë \Nrrënimin e Perandorisë.
+Dialogue: 0,0:13:31.15,0:13:34.53,Default,Zettour,0,0,0,,Duhet të shmangim kaosin, \Npavarësisht se si përfundon kjo.
+Dialogue: 0,0:13:40.95,0:13:42.36,Default,Zettour,0,0,0,,Nënkolonel.
+Dialogue: 0,0:13:44.24,0:13:45.40,Default,Zettour,0,0,0,,Bëje.
+Dialogue: 0,0:13:47.80,0:13:51.66,Default,Zettour,0,0,0,,Bëje Rudersdorf-in mareshal fushe.
+Dialogue: 0,0:14:01.90,0:14:04.19,Default,Tanya,0,0,0,,Kjo është absurde.
+Dialogue: 0,0:14:07.95,0:14:12.06,Default,Tanya,0,0,0,,Ta vrisni thjesht sepse ju pengon? \NKjo është e paimagjinueshme.
+Dialogue: 0,0:14:12.06,0:14:14.41,Default,Tanya,0,0,0,,Krejtësisht e papranueshme.
+Dialogue: 0,0:14:14.41,0:14:16.67,Default,Zettour,0,0,0,,Është një sakrificë e domosdoshme.
+Dialogue: 0,0:14:16.67,0:14:19.71,Default,Zettour,0,0,0,,Edhe tani, nuk dëshiron të vrasësh një aleat?
+Dialogue: 0,0:14:20.05,0:14:22.68,Default,Tanya,0,0,0,,Po. Më vjen keq...
+Dialogue: 0,0:14:22.68,0:14:26.96,Default,Tanya,0,0,0,,Por më duket se po diskutoni \Npër pyetjen krejtësisht të gabuar.
+Dialogue: 0,0:14:26.96,0:14:28.29,Default,Zettour,0,0,0,,Çfarë?
+Dialogue: 0,0:14:28.81,0:14:31.59,Default,Tanya,0,0,0,,Vërtet nuk e kuptoni?
+Dialogue: 0,0:14:31.59,0:14:33.67,Default,Tanya,0,0,0,,Sa për të ardhur keq.
+Dialogue: 0,0:14:34.56,0:14:38.32,Default,Tanya,0,0,0,,Zotëri, qeniet njerëzore janë një burim i vlefshëm.
+Dialogue: 0,0:14:38.32,0:14:41.02,Default,Tanya,0,0,0,,Nuk duhen vrarë për asgjë.
+Dialogue: 0,0:14:41.96,0:14:46.23,Default,Tanya,0,0,0,,Nëse thjesht e vrisni Gjeneral Rudersdorf-in, \Natëherë vdekja e tij s'do të ketë asnjë vlerë.
+Dialogue: 0,0:14:46.23,0:14:51.23,Default,Tanya,0,0,0,,Një oficer i lartë duhet të vdesë \Nnë një mënyrë më të dobishme.
+Dialogue: 0,0:14:52.08,0:14:55.99,Default,Tanya,0,0,0,,Për shembull, ai mund të vdesë
+Dialogue: 0,0:14:56.59,0:14:59.52,Default,Tanya,0,0,0,,si koka e një komploti tradhtie \Npër të vendosur një diktaturë ushtarake.
+Dialogue: 0,0:15:00.33,0:15:01.65,Default,Zettour,0,0,0,,E kuptoj.
+Dialogue: 0,0:15:01.65,0:15:05.31,Default,Zettour,0,0,0,,Pra të mos e konsiderojmë thjesht \Nsi një kancer dhe ta eliminojmë?
+Dialogue: 0,0:15:05.31,0:15:06.30,Default,Tanya,0,0,0,,Po.
+Dialogue: 0,0:15:06.30,0:15:10.78,Default,Tanya,0,0,0,,Vdekja e tij mund të shërbejë si shkëndijë \Npër një spastrim selektiv në ushtri.
+Dialogue: 0,0:15:10.78,0:15:12.65,Default,Tanya,0,0,0,,Dhe rreziku që do të paraqiste një komplot i tillë
+Dialogue: 0,0:15:12.65,0:15:15.43,Default,Tanya,0,0,0,,na jep një justifikim për të marrë \Nkontrollin e plotë ushtarak të luftës.
+Dialogue: 0,0:15:15.98,0:15:19.44,Default,Zettour,0,0,0,,Ajo që po propozon \Nmë ngjan me një grusht shteti.
+Dialogue: 0,0:15:19.44,0:15:22.12,Default,Tanya,0,0,0,,Besoj se kjo mund të bëhet në mënyrë ligjore.
+Dialogue: 0,0:15:22.12,0:15:27.43,Default,Tanya,0,0,0,,Një kompani e vetme policie ushtarake do të mjaftonte \Npër të arrestuar këdo që e cilësojmë bashkëpunëtor të tij.
+Dialogue: 0,0:15:27.87,0:15:30.00,Default,Tanya,0,0,0,,Dhe pastaj mund të bëjmë çfarë të duam.
+Dialogue: 0,0:15:32.43,0:15:36.44,Default,Zettour,0,0,0,,Dhe si do ta fillosh këtë?
+Dialogue: 0,0:15:36.79,0:15:42.07,Default,Tanya,0,0,0,,Gjëja më e mirë për t'i thënë publikut është \Nse ai pësoi një vdekje aksidentale.
+Dialogue: 0,0:15:42.07,0:15:45.90,Default,Tanya,0,0,0,,Idealisht, gjejmë prova të një komploti \Ngjatë kontrollit të sendeve të tij,
+Dialogue: 0,0:15:45.90,0:15:47.95,Default,Tanya,0,0,0,,dhe më pas fillojmë spastrimin.
+Dialogue: 0,0:15:48.28,0:15:49.64,Default,Zettour,0,0,0,,Jo keq.
+Dialogue: 0,0:15:49.64,0:15:51.17,Default,Zettour,0,0,0,,Jo, është e përkryer.
+Dialogue: 0,0:15:51.17,0:15:55.47,Default,Zettour,0,0,0,,Ka vetëm një problem.
+Dialogue: 0,0:15:55.85,0:15:57.22,Default,Tanya,0,0,0,,Po, zotëri.
+Dialogue: 0,0:15:57.22,0:16:03.88,Default,Tanya,0,0,0,,Ky plan kërkon dikë me vendosmërinë \Npër të marrë kontrollin e plotë ushtarak të luftës.
+Dialogue: 0,0:16:06.67,0:16:08.56,Default,Zettour,0,0,0,,Unë po braktis mikun tim.
+Dialogue: 0,0:16:09.32,0:16:13.46,Default,Zettour,0,0,0,,Do të më duhet të rezervoj \Nnjë vend për vete në ferr.
+Dialogue: 0,0:16:18.37,0:16:19.64,Default,Zettour,0,0,0,,Shumë mirë.
+Dialogue: 0,0:16:19.64,0:16:22.47,Default,Zettour,0,0,0,,Do ta filloj planin tim, atëherë.
+Dialogue: 0,0:16:22.47,0:16:24.57,Default,Zettour,0,0,0,,Si do ta heqim qafe?
+Dialogue: 0,0:16:24.57,0:16:27.21,Default,Tanya,0,0,0,,Si thoni për një aksident ajror?
+Dialogue: 0,0:16:27.21,0:16:29.79,Default,Zettour,0,0,0,,Një ngjarje e rrallë që në fakt \Nndodh mjaft shpesh.
+Dialogue: 0,0:16:29.79,0:16:35.79,Default,Tanya,0,0,0,,Po. Që nga fillimi i luftës, \Nkemi pasur mungesë pjesësh dhe mekanikësh.
+Dialogue: 0,0:16:35.79,0:16:40.92,Default,Tanya,0,0,0,,Dhe unë do të dërgoj magjistarët e mi \Npër t'u siguruar që të ndodhë.
+Dialogue: 0,0:16:42.17,0:16:43.68,Default,Zettour,0,0,0,,Do të sakrifikosh avionin,
+Dialogue: 0,0:16:43.68,0:16:47.63,Default,Zettour,0,0,0,,si dhe reputacionin \Ne atyre që ishin aty?
+Dialogue: 0,0:16:47.98,0:16:50.76,Default,Tanya,0,0,0,,Më vjen tmerrësisht keq për këtë.
+Dialogue: 0,0:16:50.76,0:16:54.20,Default,Tanya,0,0,0,,Por zotëri, me lejen tuaj...
+Dialogue: 0,0:16:54.45,0:16:57.28,Default,Tanya,0,0,0,,Duket sikur po buzëqeshni me ironi.
+Dialogue: 0,0:16:59.53,0:17:03.88,Default,Zettour,0,0,0,,Nënkolonel, po kërkoj \Nshumë nga ti dhe njerëzit e tu.
+Dialogue: 0,0:17:04.79,0:17:06.19,Default,Tanya,0,0,0,,Gjithmonë kështu bëni.
+Dialogue: 0,0:17:06.19,0:17:08.96,Default,Tanya,0,0,0,,Po, gjithmonë kështu bëni.
+Dialogue: 0,0:17:08.96,0:17:10.21,Default,Zettour,0,0,0,,Shumë mirë.
+Dialogue: 0,0:17:10.21,0:17:13.58,Default,Zettour,0,0,0,,Atëherë le të derdhim gjakun \Nqë duhet derdhur.
+Dialogue: 0,0:17:13.85,0:17:14.51,Default,Tanya,0,0,0,,Po, zotëri.
+Dialogue: 0,0:17:15.20,0:17:17.71,Default,Tanya,0,0,0,,Së shpejti do të kem lajme të mira për ju.
+Dialogue: 0,0:17:27.48,0:17:32.48,Setting,sign,0,0,0,,{\blur2\bord1\pos(318,222)}Garnizoni i Ushtrisë Shumëkombëshe Vullnetare në Frontin Lindor
+Dialogue: 0,0:17:27.97,0:17:30.69,Default,Drake,0,0,0,,E ke seriozisht për këtë, Xhaxha?
+Dialogue: 0,0:17:30.69,0:17:32.48,Default,Isaac,0,0,0,,Mbresëlënëse, apo jo?
+Dialogue: 0,0:17:33.06,0:17:37.02,Default,Isaac,0,0,0,,Bombardues tranzit që nisen nga Mbretëria \Ndhe ulen në Federatë.
+Dialogue: 0,0:17:37.02,0:17:42.05,Default,Isaac,0,0,0,,Një bombardim me rreze tepër të gjatë që mund \Nt'i shkaktojë edhe më shumë trysni Perandorisë.
+Dialogue: 0,0:17:42.05,0:17:45.94,Default,Drake,0,0,0,,Në sipërfaqe, \Nështë një ofensivë e madhe strategjike.
+Dialogue: 0,0:17:45.94,0:17:47.96,Default,Drake,0,0,0,,Askush nuk do të dyshojë
+Dialogue: 0,0:17:47.96,0:17:52.35,Default,Drake,0,0,0,,se në fakt është thjesht një karrem për të mbuluar \Nnjë atentat ndaj një personaliteti të lartë perandorak.
+Dialogue: 0,0:17:52.35,0:17:57.00,Default,Isaac,0,0,0,,Nuk duhet ta lëmë Perandorinë të pyesë \Nse nga rrodhi ky informacion.
+Dialogue: 0,0:17:57.00,0:18:00.03,Default,Drake,0,0,0,,Një spiun në zemër të Perandorisë, ë?
+Dialogue: 0,0:18:00.03,0:18:03.67,Default,Drake,0,0,0,,Është mirë të ruash sekrete, \Npor po kërkon shumë nga ushtarët.
+Dialogue: 0,0:18:03.67,0:18:08.77,Default,Isaac,0,0,0,,Por koka e Gjeneral Rudersdorf-it e meriton.
+Dialogue: 0,0:18:09.97,0:18:13.79,Default,Isaac,0,0,0,,Ndaj doja të të kërkoja një nder.
+Dialogue: 0,0:18:13.79,0:18:18.57,Default,Isaac,0,0,0,,Nuk dua që armiqtë tanë, apo qoftë \Nedhe miqtë tanë, të dyshojnë për ndonjë gjë.
+Dialogue: 0,0:18:18.79,0:18:21.48,Default,Drake,0,0,0,,Pra do që ai të vdesë pa \Ne marrë vesh Federata?
+Dialogue: 0,0:18:21.88,0:18:24.95,Default,Isaac,0,0,0,,Do të të kërkoj të bësh \Nçfarëdo që duhet për ta mbuluar këtë.
+Dialogue: 0,0:18:25.30,0:18:27.64,Default,Isaac,0,0,0,,Tani, po largohem.
+Dialogue: 0,0:18:27.64,0:18:28.33,Default,Drake,0,0,0,,Hej...
+Dialogue: 0,0:18:28.33,0:18:31.46,Setting,sign,0,0,0,,{\blur2\bord1\pos(318,222)}E njëjta ditë — Garnizoni i Federatës
+Dialogue: 0,0:18:29.06,0:18:30.61,Default,Mikel,0,0,0,,Bombardim tranzit?
+Dialogue: 0,0:18:30.61,0:18:31.46,Default,Liliya,0,0,0,,Po.
+Dialogue: 0,0:18:31.70,0:18:36.20,Default,Liliya,0,0,0,,Bombarduesit e Mbretërisë Aleate do të godasin \NPerandorinë dhe do të ulen në territorin e Federatës.
+Dialogue: 0,0:18:36.20,0:18:40.38,Default,Liliya,0,0,0,,Ata do të rifurnohen dhe do të kthehen në Mbretëri \Nduke kryer një tjetër sulm bombardimi gjatë rrugës.
+Dialogue: 0,0:18:40.38,0:18:43.54,Default,Liliya,0,0,0,,Të dy vendet do të bashkëpunojnë \Npër të sulmuar Perandorinë.
+Dialogue: 0,0:18:43.54,0:18:45.69,Default,Liliya,0,0,0,,Një shembull i miqësisë ndërkombëtare.
+Dialogue: 0,0:18:45.69,0:18:48.31,Default,Mikel,0,0,0,,Miqësia ndërkombëtare \Nështë një gjë e mrekullueshme.
+Dialogue: 0,0:18:48.31,0:18:51.89,Default,Mikel,0,0,0,,Pra, çfarë kërkon partia nga unë?
+Dialogue: 0,0:18:51.89,0:18:55.07,Default,Liliya,0,0,0,,Duam që të jeni të përgatitur \Npër të mirëpritur miqtë tanë.
+Dialogue: 0,0:18:55.07,0:18:59.69,Default,Mikel,0,0,0,,Pra detyra jonë është t'i udhëheqim bombarduesit \Ndrejt bazës dhe t'i mbrojmë?
+Dialogue: 0,0:18:59.69,0:19:00.91,Default,Mikel,0,0,0,,E kuptova.
+Dialogue: 0,0:19:00.91,0:19:05.03,Default,Liliya,0,0,0,,Shoku Kolonel, Federata \Npo planifikon një surprizë të vogël
+Dialogue: 0,0:19:05.03,0:19:07.08,Default,Liliya,0,0,0,,për miqtë tanë pas udhëtimit të tyre të gjatë.
+Dialogue: 0,0:19:07.08,0:19:08.45,Default,Mikel,0,0,0,,Një surprizë?
+Dialogue: 0,0:19:08.45,0:19:09.50,Default,Liliya,0,0,0,,Për shembull,
+Dialogue: 0,0:19:11.39,0:19:14.67,Default,Liliya,0,0,0,,magjistarë asë të pajisur me \Nnjë tip të ri xhevahiri llogaritës.
+Dialogue: 0,0:19:14.67,0:19:18.92,Default,Liliya,0,0,0,,Si thoni sikur t'i surprizojmë me një eskortë \Nshumë më të mirë nga sa e prisnin?
+Dialogue: 0,0:19:19.20,0:19:23.82,Default - italics,Mikel,0,0,0,,Pra duhet t'u tregojmë forcën tonë \Npara se të fillojnë të na shohin nga lart?
+Dialogue: 0,0:19:24.74,0:19:29.17,Default - italics,Liliya,0,0,0,,Me këta xhevahirë të rinj e të paqëndrueshëm \Nllogaritës? Nuk do të jetë e lehtë.
+Dialogue: 0,0:19:29.17,0:19:30.05,Default,Liliya,0,0,0,,Por...
+Dialogue: 0,0:19:30.51,0:19:34.78,Default,Liliya,0,0,0,,Nëse këtë kërkon partia, \Nsigurisht që do ta bëj.
+Dialogue: 0,0:19:35.16,0:19:37.42,Default,Liliya,0,0,0,,Le t'ua tregojmë këtë xhevahir të ri.
+Dialogue: 0,0:19:38.78,0:19:41.11,Setting,sign,0,0,0,,{\blur2\bord1\pos(325,269)}3 tetor, Viti i Bashkuar 1927
+Dialogue: 0,0:19:41.84,0:19:43.98,Default,Tanya,0,0,0,,Jeni vërtet i sigurt për këtë, apo jo?
+Dialogue: 0,0:19:45.60,0:19:46.48,Default,Tanya,0,0,0,,Zotëri?
+Dialogue: 0,0:19:47.31,0:19:49.08,Default,Zettour,0,0,0,,Më lër vetëm një çast.
+Dialogue: 0,0:19:49.61,0:19:51.38,Default,Zettour,0,0,0,,Ai është miku im.
+Dialogue: 0,0:19:51.72,0:19:55.62,Default,Zettour,0,0,0,,Një pjesë e imja mendon \Nse ka ende kohë për ta bindur.
+Dialogue: 0,0:19:56.77,0:20:00.80,Default,Zettour,0,0,0,,Duket se nuk qenkam aq zemërgur \Nsa mendoja se isha.
+Dialogue: 0,0:20:01.42,0:20:05.28,Default,Tanya,0,0,0,,Me lejen tuaj, zotëri, të gjithë jemi njerëz.
+Dialogue: 0,0:20:06.28,0:20:08.33,Default,Zettour,0,0,0,,Kjo është e papritur, Nënkolonel.
+Dialogue: 0,0:20:08.33,0:20:10.73,Default,Zettour,0,0,0,,A je njeri ti?
+Dialogue: 0,0:20:10.73,0:20:12.91,Default,Tanya,0,0,0,,Sigurisht që jam.
+Dialogue: 0,0:20:12.91,0:20:17.36,Default,Tanya,0,0,0,,Nëse një zot apo djall \Nkërkon të më dalë përpara,
+Dialogue: 0,0:20:17.36,0:20:22.53,Default,Tanya,0,0,0,,e ndiej thellësisht se është detyra ime \Nt'i shtyp me forcën njerëzore.
+Dialogue: 0,0:20:23.13,0:20:26.02,Default,Zettour,0,0,0,,E kuptoj. Por...
+Dialogue: 0,0:20:26.46,0:20:30.67,Default,Zettour,0,0,0,,unë e kam djegur plotësisht çdo thërrmijë njerëzillëku që kisha.
+Dialogue: 0,0:21:08.59,0:21:11.32,Default,Rudersdorf,0,0,0,,Më vjen keq, por më duhet \Ntë bësh diçka për mua.
+Dialogue: 0,0:21:50.00,0:21:54.88,Default - italics,Tanya,0,0,0,,Gjithmonë të jepet një punë e fundit e fëlliqur \Npara se të heqësh dorë.
+Dialogue: 0,0:21:54.88,0:21:57.44,Default - italics,Tanya,0,0,0,,Por nëse dua të dal e pastër nga kjo...
+Dialogue: 0,0:22:00.18,0:22:02.12,Default - italics,Tanya,0,0,0,,Nuk kam zgjidhje tjetër.
+Dialogue: 0,0:22:06.01,0:22:10.01,Title,sign,0,0,0,,{\pos(336,153)}Herën Tjetër\NDalja
+

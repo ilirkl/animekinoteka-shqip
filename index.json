@@ -1,7 +1,7 @@
 {
   "version": 1,
   "language": "sq",
-  "updated": "2026-09-16",
+  "updated": "2026-09-17",
   "entries": [
     {
       "id": "liar-game-24",
@@ -279,6 +279,20 @@
       "sourceEpisode": "1178",
       "sourceTitle": "One Piece",
       "numberingEvidence": "https://anikototv.to/watch/one-piece-odmau"
+    },
+    {
+      "id": "at-688736",
+      "title": "Saga of Tanya the Evil Season 2",
+      "episode": "11",
+      "malId": 49233,
+      "anilistId": 135865,
+      "slugs": [
+        "youjo-senki-ii"
+      ],
+      "file": "files/at-688736.sq.vtt",
+      "assFile": "ass/at-688736.sq.ass",
+      "offset": 0,
+      "sourceReleaseId": "688736"
     }
   ]
 }
