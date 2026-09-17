@@ -370,6 +370,20 @@
       "sourceTitle": "Re Zero kara Hajimeru Isekai Seikatsu",
       "part": 4,
       "numberingEvidence": "https://anikototv.to/watch/re-zero-starting-life-in-another-world-season-4-4hk9h"
+    },
+    {
+      "id": "at-689117",
+      "title": "The Exiled Heavy Knight Knows How to Game the System",
+      "episode": "12",
+      "malId": 59741,
+      "anilistId": null,
+      "slugs": [
+        "the-exiled-heavy-knight-knows-how-to-game-the-system"
+      ],
+      "file": "files/at-689117.sq.vtt",
+      "assFile": "ass/at-689117.sq.ass",
+      "offset": 0,
+      "sourceReleaseId": "689117"
     }
   ]
 }

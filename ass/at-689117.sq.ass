@@ -1,0 +1,243 @@
+﻿[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: italicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashback italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashbackitalicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: overlaptop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Narration,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: sign_generic,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:17.18,0:00:21.63,Default,MALICE,0,0,0,,Do të të tregoj një aftësi të Mjeshtrit Shpatar.
+Dialogue: 0,0:00:22.74,0:00:25.21,Default,MALICE,0,0,0,,Prerësi i Ftohtë si Çeliku!
+Dialogue: 0,0:00:26.34,0:00:30.06,italics,ELYMAS/ID,0,0,0,,Goditjet me shpejtësi rrufeje janë pikërisht\Najo për të cilën shquhet klasa e Mjeshtrit Shpatar!
+Dialogue: 0,0:00:45.68,0:00:47.49,italics,ELYMAS/ID,0,0,0,,A arrita vallë të mbijetoj?
+Dialogue: 0,0:00:56.14,0:00:58.04,Default,MALICE,0,0,0,,Edhe një goditje.
+Dialogue: 0,0:01:00.04,0:01:01.87,Default,RUCHE,0,0,0,,Zoti Elymas!
+Dialogue: 0,0:01:14.45,0:01:18.04,Default,RUCHE,0,0,0,,N-Nuk më besohet sa e njëanshme është kjo.
+Dialogue: 0,0:01:30.65,0:01:34.24,Default,MALICE,0,0,0,,Me sa duket s'të rrëzoj dot\Nkur mbyllesh në guaskën tënde.
+Dialogue: 0,0:01:34.80,0:01:35.94,Default,MALICE,0,0,0,,Por...
+Dialogue: 0,0:01:47.52,0:01:49.81,Default,MALICE,0,0,0,,ngadalë po e humbet këtë betejë.
+Dialogue: 0,0:02:06.18,0:02:09.05,Default,MALICE,0,0,0,,Pse nuk i japim fund kësaj?
+Dialogue: 0,0:02:47.40,0:02:48.65,sign_generic,SIGN,0,0,0,,{\b1\fnComic Sans MS\an7\fs35\pos(379.778,290.889)\c&H6C623B&\3c&HD1CCB9&\bord1}Po ngarkohet
+Dialogue: 0,0:02:59.91,0:03:01.20,sign_generic,SIGN,0,0,0,,{\b1\fnComic Sans MS\an7\fs35\pos(379.778,290.889)\c&H3F3EA2&\3c&H7F9BDB&\bord1}Po ngarkohet
+Dialogue: 0,0:03:12.55,0:03:13.84,sign_generic,SIGN,0,0,0,,{\b1\fnComic Sans MS\an7\fs35\pos(379.778,290.889)\c&H6C623B&\3c&HD1CCB9&\bord1}Po ngarkohet
+Dialogue: 0,0:03:22.10,0:03:22.85,sign_generic,SIGN,0,0,0,,{\b1\fnComic Sans MS\an7\fs35\c&HA14065&\3c&HF7C1D8&\bord1\frz91.05\pos(558.445,348.667)}Po ngarkohet
+Dialogue: 0,0:03:24.35,0:03:29.94,sign_generic,SIGNS,0,0,0,,{\b1\fnComic Sans MS\an7\fs35\c&H3F3EA2&\3c&H7F9BDB&\bord1\pos(16.045,30.622)}Fillo Aventurën
+Dialogue: 0,0:03:24.35,0:03:29.94,sign_generic,SIGNS,0,0,0,,{\b1\fnComic Sans MS\an7\fs30\c&H6C623B&\3c&HD1CCB9&\bord1\pos(361.111,298)}Fillo Aventurën
+Dialogue: 0,0:03:41.12,0:03:44.83,sign_generic,EPTITLE,0,0,0,,{\b1\fnTimes New Roman\an7\bord1\shad1.25\fade(476,518)\alphaH&0&\3c&H000000&\c&HF3F8F7&\4c&H000000&\fs18\pos(372.718,288.304)}Episodi 12
+Dialogue: 0,0:03:41.12,0:03:44.83,sign_generic,EPTITLE,0,0,0,,{\b1\fnTimes New Roman\an7\bord1\shad1.25\fade(476,518)\alphaH&0&\3c&H000000&\c&HF3F8F7&\4c&H000000&\fs17\pos(471.118,275.504)}Malice,\NMjeshtrja Shpatare
+Dialogue: 0,0:03:49.64,0:03:50.67,Default,RUCHE,0,0,0,,Zoti Elymas!
+Dialogue: 0,0:03:51.02,0:03:53.75,Default,RUCHE,0,0,0,,Keni arritur kufirin tuaj!\NDuhet të ndaloni!
+Dialogue: 0,0:03:56.06,0:03:57.23,Default,ELYMAS,0,0,0,,Malice.
+Dialogue: 0,0:03:58.17,0:04:02.51,Default,ELYMAS,0,0,0,,Kisha tre objektiva për këtë përleshje.
+Dialogue: 0,0:04:04.52,0:04:08.98,Default,ELYMAS,0,0,0,,E para ishte të vëzhgoja\NPrerësin tënd të Ftohtë si Çeliku.
+Dialogue: 0,0:04:10.51,0:04:12.99,flashback,MALICE,0,0,0,,Prerësi i Ftohtë si Çeliku!
+Dialogue: 0,0:04:21.12,0:04:26.50,Default,ELYMAS,0,0,0,,E dyta ishte të gjeja\Npikën tënde kritike të dobët.
+Dialogue: 0,0:04:29.28,0:04:31.29,flashback italics,ELYMAS/ID,0,0,0,,A arrita vallë të mbijetoj?
+Dialogue: 0,0:04:31.29,0:04:33.11,flashback,MALICE,0,0,0,,Edhe një goditje.
+Dialogue: 0,0:04:34.64,0:04:36.35,Default,ELYMAS,0,0,0,,Dhe e treta...
+Dialogue: 0,0:04:41.51,0:04:47.81,sign_generic,SIGN,0,0,0,,{\b1\an7\fs16\3c&HFAD610&\blur1\c&HFCFFCD&\fade(600,1)\pos(401.2,25.867)}Elymas Edvaughn
+Dialogue: 0,0:04:42.11,0:04:47.12,Default,ELYMAS,0,0,0,,ishte të bija nën 40% të pikëve të jetës.
+Dialogue: 0,0:04:52.70,0:04:56.32,Default,MALICE,0,0,0,,Mendon se ai blof do të më frikësojë?
+Dialogue: 0,0:04:57.29,0:05:00.47,Default,ELYMAS,0,0,0,,Statistikat e Magjishpatës tënde, Korbi i Ujit.
+Dialogue: 0,0:05:01.70,0:05:06.33,flashback,MALICE,0,0,0,,Sapo përfundova përdorimin e Transferimit të Jetës\Npër të arritur nivelin 45.
+Dialogue: 0,0:05:06.33,0:05:09.33,Default,ELYMAS,0,0,0,,Dhe niveli yt aktual.
+Dialogue: 0,0:05:10.07,0:05:13.23,Default,ELYMAS,0,0,0,,Llogaritë dolën pikërisht ashtu siç i kisha planifikuar.
+Dialogue: 0,0:05:20.13,0:05:24.68,italics,ELYMAS/ID,0,0,0,,Tani, më në fund mund të vendos pikë te\NDhëmbi i Çmendurisë së Nxehtë.
+Dialogue: 0,0:05:21.72,0:05:26.22,sign_generic,SIGN,0,0,0,,{\b1\blur2\3c&HC68D40&\c&HFFFFF2&\an7\fs15\t(1,4500,\fs16.5)\frz16.17\move(126.8,106.8,107.6,93.2)}Pema e Aftësive: Kalorësi i Rëndë
+Dialogue: 0,0:05:21.72,0:05:26.22,sign_generic,SIGN,0,0,0,,{\b1\blur2\3c&HC68D40&\c&HFFFFF2&\an7\fs15\t(1,4500,\fs16.5)\frz16.17\move(147.6,143.6,131.6,135.6)}Pikët e Mbetura të Aftësive:
+Dialogue: 0,0:05:21.72,0:05:26.22,sign_generic,SIGN,0,0,0,,{\b1\blur2\3c&HFDFF69&\c&HFFFCFA&\an7\fs13\t(1,4500,\fs14.74)\frz17.68\move(176.4,182,159.6,175.6)}Betimi i Parzmores së Rëndë\N\N\NDhëmbi i Çmendurisë së Nxehtë\N\N\NShpatari Fillestar
+Dialogue: 0,0:05:27.79,0:05:30.20,italics,ELYMAS/ID,0,0,0,,Ruche është arsyeja që e arrita këtë në kohë.
+Dialogue: 0,0:05:33.65,0:05:37.65,flashback,RUCHE,0,0,0,,Nuk mund t'ju lë vetëm\Nkur dukeni aq i dëshpëruar.
+Dialogue: 0,0:05:38.51,0:05:41.65,italics,ELYMAS/ID,0,0,0,,Ajo më frymëzoi që të mund të\Nluftoja me gjakftohtësi.
+Dialogue: 0,0:05:41.65,0:05:44.70,flashbacktop,AIZAS,0,0,0,,Ti, një njeri i thjeshtë,\Nguxon të na tregosh se çfarë të bëjmë?
+Dialogue: 0,0:05:43.34,0:05:47.95,italics,ELYMAS/ID,0,0,0,,Të ndërpriste kontin duhet të ketë qenë e frikshme.
+Dialogue: 0,0:05:52.92,0:05:55.51,italics,ELYMAS/ID,0,0,0,,Por pikërisht për këtë arsye...
+Dialogue: 0,0:05:56.51,0:05:59.96,italics,SYSTEM VOICE,0,0,0,,Dhëmbi i Çmendurisë së Nxehtë\Nka arritur nivelin 5.
+Dialogue: 0,0:05:58.00,0:06:03.43,sign_generic,SIGN,0,0,0,,{\fade(649,1)\b1\bord1.5\shad1.5\blur1\c&H03FAF6&\3c&H000D30&\4c&H000D30&\frz359\t(1,5430,\fs21)\move(320,91.6,321.6,81.2,0,5404)}Dhëmbi i Çmendurisë së Nxehtë arriti nivelin 5\NU fitua aftësia Shikimi Vdekjeprurës i Tërbimit të Dragoit
+Dialogue: 0,0:05:59.96,0:06:03.43,italics,SYSTEM VOICE,0,0,0,,U fitua aftësia\NShikimi Vdekjeprurës i Tërbimit të Dragoit.
+Dialogue: 0,0:06:04.18,0:06:06.96,Default,ELYMAS,0,0,0,,Do ta fitojmë këtë betejë!
+Dialogue: 0,0:06:12.85,0:06:14.69,Default,MALICE,0,0,0,,Broçkulla.
+Dialogue: 0,0:06:16.35,0:06:22.32,italics,ELYMAS/ID,0,0,0,,Shikimi Vdekjeprurës i Tërbimit të Dragoit mund të\Naktivizohet vetëm nën 20% të jetës.
+Dialogue: 0,0:06:18.19,0:06:23.70,sign_generic,SIGN,0,0,0,,{\b1\blur1.5\3c&HE7EF38&\frx0\fry16\frz354.2\bord1.5\move(268,154,323.2,154)}Kushti i\NAktivizimit
+Dialogue: 0,0:06:24.16,0:06:29.70,italics,ELYMAS/ID,0,0,0,,Ai jep një bonus masiv prej 100%\Npër Sulmin dhe Shpejtësinë.
+Dialogue: 0,0:06:30.30,0:06:35.84,italics,ELYMAS/ID,0,0,0,,Por me një hap të gabuar,\Nmund të vdesësh para se ta aktivizosh.
+Dialogue: 0,0:06:36.50,0:06:41.51,italics,ELYMAS/ID,0,0,0,,Efekti është i fuqishëm, por plotësimi i\Nkërkesës së jetës është i vështirë.
+Dialogue: 0,0:06:41.51,0:06:46.28,italics,ELYMAS/ID,0,0,0,,Në lojë, fillimisht konsiderohej\Njopraktike.
+Dialogue: 0,0:06:47.16,0:06:52.40,italics,ELYMAS/ID,0,0,0,,Por Kalorësi i Rëndë ka një aftësi\Nqë e lejon të kapërcejë atë dobësi.
+Dialogue: 0,0:06:53.23,0:06:55.13,Default,ELYMAS,0,0,0,,Mburoja e Jetës!
+Dialogue: 0,0:06:55.39,0:06:59.02,sign_generic,SIGN,0,0,0,,{\b1\fnGeorgia\blur2\c&HFEFE51&\3c&HEAAD28&\an9\fs25}Mburoja e Jetës
+Dialogue: 0,0:06:55.53,0:06:57.50,italics,ELYMAS/ID,0,0,0,,Mburoja e Jetës!
+Dialogue: 0,0:06:59.02,0:07:01.02,sign_generic,SIGN,0,0,0,,{\b1\3c&HDED323&\blur1\c&HEBE8DD&\an5\pos(227.2,108.4)\frx22\fry344\frz7.808}Elymas{\fax-0.075}Edvaughn
+Dialogue: 0,0:07:01.55,0:07:04.45,Default,AIZAS,0,0,0,,Po përdor Mburojën e Jetës tani?
+Dialogue: 0,0:07:04.45,0:07:07.21,italics,SYSTEM VOICE,0,0,0,,Aftësia: Mburoja e Jetës.
+Dialogue: 0,0:07:05.49,0:07:16.46,sign_generic,SIGN,0,0,0,,{\pos(441.6,154.8)\b1\c&H2D83BD&\3c&H89C2E4&\bord1\fade(685,1)}Mburoja e Jetës{\bord2\fs15\blur1.5\3c&HECE77C&\c&HFFF5E3&}[Aftësi e Zakonshme]\NKushton 20% të jetës maksimale për t'u aktivizuar\NMbështjell përdoruesin me një mburojë\Ntë barabartë në forcë me koston e jetës
+Dialogue: 0,0:07:07.21,0:07:11.42,italics,SYSTEM VOICE,0,0,0,,Kushton 20% të jetës maksimale për t'u aktivizuar.
+Dialogue: 0,0:07:11.42,0:07:16.46,italics,SYSTEM VOICE,0,0,0,,Mbështjell përdoruesin me një mburojë\Ntë barabartë në forcë me koston e jetës.
+Dialogue: 0,0:07:17.13,0:07:18.88,Default,AIZAS,0,0,0,,Duhet të jetë i dëshpëruar.
+Dialogue: 0,0:07:19.72,0:07:25.41,italics,ELYMAS/ID,0,0,0,,Kostoja e jetës e Mburojës së Jetës\Nështë e përkryer për të menaxhuar jetën time.
+Dialogue: 0,0:07:26.15,0:07:29.87,italics,ELYMAS/ID,0,0,0,,Jo vetëm që mund të aktivizoj i sigurt\NShikimin Vdekjeprurës të Tërbimit të Dragoit,
+Dialogue: 0,0:07:29.87,0:07:32.32,italics,ELYMAS/ID,0,0,0,,por ajo ofron edhe një mburojë të fuqishme gjithashtu.
+Dialogue: 0,0:07:32.72,0:07:35.73,sign_generic,SIGN,0,0,0,,{\b1\3c&HDED323&\blur1\c&HEBE8DD&\an5\t(1,3010,\fs19)\frx22\fry344\frz7.808\move(227.2,108.4,238.4,118)}Elymas{\fax-0.075}Edvaughn
+Dialogue: 0,0:07:33.83,0:07:39.43,italics,ELYMAS/ID,0,0,0,,Ky kombinim i poshtër zhvlerëson\Nrreziqet që vijnë
+Dialogue: 0,0:07:39.43,0:07:42.03,italics,ELYMAS/ID,0,0,0,,me rritjen e fuqishme të statistikave të\NShikimit Vdekjeprurës të Tërbimit të Dragoit.
+Dialogue: 0,0:07:45.99,0:07:48.50,Default,ELYMAS,0,0,0,,Le t'i japim fund kësaj, Malice.
+Dialogue: 0,0:08:07.87,0:08:09.90,italics,ELYMAS/ID,0,0,0,,Shikimi Vdekjeprurës i Tërbimit të Dragoit!
+Dialogue: 0,0:08:08.76,0:08:11.43,sign_generic,SIGN,0,0,0,,{\an8\alpha&H60&\fnGeorgia\b1\blur1\c&H0E0E17&\3c&H79E9FC&\fade(562,1)\fs25}Shikimi Vdekjeprurës i Tërbimit të Dragoit
+Dialogue: 0,0:08:12.15,0:08:13.82,Default,ELYMAS,0,0,0,,Vështro!
+Dialogue: 0,0:08:13.82,0:08:17.87,Default,ELYMAS,0,0,0,,Kjo është fuqia e vërtetë\Ne klasës së Kalorësit të Rëndë!
+Dialogue: 0,0:08:38.49,0:08:41.50,Default,MALICE,0,0,0,,Duket se ke aktivizuar\Nnjë lloj aftësie.
+Dialogue: 0,0:08:41.50,0:08:44.92,Default,MALICE,0,0,0,,Mendon se kjo të jep\Nndonjë shans në betejë?
+Dialogue: 0,0:08:55.47,0:08:58.14,sign_generic,SIGN,0,0,0,,{\an8\alpha&H60&\fnGeorgia\b1\blur1\c&H0E0E17&\3c&H79E9FC&\fade(562,1)\fs25}Shikimi Vdekjeprurës i Tërbimit të Dragoit
+Dialogue: 0,0:08:56.01,0:08:58.14,italics,ELYMAS/ID,0,0,0,,Shikimi Vdekjeprurës i Tërbimit të Dragoit!
+Dialogue: 0,0:09:39.59,0:09:44.02,italics,MALICE/ID,0,0,0,,Shpejtësia dhe Forca e tij\Njanë të krahasueshme me të miat?
+Dialogue: 0,0:09:45.47,0:09:48.53,italics,ELYMAS/ID,0,0,0,,Kombinimi i Shikimit Vdekjeprurës\Ntë Tërbimit të Dragoit dhe Përmbysësit
+Dialogue: 1,0:09:48.53,0:09:53.92,italics,ELYMAS/ID,0,0,0,,më jep një bonus prej 115%\Npër Sulmin dhe Shpejtësinë.
+Dialogue: 0,0:09:51.40,0:09:54.28,sign_generic,SIGN,0,0,0,,{\b1\bord1.5\shad1.5\fade(541,1)\c&H0EFFF7&\3c&H000227&\4c&H000227&\blur1\an8\pos(227.2,27.6)}Aftësia: Shikimi Vdekjeprurës i Tërbimit të Dragoit\N\N\N\N\N\N\N\N\N\NRrit Sulmin dhe Shpejtësinë me 100%
+Dialogue: 0,0:09:51.57,0:09:54.28,sign_generic,SIGN,0,0,0,,{\b1\bord1.5\shad1.5\fade(541,1)\c&H0EFFF7&\3c&H000227&\4c&H000227&\blur1\an8\pos(226.4,192.4)}Titulli: Përmbysësi\N\N\N\N\N\N\N\N\N\N\NRrit Sulmin dhe Shpejtësinë me 15%
+Dialogue: 0,0:09:54.57,0:09:58.29,italics,ELYMAS/ID,0,0,0,,E asgjësova epërsinë e saj në statistika!
+Dialogue: 0,0:10:12.34,0:10:15.34,Default,MALICE,0,0,0,,Je me të vërtetë magjepsës.
+Dialogue: 0,0:10:18.12,0:10:21.31,Default,MALICE,0,0,0,,A e njeh fabulën\Ne engjëllit me krahë dylli?
+Dialogue: 0,0:10:23.51,0:10:27.77,Default,MALICE,0,0,0,,I lindur pa krahë,\Nnjë engjëll i dëbuar nga parajsa
+Dialogue: 0,0:10:28.15,0:10:32.09,Default,MALICE,0,0,0,,ëndërronte të kthehej në shtëpi\Ndhe u përpoq të fluturonte me krahë dylli.
+Dialogue: 0,0:10:32.53,0:10:39.24,Default,MALICE,0,0,0,,Megjithatë, nxehtësia e diellit i shkriu\Nkrahët dhe ai vdiq.
+Dialogue: 0,0:10:39.58,0:10:41.58,Default,MALICE,0,0,0,,Kjo është historia.
+Dialogue: 0,0:10:46.69,0:10:49.82,Default,MALICE,0,0,0,,Rastësisht më pëlqen kjo histori.
+Dialogue: 0,0:10:49.82,0:10:53.84,Default,MALICE,0,0,0,,Kur njerëzit që përpiqen të jetojnë\Nmbi mundësitë e tyre dështojnë,
+Dialogue: 0,0:10:56.23,0:10:58.38,Default,MALICE,0,0,0,,thjesht e adhuroj.
+Dialogue: 0,0:10:59.14,0:11:02.78,Default,MALICE,0,0,0,,Dhe kur bëhet fjalë për dikë që e admiroja,
+Dialogue: 0,0:11:03.14,0:11:05.14,Default,MALICE,0,0,0,,është absolutisht e jashtëzakonshme!
+Dialogue: 0,0:11:07.60,0:11:08.56,italics,ELYMAS/ID,0,0,0,,Parim!
+Dialogue: 0,0:11:09.55,0:11:11.86,Default,ELYMAS,0,0,0,,Më vjen keq, por kjo nuk ka për të ndodhur.
+Dialogue: 0,0:11:13.11,0:11:18.62,Default,MALICE,0,0,0,,Ajo aftësi Parimi që të pëlqen të përdorësh është thjesht\Nnjë version i dobët i simes.
+Dialogue: 0,0:11:24.56,0:11:25.79,italics,MALICE/ID,0,0,0,,Ujërat e Rrjedhshëm!
+Dialogue: 0,0:11:24.56,0:11:25.79,sign_generic,SIGN,0,0,0,,{\b1\blur1.5\fnGeorgia\c&HF6E577&\3c&HE58249&\fs25\pos(403.2,111.6)\fade(124,1)}Ujërat e\NRrjedhshëm
+Dialogue: 0,0:11:26.79,0:11:29.54,italics,MALICE/ID,0,0,0,,Ai e vonoi kohën e sulmit të tij?
+Dialogue: 0,0:11:34.15,0:11:37.01,Default,MALICE,0,0,0,,Pse po detyrohem të mbrohem?
+Dialogue: 0,0:11:37.41,0:11:43.06,Default,ELYMAS,0,0,0,,Nuk munde të më jepje goditjen përfundimtare\Nkur kishe avantazhin e statistikave.
+Dialogue: 0,0:11:45.31,0:11:46.66,Default,ELYMAS,0,0,0,,Kaq ishte e gjitha.
+Dialogue: 0,0:11:50.28,0:11:51.92,Default,MALICE,0,0,0,,Atëherë...
+Dialogue: 0,0:11:55.86,0:11:58.07,Default,MALICE,0,0,0,,Ç'thua për këtë?
+Dialogue: 0,0:12:01.50,0:12:04.64,Default,MALICE,0,0,0,,Prerësi i Ftohtë si Çeliku!
+Dialogue: 0,0:12:24.38,0:12:28.98,Default,ELYMAS,0,0,0,,Malice, Prerësi yt i Ftohtë si Çeliku\Nka një dobësi të madhe.
+Dialogue: 0,0:12:45.22,0:12:48.19,Default,ELYMAS,0,0,0,,Kur e detyron veten\Ntë bësh një sulm të katërt,
+Dialogue: 0,0:12:48.19,0:12:51.63,Default,ELYMAS,0,0,0,,qëndrimi yt prishet,\Nduke të lënë krejtësisht të zbuluar.
+Dialogue: 0,0:12:51.88,0:12:56.25,Default,ELYMAS,0,0,0,,Prerësi i Ftohtë si Çeliku vetëm përkohësisht\Nrrit aftësitë e tua fizike.
+Dialogue: 0,0:12:56.25,0:12:59.80,Default,ELYMAS,0,0,0,,Se sa sulme mund të bësh\Nvaret nga mjeshtëria e përdoruesit.
+Dialogue: 0,0:13:00.97,0:13:04.20,Default,ELYMAS,0,0,0,,Duhej të ishe ndalur te tre.
+Dialogue: 0,0:13:07.39,0:13:09.14,italics,ELYMAS/ID,0,0,0,,Ajo nuk po dorëzohet\Nedhe pse humbi armën.
+Dialogue: 0,0:13:09.14,0:13:11.19,italics,ELYMAS/ID,0,0,0,,Këmbëngulja e saj është mbresëlënëse, por...
+Dialogue: 0,0:13:13.52,0:13:14.69,italics,ELYMAS/ID,0,0,0,,Përplasje me Mburojë!
+Dialogue: 0,0:13:13.69,0:13:14.69,sign_generic,SIGN,0,0,0,,{\b1\fnGeorgia\bord0.5\blur1\fs25\c&HECFD32&\3c&HFFFFC8&\pos(144,336.4)\fade(436,1)}Përplasje me\NMburojë
+Dialogue: 0,0:13:56.52,0:13:57.87,Default,RUCHE,0,0,0,,Ai fitoi.
+Dialogue: 0,0:14:01.19,0:14:04.70,Default,RUCHE,0,0,0,,Fitove, Zoti Elymas! Fitove!
+Dialogue: 0,0:14:04.70,0:14:07.28,Default,ELYMAS,0,0,0,,U-Uou! Çfarë ka, Ruche?
+Dialogue: 0,0:14:07.55,0:14:10.41,Default,RUCHE,0,0,0,,Jam kaq, kaq shumë e lumtur.
+Dialogue: 0,0:14:10.41,0:14:14.04,Default,RUCHE,0,0,0,,Doja të besoja tek ju, Zoti Elymas.
+Dialogue: 0,0:14:14.39,0:14:20.05,Default,RUCHE,0,0,0,,Por ajo ishte aq e frikshme\Ndhe po përpiqej t'ju vriste.
+Dialogue: 0,0:14:20.05,0:14:21.94,Default,RUCHE,0,0,0,,Isha aq shumë e shqetësuar.
+Dialogue: 0,0:14:27.15,0:14:28.64,Default,ELYMAS,0,0,0,,Gjithçka është falë teje, Ruche.
+Dialogue: 0,0:14:33.31,0:14:35.80,Default,RUCHE,0,0,0,,Zoti Elymas, a është ajo...?
+Dialogue: 0,0:14:35.80,0:14:38.42,Default,ELYMAS,0,0,0,,Mos u shqetëso. Thjesht ka humbur ndjenjat.
+Dialogue: 0,0:14:39.68,0:14:44.34,Default,AIZAS,0,0,0,,K-Kjo s'mund të jetë. Është e pamundur.
+Dialogue: 0,0:14:47.74,0:14:53.20,Default,AIZAS,0,0,0,,Malice, një Mjeshtre Shpatare,\Nu mund nga një Kalorës i Rëndë?
+Dialogue: 0,0:15:00.73,0:15:04.48,Default,ELYMAS,0,0,0,,A u binde tani, Konti Aizas?
+Dialogue: 0,0:15:21.51,0:15:22.94,Default,AIZAS,0,0,0,,E pranoj.
+Dialogue: 0,0:15:23.90,0:15:26.62,Default,AIZAS,0,0,0,,Kjo esnaf nuk bëri asgjë të gabuar.
+Dialogue: 0,0:15:28.89,0:15:36.80,Default,AIZAS,0,0,0,,Elymas, je padyshim mjaftueshëm i fuqishëm\Npër të mposhtur një Zotëri Ëndrrash.
+Dialogue: 0,0:15:45.39,0:15:50.39,flashback italics,AIZAS,0,0,0,,Një fisnik nuk duhet t'u lajkatoset\Nnjerëzve të thjeshtë apo të bëhet mik me ta.
+Dialogue: 0,0:15:51.13,0:15:53.30,flashback,AIZAS,0,0,0,,Mos shfaq kurrë asnjë emocion.
+Dialogue: 0,0:15:54.41,0:15:57.29,flashback,AIZAS,0,0,0,,Ruajtja e dinjitetit tonë...
+Dialogue: 0,0:15:59.64,0:16:02.93,flashback,AIZAS,0,0,0,,është mënyra se si mbrojmë popullin dhe tokat tona.
+Dialogue: 0,0:16:07.50,0:16:13.18,italics,ELYMAS/ID,0,0,0,,Nuk është se tani verbërisht\Ne besoj apo e respektoj babanë tim.
+Dialogue: 0,0:16:14.01,0:16:18.46,italics,ELYMAS/ID,0,0,0,,Ai është një njeri i ftohtë, kokëfortë,\Nsundues dhe egoist.
+Dialogue: 0,0:16:20.03,0:16:21.38,italics,ELYMAS/ID,0,0,0,,Megjithatë...
+Dialogue: 0,0:16:22.32,0:16:25.91,italics,ELYMAS/ID,0,0,0,,Vetëm ato fjalë mbeten në zemrën time.
+Dialogue: 0,0:16:27.35,0:16:31.89,italics,ELYMAS/ID,0,0,0,,Është fakt që kam jetuar\Nsi Elymas Edvaughn...
+Dialogue: 0,0:16:32.24,0:16:33.09,flashback,ELYMAS,0,0,0,,Po, zotëri.
+Dialogue: 0,0:16:33.09,0:16:35.00,italics,ELYMAS/ID,0,0,0,,...mbrojtësi dhe zotëria\Ni ardhshëm i kontesë.
+Dialogue: 0,0:16:38.75,0:16:39.84,Default,ELYMAS,0,0,0,,Baba.
+Dialogue: 0,0:16:42.43,0:16:46.20,Default,ELYMAS,0,0,0,,Për të gjitha vitet që më rrite...
+Dialogue: 0,0:16:48.59,0:16:50.29,Default,ELYMAS,0,0,0,,faleminderit.
+Dialogue: 0,0:16:56.12,0:16:59.37,Default,RUCHE,0,0,0,,Më falni! Pritni, Konti Aizas!
+Dialogue: 0,0:16:59.37,0:17:01.88,Default,RUCHE,0,0,0,,Ju lutem kërkojini falje Zotit Elymas.
+Dialogue: 0,0:17:02.14,0:17:06.38,Default,RUCHE,0,0,0,,Ju bërtitët dhe e akuzuat, por sapo\Ne kuptuat se e kishit gabim,
+Dialogue: 0,0:17:06.38,0:17:09.18,Default,RUCHE,0,0,0,,thjesht do të largoheni\Nsikur s'ka ndodhur asgjë?
+Dialogue: 0,0:17:09.18,0:17:10.77,Default,ELYMAS,0,0,0,,Nuk ka gjë, Ruche.
+Dialogue: 0,0:17:10.77,0:17:14.55,Default,RUCHE,0,0,0,,Por ai është babai yt, apo jo?
+Dialogue: 0,0:17:14.91,0:17:17.17,Default,RUCHE,0,0,0,,Keqkuptimi u sqarua.
+Dialogue: 0,0:17:17.17,0:17:20.78,Default,RUCHE,0,0,0,,Nuk mund të ndaheni kështu.\NËshtë tepër e trishtueshme.
+Dialogue: 0,0:17:24.66,0:17:26.84,Default,AIZAS,0,0,0,,Ti atje, vajzë.
+Dialogue: 0,0:17:33.02,0:17:36.34,Default,AIZAS,0,0,0,,Kujdesu për Elymas-in për mua.
+Dialogue: 0,0:18:04.01,0:18:07.86,italics,ELYMAS/ID,0,0,0,,Pasi pushuam të nesërmen,
+Dialogue: 0,0:18:08.63,0:18:11.65,italics,ELYMAS/ID,0,0,0,,vendosëm të largoheshim nga Rondalm-i.
+Dialogue: 0,0:18:17.70,0:18:19.87,Default,ELYMAS,0,0,0,,A je e sigurt për këtë?
+Dialogue: 0,0:18:20.36,0:18:22.50,Default,ELYMAS,0,0,0,,Do të lësh shtëpinë tënde.
+Dialogue: 0,0:18:22.50,0:18:24.75,Default,RUCHE,0,0,0,,Sigurisht që jam në rregull me këtë.
+Dialogue: 0,0:18:24.75,0:18:28.41,Default,RUCHE,0,0,0,,Babai më kërkoi të kujdesesha për ty.
+Dialogue: 0,0:18:28.41,0:18:29.50,italics,ELYMAS/ID,0,0,0,,Babai?
+Dialogue: 0,0:18:30.29,0:18:36.19,Default,RUCHE,0,0,0,,Por në fund, ai nuk kërkoi kurrë falje.
+Dialogue: 0,0:18:36.77,0:18:40.01,Default,ELYMAS,0,0,0,,Pozita e tij nuk ia lejon.
+Dialogue: 0,0:18:40.45,0:18:45.24,Default,ELYMAS,0,0,0,,Me siguri mendoi\Nse po tregohej i vëmendshëm.
+Dialogue: 0,0:18:47.91,0:18:51.40,Default,RUCHE,0,0,0,,Epo, për sa kohë që ti je mirë me këtë.
+Dialogue: 0,0:18:53.19,0:18:55.50,Default,ELYMAS,0,0,0,,Fisnikët marrin fund\Nnëse nuk merren seriozisht.
+Dialogue: 0,0:18:56.60,0:19:01.14,Default,ELYMAS,0,0,0,,Ndaj të mos ulësh kokën para\Naskujt është pjesë e detyrës.
+Dialogue: 0,0:19:01.58,0:19:06.42,Default,RUCHE,0,0,0,,Jam e sigurt që është e vështirë, por nuk më pëlqen.
+Dialogue: 0,0:19:06.42,0:19:09.28,Default,RUCHE,0,0,0,,Shpresoj të mos bëhesh si ai.
+Dialogue: 0,0:19:09.28,0:19:14.16,Default,RUCHE,0,0,0,,Nëse ndodh ndonjë gjë,\Ndo të kërkoj falje bashkë me ty, mirë?
+Dialogue: 0,0:19:14.16,0:19:17.80,Default,ELYMAS,0,0,0,,Nuk do të bëhem i tillë.\NNë fakt, nuk mundem dot më.
+Dialogue: 0,0:19:18.06,0:19:18.89,Default,RUCHE,0,0,0,,Hë?
+Dialogue: 0,0:19:20.14,0:19:23.58,italics,ELYMAS/ID,0,0,0,,Në fund të fundit, mbiemri i familjes m'u mor,\Ndhe unë u dëbova.
+Dialogue: 0,0:19:23.58,0:19:24.56,Default,ELYMAS,0,0,0,,Ehem.
+Dialogue: 0,0:19:26.89,0:19:28.70,Default,RUCHE,0,0,0,,Më fal, më fal!
+Dialogue: 0,0:19:28.70,0:19:33.90,Default,RUCHE,0,0,0,,Nuk e kisha me të keq! Uh, um...
+Dialogue: 0,0:19:34.48,0:19:40.66,Default,ELYMAS,0,0,0,,Jam më shumë i befasuar që ai burrë krenar\Ntë kërkoi ty të kujdeseshe për mua.
+Dialogue: 0,0:19:41.04,0:19:43.49,Default,ELYMAS,0,0,0,,Ndoshta fitove edhe respektin e tij.
+Dialogue: 0,0:19:45.99,0:19:54.01,italics,ELYMAS/ID,0,0,0,,Të them që jam i lumtur që u largova nga ajo familje\Nmund të jetë thjesht sjellje si trim nga ana ime,
+Dialogue: 0,0:19:54.50,0:19:58.09,italics,ELYMAS/ID,0,0,0,,por kjo jetë padyshim më përshtatet më shumë.
+Dialogue: 0,0:19:58.86,0:20:04.37,italics,ELYMAS/ID,0,0,0,,Sidoqoftë, Aizas me gjasë\Ndo të më lërë të qetë tani e tutje.
+Dialogue: 0,0:20:05.97,0:20:09.02,italics,ELYMAS/ID,0,0,0,,Problemi është Malice.
+Dialogue: 0,0:20:10.47,0:20:13.51,flashback,MALICE,0,0,0,,Rastësisht më pëlqen kjo histori.
+Dialogue: 0,0:20:13.51,0:20:17.61,flashback,MALICE,0,0,0,,Kur njerëzit që përpiqen të jetojnë\Nmbi mundësitë e tyre dështojnë,
+Dialogue: 0,0:20:19.90,0:20:21.75,flashback,MALICE,0,0,0,,thjesht e adhuroj.
+Dialogue: 0,0:20:21.75,0:20:24.37,italics,ELYMAS/ID,0,0,0,,Ajo nuk ishte gjithmonë e tillë.
+Dialogue: 0,0:20:25.56,0:20:27.71,Default,RUCHE,0,0,0,,Çfarë keni, Zoti Elymas?
+Dialogue: 0,0:20:32.75,0:20:34.75,Default,ELYMAS,0,0,0,,Asgjë.
+Dialogue: 0,0:20:37.88,0:20:45.18,italics,ELYMAS/ID,0,0,0,,U përshëndeta me Aizas-in, dhe ai më ofroi\Nkurajë në një mënyrë të tërthortë.
+Dialogue: 0,0:20:45.76,0:20:48.43,italics,ELYMAS/ID,0,0,0,,Nëse Ruche nuk do t'i kishte dalë përballë,
+Dialogue: 0,0:20:48.79,0:20:52.26,italics,ELYMAS/ID,0,0,0,,do të kisha mbetur\Nme një shije të hidhur.
+Dialogue: 0,0:20:53.47,0:20:58.11,italics,ELYMAS/ID,0,0,0,,Për sa më përket mua, çështja me\Nfamiljen Edvaughn është zgjidhur tashmë.
+Dialogue: 0,0:21:12.67,0:21:17.46,Default,MOB D,0,0,0,,Ajo armë është një thesar i rrallë nga\Nnjë burg i rekomanduar për nivelin 50.
+Dialogue: 0,0:21:19.91,0:21:21.48,Default,MOB G,0,0,0,,Më prit!
+Dialogue: 0,0:21:22.28,0:21:23.47,Default,ELYMAS,0,0,0,,Mbërritëm.
+Dialogue: 0,0:21:33.31,0:21:36.96,Default,ELYMAS,0,0,0,,Lacoryna, Qyteti i Aventurierëve.
+Dialogue: 0,0:21:55.92,0:21:59.42,sign_generic,credits,0,0,0,,{\an7\fs15\b1\c&HEDEAEB&\3c&H0B1211&\blur1}Përkthyesi:\N{\fs17.5}Sho Stifler\N\N{\fs15}Sinkronizimi:\N{\fs17.5}Krzysztof Kunc\N\N{\fs15}Redaktori:\N{\fs17.5}Salem Alabanza\N\N{\fs15}Kontrolli i Cilësisë:\N{\fs17.5}Gabriella Alabanza\N\N{\fs15}Kontrolli Përfundimtar:\N{\fs17.5}Sriram Gurunathan
+Dialogue: 0,0:23:10.92,0:23:15.47,italics,ELYMAS/NA,0,0,0,,Luftova me Malice dhe u përshëndeta\Nme babanë tim, Kontin Edvaughn.
+Dialogue: 0,0:23:15.87,0:23:19.59,italics,ELYMAS/NA,0,0,0,,Falë Ruche,\Narrita ta zgjidhja atë çështje.
+Dialogue: 0,0:23:20.16,0:23:25.30,italics,ELYMAS/NA,0,0,0,,Dhe tani mbërritëm në Lacoryna,\NQytetin e Aventurierëve.
+Dialogue: 0,0:23:25.93,0:23:29.18,italics,ELYMAS/NA,0,0,0,,Edhe kur nuk është lojë,\Nështë emocionuese të vizitosh një qytet të ri.
+Dialogue: 0,0:23:29.76,0:23:32.35,italics,ELYMAS/NA,0,0,0,,Kemi plot punë për të bërë.
+Dialogue: 0,0:23:33.15,0:23:36.16,italics,ELYMAS/NA,0,0,0,,Herën tjetër,\NLacoryna, Qyteti i Aventurierëve.
+Dialogue: 0,0:23:36.81,0:23:39.35,italics,ELYMAS/NA,0,0,0,,Le të fillojmë me sigurimin e pajisjeve.
+
