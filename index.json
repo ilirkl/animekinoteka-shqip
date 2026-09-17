@@ -307,6 +307,20 @@
       "assFile": "ass/at-688806.sq.ass",
       "offset": 0,
       "sourceReleaseId": "688806"
+    },
+    {
+      "id": "at-688706",
+      "title": "Clevatess Season 2",
+      "episode": "11",
+      "malId": 62513,
+      "anilistId": null,
+      "slugs": [
+        "clevatess-season-2"
+      ],
+      "file": "files/at-688706.sq.vtt",
+      "assFile": "ass/at-688706.sq.ass",
+      "offset": 0,
+      "sourceReleaseId": "688706"
     }
   ]
 }
