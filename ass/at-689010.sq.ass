@@ -1,0 +1,326 @@
+﻿[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 8
+YCbCr Matrix: TV.601
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main - Wan,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Italics - Wan,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback - Wan,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback_Italics - Wan,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main - Top - Wan,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Italics - Top - Wan,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback - Top - Wan,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Episode Title - Wan,Trebuchet MS,16,&H00374742,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,326,236,328,1
+Style: sign_1055_12_Please__never_fe,Trebuchet MS,17,&H001F2925,&H000000FF,&H00DEE9E5,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0,477,113,1
+Style: sign_242_1_I_m_no_good_for_,Trebuchet MS,16,&H00E4E4E4,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,345,79,12,1
+Style: sign_6707_101_Wan_,Trebuchet MS,24,&H003375E6,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,290,288,38,1
+Style: sign_6731_102_Shorts,Trebuchet MS,24,&H00F06139,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,278,286,205,1
+Style: sign_308_5_That_s_what_I__l,Trebuchet MS,16,&H00E4E4E4,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,121,413,13,1
+Style: sign_354_7_Dazai_san_Nail_B,Trebuchet MS,16,&H00374742,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,207,267,66,1
+Style: sign_354_7_Dazai_san__Nail_,Trebuchet MS,16,&H00374742,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,248,308,69,1
+Style: sign_612_11_Daily_Report,Trebuchet MS,14,&H00060706,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,275,277,7,1
+Style: sign_612_12_Today_was_a_nice,Trebuchet MS,14,&H00060706,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,272,220,172,1
+Style: sign_982_22_MISSING__SIGN,Trebuchet MS,16,&H00962CD6,&H000000FF,&H007D26B6,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,433,139,55,1
+Style: sign_1131_26_MISSING_SIGN,Trebuchet MS,16,&H006D513F,&H000000FF,&H00ECCDC5,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,183,351,33,1
+Style: sign_1460_34_Spice_Boys,Trebuchet MS,17,&H001F2925,&H000000FF,&H00F2EFF4,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,37,513,23,1
+Style: sign_1671_39_I_don_t_know_how,Trebuchet MS,14,&H00060706,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,182,296,81,1
+Style: sign_1671_40_I_am_an_honest_p,Trebuchet MS,14,&H00060706,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,189,295,188,1
+Style: sign_2541_55_I_don_t_know_how,Trebuchet MS,12,&H004A4B4A,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,285,215,196,1
+Style: sign_2541_56_I_am_an_honest_h,Trebuchet MS,12,&H004A4B4A,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,284,186,260,1
+Style: sign_2682_59_Clang_,Trebuchet MS,16,&H00151A30,&H000000FF,&H00E7E5E2,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,211,379,33,1
+Style: sign_2966_65_Conserve_Energy_,Trebuchet MS,14,&H00060706,&H000000FF,&H00EAF3FC,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,64,452,157,1
+Style: sign_3296_71_I_am_an_honest_h,Trebuchet MS,14,&H00060706,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,228,220,260,1
+Style: sign_3434_74_I_am_an_honest__,Trebuchet MS,12,&H004A4B4A,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,322,224,237,1
+Style: sign_3727_82_I_am_a_human_bei,Trebuchet MS,14,&H00060706,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,251,255,194,1
+Style: sign_4361_95_For_more_inform_,Trebuchet MS,12,&H004A4B4A,&H000000FF,&H00EAF0F2,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,260,178,219,1
+Style: sign_4973_104_If_Only_I_Could_,Trebuchet MS,16,&H00374742,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,163,291,69,1
+Style: sign_7840_155_MISSING_SIGN,Trebuchet MS,16,&H00FFECF6,&H000000FF,&H00EB90B1,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,49,485,76,1
+Style: sign_9656_180_Please_Share___A,Trebuchet MS,16,&H00374742,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,153,281,94,1
+Style: sign_11092_208_Ten_million,Trebuchet MS,12,&H00E8832C,&H000000FF,&H00B5C8C2,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,266,294,222,1
+Style: sign_11232_212_Whispers_of__the,Trebuchet MS,12,&H004A4B4A,&H000000FF,&H00B5C8C2,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,290,274,177,1
+Style: sign_11806_225_Armed_Detective_,Trebuchet MS,14,&H00060706,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,188,332,184,1
+Style: sign_14336_261_Prestige,Trebuchet MS,12,&H004A4B4A,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,57,533,23,1
+Style: sign_14336_262_Prize_money,Trebuchet MS,12,&H004A4B4A,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,6,558,122,1
+Style: sign_14336_263_Popularity,Trebuchet MS,12,&H004A4B4A,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,120,456,113,1
+Style: sign_14585_273_Prize__3_000_yen,Trebuchet MS,17,&H001F2925,&H000000FF,&H00F2EFF4,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,13,477,19,1
+Style: sign_14436_269_Armed_Detective_,Trebuchet MS,14,&H00060706,&H000000FF,&H00F5FBFC,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,460,6,158,1
+Style: sign_14436_268_Weirdly_Unique__,Trebuchet MS,14,&H00060706,&H000000FF,&H00F5FBFC,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,474,34,181,1
+Style: sign_133_5_Several_days_aft,Trebuchet MS,14,&H002E3437,&H000000FF,&H00F9F9F9,&H00000000,-1,0,0,0,100,100,0,10,1,2,0,8,46,404,71,1
+Style: sign_4492_44_A_boy_always_use,Times New Roman,15,&H00F0F0F0,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,345,89,66,1
+Style: sign_9114_119_This_Thing,Trebuchet MS,14,&H00D17848,&H000000FF,&H00F9F9F9,&H00000000,-1,0,0,0,100,100,0,10,1,0,0,8,265,301,11,1
+Style: sign_9362_124__May_I_Take__You,Trebuchet MS,16,&H00374742,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,160,358,139,1
+Style: sign_12953_178_We_are_your_home,Trebuchet MS,14,&H00745FE4,&H000000FF,&H0040426E,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,249,69,144,1
+Style: sign_12953_179_We_even__have_a_,Trebuchet MS,14,&H008F4DC7,&H000000FF,&H00E1D3F7,&H00000000,-1,0,0,0,100,100,0,10,1,4,0,8,536,42,285,1
+Style: sign_14379_207_Illustrated_Guid,Trebuchet MS,24,&H00ECD5FF,&H000000FF,&H00A56BD3,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,139,139,18,1
+Style: sign_14486_208_Nakajima_Atsushi,Trebuchet MS,14,&H00FFFFFF,&H000000FF,&H009A4DA9,&H00000000,-1,0,0,0,100,100,0,1,1,2,0,7,331,109,211,1
+Style: sign_14565_210_Kunikida_Doppo__,Trebuchet MS,14,&H00FFFFFF,&H000000FF,&H009A4DA9,&H00000000,-1,0,0,0,100,100,0,1,1,2,0,7,331,58,211,1
+Style: sign_16559_252_The_End,Trebuchet MS,18,&H00641AB0,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,1,1,2,2,7,296,269,94,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.98,Episode Title - Wan,SIGN,0,0,0,,{\pos(404,48)\c&H4F0F44&}Episodi 27
+Dialogue: 0,0:00:00.00,0:00:02.98,Episode Title - Wan,SIGN,0,0,0,,{\c&H4F0F44&\pos(302,315)}Shkruaj,\NMushitarou-kun,\NShkruaj!
+Dialogue: 0,0:00:05.52,0:00:08.48,sign_2966_65_Conserve_Energy_,SIGN RIGHT,0,0,0,,{\fad(486,1)\3c&HF9F9F9&\c&H2E3437&\frz10.97\pos(576,27)}Oguri Mushitarou
+Dialogue: 0,0:00:05.52,0:00:08.48,sign_133_5_Several_days_aft,SIGN LEFT,0,0,0,,{\fad(486,1)}{\frz358.6\pos(74,269)}Disa ditë pasi\Nkërkoi strehim\Nnë vendstrehimin e Poe-s...
+Dialogue: 0,0:00:08.47,0:00:12.06,Main - Wan,MUSHITAROU,0,0,0,,Të vështrosh këtë\Nfaqe të bardhë është rraskapitëse.
+Dialogue: 0,0:00:12.06,0:00:14.84,Main - Wan,MUSHITAROU,0,0,0,,A është kjo ajo që bënte Yokomizo\Ngjithë këtë kohë?
+Dialogue: 0,0:00:14.84,0:00:16.23,Main - Wan,MUSHITAROU,0,0,0,,Thjesht nuk e kuptoj.
+Dialogue: 0,0:00:16.44,0:00:20.09,Main - Wan,MUSHITAROU,0,0,0,,Midis dhimbjes së shpinës, shpatullave\Ntë ngrira, dobësisë së muskujve,
+Dialogue: 0,0:00:20.09,0:00:23.53,Main - Wan,MUSHITAROU,0,0,0,,qëndrimit të keq, kallojeve dhe lodhjes së syve,\Ntë shkruarit nuk sjell gjë tjetër veçse dëm.
+Dialogue: 0,0:00:23.53,0:00:26.00,Main - Wan,MUSHITAROU,0,0,0,,Është një aktivitet për\Nnjerëz pa shokë.
+Dialogue: 0,0:00:28.01,0:00:30.14,Main - Wan,YOKOMIZO,0,0,0,,Hej, një dhomë e mbyllur.
+Dialogue: 0,0:00:30.42,0:00:33.54,Main - Wan,YOKOMIZO,0,0,0,,Një i arratisur pëson një vdekje\Nmisterioze në një dhomë të një rezidence.
+Dialogue: 0,0:00:33.54,0:00:37.57,Main - Wan,YOKOMIZO,0,0,0,,Hera e fundit që u pa ishte nga një bashkëpunëtor,\Nme të cilin ishte ndarë me fjalë të këqija.
+Dialogue: 0,0:00:37.57,0:00:40.38,Main - Wan,YOKOMIZO,0,0,0,,Është shumë, shumë e dyshimtë.
+Dialogue: 0,0:00:40.64,0:00:44.65,Main - Wan,YOKOMIZO,0,0,0,,Por bëj kujdes si ua jep informacionin\Nlexuesve, përndryshe do të jetë e padrejtë.
+Dialogue: 0,0:00:44.65,0:00:47.02,Main - Wan,MUSHITAROU,0,0,0,,Pusho, Yokomizo!
+Dialogue: 0,0:00:48.09,0:00:49.77,Main - Wan,MUSHITAROU,0,0,0,,Bëra shaka.
+Dialogue: 0,0:00:54.66,0:00:57.53,Main - Wan,MUSHITAROU,0,0,0,,Koha për një pushim strategjik.
+Dialogue: 0,0:00:57.61,0:00:59.91,sign_133_5_Several_days_aft,SIGN,0,0,0,,{\fad(448,1)\2c&H0000FF&\c&H16181A&\frz16.94\move(586,130,558,131,30,2283)}Ju lutem pranoni\Nkëtë dhuratë - Poe
+Dialogue: 0,0:00:57.61,0:00:59.91,sign_133_5_Several_days_aft,SIGN JAR,0,0,0,,{\fad(448,1)\fs11\frz2.62\c&H12164C&\3c&HCBD4F4&\move(391,188,365,191,30,2283)}Reçel\NDredhëzash
+Dialogue: 0,0:00:59.92,0:01:05.07,Main - Wan,MUSHITAROU,0,0,0,,Jo keq. Thonë se sheqeri me cilësi të lartë\Nështë më i miri për punë mendore.
+Dialogue: 0,0:01:07.58,0:01:10.23,Main - Wan,MUSHITAROU,0,0,0,,Nuk po hapet. Është kaq e shtrënguar.
+Dialogue: 0,0:01:10.23,0:01:13.18,Main - Wan,MUSHITAROU,0,0,0,,Do të ishte e pamundur për\Ncilindo që të futej brenda.
+Dialogue: 0,0:01:13.18,0:01:16.17,Main - Wan,MUSHITAROU & YOKOMIZO,0,0,0,,Me fjalë të tjera, kavanozi\Nështë një dhomë e përkryer e mbyllur!
+Dialogue: 0,0:01:16.17,0:01:17.90,Main - Wan,MUSHITAROU,0,0,0,,Prapë ti!
+Dialogue: 0,0:01:17.90,0:01:21.28,Main - Wan,YOKOMIZO,0,0,0,,Hajde tani, Mushi-kun.\NForca e vrazhdë vështirë se është e bukur.
+Dialogue: 0,0:01:21.28,0:01:22.94,Main - Wan,YOKOMIZO,0,0,0,,Lexuesit e tu nuk do të jenë të kënaqur.
+Dialogue: 0,0:01:22.94,0:01:24.93,Main - Wan,MUSHITAROU,0,0,0,,Kush po lexon kapakun e një kavanozi?
+Dialogue: 0,0:01:24.93,0:01:27.72,Main - Wan,YOKOMIZO,0,0,0,,Do të hapet nëse e ngroh\Nme ujë të ngrohtë.
+Dialogue: 0,0:01:27.72,0:01:30.11,Main - Wan,YOKOMIZO,0,0,0,,Është një hile e thjeshtë që përdor\Nndryshimet në temperaturë.
+Dialogue: 0,0:01:30.11,0:01:32.24,Main - Wan,MUSHITAROU,0,0,0,,Ky është thjesht një truk shtëpiak, Yokomizo.
+Dialogue: 0,0:01:31.61,0:01:37.45,sign_14436_268_Weirdly_Unique__,SIGN BAG,0,0,0,,{\fad(732,1)\3c&HF8CFB3&\fs11\pos(113,125)}Kripë
+Dialogue: 0,0:01:32.24,0:01:35.62,Main - Wan,YOKOMIZO,0,0,0,,Dhe mund të heqësh erën\Nnga kavanozi bosh duke përdorur kripë.
+Dialogue: 0,0:01:35.62,0:01:37.44,Main - Wan,MUSHITAROU,0,0,0,,Dhe kjo është thjesht urtësi popullore.
+Dialogue: 0,0:01:38.07,0:01:43.09,Main - Wan,MUSHITAROU,0,0,0,,Por a mund ta përdor vërtet këtë\Nnë një roman? Vrasja te Kavanozi i Reçelit?
+Dialogue: 0,0:01:43.51,0:01:44.70,Main - Wan,YOKOMIZO,0,0,0,,Të ka lënë mendja fare?
+Dialogue: 0,0:01:44.70,0:01:46.69,Main - Wan,MUSHITAROU,0,0,0,,Ajo shprehje është kaq acaruese.
+Dialogue: 0,0:01:47.26,0:01:49.46,Main - Wan,MUSHITAROU,0,0,0,,Çfarë është kaq qesharake?
+Dialogue: 0,0:01:50.07,0:01:52.21,Main - Wan,POE,0,0,0,,Mushitarou-kun, Mushitarou-kun!
+Dialogue: 0,0:01:52.21,0:01:55.58,Main - Wan,POE,0,0,0,,Gjeta informacion rreth\NRampo-kun-it! Eja me mua!
+Dialogue: 0,0:01:55.58,0:01:56.72,Main - Wan,MUSHITAROU,0,0,0,,N-Në rregull.
+Dialogue: 0,0:02:04.65,0:02:06.01,Main - Wan,MUSHITAROU,0,0,0,,Le të shihemi sërish.
+Dialogue: 0,0:03:07.32,0:03:11.96,sign_4492_44_A_boy_always_use,SIGN,0,0,0,,{\fad(1326,1)\pos(466,70)}Një djalë përdor gjithmonë kthetrat\Ne një tigri për të jetuar.
+Dialogue: 0,0:03:07.32,0:03:11.96,Italics - Wan,ATSUSHI/ID,0,0,0,,Një djalë përdor gjithmonë kthetrat\Ne një tigri për të jetuar.
+Dialogue: 0,0:03:11.96,0:03:14.96,Episode Title - Wan,SIGN,0,0,0,,{\pos(362,35)\c&H41193A&}Episodi 28
+Dialogue: 0,0:03:11.96,0:03:14.96,Episode Title - Wan,SIGN,0,0,0,,{\pos(281,291)}{\c&H41193A&}Mos Ik
+Dialogue: 0,0:03:15.20,0:03:17.34,Main - Wan,DAZAI,0,0,0,,Një festë surprizë për Atsushi-kun-in?
+Dialogue: 0,0:03:17.34,0:03:20.59,Main - Wan,KUNIKIDA,0,0,0,,Ka kaluar kohë qysh kur Atsushi\Nsolli Kyouka-n në agjenci.
+Dialogue: 0,0:03:20.59,0:03:23.14,Main - Wan,KUNIKIDA,0,0,0,,Ajo dëshiron ta falënderojë\Nme një festë surprizë.
+Dialogue: 0,0:03:23.14,0:03:26.21,Main - Wan,DAZAI,0,0,0,,E kuptoj. Kyouka-chan, ë? E kuptoj, e kuptoj.
+Dialogue: 0,0:03:26.47,0:03:28.33,Main - Wan,DAZAI,0,0,0,,Pra, ku është heroi i ditës?
+Dialogue: 0,0:03:28.33,0:03:30.72,Main - Wan,KUNIKIDA,0,0,0,,E dërgova te dyqani ushqimor.
+Dialogue: 0,0:03:31.07,0:03:35.33,Main - Wan,KUNIKIDA,0,0,0,,I kërkova të blinte një grumbull artikujsh,\Nkështu që duhet të vonohet për ca kohë.
+Dialogue: 0,0:03:35.33,0:03:38.73,Italics - Wan,DAZAI/ID,0,0,0,,Po e lodhin si qen\Npër vetë festën e tij surprizë.
+Dialogue: 0,0:03:38.73,0:03:41.45,Main - Wan,KUNIKIDA,0,0,0,,Por përgatitjet po\Nmarrin më shumë kohë nga sa pritej.
+Dialogue: 0,0:03:41.45,0:03:42.62,Main - Wan,KUNIKIDA,0,0,0,,Ndaj, Dazai...
+Dialogue: 0,0:03:42.62,0:03:46.17,Main - Wan,KUNIKIDA,0,0,0,,Shko dhe vonoje Atsushi-n.\NJe i zoti për këtë.
+Dialogue: 0,0:03:46.17,0:03:47.95,Main - Wan,DAZAI,0,0,0,,Kjo tingëllon si fyerje.
+Dialogue: 0,0:03:50.49,0:03:55.51,Main - Wan,ATSUSHI,0,0,0,,Kisha shumë pazar për të bërë sot,\Npor jam i lumtur që u hyj në punë të gjithëve.
+Dialogue: 0,0:03:55.84,0:03:59.51,Main - Wan,ATSUSHI,0,0,0,,Është dëshmi e kohërave paqësore\Nqë nuk më duhet të përdor aftësinë time.
+Dialogue: 0,0:03:59.51,0:04:01.83,Main - Wan,ATSUSHI,0,0,0,,Gjithsesi, këto gjëra qenkan vërtet të rënda.
+Dialogue: 0,0:04:01.83,0:04:03.75,Main - Wan,DAZAI,0,0,0,,Ja ku qenke, Atsushi-kun!
+Dialogue: 0,0:04:03.75,0:04:05.33,Main - Wan,DAZAI,0,0,0,,Hej!
+Dialogue: 0,0:04:04.69,0:04:06.26,Main - Top - Wan,ATSUSHI,0,0,0,,Hë? Dazai-san?
+Dialogue: 0,0:04:06.26,0:04:08.26,Main - Wan,DAZAI,0,0,0,,Atsushi-kun!
+Dialogue: 0,0:04:09.48,0:04:13.15,Italics - Wan,ATSUSHI/ID,0,0,0,,Mos erdhi vallë Dazai-san të më takojë\Nsepse kam kaq shumë për të mbajtur?
+Dialogue: 0,0:04:13.33,0:04:14.97,Main - Wan,DAZAI,0,0,0,,Hajde luajmë me top në breg të lumit.
+Dialogue: 0,0:04:14.97,0:04:15.89,Italics - Wan,ATSUSHI/ID,0,0,0,,E kisha gabim!
+Dialogue: 0,0:04:15.89,0:04:16.87,Main - Wan,ATSUSHI,0,0,0,,Kam frikë!
+Dialogue: 0,0:04:16.87,0:04:21.46,Main - Wan,ATSUSHI,0,0,0,,Të ftohesh befas të luash me top\Nnga eprori yt mashkull është e frikshme!
+Dialogue: 0,0:04:21.46,0:04:23.53,Main - Wan,DAZAI,0,0,0,,Kjo është bota në të cilën\Njetojmë, Atsushi-kun.
+Dialogue: 0,0:04:23.53,0:04:24.77,Main - Wan,ATSUSHI,0,0,0,,Nuk mundem!
+Dialogue: 0,0:04:24.77,0:04:27.45,Main - Wan,ATSUSHI,0,0,0,,Kunikida-san i kërkoi këto,\Ndhe unë po ia çoj atij.
+Dialogue: 0,0:04:27.45,0:04:29.25,Main - Wan,ATSUSHI,0,0,0,,Shiko sa shumë gjëra janë këtu.
+Dialogue: 0,0:04:29.62,0:04:31.78,Main - Wan,DAZAI,0,0,0,,Nuk është aq e rëndësishme.
+Dialogue: 0,0:04:31.78,0:04:34.44,Main - Wan,DAZAI,0,0,0,,Vërtet. Është një porosi e rreme.\NTë mashtroi.
+Dialogue: 0,0:04:34.44,0:04:35.80,Main - Wan,ATSUSHI,0,0,0,,Pse e thua këtë?!
+Dialogue: 0,0:04:35.80,0:04:38.02,Main - Wan,DAZAI,0,0,0,,Hajde pra! Të lutem rri pak me mua!
+Dialogue: 0,0:04:38.02,0:04:41.22,Main - Wan,DAZAI,0,0,0,,Gjithmonë kam ëndërruar\Ntë luaja me top me ty!
+Dialogue: 0,0:04:41.22,0:04:42.04,Main - Wan,ATSUSHI,0,0,0,,Aq i dëshpëruar qenke?
+Dialogue: 0,0:04:42.29,0:04:45.05,Main - Wan,DAZAI,0,0,0,,Nuk do të shpëtosh aq lehtë.
+Dialogue: 0,0:04:45.05,0:04:46.30,Main - Wan,ATSUSHI,0,0,0,,Këtë e thonë djemtë e këqij!
+Dialogue: 0,0:04:46.30,0:04:50.43,Main - Wan,DAZAI,0,0,0,,Nuk kemi pse të luajmë me top.\NE di, mund të zgjidhim gjëegjëza.
+Dialogue: 0,0:04:50.43,0:04:54.02,Main - Wan,DAZAI,0,0,0,,Kush refuzon të luajë me top sado\Nme ngulm që ta ftosh atë?
+Dialogue: 0,0:04:54.02,0:04:55.08,Main - Wan,DAZAI,0,0,0,,Tik, tak, tik.
+Dialogue: 0,0:04:55.08,0:04:56.97,Main - Wan,DAZAI,0,0,0,,Përgjigjja është Atsushi-kun-i\Nnga ky univers.
+Dialogue: 0,0:04:56.97,0:04:59.20,Main - Wan,ATSUSHI,0,0,0,,Do të thosha jo në çdo univers!
+Dialogue: 0,0:05:01.19,0:05:04.53,Main - Wan,ATSUSHI,0,0,0,,Në çdo rast, më duhet të\Nkaloj nga agjencia më parë.
+Dialogue: 0,0:05:04.53,0:05:06.53,Main - Wan,ATSUSHI,0,0,0,,Më duhet të përfundoj porosinë time.
+Dialogue: 0,0:05:07.57,0:05:09.68,Main - Wan,DAZAI,0,0,0,,Je kaq kokëfortë, Atsushi-kun!
+Dialogue: 0,0:05:09.68,0:05:11.71,Main - Wan,DAZAI,0,0,0,,I poshtër! Serioz! I ndërgjegjshëm!
+Dialogue: 0,0:05:11.71,0:05:13.16,Main - Wan,DAZAI,0,0,0,,I besueshëm dhe i përgjegjshëm!
+Dialogue: 0,0:05:13.16,0:05:15.33,Main - Wan,ATSUSHI,0,0,0,,Këto po fillojnë të\Ntingëllojnë si komplimente.
+Dialogue: 0,0:05:15.63,0:05:17.58,Main - Wan,DAZAI,0,0,0,,Oh, në rregull.
+Dialogue: 0,0:05:17.86,0:05:20.84,Main - Wan,DAZAI,0,0,0,,Le të kthehemi në agjenci.
+Dialogue: 0,0:05:22.33,0:05:25.83,Main - Wan,DAZAI,0,0,0,,Por më mbaj edhe mua bashkë\Nme pjesën tjetër të gjërave të tua.
+Dialogue: 0,0:05:22.34,0:05:27.07,sign_133_5_Several_days_aft,SIGN FX,0,0,0,,{\3c&H4C493D&\c&H50A03C&\move(301,249,432,213,23,4444)}PLAS
+Dialogue: 0,0:05:25.83,0:05:26.89,Main - Wan,ATSUSHI,0,0,0,,Pse?!
+Dialogue: 0,0:05:29.09,0:05:33.09,Main - Wan,ATSUSHI,0,0,0,,Çfarë ke kështu? Nuk po më\Nndihmon as më të voglën gjë.
+Dialogue: 0,0:05:33.09,0:05:35.73,Main - Wan,ATSUSHI,0,0,0,,Kunikida-san, u ktheva!
+Dialogue: 0,0:05:36.78,0:05:40.85,Main - Wan,KYOUKA,0,0,0,,Mirë se erdhe,\Ndhe faleminderit për gjithçka.
+Dialogue: 0,0:05:43.25,0:05:45.93,Main - Wan,ATSUSHI,0,0,0,,Nuk kishte nevojë të më falënderoje.
+Dialogue: 0,0:05:45.93,0:05:49.93,Main - Wan,ATSUSHI,0,0,0,,Pra porosia e egër e pazarit nga Kunikida-san\Nishte pjesë e planit.
+Dialogue: 0,0:05:49.93,0:05:51.35,Main - Wan,KUNIKIDA,0,0,0,,T'u duk e egër?
+Dialogue: 0,0:05:52.25,0:05:54.37,Main - Wan,DAZAI,0,0,0,,As mua nuk më erdhi mirë që m'u desh\Ntë të vonoja.
+Dialogue: 0,0:05:54.37,0:05:55.62,Italics - Wan,ATSUSHI/ID,0,0,0,,Kjo është gënjeshtër.
+Dialogue: 0,0:05:55.89,0:05:58.00,Main - Wan,ATSUSHI,0,0,0,,Jam i befasuar, por jam i lumtur.
+Dialogue: 0,0:05:58.23,0:06:00.93,Main - Wan,ATSUSHI,0,0,0,,Faleminderit, Kyouka-chan.
+Dialogue: 0,0:06:03.12,0:06:06.42,Main - Wan,KUNIKIDA,0,0,0,,Tani, le të bëjmë një festë me\Nushqimin që solli Atsushi.
+Dialogue: 0,0:06:06.42,0:06:08.71,Main - Top - Wan,DAZAI,0,0,0,,Kjo duket mirë.
+Dialogue: 0,0:06:07.53,0:06:11.56,Italics - Wan,ATSUSHI/ID,0,0,0,,Bleva furnizimet për\Nvetë festën time surprizë?
+Dialogue: 0,0:06:09.15,0:06:10.54,Main - Top - Wan,DAZAI,0,0,0,,Shikoje këtë, Kyouka-chan.
+Dialogue: 0,0:06:10.54,0:06:11.76,Main - Top - Wan,KYOUKA,0,0,0,,Uau.
+Dialogue: 0,0:06:15.95,0:06:18.13,Main - Wan,DAZAI,0,0,0,,Tepër i ngrirë. Je shumë i ngrirë,\NAtsushi-kun.
+Dialogue: 0,0:06:18.13,0:06:19.32,Main - Wan,ATSUSHI,0,0,0,,Çfarë?
+Dialogue: 0,0:06:19.32,0:06:21.67,Main - Wan,DAZAI,0,0,0,,Je po aq i ngrirë sa buka\Nqë u la jashtë
+Dialogue: 0,0:06:20.10,0:06:27.57,sign_9114_119_This_Thing,SIGN,0,0,0,,{\fad(488,1)\frz3.232\pos(305,16)}Kjo Gjëja
+Dialogue: 0,0:06:21.67,0:06:24.53,Main - Wan,DAZAI,0,0,0,,pasi harrove të mbyllje\Nqesen me këtë gjënë këtu.
+Dialogue: 0,0:06:24.53,0:06:26.53,Main - Wan,DAZAI,0,0,0,,A e di si quhen\Nkëto gjëra?
+Dialogue: 0,0:06:27.67,0:06:29.13,Main - Wan,DAZAI,0,0,0,,Quhen kapëse qesesh.
+Dialogue: 0,0:06:29.13,0:06:30.45,Main - Wan,ATSUSHI,0,0,0,,Për çfarë po flet vallë?!
+Dialogue: 0,0:06:30.45,0:06:33.45,Episode Title - Wan,SIGN,0,0,0,,{\c&H41193A&\pos(388,186)}Episodi 29
+Dialogue: 0,0:06:30.45,0:06:33.45,sign_9362_124__May_I_Take__You,SIGN,0,0,0,,{\c&H41193A&\pos(385,284)}A Mund T'ju Bëj\NNjë Foto?
+Dialogue: 0,0:06:33.49,0:06:35.95,sign_133_5_Several_days_aft,SIGN,0,0,0,,{\fad(486,1)\frz358.7\pos(81,33)}Më parë
+Dialogue: 0,0:06:36.16,0:06:39.62,Main - Wan,ATSUSHI,0,0,0,,Doni të vendosni një foto\Ntimen në faqen e agjencisë?
+Dialogue: 0,0:06:39.62,0:06:42.44,Main - Wan,DAZAI,0,0,0,,Po, kështu që më lër të të bëj një foto.
+Dialogue: 0,0:06:42.44,0:06:45.63,Main - Wan,ATSUSHI,0,0,0,,A duhet të jemi kaq të hapur rreth kësaj?
+Dialogue: 0,0:06:45.63,0:06:51.92,Main - Wan,ATSUSHI,0,0,0,,Dua të them, a s'jemi një organizatë sekrete\Nqë mbron qytetin nga hijet?
+Dialogue: 0,0:06:51.92,0:06:54.39,Main - Wan,DAZAI,0,0,0,,S'e kisha idenë që ishe\Nkaq i ndërgjegjshëm për veten.
+Dialogue: 0,0:06:54.39,0:06:55.95,Main - Wan,DAZAI,0,0,0,,E ke marrë mbrapsht.
+Dialogue: 0,0:06:55.95,0:06:56.84,Main - Wan,ATSUSHI,0,0,0,,Mbrapsht?
+Dialogue: 0,0:06:56.84,0:07:00.59,Main - Wan,DAZAI,0,0,0,,Po përpiqemi të ndërtojmë\Nnjë imazh të afrueshëm,
+Dialogue: 0,0:07:00.59,0:07:03.40,Main - Wan,DAZAI,0,0,0,,që qytetarët të ndihen rehat\Nduke punësuar agjencinë.
+Dialogue: 0,0:07:03.40,0:07:08.84,Main - Wan,DAZAI,0,0,0,,Fytyra jote dashamirëse dhe e padëmshme\Nështë e përkryer për faqen e agjencisë.
+Dialogue: 0,0:07:04.15,0:07:09.03,sign_133_5_Several_days_aft,SIGN RIGHT,0,0,0,,{\frz2.744\pos(404,23)}Dashamirëse
+Dialogue: 0,0:07:04.90,0:07:09.03,sign_133_5_Several_days_aft,SIGN LEFT,0,0,0,,{\frz358.2\pos(36,63)}E padëmshme
+Dialogue: 0,0:07:08.84,0:07:10.66,Main - Wan,ATSUSHI,0,0,0,,Kjo nuk më duket si kompliment.
+Dialogue: 0,0:07:10.65,0:07:14.53,sign_14336_263_Popularity,SIGN,0,0,0,,{\pos(402,293)\c&HFFFFFF&}I mituri A
+Dialogue: 0,0:07:10.86,0:07:13.36,Main - Top - Wan,DAZAI,0,0,0,,Nëse ke turp, mund ta fshehim\Nidentitetin tënd kështu.
+Dialogue: 0,0:07:13.36,0:07:14.54,Main - Top - Wan,ATSUSHI,0,0,0,,Kështu nuk është aspak më mirë!
+Dialogue: 0,0:07:14.54,0:07:16.47,Main - Wan,ATSUSHI,0,0,0,,Në rregull është, besoj.
+Dialogue: 0,0:07:16.47,0:07:19.99,Main - Wan,ATSUSHI,0,0,0,,Nëse ndihmon, mund të\Nbësh një apo dy foto.
+Dialogue: 0,0:07:19.99,0:07:21.30,Main - Wan,DAZAI,0,0,0,,Këtë kisha dëshirë të dëgjoja.
+Dialogue: 0,0:07:21.30,0:07:24.97,Main - Wan,DAZAI,0,0,0,,Tani shiko te kamera\Nme një qëndrim serioz,
+Dialogue: 0,0:07:24.97,0:07:29.04,Main - Wan,DAZAI,0,0,0,,me sy plot zgjuarsi,\Ndhe një buzëqeshje me klas.
+Dialogue: 0,0:07:29.04,0:07:30.15,Main - Wan,ATSUSHI,0,0,0,,Çfarë thua?!
+Dialogue: 0,0:07:32.31,0:07:35.55,Main - Wan,DAZAI,0,0,0,,Kjo nuk bën. Si shprehja,\Nashtu dhe poza jote janë të ngurta.
+Dialogue: 0,0:07:35.55,0:07:38.25,Main - Wan,DAZAI,0,0,0,,Nuk mund t'i përdorim këto.\NAtsushi-kun, mos je i ri në këtë punë?
+Dialogue: 0,0:07:38.25,0:07:39.80,Main - Wan,ATSUSHI,0,0,0,,Çfarë? Po.
+Dialogue: 0,0:07:40.12,0:07:42.18,Main - Wan,ATSUSHI,0,0,0,,Po ju, Dazai-san?
+Dialogue: 0,0:07:44.89,0:07:46.31,Main - Wan,ATSUSHI,0,0,0,,Seriozisht?!
+Dialogue: 0,0:07:50.61,0:07:52.95,Main - Wan,ATSUSHI,0,0,0,,Dukeni kaq tërheqës! Nuk është e drejtë!
+Dialogue: 0,0:07:52.95,0:07:54.32,Main - Wan,DAZAI,0,0,0,,Epo, qenke i sinqertë.
+Dialogue: 0,0:07:54.32,0:07:57.41,Main - Wan,KUNIKIDA,0,0,0,,Nuk mund të përdorim fytyrën tënde të dyshimtë\Npër të përfaqësuar agjencinë!
+Dialogue: 0,0:07:57.74,0:07:59.92,Main - Wan,ATSUSHI,0,0,0,,Kunikida-san, Kyouka-chan.
+Dialogue: 0,0:07:59.92,0:08:01.50,Main - Wan,DAZAI,0,0,0,,Je kaq i poshtër.
+Dialogue: 0,0:08:01.84,0:08:03.39,Main - Wan,KYOUKA,0,0,0,,Ja, merre këtë rekuizitë.
+Dialogue: 0,0:08:03.39,0:08:04.49,Main - Wan,ATSUSHI,0,0,0,,Një rekuizitë?
+Dialogue: 0,0:08:04.49,0:08:06.66,Main - Wan,KYOUKA,0,0,0,,Do të të ndihmojë të çlirohesh.
+Dialogue: 0,0:08:07.14,0:08:09.54,Main - Wan,ATSUSHI,0,0,0,,Doni që të bëj një\Nfoto me një lepurush?
+Dialogue: 0,0:08:09.81,0:08:12.77,Main - Wan,NAOMI,0,0,0,,Nuk do që të vrenjtesh në foton tënde.
+Dialogue: 0,0:08:12.77,0:08:14.30,Main - Wan,TANIZAKI,0,0,0,,Do të ndihmojmë edhe ne.
+Dialogue: 0,0:08:14.30,0:08:17.27,Main - Wan,TANIZAKI,0,0,0,,Meqë ra fjala, padyshim që nuk\Npo ndihmojmë me shpresën
+Dialogue: 0,0:08:17.27,0:08:20.28,Main - Wan,TANIZAKI,0,0,0,,se dikush do të na bëjë një foto\Nmua dhe Naomi-t bashkë.
+Dialogue: 0,0:08:20.56,0:08:22.28,Main - Wan,ATSUSHI,0,0,0,,Askush nuk e mendoi një gjë të tillë!
+Dialogue: 0,0:08:22.28,0:08:24.30,Main - Wan,NAOMI,0,0,0,,Këtu nevojitet një grimcë lozonjare.
+Dialogue: 0,0:08:30.77,0:08:32.07,Main - Wan,ATSUSHI,0,0,0,,Kunikida-san?
+Dialogue: 0,0:08:32.59,0:08:33.66,Main - Wan,KUNIKIDA,0,0,0,,Kështu është më mirë.
+Dialogue: 0,0:08:33.66,0:08:36.08,Main - Wan,ATSUSHI,0,0,0,,Kunikida-san, mos po talleni?!
+Dialogue: 0,0:08:36.35,0:08:38.20,Main - Wan,KENJI,0,0,0,,Uau, aparat fotografik?
+Dialogue: 0,0:08:38.20,0:08:42.63,Main - Wan,KENJI,0,0,0,,Në vendlindjen time, i gjithë\Nfshati mblidhej për të bërë foto.
+Dialogue: 0,0:08:42.63,0:08:44.07,Main - Wan,KENJI,0,0,0,,Oh, e di çfarë.
+Dialogue: 0,0:08:44.07,0:08:46.55,Main - Wan,KENJI,0,0,0,,Pse nuk bëjmë një të gjithë bashkë?
+Dialogue: 0,0:08:47.61,0:08:49.84,Main - Wan,KENJI,0,0,0,,Hajdeni, të gjithë!
+Dialogue: 0,0:08:53.71,0:08:55.42,Main - Wan,YOSANO,0,0,0,,Keni një minutë kohë?
+Dialogue: 0,0:08:55.97,0:08:59.96,Main - Wan,YOSANO,0,0,0,,Dëgjova se një foto u\Nshtua në faqen tonë.
+Dialogue: 0,0:09:00.22,0:09:06.89,sign_12953_178_We_are_your_home,SIGN,0,0,0,,{\fad(1,887)\c&HA2C2F5&}Jemi Agjencia juaj e Dashur{\c&H745FE4&}e Detektivëve të Armatosur!
+Dialogue: 0,0:09:00.22,0:09:06.89,sign_12953_179_We_even__have_a_,SIGN PINK BUBBLE,0,0,0,,{\fad(1,887)\move(565,285,581,296,28,6659)\fs12}Kemi madje\Nedhe një\Nmace!
+Dialogue: 0,0:09:00.54,0:09:03.44,Main - Wan,YOSANO,0,0,0,,A jemi të sigurt që kjo është në rregull?
+Dialogue: 0,0:09:03.44,0:09:05.91,Main - Wan,RAMPO,0,0,0,,Nëse të gjithë janë dakord, pse jo?
+Dialogue: 0,0:09:07.32,0:09:09.43,Main - Wan,ATSUSHI/NA,0,0,0,,Të shkurtrat Wan!
+Dialogue: 0,0:09:07.73,0:09:09.98,Main - Wan,SIGN,0,0,0,,{\an8\fnArial\b1\fs30\c&H56A8EF&\3c&H2EEF5C&\shad0\pos(233,38)}Wa{\c&HF86CBF&\3c&HED6410&}n{\c&H262EEA&\3c&HF86CBF&}!
+Dialogue: 0,0:09:07.73,0:09:09.98,Main - Wan,SIGN,0,0,0,,{\an8\fnArial\b1\fs20\c&H2EEF5C&\3c&H56A8EF&\shad0\pos(361,228)}Sh{\c&HFF856F&\3c&HF86CBF&}or{\c&H8496F2&\3c&HFF856F&}ts
+Dialogue: 0,0:09:12.28,0:09:13.99,sign_133_5_Several_days_aft,SIGN,0,0,0,,{\fad(230,229)\frz5.825\pos(568,21)\c&H262A2D&}Nuk e kap dot bishtin e tij
+Dialogue: 0,0:09:16.03,0:09:17.98,sign_133_5_Several_days_aft,SIGN,0,0,0,,{\fad(192,1)\frz0.3721\pos(317,119)}Shumë\Nqejf
+Dialogue: 0,0:09:17.98,0:09:18.87,Main - Wan,DOG ATSUSHI,0,0,0,,Au!
+Dialogue: 0,0:09:19.63,0:09:21.37,Main - Wan,DOG ATSUSHI,0,0,0,,Më falni.
+Dialogue: 0,0:09:21.82,0:09:23.13,Main - Wan,DOG FYODOR,0,0,0,,Aspak.
+Dialogue: 0,0:09:25.11,0:09:26.53,Main - Wan,DOG ATSUSHI,0,0,0,,Lajm i madh, të gjithë!
+Dialogue: 0,0:09:26.53,0:09:27.54,Main - Wan,DOG DAZAI,0,0,0,,Çfarë ka?
+Dialogue: 0,0:09:27.54,0:09:29.90,Main - Wan,DOG ATSUSHI,0,0,0,,Pashë fytyra të panjohura në park.
+Dialogue: 0,0:09:29.90,0:09:31.54,Main - Wan,DOG KUNIKIDA,0,0,0,,Oh? Si ishin ata?
+Dialogue: 0,0:09:31.54,0:09:35.69,Main - Wan,DOG ATSUSHI,0,0,0,,Kishin gëzof të mëndafshtë dhe dukeshin të racës.
+Dialogue: 0,0:09:35.69,0:09:39.91,Main - Wan,DOG ATSUSHI,0,0,0,,Lloji i qenve që bëjnë trajtime\Nbukurie në transmetime të drejtpërdrejta.
+Dialogue: 0,0:09:39.91,0:09:41.77,Main - Wan,DOG DAZAI,0,0,0,,Aha, ai lloj qeni.
+Dialogue: 0,0:09:41.77,0:09:43.00,Main - Wan,DOG FYODOR,0,0,0,,Sa e pasjellshme.
+Dialogue: 0,0:09:43.56,0:09:55.69,sign_133_5_Several_days_aft,SIGN,0,0,0,,{\frz358.8\move(247,90,248,218,23,1618)}I bie\Nçellos
+Dialogue: 0,0:09:43.80,0:09:46.43,Main - Top - Wan,DOG FYODOR,0,0,0,,Nuk duam të shihemi si qen dinakë
+Dialogue: 0,0:09:46.43,0:09:50.15,Main - Top - Wan,DOG FYODOR,0,0,0,,që u lëpihen njerëzve në\Nkëmbim të jetës plot luks.
+Dialogue: 0,0:09:50.15,0:09:53.88,Main - Top - Wan,DOG NIKOLAI,0,0,0,,Po! Ne po përpiqemi të\Narrijmë lirinë e vërtetë!
+Dialogue: 0,0:09:50.23,0:09:55.69,sign_133_5_Several_days_aft,SIGN,0,0,0,,{\pos(578,199)}Bën marifete\Nmagjike
+Dialogue: 0,0:09:53.48,0:09:55.69,sign_133_5_Several_days_aft,SIGN,0,0,0,,{\frz7.1\pos(43,241)}Drejton një\Nkazino
+Dialogue: 0,0:09:53.88,0:09:55.70,Main - Top - Wan,DOG SIGMA,0,0,0,,Mund ta mbajmë veten!
+Dialogue: 0,0:09:57.00,0:09:59.69,Main - Wan,DOG ATSUSHI,0,0,0,,Pra bëni marifete?
+Dialogue: 0,0:09:59.70,0:10:03.18,sign_14379_207_Illustrated_Guid,SIGN,0,0,0,,{\pos(330,268)}Udhëzues i Ilustruar për{\c&H7FEBFB&}Qe{\c&HEDFFAB&}ntë e{\c&HECD5FF&}Këndshëm
+Dialogue: 0,0:09:59.72,0:10:03.31,Main - Wan,Credits,0,0,0,,{\an1\fad(450,450)\shad0\fnArial\fs15\c&HFFFFFF&\3c&H000000&\b1\bord1.75\be1}Përkthimi: Sho Stifler\NSinkronizimi: Edgar Cruz\NRedaktimi: Narelle Bailey\NKontrolli i Cilësisë: Zachary Carlysle\NKontrolli i Përkthimit: David Saylor
+Dialogue: 0,0:10:04.16,0:10:09.19,sign_14486_208_Nakajima_Atsushi,SIGN,0,0,0,,{\move(621,207,-24,207,26,5241)}Nakajima Atsushi - Shiba Inu
+Dialogue: 0,0:10:05.79,0:10:11.23,sign_14486_208_Nakajima_Atsushi,SIGN,0,0,0,,{\3c&H6091C0&\move(623,52,-21,52,23,5446)}Dazai Osamu - Retriever
+Dialogue: 0,0:10:07.46,0:10:12.98,sign_14565_210_Kunikida_Doppo__,SIGN,0,0,0,,{\3c&H4C978A&\move(623,206,-24,206,21,5570)}Kunikida Doppo - Bari Gjerman
+Dialogue: 0,0:10:09.29,0:10:14.69,sign_14565_210_Kunikida_Doppo__,SIGN,0,0,0,,{\3c&H5555C8&\move(628,53,-25,51,27,5408)}Edogawa Rampo - Terrier
+Dialogue: 0,0:10:11.17,0:10:16.82,sign_14565_210_Kunikida_Doppo__,SIGN,0,0,0,,{\3c&H5BB7B1&\move(627,205,-24,205,23,5655)}Yosano Akiko - Dalmat
+Dialogue: 0,0:10:14.13,0:10:19.57,sign_14565_210_Kunikida_Doppo__,SIGN,0,0,0,,{\3c&H5555C8&\move(627,52,-22,52,25,5465)}Tanizaki Junichiro & Naomi - Papillon
+Dialogue: 0,0:10:14.92,0:10:20.32,sign_14565_210_Kunikida_Doppo__,SIGN,0,0,0,,{\3c&H2B66A2&\move(627,206,-25,206,27,5409)}Miyazawa Kenji - Corgi
+Dialogue: 0,0:10:17.47,0:10:22.95,sign_14486_208_Nakajima_Atsushi,SIGN,0,0,0,,{\3c&H401DB3&\move(626,207,-24,207,21,5486)}Izumi Kyouka - Toy Poodle
+Dialogue: 0,0:10:19.13,0:10:24.58,sign_14565_210_Kunikida_Doppo__,SIGN,0,0,0,,{\3c&H4C978A&\move(627,53,-23,53,30,5461)}Haruno Kirako - Cocker Spaniel
+Dialogue: 0,0:10:20.30,0:10:25.83,sign_14565_210_Kunikida_Doppo__,SIGN,0,0,0,,{\3c&H1A774F&\move(625,207,-23,207,28,5534)}Fukuzawa Yukichi - Doberman
+Dialogue: 0,0:10:23.01,0:10:28.41,sign_14565_210_Kunikida_Doppo__,SIGN,0,0,0,,{\3c&HA74C77&\move(624,199,-20,199,29,5435)}Akutagawa Ryunosuke - Cavalier
+Dialogue: 0,0:10:24.97,0:10:30.21,sign_14565_210_Kunikida_Doppo__,SIGN,0,0,0,,{\3c&H839334&\move(627,70,-20,70,29,5310)}Nakahara Chuuya - Chihuahua
+Dialogue: 0,0:10:26.97,0:10:32.29,sign_14565_210_Kunikida_Doppo__,SIGN,0,0,0,,{\3c&H401DB3&\move(625,200,-23,200,31,5312)}Ozaki Kouyou - Poodle
+Dialogue: 0,0:10:29.27,0:10:34.80,sign_14565_210_Kunikida_Doppo__,SIGN,0,0,0,,{\3c&H26796A&\move(625,202,-26,202,25,5556)}Kajii Motojirou - Siberian Husky
+Dialogue: 0,0:10:30.90,0:10:35.96,sign_14565_210_Kunikida_Doppo__,SIGN,0,0,0,,{\3c&H2F9D9C&\move(628,57,-20,57,21,5153)}Yumeno Kyusaku - Japanese Chin
+Dialogue: 1,0:10:32.52,0:10:37.88,sign_14565_210_Kunikida_Doppo__,SIGN,0,0,0,,{\3c&H1191AD&\move(627,57,-24,57,28,5418)}Higuchi Ichiyou - Përzierje Shiba
+Dialogue: 0,0:10:34.00,0:10:39.47,sign_14565_210_Kunikida_Doppo__,SIGN,0,0,0,,{\3c&H7171D9&\move(624,202,-21,202,8,5498)}Tachihara Michizou - Përzierje Terrier
+Dialogue: 0,0:10:36.82,0:10:41.93,sign_14565_210_Kunikida_Doppo__,SIGN,0,0,0,,{\3c&HA9774D&\move(623,202,-21,202,24,5180)}Gin - Schipperke
+Dialogue: 0,0:10:38.69,0:10:44.01,sign_14565_210_Kunikida_Doppo__,SIGN,0,0,0,,{\3c&HA74C77&\move(623,203,-22,203,31,5363)}Hirotsu Ryuurou - Bloodhound
+Dialogue: 0,0:10:40.86,0:10:46.06,sign_14565_210_Kunikida_Doppo__,SIGN,0,0,0,,{\3c&H5A3DBB&\move(618,64,-25,64,30,5228)}Randou - Briard
+Dialogue: 0,0:10:43.32,0:10:48.56,sign_14565_210_Kunikida_Doppo__,SIGN,0,0,0,,{\3c&HA9974D&\move(619,64,-26,64,31,5270)}Elise - Maltese
+Dialogue: 0,0:10:43.53,0:10:48.93,sign_14565_210_Kunikida_Doppo__,SIGN,0,0,0,,{\3c&HA74C77&\move(622,203,-25,203,29,5419)}Mori Ougai - Labrador Retriever
+Dialogue: 0,0:10:45.91,0:10:51.35,sign_14565_210_Kunikida_Doppo__,SIGN,0,0,0,,{\3c&H839334&\move(619,66,-24,66,26,5458)}Francis - Foxhound Amerikan
+Dialogue: 0,0:10:47.95,0:10:53.27,sign_14565_210_Kunikida_Doppo__,SIGN,0,0,0,,{\3c&H3D71A5&\move(620,55,-24,55,30,5370)}Louisa - Shih Tzu
+Dialogue: 0,0:10:50.12,0:10:55.44,sign_14565_210_Kunikida_Doppo__,SIGN,0,0,0,,{\move(620,54,-25,54,29,5352)}Poe - Bearded Collie
+Dialogue: 0,0:10:50.79,0:10:55.98,sign_14565_210_Kunikida_Doppo__,SIGN,0,0,0,,{\3c&H255E99&\move(621,153,-21,153,26,5224)}Karl - Rakun
+Dialogue: 0,0:10:53.42,0:10:58.65,sign_14565_210_Kunikida_Doppo__,SIGN,0,0,0,,{\3c&H709334&\move(621,54,-20,54,24,5264)}Lucy - Havanese
+Dialogue: 0,0:10:54.09,0:10:59.36,sign_14565_210_Kunikida_Doppo__,SIGN,0,0,0,,{\3c&H1344A8&\move(622,207,-19,207,21,5303)}Mark - Miniature Pinscher
+Dialogue: 0,0:10:57.42,0:11:02.53,sign_14565_210_Kunikida_Doppo__,SIGN,0,0,0,,{\3c&H97655C&\move(621,52,-24,52,28,5143)}Herman - Samoyed
+Dialogue: 0,0:10:59.92,0:11:05.16,sign_14565_210_Kunikida_Doppo__,SIGN,0,0,0,,{\3c&H839334&\move(626,98,-23,98,30,5287)}Oguri Mushitarou - Greyhound Italian
+Dialogue: 0,0:11:00.63,0:11:06.04,sign_14565_210_Kunikida_Doppo__,SIGN,0,0,0,,{\3c&H365EAF&\move(631,210,-25,210,30,5394)}Yokomizo Seishi - Briard
+Dialogue: 0,0:11:03.22,0:11:08.41,sign_14565_210_Kunikida_Doppo__,SIGN,0,0,0,,{\3c&H3E7456&\move(630,211,-25,211,25,5274)}Sakaguchi Ango - Toy Poodle
+Dialogue: 0,0:11:05.76,0:11:11.04,sign_14565_210_Kunikida_Doppo__,SIGN,0,0,0,,{\move(627,53,-22,53,30,5294)}Fukuchi Ouchi - Wolfdog
+Dialogue: 0,0:11:07.10,0:11:12.50,sign_14565_210_Kunikida_Doppo__,SIGN,0,0,0,,{\3c&HB267C1&\move(629,211,-22,211,24,5423)}Okura Teruko\NWest Highland White Terrier
+Dialogue: 0,0:11:09.31,0:11:14.63,sign_14565_210_Kunikida_Doppo__,SIGN,0,0,0,,{\3c&HB267C1&\move(627,54,-23,54,25,5306)}Okura Teruko - Mastiff
+Dialogue: 0,0:11:11.85,0:11:17.13,sign_14565_210_Kunikida_Doppo__,SIGN,0,0,0,,{\3c&H7272C6&\move(626,55,-24,55,29,5269)}Jouno Saigiku - Beagle
+Dialogue: 0,0:11:13.65,0:11:18.88,sign_14565_210_Kunikida_Doppo__,SIGN,0,0,0,,{\3c&H1191AD&\move(625,56,-21,56,23,5262)}Suehiro Tetchou - Shikoku
+Dialogue: 0,0:11:15.57,0:11:20.68,sign_14565_210_Kunikida_Doppo__,SIGN,0,0,0,,{\move(623,189,-25,189,21,5136)}Nakajima Atsushi - Tigër i Bardhë
+Dialogue: 0,0:11:17.53,0:11:22.39,sign_14565_210_Kunikida_Doppo__,SIGN,0,0,0,,{\3c&HB267C1&\move(624,55,-26,55,21,5119)}Sigma - Shih Tzu
+Dialogue: 0,0:11:19.19,0:11:25.05,sign_14565_210_Kunikida_Doppo__,SIGN,0,0,0,,{\move(625,207,127,147,30,5369)}Fyodor - Borzoi
+Dialogue: 0,0:11:21.49,0:11:26.72,sign_14565_210_Kunikida_Doppo__,SIGN,0,0,0,,{\3c&H97655C&\move(623,55,92,41,24,5280)}Nikolai - Samoyed
+Dialogue: 0,0:11:22.61,0:11:28.02,sign_14565_210_Kunikida_Doppo__,SIGN,0,0,0,,{\move(605,193,105,140,30,5461)}Bram - Wolfhound Irlandez
+Dialogue: 0,0:11:25.61,0:11:28.79,Main - Wan,DOG ATSUSHI,0,0,0,,T'i shohësh të gjithë bashkë të bën të kuptosh\Nse sa shumë raca qensh paraqesim.
+Dialogue: 0,0:11:28.79,0:11:31.33,Main - Wan,DOG DAZAI,0,0,0,,A pashë një mace të përzier aty vallë?
+Dialogue: 0,0:11:30.62,0:11:40.00,sign_16559_252_The_End,SIGN,0,0,0,,{\fad(612,1)\4c&HA886C9&\pos(290,92)}Fund
+Dialogue: 0,0:11:31.33,0:11:33.72,Main - Wan,DOG ATSUSHI,0,0,0,,Për mua e ke fjalën?
+Dialogue: 0,0:11:34.98,0:11:36.64,Main - Wan,DOG DAZAI,0,0,0,,Epo, shihemi më vonë.
+Dialogue: 0,0:11:36.64,0:11:38.75,Main - Wan,DOG ATSUSHI,0,0,0,,Hej, prit! Mos më shpërfill!
+
