@@ -293,6 +293,20 @@
       "assFile": "ass/at-688736.sq.ass",
       "offset": 0,
       "sourceReleaseId": "688736"
+    },
+    {
+      "id": "at-688806",
+      "title": "Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs Season 2",
+      "episode": "11",
+      "malId": 54000,
+      "anilistId": null,
+      "slugs": [
+        "otomege-sekai-wa-mob-ni-kibishii-sekai-desu-2"
+      ],
+      "file": "files/at-688806.sq.vtt",
+      "assFile": "ass/at-688806.sq.ass",
+      "offset": 0,
+      "sourceReleaseId": "688806"
     }
   ]
 }
