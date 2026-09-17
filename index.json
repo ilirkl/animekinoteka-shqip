@@ -429,6 +429,23 @@
       "sourceEpisode": "12",
       "sourceTitle": "Otome Kaijuu Carameliser",
       "numberingEvidence": "https://anikototv.to/watch/kaiju-girl-caramelise"
+    },
+    {
+      "id": "at-689086",
+      "title": "Smoking Behind the Supermarket with You",
+      "episode": "11",
+      "malId": 62076,
+      "anilistId": 196187,
+      "slugs": [
+        "smoking-behind-the-supermarket-with-you-e086a"
+      ],
+      "file": "files/at-689086.sq.vtt",
+      "assFile": "ass/at-689086.sq.ass",
+      "offset": 0,
+      "sourceReleaseId": "689086",
+      "sourceEpisode": "11",
+      "sourceTitle": "Super no Ura de Yani Suu Futari",
+      "numberingEvidence": "https://anikototv.to/watch/smoking-behind-the-supermarket-with-you-e086a"
     }
   ]
 }

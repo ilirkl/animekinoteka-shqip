@@ -1,0 +1,394 @@
+﻿[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: DefaultItalics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: DefaultTop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: DefaultItalicsTop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: DefaultOverlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: FlashbackItalics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: FlashbackTop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: FlashbackItalicsTop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Narration,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Signs,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,30,30,10,0
+Style: Signs_EpTitle,Times New Roman,16,&H00057AF9,&H000000FF,&HC8000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,7,30,30,10,0
+Style: Signs_Boxed,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,3,0,0,8,30,30,10,0
+Style: Credits,Arial,18,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,30,30,18,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.63,0:00:07.72,Default,OHNO,0,0,0,,Edhe një vit tjetër po i vjen fundi.
+Dialogue: 0,0:00:07.72,0:00:08.86,Default,OBATA,0,0,0,,Ashtu është me të vërtetë.
+Dialogue: 0,0:00:08.86,0:00:13.62,Default,OHNO,0,0,0,,Bëre një punë të shkëlqyer me përgatitjen e këndit\Ntë perimeve për Vitin e Ri, Obata-kun.
+Dialogue: 0,0:00:14.10,0:00:16.63,Default,OBATA,0,0,0,,V-Vërtet e keni?
+Dialogue: 0,0:00:16.63,0:00:19.25,Default,OBATA,0,0,0,,M-Mendoj se puna në turnin e natës\Nia vlejti më në fund.
+Dialogue: 0,0:00:21.76,0:00:28.40,Default,OHNO,0,0,0,,E vlerësoj që karotat tona kintoki\Ndhe rrepat e supës janë të mëdha dhe të bukura.
+Dialogue: 0,0:00:28.40,0:00:30.60,Default,OBATA,0,0,0,,Oh, ju falënderoj shumë.
+Dialogue: 0,0:00:33.90,0:00:36.52,Default,OHNO,0,0,0,,Punë e mbarë, Yamada-chan.
+Dialogue: 0,0:00:36.52,0:00:38.40,Default,OBATA,0,0,0,,H-Hej, Yamada.
+Dialogue: 0,0:00:38.99,0:00:40.64,Default,YAMADA,0,0,0,,Ç'kemi?
+Dialogue: 0,0:00:41.77,0:00:44.69,Default,OHNO,0,0,0,,Nuk do të hash darkë?
+Dialogue: 0,0:00:44.69,0:00:49.06,Default,YAMADA,0,0,0,,Po e kaloj sonte. Nuk kam uri.
+Dialogue: 0,0:00:49.06,0:00:50.15,Default,OHNO,0,0,0,,Oh?
+Dialogue: 0,0:00:50.15,0:00:55.28,Signs,SIGN,0,0,0,,{\bord1.5\fnTimes New Roman\b0\fs16\3c&H3E25CE&\pos(139.5,211)}XXL
+Dialogue: 0,0:00:50.15,0:00:55.28,Signs,SIGN,0,0,0,,{\fnComic Sans MS\c&H40415A&\frz25.69\pos(137.5,7.5)}shumë e madhe
+Dialogue: 0,0:00:50.15,0:00:55.28,Signs,SIGN,0,0,0,,{\fnComic Sans MS\c&H40415A&\pos(84.5,37)\frz25.69}gëlltitje
+Dialogue: 0,0:00:50.15,0:00:55.28,Signs,SIGN,0,0,0,,{\fnComic Sans MS\c&H40415A&\frz25.69\pos(84.9,52.63)}gëlltitje
+Dialogue: 0,0:00:50.46,0:00:52.74,DefaultItalics,OBATA,0,0,0,,{\i0}Yamada po{\i1}anashkalon një vakt?
+Dialogue: 0,0:00:52.74,0:00:55.28,DefaultItalics,OBATA,0,0,0,,Mos është në dietë apo diçka e tillë?
+Dialogue: 0,0:01:01.69,0:01:03.30,Default,OHNO,0,0,0,,Yamada-chan!
+Dialogue: 0,0:01:01.96,0:01:03.30,DefaultOverlap,OBATA,0,0,0,,Yamada!
+Dialogue: 0,0:02:34.01,0:02:39.01,Signs_EpTitle,EPTITLE,0,0,0,,{\blur1\pos(232,258)}Cig 11\N{\fs24}Përshëndetje Nga\NPas Supermarketit
+Dialogue: 0,0:02:39.05,0:02:43.01,Signs,SIGN,0,0,0,,{\fad(484,1)\fs40\fnGeorgia\c&H303030&\pos(320,3)}Fund
+Dialogue: 0,0:02:39.10,0:02:43.02,Signs,SIGN,0,0,0,,{\fad(434,1)\an8\bord3\blur0.6\pos(211.5,36)\p1\frz-40\c&HCFCFCF&\3c&H323032&\fscx96\fscy39}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:02:39.10,0:02:43.02,Signs,SIGN,0,0,0,,{\fad(434,1)\fs36\b0\fnTimes New Roman\c&H373737&\frz-40\pos(210.5,37)}28/12
+Dialogue: 0,0:02:39.10,0:02:43.02,Signs,SIGN,0,0,0,,{\fad(434,1)\an8\bord3\blur0.6\p1\frz40\c&HCFCFCF&\3c&H323032&\fscx96\fscy39\pos(417.5,36)}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:02:39.10,0:02:43.02,Signs,SIGN,0,0,0,,{\fad(434,1)\fs22\fscx80\b0\fnTimes New Roman\c&H373737&\frz40\pos(416.5,35)}Dita e Fundit
+Dialogue: 1,0:02:39.10,0:02:43.02,Signs,SIGN,0,0,0,,{\fad(434,1)\fs22\fscx80\b0\fnTimes New Roman\c&H373737&\frz40\pos(427.64,47.85)}e Punës
+Dialogue: 0,0:02:39.01,0:02:40.66,Default,SUZUKI,0,0,0,,Bum!
+Dialogue: 0,0:02:40.66,0:02:43.02,Default,SUZUKI,0,0,0,,Po! Mbaruam punë për këtë vit!
+Dialogue: 0,0:02:43.31,0:02:44.77,Default,SUZUKI,0,0,0,,Shpëtuam më në fund!
+Dialogue: 0,0:02:44.77,0:02:49.33,Default,SUZUKI,0,0,0,,Fakti që shefi hapi shumë punë ngaqë e zuri\Ntemperatura e bën më të lehtë të ikësh me vrap!
+Dialogue: 0,0:02:49.33,0:02:51.82,Default,SASAKI,0,0,0,,Ndihesh kaq mirë kur mbaron, apo jo?
+Dialogue: 0,0:02:51.82,0:02:55.52,Default,SUZUKI,0,0,0,,Nuk merr asnjë mesazh sepse të gjithë\Ntë tjerët janë pushim gjithashtu.
+Dialogue: 0,0:02:55.80,0:02:58.83,Default,SUZUKI,0,0,0,,Kjo heq plotësisht fajësinë\Ne marrjes së pushimeve.
+Dialogue: 0,0:02:58.95,0:03:01.66,Signs,SIGN,0,0,0,,{\fad(479,1)\fs30\bord2\fnComic Sans MS\an7\c&H3E4A4F&\3c&HF7F6FB&}Jo se kam ndier ndonjëherë faj
+Dialogue: 0,0:02:58.83,0:03:01.66,DefaultItalics,SUZUKI,0,0,0,,Jo se kam ndier ndonjëherë faj!
+Dialogue: 0,0:03:01.66,0:03:03.29,Default,SASAKI,0,0,0,,Kaq ishte.
+Dialogue: 0,0:03:03.29,0:03:06.53,Default,SUZUKI,0,0,0,,Sado që do të doja të shkoja\Ntë pija me ty,
+Dialogue: 0,0:03:06.53,0:03:08.73,Default,SUZUKI,0,0,0,,kam për të shkuar në burime termale me familjen time.
+Dialogue: 0,0:03:09.29,0:03:11.27,Default,SUZUKI,0,0,0,,Shihemi vitin tjetër. Mirupafshim.
+Dialogue: 0,0:03:11.27,0:03:13.17,Default,SUZUKI,0,0,0,,Rri siç je, Sasaki.
+Dialogue: 0,0:03:13.17,0:03:15.19,Default,SASAKI,0,0,0,,Gjithë të mirat.
+Dialogue: 0,0:03:16.91,0:03:18.80,DefaultItalics,SASAKI,0,0,0,,Mendoj se do të nisem edhe unë.
+Dialogue: 0,0:03:20.33,0:03:24.18,DefaultItalics,SASAKI,0,0,0,,Do të blej mjaftueshëm ushqim për një javë\Ndhe do të dembelosem në shtëpi.
+Dialogue: 0,0:03:24.48,0:03:28.40,DefaultItalics,SASAKI,0,0,0,,Tani, sikur ta shihja Yamada-san për herë\Ntë fundit, kjo do të ishte qershia mbi tortë.
+Dialogue: 0,0:03:28.40,0:03:30.48,DefaultItalics,YAMADA,0,0,0,,Po e mbyll për këtë vit!
+Dialogue: 0,0:03:30.94,0:03:33.94,Signs,SIGN,0,0,0,,{\fnArial Black\shad2\bord2\c&H128260&\3c&H04140E&\4c&H260A72&}Ulje Falënderuese{\c&HA68876&}për Fundvit
+Dialogue: 0,0:03:33.94,0:03:37.45,Signs,SIGN,0,0,0,,{\fs36\fnArial Black\shad2\bord2\c&H128260&\3c&H04140E&\4c&H260A72&}Ulje Falënderuese{\c&HA68876&}për Fundvit
+Dialogue: 0,0:03:40.29,0:03:43.56,DefaultItalics,SASAKI,0,0,0,,Po, nuk mendoj se mund të futem në radhë\Nte kasa e dytë tani.
+Dialogue: 0,0:03:44.95,0:03:46.48,DefaultItalics,SASAKI,0,0,0,,Dhe pash Zotin,
+Dialogue: 0,0:03:47.71,0:03:52.06,DefaultItalics,SASAKI,0,0,0,,mos rri në radhë në këtë orë të ngarkuar\Nduke pritur të marrësh një buzëqeshje!
+Dialogue: 0,0:03:52.71,0:03:55.21,Signs,SIGN,0,0,0,,{\bord2.5\fnComic Sans MS\an7\c&H191C2C&\3c&HE3EAEF&\pos(65,150.5)}Çipsa Mochi të Shijshëm
+Dialogue: 0,0:03:53.52,0:03:58.44,DefaultItalics,SASAKI,0,0,0,,Nuk është se mund ta falënderoj që ishte\Nburimi im i energjisë gjatë gjithë këtij viti.
+Dialogue: 0,0:04:05.21,0:04:09.06,DefaultItalics,SASAKI,0,0,0,,Isha kaq pranë të bëhesha një budalla që\Npengon funksionimin e rregullt të dyqanit.
+Dialogue: 0,0:04:09.06,0:04:11.73,Default,MAEZAWA,0,0,0,,Më lër t'i marr unë këto për ty!
+Dialogue: 0,0:04:11.73,0:04:18.18,DefaultTop,MAEZAWA,0,0,0,,Ja një, dy, tre, katër,
+Dialogue: 0,0:04:18.18,0:04:25.64,DefaultTop,MAEZAWA,0,0,0,,pesë, gjashtë, shtatë, tetë, nëntë...
+Dialogue: 0,0:04:13.73,0:04:15.64,Default,OBATA,0,0,0,,J-Ju falënderoj shumë!
+Dialogue: 0,0:04:17.06,0:04:20.31,DefaultItalics,SASAKI,0,0,0,,Ajo është shefja e sportelit dhe Obata-san.
+Dialogue: 0,0:04:20.31,0:04:24.15,DefaultItalics,SASAKI,0,0,0,,Mos vallë Yamada-san është pushim sonte?
+Dialogue: 0,0:04:24.15,0:04:28.62,DefaultItalics,SASAKI,0,0,0,,Do ta falënderoj me mendje\Npër gjithçka në vend të kësaj.
+Dialogue: 0,0:04:28.62,0:04:34.38,Signs,SIGN,0,0,0,,{\bord2.5\fnComic Sans MS\c&H191C2C&\3c&HE3EAEF&}Çipsa Mochi të Shijshëm
+Dialogue: 0,0:04:29.26,0:04:34.01,DefaultItalics,SASAKI,0,0,0,,Thjesht shpresoj të përshëndes personalisht\Natë tjetrën para se të largohem.
+Dialogue: 0,0:04:37.38,0:04:39.88,Signs,SIGN,0,0,0,,{\bord2\fnComic Sans MS\c&H52647D&\3c&HD6EEFD&\pos(311,30)}Orari i Vitit të Ri
+Dialogue: 0,0:04:37.38,0:04:39.88,Signs,SIGN,0,0,0,,{\b0\fs22\fnComic Sans MS\c&H52647D&\pos(364.5,121.5)}Hapur
+Dialogue: 0,0:04:37.38,0:04:39.88,Signs,SIGN,0,0,0,,{\b0\fs22\fnComic Sans MS\c&H6061C3&\pos(364.5,209)}Mbyllur
+Dialogue: 0,0:04:37.38,0:04:39.88,Signs,SIGN,0,0,0,,{\b0\fs22\fnComic Sans MS\c&H455666&\pos(364.5,305)}Hapur
+Dialogue: 0,0:04:39.88,0:04:41.24,Default,GIRL,0,0,0,,Brr!
+Dialogue: 0,0:04:41.24,0:04:42.34,Default,GUY,0,0,0,,Por ti më ke mua.
+Dialogue: 0,0:04:42.34,0:04:44.32,Default,GIRL,0,0,0,,Mos u bëj budalla!
+Dialogue: 0,0:04:44.82,0:04:45.89,Default,GUY,0,0,0,,Çfarë dëshiron të hash?
+Dialogue: 0,0:04:46.48,0:04:50.75,DefaultItalics,SASAKI,0,0,0,,Kam bërë shëtitje në mbrëmje\Nduke kontrolluar, por nuk e kam parë.
+Dialogue: 0,0:04:50.75,0:04:53.68,DefaultItalics,SASAKI,0,0,0,,Nuk munda dot t'i jepja\Nuratat e mia më të mira.
+Dialogue: 0,0:04:54.05,0:04:58.15,DefaultItalics,SASAKI,0,0,0,,Pash Zotin, me këtë ritëm mund të më\Nthërrasin edhe policinë.
+Dialogue: 0,0:04:59.73,0:05:02.66,Default,GOTOU,0,0,0,,Moj budallaqe e madhe!
+Dialogue: 0,0:05:07.43,0:05:11.29,Default,GOTOU,0,0,0,,Mos guxo të mërzitesh!\NMund ta përballoj vetë!
+Dialogue: 0,0:05:11.73,0:05:14.04,DefaultItalics,SASAKI,0,0,0,,M-Menaxherja?
+Dialogue: 0,0:05:14.04,0:05:16.84,Default,GOTOU,0,0,0,,Hej! A po më dëgjon?
+Dialogue: 0,0:05:18.40,0:05:21.18,Default,GOTOU,0,0,0,,Çfarë koke e trashë!
+Dialogue: 0,0:05:21.53,0:05:23.30,DefaultItalics,SASAKI,0,0,0,,Ajo po zien nga inati.
+Dialogue: 0,0:05:26.63,0:05:27.68,Default,GOTOU,0,0,0,,Hë?
+Dialogue: 0,0:05:28.14,0:05:29.81,Default,GOTOU,0,0,0,,Hej, shiko kush qenka, Sasaki-kun.
+Dialogue: 0,0:05:30.95,0:05:32.61,Default,GOTOU,0,0,0,,Mbarove punë për këtë vit?
+Dialogue: 0,0:05:32.61,0:05:35.48,Default,SASAKI,0,0,0,,Oh, po, fatmirësisht.
+Dialogue: 0,0:05:42.91,0:05:44.37,Default,SASAKI,0,0,0,,Meqë ra fjala, Menaxhere,
+Dialogue: 0,0:05:44.66,0:05:46.72,Default,SASAKI,0,0,0,,ku ka qenë Tayama-san?
+Dialogue: 0,0:05:49.11,0:05:51.75,Default,GOTOU,0,0,0,,Është shtrirë në shtrat me temperaturë.
+Dialogue: 0,0:05:55.90,0:05:57.50,Default,SASAKI,0,0,0,,A-A është ajo...
+Dialogue: 0,0:05:57.83,0:06:01.97,Default,SASAKI,0,0,0,,A është mirë? Mos u shtrua\Nnë spital apo diçka e tillë?
+Dialogue: 0,0:06:01.97,0:06:06.14,Default,GOTOU,0,0,0,,Jo, qetësohu. Thjesht i dhashë\Npushim derisa të nisim vitin e ri.
+Dialogue: 0,0:06:09.39,0:06:12.49,Default,GOTOU,0,0,0,,Ose më saktë, po{\i1}përpiqem{\i0}t'i jap pushim.
+Dialogue: 0,0:06:15.75,0:06:18.77,Default,GOTOU,0,0,0,,Sasaki-kun, mund të vazhdosh\Ne të pish një cigare këtu.
+Dialogue: 0,0:06:20.54,0:06:24.36,Default,GOTOU,0,0,0,,Por jo falas.
+Dialogue: 0,0:06:30.29,0:06:32.16,Default,YAMADA,0,0,0,,Ajo shefe budallaqe...
+Dialogue: 0,0:06:32.57,0:06:35.79,Default,YAMADA,0,0,0,,Do ta detyroj veten me forcë të jem\Nmirë me shëndet deri nesër.
+Dialogue: 0,0:06:35.79,0:06:39.29,Signs,SIGN,0,0,0,,{\fs12\fnTimes New Roman\bord2\c&H282631&\3c&H655546&\fax-0.1\frz355.8\move(438,210,455,210,22,3483)}Karamela Frutash për Fytin
+Dialogue: 0,0:06:36.47,0:06:39.29,Default,YAMADA,0,0,0,,Ajo nxehet kot për asgjë.
+Dialogue: 0,0:06:39.83,0:06:41.80,DefaultItalics,YAMADA,0,0,0,,As të pi cigare s'mundem në këtë gjendje.
+Dialogue: 0,0:06:42.65,0:06:44.80,DefaultItalics,YAMADA,0,0,0,,Kjo është e tmerrshme.
+Dialogue: 0,0:06:56.39,0:06:58.67,DefaultItalics,YAMADA,0,0,0,,Dua ramen.
+Dialogue: 0,0:07:04.26,0:07:08.52,DefaultItalics,YAMADA,0,0,0,,Shpresoj të mos ketë vdekur\Nnga mungesa e Yamada-s.
+Dialogue: 0,0:07:10.83,0:07:12.83,Signs,SIGN,0,0,0,,{\blur2\alpha&H55&\b0\frz-5.67\fax-0.05\fs40\pos(335,80)}Shefja
+Dialogue: 1,0:07:10.83,0:07:12.83,Signs,SIGN,0,0,0,,{\blur0.3\b0\frz-5.67\fax-0.05\fs40\pos(335,80)}Shefja
+Dialogue: 0,0:07:12.83,0:07:17.58,Signs,SIGN,0,0,0,,{\fs30\bord2.2\fnComic Sans MS\c&H131013&\3c&HF4F5F4&\pos(299.5,7)}Si guxon të\Nma mbyllësh telefonin!!
+Dialogue: 0,0:07:12.83,0:07:17.58,Signs,SIGN,0,0,0,,{\fs30\bord2.2\fnComic Sans MS\c&H131013&\3c&HF4F5F4&\pos(305.5,81)}Rri në shtëpi! Rri në shtëpi!
+Dialogue: 0,0:07:12.83,0:07:15.35,DefaultItalics,GOTOU,0,0,0,,Si guxon të ma mbyllësh telefonin!
+Dialogue: 0,0:07:15.35,0:07:17.58,DefaultItalics,GOTOU,0,0,0,,Rri në shtëpi! Rri në shtëpi!
+Dialogue: 0,0:07:21.10,0:07:23.84,Default,YAMADA,0,0,0,,Jam mirë! Jam për mrekulli!
+Dialogue: 0,0:07:24.25,0:07:27.03,Default,YAMADA,0,0,0,,Po vij nesër në punë, dhe pikë!
+Dialogue: 0,0:07:27.48,0:07:30.19,DefaultItalics,YAMADA,0,0,0,,Hë? S-Sasaki-san?
+Dialogue: 0,0:07:30.60,0:07:31.99,DefaultItalics,YAMADA,0,0,0,,Por pse?
+Dialogue: 0,0:07:31.99,0:07:34.38,DefaultItalics,SASAKI,0,0,0,,Oh, më falni që po ju telefonoj kështu papritur.
+Dialogue: 0,0:07:34.38,0:07:37.87,DefaultItalics,SASAKI,0,0,0,,Këtu është Sasaki. A është një moment i përshtatshëm?
+Dialogue: 0,0:07:38.59,0:07:39.98,DefaultItalics,TAYAMA,0,0,0,,Cilës prej tyre?
+Dialogue: 0,0:07:39.98,0:07:44.56,DefaultItalics,SASAKI,0,0,0,,Hë? Më falni, uh, a më dëgjoni dot?
+Dialogue: 0,0:07:44.56,0:07:47.28,DefaultItalics,TAYAMA,0,0,0,,Cilës prej tyre po i telefonon ai tani?
+Dialogue: 0,0:07:47.79,0:07:51.94,DefaultItalics,TAYAMA,0,0,0,,Po sillet aq me edukatë,\Nme siguri po kërkon Yamada-n.
+Dialogue: 0,0:07:51.94,0:07:52.62,DefaultItalics,SASAKI,0,0,0,,Alo?
+Dialogue: 0,0:07:53.51,0:07:54.63,DefaultItalics,SASAKI,0,0,0,,Tayama-san?
+Dialogue: 0,0:07:59.44,0:08:00.88,DefaultItalics,TAYAMA,0,0,0,,Ç'kemi?
+Dialogue: 0,0:07:58.87,0:08:00.88,Signs,SIGN,0,0,0,,{\blur0.2\c&HF0F2F3&\b0\frz4.87\fax0.05\pos(298.5,52)}yama
+Dialogue: 0,0:08:00.88,0:08:02.56,Default,SASAKI,0,0,0,,Oh, shyqyr.
+Dialogue: 0,0:08:03.31,0:08:05.63,Default,SASAKI,0,0,0,,Më falni që po ju marr gjatë kohës suaj të pushimit.
+Dialogue: 0,0:08:06.10,0:08:09.92,DefaultItalics,TAYAMA,0,0,0,,Nuk ka gjë, por çfarë po ndodh këtu?
+Dialogue: 0,0:08:09.92,0:08:11.32,Default,SASAKI,0,0,0,,Erm...
+Dialogue: 0,0:08:11.72,0:08:16.14,Default,SASAKI,0,0,0,,Erdha t'ju përcillja urimet e mia më të mira\Ndhe u ndesha me menaxheren këtu.
+Dialogue: 0,0:08:16.54,0:08:21.04,DefaultItalics,SASAKI,0,0,0,,Më tha se nuk do të vinit për pjesën tjetër të vitit\Ndhe më dha telefonin e saj për të folur me ju.
+Dialogue: 0,0:08:22.59,0:08:25.29,DefaultItalics,SASAKI,0,0,0,,Do ta mbyll telefonin nëse nuk\Njeni në gjendje të flisni!
+Dialogue: 0,0:08:25.29,0:08:27.90,Default,TAYAMA,0,0,0,,Hë, shefja e bëri këtë?
+Dialogue: 0,0:08:28.70,0:08:33.71,DefaultItalics,TAYAMA,0,0,0,,Me siguri të tha të më bindje\Ntë rrija në shtëpi nesër, apo jo?
+Dialogue: 0,0:08:34.79,0:08:39.38,Default,TAYAMA,0,0,0,,Nuk jam si ti. Unë di të lexoj mes rreshtave.
+Dialogue: 0,0:08:39.38,0:08:40.56,DefaultItalics,SASAKI,0,0,0,,Më vjen keq.
+Dialogue: 0,0:08:42.32,0:08:44.04,DefaultItalics,SASAKI,0,0,0,,E dëgjova nga menaxherja.
+Dialogue: 0,0:08:45.05,0:08:50.19,Default,SASAKI,0,0,0,,Zëvendësuat dikë kur ishit tashmë\Ne pafuqishme dhe u sëmurët?
+Dialogue: 0,0:08:50.19,0:08:52.55,DefaultItalics,TAYAMA,0,0,0,,Tani e kam marrë veten.
+Dialogue: 0,0:08:52.55,0:08:55.96,DefaultItalics,TAYAMA,0,0,0,,Temperatura pothuajse më ka ikur,\Ndhe mund të punoj nesër.
+Dialogue: 0,0:08:55.96,0:08:58.17,DefaultItalics,TAYAMA,0,0,0,,Shefja thjesht po e bën të madhe...
+Dialogue: 0,0:09:00.44,0:09:03.13,DefaultItalics,SASAKI,0,0,0,,Më falni. Gjithë kjo bisedë\Npo ju bën të kolliteni.
+Dialogue: 0,0:09:03.13,0:09:05.10,Default,TAYAMA,0,0,0,,Po të them që jam mirë.
+Dialogue: 0,0:09:05.10,0:09:06.58,DefaultItalics,SASAKI,0,0,0,,Si e keni oreksin?
+Dialogue: 0,0:09:06.58,0:09:09.65,Default,TAYAMA,0,0,0,,Nuk kam uri, por lëviz dot.
+Dialogue: 0,0:09:09.65,0:09:10.58,DefaultItalics,SASAKI,0,0,0,,E kuptoj.
+Dialogue: 0,0:09:10.58,0:09:13.32,Default,TAYAMA,0,0,0,,Nuk mund të marr katër ditë rresht pushim.
+Dialogue: 0,0:09:13.59,0:09:18.23,DefaultItalics,TAYAMA,0,0,0,,Nesër do të bëhet tmerrësisht e ngarkuar,\Nnuk kemi mjaftueshëm njerëz, dhe për më tepër...
+Dialogue: 0,0:09:18.73,0:09:20.08,Default,SASAKI,0,0,0,,Po.
+Dialogue: 0,0:09:20.08,0:09:24.90,DefaultItalics,SASAKI,0,0,0,,Sigurisht që do të shqetësoheshit kur menaxherja\Npo lufton vetë me kollën e saj.
+Dialogue: 0,0:09:28.98,0:09:30.47,DefaultItalics,SASAKI,0,0,0,,Më falni.
+Dialogue: 0,0:09:30.47,0:09:34.40,Default,SASAKI,0,0,0,,E dëgjova kur po ju bërtiste sapo.
+Dialogue: 0,0:09:34.80,0:09:38.76,Default,SASAKI,0,0,0,,Ajo me siguri po ofrohet të bëjë\Npjesën tuaj nesër, apo jo?
+Dialogue: 0,0:09:40.44,0:09:41.89,DefaultItalics,TAYAMA,0,0,0,,E di...
+Dialogue: 0,0:09:42.23,0:09:48.81,Default,TAYAMA,0,0,0,,Ajo u sëmur ngaqë iu desh të vraponte jashtë\Npasi një punëtore me orar të pjesshëm bëri lëmsh punën.
+Dialogue: 0,0:09:49.48,0:09:56.29,DefaultItalics,TAYAMA,0,0,0,,Duhej të siguroheshim të mos i shkaktonim\Nasnjë stres, por pikërisht atëherë u sëmura unë.
+Dialogue: 0,0:09:56.76,0:09:59.65,DefaultItalics,TAYAMA,0,0,0,,Në vend që ta qetësoja,\Nvetëm sa i shkaktova më shumë stres.
+Dialogue: 0,0:10:00.93,0:10:02.25,DefaultItalics,TAYAMA,0,0,0,,Unë...
+Dialogue: 0,0:10:03.51,0:10:07.05,Default,TAYAMA,0,0,0,,Ky është lloji i gjërave për të cilat\Ne urrej më shumë veten time.
+Dialogue: 0,0:10:07.83,0:10:08.85,DefaultItalics,SASAKI,0,0,0,,Tayama-san.
+Dialogue: 0,0:10:09.69,0:10:14.18,Default,SASAKI,0,0,0,,Po sikur ta hiqnit atë peshë nga\Nshpatullat tuaja për një moment?
+Dialogue: 0,0:10:19.52,0:10:22.56,Default,SASAKI,0,0,0,,Duke lënë këtë mënjanë,\Nsi po ndiheni vërtet?
+Dialogue: 0,0:10:31.35,0:10:34.78,Default,TAYAMA,0,0,0,,Kam vapë, jam e dërrmuar,\Ndhe nuk pushoj dot së kollituri.
+Dialogue: 0,0:10:35.27,0:10:36.09,DefaultItalics,SASAKI,0,0,0,,E qartë.
+Dialogue: 0,0:10:37.03,0:10:39.88,Default,TAYAMA,0,0,0,,Më dhemb koka. Nuk ha dot asgjë.
+Dialogue: 0,0:10:40.29,0:10:42.98,DefaultItalics,TAYAMA,0,0,0,,Nuk pi dot cigare. Jam shumë e inatosur.
+Dialogue: 0,0:10:47.51,0:10:48.81,DefaultItalics,SASAKI,0,0,0,,Pikërisht ashtu siç mendoja.
+Dialogue: 0,0:10:47.04,0:10:49.54,Signs,SIGN,0,0,0,,{\blur0.2\fs10\b0\c&HF5F6F6&\frz-18.76\fax-0.35\move(103,81,103,93,23,2483)}Shefja
+Dialogue: 0,0:10:50.85,0:10:54.77,DefaultItalics,SASAKI,0,0,0,,Në kohë si këto, duhet të mbështeteni\Nte të tjerët dhe të pushoni.
+Dialogue: 0,0:10:55.80,0:11:03.81,Signs,SIGN,0,0,0,,{\blur0.2\fs10\b0\c&HF5F6F6&\frz32.01\fax-0.4\move(382,57.5,382,116.5,21,7988)}yama
+Dialogue: 0,0:10:56.08,0:11:03.43,Default,SASAKI,0,0,0,,Është në rregull. Nuk duhet ta urreni kurrë\Nveten sepse u mbështetët te dikush.
+Dialogue: 0,0:11:04.89,0:11:05.91,Default,TAYAMA,0,0,0,,Po.
+Dialogue: 0,0:11:08.31,0:11:13.44,DefaultItalics,TAYAMA,0,0,0,,Nuk më besohet që pikërisht Sasaki-san,\Nnga të gjithë njerëzit, po më thotë të pushoj.
+Dialogue: 0,0:11:14.48,0:11:17.01,Default,SASAKI,0,0,0,,Seriozisht. E di që s'jam personi i duhur për të folur.
+Dialogue: 0,0:11:20.87,0:11:22.15,DefaultItalics,TAYAMA,0,0,0,,Vazhdo.
+Dialogue: 0,0:11:22.15,0:11:22.90,Default,SASAKI,0,0,0,,Hë?
+Dialogue: 0,0:11:23.60,0:11:27.14,DefaultItalics,TAYAMA,0,0,0,,Më jep urimet e tua.\NA nuk erdhe këtu për këtë?
+Dialogue: 0,0:11:28.75,0:11:32.81,DefaultItalics,SASAKI,0,0,0,,Oh, por nuk duhet t'ju mbaj më gjatë.
+Dialogue: 0,0:11:32.81,0:11:36.26,Default,TAYAMA,0,0,0,,Duhet ta bësh tani.\NNuk ke për të më parë për pjesën tjetër të vitit.
+Dialogue: 0,0:11:36.26,0:11:38.09,DefaultItalics,SASAKI,0,0,0,,E di, por...
+Dialogue: 0,0:11:38.09,0:11:41.86,Default,TAYAMA,0,0,0,,Pse, mos do të më telefonosh edhe nesër?
+Dialogue: 0,0:11:41.86,0:11:43.22,DefaultItalics,SASAKI,0,0,0,,Aspak! Absolutisht jo!
+Dialogue: 0,0:11:43.22,0:11:47.73,Default,SASAKI,0,0,0,,Ky është telefoni i menaxheres!\NNuk do të guxoja kurrë!
+Dialogue: 0,0:11:48.06,0:11:50.73,Default,TAYAMA,0,0,0,,Atëherë thuaje.
+Dialogue: 0,0:11:51.07,0:11:53.22,Default,SASAKI,0,0,0,,D-Do të jem i shkurtër.
+Dialogue: 0,0:11:54.26,0:11:59.20,Default,SASAKI,0,0,0,,Më ndihmuat vërtet shumë,\Nsa i përket pirjes së duhanit, këtë vit.
+Dialogue: 0,0:11:59.20,0:12:03.46,Default,SASAKI,0,0,0,,Ju falënderoj shumë që pini duhan\Nme një plakush si unë, Tayama-san.
+Dialogue: 0,0:12:04.89,0:12:06.28,DefaultItalics,TAYAMA,0,0,0,,Vetëm kaq?
+Dialogue: 0,0:12:08.68,0:12:12.55,Default,TAYAMA,0,0,0,,Nuk ke për të thënë\Nse do të kthehesh vitin tjetër?
+Dialogue: 0,0:12:19.40,0:12:21.89,DefaultItalics,SASAKI,0,0,0,,Uh, Tayama-san.
+Dialogue: 0,0:12:23.01,0:12:28.63,Default,SASAKI,0,0,0,,Nëse nuk ju bezdis, atëherë vitin tjetër...
+Dialogue: 0,0:12:28.89,0:12:30.11,DefaultItalics,TAYAMA,0,0,0,,...ushqim...të ha...
+Dialogue: 0,0:12:30.63,0:12:31.84,DefaultItalics,SASAKI,0,0,0,,Ushqim? Të ha?
+Dialogue: 0,0:12:30.27,0:12:32.52,Signs,SIGN,0,0,0,,{\fad(271,1)\blur0.2\b0\fs16\fax-0.05\frz22.15\pos(407,217.5)}yama
+Dialogue: 0,0:12:30.52,0:12:32.52,Signs,SIGN,0,0,0,,{\bord0.5\fnArial Black\c&H34304F&\3c&H0E0E0E&\pos(565,52.5)}Ushqim?
+Dialogue: 0,0:12:30.52,0:12:32.52,Signs,SIGN,0,0,0,,{\fnComic Sans MS\fs14\c&H353445&\pos(611.5,72.5)}e madhe
+Dialogue: 0,0:12:30.52,0:12:32.52,Signs,SIGN,0,0,0,,{\fnComic Sans MS\fs14\c&H353445&\pos(503,85.5)}e madhe
+Dialogue: 0,0:12:32.52,0:12:36.53,Signs,SIGN,0,0,0,,{\blur0.2\fs12\b0\c&HE5E7E7&\frz-38.02\fax-0.35\move(171.5,49,163,31,23,3985)}Shefja
+Dialogue: 0,0:12:40.18,0:12:41.71,Default,GOTOU,0,0,0,,E zuri gjumi, ë?
+Dialogue: 0,0:12:41.71,0:12:43.17,Default,SASAKI,0,0,0,,Ashtu duket.
+Dialogue: 0,0:12:48.49,0:12:51.29,Default,GOTOU,0,0,0,,Ajo mund të jetë me të vërtetë kokëfortë\Nkur nuk e pret fare.
+Dialogue: 0,0:12:52.56,0:12:55.17,Default,GOTOU,0,0,0,,Kujdeset shumë pak\Npër veten e saj.
+Dialogue: 0,0:12:56.81,0:13:03.09,Default,GOTOU,0,0,0,,Meqë ra fjala, mos harrove\Nqë e kishe me altoparlant?
+Dialogue: 0,0:13:04.36,0:13:08.93,Default,SASAKI,0,0,0,,Oh, e mbaja mend shumë mirë. Prandaj\Nfytyra po më digjet e tëra tani.
+Dialogue: 0,0:13:08.93,0:13:12.96,Default,GOTOU,0,0,0,,Hej, kjo më bëri të ndihem\Nshumë më mirë, të paktën.
+Dialogue: 0,0:13:12.73,0:13:16.94,Signs,SIGN,0,0,0,,{\fad(103,1)\fs30\fnArial Black\pos(212,14.5)\3c&HEEF8FB&\c&HEEF8FB&\bord4}Shefja Mori Dozën\Ne Saj Romantike
+Dialogue: 1,0:13:12.73,0:13:16.94,Signs,SIGN,0,0,0,,{\fad(103,1)\fs30\fnArial Black\pos(212,14.5)\3c&H2BAADA&\c&HDAFFFC&\bord1}B{\c&H28FFFE&}o{\c&H5DE2F0&}s{\c&H28FFFE&}s {\c&HDAFFFC&}G{\c&H28FFFE&}o{\c&H5DE2F0&}t {\c&H28FFFE&}H{\c&HDAFFFC&}e{\c&H28FFFE&}r{\c&H5DE2F0&}\NR{\c&H28FFFE&}o{\c&HDAFFFC&}m{\c&H28FFFE&}a{\c&H5DE2F0&}n{\c&H28FFFE&}c{\c&HDAFFFC&}e {\c&H28FFFE&}F{\c&H5DE2F0&}i{\c&H28FFFE&}x
+Dialogue: 0,0:13:13.79,0:13:16.50,DefaultItalics,SASAKI,0,0,0,,Prit, çfarë? Po pse?
+Dialogue: 0,0:13:18.04,0:13:20.45,Default,GOTOU,0,0,0,,Faji im, Sasaki-kun.
+Dialogue: 0,0:13:20.45,0:13:24.87,Default,GOTOU,0,0,0,,Të futa në të gjithë këtë rrëmujë.\NNjë cigare nuk ia vlejti, apo jo?
+Dialogue: 0,0:13:24.87,0:13:26.36,Default,SASAKI,0,0,0,,Oh, ju lutem.
+Dialogue: 0,0:13:26.80,0:13:31.24,Default,SASAKI,0,0,0,,Nuk e shoh fare në atë mënyrë.\NArrita t'i jepja uratat e mia më të mira.
+Dialogue: 0,0:13:32.07,0:13:33.25,Default,SASAKI,0,0,0,,Dhe përveç kësaj...
+Dialogue: 0,0:13:34.04,0:13:39.56,DefaultItalics,SASAKI,0,0,0,,Nuk më besohet që e detyrova të më kërkonte vetë.\NJam një plakush kaq budalla.
+Dialogue: 0,0:13:43.43,0:13:48.60,Signs,SIGN,0,0,0,,{\fad(935,1)\fs27\fnArial Black\an7\c&H3A6D77&\3c&HA2D2F4&\bord1.5\shad2\4c&H344761&}S{\c&H417380&}u{\c&H487A89&}p{\c&H4F8091&}e{\c&H56869A&}r{\c&H5D8CA3&}f{\c&H6393AC&}r{\c&H6A99B5&}e{\c&H719FBE&}s{\c&H78A5C6&}h {\c&H86B2D8&}S{\c&H7BA7C7&}u{\c&H709CB6&}p{\c&H6590A5&}e{\c&H5A8594&}r{\c&H507A83&}m{\c&H456F72&}a{\c&H3A6461&}r{\c&H2F5850&}k{\c&H244D3F&}e{\c&H19422E&}t
+Dialogue: 0,0:13:45.56,0:13:48.60,Flashback,SASAKI,0,0,0,,E do shumë këtë punë, apo jo?
+Dialogue: 0,0:13:53.23,0:13:56.96,DefaultItalics,YAMADA,0,0,0,,Hë? Mos po shoh në ëndërr?
+Dialogue: 0,0:13:57.61,0:14:00.10,Flashback,SASAKI,0,0,0,,Vazhdo të bësh diçka sepse e do,
+Dialogue: 0,0:14:00.61,0:14:05.24,Flashback,SASAKI,0,0,0,,dhe gjithçka tjetër që të nevojitet\Nme siguri do të vijë vetë më pas.
+Dialogue: 0,0:14:06.26,0:14:07.87,DefaultItalics,YAMADA,0,0,0,,Prit, zëri i tij...
+Dialogue: 0,0:14:08.85,0:14:13.79,DefaultItalics,YAMADA,0,0,0,,As fytyrën nuk ia mbaj mend, dhe tani\Ne dëgjoj të flasë me zërin e Sasaki-san.
+Dialogue: 0,0:14:15.27,0:14:16.68,DefaultItalics,YAMADA,0,0,0,,Kjo është kaq e çuditshme.
+Dialogue: 0,0:14:19.95,0:14:23.65,DefaultItalics,YAMADA,0,0,0,,Dua të them, s'ka asnjë shans.
+Dialogue: 0,0:14:37.86,0:14:40.86,Signs_Boxed,SIGN,0,0,0,,{\alpha&H22&\an7\bord0\blur0.2\pos(20,20)\p1\c&HEBEBEB&\fscx163\fscy132}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:14:37.86,0:14:40.86,Signs_Boxed,SIGN,0,0,0,,{\fs16\bord1\an7\c&HEAEAE9&\3c&H4D3E85&\pos(30,30)}Orari i Vitit të Ri
+Dialogue: 1,0:14:37.86,0:14:40.86,Signs,SIGN,0,0,0,,{\fs13\an9\c&H7A7D83&\pos(58,52)}31/12\N\h\N1/1\N2/1\N3/1\N\h\N4/1
+Dialogue: 1,0:14:37.86,0:14:40.86,Signs,SIGN,0,0,0,,{\fs13\an7\c&H7A7D83&\pos(69,52)}09:00 - 20:00\N(Orar i Shkurtuar)\NMbyllur\NMbyllur\N09:00 - 20:00\N(Orar i Shkurtuar)\NOrar i Rregullt
+Dialogue: 0,0:14:41.29,0:14:43.36,Default,GOTOU,0,0,0,,Gëzuar Vitin e Ri.
+Dialogue: 0,0:14:43.36,0:14:47.11,Default,GOTOU,0,0,0,,Oh, unë? Jo me familjen këtë vit.
+Dialogue: 0,0:14:47.11,0:14:49.32,Default,GOTOU,0,0,0,,Thjesht po lexoj\Nlibra pa pushim në shtëpinë time.
+Dialogue: 0,0:14:49.32,0:14:50.78,DefaultItalics,MAEZAWA,0,0,0,,Libra pa pushim?
+Dialogue: 0,0:14:50.78,0:14:56.12,Default,MAEZAWA,0,0,0,,Shumë mirë! Më jep disa rekomandime\Nherën tjetër që do të shihemi!
+Dialogue: 0,0:14:58.27,0:15:00.62,Default,GOTOU,0,0,0,,Pse të intereson ty? Ti as nuk lexon.
+Dialogue: 0,0:15:00.62,0:15:03.34,DefaultItalics,MAEZAWA,0,0,0,,Më kape. Mund të m'i lexosh ti me zë atëherë.
+Dialogue: 0,0:15:03.34,0:15:04.16,Default,GOTOU,0,0,0,,A je budalla?
+Dialogue: 0,0:15:04.16,0:15:08.52,DefaultItalicsTop,ZAWASON,0,0,0,,Jo! Më lësho!
+Dialogue: 0,0:15:06.10,0:15:08.94,DefaultItalics,MAEZAWA,0,0,0,,Mos ik me vrap kur po të ndërroj rrobat!
+Dialogue: 0,0:15:08.94,0:15:11.64,Default,GOTOU,0,0,0,,Çfarë po bën tani, gjithsesi?
+Dialogue: 0,0:15:10.12,0:15:18.46,DefaultTop,ZAWASON,0,0,0,,Jo! Nuk dua! Kjo është shumë e ngrohtë!
+Dialogue: 0,0:15:11.64,0:15:14.95,Default,MAEZAWA,0,0,0,,Sapo po bëhemi gati të dalim për\Nvizitën tonë të parë të vitit në tempull.
+Dialogue: 0,0:15:14.95,0:15:18.19,DefaultItalics,GOTOU,0,0,0,,Bukuri. Mos rrëshqit e të biesh me hundë.
+Dialogue: 0,0:15:18.19,0:15:19.14,Default,MAEZAWA,0,0,0,,Çfarë është kjo?
+Dialogue: 0,0:15:22.65,0:15:26.40,Signs,SIGN,0,0,0,,{\fs8\b0\frz12.93\fax0.05\pos(259.5,74)}yama
+Dialogue: 0,0:15:22.65,0:15:26.40,Signs,SIGN,0,0,0,,{\bord1\fnComic Sans MS\fs20\frz12.93\fax0.05\pos(313.5,129.5)\c&H5448CF&\3c&HF2F3FF&}Gëzuar
+Dialogue: 0,0:15:22.65,0:15:26.40,Signs,SIGN,0,0,0,,{\bord2\fs10\b0\frz12.93\fax0.05\c&H9F9A9B&\3c&HE8EDED&\pos(287,196.5)}Gëzuar Vitin e Ri
+Dialogue: 0,0:15:21.51,0:15:24.82,DefaultItalics,MAEZAWA,0,0,0,,Urra! Yamada-chan më nisi mesazh!
+Dialogue: 0,0:15:24.82,0:15:26.40,Default,GOTOU,0,0,0,,Edhe mua.
+Dialogue: 0,0:15:26.90,0:15:30.91,Default,GOTOU,0,0,0,,Nuk kam parë kurrë njeri tjetër\Ntë përdorë këtë lloj stikeri.
+Dialogue: 0,0:15:31.40,0:15:33.91,Signs,SIGN,0,0,0,,{\t(30,2491,\fscx110.1\fscy110.1)\fs12\bord2\fnTimes New Roman\c&H6C6F6A&\3c&HE4E6E7&\fay-0.05\move(552,309,576.58,323.07,30,2491)}Yamada
+Dialogue: 0,0:15:34.58,0:15:35.85,Default,TAYAMA,0,0,0,,Pse?
+Dialogue: 0,0:15:36.29,0:15:42.30,Signs,SIGN,0,0,0,,{\b0\fs15\move(321.5,52.5,321.5,-8.84,20,5984)}Shefja
+Dialogue: 0,0:15:36.29,0:15:42.30,Signs,SIGN,0,0,0,,{\bord2\b0\fs15\c&H5E6160&\3c&HF2F2F2&\move(331,94.5,331,33.15,20,5984)}Gëzuar Vitin e Ri
+Dialogue: 0,0:15:36.29,0:15:42.30,Signs,SIGN,0,0,0,,{\bord2\b0\fs15\c&H5E6160&\3c&HF2F2F2&\move(273,143,273,81.66,20,5984)}Gëzuar edhe për një vit tjetër
+Dialogue: 0,0:15:36.29,0:15:42.30,Signs,SIGN,0,0,0,,{\bord2\b0\fs15\c&H5E6160&\3c&HF2F2F2&\move(308,187.5,308,126.16,20,5984)}Kujdesu për veten gjatë punës
+Dialogue: 0,0:15:36.29,0:15:42.30,Signs,SIGN,0,0,0,,{\an7\bord2\b0\fs14\c&H5E6160&\3c&HF2F2F2&\move(235,264.5,235,203.16,20,5984)}Meqë ra fjala, ç'dreqin është ai personazh i çuditshëm?\NNuk më besohet sa aspak i lezetshëm është
+Dialogue: 0,0:15:36.29,0:15:38.23,DefaultItalics,YAMADA,0,0,0,,Gëzuar shumë Vitin e Ri.
+Dialogue: 0,0:15:38.23,0:15:40.33,DefaultItalics,GOTOU,0,0,0,,Kujdesu për veten gjatë punës.
+Dialogue: 0,0:15:40.33,0:15:42.30,DefaultItalics,GOTOU,0,0,0,,Meqë ra fjala, ç'dreqin është ai\Npersonazh i çuditshëm?
+Dialogue: 1,0:15:41.75,0:15:43.04,DefaultTop,YAMOM,0,0,0,,Hej.
+Dialogue: 0,0:15:43.04,0:15:46.02,Default,YAMOM,0,0,0,,Mjaft ndenje e mërzitur dhe ndihmo të pastrojmë.
+Dialogue: 0,0:15:46.02,0:15:46.55,Default,TAYAMA,0,0,0,,Në rregull.
+Dialogue: 0,0:15:51.81,0:15:54.31,Signs,SIGN,0,0,0,,{\b0\fs15\pos(321.5,52.5)}Shefja
+Dialogue: 0,0:15:51.81,0:15:54.31,Signs,SIGN,0,0,0,,{\bord1.5\fnComic Sans MS\fs36\c&H5448CF&\3c&HF2F3FF&\pos(251,133)}Gëzuar
+Dialogue: 0,0:15:51.81,0:15:54.31,Signs,SIGN,0,0,0,,{\bord2\b0\fs15\c&H5E6160&\3c&HF2F2F2&\pos(329,235.5)}Gëzuar Vitin e Ri
+Dialogue: 0,0:15:51.81,0:15:54.31,Signs,SIGN,0,0,0,,{\bord2\b0\fs15\c&H5E6160&\3c&HF2F2F2&\pos(267.5,289)}Gëzuar edhe për një vit tjetër
+Dialogue: 0,0:15:51.80,0:15:54.30,Signs,SIGN,0,0,0,,{\bord2\b0\fs15\c&H5E6160&\3c&HF2F2F2&\pos(301.5,341)}Kujdesu për veten gjatë punës
+Dialogue: 0,0:15:52.15,0:15:53.87,DefaultItalicsTop,GOTOU,0,0,0,,Nuk më besohet sa aspak i lezetshëm është.
+Dialogue: 0,0:15:54.31,0:15:56.44,DefaultItalics,TAYAMA,0,0,0,,Të lutem, është i lezetshëm.
+Dialogue: 0,0:15:56.44,0:15:57.84,DefaultItalics,TAYAMA,0,0,0,,I ngjan pak edhe atij gjithashtu.
+Dialogue: 0,0:16:02.18,0:16:05.33,Default,YAMADAD,0,0,0,,H-Hej, meqë je kthyer në shtëpi,
+Dialogue: 0,0:16:05.33,0:16:08.02,Default,YAMADAD,0,0,0,,pse nuk shkojmë te tempulli?
+Dialogue: 0,0:16:08.02,0:16:10.44,Default,TAYAMA,0,0,0,,Po mendohem. Më duket e bezdisshme.
+Dialogue: 0,0:16:10.44,0:16:11.90,Default,YAMADAD,0,0,0,,E bezdisshme...?
+Dialogue: 0,0:16:11.90,0:16:15.90,Default,YAMOM,0,0,0,,Motrat e tua nuk erdhën.\NBëj gjëra familjare me të, të lutem.
+Dialogue: 0,0:16:15.90,0:16:18.83,Default,YAMOM,0,0,0,,Hajde shkojmë. Do ta detyroj të të blejë ramen.
+Dialogue: 0,0:16:20.95,0:16:22.67,Default,TAYAMA,0,0,0,,Besoj se kjo zgjidhje bën.
+Dialogue: 0,0:16:25.17,0:16:30.78,DefaultItalics,TAYAMA,0,0,0,,Teksa jam atje, do t'u lutem perëndive\Nqë ta tolerojnë pak atë djalin këtë vit.
+Dialogue: 0,0:16:31.19,0:16:34.93,DefaultItalics,TAYAMA,0,0,0,,Vë bast se tani po dëshpërohet pasi ka tërhequr\Nnjë fat të keq pikërisht në këtë moment.
+Dialogue: 0,0:16:35.43,0:16:38.44,Signs,SIGN,0,0,0,,{\fs20\bord2.5\fnTimes New Roman\an7\c&H340C0E&\3c&HF6F6F6&}Fati\N{\fs25}Fat i Keq\N\N{\fs16}Idhulli yt ndodhet pranë teje.\NJo se do ta kuptosh.
+Dialogue: 0,0:16:39.89,0:16:41.66,Default,SISAKI,0,0,0,,Vëlla, të doli prapë fat i keq?
+Dialogue: 0,0:16:41.66,0:16:42.80,Default,NIECE,0,0,0,,Fat i keq?
+Dialogue: 0,0:16:42.80,0:16:45.77,Default,SISAKI,0,0,0,,Këtë e bën çdo vit.\NËshtë pothuajse një dhunti.
+Dialogue: 0,0:16:45.77,0:16:47.57,Default,SASAKI,0,0,0,,Një dhunti për të cilën nuk gëzohem fare.
+Dialogue: 0,0:16:47.97,0:16:49.90,Default,SISAKI,0,0,0,,A do ta ndërrosh me fatin tim të madh?
+Dialogue: 0,0:16:49.90,0:16:53.80,Default,SASAKI,0,0,0,,Mos e bëj atë! Jam mësuar me këtë tashmë.
+Dialogue: 0,0:16:53.80,0:16:56.45,Default,SASAKI,0,0,0,,Po shkoj të pi një cigare.
+Dialogue: 0,0:16:56.45,0:16:59.65,Default,SISAKI,0,0,0,,Po? Ne do të jemi këtu duke blerë haj验证mali.
+Dialogue: 0,0:17:00.45,0:17:01.10,Default,SASAKI,0,0,0,,U kuptua.
+Dialogue: 0,0:17:01.10,0:17:02.33,Default,NIECE,0,0,0,,Xhaxha...
+Dialogue: 0,0:17:02.33,0:17:04.10,Default,SASAKI,0,0,0,,Po kthehem menjëherë.
+Dialogue: 0,0:17:04.10,0:17:06.45,Default,SISAKI,0,0,0,,Të lutem mos bjer me hundë në tokë\Nqë në fillim të vitit të ri.
+Dialogue: 0,0:17:06.45,0:17:07.71,Default,SASAKI,0,0,0,,S'ka shans!
+Dialogue: 0,0:17:23.63,0:17:27.31,DefaultItalics,SASAKI,0,0,0,,Pra, është e çuditshme që vazhdoj të tërheq\Nfat të keq çdo vit?
+Dialogue: 0,0:17:27.83,0:17:30.23,DefaultItalics,SASAKI,0,0,0,,Mbase duhet të bëj një spastrim shpirtëror.
+Dialogue: 0,0:17:34.18,0:17:38.12,DefaultItalics,SASAKI,0,0,0,,Hej, fat të keq tërhoqa edhe vitin e kaluar,
+Dialogue: 0,0:17:39.62,0:17:42.30,DefaultItalics,SASAKI,0,0,0,,por e gjeta atë për të më ngritur moralin,
+Dialogue: 0,0:17:43.24,0:17:44.55,DefaultItalics,SASAKI,0,0,0,,dhe më pas...
+Dialogue: 0,0:17:46.38,0:17:51.04,DefaultItalics,SASAKI,0,0,0,,Ishte një vit i mrekullueshëm. Pata veçse\Nfat të shkëlqyer në takimin me njerëz të rinj.
+Dialogue: 0,0:17:56.45,0:17:59.92,DefaultItalics,SASAKI,0,0,0,,Shpresoj që ajo të jetë shëruar nga ftohja.
+Dialogue: 0,0:18:04.52,0:18:06.65,Signs,SIGN,0,0,0,,{\fad(772,1)\fs16\bord2\c&HE6E0DB&\3c&H583B9B&\frz9.13\fax-0.15\pos(75.5,60.5)}24 Orë
+Dialogue: 0,0:18:04.52,0:18:06.65,Signs,SIGN,0,0,0,,{\fad(772,1)\fs20\fnArial Black\bord2\c&H3A15B1&\3c&HF2EDE5&\fax-0.2\4c&H85634B&\shad2\frz10.64\pos(190,90.5)}Supermarket S
+Dialogue: 0,0:18:10.79,0:18:11.93,Default,SASAKI,0,0,0,,Tayama-san!
+Dialogue: 0,0:18:13.15,0:18:15.21,Default,TAYAMA,0,0,0,,Hej, qenka Sasaki-san.
+Dialogue: 0,0:18:15.21,0:18:18.32,Default,SASAKI,0,0,0,,Më falni. M'u desh t'ju thërrisja\Nsapo ju dallova.
+Dialogue: 0,0:18:18.32,0:18:20.04,Default,SASAKI,0,0,0,,Gëzuar Vitin e Ri.
+Dialogue: 0,0:18:20.31,0:18:24.29,Default,TAYAMA,0,0,0,,Edhe juve. A jeni\Nme pushimet e Vitit të Ri?
+Dialogue: 0,0:18:24.55,0:18:27.88,Default,SASAKI,0,0,0,,Po. Në fakt, sot është dita e fundit.
+Dialogue: 0,0:18:27.88,0:18:32.03,Default,SASAKI,0,0,0,,Munda të shkoja të shihja familjen këtë vit\Ndhe kalova pushime të bukura.
+Dialogue: 0,0:18:32.03,0:18:33.80,Default,SASAKI,0,0,0,,Tani kam frikë nga pasojat.
+Dialogue: 0,0:18:35.79,0:18:38.59,Default,TAYAMA,0,0,0,,Dukesh sikur do të vdesësh nesër.
+Dialogue: 0,0:18:40.81,0:18:45.44,Default,TAYAMA,0,0,0,,Sapo po bëhesha gati të dilja pas për një cigare.\NDo të më bashkohesh, apo jo?
+Dialogue: 0,0:18:46.11,0:18:47.00,Default,SASAKI,0,0,0,,A më lejohet?
+Dialogue: 0,0:18:49.06,0:18:50.25,Default,TAYAMA,0,0,0,,Të lejohet.
+Dialogue: 0,0:18:50.89,0:18:55.07,Default,TAYAMA,0,0,0,,Do të vazhdosh të pish\Nduhan me mua edhe vitin tjetër.
+Dialogue: 0,0:18:56.63,0:19:01.39,Default,SASAKI,0,0,0,,Ah, po. Do ta vlerësoja shumë.
+Dialogue: 0,0:19:01.39,0:19:05.51,Default,SASAKI,0,0,0,,Prit, e dëgjuat atë? Isha i sigurt...
+Dialogue: 0,0:19:08.71,0:19:10.44,Default,SASAKI,0,0,0,,Ajo iku!
+Dialogue: 0,0:19:08.71,0:19:10.96,Signs,SIGN,0,0,0,,{\fs28\an7\bord2.5\fnArial Black\c&H399AE5&\3c&H161515&\pos(441.5,9)}Ajo nuk priti\Npër përgjigjen time!!
+Dialogue: 1,0:19:08.71,0:19:10.96,Signs,SIGN,0,0,0,,{\fs28\blur3\alpha&H66&\an7\fnArial Black\c&H2B5A9A&\pos(441.5,9)}Ajo nuk priti\Npër përgjigjen time!!
+Dialogue: 0,0:19:11.67,0:19:14.22,Default,SASAKI,0,0,0,,T-Tayama-san? Oh, ja ku qenkeni.
+Dialogue: 0,0:19:14.22,0:19:16.47,Default,TAYAMA,0,0,0,,Çfarë po prisje? Shkojmë.
+Dialogue: 0,0:19:16.78,0:19:18.26,Default,SASAKI,0,0,0,,Jam i lumtur, megjithatë.
+Dialogue: 0,0:19:19.28,0:19:22.97,Default,SASAKI,0,0,0,,Dukeni sikur jeni bërë mirë plotësisht tani.
+Dialogue: 0,0:19:22.97,0:19:28.70,Default,TAYAMA,0,0,0,,Oh. Mos ishe i shqetësuar\Nderi në momentin që më pe?
+Dialogue: 0,0:19:28.70,0:19:30.50,Default,SASAKI,0,0,0,,Sigurisht që isha.
+Dialogue: 0,0:19:31.50,0:19:36.49,Default,SASAKI,0,0,0,,Isha larg në Mie. Gjithçka që\Nmund të bëja ishte t'ju mbaja në mendje.
+Dialogue: 0,0:19:38.49,0:19:41.27,Default,SASAKI,0,0,0,,Jam i kënaqur tani që\Narrita t'ju shihja, sidoqoftë.
+Dialogue: 0,0:19:42.94,0:19:45.87,Default,SASAKI,0,0,0,,Më vjen mirë të shoh që\Njeni veshur me të vërtetë trashë!
+Dialogue: 0,0:19:46.62,0:19:49.17,Default,TAYAMA,0,0,0,,Më lër të të pyes për çdo rast.
+Dialogue: 0,0:19:49.17,0:19:52.83,Default,TAYAMA,0,0,0,,Mos mendon se jam ndonjë\Nrrugaçe e veshur shkujdesur apo diçka e tillë?
+Dialogue: 0,0:19:52.83,0:19:56.91,Default,SASAKI,0,0,0,,Oh, jo! Thjesht,\Nasgjë s'është më e mirë se të qëndrosh ngrohtë!
+Dialogue: 0,0:19:59.83,0:20:01.89,Default,TAYAMA,0,0,0,,Thjesht ulu.
+Dialogue: 0,0:20:02.26,0:20:05.55,Default,SASAKI,0,0,0,,Mirë. Më falni.
+Dialogue: 0,0:20:11.85,0:20:12.74,Default,TAYAMA,0,0,0,,Tani dëgjo këtu, plakush.
+Dialogue: 0,0:20:12.74,0:20:14.65,Default,SASAKI,0,0,0,,Ky jam unë! Zoti Plakush!
+Dialogue: 0,0:20:22.54,0:20:26.41,Default,TAYAMA,0,0,0,,Mbaj mend që shqetësoheshe edhe vitin e kaluar\Nse mos më ftohej barku.
+Dialogue: 0,0:20:26.41,0:20:29.76,Default,TAYAMA,0,0,0,,Modës nuk i intereson e ftohta,\Ne nxehta apo dhimbja!
+Dialogue: 0,0:20:29.76,0:20:33.50,Default,TAYAMA,0,0,0,,Gjithçka ka të bëjë me atë që të bën të ndihesh\Nmë mirë në atë çast të caktuar.
+Dialogue: 0,0:20:33.50,0:20:37.67,Default,TAYAMA,0,0,0,,Do të dukesha po aq bukur edhe me\Npantallona të shkurtra dhe geta sonte!
+Dialogue: 0,0:20:38.36,0:20:41.18,Default,TAYAMA,0,0,0,,Duhet të pranosh të keqen bashkë me të mirën\Nnë modë! Njëlloj si pirja e duhanit!
+Dialogue: 0,0:20:41.48,0:20:42.15,Default,SASAKI,0,0,0,,E qartë.
+Dialogue: 0,0:20:42.84,0:20:44.06,Default,TAYAMA,0,0,0,,Ngriji duart.
+Dialogue: 0,0:20:44.59,0:20:46.72,Default,SASAKI,0,0,0,,Kështu? Pse?
+Dialogue: 0,0:20:48.35,0:20:51.94,Default,SASAKI,0,0,0,,Uou! Çfarë po bëni, Tayama-san?!
+Dialogue: 0,0:20:58.28,0:21:05.30,Default,TAYAMA,0,0,0,,Në mos tjetër, besoj se\Njam më rezistente ndaj të ftohtit se ti.
+Dialogue: 0,0:21:05.30,0:21:07.52,Default,SASAKI,0,0,0,,M-Më zutë ngushtë këtu.
+Dialogue: 0,0:21:08.14,0:21:10.49,DefaultItalics,GOTOU,0,0,0,,Sasaki nuk merr vesh nga moda!
+Dialogue: 0,0:21:10.49,0:21:13.26,DefaultItalics,GOTOU,0,0,0,,Sasaki është 45 vjeç, një plak i vërtetë!
+Dialogue: 0,0:21:13.26,0:21:15.85,DefaultItalics,GOTOU,0,0,0,,Gjithmonë i ka zgjedhur rrobat e tij\Nbazuar në temperaturën e ditës!
+Dialogue: 0,0:21:15.85,0:21:16.92,DefaultItalics,GOTOU,0,0,0,,Ta-dam!
+Dialogue: 0,0:21:17.21,0:21:20.05,DefaultItalics,SASAKI,0,0,0,,Nga e dinte ajo që kisha futur\Nngrohëse xhepi aty brenda?
+Dialogue: 0,0:21:22.64,0:21:28.43,Signs,SIGN,0,0,0,,{\fad(683,1)\fscx91.6\fscy91.6\t(16,5772,\fscx100\fscy100)\fs12\c&HF3F3F3&\frz4.753\fax-0.05\bord3\move(322.96,86.72,323,78.5,16,5772)\3c&HF3F3F3&}Ngrohëse Xhepi
+Dialogue: 1,0:21:22.64,0:21:28.43,Signs,SIGN,0,0,0,,{\fad(683,1)\fscx91.6\fscy91.6\t(16,5772,\fscx100\fscy100)\fs12\c&H55B0E9&\frz4.753\fax-0.05\bord1\move(322.96,86.72,323,78.5,16,5772)\3c&H4D4D4D&}Ngrohëse Xhepi
+Dialogue: 0,0:21:23.56,0:21:27.90,DefaultItalics,YAMADA,0,0,0,,Me siguri i ngjit ato\Nnë trup për t'u ngrohur.
+Dialogue: 0,0:21:33.79,0:21:36.32,Default,TAYAMA,0,0,0,,A nuk ke diçka për të më thënë?
+Dialogue: 0,0:21:36.61,0:21:38.32,Default,SASAKI,0,0,0,,Hë? Oh...
+Dialogue: 0,0:21:38.32,0:21:43.99,DefaultItalics,SASAKI,0,0,0,,Ju kërkoj ndjesë që ju dhashë mend për veshjet\Nkur vetë kam vënë ngrohëse xhepi!
+Dialogue: 0,0:21:44.96,0:21:46.98,Default,SASAKI,0,0,0,,Po, kam.
+Dialogue: 0,0:21:46.98,0:21:50.31,Default,SASAKI,0,0,0,,Gëzuar edhe për një vit tjetër\Nsë bashku, Tayama-san.
+Dialogue: 0,0:21:51.34,0:21:52.39,Default,TAYAMA,0,0,0,,Çfarë?
+Dialogue: 0,0:21:52.71,0:21:57.36,Default,SASAKI,0,0,0,,Pasi ju bëra ta thoshit vetë herën e fundit,\Njam i lumtur që ua kalova kësaj radhe.
+Dialogue: 0,0:22:00.13,0:22:02.87,DefaultItalics,TAYAMA,0,0,0,,Nuk e kisha fjalën\Npër atë, ta dish.
+Dialogue: 0,0:22:16.11,0:22:20.07,Credits,CREDITS,0,0,0,,Përkthimi: Sriram Gurunathan
+Dialogue: 0,0:22:21.07,0:22:25.08,Credits,CREDITS,0,0,0,,Redaktimi & Radhitja: Geoff Mazzolini\NSinkronizimi: Krzysztof Kunc
+Dialogue: 0,0:22:25.58,0:22:28.58,Credits,CREDITS,0,0,0,,Kontrolli i Cilësisë: Zachary Carlysle\NKontrolli i Përkthimit: Sho Stifler
+Dialogue: 0,0:23:44.99,0:23:49.99,Signs_EpTitle,EPTITLE,0,0,0,,{\blur1\pos(232,258)}Cig 12\N{\fs24}Duke e Vazhduar\NPas Supermarketit Me Ty
+
