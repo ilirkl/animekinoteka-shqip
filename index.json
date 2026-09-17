@@ -321,6 +321,20 @@
       "assFile": "ass/at-688706.sq.ass",
       "offset": 0,
       "sourceReleaseId": "688706"
+    },
+    {
+      "id": "at-688825",
+      "title": "Hana-Kimi Season 2",
+      "episode": "13",
+      "malId": 63780,
+      "anilistId": null,
+      "slugs": [
+        "hana-kimi-season-2"
+      ],
+      "file": "files/at-688825.sq.vtt",
+      "assFile": "ass/at-688825.sq.ass",
+      "offset": 0,
+      "sourceReleaseId": "688825"
     }
   ]
 }
