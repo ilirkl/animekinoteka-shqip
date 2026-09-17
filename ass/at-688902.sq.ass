@@ -1,0 +1,352 @@
+﻿[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Internal,Roboto Medium,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Top Internal,Roboto Medium,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: overlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Overlap Internal,Roboto Medium,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Overlap Top,Roboto Medium,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback Internal,Roboto Medium,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback Top,Roboto Medium,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Narrator,Roboto Medium,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: TypePlaceholder,Arial,19,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,8,10,10,20,1
+Style: Credits,Trebuchet MS,23,&H00000000,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,0,0,20,1
+Style: main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: italicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashback italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashbackitalicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlaptop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:38.08,0:01:41.71,top,sign,0,0,0,,EPISODI 11: RELIKJA E TIAN FU
+Dialogue: 0,0:01:38.08,0:01:39.90,main,Person 1,0,0,0,,Kjo do të jetë qejf.
+Dialogue: 0,0:01:40.59,0:01:42.41,main,Person 2,0,0,0,,Po, padyshim që po.
+Dialogue: 0,0:01:42.41,0:01:43.62,main,Person 2,0,0,0,,Do ta provosh njëherë?
+Dialogue: 0,0:01:44.07,0:01:46.31,main,Ryoga,0,0,0,,Mirë pra. Le të luajmë.
+Dialogue: 0,0:01:51.34,0:01:53.16,main,Guest 1,0,0,0,,A mund të nxitoni pak?
+Dialogue: 0,0:01:54.14,0:01:55.73,main,Guest 3,0,0,0,,Dreqi, humba.
+Dialogue: 0,0:01:55.73,0:01:56.88,main,Guest 3,0,0,0,,Mirë, ja ku po fillojmë!
+Dialogue: 0,0:01:56.88,0:01:58.26,main,Player,0,0,0,,Kjo është e pamundur!
+Dialogue: 0,0:02:00.30,0:02:03.27,main,Mary,0,0,0,,Nuk ka asgjë të pamundur këtu.\NThjesht nuk di të luash.
+Dialogue: 0,0:02:03.62,0:02:07.06,main,Player,0,0,0,,Askush nuk merr thjesht kështu\Nletra perfekte gjithnjë!
+Dialogue: 0,0:02:07.06,0:02:08.06,main,Ryoga,0,0,0,,Hej.
+Dialogue: 0,0:02:08.32,0:02:12.93,main,Ryoga,0,0,0,,Nëse mbarove, zhduku.\NDua të luaj një raund edhe unë.
+Dialogue: 0,0:02:12.93,0:02:14.03,main,Player,0,0,0,,Çfarë the?!
+Dialogue: 0,0:02:17.31,0:02:19.54,main,Player,0,0,0,,Pff, çfarë dite e poshtër.
+Dialogue: 0,0:02:19.54,0:02:22.12,main,Mary,0,0,0,,Kush është ky? Nuk të kam parë kurrë këtu më parë.
+Dialogue: 0,0:02:22.59,0:02:24.21,main,Ryoga,0,0,0,,Do të më njohësh së shpejti.
+Dialogue: 0,0:02:25.49,0:02:26.54,main,Mary,0,0,0,,Ulu.
+Dialogue: 0,0:02:29.87,0:02:30.80,main,Ryoga,0,0,0,,Straight.
+Dialogue: 0,0:02:30.80,0:02:32.05,main,Ryoga,0,0,0,,Katër dysha.
+Dialogue: 0,0:02:32.05,0:02:33.30,main,Ryoga,0,0,0,,Tre asa.
+Dialogue: 0,0:02:35.10,0:02:37.05,main,Ryoga,0,0,0,,Royal flush.
+Dialogue: 0,0:02:37.05,0:02:40.39,main,Mary,0,0,0,,E pamundur! Si mund të ndodhë kjo?
+Dialogue: 0,0:02:48.12,0:02:50.90,main,Ryoga,0,0,0,,Monedha e Bekuar nga\NPerëndesha e Fatit.
+Dialogue: 0,0:02:51.28,0:02:55.13,main,Ryoga,0,0,0,,Një relike e lindur nga të gjitha monedhat\Nqë njerëzit hodhën për fat të mirë.
+Dialogue: 0,0:02:56.31,0:02:57.75,main,Mary,0,0,0,,S-Si e...
+Dialogue: 0,0:02:57.75,0:03:00.41,main,Ryoga,0,0,0,,E përdore këtë për të mashtruar që\Ntë merrje gjithmonë letra të mira.
+Dialogue: 0,0:03:00.85,0:03:02.91,main,Ryoga,0,0,0,,Megjithatë, është vetëm e Shkallës C,
+Dialogue: 0,0:03:03.80,0:03:08.18,main,Ryoga,0,0,0,,ndërsa të gjithë ju po mbështilleni\Nnga aura e Falimentimit e Shkallës SS.
+Dialogue: 0,0:03:10.53,0:03:12.67,main,Bodyguard,0,0,0,,A jeni e sigurt që gjithçka është në rregull?
+Dialogue: 0,0:03:13.45,0:03:14.84,main,Bodyguard,0,0,0,,Zonjusha Holton!
+Dialogue: 0,0:03:15.54,0:03:17.84,italics,Ryoga,0,0,0,,Ajo është përmirësuar shumë\Nnë kontrollimin e relikes.
+Dialogue: 0,0:03:18.91,0:03:22.43,italics,Ryoga,0,0,0,,Tani që të gjithë përveç Kotaros\Ndhe meje janë kapluar nga fati i keq,
+Dialogue: 0,0:03:22.43,0:03:25.68,italics,Ryoga,0,0,0,,të gjitha letrat e mira mund të\Npërfundojnë vetëm tek unë.
+Dialogue: 0,0:03:27.60,0:03:29.19,main,Mary,0,0,0,,Merre dhe zhduku.
+Dialogue: 0,0:03:29.19,0:03:30.22,main,Ryoga,0,0,0,,Kjo nuk mjafton.
+Dialogue: 0,0:03:30.22,0:03:32.37,main,Mary,0,0,0,,Çfarë? Kjo është pikërisht...
+Dialogue: 0,0:03:32.37,0:03:34.54,main,Ryoga,0,0,0,,Dhe ç'të themi për ndëshkimin tënd\Npër mashtrim?
+Dialogue: 0,0:03:34.54,0:03:36.61,main,Ryoga,0,0,0,,Një milion dollarë për person.
+Dialogue: 0,0:03:37.35,0:03:39.57,main,Mary,0,0,0,,Çfarë thua?! Nuk mundesh thjesht...
+Dialogue: 0,0:03:42.72,0:03:47.37,main,Ryoga,0,0,0,,Nuk mendove se do të shpëtoje\Npa u lagur, apo jo?
+Dialogue: 0,0:03:47.89,0:03:51.59,main,Ryoga,0,0,0,,Bujar siç jam, do të pranoj\Nforma pagese të tjera përveç parave.
+Dialogue: 0,0:03:52.35,0:03:55.79,main,Ryoga,0,0,0,,Më jep Reliken e Tian Fu-së,\Natë që u përdor për të joshur fëmijët.
+Dialogue: 0,0:03:56.30,0:03:57.59,main,Mary,0,0,0,,Ç-Çfarë?!
+Dialogue: 0,0:03:57.99,0:04:02.22,main,Ryoga,0,0,0,,Pastaj më trego saktësisht\Nçfarë po bën Kiera këtu.
+Dialogue: 0,0:04:02.83,0:04:03.85,main,Mary,0,0,0,,More poshtër...
+Dialogue: 0,0:04:03.85,0:04:07.14,main,Mary,0,0,0,,E ke seriozisht?\NPrandaj na u afrove?
+Dialogue: 0,0:04:07.14,0:04:09.13,main,Mary,0,0,0,,Nuk do të marrësh asnjë fjalë të vetme...
+Dialogue: 0,0:04:10.59,0:04:12.06,main,Mary,0,0,0,,Barku im...
+Dialogue: 0,0:04:12.95,0:04:14.72,main,Colleague 1,0,0,0,,Çfarë ke, Mary?!
+Dialogue: 0,0:04:19.41,0:04:22.66,italics,Ryoga,0,0,0,,O-oh. Mos vallë e teprova?
+Dialogue: 0,0:04:25.31,0:04:27.09,main,Bodyguard,0,0,0,,Z-Zonjusha Holton!
+Dialogue: 0,0:04:27.09,0:04:28.41,main,Bodyguard,0,0,0,,Dikush po bërtet!
+Dialogue: 0,0:04:31.49,0:04:32.67,main,Bodyguard,0,0,0,,Zonjusha Holton...
+Dialogue: 0,0:04:35.25,0:04:36.26,main,Mary,0,0,0,,Ndalo!
+Dialogue: 0,0:04:36.64,0:04:38.97,main,Mary,0,0,0,,Do të flas! Vetëm bëje të pushojë!
+Dialogue: 0,0:04:39.55,0:04:42.34,italics,Ryoga,0,0,0,,Po funksionon, sidoqoftë,\Nkështu që mendoj se gjithçka është në rregull.
+Dialogue: 0,0:04:43.08,0:04:45.45,main,Ryoga,0,0,0,,Pse nuk the kështu më parë?\NPo të dëgjoj me vëmendje.
+Dialogue: 0,0:04:45.45,0:04:49.06,main,Mary,0,0,0,,Në veri! Ndodhet një varr\Nnë pyllin në veri!
+Dialogue: 0,0:04:49.46,0:04:54.44,main,Mary,0,0,0,,Relikja e Tian Fu-së ndodhet atje gjithashtu...\NNuk di asgjë më shumë rreth...
+Dialogue: 0,0:04:55.63,0:04:57.40,main,Bodyguard,0,0,0,,Shpejt! Është Zonjusha Holton!
+Dialogue: 0,0:04:57.40,0:04:58.41,main,Kotaro,0,0,0,,Çfarë?
+Dialogue: 0,0:05:04.06,0:05:06.37,main,Ryoga,0,0,0,,Ku jeni, Irene-san? Përgjigjuni!
+Dialogue: 0,0:05:09.45,0:05:13.46,italics,Ryoga,0,0,0,,Dreqi, ku shkoi vallë?\NKy duhet të jetë rreziku i relikes.
+Dialogue: 0,0:05:13.46,0:05:17.53,italics,Ryoga,0,0,0,,Irene nuk është mësuar me përdorimin e relikeve.\NNuk duhej t'ia kisha dhënë këtë detyrë.
+Dialogue: 0,0:05:20.78,0:05:23.14,italics,Ryoga,0,0,0,,Të vrapoj kuturu\Nnuk do të më çojë asgjëkundi.
+Dialogue: 0,0:05:23.91,0:05:25.12,italics,Ryoga,0,0,0,,Mendo pak.
+Dialogue: 0,0:05:26.73,0:05:29.64,italics,Ryoga,0,0,0,,Më duhet vetëm të gjurmoj\Naurën e relikes së Irene-s.
+Dialogue: 0,0:05:40.94,0:05:41.99,italics,Ryoga,0,0,0,,E gjeta!
+Dialogue: 0,0:05:42.31,0:05:44.87,italics,Ryoga,0,0,0,,Atje tej? Është afër!
+Dialogue: 0,0:05:56.74,0:06:00.24,main,Ryoga,0,0,0,,Pse erdhi këtu në vend të hotelit?
+Dialogue: 0,0:06:13.70,0:06:16.23,main,Irene,0,0,0,,Oh, Ryoga-san...
+Dialogue: 0,0:06:16.23,0:06:17.69,main,Ryoga,0,0,0,,Oh, pash Zotin.
+Dialogue: 0,0:06:19.59,0:06:22.19,main,Irene,0,0,0,,Vërtet qenke ti...
+Dialogue: 0,0:06:22.81,0:06:23.99,main,Ryoga,0,0,0,,Me siguri ke...
+Dialogue: 0,0:06:26.03,0:06:27.32,main,Ryoga,0,0,0,,Çfarë po bën vallë?
+Dialogue: 0,0:06:34.45,0:06:38.13,italics,Ryoga,0,0,0,,A-A është edhe kjo pjesë e rrezikut?
+Dialogue: 0,0:07:09.28,0:07:11.08,top,sign,0,0,0,,KËSHTU KËTË HERË, AJO KISHTE ETJE PËR BUZËT E TUA.
+Dialogue: 0,0:07:11.60,0:07:13.58,main,Ryoga,0,0,0,,Po, e kuptova vetë, faleminderit!
+Dialogue: 0,0:07:13.58,0:07:17.86,main,Ryoga,0,0,0,,Duhej të më kishe paralajmëruar\Nmë parë, korb i mallkuar!
+Dialogue: 0,0:07:22.64,0:07:24.62,main,Kiera,0,0,0,,Avion privat i familjes Holton?
+Dialogue: 0,0:07:24.62,0:07:29.56,main,Mary,0,0,0,,Po. Duket se dikush nga\Nfamilja po bashkëpunon me ta.
+Dialogue: 0,0:07:30.00,0:07:33.06,main,Mary,0,0,0,,Avioni privat aktualisht\Npo drejtohet për në Bent.
+Dialogue: 0,0:07:33.39,0:07:35.89,main,Kiera,0,0,0,,Familja Holton dhe Bent...
+Dialogue: 0,0:07:35.89,0:07:37.57,main,Kiera,0,0,0,,Sa zbavitëse.
+Dialogue: 0,0:07:47.91,0:07:50.16,top,sign,0,0,0,,PARALAJMËRIM\NPO HYNI NË NJË ZONË TË LEJUAR VETËM PËR FËMIJË.
+Dialogue: 0,0:07:50.16,0:07:52.76,italics,Ryoga,0,0,0,,Vetëm fëmijët lejohen të hyjnë...
+Dialogue: 0,0:07:52.76,0:07:55.70,italics,Ryoga,0,0,0,,Pra Relikja e Tian Fu-së vërtet ndodhet këtu.
+Dialogue: 0,0:07:55.70,0:07:59.42,top,sign,0,0,0,,KY VARR ËSHTË PUSHTUAR.\NRELIKJA KA TASHMË NJË PRONAR.
+Dialogue: 0,0:07:59.42,0:08:03.72,italics,Ryoga,0,0,0,,Atëherë pse nuk u vulos varri?
+Dialogue: 0,0:08:03.72,0:08:05.38,italics,Ryoga,0,0,0,,Çfarë po planifikon Kiera vallë?
+Dialogue: 0,0:08:06.16,0:08:08.39,main,Ryoga,0,0,0,,Më jep reliken e patates së ëmbël.
+Dialogue: 0,0:08:08.74,0:08:11.93,main,Kotaro,0,0,0,,Çfarë? Pataten e ëmbël? Mos më thuaj...
+Dialogue: 0,0:08:13.74,0:08:16.19,main,relic,0,0,0,,Jo! Nuk dua! Nuk dua fare!
+Dialogue: 0,0:08:16.19,0:08:17.44,main,relic,0,0,0,,Je kaq mizor!
+Dialogue: 0,0:08:23.83,0:08:25.66,main,Kotaro,0,0,0,,Ugh, kjo dhembi.
+Dialogue: 0,0:08:25.66,0:08:29.38,main,Kotaro,0,0,0,,Pash Zotin, Shef, a s'mund të hyjmë\Nnga hyrja normale për një herë të vetme?
+Dialogue: 0,0:08:29.38,0:08:31.68,main,Kotaro,0,0,0,,Më duhen njëqind jetë\Nvetëm për të mbijetuar pranë teje!
+Dialogue: 0,0:08:33.12,0:08:36.62,top,sign,0,0,0,,KY VARR ËSHTË PUSHTUAR NGA NJERËZIT.\NPRANDAJ MUND TË PËRDOREN MJETE NJERËZORE.
+Dialogue: 0,0:08:36.91,0:08:39.63,main,Ryoga,0,0,0,,Epo shiko, shiko.
+Dialogue: 0,0:08:40.26,0:08:41.94,main,Ryoga,0,0,0,,Madje kam edhe valë celulari.
+Dialogue: 0,0:08:41.94,0:08:43.13,main,Kotaro,0,0,0,,Sh-Shef.
+Dialogue: 0,0:08:43.83,0:08:45.28,main,Kotaro,0,0,0,,Sh-Shiko...
+Dialogue: 0,0:08:50.55,0:08:53.70,main,Kotaro,0,0,0,,Një fushë kaq e madhe nëntokë.
+Dialogue: 0,0:08:53.70,0:08:55.52,main,Kotaro,0,0,0,,Dhe fëmijët...
+Dialogue: 0,0:08:55.52,0:09:00.40,main,Kotaro,0,0,0,,Ajo shpërthim i sapododhur\Nas që i trembi fare ata.
+Dialogue: 0,0:09:00.76,0:09:03.48,main,Kotaro,0,0,0,,Mos janë nën hipnozë?
+Dialogue: 0,0:09:03.96,0:09:06.12,main,Ryoga,0,0,0,,Është padyshim e çuditshme.
+Dialogue: 0,0:09:06.99,0:09:09.61,top,sign,0,0,0,,FËMIJËT KONTROLLOHEN\NNGA RELIKJA E TIAN FU.
+Dialogue: 0,0:09:09.61,0:09:11.36,top,sign,0,0,0,,ATA KORRIN GJETHE ÇAJI NËN URDHRAT E SAJ.
+Dialogue: 0,0:09:14.03,0:09:17.37,top,sign,0,0,0,,ATYRE U ËSHTË DHURUAR\NFORCA E NJË MINOTAURI.
+Dialogue: 0,0:09:17.58,0:09:20.50,top,sign,0,0,0,,AROMA E ÇAJIT MUND TË KTHEJË TË VDEKURIT NË JETË,\NDHE EUFORIA QË SJELL ËSHTË E PAHARRUESHME.
+Dialogue: 0,0:09:20.95,0:09:23.49,italics,Ryoga,0,0,0,,Dreqi. Pikërisht siç e prisja...
+Dialogue: 0,0:09:23.49,0:09:27.59,italics,Ryoga,0,0,0,,Minotauri: një krijesë me\Ntrup njeriu dhe kokë demi.
+Dialogue: 0,0:09:27.59,0:09:29.51,italics,Ryoga,0,0,0,,Kjo mund të nënkuptojë vetëm...
+Dialogue: 0,0:09:30.11,0:09:33.36,main,Ryoga,0,0,0,,Kjo fushë çaji u krijua\Nnga Relikja e Shennong-ut.
+Dialogue: 0,0:09:33.36,0:09:35.01,main,Irene,0,0,0,,Shennong?
+Dialogue: 0,0:09:35.44,0:09:37.82,main,Ryoga,0,0,0,,Si shpikës i\Nmjeteve të para bujqësore,
+Dialogue: 0,0:09:37.82,0:09:40.00,main,Ryoga,0,0,0,,thuhet se ai i mësoi\Nnjerëzimit bujqësinë.
+Dialogue: 0,0:09:40.90,0:09:45.28,main,Ryoga,0,0,0,,Ai zbuloi se cilat bimë ishin\Ntë dobishme dhe cilat helmuese,
+Dialogue: 0,0:09:45.28,0:09:49.43,main,Ryoga,0,0,0,,dhe legjenda thotë se përdorte gjethe çaji\Npër të pastruar helmin nga trupi i tij.
+Dialogue: 0,0:09:50.40,0:09:52.74,main,Kotaro,0,0,0,,Po për Reliken e Tian Fu-së?
+Dialogue: 0,0:09:53.23,0:09:55.49,main,Ryoga,0,0,0,,Duhet të jetë diku këtu rrotull gjithashtu.
+Dialogue: 0,0:09:56.03,0:10:00.12,main,Ryoga,0,0,0,,Kur Kiera gërmoi këtë varr,\Ngjithçka që gjeti ishte fusha e çajit.
+Dialogue: 0,0:10:00.99,0:10:05.26,main,Ryoga,0,0,0,,Ajo e dinte që relikja e kishte krijuar,\Nkështu që vendosi ta vilte atë.
+Dialogue: 0,0:10:06.04,0:10:10.11,main,Ryoga,0,0,0,,Megjithatë, vetëm fëmijët\Nmund të hyjnë në këtë varr.
+Dialogue: 0,0:10:10.11,0:10:14.11,main,Ryoga,0,0,0,,Prandaj përdori Reliken e Tian Fu-së për t'i\Nkthyer fëmijët vendas në punëtorë.
+Dialogue: 0,0:10:16.02,0:10:20.81,main,Ryoga,0,0,0,,Shumë mirë! Sot do të kapim dy relike.
+Dialogue: 0,0:10:21.18,0:10:23.81,main,Irene,0,0,0,,Hë? Ryoga-san, fëmijët...
+Dialogue: 0,0:10:34.49,0:10:35.60,main,Bodyguard,0,0,0,,Zonjusha Holton!
+Dialogue: 0,0:10:37.82,0:10:39.93,main,Ryoga,0,0,0,,Litar, radha jote! Lidhi ata!
+Dialogue: 0,0:10:40.62,0:10:42.14,main,Rope,0,0,0,,U kuptua!
+Dialogue: 0,0:10:43.41,0:10:45.05,main,Rope,0,0,0,,Hajde luajmë!
+Dialogue: 0,0:10:47.15,0:10:49.96,main,Rope,0,0,0,,Hajde luajmë! Hajde luajmë!
+Dialogue: 0,0:10:50.41,0:10:52.31,main,Kotaro,0,0,0,,Uf, jemi ende gjallë!
+Dialogue: 0,0:10:52.31,0:10:53.47,main,Ryoga,0,0,0,,A është çdo gjë në rregull andej?
+Dialogue: 0,0:10:53.47,0:10:55.47,main,Bodyguard,0,0,0,,Po, gjithçka është mirë.
+Dialogue: 0,0:10:56.72,0:10:59.40,italics,Ryoga,0,0,0,,Ja ku qenke, relike.
+Dialogue: 0,0:10:59.40,0:11:03.16,italics,Ryoga,0,0,0,,Të vlerësoj që po lëshon\Nkaq shumë aurë.
+Dialogue: 0,0:11:12.18,0:11:15.28,main,Worm,0,0,0,,Au, au, au! Hiqeni nga unë!
+Dialogue: 0,0:11:15.28,0:11:17.84,main,Ryoga,0,0,0,,Oh? Nga po vjen ai zë?
+Dialogue: 0,0:11:17.84,0:11:19.78,main,Ryoga,0,0,0,,Aha, pra ja ku fshiheshe ti.
+Dialogue: 0,0:11:21.34,0:11:24.00,main,Worm,0,0,0,,S-Si dreqin më pikasët?
+Dialogue: 0,0:11:24.00,0:11:27.05,main,Ryoga,0,0,0,,Ti ishe ai që po lëshoje\Naq shumë aurë.
+Dialogue: 0,0:11:27.05,0:11:28.79,main,Worm,0,0,0,,Dreqi marrë!
+Dialogue: 0,0:11:29.73,0:11:31.86,main,Worm,0,0,0,,Çfarë lloj njeriu qenke ti?!
+Dialogue: 0,0:11:33.27,0:11:35.28,main,Worm,0,0,0,,Dhe ç'janë këto marifete të lira?
+Dialogue: 0,0:11:35.80,0:11:39.80,main,Ryoga,0,0,0,,Qetësohu tani. Nuk do të të lëndoj, kështu që qetësohu.
+Dialogue: 0,0:11:41.00,0:11:42.14,main,Worm,0,0,0,,Vërtet?
+Dialogue: 0,0:11:42.14,0:11:44.01,main,Ryoga,0,0,0,,Pse të të gënjej?
+Dialogue: 0,0:11:44.01,0:11:46.79,main,Ryoga,0,0,0,,Pra, a do të bësh një marrëveshje me ne?
+Dialogue: 0,0:11:46.79,0:11:49.34,main,Ryoga,0,0,0,,E di sa shumë i do paratë.
+Dialogue: 0,0:11:49.34,0:11:52.57,main,Ryoga,0,0,0,,Sa duhet të paguaj për të të blerë?
+Dialogue: 0,0:11:52.57,0:11:56.57,main,Kotaro,0,0,0,,Shef, pse po negocion\Nme një krimb vallë?
+Dialogue: 0,0:11:57.31,0:12:01.26,main,Ryoga,0,0,0,,Ashtu si Relikja e Tian Fu-së, kjo\Nështë një relike e llojit zhvatës.
+Dialogue: 0,0:12:01.26,0:12:04.24,main,Ryoga,0,0,0,,Kërkon para për shërbimet e saj.
+Dialogue: 0,0:12:04.24,0:12:05.91,main,Kotaro,0,0,0,,Çfarë? Para?!
+Dialogue: 0,0:12:07.06,0:12:09.54,main,Worm,0,0,0,,Qenke një njeri me të cilin bëhet biznes.
+Dialogue: 0,0:12:09.54,0:12:13.42,main,Worm,0,0,0,,Por mos u fry para se\Ntë dish sa kushtoj unë...
+Dialogue: 0,0:12:13.42,0:12:15.15,main,Ryoga,0,0,0,,Dy miliardë dollarë.
+Dialogue: 0,0:12:15.15,0:12:17.77,main,Bodyguard & Irene & Kotaro,0,0,0,,Çfarë?! D-Dy miliardë?!
+Dialogue: 0,0:12:17.77,0:12:18.93,main,Bodyguard & Irene & Kotaro,0,0,0,,Kaq shumë?!
+Dialogue: 0,0:12:18.93,0:12:22.43,main,Worm,0,0,0,,Oho, shumë bukur! Janë para të vërteta!
+Dialogue: 0,0:12:22.43,0:12:24.77,main,Worm,0,0,0,,Por kjo nuk është as afërsisht... ë?
+Dialogue: 0,0:12:25.15,0:12:28.02,main,Ryoga,0,0,0,,Ja edhe dy miliardë të tjera.\NKemi një marrëveshje?
+Dialogue: 0,0:12:30.14,0:12:31.98,main,Worm,0,0,0,,Po bie shi parash!
+Dialogue: 0,0:12:31.98,0:12:34.36,main,Ryoga,0,0,0,,Besoj se tani kemi një kontratë.
+Dialogue: 0,0:12:34.36,0:12:37.15,main,Worm,0,0,0,,Jo! Do të duhet të bësh\Nshumë më mirë se kaq.
+Dialogue: 0,0:12:38.26,0:12:41.99,main,Worm,0,0,0,,Kapari i pronarit tim aktual\Nishte dukshëm më i lartë.
+Dialogue: 0,0:12:42.67,0:12:46.50,italics,Ryoga,0,0,0,,Sa para i dha Kiera vallë?
+Dialogue: 0,0:12:46.50,0:12:50.46,italics,Ryoga,0,0,0,,I dhashë të gjitha paratë që kisha përgatitur,\Nplus rezervat e mia, bizhuteritë,
+Dialogue: 0,0:12:50.46,0:12:53.50,italics,Ryoga,0,0,0,,madje edhe orën... çdo gjë\Nqë kisha e që vlente para.
+Dialogue: 0,0:12:53.50,0:12:55.07,top,Irene,0,0,0,,Merre këtë gjithashtu!
+Dialogue: 0,0:12:54.11,0:12:56.67,italics,Ryoga,0,0,0,,Familja Holton kontribuoi edhe një pronë.
+Dialogue: 0,0:12:58.18,0:13:01.86,main,Worm,0,0,0,,Pronari im i ri qenka shumë më i pasur nga ç'duket!
+Dialogue: 0,0:12:58.97,0:13:02.84,top,sign,0,0,0,,MARRËVESHJA
+Dialogue: 0,0:12:59.47,0:13:02.84,top,sign,0,0,0,,U
+Dialogue: 0,0:12:59.97,0:13:02.84,top,sign,0,0,0,,KRYE
+Dialogue: 0,0:13:00.47,0:13:02.84,top,sign,0,0,0,,ME SUKSES
+Dialogue: 0,0:13:03.34,0:13:05.39,main,Worm,0,0,0,,Pra? Çfarë mund të bëj për ty?
+Dialogue: 0,0:13:05.68,0:13:08.22,main,Worm,0,0,0,,Hej! Çfarë po bën?!
+Dialogue: 0,0:13:09.30,0:13:12.41,main,Ryoga,0,0,0,,Më mirë bëhu gati të punosh\Nfort për të gjitha ato para.
+Dialogue: 0,0:13:12.80,0:13:14.15,main,Ryoga,0,0,0,,Urdhri im i parë:
+Dialogue: 0,0:13:14.49,0:13:18.06,main,Ryoga,0,0,0,,Bëj që fëmijët të paketojnë të gjitha\Ngjethet e çajit dhe fidanët.
+Dialogue: 0,0:13:18.06,0:13:19.65,main,Ryoga,0,0,0,,Pastaj do të dalim nga këtu.
+Dialogue: 0,0:13:19.65,0:13:22.82,main,Worm,0,0,0,,Hë? Kjo do ta zemërojë Reliken e Shennong-ut.
+Dialogue: 0,0:13:22.82,0:13:24.83,main,Ryoga,0,0,0,,Për atë kujdesem unë.
+Dialogue: 0,0:13:24.83,0:13:28.70,main,Worm,0,0,0,,Mirë. Kjo do të të kushtojë\Nedhe 70 milionë të tjera.
+Dialogue: 0,0:13:28.70,0:13:30.33,main,Ryoga,0,0,0,,Do akoma më shumë para?!
+Dialogue: 0,0:13:30.33,0:13:32.45,main,Worm,0,0,0,,Ajo që pagove më parë\Nishte vetëm kapari.
+Dialogue: 0,0:13:32.45,0:13:34.84,main,Worm,0,0,0,,Çdo urdhër kushton ekstra.
+Dialogue: 0,0:13:34.84,0:13:38.34,main,Ryoga,0,0,0,,Paratë do t'i marrësh kur të dalim\Nnga këtu! Mbylle gojën dhe puno!
+Dialogue: 0,0:13:39.76,0:13:42.97,main,Worm,0,0,0,,E kuptova, Zotëri!\NTë lutem mos më tund më!
+Dialogue: 0,0:13:43.61,0:13:45.26,main,Shennong,0,0,0,,Ju horra!
+Dialogue: 0,0:13:45.26,0:13:48.81,main,Shennong,0,0,0,,Si guxoni të braktisni\Nfushën time dhe të përpiqeni të arratiseni?
+Dialogue: 0,0:13:49.22,0:13:51.16,italics,Ryoga,0,0,0,,Ja ku është! Shennong!
+Dialogue: 0,0:13:51.16,0:13:54.98,main,Ryoga,0,0,0,,Krimb, udhëhiqi njerëzit e mi dhe\Nfëmijët drejt daljes.
+Dialogue: 0,0:13:55.49,0:13:57.90,main,Worm,0,0,0,,Vërtet do të më paguash më vonë, apo jo?
+Dialogue: 0,0:13:57.90,0:14:01.28,main,Ryoga,0,0,0,,A preferon të të kthej\Nnë një lëng krimbash toke?
+Dialogue: 0,0:14:02.15,0:14:06.19,main,Worm,0,0,0,,Uh, thjesht po bëja shaka.\NDo t'u tregoj rrugën më të shkurtër.
+Dialogue: 0,0:14:06.84,0:14:09.09,main,Ryoga,0,0,0,,Ja. Ju të gjithë ecni përpara.
+Dialogue: 0,0:14:09.09,0:14:10.75,main,Irene,0,0,0,,P-Po për ty?
+Dialogue: 0,0:14:11.32,0:14:15.25,main,Ryoga,0,0,0,,Mos u shqetësoni. Do të jem menjëherë pas jush\Nsapo të marr Reliken e Shennong-ut.
+Dialogue: 0,0:14:16.18,0:14:18.33,main,Shennong,0,0,0,,Mendon se mund të më marrësh mua?
+Dialogue: 0,0:14:25.72,0:14:26.89,main,Ryoga,0,0,0,,Çfarë problemi ke ti?!
+Dialogue: 0,0:14:29.47,0:14:30.93,main,Shennong,0,0,0,,Përpilliu sa të duash.
+Dialogue: 0,0:14:30.93,0:14:34.64,main,Shennong,0,0,0,,Do të paguash për faktin që më more punëtorët!
+Dialogue: 0,0:14:34.64,0:14:38.22,main,Shennong,0,0,0,,Do të të tërheq poshtë në\Nthellësitë më të errëta të ferrit!
+Dialogue: 0,0:14:41.03,0:14:42.57,main,Ryoga,0,0,0,,Po largohesh me bujë, ë?
+Dialogue: 0,0:14:43.08,0:14:44.06,main,Irene,0,0,0,,Ryoga-san!
+Dialogue: 0,0:15:06.30,0:15:07.64,main,Irene,0,0,0,,Ryoga-san!
+Dialogue: 0,0:15:06.30,0:15:07.64,top,Kotaro,0,0,0,,Shef!
+Dialogue: 0,0:15:09.80,0:15:11.93,main,Bodyguard,0,0,0,,Lëkundjet po bëhen gjithnjë e më të forta!
+Dialogue: 0,0:15:12.37,0:15:13.75,main,Bodyguard,0,0,0,,Duhet të dalim nga këtu!
+Dialogue: 0,0:15:30.76,0:15:32.52,main,Ryoga,0,0,0,,Hej! Mbaje me kujdes!
+Dialogue: 0,0:15:32.52,0:15:37.14,main,Shennong,0,0,0,,Pff! Nuk dua ta dëgjoj këtë\Nnga tipi që më shkatërroi fushën!
+Dialogue: 0,0:15:37.14,0:15:40.54,main,Shennong,0,0,0,,E mashtrove krimbin që të më tradhtonte.
+Dialogue: 0,0:15:41.42,0:15:44.47,italics,Ryoga,0,0,0,,Pra qenka maskuar si shkurre çaji.
+Dialogue: 0,0:15:45.35,0:15:49.86,italics,Ryoga,0,0,0,,Kjo është e rrezikshme. Ka shumë gjasa\Nqë Shennong të jetë i Shkallës Hyjnore.
+Dialogue: 0,0:15:50.29,0:15:52.62,italics,Ryoga,0,0,0,,Nëse dominimi im nuk mjafton, atëherë...
+Dialogue: 0,0:15:54.81,0:16:00.03,main,Shennong,0,0,0,,Oh? Po e heq armën?\NPo dorëzohesh që tani?
+Dialogue: 0,0:16:00.03,0:16:02.02,main,Ryoga,0,0,0,,Jo, thjesht dua të provoj diçka.
+Dialogue: 0,0:16:02.02,0:16:05.32,main,Shennong,0,0,0,,Të provosh çfarë? Për çfarë po flet?
+Dialogue: 0,0:16:05.32,0:16:09.28,main,Ryoga,0,0,0,,Duket se nuk ka asnjë rrugëdalje nga këtu.
+Dialogue: 0,0:16:09.28,0:16:14.88,main,Ryoga,0,0,0,,Por sikur pronari i këtij varri\Ntë vdiste, ndoshta do të hapej një?
+Dialogue: 0,0:16:15.33,0:16:16.29,main,Shennong,0,0,0,,Çfarë?
+Dialogue: 0,0:16:16.87,0:16:19.70,main,Ryoga,0,0,0,,Thëngjijtë e Parë të Homo Erectus-it.
+Dialogue: 0,0:16:19.70,0:16:22.79,main,Ryoga,0,0,0,,Një relike e Shkallës D që ia vodha CIA-s.
+Dialogue: 0,0:16:23.36,0:16:26.56,main,Shennong,0,0,0,,N-Nuk po planifikon të hidhesh\Nnë erë bashkë me mua, apo jo?!
+Dialogue: 0,0:16:26.56,0:16:29.97,main,Ryoga,0,0,0,,Rastësisht këtu ka\Ndru zjarri me bollëk.
+Dialogue: 0,0:16:29.97,0:16:33.51,main,Ryoga,0,0,0,,Vetëm një shkëndijë dhe gjithçka\Ndo të shpërthejë në flakë.
+Dialogue: 0,0:16:33.51,0:16:36.17,main,Shennong,0,0,0,,Idiot! Nëse e bën këtë, edhe ti do të...
+Dialogue: 0,0:16:36.17,0:16:39.53,main,Ryoga,0,0,0,,Për fatin tënd të keq,\Nunë vritem mjaft me vështirësi.
+Dialogue: 0,0:16:39.96,0:16:42.15,main,Ryoga,0,0,0,,Çliro të gjithë fuqinë tënde!
+Dialogue: 0,0:16:42.15,0:16:45.57,main,Ember,0,0,0,,Au, kjo dhemb! Do të më\Nthyesh! Ndalo!
+Dialogue: 0,0:16:45.88,0:16:48.32,main,Shennong,0,0,0,,Të ka lënë mendja fare?!
+Dialogue: 0,0:16:49.23,0:16:51.78,main,Shennong,0,0,0,,Nuk do të të lë të shpëtosh me këtë!
+Dialogue: 0,0:16:56.67,0:16:58.75,main,Ryoga,0,0,0,,Digj çdo gjë rreth e rrotull!
+Dialogue: 0,0:17:08.60,0:17:10.80,main,Kotaro,0,0,0,,Shpejt! Është një rrëshqitje shkëmbinjsh!
+Dialogue: 0,0:17:15.92,0:17:17.64,main,Irene,0,0,0,,Jo! Ryoga-san!
+Dialogue: 0,0:17:16.56,0:17:17.64,main,Kotaro,0,0,0,,Shef!
+Dialogue: 0,0:17:23.24,0:17:24.68,main,Irene,0,0,0,,Jo...
+Dialogue: 0,0:17:28.17,0:17:29.80,main,Kotaro,0,0,0,,Kjo nuk mund të jetë e vërtetë...
+Dialogue: 0,0:17:38.16,0:17:40.18,main,Ryoga,0,0,0,,Dreqi, çfarë rrëmuje.
+Dialogue: 0,0:17:46.62,0:17:49.90,main,Ryoga,0,0,0,,Pse ato fytyra të varura? Mos ka vdekur njeri?
+Dialogue: 0,0:17:52.99,0:17:54.18,main,Irene,0,0,0,,Ryoga-san!
+Dialogue: 0,0:17:54.67,0:17:58.56,main,Kotaro,0,0,0,,Menduam se kishe vdekur, Shef!
+Dialogue: 0,0:17:58.92,0:18:00.95,main,Ryoga,0,0,0,,Pse të kisha vdekur vallë?
+Dialogue: 0,0:18:00.95,0:18:03.06,main,Ryoga,0,0,0,,E hodha vetë varrin në erë.
+Dialogue: 0,0:18:03.88,0:18:05.44,main,Kotaro,0,0,0,,Pash Zotin e madh...
+Dialogue: 0,0:18:07.01,0:18:09.68,main,Irene,0,0,0,,Fatmirësisht jeni mirë!
+Dialogue: 0,0:18:09.68,0:18:12.04,main,Irene,0,0,0,,Kotaro-san ishte kaq i shqetësuar.
+Dialogue: 0,0:18:12.04,0:18:13.16,main,Kotaro,0,0,0,,Ashtu është!
+Dialogue: 0,0:18:13.16,0:18:16.13,main,Kotaro,0,0,0,,Prit, dua të them... sigurisht që u shqetësova!
+Dialogue: 0,0:18:16.13,0:18:18.08,main,Kotaro,0,0,0,,Je punëdhënësi im, në fund të fundit.
+Dialogue: 0,0:18:18.08,0:18:21.70,main,Kotaro,0,0,0,,Nëse të ndodh diçka ty,\Nunë humbas punën!
+Dialogue: 0,0:18:21.70,0:18:24.72,main,Kotaro,0,0,0,,Sigurisht që nuk dua ta humbas punën, ndaj...
+Dialogue: 0,0:18:23.99,0:18:25.44,main,Ryoga,0,0,0,,Kjo shkon për mrekulli atëherë.
+Dialogue: 0,0:18:26.30,0:18:28.60,main,Ryoga,0,0,0,,Keqkishe frikë për vendin tënd të punës?
+Dialogue: 0,0:18:28.60,0:18:32.13,main,Ryoga,0,0,0,,Atëherë do të gëzohesh që ka\Nedhe më shumë punë që po të pret tani.
+Dialogue: 0,0:18:32.61,0:18:35.28,main,Kotaro,0,0,0,,Sh-Shef, çfarë janë të gjitha këto?
+Dialogue: 0,0:18:35.67,0:18:36.64,main,Kotaro,0,0,0,,Mos më thuaj që...
+Dialogue: 0,0:18:36.64,0:18:40.14,main,Ryoga,0,0,0,,Relikja e Shennong-ut.\NM'u desh ta digjja atë pengesë.
+Dialogue: 0,0:18:40.14,0:18:41.72,top,Shennong,0,0,0,,Si mund të ndodhë kjo?
+Dialogue: 0,0:18:40.60,0:18:44.65,main,Ryoga,0,0,0,,Oh, dhe relikja strall\Nduhet të riparohet gjithashtu.
+Dialogue: 0,0:18:41.72,0:18:43.26,top,Shennong,0,0,0,,Pse ndodhi kjo?
+Dialogue: 0,0:18:45.10,0:18:47.05,main,Kotaro,0,0,0,,Nuk mund ta riparoj dot këtë...
+Dialogue: 0,0:18:47.05,0:18:48.11,main,Ryoga,0,0,0,,Çfarë?
+Dialogue: 0,0:18:48.61,0:18:51.27,main,Ryoga,0,0,0,,Mos the sapo se nuk mund t'i riparosh dot?
+Dialogue: 0,0:18:51.27,0:18:54.11,main,Kotaro,0,0,0,,Jo, mundem! Do t'i rregulloj!
+Dialogue: 0,0:18:55.17,0:18:57.12,italics,Kotaro,0,0,0,,Nuk duhej të kisha festuar...
+Dialogue: 0,0:19:06.63,0:19:10.74,main,Tree,0,0,0,,Ah, e mrekullueshme. Thjesht fantastike.
+Dialogue: 0,0:19:10.74,0:19:13.34,main,Tree,0,0,0,,Po, pikërisht ashtu. Vazhdo kështu.
+Dialogue: 0,0:19:14.36,0:19:17.39,top,Tree,0,0,0,,Oh, më duket sikur po shoh në ëndërr...
+Dialogue: 0,0:19:13.74,0:19:17.08,main,Noboru,0,0,0,,Nuk më besohet që jeta më ka\Nkatandisur në një kopshtar...
+Dialogue: 0,0:19:17.08,0:19:19.41,main,Noboru,0,0,0,,Jo, jam më shumë si një shërbëtor për një pemë.
+Dialogue: 0,0:19:19.41,0:19:21.14,main,Noboru,0,0,0,,Kur do të mbarojë kjo?
+Dialogue: 0,0:19:22.36,0:19:23.40,main,Noboru,0,0,0,,Pff...
+Dialogue: 0,0:19:25.14,0:19:26.52,top,sign,0,0,0,,GORIKI RYOGA
+Dialogue: 0,0:19:28.65,0:19:30.54,main,Noboru,0,0,0,,Alo, Shef?
+Dialogue: 0,0:19:30.54,0:19:33.28,main,Noboru,0,0,0,,Ka kaluar kohë. Ç'kemi të re?
+Dialogue: 0,0:19:33.62,0:19:35.24,main,Noboru,0,0,0,,Nju Jork?
+Dialogue: 0,0:19:35.24,0:19:38.78,main,Noboru,0,0,0,,Po, patjetër. Nesër? Në rregull, u kuptua.
+Dialogue: 0,0:19:38.78,0:19:40.62,main,Rowdy 1,0,0,0,,Ishte shefi?
+Dialogue: 0,0:19:41.70,0:19:43.23,main,Noboru,0,0,0,,Paketoni gjërat.
+Dialogue: 0,0:19:43.99,0:19:46.07,main,Noboru,0,0,0,,Më në fund do të dalim sërish.
+Dialogue: 0,0:19:48.20,0:19:49.63,main,Kotaro,0,0,0,,Shef.
+Dialogue: 0,0:19:49.63,0:19:51.00,main,Kotaro,0,0,0,,Shef!
+Dialogue: 0,0:19:51.96,0:19:54.01,main,Kotaro,0,0,0,,Shef!
+Dialogue: 0,0:19:56.49,0:19:58.27,main,Ryoga,0,0,0,,A arritëm vallë?
+Dialogue: 0,0:19:58.27,0:20:00.02,main,Irene,0,0,0,,Më vjen keq.
+Dialogue: 0,0:20:00.02,0:20:04.76,main,Irene,0,0,0,,Jemi ende rrugës, por\Nbefas nuk po arrij të lidhem me familjen time.
+Dialogue: 0,0:20:05.43,0:20:09.14,main,Irene,0,0,0,,Njëra është që shoferi ynë nuk po\Npërgjigjet, por as George nuk po hap telefonin.
+Dialogue: 0,0:20:09.14,0:20:10.48,main,Irene,0,0,0,,Jam pak e shqetësuar.
+Dialogue: 0,0:20:12.03,0:20:15.64,main,Ryoga,0,0,0,,Nuk ka nevojë të shqetësohesh.\NPothuajse arritëm.
+Dialogue: 0,0:20:15.64,0:20:18.04,main,Ryoga,0,0,0,,Së shpejti do të mund t'i shërojmë prindërit e tu.
+Dialogue: 0,0:20:18.99,0:20:20.99,top,sign,0,0,0,,KRYEKOPSHTARI
+Dialogue: 0,0:20:20.12,0:20:20.99,main,Ryoga,0,0,0,,Noboru?
+Dialogue: 0,0:20:22.53,0:20:23.23,main,Ryoga,0,0,0,,Po?
+Dialogue: 0,0:20:23.23,0:20:28.35,italics,Noboru,0,0,0,,Shef, kemi një problem!\NDisa burra po na ndjekin!
+Dialogue: 0,0:20:28.35,0:20:29.44,main,Ryoga,0,0,0,,Po ju ndjekin?
+Dialogue: 0,0:20:29.44,0:20:31.44,italics,Noboru,0,0,0,,Mendoj se po kërkojnë pemën!
+Dialogue: 0,0:20:31.44,0:20:36.01,italics,Ryoga,0,0,0,,M'u duk sikur Kiera ishte treguar tepër e qetë.\NPra ajo po hetonte rreth meje.
+Dialogue: 0,0:20:36.01,0:20:39.51,main,Ryoga,0,0,0,,Po e ndryshojmë pikën e takimit.\NSigurohuni t'i humbni ata.
+Dialogue: 0,0:20:39.51,0:20:43.65,main,Ryoga,0,0,0,,Mos u kapni, përndryshe do t'ju vras vetë.
+Dialogue: 0,0:20:43.65,0:20:45.35,italics,Noboru,0,0,0,,Çfarë?! Por...
+Dialogue: 0,0:20:46.11,0:20:49.85,main,Irene,0,0,0,,A ka ndonjë problem me njerëzit e tu?
+Dialogue: 0,0:20:50.52,0:20:53.62,main,Ryoga,0,0,0,,Mos u shqetëso. Ata mund të\Nkujdesen për veten e tyre.
+Dialogue: 0,0:20:54.34,0:20:56.40,main,Ryoga,0,0,0,,A mund t'i japësh pak më shpejt makinës?
+Dialogue: 0,0:20:56.40,0:21:00.53,main,Kotaro,0,0,0,,Shef, rruga është plotësisht e bllokuar.
+Dialogue: 0,0:21:01.53,0:21:05.44,main,Driver,0,0,0,,Me siguri diçka po ndodh.\NZakonisht nuk është kaq keq...
+Dialogue: 0,0:21:06.62,0:21:07.91,main,Ryoga,0,0,0,,Mos ishte vallë ndonjë aksident?
+Dialogue: 0,0:21:09.53,0:21:12.06,main,Irene,0,0,0,,Nëse i ndodh gjë njerëzve të Ryoga-san,
+Dialogue: 0,0:21:12.06,0:21:16.09,main,Irene,0,0,0,,do të humbasim reliken shëruese,\Ndhe prindërit e mi do të...
+Dialogue: 0,0:21:17.30,0:21:19.72,main,Kotaro,0,0,0,,Irene-san! Qetësohu dhe mbahu!
+Dialogue: 0,0:21:27.62,0:21:30.61,main,Noboru,0,0,0,,Misioni u krye, Shef!
+

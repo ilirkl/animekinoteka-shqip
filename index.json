@@ -335,6 +335,23 @@
       "assFile": "ass/at-688825.sq.ass",
       "offset": 0,
       "sourceReleaseId": "688825"
+    },
+    {
+      "id": "at-688902",
+      "title": "Tomb Raider King",
+      "episode": "11",
+      "malId": 63316,
+      "anilistId": null,
+      "slugs": [
+        "tomb-raider-king-91d21"
+      ],
+      "file": "files/at-688902.sq.vtt",
+      "assFile": "ass/at-688902.sq.ass",
+      "offset": 0,
+      "sourceReleaseId": "688902",
+      "sourceEpisode": "11",
+      "sourceTitle": "Toukutsu Ou",
+      "numberingEvidence": "https://anikototv.to/watch/tomb-raider-king-91d21"
     }
   ]
 }
