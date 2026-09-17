@@ -446,6 +446,20 @@
       "sourceEpisode": "11",
       "sourceTitle": "Super no Ura de Yani Suu Futari",
       "numberingEvidence": "https://anikototv.to/watch/smoking-behind-the-supermarket-with-you-e086a"
+    },
+    {
+      "id": "at-689005",
+      "title": "Dara-san of Reiwa",
+      "episode": "12",
+      "malId": 63082,
+      "anilistId": null,
+      "slugs": [
+        "dara-san-of-the-reiwa-era-5jhg"
+      ],
+      "file": "files/at-689005.sq.vtt",
+      "assFile": "ass/at-689005.sq.ass",
+      "offset": 0,
+      "sourceReleaseId": "689005"
     }
   ]
 }

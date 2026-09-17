@@ -1,0 +1,405 @@
+﻿[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 8
+YCbCr Matrix: TV.601
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: DefaultItalics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: DefaultTop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: DefaultItalicsTop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: DefaultOverlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: FlashbackItalics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: FlashbackTop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: FlashbackItalicsTop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Flashbackception,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Narration,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Signs,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,30,30,10,0
+Style: Signs_EpTitle,Times New Roman,24,&H00E9EDF1,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,30,30,10,0
+Style: Signs_Chat,Arial,12,&H00535359,&H000000FF,&H00EFF0ED,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,9,30,30,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.95,0:00:02.60,Flashback,Nagi,0,0,0,,Endacakë, me sa duket.
+Dialogue: 0,0:00:02.97,0:00:07.97,Flashback,Villager 1,0,0,0,,Vë bast se janë dyshja që ka vjedhur\Nnë fshat kohët e fundit.
+Dialogue: 0,0:00:07.97,0:00:11.25,Flashback,Villager 1,0,0,0,,Ishin fshehur në një\Nzgavër poshtë një kodre.
+Dialogue: 0,0:00:11.25,0:00:15.11,Flashback,Villager 2,0,0,0,,Më e rëndësishmja, duhet të sigurohemi\Nqë askush në fshat të mos pësojë të njëjtin fat.
+Dialogue: 0,0:00:15.11,0:00:18.10,Flashback,Villager 2,0,0,0,,Njoftoni të gjithë të largohen nga mali\Nnëse dëgjojnë qoftë edhe një kambanë.
+Dialogue: 0,0:00:18.10,0:00:21.36,Flashback,Villager 2,0,0,0,,Dhe kujtojuni atyre të qëndrojnë larg\Ntokës së ndaluar!
+Dialogue: 0,0:00:22.88,0:00:26.04,Flashback,Nagi,0,0,0,,Kjo është një mallkim që buron nga tërbimi\Ni ish-pronarit të krahut të mallkuar...
+Dialogue: 0,0:00:26.04,0:00:28.51,Flashback,Nagi,0,0,0,,një mallkim që u heq gjymtyrët viktimave të tij.
+Dialogue: 0,0:00:28.51,0:00:31.62,Flashback,Nagi,0,0,0,,Në njëfarë mënyre, kjo është magjia e fundit\Ne hedhur nga priftëresha më e re.
+Dialogue: 0,0:00:33.30,0:00:37.77,Flashback,Nagi,0,0,0,,Ka gjasa që ndërgjegjja e saj\Nmë në fund të jetë duke u shuar.
+Dialogue: 0,0:00:37.77,0:00:41.79,Flashback,Jurota,0,0,0,,Nëse gjarpri e përpin plotësisht shpirtin e saj,
+Dialogue: 0,0:00:41.79,0:00:44.96,Flashback,Jurota,0,0,0,,a do ta bëjë kjo magjinë tonë të padobishme?
+Dialogue: 0,0:00:44.96,0:00:46.77,Flashback,Nagi,0,0,0,,Nuk mendoj kështu.
+Dialogue: 0,0:00:47.27,0:00:53.02,Flashback,Nagi,0,0,0,,Nuk është vetja njerëzore e priftëreshës së re me të cilën\Nti... dhe tani ne... jemi të lidhur,
+Dialogue: 0,0:00:53.02,0:00:56.64,Flashback,Nagi,0,0,0,,por përkundrazi ena e zotit të malit,\NYamatagi-Madara.
+Dialogue: 0,0:00:57.12,0:01:00.33,Flashback,Nagi,0,0,0,,Megjithatë, edhe me të gjitha përgatitjet tona,
+Dialogue: 0,0:01:00.33,0:01:03.91,Flashback,Nagi,0,0,0,,mund të na duhet një hyjni e përshtatshme për ta penguar\Natë të bredhë përtej territorit të saj.
+Dialogue: 0,0:01:04.32,0:01:10.08,Flashback,Nagi,0,0,0,,Edhe nëse kjo kërkon shndërrimin me forcë\Ntë një yokai në një tatarigami.
+Dialogue: 0,0:01:11.17,0:01:12.55,Flashback,Nagi,0,0,0,,Më vjen keq që po ta kërkoj këtë,
+Dialogue: 0,0:01:12.55,0:01:15.42,Flashback,Nagi,0,0,0,,por ti je i vetmi që mund të\Nlëvizësh lirisht në këtë mal.
+Dialogue: 0,0:01:15.78,0:01:19.73,Flashback,Nagi,0,0,0,,Do të duhet të vazhdosh të vëzhgosh\NYamatagi-Madara-n. Bëj kujdes.
+Dialogue: 0,0:01:20.49,0:01:24.39,Narration,Narrator,0,0,0,,Natën kur priftëresha e re vdiq,
+Dialogue: 0,0:01:24.39,0:01:30.30,Narration,Narrator,0,0,0,,jetesa, shpirti, mishi dhe gjaku i saj\Niu ofruan të gjitha gjarprit,
+Dialogue: 0,0:01:30.30,0:01:34.42,Narration,Narrator,0,0,0,,Jurota kishte mbledhur të vetmen gjë\Nqë kishte mbetur: eshtrat e këmbëve të saj.
+Dialogue: 0,0:01:35.24,0:01:37.06,Narration,Narrator,0,0,0,,Ishte e gjitha çfarë kishte mbetur...
+Dialogue: 0,0:01:37.69,0:01:41.40,Narration,Narrator,0,0,0,,nga forma e vdekshme e priftëreshës.
+Dialogue: 0,0:01:37.70,0:01:41.70,Signs,Sign,0,0,0,,{\fnTimes New Roman\c&HF7FAF9&}Mbetjet e vdekshme të trupit të priftëreshës
+Dialogue: 0,0:01:42.16,0:01:43.54,Narration,Narrator,0,0,0,,Ai i varrosi eshtrat
+Dialogue: 0,0:01:43.54,0:01:47.17,Narration,Narrator,0,0,0,,poshtë një shkëmbi të madh në malin lindor\Nqë zgjodhi për të shënuar varrin e saj.
+Dialogue: 0,0:01:47.71,0:01:50.54,Narration,Narrator,0,0,0,,Në mënyrë që askush të mos e dënonte atë,
+Dialogue: 0,0:01:50.54,0:01:53.90,Narration,Narrator,0,0,0,,ky do të shërbente si dëshmi\Npër jetën dhe vdekjen e saj si qenie njerëzore.
+Dialogue: 0,0:01:54.45,0:01:56.60,Narration,Narrator,0,0,0,,Në rast se gjarpri
+Dialogue: 0,0:01:56.60,0:01:59.89,Narration,Narrator,0,0,0,,merrte kontrollin e plotë mbi\Nndërgjegjen e Yamatagi-Madara-s,
+Dialogue: 0,0:01:59.89,0:02:02.99,Narration,Narrator,0,0,0,,ai u sigurua që asnjë dëm të mos u bëhej\Nmbetjeve të priftëreshës së re
+Dialogue: 0,0:02:02.99,0:02:07.63,Narration,Narrator,0,0,0,,duke e mbushur gurin me magjinë dhe\Nvullnetin e tij përgjatë shumë viteve.
+Dialogue: 0,0:02:08.23,0:02:10.33,Narration,Narrator,0,0,0,,Përmendorja që doli prej kësaj\Nqëndron në këmbë edhe sot e kësaj dite.
+Dialogue: 0,0:02:16.39,0:02:18.65,Narration,Narrator,0,0,0,,Nuk duhet t'u afroheni kurrë atyre trojeve.
+Dialogue: 0,0:02:18.90,0:02:21.76,Narration,Narrator,0,0,0,,Një vështrim do t'ju sëmurë;\Nnjë prekje do t'ju mallkojë.
+Dialogue: 0,0:02:21.76,0:02:27.07,Narration,Narrator,0,0,0,,Emri i saj, i trashëguar qysh nga kohët e lashta,\Nështë Yamatagi-Madara.
+Dialogue: 0,0:02:23.83,0:02:26.88,Signs,Sign,0,0,0,,{\fad(1,685)\blur3\alpha&H33&\fnGeorgia\c&HE9D1C9&\pos(317,109)\clip(210,102,248,148)\t(29,947,\clip(210,102,425,148))}Yamatagi-Madara
+Dialogue: 1,0:02:23.83,0:02:26.88,Signs,Sign,0,0,0,,{\fad(1,685)\blur0.5\fnGeorgia\c&HE9D1C9&\pos(317,109)\clip(210,102,248,148)\t(29,947,\clip(210,102,425,148))}Yamatagi-Madara
+Dialogue: 0,0:02:37.13,0:02:39.38,Signs,Title,0,0,0,,{\fad(567,1)\fnGeorgia\bord2\shad1\c&H070A0D&\3c&HE5EDF2&\4c&HE5EDF2&\pos(320,223)}Dara-san e Epokës Reiwa
+Dialogue: 0,0:02:39.46,0:02:44.51,Signs,Title,0,0,0,,{\fad(1,98)\fnGeorgia\blur3\bord1\shad2\c&H47FF00&\3c&HFF3400&\pos(320,223)\4c&HF500FF&\t(30,155,\alpha&HFF&)\t(1740,1824,\alpha&H00&)\t(1824,1907,\alpha&HFF&)\t(2908,2950,\alpha&H00&)\t(2950,2991,\alpha&HFF&)\t(4409,4451,\alpha&H00&)\t(4493,4535,\alpha&HFF&)}Dara-san e Epokës Reiwa
+Dialogue: 0,0:02:39.46,0:02:44.51,Signs,Title,0,0,0,,{\fad(1,98)\fnGeorgia\blur1\bord1\shad1\c&H000308&\3c&H000308&\4c&H000308&\pos(321,225)\t(4827,4868,\3c&H96958B&\4c&H96958B&\t(4868,4952,\3c&H000308&\4c&H000308&}Dara-san e Epokës Reiwa
+Dialogue: 1,0:02:39.46,0:02:44.51,Signs,Title,0,0,0,,{\fad(1,98)\fnGeorgia\blur1\c&HE8EDEE&\pos(321,225)\t(30,155,\blur0)\t(1740,1824,\blur0.6)\t(1824,1907,\blur0)\t(2908,2950,\blur0.6)\t(2950,2991,\blur0)\t(4409,4451,\blur0.6)\t(4493,4535,\blur0)\t(4827,4868,\blur0.6\t(4868,4952,\blur0}Dara-san e Epokës Reiwa
+Dialogue: 0,0:03:50.16,0:03:51.99,Default,Hinata,0,0,0,,Hej, Dara-san?
+Dialogue: 0,0:03:51.99,0:03:54.75,Default,Dara,0,0,0,,Oh, Hinata. Çfarë ka?
+Dialogue: 0,0:03:55.09,0:03:56.25,Default,Hinata,0,0,0,,Epo...
+Dialogue: 0,0:03:56.44,0:04:01.26,Default,Hinata,0,0,0,,Mami doli tashmë, duke thënë se kishte punë\Npër të kryer në mal sot.
+Dialogue: 0,0:04:01.26,0:04:04.55,Default,Hinata,0,0,0,,Nëse shkoj te toka e ndaluar, ajo me siguri\Ndo të më kapë dhe do të më qortojë ashpër.
+Dialogue: 0,0:04:04.55,0:04:05.76,Default,Hinata,0,0,0,,Dhe Kaoru...
+Dialogue: 0,0:04:05.96,0:04:08.82,FlashbackItalics,Miwa,0,0,0,,Ky libër i ri që po nxjerr\Nështë i përshtatshëm për të gjitha moshat.
+Dialogue: 0,0:04:08.82,0:04:11.38,FlashbackItalics,Miwa,0,0,0,,A do të punosh te tavolina ime?\NDo të të paguaj dhe do të të qeras me një vakt.
+Dialogue: 0,0:04:11.63,0:04:13.04,Flashback,Kaoru,0,0,0,,Po si jo!
+Dialogue: 0,0:04:13.28,0:04:14.96,Flashback,Kaoru,0,0,0,,Ju falënderoj shumë.
+Dialogue: 0,0:04:14.96,0:04:18.14,Default,Hinata,0,0,0,,Ai ka shkuar në një aktivitet me Miwa-san.
+Dialogue: 0,0:04:18.42,0:04:20.91,Default,Hinata,0,0,0,,Kështu që po më plas truri nga mërzia.\NA mund të rrimë te shtëpia jote?
+Dialogue: 0,0:04:20.91,0:04:22.84,DefaultItalics,Dara,0,0,0,,Nuk jam e sigurt pse?
+Dialogue: 0,0:04:29.94,0:04:31.44,Default,Hinata,0,0,0,,Porta torii!
+Dialogue: 0,0:04:31.44,0:04:34.42,Default,Dara,0,0,0,,Nuk do ta kundërshtoj më\Natë emër tani e tutje.
+Dialogue: 0,0:04:34.70,0:04:37.67,Default,Hinata,0,0,0,,Një rrëmbim shpirtëror, vjen menjëherë!
+Dialogue: 0,0:04:45.52,0:04:48.08,Default,Dara,0,0,0,,Ato krijesa jetojnë vetëm në\Npjesët më të thella të botës së shpirtrave.
+Dialogue: 0,0:04:48.08,0:04:50.30,Default,Dara,0,0,0,,Duket se interesi i tyre i vetëm\Nështë për kufomat.
+Dialogue: 0,0:04:51.81,0:04:54.77,Default,Dara,0,0,0,,Ato nuk sulmojnë njerëz të gjallë,\Nkështu që mos u shqetëso.
+Dialogue: 0,0:04:57.61,0:05:00.66,Default,Dara,0,0,0,,Për çfarë erdhe sot, gjithsesi?
+Dialogue: 0,0:05:01.95,0:05:03.40,Default,Hinata,0,0,0,,Ta-dam!
+Dialogue: 0,0:05:03.40,0:05:06.73,Default,Hinata,0,0,0,,Vodha tortën që gjyshi fitoi\Nnë mbledhjen e lagjes!
+Dialogue: 0,0:05:01.94,0:05:06.57,Signs,Sign,0,0,0,,{\fs28\fad(278,139)\bord2.5\fnArial Black\c&H67CDE3&\3c&H22294F&\pos(248,12)}Kastela
+Dialogue: 0,0:05:06.73,0:05:09.21,Default,Hinata,0,0,0,,Dhe solla çaj me qumësht.
+Dialogue: 0,0:05:09.81,0:05:11.53,Default,Dara,0,0,0,,Çaj me qumësht...?
+Dialogue: 0,0:05:11.99,0:05:13.83,Default,Hinata,0,0,0,,Dhe pastaj kemi...
+Dialogue: 0,0:05:14.93,0:05:17.34,Default,Hinata,0,0,0,,Një version të Klasit Master të gjeneratës\Nsë tretë të Republikës,
+Dialogue: 0,0:05:17.34,0:05:20.96,Default,Hinata,0,0,0,,Divine Drive Caliber Halmberte\Nnë shkallën 1/100.
+Dialogue: 0,0:05:20.96,0:05:22.49,DefaultItalics,Dara,0,0,0,,Një çfarë?
+Dialogue: 0,0:05:23.74,0:05:27.35,Default,Kaoru,0,0,0,,Ka kaluar ca kohë qysh kur kam marrë pjesë\Nnë diçka të tillë. Ishte qejf!
+Dialogue: 0,0:05:27.35,0:05:32.34,Default,Kaoru,0,0,0,,Vizatimi yt është kaq i mirë, dhe historia\Nështë interesante. E kuptoj pse je kaq e famshme!
+Dialogue: 0,0:05:32.34,0:05:35.36,Default,Miwa,0,0,0,,Uh, epo... Um, e di...
+Dialogue: 0,0:05:35.36,0:05:38.89,Default,Kaoru,0,0,0,,Madje t'u shitën të gjitha!\NKjo është e mrekullueshme! Çfarë mjeshtreje!
+Dialogue: 0,0:05:39.52,0:05:42.03,Default,Miwa,0,0,0,,Ua! Faleminderit...
+Dialogue: 0,0:05:42.03,0:05:43.39,DefaultItalics,Miwa,0,0,0,,Ai është më shumë se një engjëll!
+Dialogue: 0,0:05:43.74,0:05:48.24,Default,Miwa,0,0,0,,Oh, për të të treguar mirënjohjen, pse nuk ndalojmë\Nte dyqani i lodrave gjatë kthimit?
+Dialogue: 0,0:05:48.24,0:05:49.69,Default,Kaoru,0,0,0,,Po si jo!
+Dialogue: 0,0:05:49.69,0:05:51.99,Default,Kaoru,0,0,0,,Dua disa nga ato\Narmët e mëdha Merf!
+Dialogue: 0,0:05:51.99,0:05:55.63,Default,Miwa,0,0,0,,Oh, ato janë shumë qejf. Patjetër.
+Dialogue: 0,0:05:56.16,0:05:59.32,Default,Kaoru,0,0,0,,Ajo që nuk kuptoj është,\Nkjo është në thelb një festë e madhe,
+Dialogue: 0,0:05:59.32,0:06:01.75,Default,Kaoru,0,0,0,,pse nuk vishesh me kostum personazhi, Miwa-san?
+Dialogue: 0,0:06:01.75,0:06:03.60,Default,Miwa,0,0,0,,Jo, jo, jo, jo, jo, jo, jo!
+Dialogue: 0,0:06:03.60,0:06:07.00,Default,Miwa,0,0,0,,Do të dukej keq dhe do të më vinte turp!\NAskush nuk do ta shohë atë!
+Dialogue: 0,0:06:07.00,0:06:09.00,Default,Kaoru,0,0,0,,Unë do të doja, sidoqoftë.
+Dialogue: 0,0:06:11.00,0:06:13.76,DefaultItalics,Miwa,0,0,0,,Sado që do të doja ta merrja\Nkëtë ashtu siç tingëllon...
+Dialogue: 0,0:06:13.76,0:06:16.10,DefaultItalics,Miwa,0,0,0,,jam e shqetësuar për çfarë ka ai në mendje.
+Dialogue: 0,0:06:19.98,0:06:22.14,Default,Kaoru,0,0,0,,Mendoj se do të dukeshe shkëlqyeshëm.
+Dialogue: 0,0:06:22.14,0:06:24.27,DefaultItalics,Miwa,0,0,0,,Ah! E adhuroj atë!
+Dialogue: 0,0:06:24.63,0:06:26.77,Default,Kanna,0,0,0,,Hej, është Misogiya.
+Dialogue: 0,0:06:26.77,0:06:29.40,Default,Kaoru,0,0,0,,Oh, Tomita-san. Ç'kemi?
+Dialogue: 0,0:06:29.70,0:06:32.29,Default,Kanna,0,0,0,,Um, dhe... kush është mikja jote?
+Dialogue: 0,0:06:32.29,0:06:34.50,Default,Kaoru,0,0,0,,Kjo është Irako Miwa-san, fqinja ime.
+Dialogue: 0,0:06:34.50,0:06:38.40,Default,Kaoru,0,0,0,,Dhe këto janë shoqet e mia të klasës,\NTomita-san dhe Shinohara-san.
+Dialogue: 0,0:06:38.72,0:06:42.79,DefaultItalics,Kanna,0,0,0,,Ai qenka aq i afërt me fqinjen sa\Ntë dalë me të në fundjavë?!
+Dialogue: 0,0:06:43.09,0:06:46.99,DefaultItalics,Miwa,0,0,0,,Jo vetëm që është shoqe klase, por familja\NTomita janë pronarë të pasur vendas...
+Dialogue: 0,0:06:46.99,0:06:48.81,DefaultItalics,Miwa,0,0,0,,Kjo vajzë mund të jetë një kërcënim serioz!
+Dialogue: 0,0:06:49.19,0:06:50.92,Default,Both,0,0,0,,Gëzohem që u njohëm.
+Dialogue: 0,0:06:52.69,0:06:55.67,DefaultItalics,Kozue,0,0,0,,Nuk e di pse,\Npor kjo po bëhet shumë interesante!
+Dialogue: 0,0:06:52.93,0:06:53.55,Signs,SFX Sign,0,0,0,,{\fad(1,179)\fs28\bord2\fnArial Black\c&HC6D388&\3c&H434A1F&\move(131.5,127,95,113,24,608)}Uff
+Dialogue: 0,0:06:53.68,0:06:54.30,Signs,SFX Sign,0,0,0,,{\fad(1,179)\fs28\bord2\fnArial Black\c&HC6D388&\3c&H434A1F&\move(555,52,590.5,31.5,24,608)}Puff
+Dialogue: 0,0:06:54.43,0:06:55.06,Signs,SFX Sign,0,0,0,,{\fad(1,179)\fs28\bord2\fnArial Black\c&HC6D388&\3c&H434A1F&\move(131.5,127,95,113,24,608)}Uff
+Dialogue: 0,0:06:55.18,0:06:55.81,Signs,SFX Sign,0,0,0,,{\fad(1,179)\fs28\bord2\fnArial Black\c&HC6D388&\3c&H434A1F&\move(555,52,590.5,31.5,24,608)}Puff
+Dialogue: 0,0:06:55.93,0:06:56.31,Signs,SFX Sign,0,0,0,,{\fs28\bord2\fnArial Black\c&HC6D388&\3c&H434A1F&\move(131.5,127,95,113,24,608)}Uff
+Dialogue: 0,0:06:57.52,0:07:01.31,Signs,Sign,0,0,0,,{\fad(401,1)\an7\fnTimes New Roman\bord4\fs12\3c&H1B1B1B&\pos(75,110)}Shoqe klase e Kaoru-t dhe shoqja më e ngushtë e Kanna Tomita-s.\NMë e gjata nga të gjitha vajzat në klasën e saj.\N\NRelativisht e qetë, por me sjellje të mirë dhe e pëlqyer nga të gjithë.\N\NGëzon nderin e dyshimtë të quhet 'Mami'\Nnga shokët e shkollës të të gjitha moshave. Ka gjithashtu një preferencë të fortë\Npër manga dhe programe televizive romantike, duke filluar nga materialet\Npër fëmijë\Ne deri te melodramat krejtësisht të bujshme.
+Dialogue: 0,0:07:02.30,0:07:06.06,Narration,Narrator,0,0,0,,Pushimet e dimrit: koha e vitit kur Kaoru,
+Dialogue: 0,0:07:06.06,0:07:11.57,Narration,Narrator,0,0,0,,ndryshe nga pushimet e verës ku ai\Nshoqërohet me kënaqësi jashtë me të tjerët,
+Dialogue: 0,0:07:11.57,0:07:15.91,Narration,Narrator,0,0,0,,normalisht do të pushonte i qetë në shtëpi.
+Dialogue: 0,0:07:16.32,0:07:18.94,Default,Kaoru,0,0,0,,Por jo kësaj radhe!
+Dialogue: 0,0:07:20.08,0:07:22.58,Signs,Sign,0,0,0,,{\fnTimes New Roman\an7\pos(444.5,275)\bord1\blur3\3a&H66&\c&HFDFFFC&\alpha&HFF&\t(0,40,\alpha&H00&\3a&H66&)}D{\alpha&HFF&\t(74,114,\alpha&H00&\3a&H66&)}e{\alpha&HFF&\t(149,189,\alpha&H00&\3a&H66&)}c{\alpha&HFF&\t(223,263,\alpha&H00&\3a&H66&)}e{\alpha&HFF&\t(298,338,\alpha&H00&\3a&H66&)}m{\alpha&HFF&\t(372,412,\alpha&H00&\3a&H66&)}b{\alpha&HFF&\t(447,487,\alpha&H00&\3a&H66&)}e{\alpha&HFF&\t(521,561,\alpha&H00&\3a&H66&)}r {\alpha&HFF&\t(596,636,\alpha&H00&\3a&H66&)}2{\alpha&HFF&\t(670,710,\alpha&H00&\3a&H66&)}6{\alpha&HFF&\t(745,785,\alpha&H00&\3a&H66&)}t{\alpha&HFF&\t(820,860,\alpha&H00&\3a&H66&)}h
+Dialogue: 0,0:07:23.86,0:07:25.86,Default,Siblings,0,0,0,,Gëzuar Krishtlindjet!
+Dialogue: 0,0:07:25.86,0:07:27.97,Default,Hinata,0,0,0,,Nuk kemi festuar ende\Nte shtëpia jote!
+Dialogue: 0,0:07:27.97,0:07:31.22,Default,Hinata,0,0,0,,Prandaj sollëm një përzgjedhje\Nëmbëlsirash të marra fshehurazi nga shtëpia!
+Dialogue: 0,0:07:31.22,0:07:35.34,Default,Dara,0,0,0,,E di që thashë se ato krijesa nuk kishin\Ninteres për të gjallët, por...
+Dialogue: 0,0:07:38.10,0:07:41.73,Signs,,0,0,0,,{\fnTimes New Roman\an7\pos(444.5,275)\bord1\blur3\3a&H66&\c&HFDFFFC&\alpha&HFF&\t(0,40,\alpha&H00&\3a&H66&)}D{\alpha&HFF&\t(74,114,\alpha&H00&\3a&H66&)}e{\alpha&HFF&\t(148,188,\alpha&H00&\3a&H66&)}c{\alpha&HFF&\t(223,263,\alpha&H00&\3a&H66&)}e{\alpha&HFF&\t(297,337,\alpha&H00&\3a&H66&)}m{\alpha&HFF&\t(371,411,\alpha&H00&\3a&H66&)}b{\alpha&HFF&\t(446,486,\alpha&H00&\3a&H66&)}e{\alpha&HFF&\t(520,560,\alpha&H00&\3a&H66&)}r {\alpha&HFF&\t(594,634,\alpha&H00&\3a&H66&)}3{\alpha&HFF&\t(669,709,\alpha&H00&\3a&H66&)}0{\alpha&HFF&\t(743,783,\alpha&H00&\3a&H66&)}t{\alpha&HFF&\t(818,858,\alpha&H00&\3a&H66&)}h
+Dialogue: 0,0:07:39.20,0:07:41.74,DefaultTop,Siblings,0,0,0,,Fundi i vitit nënkupton\Npastrimin e fundvitit!
+Dialogue: 0,0:07:42.03,0:07:43.84,Default,Kaoru,0,0,0,,Për shtëpinë e Dara-san!
+Dialogue: 0,0:07:43.84,0:07:46.31,Default,Hinata,0,0,0,,Kisha kohë që digjesha për ta bërë këtë!
+Dialogue: 0,0:07:46.31,0:07:50.35,Default,Dara,0,0,0,,Dua të them, duke pasur parasysh pozitën time\Nsi një qenie mbinatyrore...
+Dialogue: 0,0:07:50.35,0:07:53.74,Default,Dara,0,0,0,,jam përpjekur të ruaj, e dini,\Nnjëfarë atmosfere si gërmadhë...
+Dialogue: 0,0:07:53.74,0:07:56.52,Default,Kaoru,0,0,0,,Do të na bërtasin nëse nuk ndihmojmë\Nme shtëpinë tonë nesër,
+Dialogue: 0,0:07:56.52,0:07:59.24,Default,Kaoru,0,0,0,,kështu që sot është dita e vetme që mund të\Nvijmë! Shpresoj të mos të të vijë keq!
+Dialogue: 0,0:07:59.73,0:08:03.00,Default,Dara,0,0,0,,Nuk jam e sigurt nëse duhet t'i lavdëroj\Npër faktin që po pastrojnë,
+Dialogue: 0,0:08:03.00,0:08:07.25,Default,Dara,0,0,0,,apo t'i qortoj që hyjnë këtu\Npërmes botës së shpirtrave.
+Dialogue: 0,0:08:07.56,0:08:09.07,Default,Hinata,0,0,0,,Hajde tani, mos u anko.
+Dialogue: 0,0:08:09.07,0:08:12.54,Default,Hinata,0,0,0,,Madje do të rregullojmë edhe paravanin\Nqë goditëm me Grushtin e Qindra Çarjeve.
+Dialogue: 0,0:08:16.92,0:08:18.76,Default,Dara,0,0,0,,Çfarë humbje talenti.
+Dialogue: 0,0:08:19.04,0:08:21.39,Default,Hinata,0,0,0,,Meqë ra fjala, për Vitin e Ri...
+Dialogue: 0,0:08:21.39,0:08:24.03,Default,Hinata,0,0,0,,Shkojmë te Shenjtërorja Hirahiro\Nsi familje më datë 1.
+Dialogue: 0,0:08:24.03,0:08:27.53,Default,Kaoru,0,0,0,,Më datë 2, shkojmë në\NJofuku-ji me shokët.
+Dialogue: 0,0:08:27.90,0:08:30.33,Default,Kaoru,0,0,0,,Dhe më datë 3, po vijmë te ti!
+Dialogue: 0,0:08:30.33,0:08:31.55,Default,Dara,0,0,0,,Po pse vallë?
+Dialogue: 0,0:08:31.55,0:08:35.77,Default,Kaoru,0,0,0,,Thonë se shenjtërorja e malit është e ndaluar,\Nkështu që po vizitojmë vetë perëndeshën!
+Dialogue: 0,0:08:36.45,0:08:39.37,Default,Hinata,0,0,0,,A s'jemi fëmijë të mrekullueshëm,\Nqë bëjmë siç na thuhet e të tjera?
+Dialogue: 0,0:08:39.37,0:08:42.28,Default,Dara,0,0,0,,Vërtet? Ndoshta jeni.
+Dialogue: 0,0:08:42.52,0:08:44.47,Default,Hinata,0,0,0,,A nuk jemi besimtarët më të devotshëm?
+Dialogue: 0,0:08:44.47,0:08:46.28,Default,Dara,0,0,0,,A është kjo fjala e duhur...?
+Dialogue: 0,0:08:46.28,0:08:50.04,Default,Kaoru,0,0,0,,Për shembull, kemi besim se ti do ta lësh\Nportën hapur që ne të vijmë.
+Dialogue: 0,0:08:50.04,0:08:53.72,Default,Dara,0,0,0,,Nuk ishte ky lloji i besimit që kisha në mendje.
+Dialogue: 0,0:08:54.80,0:08:59.80,Signs,Sign,0,0,0,,{\fnTimes New Roman\an7\bord1\blur3\3a&H66&\c&HFDFFFC&\pos(480.5,277)\alpha&HFF&\t(0,40,\alpha&H00&\3a&H66&)}J{\alpha&HFF&\t(54,94,\alpha&H00&\3a&H66&)}a{\alpha&HFF&\t(108,148,\alpha&H00&\3a&H66&)}n{\alpha&HFF&\t(162,202,\alpha&H00&\3a&H66&)}u{\alpha&HFF&\t(216,256,\alpha&H00&\3a&H66&)}a{\alpha&HFF&\t(270,310,\alpha&H00&\3a&H66&)}r{\alpha&HFF&\t(324,364,\alpha&H00&\3a&H66&)}y {\alpha&HFF&\3a&H66&\t(378,418,\alpha&H00&\3a&H66&)}4{\alpha&HFF&\t(432,472,\alpha&H00&\3a&H66&)}t{\alpha&HFF&\t(486,526,\alpha&H00&\3a&H66&)}h
+Dialogue: 0,0:08:55.33,0:08:59.59,Narration,Narrator,0,0,0,,{\an8}Thënë kjo, sapo kaloi data 3,\Ngjithçka iu rikthye zakonit.
+Dialogue: 0,0:09:02.22,0:09:05.53,Default,Kaoru,0,0,0,,Është kaq e padrejtë që bishti yt\Nsikur s'ka fare fushë goditjeje!
+Dialogue: 0,0:09:05.53,0:09:08.11,Default,Dara,0,0,0,,Nuk e di çfarë do që të them.
+Dialogue: 0,0:09:08.11,0:09:11.81,Default,Hinata,0,0,0,,Unë jam më shumë e prirur të kritikoj pjekurinë\Ne përdorimit të dyfishtë me gjashtë krahë.
+Dialogue: 0,0:09:11.81,0:09:14.33,Default,Kaoru,0,0,0,,Do të të sfidoj në luftime trup më trup atëherë!
+Dialogue: 0,0:09:14.66,0:09:17.21,Default,Dara,0,0,0,,Sigurisht që je në një disavantazh\Nedhe më të madh në këtë mënyrë?
+Dialogue: 0,0:09:18.76,0:09:22.15,Default,Hinata,0,0,0,,Mendoj se Dara-san mund ta lërë pjekurinë\Ne saj të lartë të bjerë kur po kënaqet.
+Dialogue: 0,0:09:23.00,0:09:24.26,Narration,Narrator,0,0,0,,Si rrjedhojë:
+Dialogue: 0,0:09:23.20,0:09:24.70,Signs,Sign,0,0,0,,{\blur0.4\fs40\fnArial Black\pos(320,100)}Si Rrjedhojë
+Dialogue: 0,0:09:25.22,0:09:26.95,Default,Dara,0,0,0,,Çfarë do të thuash me 'je i sëmurë'?
+Dialogue: 0,0:09:26.95,0:09:30.36,Default,Kaoru,0,0,0,,Më fal... Nuk ngjitem dot në\Nmal sot.
+Dialogue: 0,0:09:30.36,0:09:31.46,DefaultItalics,Dara,0,0,0,,Budalla!
+Dialogue: 0,0:09:33.26,0:09:36.02,Default,Dara,0,0,0,,Po kollitesh dhe po të rrjedhin hundët!
+Dialogue: 0,0:09:36.02,0:09:37.71,Default,Dara,0,0,0,,Mos fol përveçse nëse e ke të domosdoshme.
+Dialogue: 0,0:09:37.71,0:09:42.27,Default,Kaoru,0,0,0,,Hundët më rrjedhin si rubinet...
+Dialogue: 0,0:09:42.95,0:09:45.85,Default,Dara,0,0,0,,Ky... është faji im.
+Dialogue: 0,0:09:45.85,0:09:49.11,Default,Dara,0,0,0,,Kjo forma ime e deformuar\Nmezi e percepton të ftohtin apo të nxehtin,
+Dialogue: 0,0:09:49.40,0:09:53.20,DefaultItalics,Dara,0,0,0,,ndaj nuk munda ta vëreja kërcënimin\Nqë mali në dimër paraqiste për ju të dy.
+Dialogue: 0,0:09:53.20,0:09:56.93,Default,Kaoru,0,0,0,,Uh, jo, nuk është aq serioze.
+Dialogue: 0,0:09:58.36,0:10:02.65,DefaultItalics,Kaoru,0,0,0,,Por duke parë situatën,\Ndo të pushoj derisa të ndihem më mirë.
+Dialogue: 0,0:10:02.65,0:10:04.72,Default,Dara,0,0,0,,Mirë. Pusho siç duhet.
+Dialogue: 0,0:10:06.14,0:10:09.75,Default,Dara,0,0,0,,Një tatarigami, një perëndi mali... më thërrasin\Nme dy lloje hyjnish,
+Dialogue: 0,0:10:09.75,0:10:12.63,Default,Dara,0,0,0,,por në fund të fundit,\Nunë i përkas hijeve.
+Dialogue: 0,0:10:13.64,0:10:16.29,Default,Dara,0,0,0,,Edhe pse mund të kontrolloj miasmën time,
+Dialogue: 0,0:10:16.29,0:10:20.68,Default,Dara,0,0,0,,ka gjithmonë rrezik që bashkëveprimi\Nme mua të ketë pasoja të dëmshme.
+Dialogue: 0,0:10:21.13,0:10:25.73,Default,Dara,0,0,0,,Duhet t'i largoj ata të dy\Nmë me vendosmëri.
+Dialogue: 0,0:10:25.73,0:10:29.45,Default,Dara,0,0,0,,Herën tjetër që do të vijnë,\Ndo të qëndroj e fshehur.
+Dialogue: 0,0:10:30.15,0:10:33.65,DefaultItalics,Kaoru,0,0,0,,Mund të vdes nga stresi nëse e bën atë!
+Dialogue: 0,0:10:34.68,0:10:36.06,Default,Dara,0,0,0,,Mendova se e kisha mbyllur telefonin!
+Dialogue: 0,0:10:37.62,0:10:40.16,Default,Kaoru,0,0,0,,Po, nuk je mësuar ende me\Ntelefonin e ri, apo jo?!
+Dialogue: 0,0:10:40.16,0:10:43.59,Default,Dara,0,0,0,,Për këtë arsye ma\Ndha këtë gjë?!
+Dialogue: 0,0:10:43.59,0:10:45.24,Default,Dara,0,0,0,,Shko fli!
+Dialogue: 0,0:10:46.09,0:10:47.78,Default,Dara,0,0,0,,E pabesueshme...
+Dialogue: 0,0:10:48.24,0:10:50.80,Default,Dara,0,0,0,,Më mirë të jetë duke pushuar.
+Dialogue: 0,0:10:59.96,0:11:01.75,Default,Chiyo,0,0,0,,Vizita e mjekut.
+Dialogue: 0,0:11:03.29,0:11:05.30,DefaultItalics,Dara,0,0,0,,Ç-Ç'dreqin po ndodh...?
+Dialogue: 0,0:11:05.60,0:11:08.05,Default,Hinata,0,0,0,,Dhe si po ndihesh, Kaoru-kun?
+Dialogue: 0,0:11:08.05,0:11:11.42,Default,Kaoru,0,0,0,,Midis kollës,\Nsekrecioneve dhe teshtitjeve,
+Dialogue: 0,0:11:11.42,0:11:15.31,Default,Kaoru,0,0,0,,fyti më dhemb sikur të kisha\Nngrënë një Sonic Boom.
+Dialogue: 0,0:11:15.63,0:11:16.79,Default,Hinata,0,0,0,,Bisturi.
+Dialogue: 0,0:11:16.79,0:11:17.64,Default,Chiyo,0,0,0,,Urdhëro.
+Dialogue: 0,0:11:18.27,0:11:19.53,Default,Hinata,0,0,0,,Mollë.
+Dialogue: 0,0:11:19.53,0:11:20.50,Default,Chiyo,0,0,0,,Urdhëro.
+Dialogue: 0,0:11:20.81,0:11:24.69,Default,Chiyo,0,0,0,,Nëse dëshiron mollën e grirë me kos\Ndhe qumështin e ngrohtë me mjaltë,
+Dialogue: 0,0:11:24.69,0:11:26.72,Default,Chiyo,0,0,0,,do t'i pish ilaçet!
+Dialogue: 0,0:11:26.72,0:11:30.76,Default,Kaoru,0,0,0,,Hej, ky është ai pluhuri!\NMë mashtrove!
+Dialogue: 0,0:11:31.54,0:11:33.66,Default,Hyogo,0,0,0,,Po tingëllon më i gjallë nga sa e prisja.
+Dialogue: 0,0:11:33.66,0:11:38.58,Default,William,0,0,0,,Unë as ilaçet pluhur nuk do t'i pija\Nnë atë moshë. Jam krenar për të.
+Dialogue: 0,0:11:32.83,0:11:34.79,DefaultTop,Hinata,0,0,0,,Tani, gëlltite njëherë e mirë!
+Dialogue: 0,0:11:34.79,0:11:38.59,DefaultTop,Hinata,0,0,0,,Hajde, ktheje menjëherë!
+Dialogue: 0,0:11:43.44,0:11:48.83,Default,Dara,0,0,0,,Njohuritë e mia mjekësore janë të padobishme\Nkrahasuar me ato të kësaj epoke.
+Dialogue: 0,0:11:48.83,0:11:51.97,Default,Dara,0,0,0,,Nuk kam asnjë magji efektive\Nkundër sëmundjeve, për më tepër.
+Dialogue: 0,0:11:53.29,0:11:56.44,Default,Dara,0,0,0,,Gjithçka që mund të bëj për të është...
+Dialogue: 0,0:12:11.71,0:12:17.06,Default,Dara,0,0,0,,Rezistenca ime ndaj të ftohtit mund ta bëjë\Nlutjen me ujë një gjest të pakuptimtë...
+Dialogue: 0,0:12:17.38,0:12:21.01,Default,Dara,0,0,0,,Por sido që të jetë, mbase ky\Nqëllim mund të vlejë për diçka.
+Dialogue: 0,0:12:21.88,0:12:26.83,Default,Dara,0,0,0,,Nuk më kujtohet sa duhet të zgjasë një\Nlutje për diçka të tillë, sidoqoftë.
+Dialogue: 0,0:12:26.83,0:12:28.85,Default,Dara,0,0,0,,Besoj se mund të filloj me\Nnjë lutje tre-ditore.
+Dialogue: 0,0:12:30.14,0:12:31.89,Signs,Sign,0,0,0,,{\fnTimes New Roman\an7\bord1\blur3\3a&H66&\c&HFDFFFC&\pos(474,64)}Dy{\alpha&HFF&\t(151,192,\alpha&H00&\3a&H66&)}Ditë{\alpha&HFF&\t(318,359,\alpha&H00&\3a&H66&)}Më Vonë
+Dialogue: 0,0:12:33.18,0:12:34.38,Default,Kaoru,0,0,0,,U ktheva, moj botë!
+Dialogue: 0,0:12:34.38,0:12:36.36,Default,Hinata,0,0,0,,Jo, jo, jo, jo, jo, jo.
+Dialogue: 0,0:12:36.36,0:12:39.89,Default,Hinata,0,0,0,,Thjesht të ka rënë temperatura dhe kolla\Nbashkë me hundët po të qetësohen pak.
+Dialogue: 0,0:12:40.84,0:12:45.02,Default,Kaoru,0,0,0,,Alo, Dara-san? Jam bërë më mirë,\Nndaj dua të vij të luaj. Ku je?
+Dialogue: 0,0:12:45.02,0:12:46.91,Default,Hinata,0,0,0,,Jo, jo, jo, jo, jo, jo!
+Dialogue: 0,0:12:46.91,0:12:51.00,Default,Hinata,0,0,0,,Je ende në shërim e sipër,\Nkështu që duhet ta marrësh shtruar.
+Dialogue: 0,0:12:51.00,0:12:53.53,DefaultItalics,Dara,0,0,0,,Ndonëse jam dakord me këtë...
+Dialogue: 0,0:12:56.88,0:13:00.40,DefaultItalics,Dara,0,0,0,,Mirë! Mirë! Do të vij aty së shpejti.
+Dialogue: 0,0:13:02.15,0:13:06.56,Default,Dara,0,0,0,,Nëse nuk e lë veten të shërohet,\Nthjesht do të sëmuret sërish.
+Dialogue: 0,0:13:07.67,0:13:09.62,Default,Kaoru,0,0,0,,Pse je kaq e lagur?
+Dialogue: 0,0:13:09.62,0:13:10.69,Default,Hinata,0,0,0,,Gjithashtu...
+Dialogue: 0,0:13:10.69,0:13:14.68,Default,Hinata,0,0,0,,Je në formë dykëmbëshe edhe pse je\Nnë mal. Kjo është e rrallë.
+Dialogue: 0,0:13:14.68,0:13:16.89,Default,Dara,0,0,0,,Epo, thjesht...
+Dialogue: 0,0:13:16.89,0:13:21.34,Default,Dara,0,0,0,,po kënaqesha me pak not\Ndimëror... të një lloji.
+Dialogue: 0,0:13:22.37,0:13:23.97,Default,Kaoru,0,0,0,,Çfarë lloj rroba banje?
+Dialogue: 0,0:13:23.97,0:13:26.56,Default,Dara,0,0,0,,Asnjë? Thjesht këtë kanotierë.
+Dialogue: 0,0:13:29.12,0:13:32.57,Narration,Narrator,0,0,0,,Lutjet me ujë të Dara-san\Ndolën përfundimisht joefektive,
+Dialogue: 0,0:13:32.57,0:13:36.40,Narration,Narrator,0,0,0,,dhe entuziazmi i Kaoru-t\Nçoi në një rëndim të lehtë të gjendjes.
+Dialogue: 0,0:13:38.97,0:13:41.52,Flashback,Jurota,0,0,0,,Ke ndërmend ta bësh atë\Nhyjninë e shenjtëruar këtu?
+Dialogue: 0,0:13:41.52,0:13:46.21,Flashback,Nagi,0,0,0,,E saktë. Ndonëse nuk ka asnjë shenjë se ajo\Npo largohet nga toka hyjnore ende,
+Dialogue: 0,0:13:46.21,0:13:51.22,Flashback,Nagi,0,0,0,,nuk dihet se çfarë lloj rreziku mund të\Nparaqesë nëse vendos ta bëjë një gjë të tillë.
+Dialogue: 0,0:13:51.22,0:13:55.89,Flashback,Nagi,0,0,0,,Pavarësisht se cila ndërgjegje përfundon\Nnë kontroll të Yamatagi-Madara-s,
+Dialogue: 0,0:13:55.89,0:14:00.04,Flashback,Nagi,0,0,0,,sa më shpejt të marrë pozitën e perëndisë\Nsë malit, aq më mirë është.
+Dialogue: 0,0:14:00.47,0:14:01.67,Flashback,Nagi,0,0,0,,Por...
+Dialogue: 0,0:14:02.98,0:14:07.11,Flashback,Nagi,0,0,0,,Në këtë fshat, ku plagët\Ne tragjedisë janë ende të freskëta...
+Dialogue: 0,0:14:07.51,0:14:10.91,Flashback,Nagi,0,0,0,,nëse thjesht do t'u thuhej\Ntë adhuronin Yamatagi-Madara-n,
+Dialogue: 0,0:14:10.91,0:14:16.74,Flashback,Nagi,0,0,0,,frika e tyre do të rrezikonte ta kthente atë\Nnë një yokai të fuqishëm në vend të një hyjnie.
+Dialogue: 0,0:14:17.62,0:14:21.70,Flashback,Nagi,0,0,0,,Prandaj Yamatagi-Madara...\Nforma përfundimtare e gjarprit...
+Dialogue: 0,0:14:21.70,0:14:25.91,Flashback,Nagi,0,0,0,,duhet të qetësohet nga priftëresha,\Ne cila do të bëhet perëndia e malit.
+Dialogue: 0,0:14:27.00,0:14:30.10,Flashback,Nagi,0,0,0,,Kjo është historia që duhet të tregohet,\Npavarësisht nëse rezulton e vërtetë
+Dialogue: 0,0:14:30.10,0:14:31.86,Flashback,Nagi,0,0,0,,apo jo në fund të fundit.
+Dialogue: 0,0:14:33.35,0:14:37.94,Flashback,Nagi,0,0,0,,Guri i deformuar i lindur nga bashkimi yt\Nme krahun e djathtë të priftëreshës së re...
+Dialogue: 0,0:14:38.40,0:14:43.65,Flashback,Nagi,0,0,0,,ka një lidhje të fuqishme me të\Ndhe do të shërbejë mirë si relike hyjnore.
+Dialogue: 0,0:14:43.88,0:14:46.34,Flashback,Nagi,0,0,0,,Dhe perëndia e shenjtëruar do të kërkojë një emër,
+Dialogue: 0,0:14:46.34,0:14:49.57,Flashback,Nagi,0,0,0,,pavarësisht nëse është\Nnjë trillim apo jo.
+Dialogue: 0,0:14:51.42,0:14:53.82,Flashback,Nagi,0,0,0,,Askush tjetër nuk duket se e di këtë, ndaj...
+Dialogue: 0,0:14:53.82,0:14:55.15,Flashback,Nagi,0,0,0,,Jurota.
+Dialogue: 0,0:14:55.48,0:14:58.22,Flashback,Nagi,0,0,0,,A mos vallë e ke informacionin që na duhet?
+Dialogue: 0,0:14:58.61,0:15:00.84,Flashback,Nagi,0,0,0,,Cili ishte emri i priftëreshës së re?
+Dialogue: 0,0:15:08.17,0:15:10.13,Signs,Sign,0,0,0,,{\c&H736965&\frz9.18\fax-0.24\pos(354,29)}Pronë Private
+Dialogue: 0,0:15:08.17,0:15:10.13,Signs,Sign,0,0,0,,{\fs26\c&H605958&\frz5.02\fax-0.16\pos(342.83,261.69)}Ndalohet Hyrja
+Dialogue: 1,0:15:08.60,0:15:12.81,Default,Hinata,0,0,0,,E di, pardje, shkova\Nnë kinema me shokët.
+Dialogue: 0,0:15:12.81,0:15:13.89,Default,Dara,0,0,0,,Ah, po.
+Dialogue: 0,0:15:13.89,0:15:19.19,Default,Dara,0,0,0,,Ishte koha kur shpirti mbrojtës i shoqes tënde,\Ngjarpri i vogël, të shpëtoi?
+Dialogue: 0,0:15:20.43,0:15:25.71,Default,Dara,0,0,0,,Pyes veten nëse takimet e tua me gjëra\Ntë tilla mund të jenë përgjegjësia ime,
+Dialogue: 0,0:15:25.71,0:15:29.15,Default,Dara,0,0,0,,duke pasur parasysh përfshirjen tënde me mua...
+Dialogue: 0,0:15:29.15,0:15:34.24,Default,Dara,0,0,0,,Mund të më duhet t'ju stërvit të dyve\Nqë të mbroni veten.
+Dialogue: 0,0:15:34.24,0:15:35.57,Default,Hinata,0,0,0,,Vërtet?!
+Dialogue: 0,0:15:35.57,0:15:36.98,Default,Kaoru,0,0,0,,Hajde ta bëjmë! Eja!
+Dialogue: 0,0:15:36.98,0:15:39.40,Default,Hinata,0,0,0,,Por sado qejf të tingëllojë kjo...
+Dialogue: 0,0:15:39.71,0:15:44.43,Default,Hinata,0,0,0,,Dara-san, ti nuk largohesh dot\Nshumë larg nga mali, apo jo?
+Dialogue: 0,0:15:44.43,0:15:45.54,Default,Dara,0,0,0,,E vërtetë është.
+Dialogue: 0,0:15:45.54,0:15:49.43,Default,Kaoru,0,0,0,,E di çfarë do të thotë kjo?\NMeqë nuk ka asnjë kinema në qytet...
+Dialogue: 0,0:15:49.43,0:15:52.67,Default,Siblings,0,0,0,,Nuk ke qenë kurrë në kinema, ë?
+Dialogue: 0,0:15:52.67,0:15:55.45,Default,Dara,0,0,0,,Epo, edhe sikur të kishte një këtu afër,
+Dialogue: 0,0:15:55.45,0:15:58.18,Default,Dara,0,0,0,,nuk jam e sigurt nëse do të kishte hije\Npër një tatarigami si unë ta vizitonte atë.
+Dialogue: 0,0:15:58.18,0:16:00.42,Default,Siblings,0,0,0,,Epo, kështu nuk bën fare!
+Dialogue: 0,0:16:02.18,0:16:07.45,Default,Hinata,0,0,0,,Thënë kjo, edhe sikur të merrje trenin,\Nështë një orë deri te kinemaja më e afërt.
+Dialogue: 0,0:16:07.45,0:16:09.94,Default,Hinata,0,0,0,,Dhe meqë nuk të çojmë dot aq larg...
+Dialogue: 0,0:16:09.94,0:16:12.37,Default,Sibling,0,0,0,,Moruam hua një projektor!
+Dialogue: 0,0:16:12.37,0:16:14.20,Default,Dara,0,0,0,,Ç'është kjo kështu...?
+Dialogue: 0,0:16:14.20,0:16:17.69,Default,Dara,0,0,0,,Por shtëpia jonë nuk është aq e madhe\Nsa për ta shfrytëzuar siç duhet, e kupton.
+Dialogue: 0,0:16:17.69,0:16:19.91,Default,Dara,0,0,0,,Shpresoja për një ekran 200 inç!
+Dialogue: 0,0:16:19.91,0:16:22.34,Default,Dara,0,0,0,,Inç...?
+Dialogue: 0,0:16:21.75,0:16:23.66,Signs,Sign,0,0,0,,{\fad(231,178)\blur0.3\fs15\c&H222424&\pos(425.5,65.5)}Në formatin 16:9, kjo i bie 4427mm x 2490mm
+Dialogue: 0,0:16:24.62,0:16:26.19,Default,Dara,0,0,0,,Kjo më duket e tepërt.
+Dialogue: 0,0:16:26.70,0:16:30.80,Default,Hinata,0,0,0,,Plani ishte të merrnim letër sintetike\Ndhe ta mbështesnim me kompensatë...
+Dialogue: 0,0:16:30.80,0:16:35.08,Default,Kaoru,0,0,0,,A di ndonjë vend të errët dhe të qetë\Nku mund të bëjmë sa të duam zhurmë?
+Dialogue: 0,0:16:35.08,0:16:36.47,Default,Dara,0,0,0,,Kjo është kërkesë e madhe.
+Dialogue: 0,0:16:38.06,0:16:41.85,Default,Dara,0,0,0,,E megjithatë, mund të kem në mendje\Nnjë vend që u përshtatet nevojave tuaja.
+Dialogue: 0,0:16:48.66,0:16:50.43,Default,Kaoru,0,0,0,,Çfarë është kjo?
+Dialogue: 0,0:16:50.43,0:16:51.36,Default,Hinata,0,0,0,,Shpellë?
+Dialogue: 0,0:16:51.85,0:16:54.95,Default,Dara,0,0,0,,Ky vend aktualisht nuk shërben për asgjë,
+Dialogue: 0,0:16:54.95,0:16:58.20,Default,Dara,0,0,0,,dhe unë e kam bllokuar hyrjen që\Ntë mund të hyhet vetëm me anë të magjisë.
+Dialogue: 0,0:16:58.20,0:17:00.49,Default,Dara,0,0,0,,Por fillimisht ishte një shpellë e vogël.
+Dialogue: 0,0:17:00.49,0:17:06.42,Default,Dara,0,0,0,,E zgjerova në një hapësirë për mbajtjen e së keqes\Nme një magji të quajtur Themeli i Bardhë.
+Dialogue: 0,0:17:08.50,0:17:11.99,Default,Hinata,0,0,0,,Ka kunja në këtë shkëmb,\Nndaj le ta varim këtu me spango.
+Dialogue: 0,0:17:11.99,0:17:13.51,Default,Kaoru,0,0,0,,U kuptua plotësisht!
+Dialogue: 0,0:17:13.51,0:17:17.51,Default,Dara,0,0,0,,Hapësira dhe dërrasat në qendër\Njanë të rrezikshme, ndaj rrini larg.
+Dialogue: 0,0:17:17.51,0:17:19.22,Default,Dara,0,0,0,,Do të vdisni nëse bini brenda.
+Dialogue: 0,0:17:20.46,0:17:23.76,Default,Hinata,0,0,0,,Pra nëse ky është një vend për të mbajtur të keqen,\Ndhe ti nuk po e përdor{\i1}aktualisht{\i0}atë...
+Dialogue: 0,0:17:23.76,0:17:26.36,Default,Hinata,0,0,0,,A kishte diçka këtu brenda më parë?
+Dialogue: 0,0:17:26.36,0:17:30.12,Default,Dara,0,0,0,,Ky është vendi ku fillimisht rrinte\Ngjysma ime tjetër...
+Dialogue: 0,0:17:30.12,0:17:34.52,Default,Dara,0,0,0,,trupi i Yamatagi-Madara-s\Nqë ende fle brenda meje.
+Dialogue: 0,0:17:34.52,0:17:35.75,Default,Siblings,0,0,0,,Aha.
+Dialogue: 0,0:17:35.75,0:17:37.52,Default,Dara,0,0,0,,'Aha', thonë ata.
+Dialogue: 0,0:17:41.52,0:17:42.82,Default,Hinata,0,0,0,,Ja ku fillon!
+Dialogue: 0,0:17:42.82,0:17:44.97,Default,Kaoru,0,0,0,,Duhet të ikin me vrap!
+Dialogue: 0,0:17:46.29,0:17:51.21,DefaultItalics,Dara,0,0,0,,Ata vërtet besojnë se unë do të jem në gjendje\Ntë zgjidh çdo problem që mund të lindë.
+Dialogue: 0,0:17:51.54,0:17:57.07,DefaultItalics,Dara,0,0,0,,Por kontrolli im aktual mbi këtë trup\Npërmes nënshtrimit të gjarprit...
+Dialogue: 0,0:17:57.07,0:17:59.80,DefaultItalics,Dara,0,0,0,,është më pak çështje e mbajtjes\Nsë tij të mbyllur në mënyrë të sigurt
+Dialogue: 0,0:17:59.80,0:18:04.06,DefaultItalics,Dara,0,0,0,,dhe më shumë një betejë e pasigurt në të cilën\Nrastis që aktualisht të kem epërsinë.
+Dialogue: 0,0:18:04.06,0:18:06.35,DefaultItalics,Dara,0,0,0,,Dyshoj se e kanë menduar\Nndonjëherë në këtë mënyrë.
+Dialogue: 0,0:18:08.08,0:18:09.31,Default,Dara,0,0,0,,Prit, çfarë?
+Dialogue: 0,0:18:09.31,0:18:13.02,Default,Dara,0,0,0,,A u mallkuan deri në vdekje\Nthjesht duke ecur aty pranë?
+Dialogue: 0,0:18:13.02,0:18:15.57,Default,Dara,0,0,0,,Kjo është e tepërt. A lejohet vallë?
+Dialogue: 0,0:18:15.57,0:18:17.81,Default,Hinata,0,0,0,,Mos e provo në shtëpi, zonjushë.
+Dialogue: 0,0:18:17.82,0:18:20.32,Signs,Sign,0,0,0,,{\blur2.5\fnGeorgia\c&HF1F5F2&\frz346.8\pos(302,214.5)}Fund
+Dialogue: 1,0:18:17.82,0:18:20.32,Signs,Sign,0,0,0,,{\blur0.4\fnGeorgia\c&HF1F5F2&\frz346.8\pos(302,214.5)}Fund
+Dialogue: 0,0:18:17.81,0:18:20.31,Default,Dara,0,0,0,,Midis trupave që avullojnë
+Dialogue: 0,0:18:20.31,0:18:23.23,Default,Dara,0,0,0,,dhe rrezes së efektit që zgjerohet\Ngjithnjë e më shumë,
+Dialogue: 0,0:18:23.23,0:18:26.58,Default,Dara,0,0,0,,këto dukuri moderne mbinatyrore\Npadyshim që shkaktojnë shumë dëme.
+Dialogue: 0,0:18:26.58,0:18:29.84,Default,Kaoru,0,0,0,,Kemi një film ku kërcënohet\Ne gjithë bota!
+Dialogue: 0,0:18:29.84,0:18:33.34,Default,Hinata,0,0,0,,E rregullove këtë vend\Nshumë kohë më parë, apo jo?
+Dialogue: 0,0:18:33.34,0:18:36.18,Default,Hinata,0,0,0,,A nuk është kalbur druri\Ndhe nuk është ndryshkur metali
+Dialogue: 0,0:18:36.18,0:18:38.36,Default,Hinata,0,0,0,,për të njëjtat arsye si te\Nshtëpia në botën e shpirtrave?
+Dialogue: 0,0:18:38.36,0:18:39.33,Default,Dara,0,0,0,,E saktë.
+Dialogue: 0,0:18:39.59,0:18:43.59,Default,Dara,0,0,0,,U ndërtua me qëllim për të përmbajtur, në një\Nmënyrë që të mos prishej me kalimin e kohës.
+Dialogue: 0,0:18:43.59,0:18:47.13,Default,Hinata,0,0,0,,E kuptoj. Pra, bazuar në atë që the më parë,
+Dialogue: 0,0:18:47.13,0:18:52.25,Default,Hinata,0,0,0,,ky ishte vendi që ndërtove kur ishe\Ngjallë dhe që motra jote e shkatërroi.
+Dialogue: 0,0:18:52.25,0:18:53.85,Default,Dara,0,0,0,,Ashtu ishte me të vërtetë.
+Dialogue: 0,0:18:53.85,0:18:58.11,Default,Dara,0,0,0,,Kjo shënon fillimin e\Natij kapitulli tragjik të së kaluarës sime.
+Dialogue: 0,0:18:58.11,0:19:01.61,Default,Dara,0,0,0,,Kjo është hera ime e parë këtu\Nqysh nga vulosja e hyrjes...
+Dialogue: 0,0:19:02.35,0:19:03.83,Default,Dara,0,0,0,,dhe nuk ka ndryshuar fare.
+Dialogue: 0,0:19:04.35,0:19:07.37,Default,Kaoru,0,0,0,,Tani më vjen keq.\NA s'të vjen rëndë që rri këtu brenda?
+Dialogue: 0,0:19:07.37,0:19:10.38,Default,Dara,0,0,0,,Nuk ka rëndësi.\NA nuk të kujtohet çfarë thashë?
+Dialogue: 0,0:19:10.75,0:19:13.46,Default,Dara,0,0,0,,Me kalimin e kohës së mjaftueshme, zemërimi shuhet.
+Dialogue: 0,0:19:13.46,0:19:14.86,Default,Dara,0,0,0,,Dhe ka kaluar mjaftueshëm kohë
+Dialogue: 0,0:19:14.86,0:19:18.37,Default,Dara,0,0,0,,që të jetë thjesht një vend që e ruaja\Nnë rast se do të më hynte në punë.
+Dialogue: 0,0:19:19.14,0:19:21.76,Default,Dara,0,0,0,,Nuk është diçka për të cilën\Nduhet të shqetësoheni ju të dy.
+Dialogue: 0,0:19:21.76,0:19:23.04,Default,Kaoru,0,0,0,,Dara-san...
+Dialogue: 0,0:19:23.38,0:19:25.72,Default,Kaoru,0,0,0,,Mirë, cilin dëshiron të shohësh tani:
+Dialogue: 0,0:19:25.72,0:19:29.14,Default,Kaoru,0,0,0,,alienë të neveritshëm që bëjnë kërdinë në anije,\Napo panik me të vdekur të gjallë?
+Dialogue: 0,0:19:29.14,0:19:31.77,Default,Dara,0,0,0,,Ndoshta{\i1}ti{\i0}duhet të shqetësohesh pak.
+Dialogue: 0,0:19:32.11,0:19:33.65,Default,Hinata,0,0,0,,Të shohim pak...
+Dialogue: 0,0:19:33.65,0:19:37.66,Default,Hinata,0,0,0,,Pra, thyerja e këtij shkëmbi\Nqë duket mjaft i rëndësishëm...
+Dialogue: 0,0:19:37.93,0:19:42.48,Default,Hinata,0,0,0,,është ajo që lejoi trupin të lirohej nga kjo\Nvrimë, duke çarë vulën.
+Dialogue: 0,0:19:42.48,0:19:45.40,Default,Dara,0,0,0,,Dhe pastaj thonë se video lojërat\Nnuk të mësojnë asgjë...
+Dialogue: 0,0:19:45.40,0:19:47.17,Default,Hinata,0,0,0,,Hajde ta bashkojmë si një pazëll!
+Dialogue: 0,0:19:47.17,0:19:49.87,Default,Hinata,0,0,0,,Mund të përdorim këtë formulë magjike\Ntë shkruar mbi të si udhëzues!
+Dialogue: 0,0:19:49.87,0:19:51.66,Default,Dara,0,0,0,,Ju të dy...
+Dialogue: 0,0:19:53.04,0:19:57.16,Default,Dara,0,0,0,,Nga sa duket, disa pjesë\Ntë vulës ranë brenda vrimës.
+Dialogue: 0,0:19:57.39,0:20:00.03,Default,Dara,0,0,0,,Do t'ju siguroj një litar mbrojtës për siguri.
+Dialogue: 0,0:20:00.03,0:20:01.18,Default,Kaoru,0,0,0,,Fantastike!
+Dialogue: 0,0:20:01.71,0:20:06.72,Default,Dara,0,0,0,,Ju të dy padyshim do të doni ta përdorni këtë\Nvend për diçka tjetër përfundimisht.
+Dialogue: 0,0:20:06.72,0:20:07.93,Default,Kaoru,0,0,0,,Ngjitje shkëmbinjsh!
+Dialogue: 0,0:20:08.58,0:20:11.14,Default,Dara,0,0,0,,Ndaj nuk shoh ndonjë të keqe t'i rregullojmë gjërat.
+Dialogue: 0,0:20:12.39,0:20:16.32,Default,Dara,0,0,0,,Me kaq shumë pjesë të humbura, efekti\Ni magjisë ka shumë gjasa të jetë zhdukur.
+Dialogue: 0,0:20:16.32,0:20:18.07,Default,Hinata,0,0,0,,Nuk e lexoj dot fare këtë.
+Dialogue: 0,0:20:19.06,0:20:20.65,Default,Dara,0,0,0,,Më zgjon nostalgji...
+Dialogue: 0,0:20:20.94,0:20:22.99,Default,Kaoru,0,0,0,,Çfarë shkruhet?
+Dialogue: 0,0:20:22.99,0:20:26.00,Default,Dara,0,0,0,,Për ta shprehur në një mënyrë\Nmë të lehtë për t'u kuptuar nga ju...
+Dialogue: 0,0:20:26.00,0:20:29.12,Default,Dara,0,0,0,,Mendojeni si një formulë matematikore.
+Dialogue: 0,0:20:30.64,0:20:34.35,Default,Dara,0,0,0,,Sigurisht! Ndërsa guri që shërbeu\Nsi themel u thye,
+Dialogue: 0,0:20:34.35,0:20:38.19,Default,Dara,0,0,0,,një magji e kësaj përmase me siguri\Nka emrin
+Dialogue: 0,0:20:38.19,0:20:41.83,Default,Dara,0,0,0,,e atij që e lëshoi\Ntë gdhendur në këtë pllakë magjike!
+Dialogue: 0,0:20:42.93,0:20:44.73,Default,Hinata,0,0,0,,Do të thotë...
+Dialogue: 0,0:20:44.73,0:20:47.10,Default,Kaoru,0,0,0,,Mund të mësojmë emrin tënd të vërtetë?
+Dialogue: 0,0:20:47.10,0:20:50.85,Default,Dara,0,0,0,,Po. Fare mirë mund të përfshijë emrin tim.
+Dialogue: 0,0:20:50.85,0:20:51.86,Default,Dara,0,0,0,,Të shohim pak...
+Dialogue: 0,0:20:52.82,0:20:56.11,FlashbackItalics,Jurota,0,0,0,,Ajo u mallkua nga vetë emri i saj.
+Dialogue: 0,0:20:56.59,0:20:59.36,Flashback,Jurota,0,0,0,,Lindja e saj u konsiderua një ogur i keq,
+Dialogue: 0,0:20:59.36,0:21:02.62,Flashback,Jurota,0,0,0,,ndaj në këmbim që të mos eliminohej,\Najo do t'i shërbente motrës së saj të madhe,
+Dialogue: 0,0:21:03.21,0:21:07.67,Flashback,Jurota,0,0,0,,duke marrë një emër që pasqyronte natyrën e saj\Nsi një zëvendësuese për Tsubaki-dono.
+Dialogue: 0,0:21:04.61,0:21:08.11,Signs,Sign,0,0,0,,{\bord1.5\fs30\c&H2F2A34&\3c&HCBD2D9&}Tsubaki
+Dialogue: 0,0:21:08.30,0:21:12.38,Default,Dara,0,0,0,,Besoj se është ky.\NËshtë e vështirë të lexohet, por...
+Dialogue: 0,0:21:14.38,0:21:16.11,Default,Dara,0,0,0,,Të shohim...
+Dialogue: 0,0:21:17.87,0:21:19.88,Signs,Sign,0,0,0,,{\an7\bord1\fs30\c&H2F2A34&\3c&HBABAC1&}Koharu
+Dialogue: 0,0:21:17.87,0:21:19.88,Signs,Sign,0,0,0,,{\fnArial Black\an9\bord1\fs30\c&H0A0506&\3c&H413839&}Koharu
+Dialogue: 0,0:21:19.87,0:21:21.15,Flashback,Jurota,0,0,0,,Koharu.
+Dialogue: 0,0:21:19.87,0:21:21.15,DefaultTop,Dara,0,0,0,,Koharu.
+Dialogue: 0,0:21:21.88,0:21:24.68,Default,Kaoru,0,0,0,,Është i njëjti emër si ai\Ni perëndeshës së Tempullit Hirahiro.
+Dialogue: 0,0:21:24.68,0:21:26.63,Default,Hinata,0,0,0,,Është jashtëzakonisht i bukur!
+Dialogue: 0,0:21:27.23,0:21:29.10,Default,Dara,0,0,0,,Oh, jo. Tani po kuptoj.
+Dialogue: 0,0:21:30.09,0:21:34.68,Default,Dara,0,0,0,,Vullneti i saj... ende njollos... shpirtin tim...
+Dialogue: 0,0:21:37.18,0:21:38.32,Default,Kaoru,0,0,0,,Dara-san?
+Dialogue: 0,0:21:38.77,0:21:44.47,Default,Dara,0,0,0,,Arsyeja pse nuk mundja... ta kujtoja\Nemrin tim...
+Dialogue: 0,0:21:49.94,0:21:52.66,Default,Tsubaki,0,0,0,,Ajo donte ta flakte tutje atë.
+Dialogue: 0,0:21:53.24,0:21:58.42,Default,Tsubaki,0,0,0,,Emrin që e shënonte si pionen time!
+Dialogue: 0,0:23:34.93,0:23:40.01,Signs_EpTitle,Next eptitle sign,0,0,0,,{\pos(320,100)}Përralla e Trembëdhjetë e Çuditshme\N\N\N\N\N\N\N\N\NDara-san e Epokës Reiwa
+
