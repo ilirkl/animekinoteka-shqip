@@ -460,6 +460,20 @@
       "assFile": "ass/at-689005.sq.ass",
       "offset": 0,
       "sourceReleaseId": "689005"
+    },
+    {
+      "id": "at-688367",
+      "title": "World Is Dancing",
+      "episode": "12",
+      "malId": 63347,
+      "anilistId": null,
+      "slugs": [
+        "world-is-dancing"
+      ],
+      "file": "files/at-688367.sq.vtt",
+      "assFile": "ass/at-688367.sq.ass",
+      "offset": 0,
+      "sourceReleaseId": "688367"
     }
   ]
 }
