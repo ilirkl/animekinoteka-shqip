@@ -52,6 +52,22 @@ test('WAN! season 1 must not inherit the season 2 mapping',()=>{
   assert.equal(knownNumbering({title:'Bungou Stray Dogs Wan! Special',season:2,episode:'1'}),null);
 });
 
+// Anikoto files season 3 under a Chinese title that shares no word with the release,
+// so the search can never reach it and the season must be pinned.
+const linkClick = {title:'Link Click',season:3,episode:'7'};
+test('Link Click season 3 pins the Chinese-titled Anikoto entry',()=>{
+  const result=knownNumbering(linkClick);
+  assert.equal(result.slug,'shiguang-dailiren-iii');
+  assert.equal(result.malId,61607);
+  assert.equal(result.episode,'7','season 3 numbering is already continuous');
+  assert.equal(result.part,undefined,'a straight pin must not claim a split cour');
+});
+test('the Link Click pin is confined to season 3',()=>{
+  for(const season of [null,1,2,4]) assert.equal(knownNumbering({...linkClick,season}),null);
+  assert.equal(knownNumbering({...linkClick,title:'Mini Link Click'}),null);
+  assert.equal(knownNumbering({...linkClick,title:'Link Click: Bridon Arc'}),null);
+});
+
 test('rules stay independent of one another',()=>{
   assert.equal(knownNumbering({title:'One Piece',season:null,episode:'23'}),null);
   assert.equal(knownNumbering({...source,episode:'1178'}),null);

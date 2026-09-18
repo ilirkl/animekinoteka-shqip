@@ -137,7 +137,29 @@ function bungoStrayDogsWan2(parsed) {
   };
 }
 
-const RULES = [samuraiTroopers, onePiece, toukutsuOu, reZero, smokingBehindTheSupermarket, kaijuGirlCaramelise, bungoStrayDogsWan2];
+// Disambiguation only -- the episode number is carried through unchanged.
+// SubsPlease releases this as "Link Click S3", but Anikoto files the third season under
+// its Chinese title "Shiguang Dailiren III", which shares no word with the release name.
+// Searching "Link Click" returns season 1, season 2, Bridon Arc, Mini and two specials
+// and never this entry, so the season can only be reached by pinning it. project.mjs
+// still confirms the episode exists on that series before anything is published.
+function linkClickS3(parsed) {
+  const episode = Number(parsed.episode);
+  if (parsed.title !== 'Link Click' ||
+      parsed.season !== 3 ||
+      !Number.isInteger(episode) || episode < 1) return null;
+  return {
+    slug:'shiguang-dailiren-iii',
+    title:'Shiguang Dailiren III',
+    malId:61607,
+    episode:String(episode),
+    sourceEpisode:String(episode),
+    sourceTitle:parsed.title,
+    evidence:'https://anikototv.to/watch/shiguang-dailiren-iii'
+  };
+}
+
+const RULES = [samuraiTroopers, onePiece, toukutsuOu, reZero, smokingBehindTheSupermarket, kaijuGirlCaramelise, bungoStrayDogsWan2, linkClickS3];
 
 export function knownNumbering(parsed) {
   for (const rule of RULES) {
