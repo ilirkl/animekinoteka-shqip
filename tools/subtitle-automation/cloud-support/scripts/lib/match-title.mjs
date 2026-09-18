@@ -43,21 +43,56 @@ export function tokenise(text) {
     .map(collapseRomaji);
 }
 
+// Word boundaries disagree between the two sources. Anikoto writes "BanG Dream! Yume∞Mita",
+// where the symbol tokenises as a separator and yields yume+mita, while the release writes
+// "Yumemita" as one word. Matching runs of up to three adjacent tokens against the other
+// side's joined forms lets those line up.
+const MAX_RUN = 3;
+
+function joinedForms(tokens) {
+  const forms = new Set();
+  for (let start = 0; start < tokens.length; start++) {
+    for (let length = 1; length <= MAX_RUN && start + length <= tokens.length; length++) {
+      forms.add(tokens.slice(start, start + length).join(''));
+    }
+  }
+  return forms;
+}
+
+// Fraction of `tokens` accounted for by `forms`, where a run of adjacent tokens counts as
+// covered if its concatenation appears on the other side.
+function coverage(tokens, forms) {
+  if (!tokens.length) return 0;
+  const covered = new Array(tokens.length).fill(false);
+  for (let start = 0; start < tokens.length; start++) {
+    for (let length = 1; length <= MAX_RUN && start + length <= tokens.length; length++) {
+      if (!forms.has(tokens.slice(start, start + length).join(''))) continue;
+      for (let i = start; i < start + length; i++) covered[i] = true;
+    }
+  }
+  return covered.filter(Boolean).length / tokens.length;
+}
+
 // Two measures, because they fail on opposite shapes:
-//   Dice        — balanced when both titles are similar lengths
+//   F1          — balanced when both titles are similar lengths
 //   containment — a short filename title against a long official one, e.g. "Tenkosaki"
-//                 against the full light-novel title, where Dice would score near zero
-// Containment alone would match too eagerly, so pickBest still requires a clear margin
-// over the runner-up before accepting anything.
+//                 against the full light-novel title, where F1 would score near zero
+//
+// Containment is deliberately one-directional: it only rescues the case it exists for, the
+// filename title being the shorter side. Allowing it both ways let any candidate whose title
+// is a strict prefix of the release score a perfect 1.0 — "BanG Dream!" beat the actual
+// "BanG Dream! Yume∞Mita" that way. Even so containment matches eagerly, so pickBest still
+// requires a clear margin over the runner-up before accepting anything.
 export function similarity(a, b) {
-  const left = new Set(tokenise(a));
-  const right = new Set(tokenise(b));
-  if (!left.size || !right.size) return 0;
-  let shared = 0;
-  for (const token of left) if (right.has(token)) shared++;
-  const dice = (2 * shared) / (left.size + right.size);
-  const containment = shared / Math.min(left.size, right.size);
-  return Math.max(dice, containment);
+  const left = tokenise(a);
+  const right = tokenise(b);
+  if (!left.length || !right.length) return 0;
+  const leftCoverage = coverage(left, joinedForms(right));
+  const rightCoverage = coverage(right, joinedForms(left));
+  if (!leftCoverage || !rightCoverage) return 0;
+  const f1 = (2 * leftCoverage * rightCoverage) / (leftCoverage + rightCoverage);
+  const containment = left.length <= right.length ? leftCoverage : 0;
+  return Math.max(f1, containment);
 }
 
 const ORDINALS = {2: 'second', 3: 'third', 4: 'fourth', 5: 'fifth'};

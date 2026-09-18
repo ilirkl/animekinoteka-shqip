@@ -24,7 +24,7 @@ for (const episode of catalog) {
   await writeFile(`${OUT}/${file}`, toVtt(cues, 0));
   const assFile = `ass/${episode.id}.sq.ass`;
   await copyFile(source, `${OUT}/${assFile}`);
-  entries.push({
+  const entry = {
     id: episode.id,
     title: episode.title,
     episode: String(episode.episode),
@@ -34,7 +34,16 @@ for (const episode of catalog) {
     file,
     assFile,
     offset: episode.offset || 0
-  });
+  };
+  // The automation publishes these alongside the fields above. A rebuild has to carry
+  // them through, or it silently strips provenance from every automated entry.
+  // `at-<release>` ids encode the AnimeTosho release they came from; hand-added
+  // episodes predate that scheme and correctly have none.
+  if (episode.id.startsWith('at-')) entry.sourceReleaseId = episode.id.slice(3);
+  for (const key of ['sourceEpisode', 'sourceTitle', 'part', 'numberingEvidence']) {
+    if (episode[key] !== undefined) entry[key] = episode[key];
+  }
+  entries.push(entry);
   console.log(`${episode.id}: ${cues.length} cues -> ${file}`);
 }
 

@@ -16,6 +16,9 @@ import xml.etree.ElementTree as ET
 FEED = 'https://feed.animetosho.xyz/rss2?group=SubsPlease'
 LIMIT = 8 * 1024 * 1024
 RELEASE = re.compile(r'^\[SubsPlease\] (.+) - (\d+(?:\.\d+)?) \(1080p\) \[([A-Fa-f0-9]{8})\](?:\.mkv)?$')
+# Inside a batch the episodes keep any revision suffix they shipped with ("- 01v2"),
+# which the feed-level pattern deliberately does not accept for standalone releases.
+BATCH_FILE = re.compile(r'^\[SubsPlease\] (.+) - (\d+(?:\.\d+)?)(?:v\d+)? \(1080p\) \[([A-Fa-f0-9]{8})\]\.mkv$')
 TOKEN = re.compile(r'(\{[^}]*\}|\\[Nnh])')
 
 def read(path):
@@ -60,22 +63,43 @@ def releases(data):
                        'published': email.utils.parsedate_to_datetime(item.findtext('pubDate')).timestamp()})
     return result
 
-def attachment(meta, release):
-    if str(meta.get('id')) != release['id'] or meta.get('deleted') or meta.get('is_batch'):
-        raise ValueError('Release metadata mismatch or batch')
-    files = meta.get('files', [])
-    if len(files) != 1 or files[0].get('filename', files[0].get('name')) != release['release']:
-        raise ValueError('Expected one matching episode file')
-    video = files[0].get('info', {}).get('mediainfoj', {}).get('video', [])
+def subtitle_url(meta, entry):
+    """The one unforced English ASS attached to a confirmed 1080p file.
+
+    A standalone release carries its attachments at the top level; inside a batch each
+    file carries its own, so prefer the file's list and fall back to the release's.
+    """
+    video = entry.get('info', {}).get('mediainfoj', {}).get('video', [])
     if len(video) != 1 or int(video[0].get('height', 0)) != 1080:
         raise ValueError('Video metadata does not confirm 1080p')
-    candidates = [a for a in meta.get('attachments', []) if a.get('type') == 'subtitle'
+    attachments = entry.get('attachments') or meta.get('attachments', [])
+    candidates = [a for a in attachments if a.get('type') == 'subtitle'
                   and a.get('info', {}).get('language_code') == 'eng'
                   and str(a.get('info', {}).get('format', '')).upper() == 'ASS'
                   and not a.get('info', {}).get('forced')]
     if len(candidates) != 1:
         raise ValueError('Expected exactly one unforced English ASS track')
     return candidates[0]['url']
+
+def attachment(meta, release):
+    batched = release.get('fileId') is not None
+    if str(meta.get('id')) != str(release.get('torrentId', release['id'])) or meta.get('deleted'):
+        raise ValueError('Release metadata mismatch')
+    if bool(meta.get('is_batch')) != batched:
+        raise ValueError('Batch flag does not match the queued item')
+    files = meta.get('files', [])
+    if batched:
+        # Pin to the exact file this item was expanded from, not to its position.
+        chosen = [f for f in files if f.get('id') == release['fileId']]
+        if len(chosen) != 1:
+            raise ValueError('Queued batch file is no longer in the release')
+    else:
+        chosen = files
+        if len(chosen) != 1:
+            raise ValueError('Expected one matching episode file')
+    if chosen[0].get('filename', chosen[0].get('name')) != release['release']:
+        raise ValueError('Episode filename changed since it was queued')
+    return subtitle_url(meta, chosen[0])
 
 def decompress(data):
     decoder = lzma.LZMADecompressor(memlimit=128 * 1024 * 1024)
@@ -159,7 +183,7 @@ def lock(root):
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--project', type=Path, required=True)
-    parser.add_argument('command', choices=['init','scan','status','prepare','build','publish'])
+    parser.add_argument('command', choices=['init','scan','expand','status','prepare','build','publish'])
     parser.add_argument('id', nargs='?')
     parser.add_argument('--reviewed', action='store_true')
     args = parser.parse_args()
@@ -186,6 +210,45 @@ def main():
                 if release['published'] >= state['since'] and release['id'] not in state['items']:
                     state['items'][release['id']] = {**release, 'status': 'queued'}
             save()
+        if args.command == 'expand':
+            # Deliberate backfill only: the feed's history is finite, so a season that
+            # aged out of it survives solely inside its batch. Never called by `scan`.
+            if not args.id or not args.id.isdigit():
+                raise ValueError('expand needs a batch release ID')
+            meta = json.loads(fetch(f'https://feed.animetosho.xyz/json?id={args.id}&show=torrent'))
+            if str(meta.get('id')) != args.id or meta.get('deleted'):
+                raise ValueError('Release metadata mismatch')
+            if not meta.get('is_batch'):
+                raise ValueError('Not a batch; single releases arrive through scan')
+            added, skipped = [], []
+            for entry in meta.get('files', []):
+                name = entry.get('filename') or entry.get('name') or ''
+                parsed = BATCH_FILE.fullmatch(name)
+                file_id = entry.get('id')
+                if not parsed or not isinstance(file_id, int):
+                    skipped.append(f'{name}: not a 1080p SubsPlease episode file')
+                    continue
+                key = str(file_id)
+                if key in state['items']:
+                    skipped.append(f"{name}: already {state['items'][key]['status']}")
+                    continue
+                try:
+                    # Validate before queueing so a bad file never reaches the translator.
+                    subtitle_url(meta, entry)
+                except ValueError as error:
+                    skipped.append(f'{name}: {error}')
+                    continue
+                state['items'][key] = {
+                    'id': key, 'release': name, 'title': parsed[1], 'episode': parsed[2],
+                    'crc': parsed[3].upper(), 'published': meta.get('timestamp', 0),
+                    'status': 'queued', 'torrentId': args.id, 'fileId': file_id,
+                    'batchReason': f'Expanded from batch release {args.id}: {meta.get("title")}',
+                }
+                added.append(f'{key}  {name}')
+            save()
+            print(json.dumps({'batch': args.id, 'title': meta.get('title'),
+                              'added': added, 'skipped': skipped}, ensure_ascii=False, indent=2))
+            return
         if args.command in {'scan', 'status'}:
             print(json.dumps(state, ensure_ascii=False, indent=2))
             return
@@ -204,7 +267,9 @@ def main():
                     item.update(status='duplicate', match=match); save()
                     print(json.dumps(item)); return
                 write(folder / 'match.json', match)
-                meta = json.loads(fetch(f'https://feed.animetosho.xyz/json?id={args.id}&show=torrent'))
+                # A batch-expanded item is keyed by its file ID, so fetch its parent torrent.
+                torrent = str(item.get('torrentId', args.id))
+                meta = json.loads(fetch(f'https://feed.animetosho.xyz/json?id={torrent}&show=torrent'))
                 raw = decompress(fetch(attachment(meta, item)))
                 _, slots = segments(raw)
                 (folder / 'source.ass').write_bytes(raw)

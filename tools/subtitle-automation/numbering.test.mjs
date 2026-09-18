@@ -18,3 +18,41 @@ test('other titles and seasons cannot inherit this offset',()=>{
   assert.equal(knownNumbering({...source,title:'Yoroiden Samurai Troopers'}),null);
   assert.equal(knownNumbering({...source,season:2}),null);
 });
+
+const onePiece = {title:'One Piece',season:null,episode:'1178'};
+test('One Piece pins the ongoing series without renumbering the episode',()=>{
+  const result=knownNumbering(onePiece);
+  assert.equal(result.slug,'one-piece-odmau');
+  assert.equal(result.malId,21);
+  assert.equal(result.episode,'1178');
+  assert.equal(result.sourceEpisode,'1178');
+  assert.equal(result.part,undefined,'a straight pin must not claim a split cour');
+});
+test('the One Piece pin cannot swallow specials or other titles',()=>{
+  for(const episode of ['1','13','999','1178.5']) assert.equal(knownNumbering({...onePiece,episode}),null);
+  assert.equal(knownNumbering({...onePiece,title:'One Piece Heroines'}),null);
+  assert.equal(knownNumbering({...onePiece,season:2}),null);
+});
+// The spin-off's season 2 is a different Anikoto series from both the 2016 mainline
+// "Bungo Stray Dogs 2" and from WAN! season 1.
+const wan2 = {title:'Bungou Stray Dogs Wan!',season:2,episode:'12'};
+test('Bungo Stray Dogs WAN! season 2 pins the spin-off, not the mainline series',()=>{
+  const result=knownNumbering(wan2);
+  assert.equal(result.slug,'bungo-stray-dogs-wan-2');
+  assert.equal(result.malId,62883);
+  assert.equal(result.episode,'12');
+  assert.equal(knownNumbering({...wan2,title:'Bungo Stray Dogs Wan!'}).malId,62883,'both spellings pin');
+});
+test('WAN! season 1 must not inherit the season 2 mapping',()=>{
+  assert.equal(knownNumbering({...wan2,season:null}),null);
+  assert.equal(knownNumbering({...wan2,season:1}),null);
+  assert.equal(knownNumbering({...wan2,season:3}),null);
+  // The mainline series shares a prefix and must never be captured by it.
+  assert.equal(knownNumbering({title:'Bungou Stray Dogs',season:2,episode:'12'}),null);
+  assert.equal(knownNumbering({title:'Bungou Stray Dogs Wan! Special',season:2,episode:'1'}),null);
+});
+
+test('rules stay independent of one another',()=>{
+  assert.equal(knownNumbering({title:'One Piece',season:null,episode:'23'}),null);
+  assert.equal(knownNumbering({...source,episode:'1178'}),null);
+});

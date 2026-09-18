@@ -116,10 +116,16 @@ function kaijuGirlCaramelise(parsed) {
   };
 }
 
+// SubsPlease releases this as "Bungou Stray Dogs Wan! S2", which parseFilename splits
+// into title "Bungou Stray Dogs Wan!" plus season 2. Anikoto lists the spin-off's second
+// season under its own slug, nowhere near the 2016 mainline "Bungo Stray Dogs 2" the
+// search used to pick. The title is anchored and the season is required: an unanchored
+// prefix with no season check also swallowed WAN! season 1 and filed it under season 2.
 function bungoStrayDogsWan2(parsed) {
   const episode = Number(parsed.episode);
-  if (!/^Bungou? Stray Dogs Wan!?/i.test(parsed.title) ||
-      !Number.isInteger(episode)) return null;
+  if (!/^Bungou? Stray Dogs Wan!?$/i.test(parsed.title) ||
+      parsed.season !== 2 ||
+      !Number.isInteger(episode) || episode < 1) return null;
   return {
     slug:'bungo-stray-dogs-wan-2',
     title:'Bungo Stray Dogs WAN! 2',
