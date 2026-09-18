@@ -1,6 +1,6 @@
 # Animekinoteka — Titra shqip për Anikoto
 
-Shtojcë për Chrome që shton titra shqip drejt te lojtari i **anikototv.to**. Titrat
+Shtojcë për Chrome që shton titra shqip drejt te webfaqja e **anikototv.to**. Titrat
 ngarkohen vetvetiu sipas serisë dhe episodit që po shikon — nuk ke nevojë të shkarkosh
 asgjë manualisht.
 
@@ -8,28 +8,25 @@ asgjë manualisht.
 
 ## Instalimi
 
-### 1. Shkarko skedarët
+### 1. Shkarko skedarin "extension"
 
-[**Shkarko animekinoteka-extension-0.2.1.zip**](https://github.com/ilirkl/animekinoteka-shqip/raw/main/extension/animekinoteka-extension-0.2.1.zip)
+[**Shkarko animekinoteka-extension-0.2.2.zip**](https://github.com/ilirkl/animekinoteka-shqip/raw/main/extension/animekinoteka-extension-0.2.2.zip)
 
-Ose kliko butonin e gjelbër **Code → Download ZIP** për të gjithë depon.
-
-### 2. Shpaketo
+### 2. Shpaketo "unzip"
 
 Kliko me të djathtën mbi skedarin e shkarkuar → **Extract All…** (Nxirr të gjitha).
-Duhet të të dalë një dosje që përmban `manifest.json`, `background.js` dhe të tjera.
+Duhet të të dalë një folder që përmban `manifest.json`, `background.js` dhe të tjera.
 
-> Mos e ngarko skedarin `.zip` drejtpërdrejt — Chrome kërkon dosjen e shpaketuar.
+> Mos e ngarko skedarin `.zip` drejtpërdrejt — Chrome kërkon dosjen e shpaketuar "unzip".
 
 ### 3. Ngarko në Chrome
 
 1. Hap `chrome://extensions`
 2. Ndiz **Developer mode** (Mënyra e zhvilluesit) — sipër djathtas
 3. Kliko **Load unpacked** (Ngarko të pashpaketuar)
-4. Zgjidh dosjen që sapo shpaketove
+4. Zgjidh folderin që sapo shpaketove
 
-**Kaq.** Nuk ka konfigurim, nuk ka çelësa për të vendosur, nuk ka leje për të dhënë —
-shtojca punon menjëherë pas instalimit.
+**Kaq.** Shtojca "extension" punon menjëherë pas instalimit.
 
 ---
 
@@ -37,11 +34,7 @@ shtojca punon menjëherë pas instalimit.
 
 1. Hap një episod në anikototv.to
 2. Shtyp **Play** — titrat shqip ngarkohen vetvetiu
-
-   > Titrat nuk ngarkohen para se të shtypësh Play. Anikoto e krijon lojtarin vetëm në
-   > atë moment, ndaj deri atëherë paneli shkruan *"press play"*.
-
-3. Nëse nuk zgjidhen vetë, zgjidh **Albanian** te menuja e titrave e lojtarit
+3. Nëse nuk zgjidhen vetë, zgjidh **Shqip/Albanian** te menuja e titrave e lojtarit
 
 ### Shenjat që do të shohësh
 
@@ -53,9 +46,6 @@ shtojca punon menjëherë pas instalimit.
 | `⛶` | Ekran i plotë **me** titra |
 
 Rregullimi i kohës ruhet veçmas për çdo episod, vetëm në kompjuterin tënd.
-
-> Përdor butonin `⛶` të shtojcës për ekran të plotë. Butoni i vetë lojtarit i fsheh
-> titrat tona, sepse hap vetëm kornizën e videos.
 
 Titrat e reja shtohen vazhdimisht dhe shtojca i merr vetvetiu — mjafton ta rihapësh
 faqen. Ndryshimet mund të duan deri në 10 minuta që të dalin.
@@ -108,4 +98,4 @@ mbetet burimi i vetëm i së vërtetës.
 
 ---
 
-Versioni 0.2.1
+Versioni 0.2.2
