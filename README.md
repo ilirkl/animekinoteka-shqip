@@ -1,4 +1,4 @@
-# Animekinoteka — Titra shqip për Anikoto
+# Animekinoteka — Anime me Titra shqip për Anikoto
 
 Shtojcë për Chrome që shton titra shqip drejt te webfaqja e **anikototv.to**. Titrat
 ngarkohen vetvetiu sipas serisë dhe episodit që po shikon — nuk ke nevojë të shkarkosh
