@@ -37,8 +37,12 @@ async function match(filename) {
   const numbered = knownNumbering(parsed);
   if (numbered) {
     const anime = await getAnime(numbered.slug);
+    if (anime.title !== numbered.title)
+      throw Error('Verified numbering no longer agrees with live Anikoto metadata');
     const episode = anime.episodes.find(e => String(e.number) === numbered.episode && e.sub);
-    if (anime.title !== numbered.title || !episode || Number(episode.malId) !== numbered.malId)
+    if (!episode)
+      throw Error(`No subtitled episode ${numbered.episode} in ${numbered.slug}; episode not available yet on Anikoto`);
+    if (Number(episode.malId) !== numbered.malId)
       throw Error('Verified numbering no longer agrees with live Anikoto metadata');
     const result = {filename,title:anime.title,episode:numbered.episode,season:1,part:numbered.part,
       sourceEpisode:numbered.sourceEpisode,sourceTitle:numbered.sourceTitle,numberingEvidence:numbered.evidence,
