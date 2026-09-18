@@ -401,12 +401,12 @@
     },
     {
       "id": "at-689010",
-      "title": "Bungo Stray Dogs 2",
+      "title": "Bungo Stray Dogs WAN! 2",
       "episode": "12",
-      "malId": 32867,
-      "anilistId": 21679,
+      "malId": 62883,
+      "anilistId": null,
       "slugs": [
-        "bungo-stray-dogs-2-vet3g"
+        "bungo-stray-dogs-wan-2"
       ],
       "file": "files/at-689010.sq.vtt",
       "assFile": "ass/at-689010.sq.ass",
