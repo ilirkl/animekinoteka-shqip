@@ -690,6 +690,23 @@
       "assFile": "ass/at-689452.sq.ass",
       "offset": 0,
       "sourceReleaseId": "689452"
+    },
+    {
+      "id": "at-689595",
+      "title": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
+      "episode": "22",
+      "malId": 57466,
+      "anilistId": 171110,
+      "slugs": [
+        "ascendance-of-a-bookworm-adopted-daughter-of-an-archduke-huvyk"
+      ],
+      "file": "files/at-689595.sq.vtt",
+      "assFile": "ass/at-689595.sq.ass",
+      "offset": 0,
+      "sourceReleaseId": "689595",
+      "sourceEpisode": "22",
+      "sourceTitle": "Honzuki no Gekokujou",
+      "numberingEvidence": "https://anikototv.to/watch/ascendance-of-a-bookworm-adopted-daughter-of-an-archduke-huvyk"
     }
   ]
 }
