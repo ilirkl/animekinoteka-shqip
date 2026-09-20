@@ -1,0 +1,438 @@
+﻿[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Irumakun - Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Irumakun - Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Irumakun - Italics - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Irumakun - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Irumakun - Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Irumakun - Flashback  Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Iruma - Ep Title,Trebuchet MS,20,&H00FDFFFF,&H000000FF,&H00F82DD6,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,121,1
+Style: Iruma-kun Title,Trebuchet MS,20,&H00070203,&H000000FF,&H0086D48E,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,162,168,121,1
+Style: Next Ep Preview,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,387,33,269,1
+Style: sign_33891_414_Ma,Arial,24,&H000AFFF6,&H000000FF,&H00AA5E96,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,491,112,10,1
+Style: sign_33855_412_Su,Arial,24,&H000AFFF6,&H000000FF,&H00AA5E96,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,126,480,4,1
+Style: sign_33873_413_Ki,Arial,24,&H000AFFF6,&H000000FF,&H00AA5E96,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,303,310,9,1
+Style: sign_13097_166_Balam_Shichiro,Trebuchet MS,18,&H00FFFFFF,&H000000FF,&H00101310,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,55,51,70,1
+Style: Season 3 Ep Title,Trebuchet MS,22,&H002C4667,&H000000FF,&H009EB8E2,&H00E537C7,-1,0,0,0,100,100,0,0,1,1.5,2,2,10,10,121,1
+Style: Purple Sign Base,Trebuchet MS,22,&H00C7029E,&H000000FF,&H003A0A16,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,62,1
+Style: sign_6058_50_Block_4,Trebuchet MS,22,&H00C7029E,&H000000FF,&H003A0A16,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,273,286,310,1
+Style: sign_11313_129_S_o_l_d,Trebuchet MS,16,&H00777170,&H000000FF,&H00ECEBF0,&H00000000,-1,0,0,0,100,100,0,0,3,3,0,8,319,311,118,1
+Style: sign_11587_135_Munch_____Munch_,Trebuchet MS,18,&H00010305,&H000000FF,&H0092C1CD,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,250,20,202,1
+Style: sign_12117_146_Survival_High,Trebuchet MS,22,&H00CA2517,&H000000FF,&H00F5BF3C,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,107,1
+Style: sign_16050_202_Hell_Grey_Tea__D,Trebuchet MS,18,&H003B292F,&H000000FF,&H00C87AA4,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,313,195,114,1
+Style: sign_18349_232_Badump,Trebuchet MS,20,&H00590048,&H000000FF,&H005AEBFE,&H007A5EC8,-1,0,0,0,100,100,0,8,1,2,1,2,130,429,223,1
+Style: sign_19975_262_Sensory_Bandit__,Trebuchet MS,18,&H00FFFFFF,&H000000FF,&H00101310,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,196,198,268,1
+Style: sign_21843_285_Fight__Defend__T,Verdana,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,1,494,10,147,1
+Style: sign_21843_286_block,Verdana,22,&H00100B10,&H00100B10,&H00100B10,&H00100B10,0,0,0,0,100,100,0,0,3,5,0,2,496,57,140,1
+Style: sign_21843_286_block_block_bloc,Verdana,24,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,5,0,2,486,89,187,1
+Style: sign_22119_291_Clara,Trebuchet MS,24,&H0008080D,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,99,80,263,1
+Style: sign_25110_344_Kaboom_,Tahoma,24,&H001A00DA,&H000000FF,&H007BDEFF,&H00000000,-1,0,0,0,100,100,0,0,1,1,3,2,10,10,319,1
+Style: sign_26605_369_Everyone,Trebuchet MS,24,&H00230CC9,&H000000FF,&H0068B093,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,264,264,20,1
+Style: sign_26605_369_Eve_ry_one,Trebuchet MS,24,&H00230CC9,&H000000FF,&H0068B093,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,132,463,192,1
+Style: sign_26641_371_Everyone,Times New Roman,20,&H00161412,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,0,0,8,367,186,78,1
+Style: sign_26677_373_Everyone,Tahoma,29,&H001B0062,&H000000FF,&H00000000,&H001B0AD2,-1,0,0,0,100,100,0,0,1,0,1,1,74,20,140,1
+Style: sign_26713_375_I_love_everyone_,Trebuchet MS,24,&H000A0A0A,&H000000FF,&H00F6F6F6,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,9,10,80,20,1
+Style: sign_6147_46_Summon__Toy_Toy_,Trebuchet MS,18,&H00FFFFFF,&H000000FF,&H00101310,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,237,233,70,1
+Style: sign_6147_46_Summon_________T,Trebuchet MS,18,&H00FFFFFF,&H000000FF,&H00101310,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,213,217,94,1
+Style: sign_7353_65_Strike_,Trebuchet MS,24,&H00FEFBF7,&H000000FF,&H002C10CD,&H00000000,-1,0,0,0,100,100,0,0,3,6,0,2,111,450,295,1
+Style: sign_7401_65_Strike_,Trebuchet MS,24,&H00FEFBF7,&H000000FF,&H002C10CD,&H00000000,-1,0,0,0,100,100,0,5,1,4,0,2,105,425,268,1
+Style: sign_7395_66_Hide_and_Flip___,Trebuchet MS,24,&H00F7B013,&H000000FF,&H00F7EFEB,&H00000000,-1,0,0,0,100,100,0,-76,1,4,0,2,86,287,170,1
+Style: sign_7398_67_Reversi,Trebuchet MS,24,&H002F0CD6,&H000000FF,&H0018D046,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,384,167,100,1
+Style: sign_20203_208_Day_1_______Nigh,Trebuchet MS,22,&H00C7029E,&H000000FF,&H00430038,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,249,222,61,1
+Style: sign_21051_217_Nest_Squirrel,Trebuchet MS,22,&H00C7029E,&H000000FF,&H00430038,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,247,249,59,1
+Style: sign_21984_231_Bird_Head_Grass_,Trebuchet MS,22,&H00EB0AAB,&H000000FF,&H00220113,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,230,225,162,1
+Style: sign_23661_255_Semipermanence__,Trebuchet MS,18,&H00FFFFFF,&H000000FF,&H00101310,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,77,346,262,1
+Style: sign_24888_273_Trippy_Vine,Trebuchet MS,22,&H00C7029E,&H000000FF,&H00430038,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,255,257,59,1
+Style: sign_26669_307_Astrology_____Lu,Trebuchet MS,18,&H00FFFFFF,&H000000FF,&H00101310,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,204,199,92,1
+Style: sign_30833_352_He_s_So_Hot,Times New Roman,24,&H00036CA6,&H000000FF,&H005AF8F8,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,10,10,20,1
+Style: sign_28551_386_Wind_Sword_Save,Times New Roman,24,&H000C090A,&H000000FF,&H00E0E0E0,&H003C3A3A,-1,0,0,0,100,100,0,0,1,2,2,2,230,200,320,1
+Style: sign_3310_10_Let_s_review__wh,Verdana,18,&H00C16658,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,2,1,0,0,8,321,158,140,1
+Style: sign_4293_23_Day_1,Trebuchet MS,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,30,10,20,1
+Style: sign_25554_317_Vase_of_Endings,Trebuchet MS,22,&H006CCEE7,&H000000FF,&H00C4F3FC,&H00500000,-1,0,0,0,100,100,0,0,1,1,0,2,10,10,100,1
+Style: sign_11071_117_Controller_,Times New Roman,20,&H00000504,&H000000FF,&H0030DECD,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,102,433,62,1
+Style: sign_11071_118_Sensory_Bandit,Times New Roman,20,&H00000504,&H000000FF,&H0030DECD,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,350,124,187,1
+Style: sign_13234_160_For,Times New Roman,24,&H00070B08,&H000000FF,&H00F3F5F5,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,28,435,166,1
+Style: sign_13234_161_For,Times New Roman,24,&H00070B08,&H000000FF,&H00070B08,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,28,435,166,1
+Style: sign_13246_162_Real,Times New Roman,24,&H00070B08,&H000000FF,&H00F3F5F5,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,484,73,150,1
+Style: sign_13246_163_Real,Times New Roman,24,&H00070B08,&H000000FF,&H00070B08,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,484,73,150,1
+Style: sign_14548_183_Controller_Senso,Trebuchet MS,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,198,244,18,1
+Style: sign_17313_233_Perverted,Trebuchet MS,22,&H004D12C0,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,1,1,0,0,8,10,10,20,1
+Style: sign_25817_358_Urk____Ack___,Trebuchet MS,18,&H006C3A31,&H000000FF,&H00EEE0E7,&H00500000,0,0,0,0,100,100,0,0,1,2,0,8,473,21,114,1
+Style: sign_34233_433_Pinpokoporoncho,Trebuchet MS,24,&H00F768EF,&H000000FF,&H003C1367,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,223,206,20,1
+Style: sign_34233_434_Pinpokoporoncho,Trebuchet MS,24,&H00F768EF,&H000000FF,&H00F4EEF2,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,223,206,20,1
+Style: sign_1018_4_Pixie__Fairy_,Trebuchet MS,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,247,241,73,1
+Style: sign_1018_4_Pixie______Fairy,Trebuchet MS,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,226,220,73,1
+Style: S4 Ep Title,Trebuchet MS,22,&H00C7029E,&H000000FF,&H00FAFAFA,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,146,86,217,1
+Style: sign_4273_43_Current_Ranking_,Trebuchet MS,24,&H00000000,&H000000FF,&H006AD6FF,&H00000000,-1,0,0,0,100,100,1,0,1,1,0,2,208,208,20,1
+Style: sign_4273_44_Gimel_,Trebuchet MS,20,&H00B200CF,&H000000FF,&H00ABF5D6,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,249,325,194,1
+Style: sign_9278_125_How_Much_We_Want,Times New Roman,16,&H003900CE,&H000000FF,&H003A0A16,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,15,535,140,1
+Style: sign_9278_125_How_Much_We__Wan,Verdana,20,&H004400F2,&H000000FF,&H00393939,&H00000000,-1,0,0,0,100,100,0,6,1,1,0,2,115,395,118,1
+Style: sign_9596_133_Yeah_,Trebuchet MS,18,&H007FFF6C,&H000000FF,&H00596459,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,195,393,262,1
+Style: sign_9625_134_Hear_Us_Out__Pur,Trebuchet MS,18,&H000D0D0D,&H000000FF,&H00101310,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,100,92,105,1
+Style: sign_18566_285_Goodbye,Trebuchet MS,18,&H00000000,&H000000FF,&H00F6F6F6,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,82,78,70,1
+Style: sign_19583_298_Incognito__Ergo_,Times New Roman,24,&H00000504,&H000000FF,&H00D4E9E6,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,312,86,187,1
+Style: sign_23619_349_We_re_looking_fo,Trebuchet MS,18,&H00000000,&H000000FF,&H00F6F6F6,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,373,33,115,1
+Style: sign_24515_358_Gloomy__________,Times New Roman,24,&H00000504,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,249,23,187,1
+Style: sign_24596_364_Huh_,Times New Roman,16,&H00000504,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,196,400,137,1
+Style: sign_5267_49_An_Illustrated_T,Trebuchet MS,16,&H00000000,&H000000FF,&H00EEEEEE,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0,0,144,1
+Style: sign_6682_69_The_Pincushion_L,Times New Roman,24,&H00A6CBEE,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,147,147,20,1
+Style: sign_17614_180_Because_he_s_the,Times New Roman,22,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,26,355,89,1
+Style: sign_34916_338_Intelligence,Trebuchet MS,22,&H00D46241,&H000000FF,&H003A0A16,&H00000000,-1,0,0,0,100,100,0,19,1,2,0,2,107,402,281,1
+Style: sign_34934_339_Culture,Trebuchet MS,22,&H005ED370,&H000000FF,&H003A0A16,&H00000000,-1,0,0,0,100,100,0,16,1,2,0,2,475,82,211,1
+Style: sign_35197_344_Endurance,Trebuchet MS,22,&H003426E2,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,16,1,2,0,2,52,469,261,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.60,0:00:08.12,Irumakun - Flashback,BELZEBUTH,0,0,0,,Mirëseardhje, kandidatë të rinj\Ntë Mbretit Demon.
+Dialogue: 0,0:00:08.12,0:00:11.08,Irumakun - Flashback,BELZEBUTH,0,0,0,,Nëse vjen dita që ju\Ntë bëheni Mbreti Demon,
+Dialogue: 0,0:00:11.08,0:00:15.11,Irumakun - Flashback,BELZEBUTH,0,0,0,,si do ta sundoni botën e nëndheshme?
+Dialogue: 0,0:00:15.35,0:00:17.39,Irumakun - Flashback,IRUMA,0,0,0,,Gjysh.
+Dialogue: 0,0:00:19.08,0:00:20.25,Irumakun - Flashback,IRUMA,0,0,0,,Ti vërtet...
+Dialogue: 0,0:00:20.25,0:00:22.20,Irumakun - Flashback,IRUMA,0,0,0,,dëshiron të më bësh Mbretin Demon?
+Dialogue: 0,0:00:22.20,0:00:23.54,Irumakun - Flashback,SULLIVAN,0,0,0,,Mbreti Demon...
+Dialogue: 0,0:00:23.54,0:00:28.08,Irumakun - Flashback,SULLIVAN,0,0,0,,është pozicioni më i madh dhe më i paarritshëm\Nnë botën e nëndheshme.
+Dialogue: 0,0:00:28.40,0:00:32.97,Irumakun - Flashback,SULLIVAN,0,0,0,,E sheh, kur të zgjedhësh\Nrrugën për të ardhmen,
+Dialogue: 0,0:00:33.32,0:00:37.37,Irumakun - Flashback,SULLIVAN,0,0,0,,dua të të lë opsionin për të ndjekur\Nedhe rrugën për t'u bërë Mbret Demon.
+Dialogue: 0,0:02:08.98,0:02:13.48,S4 Ep Title,SIGN,0,0,0,,{\pos(318,151)}Rruga drejt Mbretit Demon
+Dialogue: 0,0:02:09.54,0:02:11.69,Irumakun - Default,IRUMA/SABNOCK,0,0,0,,"Rruga drejt Mbretit Demon."
+Dialogue: 0,0:02:17.24,0:02:21.74,Purple Sign Base,SIGN,0,0,0,,{\fad(355,1)\c&HEE07BC&\pos(321.143,280)}Battleri i Mbretit Demon
+Dialogue: 0,0:02:21.76,0:02:24.15,Irumakun - Default,IRUMA,0,0,0,,M-Më falni!
+Dialogue: 0,0:02:26.03,0:02:27.72,Irumakun - Default,IRUMA,0,0,0,,Përshëndetje, anëtarë të Battlerit të Mbretit Demon.
+Dialogue: 0,0:02:27.72,0:02:30.13,Irumakun - Default,IRUMA,0,0,0,,Doja të... pyesja...
+Dialogue: 0,0:02:30.45,0:02:32.43,Irumakun - Default,MEMBER A,0,0,0,,Kemi një mysafir!
+Dialogue: 0,0:02:31.40,0:02:33.33,Irumakun - Default,PRESIDENT,0,0,0,,Sa e rrallë, shoku im!
+Dialogue: 0,0:02:36.88,0:02:39.21,Irumakun - Italics,NARRATOR,0,0,0,,Battleri i Mbretit Demon në Babyls.
+Dialogue: 0,0:02:39.21,0:02:41.72,Irumakun - Italics,NARRATOR,0,0,0,,Ata mbledhin literaturë\Npër Mbretërit Demon,
+Dialogue: 0,0:02:41.72,0:02:44.80,Irumakun - Italics,NARRATOR,0,0,0,,e kërkojnë atë dhe flasin pa fund\Npër të.
+Dialogue: 0,0:02:44.80,0:02:47.52,Irumakun - Italics,NARRATOR,0,0,0,,Ky Battler vërtet i do Mbretërit Demon.
+Dialogue: 0,0:02:47.73,0:02:49.65,Irumakun - Default,SABNOCK,0,0,0,,Pra, Iruma...
+Dialogue: 0,0:02:50.03,0:02:52.52,Irumakun - Default,SABNOCK,0,0,0,,Çfarë po bën këtu?
+Dialogue: 0,0:02:50.75,0:02:54.40,Purple Sign Base,SIGN,0,0,0,,{\fnTimes New Roman\c&H000000&\3c&HFFFFFF&\move(91.428,27.143,161.142,62.572,3,1632)}Mirëseardhje e ngrohtë
+Dialogue: 0,0:02:52.52,0:02:54.40,Irumakun - Default,IRUMA,0,0,0,,P-Po...
+Dialogue: 0,0:02:54.40,0:02:57.44,Irumakun - Default,IRUMA,0,0,0,,Epo, para se ta kuptoja,\Nata si të thuash më mirëpritën.
+Dialogue: 0,0:02:57.44,0:02:59.61,Irumakun - Default,IRUMA,0,0,0,,Më vjen keq që hyra kaq papritur.
+Dialogue: 0,0:02:59.61,0:03:03.11,Irumakun - Default,SABNOCK,0,0,0,,Epo, kjo është e rrallë. A erdhe\Nkëtu për të ngrënë meze?
+Dialogue: 0,0:03:03.45,0:03:07.29,Irumakun - Default,IRUMA,0,0,0,,Jo, hm, doja të flisja\Nme ty, Sabnock-kun.
+Dialogue: 0,0:03:07.29,0:03:08.40,Irumakun - Default,SABNOCK,0,0,0,,Të flasësh?
+Dialogue: 0,0:03:08.40,0:03:10.00,Irumakun - Default,IRUMA,0,0,0,,Po, e di...
+Dialogue: 0,0:03:10.00,0:03:11.22,Irumakun - Default,SABNOCK,0,0,0,,Faleminderit për ushqimin.
+Dialogue: 0,0:03:12.04,0:03:13.79,Irumakun - Default,IRUMA,0,0,0,,...për Mbretin Demon.
+Dialogue: 0,0:03:13.79,0:03:15.05,Irumakun - Default,SABNOCK,0,0,0,,Çfarë?!
+Dialogue: 0,0:03:15.05,0:03:17.30,Irumakun - Default,SABNOCK,0,0,0,,Duhet ta kishe përmendur\Nmë herët, rivali im!
+Dialogue: 0,0:03:17.30,0:03:20.12,Irumakun - Default,SABNOCK,0,0,0,,Do të të tregoj gjithçka! Eja këtej!
+Dialogue: 0,0:03:20.16,0:03:20.80,Irumakun - Default,MEMBER B,0,0,0,,Shoku!
+Dialogue: 0,0:03:20.80,0:03:22.48,Irumakun - Default,MEMBER A,0,0,0,,Shoku!
+Dialogue: 0,0:03:22.48,0:03:24.22,Irumakun - Default,IRUMA,0,0,0,,Faleminderit për çajin Hell Grey!
+Dialogue: 0,0:03:24.22,0:03:28.22,Purple Sign Base,SIGN,0,0,0,,{\pos(321.143,301.429)}Biblioteka
+Dialogue: 0,0:03:26.12,0:03:28.23,Irumakun - Top,IRUMA,0,0,0,,Uau...
+Dialogue: 0,0:03:28.23,0:03:30.21,Irumakun - Default,SABNOCK,0,0,0,,Kjo është biblioteka.
+Dialogue: 0,0:03:30.21,0:03:34.24,Irumakun - Default,SABNOCK,0,0,0,,Të gjitha dokumentet e rëndësishme për\NMbretërit Demon janë këtu.
+Dialogue: 0,0:03:35.29,0:03:39.20,Irumakun - Default,SABNOCK,0,0,0,,A po të tërheq vëmendjen ndonjë prej tyre?\NKemi gjithçka!
+Dialogue: 0,0:03:39.20,0:03:41.73,Irumakun - Default,SABNOCK,0,0,0,,{\i1}Kronologji e ilustruar e\NMbretërve Demon ndër vite, me ngjyra{\i0},
+Dialogue: 0,0:03:39.65,0:03:42.03,sign_5267_49_An_Illustrated_T,SIGN,0,0,0,,{\fad(1,1)\fs14\frz359.7\3c&HD7D7D7&\move(380.571,59.429,646.857,65.143,27,2363)}Kronologji e ilustruar e Mbretërve\NDemon ndër vite, me ngjyra
+Dialogue: 0,0:03:40.65,0:03:43.66,sign_5267_49_An_Illustrated_T,SIGN,0,0,0,,{\fad(529,1)\fs14\frz359.7\3c&HD7D7D7&\move(142.857,58.286,468.571,59.429,28,2990)}666 këngët e dashura\Ntë Mbretërve Demon
+Dialogue: 0,0:03:41.73,0:03:45.03,Irumakun - Default,SABNOCK,0,0,0,,{\i1}666 këngët e dashura të Mbretërve Demon{\i0}...
+Dialogue: 0,0:03:42.20,0:03:43.66,sign_5267_49_An_Illustrated_T,SIGN,0,0,0,,{\fad(480,1)\fs14\frz359.7\3c&HD7D7D7&\move(140.571,67.429,269.714,66.286,22,1440)}Fushat e Luleve\NYokakuri
+Dialogue: 0,0:03:45.07,0:03:48.54,sign_5267_49_An_Illustrated_T,SIGN,0,0,0,,{\fad(488,1)\pos(401.143,35.429)}Derkila: Biografi
+Dialogue: 0,0:03:49.32,0:03:51.04,Irumakun - Italics,IRUMA,0,0,0,,Derkila-sama...
+Dialogue: 0,0:03:51.04,0:03:54.50,Irumakun - Default,SABNOCK,0,0,0,,Ah, biografia e\NMbretit Derkila! Një klasik!
+Dialogue: 0,0:03:54.78,0:03:56.96,Irumakun - Default,IRUMA,0,0,0,,Edhe unë e njoh këtë emër...
+Dialogue: 0,0:03:57.22,0:04:02.48,Irumakun - Default,SABNOCK,0,0,0,,Epo, thuhet se është i pari ose i dyti\NMbret Demon më popullor i të gjithëve!
+Dialogue: 0,0:04:03.76,0:04:06.51,Irumakun - Default,SABNOCK,0,0,0,,"Derkila, Mbreti Demon i Zhdukur!
+Dialogue: 0,0:04:06.80,0:04:11.32,Irumakun - Default,SABNOCK,0,0,0,,Lavdia e tij ndriçoi gjithë\Nbotën e nëndheshme!"
+Dialogue: 0,0:04:11.32,0:04:14.30,Irumakun - Default,IRUMA,0,0,0,,Derkila-sama u zhduk papritur...
+Dialogue: 0,0:04:14.30,0:04:16.93,Irumakun - Default,IRUMA,0,0,0,,dhe prandaj froni\Nështë aktualisht bosh, apo jo?
+Dialogue: 0,0:04:16.93,0:04:21.28,Irumakun - Default,SABNOCK,0,0,0,,Pikërisht! Edhe pse nuk e di pse.
+Dialogue: 0,0:04:22.33,0:04:27.12,Irumakun - Default,SABNOCK,0,0,0,,Thuhet se fuqitë e tij magjike dhe karizma\Nnuk kanë të krahasuar mes Mbretërve Demon,
+Dialogue: 0,0:04:27.12,0:04:30.86,Irumakun - Default,SABNOCK,0,0,0,,dhe se ai solli reformat më të mëdha\Nnë botën e nëndheshme.
+Dialogue: 0,0:04:31.95,0:04:35.31,Irumakun - Default,SABNOCK,0,0,0,,Ka anekdota dhe legjenda të panumërta\Npër Derkila-sama,
+Dialogue: 0,0:04:35.31,0:04:37.48,Irumakun - Default,SABNOCK,0,0,0,,por e preferuara ime personale...
+Dialogue: 0,0:04:37.48,0:04:38.67,Irumakun - Default,SABNOCK,0,0,0,,është kjo!
+Dialogue: 0,0:04:38.67,0:04:44.28,sign_6682_69_The_Pincushion_L,SIGN,0,0,0,,{\pos(221.714,14.286)}Legjenda e Jastëkut\Ntë Gjilpërave
+Dialogue: 0,0:04:39.00,0:04:42.76,Irumakun - Default,SABNOCK,0,0,0,,"Legjenda e Jastëkut të Gjilpërave"\Nnga lufta veriore!
+Dialogue: 0,0:04:45.27,0:04:49.10,Irumakun - Italics,NARRATOR,0,0,0,,Njëherë e një kohë, kishte një\Nmosmarrëveshje territoriale në veriperëndim.
+Dialogue: 0,0:04:49.40,0:04:53.43,Irumakun - Italics,NARRATOR,0,0,0,,Të dyja palët po përballeshin\Npër Sheshin e Vdekjes.
+Dialogue: 0,0:04:55.85,0:04:59.44,Irumakun - Italics,NARRATOR,0,0,0,,Sapo po përplaseshin\Nnë tokën shkretë nën shkëmbinj,
+Dialogue: 0,0:04:59.44,0:05:02.44,Irumakun - Italics,NARRATOR,0,0,0,,ai zbriti me hijeshi.
+Dialogue: 0,0:05:05.43,0:05:06.68,Irumakun - Italics,NARRATOR,0,0,0,,Dhe pastaj...
+Dialogue: 0,0:05:07.62,0:05:11.75,Irumakun - Italics,NARRATOR,0,0,0,,ai përdori trupin e tij\Npër të ndalur të gjitha armët.
+Dialogue: 0,0:05:11.75,0:05:16.25,Irumakun - Flashback,DERKILA,0,0,0,,Në rregull. Mjafton kaq.\NTë gjithë duhet të shkoni mirë me njëri-tjetrin.
+Dialogue: 0,0:05:16.70,0:05:19.70,Irumakun - Italics,NARRATOR,0,0,0,,Asnjë vdekje dhe vetëm një i lënduar.
+Dialogue: 0,0:05:19.70,0:05:23.66,Irumakun - Italics,NARRATOR,0,0,0,,Ai i ngjante një jastëku gjilpërash.
+Dialogue: 0,0:05:26.78,0:05:31.92,Irumakun - Default,SABNOCK,0,0,0,,E lexova këtë herë pas here si fëmijë\Ndhe u magjepsa nga mashkulloria e tij!
+Dialogue: 0,0:05:33.18,0:05:34.92,Irumakun - Default,SABNOCK,0,0,0,,Dhe prandaj...
+Dialogue: 0,0:05:35.15,0:05:38.94,Irumakun - Default,SABNOCK,0,0,0,,vendosa të jem gjithmonë gati\Ntë përballoj çdo sulm!
+Dialogue: 0,0:05:39.21,0:05:44.76,Irumakun - Default,SABNOCK,0,0,0,,Doja të provoja se trupi im ishte\Npo aq i qëndrueshëm sa i Derkila-sama!
+Dialogue: 0,0:05:45.01,0:05:46.63,Irumakun - Default,SABNOCK,0,0,0,,Kështu është puna!
+Dialogue: 0,0:05:48.28,0:05:52.80,Irumakun - Default,SABNOCK,0,0,0,,Por kohët e fundit, po i shikoj\Ngjërat pak më ndryshe.
+Dialogue: 0,0:05:53.78,0:05:57.38,Irumakun - Default,SABNOCK,0,0,0,,Ndoshta Derkila-sama\Ni përballoi të gjitha ato armë
+Dialogue: 0,0:05:57.38,0:06:02.25,Irumakun - Default,SABNOCK,0,0,0,,sepse donte të dinte\Nsi ndihej dhimbja e lindur nga lufta.
+Dialogue: 0,0:06:02.99,0:06:06.96,Irumakun - Default,SABNOCK,0,0,0,,Ai mësoi si ndihej dhimbja e luftës,\Ne mori në trupin e tij,
+Dialogue: 0,0:06:06.96,0:06:11.94,Irumakun - Default,SABNOCK,0,0,0,,dhe besoi se mund të ishte\Nmbreti që do ta shuante atë luftë.
+Dialogue: 0,0:06:12.64,0:06:16.90,Irumakun - Default,SABNOCK,0,0,0,,Madje Buer përmendi se\Nështë e rëndësishme të njohësh dhimbjen!
+Dialogue: 0,0:06:16.90,0:06:18.78,Irumakun - Default,IRUMA,0,0,0,,E kuptoj...
+Dialogue: 0,0:06:18.78,0:06:23.60,Irumakun - Default,IRUMA,0,0,0,,Epo, kur e mendoj kështu...\Nkam ndjenjën se ishte shumë i mirë.
+Dialogue: 0,0:06:25.15,0:06:28.45,Irumakun - Default,SABNOCK,0,0,0,,Megjithëse asgjësoi një ushtri\Nqë nuk i pëlqente në një natë të vetme...
+Dialogue: 0,0:06:28.45,0:06:29.38,Irumakun - Default,IRUMA,0,0,0,,Çfarë?!
+Dialogue: 0,0:06:29.86,0:06:32.57,Irumakun - Default,SABNOCK,0,0,0,,...dhe krijoi vende të tëra\Ngjatë shëtitjeve.
+Dialogue: 0,0:06:33.20,0:06:35.12,Irumakun - Default,SABNOCK,0,0,0,,U qortua nga shërbëtori i tij
+Dialogue: 0,0:06:35.12,0:06:38.66,Irumakun - Default,SABNOCK,0,0,0,,sepse u përpoq të sillte në kështjellë\Nnjë lumë që i pëlqente.
+Dialogue: 0,0:06:39.04,0:06:41.01,Irumakun - Default,SABNOCK,0,0,0,,Dhe kam disa dokumente në shtëpi
+Dialogue: 0,0:06:41.01,0:06:44.69,Irumakun - Default,SABNOCK,0,0,0,,për një armë\Nqë Derkila-sama vërtet e përdori!
+Dialogue: 0,0:06:44.69,0:06:46.44,Irumakun - Default,IRUMA,0,0,0,,Një armë?! Jam kaq kurioz!
+Dialogue: 0,0:06:46.44,0:06:49.09,Irumakun - Default,SABNOCK,0,0,0,,Forma e saj është vërtet e çuditshme!
+Dialogue: 0,0:07:00.01,0:07:01.92,Irumakun - Default,IRUMA,0,0,0,,Uau...
+Dialogue: 0,0:07:02.49,0:07:04.32,Irumakun - Default,SABNOCK,0,0,0,,A nuk është thjesht magjepsës?
+Dialogue: 0,0:07:04.60,0:07:06.45,Irumakun - Default,SABNOCK,0,0,0,,Fjalët e tij, mënyra si jetoi...
+Dialogue: 0,0:07:06.45,0:07:07.32,Irumakun - Default,IRUMA,0,0,0,,Po!
+Dialogue: 0,0:07:07.61,0:07:09.83,Irumakun - Default,SABNOCK,0,0,0,,Ai i ka prekur zemrat e të gjithëve,
+Dialogue: 0,0:07:10.14,0:07:12.91,Irumakun - Default,SABNOCK,0,0,0,,dhe është simboli i dashur\Ni botës së nëndheshme.
+Dialogue: 0,0:07:13.60,0:07:16.60,Irumakun - Default,SABNOCK,0,0,0,,Arsyeja pse synoj\Ntë bëhem Mbreti Demon...
+Dialogue: 0,0:07:18.18,0:07:22.35,Irumakun - Default,SABNOCK,0,0,0,,është sepse... ai është më i miri që ekziston.
+Dialogue: 0,0:07:25.20,0:07:26.87,Irumakun - Default,IRUMA,0,0,0,,Sapo tani...
+Dialogue: 0,0:07:26.87,0:07:29.21,Irumakun - Default,IRUMA,0,0,0,,dukeshe super si Mbret Demon!
+Dialogue: 0,0:07:31.22,0:07:31.84,Irumakun - Default,SABNOCK,0,0,0,,Hë?
+Dialogue: 0,0:07:31.84,0:07:34.92,Irumakun - Default,IRUMA,0,0,0,,Si, atmosfera! Prania!\NKishe totalisht një aurë!
+Dialogue: 0,0:07:34.92,0:07:37.72,Irumakun - Default,SABNOCK,0,0,0,,Çfarë?! Cila pjesë? Bëhu më specifik!
+Dialogue: 0,0:07:37.72,0:07:41.98,Irumakun - Default,SABNOCK,0,0,0,,Cilit prej Mbretërve Demon\Ni ngjaje?! Këtij?!
+Dialogue: 0,0:07:41.98,0:07:45.28,Irumakun - Default,IRUMA,0,0,0,,Hm... këtij! Dhe...
+Dialogue: 0,0:07:55.92,0:07:58.13,Irumakun - Default,IRUMA,0,0,0,,Mbretërit Demon janë thjesht kaq të mahnitshëm!
+Dialogue: 0,0:07:58.13,0:07:59.49,Irumakun - Default,SABNOCK,0,0,0,,Apo jo?!
+Dialogue: 0,0:07:59.78,0:08:03.51,Irumakun - Default,IRUMA,0,0,0,,Për mua, është ky! Vërtet\Nmë pëlqen{\i1}Fushat e Luleve Yokakuri{\i0}.
+Dialogue: 0,0:08:03.51,0:08:06.26,Irumakun - Default,SABNOCK,0,0,0,,Të kuptoj. Edhe ai është i mrekullueshëm!
+Dialogue: 0,0:08:08.31,0:08:11.01,Irumakun - Default,SABNOCK,0,0,0,,Sinqerisht, jam i habitur.
+Dialogue: 0,0:08:11.71,0:08:16.38,Irumakun - Default,SABNOCK,0,0,0,,Nuk mendoja se do të kishe\Nnjë interes të tillë për Mbretin Demon.
+Dialogue: 0,0:08:16.62,0:08:20.26,Irumakun - Default,SABNOCK,0,0,0,,Kjo më kënaq,\Npor ndodhi gjë?
+Dialogue: 0,0:08:20.55,0:08:24.02,Irumakun - Default,IRUMA,0,0,0,,Po, ndonëse nuk mund të flas\Npër detajet.
+Dialogue: 0,0:08:24.94,0:08:27.29,Irumakun - Default,IRUMA,0,0,0,,Pata një mundësi ta mendoja.
+Dialogue: 0,0:08:28.28,0:08:33.56,Irumakun - Default,IRUMA,0,0,0,,Mendova se më në fund do të përballesha\Nme diçka që e kisha shmangur,
+Dialogue: 0,0:08:36.04,0:08:39.82,Irumakun - Default,IRUMA,0,0,0,,ndaj thjesht doja të dija më shumë\Npër Mbretërit Demon.
+Dialogue: 0,0:08:39.82,0:08:44.51,Irumakun - Default,IRUMA,0,0,0,,Problemi është fakti se thjesht\Nnuk dija mjaftueshëm për ta.
+Dialogue: 0,0:08:45.84,0:08:47.27,Irumakun - Default,SABNOCK,0,0,0,,E kuptoj.
+Dialogue: 0,0:08:47.56,0:08:48.31,Irumakun - Default,IRUMA,0,0,0,,Po.
+Dialogue: 0,0:08:48.56,0:08:52.38,Irumakun - Default,IRUMA,0,0,0,,Prandaj do të më bënte vërtet të lumtur\Ntë bisedonim më shpesh kështu.
+Dialogue: 0,0:08:54.01,0:08:55.13,Irumakun - Default,SABNOCK,0,0,0,,Sigurisht!
+Dialogue: 0,0:09:04.33,0:09:07.28,Irumakun - Italics,IRUMA,0,0,0,,Faleminderit që më lejove\Ntë huazoj kaq shumë libra!
+Dialogue: 0,0:09:07.28,0:09:10.91,Irumakun - Italics,IRUMA,0,0,0,,Mund të më marrë kohë,\Npor premtoj se do t'i lexoj të gjithë!
+Dialogue: 0,0:09:15.29,0:09:19.88,Irumakun - Default,SABNOCK,0,0,0,,Përballja me diçka që e kishte shmangur...
+Dialogue: 0,0:09:28.59,0:09:30.12,Irumakun - Default,SABNOCK,0,0,0,,Alo, Sylvia?
+Dialogue: 0,0:09:30.88,0:09:33.64,Irumakun - Default,SABNOCK,0,0,0,,Po, do të kthehem së shpejti në shtëpi.
+Dialogue: 0,0:09:34.44,0:09:36.88,Irumakun - Default,SABNOCK,0,0,0,,Sapo dëgjova një zhurmë të madhe.\NÇfarë ndodhi?
+Dialogue: 0,0:09:37.15,0:09:39.93,Irumakun - Default,SABNOCK,0,0,0,,Çfarë? Rëshe nga karrigia?
+Dialogue: 0,0:10:22.59,0:10:25.05,Irumakun - Default,YAMANDA,0,0,0,,Mirë se u ktheve, Sabro-sama.
+Dialogue: 0,0:10:25.05,0:10:27.56,Irumakun - Default,SABNOCK,0,0,0,,Yamanda. Nuk të kam parë prej vitesh.
+Dialogue: 0,0:10:28.19,0:10:31.68,Irumakun - Default,YAMANDA,0,0,0,,Vërtet. Gëzohem kaq shumë që u ktheve në shtëpi.
+Dialogue: 0,0:10:31.68,0:10:33.14,Irumakun - Default,SABNOCK,0,0,0,,Ka pasur ndryshime?
+Dialogue: 0,0:10:33.14,0:10:36.03,Irumakun - Default,YAMANDA,0,0,0,,Mendoj se çatia do të ketë\Nnevojë për punime së shpejti.
+Dialogue: 0,0:10:36.03,0:10:38.20,Irumakun - Default,SABNOCK,0,0,0,,Dëshiron të ma rregulloj?
+Dialogue: 0,0:10:38.20,0:10:39.76,Irumakun - Default,YAMANDA,0,0,0,,Kjo do të ishte shumë e dobishme.
+Dialogue: 0,0:10:42.61,0:10:45.62,Irumakun - Default,SYLVIA,0,0,0,,Nii-sama! Mirë se u ktheve!
+Dialogue: 0,0:10:45.62,0:10:50.12,sign_13097_166_Balam_Shichiro,SIGN,0,0,0,,{\fad(483,1)\pos(331.143,271.714)\c&HFFFFFF&}Sabnock Sylvia, motra e vogël e Sabros
+Dialogue: 0,0:10:45.90,0:10:48.42,Irumakun - Top,SABNOCK,0,0,0,,Si ke qenë, Sylvia?
+Dialogue: 0,0:10:48.42,0:10:50.12,Irumakun - Top,SYLVIA,0,0,0,,Jam super mirë!
+Dialogue: 0,0:10:50.38,0:10:52.07,Irumakun - Default,SYLVIA,0,0,0,,Apo jo, Yamanda?
+Dialogue: 0,0:10:52.07,0:10:53.92,Irumakun - Default,YAMANDA,0,0,0,,Po... mjaft.
+Dialogue: 0,0:10:54.49,0:10:55.99,Irumakun - Default,SYLVIA,0,0,0,,Sa kohë do të rrish këtu?
+Dialogue: 0,0:10:55.99,0:10:57.80,Irumakun - Default,SYLVIA,0,0,0,,Tri ditë? Do të rrish tri ditë?
+Dialogue: 0,0:10:57.80,0:11:02.22,Irumakun - Default,SABNOCK,0,0,0,,Epo, sapo erdha të marr një libër,\Npor do të kaloj një natë këtu.
+Dialogue: 0,0:11:02.44,0:11:05.44,Irumakun - Default,SYLVIA,0,0,0,,Vetëm një natë? Oo. Por jeee!
+Dialogue: 0,0:11:05.44,0:11:06.71,Irumakun - Top,SYLVIA,0,0,0,,Jeee!
+Dialogue: 0,0:11:05.65,0:11:07.96,Irumakun - Default,YAMANDA,0,0,0,,Një libër? Për Mbretin Demon?
+Dialogue: 0,0:11:07.96,0:11:10.82,Irumakun - Default,SABNOCK,0,0,0,,I premtova Irumës se mund ta huazonte.
+Dialogue: 0,0:11:10.82,0:11:13.68,Irumakun - Default,SYLVIA,0,0,0,,Iruma-san! Ky është rivali yt!
+Dialogue: 0,0:11:13.68,0:11:15.72,Irumakun - Default,SYLVIA,0,0,0,,Dhe është studenti\Nmë popullor në Babyls!
+Dialogue: 0,0:11:15.72,0:11:18.36,Irumakun - Default,SYLVIA,0,0,0,,Nuk pres me padurim ta takoj!
+Dialogue: 0,0:11:19.03,0:11:19.94,Irumakun - Default,SABNOCK,0,0,0,,Ta takosh?
+Dialogue: 0,0:11:22.32,0:11:25.95,Irumakun - Default,SYLVIA,0,0,0,,Kam pritur derisa të ktheheshe\Nnë shtëpi për ta thënë, por...
+Dialogue: 0,0:11:26.25,0:11:28.20,Irumakun - Default,SYLVIA,0,0,0,,E vërteta është...
+Dialogue: 0,0:11:29.37,0:11:34.68,Irumakun - Default,SYLVIA,0,0,0,,Unë, Sabnock Sylvia, kalova\Nprovimin e pranimit të Babyls!
+Dialogue: 0,0:11:34.68,0:11:35.80,Irumakun - Default,YAMANDA,0,0,0,,Ta-da!
+Dialogue: 0,0:11:37.96,0:11:40.34,Irumakun - Default,SABNOCK,0,0,0,,Kalove? Punë e shkëlqyer!
+Dialogue: 0,0:11:40.34,0:11:43.98,Irumakun - Default,SYLVIA,0,0,0,,Mora me zor provimin e shkruar,\Npor e shtrëngova me aftësi praktike!
+Dialogue: 0,0:11:43.98,0:11:46.00,Irumakun - Default,SABNOCK,0,0,0,,Në rregull! Sot do të festojmë!
+Dialogue: 0,0:11:46.00,0:11:47.64,Irumakun - Default,SABNOCK,0,0,0,,Yamanda! Përgatit banketin!
+Dialogue: 0,0:11:47.64,0:11:49.48,Irumakun - Default,YAMANDA,0,0,0,,Është përgatitur tashmë plotësisht.
+Dialogue: 0,0:11:50.95,0:11:55.73,Irumakun - Default,SYLVIA,0,0,0,,Në fakt, Nii-sama,\Nkam edhe një surprizë.
+Dialogue: 0,0:11:55.73,0:11:56.70,Irumakun - Default,SABNOCK,0,0,0,,Oh?
+Dialogue: 0,0:11:57.00,0:11:59.96,Irumakun - Default,SABNOCK,0,0,0,,Për të festuar hyrjen time\Nnë shkollë dhe kthimin tënd,
+Dialogue: 0,0:11:59.96,0:12:01.48,Irumakun - Default,SABNOCK,0,0,0,,kemi një mysafir special!
+Dialogue: 0,0:12:04.67,0:12:08.25,Irumakun - Default,BAAL,0,0,0,,Hej, ka kaluar kohë, Sabro.
+Dialogue: 0,0:12:14.69,0:12:19.28,sign_17614_180_Because_he_s_the,SIGN,0,0,0,,{\blur3}Sepse ai është më i miri!
+Dialogue: 0,0:12:25.12,0:12:27.60,Irumakun - Default,SABNOCK,0,0,0,,Xhaxha! Kaq kohë!
+Dialogue: 0,0:12:27.60,0:12:29.35,Irumakun - Default,SABNOCK,0,0,0,,Nuk e dija se do të ishe këtu!
+Dialogue: 0,0:12:29.35,0:12:30.82,Irumakun - Default,SABNOCK,0,0,0,,Si po shkon puna?
+Dialogue: 0,0:12:30.82,0:12:33.23,Irumakun - Default,BAAL,0,0,0,,Kam pasur shumë kohë\Ntë lirë kohët e fundit.
+Dialogue: 0,0:12:33.55,0:12:36.11,Irumakun - Default,SABNOCK,0,0,0,,Ah! Do të doja të dëgjoja gjithçka!
+Dialogue: 0,0:12:36.42,0:12:37.82,Irumakun - Default,SABNOCK,0,0,0,,Një nga Trembëdhjetë Kurorat,
+Dialogue: 0,0:12:37.82,0:12:40.57,Irumakun - Default,SABNOCK,0,0,0,,dhe një gjeneral i ashpër që\Nkomandon demonët e jugut!
+Dialogue: 0,0:12:40.70,0:12:42.75,Irumakun - Default,SABNOCK,0,0,0,,Strategu i Jugut!
+Dialogue: 0,0:12:42.75,0:12:45.36,Irumakun - Top,SABNOCK,0,0,0,,Dëgjimi i emrit të\NZotit të Rrufesë, Baal,
+Dialogue: 0,0:12:44.87,0:12:50.37,Purple Sign Base,SIGN,0,0,0,,{\fad(394,518)\pos(320,280)\c&HE71CBB&}Strategu i Jugut
+Dialogue: 0,0:12:45.36,0:12:47.72,Irumakun - Top,SABNOCK,0,0,0,,në fushëbetejë i bën\Ndemonët të dridhen dhe të ikin!
+Dialogue: 0,0:12:47.72,0:12:50.42,Irumakun - Top,SABNOCK,0,0,0,,Ke tregime të panumërta heroizmi!
+Dialogue: 0,0:12:50.42,0:12:54.92,Irumakun - Default,BAAL,0,0,0,,Ti vërtet i do histori të tilla.
+Dialogue: 0,0:12:54.92,0:12:58.92,Irumakun - Default,SABNOCK,0,0,0,,Epo, janë shumë të rëndësishme për çdo\Ndemon që synon të bëhet Mbret Demon!
+Dialogue: 0,0:13:00.78,0:13:02.69,Irumakun - Default,BAAL,0,0,0,,Hej, Yamanda.
+Dialogue: 0,0:13:02.69,0:13:04.43,Irumakun - Default,YAMANDA,0,0,0,,Ka kaluar mjaft kohë.
+Dialogue: 0,0:13:04.79,0:13:09.22,Irumakun - Default,SYLVIA,0,0,0,,Por kjo është kaq e mrekullueshme! Vëllai i\Nvogël i babait është një nga Trembëdhjetë Kurorat!
+Dialogue: 0,0:13:09.22,0:13:10.54,Irumakun - Default,SABNOCK,0,0,0,,Po, po!
+Dialogue: 0,0:13:10.85,0:13:13.69,Irumakun - Default,SABNOCK,0,0,0,,Ndonëse dëgjoj se\Nnuk janë vërtet vëllezër.
+Dialogue: 0,0:13:13.69,0:13:15.44,Irumakun - Default,SYLVIA,0,0,0,,Prit, vërtet?
+Dialogue: 0,0:13:15.44,0:13:18.94,Irumakun - Default,SABNOCK,0,0,0,,Po. Nuk i ngjajnë aspak.
+Dialogue: 0,0:13:20.45,0:13:22.12,Irumakun - Default,BAAL,0,0,0,,Hej, Sabro.
+Dialogue: 0,0:13:22.12,0:13:25.20,Irumakun - Default,BAAL,0,0,0,,Dëgjova se ende nuk e ke parë Vëllain e Madh.
+Dialogue: 0,0:13:25.92,0:13:28.33,Irumakun - Default,SYLVIA,0,0,0,,Po! Duhet të shkosh ta shohësh tani!
+Dialogue: 0,0:13:28.33,0:13:31.26,Irumakun - Default,BAAL,0,0,0,,Kohë e përsosur. Sapo po shkoja\Nta shihja, ndaj eja me mua.
+Dialogue: 0,0:13:31.26,0:13:33.33,Irumakun - Default,SABNOCK,0,0,0,,Jo, unë...
+Dialogue: 0,0:13:33.33,0:13:37.44,Irumakun - Default,SYLVIA,0,0,0,,Po! Le të shkojmë, Nii-sama!\NKemi kaq shumë familje këtu sot!
+Dialogue: 0,0:13:34.83,0:13:38.96,Irumakun - Top,SABNOCK,0,0,0,,Ah... prit... X-Xhaxha...
+Dialogue: 0,0:13:37.44,0:13:38.96,Irumakun - Default,SYLVIA,0,0,0,,Nii-sama!
+Dialogue: 0,0:13:52.03,0:13:53.35,Irumakun - Default,BAAL,0,0,0,,Sabzan.
+Dialogue: 0,0:13:54.86,0:13:57.68,Irumakun - Default,BAAL,0,0,0,,E di që je aty brenda. Hape.
+Dialogue: 0,0:14:00.82,0:14:02.61,Irumakun - Default,BAAL,0,0,0,,Sabro është gjithashtu këtu.
+Dialogue: 0,0:14:09.09,0:14:10.75,Irumakun - Default,SABZAN,0,0,0,,Sabro?
+Dialogue: 0,0:14:12.05,0:14:16.25,Irumakun - Default,SABRO,0,0,0,,Erdha... në shtëpi...
+Dialogue: 0,0:14:17.71,0:14:19.12,Irumakun - Default,SABZAN,0,0,0,,E kuptoj.
+Dialogue: 0,0:14:22.46,0:14:24.76,Irumakun - Default,SYLVIA,0,0,0,,Hë? K-Kjo ishte e gjitha?
+Dialogue: 0,0:14:24.76,0:14:27.09,Irumakun - Default,SYLVIA,0,0,0,,Por Nii-sama më në fund u kthye në shtëpi!
+Dialogue: 0,0:14:27.09,0:14:28.85,Irumakun - Default,SYLVIA,0,0,0,,A nuk ka diçka më shumë për të...
+Dialogue: 0,0:14:29.70,0:14:32.63,Irumakun - Default,SABNOCK,0,0,0,,Është në rregull. Le të shkojmë, Sylvia.
+Dialogue: 0,0:14:34.09,0:14:35.57,Irumakun - Default,SABZAN,0,0,0,,Sabro.
+Dialogue: 0,0:14:37.79,0:14:40.19,Irumakun - Default,SABZAN,0,0,0,,Ti nuk mund të bëhesh Mbret Demon.
+Dialogue: 0,0:14:55.85,0:15:00.12,Irumakun - Default,SABNOCK,0,0,0,,Kjo është e gjitha që doje të thoshe?
+Dialogue: 0,0:15:07.05,0:15:08.36,Irumakun - Default,SABNOCK,0,0,0,,Nëse më lejoni.
+Dialogue: 0,0:15:08.36,0:15:09.57,Irumakun - Default,SYLVIA,0,0,0,,Nii-sama!
+Dialogue: 0,0:15:09.57,0:15:10.56,Irumakun - Default,YAMANDA,0,0,0,,Sabro-sama!
+Dialogue: 0,0:15:12.40,0:15:13.68,Irumakun - Default,SABZAN,0,0,0,,Baal.
+Dialogue: 0,0:15:14.42,0:15:16.56,Irumakun - Default,SABZAN,0,0,0,,Eja të më shohësh përsëri më vonë.
+Dialogue: 0,0:15:16.78,0:15:18.21,Irumakun - Default,BAAL,0,0,0,,E kuptova.
+Dialogue: 0,0:15:33.14,0:15:38.57,Irumakun - Flashback,SABNOCK (AGE 5),0,0,0,,"Ai i bëri të gjithë nënshtetas të tij.
+Dialogue: 0,0:15:38.57,0:15:44.00,Irumakun - Flashback,SABNOCK (AGE 5),0,0,0,,Krijoi pakte gjaku\Nme të gjithë dhe i shëroi.
+Dialogue: 0,0:15:48.18,0:15:50.29,Irumakun - Flashback,SABNOCK (AGE 5),0,0,0,,Si ai...
+Dialogue: 0,0:15:51.14,0:15:53.45,Irumakun - Flashback,SABNOCK + SABNOCK (AGE 5),0,0,0,,Unë nuk do të bëhem kurrë një\Ndemon i dobët si ai
+Dialogue: 0,0:15:53.45,0:15:56.34,Irumakun - Default,SABNOCK + SABNOCK (AGE 5),0,0,0,,që as nuk përpiqet\Ntë synojë majën.
+Dialogue: 0,0:15:56.34,0:15:58.14,Irumakun - Default,SABNOCK,0,0,0,,Kurrë!
+Dialogue: 0,0:16:12.33,0:16:14.70,Irumakun - Default,BAAL,0,0,0,,Mendoj se asgjë nuk ka ndryshuar
+Dialogue: 0,0:16:15.04,0:16:17.08,Irumakun - Default,BAAL,0,0,0,,midis teje dhe vëllait tim.
+Dialogue: 0,0:16:17.96,0:16:20.33,Irumakun - Default,SABNOCK,0,0,0,,Më vjen keq që pate ta shihje atë.
+Dialogue: 0,0:16:20.33,0:16:21.96,Irumakun - Default,BAAL,0,0,0,,Sabro.
+Dialogue: 0,0:16:21.96,0:16:24.96,Irumakun - Default,BAAL,0,0,0,,Të mbështes.
+Dialogue: 0,0:16:26.97,0:16:29.97,Irumakun - Default,BAAL,0,0,0,,Nuk ke gabuar.
+Dialogue: 0,0:16:33.26,0:16:37.16,Irumakun - Default,BAAL,0,0,0,,Çfarë do të bëje po të thosha\Nse do të të bëj Mbret Demon?
+Dialogue: 0,0:16:37.16,0:16:39.52,Irumakun - Default,BAAL,0,0,0,,Epo, Sabro?
+Dialogue: 0,0:16:54.03,0:16:57.29,Irumakun - Default,BAAL,0,0,0,,Nëse ke atë lloj vendosmërie,
+Dialogue: 0,0:16:57.75,0:17:00.79,Irumakun - Default,BAAL,0,0,0,,lëre Babyls dhe eja me mua.
+Dialogue: 0,0:17:02.40,0:17:05.30,Irumakun - Default,BAAL,0,0,0,,Në Darkën e fundit\Ntë Trembëdhjetë Kurorave,
+Dialogue: 0,0:17:05.30,0:17:11.13,Irumakun - Default,BAAL,0,0,0,,u propozua një plan për të rritur Mbretin\Ne ardhshëm Demon: Projekti Trickster.
+Dialogue: 0,0:17:11.53,0:17:14.20,Irumakun - Default,BAAL,0,0,0,,Aktualisht kemi tre kandidatë.
+Dialogue: 0,0:17:14.20,0:17:18.16,Irumakun - Default,BAAL,0,0,0,,Nipi i Belialit, Belial Berry Razberry.
+Dialogue: 0,0:17:18.16,0:17:21.56,Irumakun - Default,BAAL,0,0,0,,Nipi i Zonjës Levi, Leviathan Leidzi.
+Dialogue: 0,0:17:22.39,0:17:24.15,Irumakun - Default,BAAL,0,0,0,,Dhe...
+Dialogue: 0,0:17:24.39,0:17:27.28,Irumakun - Default,BAAL,0,0,0,,Nipi i Sullivanit, Iruma.
+Dialogue: 0,0:17:29.19,0:17:31.99,Irumakun - Default,BAAL,0,0,0,,Mendoj se nuk kishe dëgjuar\Npër këtë pjesë.
+Dialogue: 0,0:17:33.64,0:17:36.28,Irumakun - Flashback,IRUMA,0,0,0,,Ndonëse nuk mund të flas vërtet\Npër detajet.
+Dialogue: 0,0:17:36.28,0:17:38.58,Irumakun - Flashback,IRUMA,0,0,0,,Pata një mundësi ta mendoja.
+Dialogue: 0,0:17:39.59,0:17:42.97,Irumakun - Default,BAAL,0,0,0,,E veçanta e Projektit\NTrickster është se
+Dialogue: 0,0:17:42.97,0:17:48.26,Irumakun - Default,BAAL,0,0,0,,secili anëtar i Trembëdhjetë Kurorave\Nmund të nominojë kandidatin e vet.
+Dialogue: 0,0:17:49.12,0:17:51.73,Irumakun - Default,BAAL,0,0,0,,Jemi gati të fillojmë një\Ngarë në të cilën
+Dialogue: 0,0:17:51.73,0:17:54.56,Irumakun - Default,BAAL,0,0,0,,secili kandidat duhet të provojë pse\Nduhet të jetë Mbreti i ardhshëm Demon.
+Dialogue: 0,0:17:56.43,0:18:00.62,Irumakun - Default,BAAL,0,0,0,,Pra do të kesh mbështetjen time.
+Dialogue: 0,0:18:00.62,0:18:03.28,Irumakun - Default,BAAL,0,0,0,,Titulli im i Strategut\Ntë Jugut nuk është shaka.
+Dialogue: 0,0:18:03.28,0:18:06.40,Irumakun - Default,BAAL,0,0,0,,Le të punojmë bashkë për të hequr\Nqafe kandidatët e tjerë.
+Dialogue: 0,0:18:07.15,0:18:09.11,Irumakun - Default,BAAL,0,0,0,,Kështu...
+Dialogue: 0,0:18:09.38,0:18:13.61,Irumakun - Default,BAAL,0,0,0,,do të mund të bëhesh Mbret Demon.
+Dialogue: 0,0:18:16.29,0:18:17.56,Irumakun - Default,BAAL,0,0,0,,Epo?
+Dialogue: 0,0:18:25.93,0:18:27.75,Irumakun - Default,SABNOCK,0,0,0,,A është kjo...
+Dialogue: 0,0:18:30.26,0:18:34.38,Irumakun - Default,SABNOCK,0,0,0,,A është kjo... vërtet e mrekullueshme?
+Dialogue: 0,0:18:36.14,0:18:36.86,Irumakun - Default,BAAL,0,0,0,,Çfarë?
+Dialogue: 0,0:18:36.86,0:18:40.89,Irumakun - Default,SABNOCK,0,0,0,,Epo, në rregull është nëse është e mrekullueshme... por...
+Dialogue: 0,0:18:42.42,0:18:45.36,Irumakun - Default,SABNOCK,0,0,0,,Nëse bëhem Mbret Demon në atë mënyrë,
+Dialogue: 0,0:18:45.36,0:18:48.31,Irumakun - Default,SABNOCK,0,0,0,,jam i sigurt se biografia\Nime e ardhshme do të më quajë
+Dialogue: 0,0:18:48.31,0:18:52.05,Irumakun - Default,SABNOCK,0,0,0,,"njeriu që u bë Mbret Demon\Nfalë nominimit të xhaxhait."
+Dialogue: 0,0:18:52.79,0:18:56.29,Irumakun - Default,SABNOCK,0,0,0,,Nuk jam i sigurt nëse\Nmund ta quash atë të mrekullueshme...
+Dialogue: 0,0:18:59.03,0:19:02.42,Irumakun - Default,BAAL,0,0,0,,Sabro... A e di sa\Ndemonë të nominuar
+Dialogue: 0,0:19:02.42,0:19:05.00,Irumakun - Default,BAAL,0,0,0,,nga Trembëdhjetë Kurorat\Nka në botën e nëndheshme?
+Dialogue: 0,0:19:06.75,0:19:10.01,Irumakun - Default,BAAL,0,0,0,,Të vazhdosh e të vazhdosh se sa e mrekullueshme është\Nose jo arritja e ambicies...
+Dialogue: 0,0:19:10.01,0:19:12.76,Irumakun - Default,BAAL,0,0,0,,A ke vërtet kohë të\Nhumbësh duke u kujdesur për pamjen?
+Dialogue: 0,0:19:13.79,0:19:17.05,Irumakun - Default,BAAL,0,0,0,,Të tjerët tashmë po përdorin\Nautoritetin e gjyshërve të tyre
+Dialogue: 0,0:19:17.05,0:19:19.74,Irumakun - Default,BAAL,0,0,0,,për të synuar fronin e Mbretit Demon.
+Dialogue: 0,0:19:20.51,0:19:22.52,Irumakun - Default,BAAL,0,0,0,,Përfshirë Irumën.
+Dialogue: 0,0:19:23.06,0:19:27.88,Irumakun - Default,BAAL,0,0,0,,Ndërsa ti heziton,\Nai do të vazhdojë të ngjitet.
+Dialogue: 0,0:19:29.32,0:19:31.82,Irumakun - Default,BAAL,0,0,0,,Dëshiron që Iruma të të mundë?
+Dialogue: 0,0:19:32.21,0:19:34.77,Irumakun - Default,BAAL,0,0,0,,Epërsia që merr këtu mund\Ntë bëjë ose të thyejë shanset e tua.
+Dialogue: 0,0:19:35.77,0:19:36.70,Irumakun - Default,SABNOCK,0,0,0,,Jo.
+Dialogue: 0,0:19:37.95,0:19:41.95,Irumakun - Default,SABNOCK,0,0,0,,Gabohesh. Iruma nuk është i tillë.
+Dialogue: 0,0:19:42.50,0:19:45.33,Irumakun - Default,SABNOCK,0,0,0,,E kam parë nga afër,\Nndaj jam i sigurt.
+Dialogue: 0,0:19:46.04,0:19:49.40,Irumakun - Default,SABNOCK,0,0,0,,E kuptoj gjithashtu se propozimi yt\Nështë një mundësi e madhe.
+Dialogue: 0,0:19:50.08,0:19:54.64,Irumakun - Default,SABNOCK,0,0,0,,Kjo mund të jetë vërtet një rrugë e shkurtër\Npër t'u bërë Mbret Demon.
+Dialogue: 0,0:19:54.64,0:19:56.17,Irumakun - Default,SABNOCK,0,0,0,,Por...
+Dialogue: 0,0:19:56.77,0:20:00.70,Irumakun - Default,SABNOCK,0,0,0,,Nuk e shoh fare tërheqëse atë rrugë.
+Dialogue: 0,0:20:01.14,0:20:02.39,Irumakun - Default,SABNOCK,0,0,0,,Kjo sepse...
+Dialogue: 0,0:20:06.11,0:20:09.44,Irumakun - Default,SABNOCK,0,0,0,,Në Babyls, kam rivalë\Nqë më entuziazmojnë...
+Dialogue: 0,0:20:10.23,0:20:12.44,Irumakun - Default,SABNOCK,0,0,0,,si dhe miq!
+Dialogue: 0,0:20:12.79,0:20:16.44,Irumakun - Default,SABNOCK,0,0,0,,Dhe ende nuk kam arritur\Nasgjë në Babyls!
+Dialogue: 0,0:20:16.44,0:20:18.93,Irumakun - Default,SABNOCK,0,0,0,,Në atë vend mësimi,\Nme rivalët e mi...
+Dialogue: 0,0:20:18.93,0:20:22.60,Irumakun - Default,SABNOCK,0,0,0,,Aty duhet të fitoj,\Nme ndershmëri!
+Dialogue: 0,0:20:25.15,0:20:26.78,Irumakun - Default,BAAL,0,0,0,,Pra në thelb,
+Dialogue: 0,0:20:26.78,0:20:30.83,Irumakun - Default,BAAL,0,0,0,,dëshiron të bëhesh Mbret\NDemon me kushtet e tua.
+Dialogue: 0,0:20:30.83,0:20:32.46,Irumakun - Default,BAAL,0,0,0,,Por...
+Dialogue: 0,0:20:32.46,0:20:36.15,Irumakun - Default,BAAL,0,0,0,,Të paktën duhet t'i takosh\Nnjë herë Trembëdhjetë Kurorat.
+Dialogue: 0,0:20:38.72,0:20:41.22,Irumakun - Default,BAAL,0,0,0,,Nuk të prish punë kjo, apo jo?
+Dialogue: 0,0:20:41.22,0:20:43.81,Irumakun - Default,SABNOCK,0,0,0,,Sigurisht që jo! Do ta doja!
+Dialogue: 0,0:20:43.81,0:20:46.51,Irumakun - Default,SYLVIA,0,0,0,,Nii-sama! Koha e darkës!
+Dialogue: 0,0:20:46.51,0:20:47.73,Irumakun - Default,YAMANDA,0,0,0,,Ju bëftë mirë!
+Dialogue: 0,0:20:47.96,0:20:52.13,Irumakun - Default,SYLVIA,0,0,0,,Janë të gjitha ushqimet e tua të preferuara,\NNii-sama! Hajde! Ha!
+Dialogue: 0,0:20:48.81,0:20:51.20,Irumakun - Top,YAMANDA,0,0,0,,Ja ku është, Sabro-sama.
+Dialogue: 0,0:20:52.13,0:20:56.59,Irumakun - Default,SYLVIA,0,0,0,,Ndihmova t'i bëja edhe unë!\NKa me bollëk, ndaj ha shumë, në rregull?
+Dialogue: 0,0:20:52.84,0:20:54.21,Irumakun - Top,SABNOCK,0,0,0,,Xhaxha...
+Dialogue: 0,0:20:54.61,0:20:56.59,Irumakun - Top,YAMANDA,0,0,0,,Ejani tani, ju lutem.
+Dialogue: 0,0:21:04.87,0:21:07.15,Irumakun - Default,SABZAN,0,0,0,,Ke mbaruar këtu, apo jo?
+Dialogue: 0,0:21:08.03,0:21:10.74,Irumakun - Default,SABZAN,0,0,0,,Edhe unë e bëra punën time.
+Dialogue: 0,0:21:11.37,0:21:12.54,Irumakun - Default,BAAL,0,0,0,,Po.
+Dialogue: 0,0:21:12.54,0:21:16.11,Irumakun - Default,BAAL,0,0,0,,Jam i kënaqur vetëm duke marrë këtë.
+Dialogue: 0,0:21:18.38,0:21:22.39,Irumakun - Default,BAAL,0,0,0,,Faleminderit që bëre një punë kaq të mirë, vëlla.
+Dialogue: 0,0:21:23.09,0:21:28.63,Irumakun - Default,SABZAN,0,0,0,,Pas kësaj, mos iu afro\Nfamiljes sime apo Sabros kurrë më,
+Dialogue: 0,0:21:29.68,0:21:31.39,Irumakun - Default,SABZAN,0,0,0,,Baal.
+Dialogue: 0,0:21:46.06,0:21:47.37,Irumakun - Default,BAAL,0,0,0,,Uf...
+Dialogue: 0,0:21:47.80,0:21:50.41,Irumakun - Default,BAAL,0,0,0,,Mendoj se molla nuk bie\Nlarg nga pemja.
+Dialogue: 0,0:21:51.62,0:21:54.50,Irumakun - Default,SYLVIA,0,0,0,,A është e shijshme? A është e shijshme, Nii-sama?
+Dialogue: 0,0:21:55.07,0:21:57.90,Irumakun - Default,SABNOCK,0,0,0,,E kam thënë tashmë\Nnjëqind herë.
+Dialogue: 0,0:22:11.31,0:22:16.31,Purple Sign Base,SIGN,0,0,0,,{\c&H1200CD&\3c&H7AD7F6&\pos(315.429,252.286)}Gjashtë Gishtërinjtë
+Dialogue: 0,0:22:16.74,0:22:20.50,Irumakun - Default,KIRIWO,0,0,0,,Ajo shtizë është pak ekstreme.
+Dialogue: 0,0:22:20.50,0:22:23.32,Irumakun - Default,KIRIWO,0,0,0,,Çfarë lloj bishë magjike\Ndo të gjah me të?
+Dialogue: 0,0:22:24.20,0:22:27.37,Irumakun - Default,BAAL,0,0,0,,Do ta kthejmë rendin\Ne botës së nëndheshme përmbys.
+Dialogue: 0,0:22:28.28,0:22:32.02,Irumakun - Default,BAAL,0,0,0,,Le të shkojmë. Gjuetia është gati të fillojë!
+Dialogue: 0,0:24:04.70,0:24:08.29,Irumakun - Default,CLARA,0,0,0,,Su-Ki-Ma! Oh?
+Dialogue: 0,0:24:05.01,0:24:08.22,sign_33855_412_Su,SIGN,0,0,0,,{\c&H510741&\3c&HF2EEFF&}Su
+Dialogue: 0,0:24:05.76,0:24:08.22,sign_33873_413_Ki,SIGN,0,0,0,,{\c&H510741&\3c&HF2EEFF&}Ki
+Dialogue: 0,0:24:06.51,0:24:08.22,sign_33891_414_Ma,SIGN,0,0,0,,{\c&H510741&\3c&HF2EEFF&}Ma
+Dialogue: 0,0:24:08.64,0:24:12.38,Irumakun - Italics,NARRATOR,0,0,0,,Djalli i sigurisë i familjes\NSabnock, Yamanda.
+Dialogue: 0,0:24:13.01,0:24:19.02,Irumakun - Italics,NARRATOR,0,0,0,,Për të punuar për familjen Sabnock,\Nduhen inteligjencë, kulturë dhe...
+Dialogue: 0,0:24:16.27,0:24:18.27,sign_34916_338_Intelligence,SIGN,0,0,0,,Inteligjenca
+Dialogue: 0,0:24:17.02,0:24:18.16,sign_34934_339_Culture,SIGN,0,0,0,,Kultura
+Dialogue: 0,0:24:19.02,0:24:21.53,Irumakun - Default,SYLVIA,0,0,0,,Mirëmëngjes, Yamanda!
+Dialogue: 0,0:24:22.96,0:24:24.72,Irumakun - Default,SYLVIA,0,0,0,,Si po shkon?!
+Dialogue: 0,0:24:24.72,0:24:26.45,Irumakun - Default,YAMANDA,0,0,0,,Mirë, faleminderit...
+Dialogue: 0,0:24:26.45,0:24:27.99,Irumakun - Italics,NARRATOR,0,0,0,,...qëndrueshmëri.
+Dialogue: 0,0:24:27.99,0:24:29.55,sign_35197_344_Endurance,SIGN,0,0,0,,Qëndrueshmëria
+Dialogue: 0,0:24:29.99,0:24:55.01,Next Ep Preview,SIGN,0,0,0,,Pamje paraprake e episodit tjetër
+Dialogue: 0,0:24:29.99,0:24:32.16,Irumakun - Default,IRUMA,0,0,0,,Më në fund po kalojmë\Nnë vitin tonë të dytë.
+Dialogue: 0,0:24:32.16,0:24:34.08,Irumakun - Default,IRUMA,0,0,0,,Kjo do të thotë se ka një vit\Nqë u regjistrova në Babyls...
+Dialogue: 0,0:24:34.08,0:24:37.46,Irumakun - Default,IRUMA,0,0,0,,Jo. Kjo do të thotë se ka më shumë se një vit\Nqë erdha në botën e nëndheshme.
+Dialogue: 0,0:24:37.46,0:24:39.34,Irumakun - Default,IRUMA,0,0,0,,Ka ndodhur kaq shumë që atëherë.
+Dialogue: 0,0:24:39.34,0:24:43.96,Irumakun - Default,IRUMA,0,0,0,,Azz-kun, Clara, gjyshi,\NOpera-san, jam kaq i lumtur.
+Dialogue: 0,0:24:43.96,0:24:45.92,Irumakun - Default,IRUMA,0,0,0,,Herën tjetër në{\i1}Mirë se vini në\NShkollën e Demonëve! Iruma-kun{\i0},
+Dialogue: 0,0:24:45.92,0:24:47.73,Irumakun - Default,IRUMA,0,0,0,,"Festa më ekstravagante e lamtumirës."
+Dialogue: 0,0:24:47.73,0:24:49.64,Irumakun - Default,IRUMA,0,0,0,,Të gjithë, faleminderit shumë.
+Dialogue: 0,0:24:49.64,0:24:50.90,Irumakun - Default,IRUMA,0,0,0,,Gëzuar të ardhmen tonë.
+Dialogue: 0,0:24:50.90,0:24:54.99,Irumakun - Default,IRUMA,0,0,0,,Do të vazhdoj të jetoj këtu me të gjithë\Nnë botën e nëndheshme përgjithmonë.
+

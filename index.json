@@ -724,6 +724,20 @@
       "sourceEpisode": "1213",
       "sourceTitle": "Detective Conan",
       "numberingEvidence": "https://anikototv.to/watch/case-closed-w8ehk"
+    },
+    {
+      "id": "at-689648",
+      "title": "Welcome to Demon School! Iruma-kun Season 4",
+      "episode": "23",
+      "malId": 60310,
+      "anilistId": 184492,
+      "slugs": [
+        "welcome-to-demon-school-iruma-kun-season-4-kiuuj"
+      ],
+      "file": "files/at-689648.sq.vtt",
+      "assFile": "ass/at-689648.sq.ass",
+      "offset": 0,
+      "sourceReleaseId": "689648"
     }
   ]
 }
