@@ -159,7 +159,28 @@ function linkClickS3(parsed) {
   };
 }
 
-const RULES = [samuraiTroopers, onePiece, toukutsuOu, reZero, smokingBehindTheSupermarket, kaijuGirlCaramelise, bungoStrayDogsWan2, linkClickS3];
+// Season title differs entirely from the release name: SubsPlease releases the fourth
+// season as "Honzuki no Gekokujou S4", while Anikoto files it as "Ascendance of a Bookworm:
+// Adopted Daughter of an Archduke" (Ryoushu no Youjo). Searching the release title only
+// returns the earlier seasons and spin-offs at 0.65, so the season can only be reached by
+// pinning it. project.mjs confirms the episode and MAL ID before anything is published.
+function honzukiS4(parsed) {
+  const episode = Number(parsed.episode);
+  if (parsed.title !== 'Honzuki no Gekokujou' ||
+      parsed.season !== 4 ||
+      !Number.isInteger(episode) || episode < 1) return null;
+  return {
+    slug:'ascendance-of-a-bookworm-adopted-daughter-of-an-archduke-huvyk',
+    title:'Ascendance of a Bookworm: Adopted Daughter of an Archduke',
+    malId:57466,
+    episode:String(episode),
+    sourceEpisode:String(episode),
+    sourceTitle:parsed.title,
+    evidence:'https://anikototv.to/watch/ascendance-of-a-bookworm-adopted-daughter-of-an-archduke-huvyk'
+  };
+}
+
+const RULES = [samuraiTroopers, onePiece, toukutsuOu, reZero, smokingBehindTheSupermarket, kaijuGirlCaramelise, bungoStrayDogsWan2, linkClickS3, honzukiS4];
 
 export function knownNumbering(parsed) {
   for (const rule of RULES) {
