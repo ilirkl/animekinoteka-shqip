@@ -1,0 +1,291 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+WrapStyle: 0
+Audio File: ?video
+Video File: elusivesamurai-eps2-watermarked-mx-deDE-B.avi
+Video Aspect Ratio: 0
+Video Zoom: 8
+Video Position: 31675
+PlayResY: 360
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,1,1,15,0
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: On Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: DefaultLow,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:23.58,0:00:24.67,Default,,0,0,0,,Merre.
+Dialogue: 0,0:00:27.25,0:00:29.04,Default,,0,0,0,,Mësuesi Cheng më mësoi si ta bëja këtë!
+Dialogue: 0,0:00:29.13,0:00:32.21,Default,,0,0,0,,Po ta jap ty, shefi im i ardhshëm!
+Dialogue: 0,0:00:32.29,0:00:35.63,Default,,0,0,0,,Vein, që kur\Nje bërë shef?
+Dialogue: 0,0:00:39.63,0:00:41.04,Default,,0,0,0,,Cheng Xiaoshi,
+Dialogue: 0,0:00:41.54,0:00:42.96,Default,,0,0,0,,bëj pikërisht siç të them.
+Dialogue: 0,0:00:43.04,0:00:44.50,Default,,0,0,0,,Merre.
+Dialogue: 0,0:00:47.04,0:00:50.08,Default,,0,0,0,,Miku im, do ta pranoj si dhuratë!
+Dialogue: 0,0:00:51.21,0:00:53.75,Default,,0,0,0,,Nëse dikush përpiqet të të ngacmojë,\Nvetëm thuaj emrin tim!
+Dialogue: 0,0:00:53.83,0:00:56.04,Default,,0,0,0,,Të mbroj unë!
+Dialogue: 0,0:00:59.71,0:01:03.58,Default,,0,0,0,,Fati është kthyer me forcë\Nnë rrjedhën e tij fillestare.
+Dialogue: 0,0:01:05.29,0:01:09.00,Default,,0,0,0,,Atëherë, sa ende kam\Nkontroll mbi gjithçka...
+Dialogue: 0,0:01:10.21,0:01:12.04,Default,,0,0,0,,mund të ketë ende një mundësi.
+Dialogue: 0,0:02:43.08,0:02:44.38,Default,,0,0,0,,Vein,
+Dialogue: 0,0:02:44.46,0:02:47.88,Default,,0,0,0,,po e bën Dhomën e Tregtisë\Nsë Lagjes Kineze të duket si bandë.
+Dialogue: 0,0:02:48.29,0:02:51.00,Default,,0,0,0,,Shefi Xiao do të të qortojë\Npërsëri po ta dëgjojë këtë.
+Dialogue: 0,0:02:51.67,0:02:54.00,Default,,0,0,0,,Edhe ti ke dikë nga i cili ke frikë?
+Dialogue: 0,0:02:55.75,0:02:57.13,Default,,0,0,0,,Kush është shefi Xiao?
+Dialogue: 0,0:02:57.21,0:02:58.67,Default,,0,0,0,,Nuk e njoh.
+Dialogue: 0,0:02:58.75,0:03:00.58,Default,,0,0,0,,Kjo ishte pak e rëndë.
+Dialogue: 0,0:03:00.67,0:03:02.04,Default,,0,0,0,,Nuk e pranon as babanë tënd?
+Dialogue: 0,0:03:03.17,0:03:05.46,Default,,0,0,0,,Babai im duket se e njeh familjen e Veinit.
+Dialogue: 0,0:03:06.21,0:03:07.92,Default,,0,0,0,,Çfarë marrëdhënieje kanë mes tyre?
+Dialogue: 0,0:03:10.71,0:03:12.54,Default,,0,0,0,,Nuk i shoh dot hollësitë.
+Dialogue: 0,0:03:12.63,0:03:16.17,Default,,0,0,0,,Ndoshta mund të gjejmë ndonjë të dhënë\Nnga ajo që ndodh më pas.
+Dialogue: 0,0:03:17.79,0:03:20.54,Default,,0,0,0,,Nxënës, është vonë.
+Dialogue: 0,0:03:20.63,0:03:22.67,Default,,0,0,0,,- Duhet të kthehemi.\N- Duhet të ikim.
+Dialogue: 0,0:03:22.75,0:03:24.08,Default,,0,0,0,,Mirë, të shkojmë.
+Dialogue: 0,0:03:25.13,0:03:26.67,Default,,0,0,0,,Mësues Cheng, mësues Cheng.
+Dialogue: 0,0:03:26.75,0:03:29.25,Default,,0,0,0,,Shef, mirupafshim! Shihemi vitin tjetër!
+Dialogue: 0,0:03:29.96,0:03:31.21,Default,,0,0,0,,Oh, mirupafshim.
+Dialogue: 0,0:03:37.75,0:03:39.13,Default,,0,0,0,,Të shkojmë.
+Dialogue: 0,0:03:39.21,0:03:41.21,Default,,0,0,0,,Ke një detyrë të rëndësishme.
+Dialogue: 0,0:03:41.29,0:03:43.92,Default,,0,0,0,,Hë? Çfarë detyre?
+Dialogue: 0,0:03:55.00,0:03:56.38,Default,,0,0,0,,Punë e shkëlqyer.
+Dialogue: 0,0:03:56.92,0:03:58.33,Default,,0,0,0,,Xhirimet shkuan vërtet pa probleme.
+Dialogue: 0,0:03:59.33,0:04:01.17,Default,,0,0,0,,Ç'të sjell këtu?
+Dialogue: 0,0:04:03.67,0:04:05.38,Default,,0,0,0,,Kjo lojë prodhohet nga kompania jonë.
+Dialogue: 0,0:04:05.96,0:04:07.17,Default,,0,0,0,,Erdha të vizitoj sheshxhirimin.
+Dialogue: 0,0:04:07.67,0:04:10.96,Default,,0,0,0,,Çfarë? Ti je klienti?
+Dialogue: 0,0:04:12.46,0:04:14.71,Default,,0,0,0,,Përshëndetje, jam Liu Xiao.
+Dialogue: 0,0:04:14.79,0:04:16.46,Default,,0,0,0,,Gëzohem që u njohëm.
+Dialogue: 0,0:04:17.25,0:04:19.58,Default,,0,0,0,,Përshëndetje, jam Qiao Ling.
+Dialogue: 0,0:04:20.21,0:04:21.42,Default,,0,0,0,,Kjo është kartëvizita ime.
+Dialogue: 0,0:04:23.00,0:04:25.38,Default,,0,0,0,,Quede Games?
+Dialogue: 0,0:04:25.79,0:04:26.79,Default,,0,0,0,,Liu Xiao...
+Dialogue: 0,0:04:27.29,0:04:29.63,Default,,0,0,0,,Je i afërm i Liu Minit?
+Dialogue: 0,0:04:30.75,0:04:32.42,Default,,0,0,0,,Ishte gjysmëvëllai im.
+Dialogue: 0,0:04:33.00,0:04:36.63,Default,,0,0,0,,Më vjen keq për të gjitha telashet\Nqë shkaktoi sa ishte gjallë.
+Dialogue: 0,0:04:39.00,0:04:41.63,Default,,0,0,0,,Sjellja, të folurit dhe pamja...
+Dialogue: 0,0:04:42.46,0:04:44.25,Default,,0,0,0,,Ju të dy vërtet nuk ngjani aspak.
+Dialogue: 0,0:04:45.00,0:04:46.88,Default,,0,0,0,,Në shenjë mirënjohjeje për punën tuaj të palodhur,
+Dialogue: 0,0:04:46.96,0:04:48.83,Default,,0,0,0,,do të doja t'ju ftoja të dyja për darkë.
+Dialogue: 0,0:04:49.50,0:04:51.13,Default,,0,0,0,,Hë? Sa papritur...
+Dialogue: 0,0:04:51.21,0:04:52.33,Default,,0,0,0,,Qiao Ling...
+Dialogue: 0,0:04:52.42,0:04:55.58,Default,,0,0,0,,Në rregull, sa i sjellshëm prej jush!
+Dialogue: 0,0:05:06.88,0:05:09.25,Default,,0,0,0,,Kjo është Dhoma e Tregtisë e Lagjes Kineze?
+Dialogue: 0,0:05:09.79,0:05:11.92,Default,,0,0,0,,Sa e frikshme.
+Dialogue: 0,0:05:19.25,0:05:21.63,Default,,0,0,0,,Ka ndonjë rrezik përpara?
+Dialogue: 0,0:05:22.21,0:05:23.33,Default,,0,0,0,,Erdhi koha.
+Dialogue: 0,0:05:23.67,0:05:24.88,Default,,0,0,0,,Hip.
+Dialogue: 0,0:05:40.46,0:05:41.92,Default,,0,0,0,,Mjeshtër i ri...
+Dialogue: 0,0:05:46.17,0:05:47.79,Default,,0,0,0,,Më në fund erdhët.
+Dialogue: 0,0:05:48.21,0:05:50.50,Default,,0,0,0,,K-Kush je ti?
+Dialogue: 0,0:05:50.79,0:05:54.08,Default,,0,0,0,,Mjeshtër i ri,\Nçfarë keni sot?
+Dialogue: 0,0:05:54.17,0:05:56.46,Default,,0,0,0,,Nuk e njihni as shërbëtorin tuaj të vjetër?
+Dialogue: 0,0:05:56.58,0:05:59.75,Default,,0,0,0,,Po, të njoh.
+Dialogue: 0,0:05:59.83,0:06:01.71,Default,,0,0,0,,Është aq errët sa\Nnuk të pashë qartë.
+Dialogue: 0,0:06:02.42,0:06:04.88,Default,,0,0,0,,Mirë, më ndiq.
+Dialogue: 0,0:06:04.96,0:06:06.54,Default,,0,0,0,,Po të presin.
+Dialogue: 0,0:06:12.38,0:06:15.96,Default,,0,0,0,,Lu Guang, ku po më çon?
+Dialogue: 0,0:06:17.08,0:06:18.96,Default,,0,0,0,,Dhe kush janë ata?
+Dialogue: 0,0:06:20.96,0:06:22.38,Default,,0,0,0,,U kthye. U kthye.
+Dialogue: 0,0:06:22.46,0:06:24.17,Default,,0,0,0,,Mjeshtri ynë i ri u kthye.
+Dialogue: 0,0:06:43.79,0:06:45.58,Default,,0,0,0,,1, 2,
+Dialogue: 0,0:06:45.67,0:06:47.42,Default,,0,0,0,,3,
+Dialogue: 0,0:06:47.50,0:06:51.71,Default,,0,0,0,,4, 5, 6,
+Dialogue: 0,0:06:51.79,0:06:53.04,Default,,0,0,0,,7,
+Dialogue: 0,0:06:53.13,0:06:54.46,Default,,0,0,0,,8,
+Dialogue: 0,0:06:54.54,0:06:55.79,Default,,0,0,0,,9.
+Dialogue: 0,0:06:56.92,0:06:58.46,Default,,0,0,0,,Pse po qëndron ende aty?
+Dialogue: 0,0:06:58.79,0:07:01.00,Default,,0,0,0,,Shko ulu në fund.
+Dialogue: 0,0:07:08.29,0:07:10.79,Default,,0,0,0,,Dhjetë veta bashkë me mua.
+Dialogue: 0,0:07:11.67,0:07:12.79,Default,,0,0,0,,Mbledhje?
+Dialogue: 0,0:07:13.58,0:07:15.67,Default,,0,0,0,,Lu Guang,\Nçfarë do të bëjnë?
+Dialogue: 0,0:07:15.75,0:07:18.71,Default,,0,0,0,,Ai që është ulur në mes është\Nbabai i Xiao Weiyingut.
+Dialogue: 0,0:07:18.79,0:07:20.54,Default,,0,0,0,,Dëshiron të diskutojë me të gjithë ju.
+Dialogue: 0,0:07:20.63,0:07:26.42,Default,,0,0,0,,E di se para meje shtireni sikur jeni\Nmotra e vëllezër të mirë.
+Dialogue: 0,0:07:27.08,0:07:29.38,Default,,0,0,0,,Asnjëri prej jush nuk i respekton vërtet të tjerët.
+Dialogue: 0,0:07:30.13,0:07:34.54,Default,,0,0,0,,Prandaj po ju jap një\Nmundësi për ta provuar veten.
+Dialogue: 0,0:07:35.21,0:07:36.67,Default,,0,0,0,,Vëllezër dhe motra?
+Dialogue: 0,0:07:36.96,0:07:39.21,Default,,0,0,0,,Pra nëntë të tjerët janë...
+Dialogue: 0,0:07:39.33,0:07:40.29,Default,,0,0,0,,Pikërisht.
+Dialogue: 0,0:07:40.38,0:07:42.58,Default,,0,0,0,,Dhjetë bashkë me ty.
+Dialogue: 0,0:07:42.67,0:07:43.83,Default,,0,0,0,,Hë?
+Dialogue: 0,0:07:43.92,0:07:45.08,Default,,0,0,0,,Babai ndërroi jetë.
+Dialogue: 0,0:07:45.17,0:07:47.38,Default,,0,0,0,,Nëntë vëllezërit e tu filluan\Ntë luftonin për pasurinë e familjes.
+Dialogue: 0,0:07:47.46,0:07:50.21,Default,,0,0,0,,Komplotuan kundër njëri-tjetrit. Në\Nfund, të gjithë u zhdukën krejtësisht.
+Dialogue: 0,0:07:50.29,0:07:52.13,Default,,0,0,0,,Një betejë e vërtetë trashëgimtarësh?
+Dialogue: 0,0:07:55.92,0:07:59.79,Default,,0,0,0,,Xiao Weiying,\Npse po bërtet?
+Dialogue: 0,0:07:59.88,0:08:03.58,Default,,0,0,0,,Më falni, vetëm lemzë.\NHëngra shumë në drekë.
+Dialogue: 0,0:08:03.67,0:08:08.79,Default,,0,0,0,,Kohët e fundit disa marrëveshje të dhomës\Nkanë dështuar.
+Dialogue: 0,0:08:09.50,0:08:11.79,Default,,0,0,0,,Dikush po na saboton.
+Dialogue: 0,0:08:12.29,0:08:15.92,Default,,0,0,0,,Dhe e di saktësisht kush.
+Dialogue: 0,0:08:16.00,0:08:18.63,Default,,0,0,0,,Tingëllon tamam si mafia.
+Dialogue: 0,0:08:19.29,0:08:21.96,Default,,0,0,0,,Dhoma është vetëm fasadë.
+Dialogue: 0,0:08:23.42,0:08:27.79,Default,,0,0,0,,Ka ndonjë vullnetar që të merret\Nme ngatërrestarin?
+Dialogue: 0,0:08:35.67,0:08:38.04,Default,,0,0,0,,Të pavlerë.
+Dialogue: 0,0:08:38.71,0:08:42.08,Default,,0,0,0,,Ju jap një mundësi,\Npor asnjëri nuk guxon të dalë përpara?
+Dialogue: 0,0:08:42.29,0:08:44.13,Default,,0,0,0,,Cheng Xiaoshi, ngrije dorën.
+Dialogue: 0,0:08:44.21,0:08:46.17,Default,,0,0,0,,Hë? Unë?
+Dialogue: 0,0:08:48.46,0:08:53.33,Default,,0,0,0,,Xiao Weiying është ende i ri,\Npor ka guxim ta bëjë këtë?
+Dialogue: 0,0:08:53.42,0:08:56.58,Default,,0,0,0,,Po, kjo është zgjedhja e tij.
+Dialogue: 0,0:08:58.13,0:09:00.25,Default,,0,0,0,,Një tufë frikacakësh.
+Dialogue: 0,0:09:00.58,0:09:03.96,Default,,0,0,0,,Atëherë duhet t'ia ngarkoj detyrën\Nty, birit tim të madh.
+Dialogue: 0,0:09:06.88,0:09:07.96,Default,,0,0,0,,Prit!
+Dialogue: 0,0:09:11.17,0:09:12.46,Default,,0,0,0,,Do ta bëj unë!
+Dialogue: 0,0:09:19.08,0:09:21.71,Default,,0,0,0,,Je më i vogli,\Npor sot qenke krejt ndryshe.
+Dialogue: 0,0:09:21.79,0:09:24.83,Default,,0,0,0,,Por më pëlqen guximi yt. Interesante!
+Dialogue: 0,0:09:24.92,0:09:26.08,Default,,0,0,0,,Jepini armën.
+Dialogue: 0,0:09:34.13,0:09:35.58,Default,,0,0,0,,Armën?
+Dialogue: 0,0:09:35.67,0:09:38.50,Default,,0,0,0,,Duhet të vras dikë?
+Dialogue: 0,0:09:39.71,0:09:44.88,Default,,0,0,0,,Epo, objektivin tënd e takove sot pasdite.
+Dialogue: 0,0:09:46.33,0:09:48.67,Default,,0,0,0,,Mësuesin e asaj shkolle gjuhësh,
+Dialogue: 0,0:09:49.08,0:09:50.88,Default,,0,0,0,,Cheng Weimin.
+Dialogue: 0,0:09:54.21,0:09:55.79,Default,,0,0,0,,Vërtet luksoze.
+Dialogue: 0,0:09:55.88,0:09:58.17,Default,,0,0,0,,E kam parë disa herë\Nnë Librin e Gjelbër.
+Dialogue: 0,0:09:58.54,0:10:01.50,Default,,0,0,0,,Thuhet se është një nga\Nrestorantet më të mira perëndimore në Guidu.
+Dialogue: 0,0:10:02.00,0:10:03.13,Default,,0,0,0,,Kaq ishte pjata kryesore.
+Dialogue: 0,0:10:03.67,0:10:05.00,Default,,0,0,0,,Pas saj do të kemi ëmbëlsirë.
+Dialogue: 0,0:10:06.25,0:10:07.50,Default,,0,0,0,,Dëshironi pak verë?
+Dialogue: 0,0:10:09.79,0:10:10.83,Default,,0,0,0,,Jo, faleminderit.
+Dialogue: 0,0:10:12.04,0:10:13.13,Default,,0,0,0,,Zoti Liu,
+Dialogue: 0,0:10:13.21,0:10:15.83,Default,,0,0,0,,kemi ruajtur një shishe\NVin Parfait 80-vjeçare për ju.
+Dialogue: 0,0:10:18.21,0:10:19.42,Default,,0,0,0,,Sa kushton?
+Dialogue: 0,0:10:20.29,0:10:21.42,Default,,0,0,0,,53 000.
+Dialogue: 0,0:10:25.13,0:10:26.33,Default,,0,0,0,,Çfarë?
+Dialogue: 0,0:10:26.50,0:10:28.67,Default,,0,0,0,,Aq shtrenjtë vetëm për një shishe verë!
+Dialogue: 0,0:10:29.00,0:10:34.75,Default,,0,0,0,,Quede, sa para të përgjakura\Nt'u deshën për të jetuar kështu?
+Dialogue: 0,0:10:35.04,0:10:35.96,Default,,0,0,0,,Mirë.
+Dialogue: 0,0:10:36.08,0:10:38.29,Default,,0,0,0,,Sot do ta vendos drejtësinë sipas mënyrës sime.
+Dialogue: 0,0:10:38.42,0:10:40.13,Default,,0,0,0,,Do të shpenzoj sa më shumë të mundem.
+Dialogue: 0,0:10:42.92,0:10:44.88,Default,,0,0,0,,Qiao Ling mund të mos pijë shumë.
+Dialogue: 0,0:10:45.00,0:10:46.04,Default,,0,0,0,,Le ta lëmë fare alkoolin.
+Dialogue: 0,0:10:46.13,0:10:48.42,Default,,0,0,0,,Pse?
+Dialogue: 0,0:10:48.88,0:10:50.04,Default,,0,0,0,,Çfarë dite e bukur sot.
+Dialogue: 0,0:10:50.13,0:10:52.00,Default,,0,0,0,,Pak verë nuk bën keq!
+Dialogue: 0,0:10:54.63,0:10:57.46,Default,,0,0,0,,Qiao Ling, je e sigurt?
+Dialogue: 0,0:11:10.71,0:11:14.00,Default,,0,0,0,,Qindra para për një gllënjkë, ja ku shkon.
+Dialogue: 0,0:11:17.42,0:11:19.46,Default,,0,0,0,,Verërat më të vjetra zakonisht godasin më fort.
+Dialogue: 0,0:11:20.04,0:11:21.17,Default,,0,0,0,,Më mirë ki kujdes.
+Dialogue: 0,0:11:22.08,0:11:23.33,Default,,0,0,0,,Meqë ra fjala,
+Dialogue: 0,0:11:23.42,0:11:27.00,Default,,0,0,0,,dëgjova se drejton një studio fotografike?
+Dialogue: 0,0:11:27.50,0:11:29.79,Default,,0,0,0,,Jam vetëm pronarja e ndërtesës.
+Dialogue: 0,0:11:30.67,0:11:33.96,Default,,0,0,0,,Mos u sill sikur nuk e di.\NVetëm po shtireni.
+Dialogue: 0,0:11:38.46,0:11:40.92,Default,,0,0,0,,Qiao Ling, je e drejtpërdrejtë.
+Dialogue: 0,0:11:41.00,0:11:44.33,Default,,0,0,0,,Atëherë s'do t'i bie rrotull.
+Dialogue: 0,0:11:44.54,0:11:47.71,Default,,0,0,0,,Cila është aftësia jote si shtrigë?
+Dialogue: 0,0:11:57.25,0:11:59.71,Default,,0,0,0,,Mos më quaj shtrigë! Më bezdis!
+Dialogue: 0,0:12:02.50,0:12:04.21,Default,,0,0,0,,Nuk kam asgjë të veçantë.
+Dialogue: 0,0:12:04.29,0:12:08.38,Default,,0,0,0,,Ndonjëherë thjesht marr ndjesi të paqarta\Nnga njerëzit ose çastet në një fotografi.
+Dialogue: 0,0:12:09.08,0:12:11.25,Default,,0,0,0,,Por nuk funksionon gjithmonë,
+Dialogue: 0,0:12:11.63,0:12:14.46,Default,,0,0,0,,prandaj mos mbaj shumë shpresa tek unë.
+Dialogue: 0,0:12:18.83,0:12:22.29,Default,,0,0,0,,Kam një fotografi\Nqë do të doja ta shihje.
+Dialogue: 0,0:12:24.58,0:12:25.79,Default,,0,0,0,,E njeh?
+Dialogue: 0,0:12:31.67,0:12:33.83,Default,,0,0,0,,Jo, kush është?
+Dialogue: 0,0:12:34.63,0:12:36.21,Default,,0,0,0,,Kjo fotografi është dëmtuar keq.
+Dialogue: 0,0:12:36.75,0:12:38.13,Default,,0,0,0,,Ku e gjete?
+Dialogue: 0,0:12:38.83,0:12:41.13,Default,,0,0,0,,Qiao Ling, a mund të përpiqesh ta ndjesh?
+Dialogue: 0,0:12:42.17,0:12:44.58,Default,,0,0,0,,Dua të di më shumë për të.
+Dialogue: 0,0:13:26.54,0:13:29.42,Default,,0,0,0,,Kur të arrish atje, hyr nga dera e pasme.
+Dialogue: 0,0:13:29.50,0:13:32.67,Default,,0,0,0,,Kam dikë brenda\Nqë do t'i mbajë dyert hapur për ty.
+Dialogue: 0,0:13:36.67,0:13:39.17,Default,,0,0,0,,Mos ngurro. Hyr brenda.
+Dialogue: 0,0:13:59.04,0:14:04.29,Default,,0,0,0,,Lu Guang,\NVein vërtet u ofrua të vriste babanë tim?
+Dialogue: 0,0:14:04.58,0:14:07.54,Default,,0,0,0,,Po, por mos u shqetëso.
+Dialogue: 0,0:14:07.63,0:14:08.96,Default,,0,0,0,,Dështoi.
+Dialogue: 0,0:14:12.13,0:14:14.13,Default,,0,0,0,,Prit në zyrën përpara.
+Dialogue: 0,0:14:24.25,0:14:25.79,Default,,0,0,0,,E mbaj mend këtë vend.
+Dialogue: 0,0:14:25.88,0:14:27.33,Default,,0,0,0,,Është zyra e tij.
+Dialogue: 0,0:14:32.42,0:14:37.00,Default,,0,0,0,,Hej, mund ta shfrytëzoj rastin\Npër të kërkuar të dhëna për të kaluarën e tij!
+Dialogue: 0,0:14:39.17,0:14:44.63,Default,,0,0,0,,Nëse sheh diçka si regjistër\Nnë fotografi, të lutem më njofto.
+Dialogue: 0,0:14:44.71,0:14:48.92,Default,,0,0,0,,Atëherë përpiqu të gjesh\Ndiçka si regjistër.
+Dialogue: 0,0:14:49.00,0:14:50.13,Default,,0,0,0,,Regjistër?
+Dialogue: 0,0:14:53.38,0:14:56.21,Default,,0,0,0,,Shkolla mund të ketë\Ntë ruajtura dosjet e nxënësve.
+Dialogue: 0,0:14:57.08,0:15:00.79,Default,,0,0,0,,Prit, pra Xia Fei e njeh\NVeinin që nga fëmijëria.
+Dialogue: 0,0:15:00.88,0:15:04.79,Default,,0,0,0,,Gjithçka që na tha për\Ntë kaluarën e tij në Bridon ishte gënjeshtër?
+Dialogue: 0,0:15:17.46,0:15:20.63,Default,,0,0,0,,Kur është bërë kjo fotografi?
+Dialogue: 0,0:15:21.29,0:15:23.08,Default,,0,0,0,,Nuk e mbaj mend fare.
+Dialogue: 0,0:15:26.58,0:15:30.46,Default,,0,0,0,,Lu Guang, a mund të hyj në këtë fotografi?
+Dialogue: 0,0:15:30.54,0:15:34.00,Default,,0,0,0,,Idiot, tashmë je brenda një fotografie.
+Dialogue: 0,0:15:34.08,0:15:35.92,Default,,0,0,0,,Një kërcim i njëpasnjëshëm është i pamundur.
+Dialogue: 0,0:15:43.46,0:15:46.88,Default,,0,0,0,,E kuptova. Për pjesën tjetër kujdesem unë.
+Dialogue: 0,0:15:50.50,0:15:53.25,Default,,0,0,0,,Qëndro i qetë. Ai nuk do të hyjë.
+Dialogue: 0,0:15:53.63,0:15:56.92,Default,,0,0,0,,Tani duhet të dalësh dhe ta ndjekësh.
+Dialogue: 0,0:16:41.96,0:16:45.92,Default,,0,0,0,,Paska një bodrum kaq të madh\Nnën shkollë!
+Dialogue: 0,0:17:15.42,0:17:16.79,Default,,0,0,0,,Na lini të dalim!
+Dialogue: 0,0:17:22.88,0:17:25.25,Default,,0,0,0,,Ky është burgim i paligjshëm!
+Dialogue: 0,0:17:25.75,0:17:27.75,Default,,0,0,0,,E quan veten mësues?
+Dialogue: 0,0:17:27.92,0:17:29.29,Default,,0,0,0,,Je një përbindësh me kostum!
+Dialogue: 0,0:17:29.38,0:17:31.46,Default,,0,0,0,,Pse i mbylli këta nxënës?!
+Dialogue: 0,0:17:32.04,0:17:35.75,Default,,0,0,0,,Ajo që i tha më parë Wang Qingut\Nnuk ngjan aspak me atë që po bën tani.
+Dialogue: 0,0:17:36.54,0:17:39.63,Default,,0,0,0,,Çfarë ndodhi saktësisht pas kësaj?
+Dialogue: 0,0:17:40.00,0:17:42.25,Default,,0,0,0,,Zoti Cheng, ju lutem!
+Dialogue: 0,0:17:42.33,0:17:44.13,Default,,0,0,0,,Ju lutem, na lini të ikim!
+Dialogue: 0,0:17:44.21,0:17:45.88,Default,,0,0,0,,Nuk e kuptoni?
+Dialogue: 0,0:17:45.96,0:17:47.79,Default,,0,0,0,,Po përpiqem t'ju mbroj.
+Dialogue: 0,0:17:47.88,0:17:50.33,Default,,0,0,0,,Do të vdesim edhe po të qëndrojmë këtu!
+Dialogue: 0,0:17:58.71,0:18:01.00,Default,,0,0,0,,Do të kujdesem unë për gjithçka
+Dialogue: 0,0:18:01.08,0:18:02.46,Default,,0,0,0,,dhe do t'ju nxjerr jashtë.
+Dialogue: 0,0:18:04.88,0:18:05.88,Default,,0,0,0,,Jo!
+Dialogue: 0,0:18:05.96,0:18:08.75,Default,,0,0,0,,Më lër të dal! Më lër të dal!
+Dialogue: 0,0:18:17.29,0:18:18.58,Default,,0,0,0,,Kush është aty?
+Dialogue: 0,0:18:22.00,0:18:23.54,Default,,0,0,0,,Ti? Nuk mund të jetë...
+Dialogue: 0,0:18:34.25,0:18:35.88,Default,,0,0,0,,Vein, ule armën.
+Dialogue: 0,0:18:35.96,0:18:37.13,Default,,0,0,0,,Ti nuk ke të bësh fare me këtë!
+Dialogue: 0,0:18:37.25,0:18:38.38,Default,,0,0,0,,Pse po ndodh kjo?
+Dialogue: 0,0:18:38.92,0:18:40.46,Default,,0,0,0,,Çfarë bëri babai im?
+Dialogue: 0,0:18:41.04,0:18:42.54,Default,,0,0,0,,Vein nuk qëlloi, apo jo?
+Dialogue: 0,0:18:42.83,0:18:44.33,Default,,0,0,0,,Lu Guang, më thuaj!
+Dialogue: 0,0:18:44.42,0:18:46.21,Default,,0,0,0,,Qëlloje, Cheng Xiaoshi.
+Dialogue: 0,0:18:50.25,0:18:52.42,Default,,0,0,0,,Më dëgjo. Qëllo.
+Dialogue: 0,0:18:52.50,0:18:53.75,Default,,0,0,0,,Nuk mundem!
+Dialogue: 0,0:18:53.83,0:18:58.54,Default,,0,0,0,,Nëse Vein qëlloi,\Nsi munda ta shihja më pas te zjarri!
+Dialogue: 0,0:19:01.42,0:19:02.88,Default,,0,0,0,,Vein, qetësohu.
+Dialogue: 0,0:19:03.00,0:19:04.46,Default,,0,0,0,,Ule armën dhe më dëgjo.
+Dialogue: 0,0:19:05.17,0:19:06.46,Default,,0,0,0,,Qëllo tani.
+Dialogue: 0,0:19:06.54,0:19:07.92,Default,,0,0,0,,Nuk mundem!
+Dialogue: 0,0:19:09.46,0:19:11.08,Default,,0,0,0,,Më beso.
+Dialogue: 0,0:19:11.17,0:19:12.46,Default,,0,0,0,,Diçka nuk shkon me atë armë.
+Dialogue: 0,0:19:27.46,0:19:28.75,Default,,0,0,0,,Vrapo!
+Dialogue: 0,0:19:46.17,0:19:49.04,Default,,0,0,0,,E godita?
+Dialogue: 0,0:19:49.63,0:19:50.79,Default,,0,0,0,,Nuk qenka e rreme?
+Dialogue: 0,0:19:51.04,0:19:52.54,Default,,0,0,0,,Si mundi të qëllonte?
+Dialogue: 0,0:19:53.08,0:19:55.17,Default,,0,0,0,,Siç qielli është i rrumbullakët dhe toka katrore,
+Dialogue: 0,0:19:55.33,0:19:57.88,Default,,0,0,0,,hijet ushqehen me dritë.
+Dialogue: 0,0:19:58.29,0:20:01.50,Default,,0,0,0,,Kjo fotografi fsheh tri rreze drite.
+Dialogue: 0,0:20:07.13,0:20:11.50,Default,,0,0,0,,Një gënjeshtër për t'i verbuar syrin të gjallit.
+Dialogue: 0,0:20:11.92,0:20:16.00,Default,,0,0,0,,Një brymë që çan\Nçdo maskim për të vdekurin.
+Dialogue: 0,0:20:32.29,0:20:33.88,Default,,0,0,0,,Dhe e fundit...
+Dialogue: 0,0:20:38.75,0:20:45.17,Default,,0,0,0,,Kundërmimi i Lethes që ngrihet\Nnga vala e lumit të harruar!
+Dialogue: 0,0:20:46.25,0:20:48.67,Default,,0,0,0,,Nuk e di sa shumë di ky tip.
+Dialogue: 0,0:20:49.33,0:20:50.42,Default,,0,0,0,,Gjithsesi,
+Dialogue: 0,0:20:50.75,0:20:54.00,Default,,0,0,0,,duhet t'i mbaj të fshehta aftësitë e\NLu Guangut dhe Cheng Xiaoshit!
+Dialogue: 0,0:20:54.63,0:20:56.83,Default,,0,0,0,,Me fuqinë e urdhrit hyjnor! Hapu!
+Dialogue: 0,0:21:14.25,0:21:15.17,Default,,0,0,0,,Ku jam?
+Dialogue: 0,0:21:16.04,0:21:18.96,Default,,0,0,0,,Pse mund t'i shoh këto?
+Dialogue: 0,0:21:21.58,0:21:22.54,Default,,0,0,0,,Kjo gjendje...
+Dialogue: 0,0:21:23.25,0:21:25.13,Default,,0,0,0,,Pse ajo ka aftësinë e motrës sime?
+Dialogue: 0,0:21:27.25,0:21:29.67,Default,,0,0,0,,Mos vallë në atë çast...
+Dialogue: 0,0:21:34.33,0:21:35.71,Default,,0,0,0,,Çfarë i ke bërë asaj!
+Dialogue: 0,0:21:42.29,0:21:43.46,Default,,0,0,0,,Qiao Ling!
+Dialogue: 0,0:21:53.04,0:21:56.04,Default,,0,0,0,,Pra? Gjetët gjë?
+Dialogue: 0,0:22:01.17,0:22:02.50,Default,,0,0,0,,Merr rrugicën majtas.
+Dialogue: 0,0:22:13.71,0:22:16.50,Default,,0,0,0,,Lu Guang, ç'dreqin po ndodh?
+Dialogue: 0,0:22:25.17,0:22:26.33,Default,,0,0,0,,Misioni dështoi?
+Dialogue: 0,0:22:27.29,0:22:31.42,Default,,0,0,0,,Ky tip ishte gjithashtu në\Nsallën e mbledhjes sot pasdite.
+Dialogue: 0,0:22:31.50,0:22:32.83,Default,,0,0,0,,Vëlla?
+Dialogue: 0,0:22:32.92,0:22:34.83,Default,,0,0,0,,Sot po sillesh jashtëzakonisht ëmbël.
+Dialogue: 0,0:22:38.71,0:22:41.00,Default,,0,0,0,,Por kjo nuk do të të shpëtojë.
+Dialogue: 0,0:22:55.42,0:22:59.92,Default,,0,0,0,,Me sa duket\Nende nuk e ke kuptuar të vërtetën.
+

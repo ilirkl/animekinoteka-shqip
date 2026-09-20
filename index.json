@@ -603,6 +603,23 @@
       "sourceEpisode": "12",
       "sourceTitle": "Kimiai",
       "numberingEvidence": "https://anikototv.to/watch/kimi-wo-aisuru-ki-wa-nai-to-itta-jiki-koushaku-sama-ga-nazeka-dekiai-shitekimasu-ac995"
+    },
+    {
+      "id": "at-689273",
+      "title": "Link Click Season 3",
+      "episode": "7",
+      "malId": 61607,
+      "anilistId": null,
+      "slugs": [
+        "shiguang-dailiren-iii"
+      ],
+      "file": "files/at-689273.sq.vtt",
+      "assFile": "ass/at-689273.sq.ass",
+      "offset": 0,
+      "sourceReleaseId": "689273",
+      "sourceEpisode": "07",
+      "sourceTitle": "Link Click S3",
+      "numberingEvidence": "https://anikototv.to/watch/shiguang-dailiren-iii"
     }
   ]
 }
