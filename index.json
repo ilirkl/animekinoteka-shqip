@@ -570,6 +570,22 @@
       "sourceReleaseId": "689864",
       "sourceEpisode": "12",
       "sourceTitle": "Saijo no Osewa"
+    },
+    {
+      "id": "at-689842",
+      "title": "Hanaori-san Still Wants to Fight in the Next Life",
+      "episode": "11",
+      "malId": 62535,
+      "anilistId": 199066,
+      "slugs": [
+        "hanaori-san-still-wants-to-fight-in-the-next-life-fc481"
+      ],
+      "file": "files/at-689842.sq.vtt",
+      "assFile": "ass/at-689842.sq.ass",
+      "offset": 0,
+      "sourceReleaseId": "689842",
+      "sourceEpisode": "11",
+      "sourceTitle": "Hanaori-san wa Tensei shitemo Kenka ga Shitai"
     }
   ]
 }

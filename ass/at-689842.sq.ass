@@ -1,0 +1,468 @@
+﻿[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+YCbCr Matrix: TV.601
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Top Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Flashback Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Flashback Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:14.91,0:00:16.74,Default,Meru,0,0,0,,Të thashë se erdha këtu \Npër një arsye, apo jo?
+Dialogue: 0,0:00:17.45,0:00:19.99,Default,Meru,0,0,0,,Erdha të të shpëtoj nga ky dimension.
+Dialogue: 0,0:00:21.85,0:00:25.15,Default,Meru,0,0,0,,Të dua, magjistari im.
+Dialogue: 0,0:00:26.02,0:00:28.67,Default,Meru,0,0,0,,A do të vish me mua në dimensionin tim?
+Dialogue: 0,0:00:28.67,0:00:30.13,Default,Ryusei,0,0,0,,Princeshë.
+Dialogue: 0,0:02:04.81,0:02:08.02,Default,Sign,0,0,0,,{\fad(500,0)\fnImpact\bord2\fs32\shad0\blur0.3\3c&H6A0E30&\c&HC2207A&\pos(138.5,58)}Episodi 11
+Dialogue: 0,0:02:04.81,0:02:08.02,Default,Sign,0,0,0,,{\fad(500,0)\fnImpact\bord1.8\an8\fs60\shad0\blur0.3\pos(320,220)\3c&H6A0E30&\c&HC2207A&}Romeo dhe Zhuljeta
+Dialogue: 0,0:02:08.44,0:02:11.54,Default,Sign,0,0,0,,{\fad(0,450)\bord2.5\shad0\blur0.3\4a&H00&\fs33\q2\c&HFFFFFF&\3c&HFFFFFF&\t(40,750,\c&H791715&\3c&HF6F7FA&\4c&HF6FDFB&)\pos(360,295)}Dita kur ajo i shprehu ndjenjat me fjalë
+Dialogue: 0,0:02:09.98,0:02:13.26,Top,Meru,0,0,0,,Të dua, magjistari im.
+Dialogue: 0,0:02:14.14,0:02:16.74,Default,Meru,0,0,0,,A do të vish me mua në dimensionin tim?
+Dialogue: 0,0:02:16.74,0:02:18.20,Default,Ryusei,0,0,0,,Princeshë.
+Dialogue: 0,0:02:19.99,0:02:20.71,Italics,Meteor,0,0,0,,Hë?
+Dialogue: 0,0:02:21.79,0:02:23.70,Italics,Meteor,0,0,0,,Mos është ky fillimi i romancës së tyre?
+Dialogue: 0,0:02:32.59,0:02:33.79,Default,Ryusei,0,0,0,,Nuk pranoj.
+Dialogue: 0,0:02:37.05,0:02:40.23,Default,Ryusei,0,0,0,,Ky dimension është shtëpia ime e dytë.
+Dialogue: 0,0:02:40.93,0:02:42.71,Default,Ryusei,0,0,0,,Nuk mund ta braktis kështu.
+Dialogue: 0,0:02:44.23,0:02:46.93,Default,Ryusei,0,0,0,,Përveç kësaj, di gjithçka.
+Dialogue: 0,0:02:48.57,0:02:50.88,Default,Ryusei,0,0,0,,E di se e gjithë kjo ishte vepra jote.
+Dialogue: 0,0:02:52.52,0:02:55.39,Default,Meru,0,0,0,,Oh, e kuptove?
+Dialogue: 0,0:02:56.01,0:03:00.11,Default,Ryusei,0,0,0,,Ti ishe shenjtorja e Mbretërisë Runeberg\N dhe princesha e saj e parë.
+Dialogue: 0,0:03:00.79,0:03:03.98,Default,Ryusei,0,0,0,,Por fytyra jote e vërtetë ishte e liga vetë.
+Dialogue: 0,0:03:04.69,0:03:09.76,Default,Ryusei,0,0,0,,Veprove në hije për të përhapur\N flakët e luftës dhe për të sjellë vdekjen.
+Dialogue: 0,0:03:10.60,0:03:12.63,Default,Ryusei,0,0,0,,Ti je princesha më e ligë e historisë...
+Dialogue: 0,0:03:14.74,0:03:17.27,Default,Ryusei,0,0,0,,Princesha Melvorshia R. Runeberg.
+Dialogue: 0,0:03:19.46,0:03:22.38,Default,Ryusei,0,0,0,,U rimishërova që të të vrisja.
+Dialogue: 0,0:03:23.41,0:03:25.22,Default,Meru,0,0,0,,Kjo duket si fat.
+Dialogue: 0,0:03:26.93,0:03:27.19,Default,Sign,0,0,0,,{\fnArial\b1\bord3\shad0\blur0.2\fs36\3c&HDBDE63&\c&HD94A64&\frz18.73\move(250,254,238,240)}Goja hapur
+Dialogue: 0,0:03:27.19,0:03:27.56,Default,Sign,0,0,0,,{\fnArial\b1\bord3\shad0\blur0.2\fs36\3c&HDBDE63&\c&HD94A64&\frz18.73\move(238,240,229,230)}Goja hapur
+Dialogue: 0,0:03:27.56,0:03:28.66,Default,Sign,0,0,0,,{\fad(0,1000)\fnArial\b1\bord3\shad0\blur0.2\fs36\3c&HDBDE63&\c&HD94A64&\frz18.73\move(229,230,218,215)}Goja hapur
+Dialogue: 0,0:03:27.81,0:03:30.27,Italics,Meteor,0,0,0,,Këtu nuk ka as edhe një grimcë romance.
+Dialogue: 0,0:03:31.08,0:03:34.10,Default,Meru,0,0,0,,E dua vdekjen dhe kaosin.
+Dialogue: 0,0:03:34.63,0:03:37.57,Default,Meru,0,0,0,,Kërkoja vdekje me bollëk.
+Dialogue: 0,0:03:37.57,0:03:40.90,Default,Meru,0,0,0,,Prandaj i nxita të gjitha ato luftëra.
+Dialogue: 0,0:03:41.12,0:03:45.95,Default,Meru,0,0,0,,U lidha me armiqtë, i dhashë perandorisë \Nfuqi, përhapa flakët e luftës,
+Dialogue: 0,0:03:45.95,0:03:48.81,Default,Meru,0,0,0,,dhe e lava kontinentin\N në flakët e shkatërrimit.
+Dialogue: 0,0:03:49.43,0:03:54.80,Default,Meru,0,0,0,,Të shihja mbretërinë time të pushtohej \Ndhe të zhdukej ishte kënaqësia më e madhe që kisha provuar.
+Dialogue: 0,0:03:54.80,0:03:58.13,Default,Meteor,0,0,0,,Po tallesh me mua?! A e di vallë \Nsa njerëz vuajtën?!
+Dialogue: 0,0:03:58.13,0:03:59.17,Default,Ryusei,0,0,0,,Meteor.
+Dialogue: 0,0:03:59.17,0:04:01.01,Default,Meteor,0,0,0,,Edhe Ryusei...
+Dialogue: 0,0:04:01.01,0:04:05.01,Default,Meru,0,0,0,,Duket se e teprova pak \Nqë të quhem një antiheroinë dinake.
+Dialogue: 0,0:04:05.69,0:04:06.60,Default,Meteor,0,0,0,,Mos na e shit këtë!
+Dialogue: 0,0:04:06.94,0:04:09.57,Default,Ryusei,0,0,0,,Por qëllimi yt kryesor ishte tjetërkund.
+Dialogue: 0,0:04:09.57,0:04:10.72,Default,Ryusei,0,0,0,,Apo jo?
+Dialogue: 0,0:04:10.72,0:04:12.11,Default,Meru,0,0,0,,Saktë.
+Dialogue: 0,0:04:12.11,0:04:15.92,Default,Meru,0,0,0,,Numri i shpirtrave që duheshin \Npër rimishërimin ishte 10 000, apo jo?
+Dialogue: 0,0:04:16.30,0:04:19.94,Default,Meru,0,0,0,,E shfrytëzova me kënaqësi kërkimin tënd\N mbi rimishërimin.
+Dialogue: 0,0:04:20.27,0:04:23.96,Default,Meru,0,0,0,,Falë tij, arrita \Ntë rimishërohesha në një botë tjetër.
+Dialogue: 0,0:04:23.96,0:04:25.43,Default,Meru,0,0,0,,Gjithçka ishte falë teje.
+Dialogue: 0,0:04:25.84,0:04:29.29,Default,Meru,0,0,0,,U bëra zuzare në Tokën 7, \Nnjë dimension ku e keqja triumfon.
+Dialogue: 0,0:04:29.85,0:04:31.89,Default,Meru,0,0,0,,Krejt e kundërta e këtushmes.
+Dialogue: 0,0:04:35.45,0:04:38.25,Default,Meru,0,0,0,,Dhe tani kam hapur portat e ferrit.
+Dialogue: 0,0:04:38.65,0:04:41.71,Default,Meru,0,0,0,,Kjo botë nuk mundi ta përballonte \Nkryqëzimin me dimensione të shumta,
+Dialogue: 0,0:04:41.71,0:04:43.86,Default,Meru,0,0,0,,dhe u krijua një çarje.
+Dialogue: 0,0:04:43.86,0:04:46.79,Default,Meru,0,0,0,,Për sa kohë kjo çarje të mbetet e hapur\N drejt shtresës së nënhapësirës,
+Dialogue: 0,0:04:46.79,0:04:49.64,Default,Meru,0,0,0,,entropia do të vazhdojë të rritet.
+Dialogue: 0,0:04:49.64,0:04:51.97,Default,Meru,0,0,0,,Vetëm shikoje atë çarje dimensionale.
+Dialogue: 0,0:04:51.97,0:04:55.10,Default,Meru,0,0,0,,Është si një digë gati për të shpërthyer.
+Dialogue: 0,0:04:55.62,0:04:57.94,Default,Ryusei,0,0,0,,Barriera dimensionale po çahet?
+Dialogue: 0,0:04:59.05,0:05:01.90,Default,Ryusei,0,0,0,,Po përpiqesh vërtet \Nta shkatërrosh këtë botë?
+Dialogue: 0,0:05:01.90,0:05:06.24,Default,Meru,0,0,0,,E di, edhe unë e mora parasysh mundësinë\N që ti të ishe rimishëruar.
+Dialogue: 0,0:05:07.21,0:05:11.58,Default,Meru,0,0,0,,Erdha këtu sepse doja që këtë herë \Nta shkatërronim një botë së bashku.
+Dialogue: 0,0:05:11.58,0:05:13.83,Default,Meteor,0,0,0,,Çfarë gruaje e poshtër.
+Dialogue: 0,0:05:17.13,0:05:19.25,Default,Meru,0,0,0,,Për mua ky është lavdërimi më i madh.
+Dialogue: 0,0:05:20.87,0:05:22.39,Default,Meteor,0,0,0,,Po mendoja çfarë të bëja,
+Dialogue: 0,0:05:22.39,0:05:25.16,Default,Meteor,0,0,0,,por jam e lehtësuar që kjo mund të zgjidhet\N me dhunë.
+Dialogue: 0,0:05:25.16,0:05:26.93,Default,Ryusei,0,0,0,,Çfarë deklarate e frikshme!
+Dialogue: 0,0:05:27.16,0:05:29.18,Default,Meru,0,0,0,,Por a mund të bësh gjë në atë gjendje?
+Dialogue: 0,0:05:30.87,0:05:31.66,Default,Ryusei,0,0,0,,Meteor.
+Dialogue: 0,0:05:32.60,0:05:33.85,Default,Meru,0,0,0,,Brave Jammer.
+Dialogue: 0,0:05:34.98,0:05:38.15,Default,Meru,0,0,0,,Është një aftësi mashtruese \Nqë bllokon fuqitë e një heroi.
+Dialogue: 0,0:05:38.15,0:05:40.07,Default,Meteor,0,0,0,,Pra, ishte {\i1}vepra{\i0} jote?
+Dialogue: 0,0:05:40.48,0:05:41.61,Default,Meru,0,0,0,,Ashtu është.
+Dialogue: 0,0:05:41.91,0:05:45.82,Default,Meru,0,0,0,,Fatkeqësisht për ty, \Nshpata e një heroi nuk mund të më prekë.
+Dialogue: 0,0:05:46.87,0:05:48.07,Default,Ryusei,0,0,0,,Princeshë.
+Dialogue: 0,0:05:51.14,0:05:52.99,Default,Ryusei,0,0,0,,Si guxon t'ia bësh këtë Meteor-it!
+Dialogue: 0,0:05:54.71,0:05:56.09,Default,Meru,0,0,0,,Pastrimi.
+Dialogue: 0,0:05:54.54,0:05:56.50,Default,Sign,0,0,0,,{\fad(480,0)\fnArial\shad0\bord1.6\blur0.2\fs36\b1\c&HEEA539&\3c&HFFF9ED&\pos(320,46)}Pastrimi
+Dialogue: 0,0:05:56.50,0:05:57.26,Default,Ryusei,0,0,0,,Çfarë?
+Dialogue: 0,0:05:58.46,0:06:01.56,Default,Meru,0,0,0,,I harrove fuqitë e mia si shenjtore?
+Dialogue: 0,0:06:01.56,0:06:01.67,Default,Sign,0,0,0,,{\shad0\bord2.5\b1\blur0.2\c&HFDBE50&\3c&H99FEFA&\frz19\move(196,92,186,78)}Paqe
+Dialogue: 0,0:06:01.67,0:06:04.42,Default,Sign,0,0,0,,{\shad0\bord2.5\b1\blur0.2\c&HFDBE50&\3c&H99FEFA&\frz19\move(186,78,177,66)}Paqe
+Dialogue: 0,0:06:01.56,0:06:01.67,Default,Sign,0,0,0,,{\shad0\bord2.5\b1\blur0.2\c&HFDBE50&\3c&H99FEFA&\frz350.4\move(426,86.5,432,60.5)}Paqe
+Dialogue: 0,0:06:01.67,0:06:04.42,Default,Sign,0,0,0,,{\shad0\bord2.5\b1\blur0.2\c&HFDBE50&\3c&H99FEFA&\frz350.4\move(432,60.5,437,44.5)}Paqe
+Dialogue: 0,0:06:01.56,0:06:04.06,Default,Meru,0,0,0,,Ushtarët e pavdekur s'më bëjnë dot asgjë.
+Dialogue: 0,0:06:05.31,0:06:08.30,Italics,Ryusei,0,0,0,,Kjo është keq. Kalorësit e mi të pavdekur\N u asgjësuan,
+Dialogue: 0,0:06:08.30,0:06:10.30,Italics,Ryusei,0,0,0,,Meteor-it iu hoqën fuqitë,
+Dialogue: 0,0:06:10.63,0:06:13.25,Italics,Ryusei,0,0,0,,dhe kemi përballë një shenjtore të çmendur\N me aftësi tepër të fuqishme.
+Dialogue: 0,0:06:14.17,0:06:16.12,Default,Meru,0,0,0,,Më në fund u ribashkuam.
+Dialogue: 0,0:06:16.55,0:06:18.77,Default,Meru,0,0,0,,Duhet ta shijojmë edhe pak këtë,\N apo jo?
+Dialogue: 0,0:06:18.77,0:06:24.48,Default,Meru,0,0,0,,Sidomos sepse këtë herë \Nmund t'i shkatërroj gjërat e çmuara për ty.
+Dialogue: 0,0:06:26.64,0:06:27.93,Default,Meru,0,0,0,,Bomba e Shenjtë.
+Dialogue: 0,0:06:26.49,0:06:28.28,Default,Sign,0,0,0,,{\fad(220,0)\fnArial\shad0\bord2.1\blur0.8\fs30\b1\c&HF8FFAD&\3c&HFFFDE5&\pos(532.5,327.5)}Bomba e Shenjtë
+Dialogue: 0,0:06:33.69,0:06:34.82,Default,Meru,0,0,0,,Shpëtove, hë?
+Dialogue: 0,0:06:39.16,0:06:40.78,Default,Amou,0,0,0,,Teleportimi pati sukses.
+Dialogue: 0,0:06:40.78,0:06:43.00,Default,Ayame,0,0,0,,Shkëlqyeshëm. Bravo unë.
+Dialogue: 0,0:06:45.02,0:06:45.96,Default,Ryusei,0,0,0,,Ku jemi?
+Dialogue: 0,0:06:46.23,0:06:48.97,Default,Eriko,0,0,0,,Në çatinë e ndërtesës së Oz-it.
+Dialogue: 0,0:06:48.97,0:06:52.30,Default,Amou,0,0,0,,Për pak. Më vjen mirë \Nqë ju nxorëm prej andej në kohë.
+Dialogue: 0,0:06:52.30,0:06:53.76,Default,Meteor,0,0,0,,Hë? Çfarë?
+Dialogue: 0,0:06:53.76,0:06:55.70,Default,Meteor,0,0,0,,Amou-san?
+Dialogue: 0,0:06:55.70,0:06:57.35,Default,Ayame,0,0,0,,Duhet ta falënderosh.
+Dialogue: 0,0:06:57.35,0:07:01.10,Default,Ayame,0,0,0,,Aman, pse u hodhët\N drejt e në betejë?
+Dialogue: 0,0:07:01.10,0:07:02.39,Default,Ryusei,0,0,0,,Më fal.
+Dialogue: 0,0:07:03.69,0:07:08.28,Default,Eriko,0,0,0,,Është e njëjta çarje \Nqë për pak shkatërroi botën tonë.
+Dialogue: 0,0:07:08.53,0:07:11.92,Default,Amou,0,0,0,,Tani për tani, shtrigat e Oz-it \Npo punojnë për kundërmasa,
+Dialogue: 0,0:07:12.24,0:07:14.75,Default,Amou,0,0,0,,por nuk do të kalojë shumë kohë\N derisa ky dimension të shembet.
+Dialogue: 0,0:07:14.75,0:07:17.10,Default,Ayame,0,0,0,,Hej, ç'punë ka ajo?
+Dialogue: 0,0:07:19.25,0:07:21.93,Default,Ryusei,0,0,0,,Është një princeshë \Nqë e do vdekjen dhe dëshpërimin.
+Dialogue: 0,0:07:22.26,0:07:26.23,Default,Ryusei,0,0,0,,Një zuzare që u rimishërua nga \Nnjë dimension tjetër për ta shkatërruar këtë botë.
+Dialogue: 0,0:07:29.28,0:07:30.38,Default,Ayame,0,0,0,,A mund ta mposhtësh?
+Dialogue: 0,0:07:30.60,0:07:34.29,Default,Ryusei,0,0,0,,Ajo zotëron «Bota është imja»,\Nqë i lejon të vlerësojë çdo gjë,
+Dialogue: 0,0:07:34.29,0:07:36.68,Default,Ryusei,0,0,0,,magji shenjtoreje që është e aftë\N ta shkatërrojë të keqen,
+Dialogue: 0,0:07:37.52,0:07:41.10,Default,Ryusei,0,0,0,,dhe atë fuqi misterioze që përdori\N për të asgjësuar magjinë e Amou-san-it.
+Dialogue: 0,0:07:41.82,0:07:44.06,Default,Ryusei,0,0,0,,Fuqia e saj përfundimtare si shenjtore është e panjohur.
+Dialogue: 0,0:07:44.92,0:07:47.68,Default,Meteor,0,0,0,,Më fal. Sikur vetëm të mund të luftoja...
+Dialogue: 0,0:07:48.58,0:07:52.07,Default,Meteor,0,0,0,,Sikur të kishte ndonjë mënyrë për të bërë diçka\N kundër atij Brave Jammer-i.
+Dialogue: 0,0:07:52.07,0:07:57.83,Default,Ayame,0,0,0,,Hë? Ju të dy nuk mund ta kundërshtoni Brave Jammer-in?\NËshtë aftësi thelbësore në botët e tjera.
+Dialogue: 0,0:07:57.83,0:07:58.87,Default,Both,0,0,0,,Vërtet?!
+Dialogue: 0,0:07:58.87,0:08:02.67,Default,Ayame,0,0,0,,Brave Jammer-i u zhvillua \Npër t'iu kundërvënë heronjve të rimishëruar.
+Dialogue: 0,0:08:02.67,0:08:06.44,Default,Ayame,0,0,0,,Është fjalë për fjalë një aftësi kundër mashtrimit\N që asgjëson aftësitë mashtruese të heronjve.
+Dialogue: 0,0:08:06.44,0:08:09.05,Default,Ryusei,0,0,0,,«Kundër mashtrimit»? Tani qenka e mundur gjithçka, hë?
+Dialogue: 0,0:08:09.05,0:08:12.39,Default,Ayame,0,0,0,,Bota ku isha unë ishte e mbushur\N me kundërmasa ndaj heronjve.
+Dialogue: 0,0:08:12.39,0:08:14.43,Default,Ayame,0,0,0,,Më hapën shumë telashe.
+Dialogue: 0,0:08:14.43,0:08:17.23,Default,Meteor,0,0,0,,Pra, nuk po përjetoje thjesht\N deliret e rinisë?
+Dialogue: 0,0:08:14.65,0:08:14.77,Default,Sign,0,0,0,,{\an8\fs25\b1\bord2\shad0\blur0.2\c&HFA8795&\3c&H87003B&\frz1.5\move(485,218,507,198)}Budalla
+Dialogue: 0,0:08:14.77,0:08:15.35,Default,Sign,0,0,0,,{\an8\fs25\b1\bord2\shad0\blur0.2\c&HFA8795&\3c&H87003B&\frz1.5\move(507,198,521,188)}Budalla
+Dialogue: 0,0:08:15.35,0:08:15.91,Default,Sign,0,0,0,,{\fad(0,700)\an8\fs25\b1\bord2\shad0\blur0.2\c&HFA8795&\3c&H87003B&\frz1.5\move(521,188,526,185)}Budalla
+Dialogue: 0,0:08:17.23,0:08:18.64,Default,Ayame,0,0,0,,Je tepër e dëlirë.
+Dialogue: 0,0:08:20.32,0:08:23.94,Default,Ayame,0,0,0,,Nuk e kam problem të të jap \Nkundërmasat e botës sime.
+Dialogue: 0,0:08:23.94,0:08:24.93,Default,Ryusei,0,0,0,,E ke seriozisht?!
+Dialogue: 0,0:08:24.93,0:08:27.56,Default,Meteor,0,0,0,,Të lutem! Më ndihmo ta rifitoj \Naftësinë për të luftuar!
+Dialogue: 0,0:08:27.56,0:08:30.28,Default,Sign,0,0,0,,{\fad(280,0)\fnArial Black\bord3.5\fs40\t(280,2690,\fs50)\shad0\frz341\fscx90\3c&H1713BC&\c&H93EDE9&\move(548,152,576,142,280,2690)}Rreze
+Dialogue: 0,0:08:27.56,0:08:30.28,Default,Ayame,0,0,0,,Në rregull. Burrat duhet të largohen tani.
+Dialogue: 0,0:08:31.14,0:08:33.49,Default,Ayame,0,0,0,,Kjo do të thotë as të mos shikoni nga kjo anë.
+Dialogue: 0,0:08:33.49,0:08:34.31,Default,Meteor,0,0,0,,Hë?
+Dialogue: 0,0:08:39.41,0:08:41.87,Default,Sign,0,0,0,,{\fad(650,0)\an9\bord1.5\b1\fnGeorgia\fscx90\fs30\shad0\blur0.2\3c&H8E8623&\c&HF2FF97&\move(511,85,509,111)\frz356}Qetë
+Dialogue: 0,0:08:40.54,0:08:41.26,Default,Meteor,0,0,0,,Hë?
+Dialogue: 0,0:08:41.87,0:08:43.63,Default,Meteor,0,0,0,,Hë? Prit një çast!
+Dialogue: 0,0:08:43.63,0:08:44.33,Default,Meteor,0,0,0,,Hë?!
+Dialogue: 0,0:08:44.33,0:08:47.79,Default,Meteor,0,0,0,,Jo!
+Dialogue: 0,0:08:54.72,0:08:55.93,Default,Ayame,0,0,0,,Ja ku u bë.
+Dialogue: 0,0:08:57.74,0:09:00.11,Default,Ayame,0,0,0,,Stema e shenjtë Anuluese e Brave Jammer-it.
+Dialogue: 0,0:09:01.96,0:09:05.42,Default,Ayame,0,0,0,,Tani fuqitë e tua si heroinë nuk do të asgjësohen.
+Dialogue: 0,0:09:06.18,0:09:09.90,Default,Ayame,0,0,0,,Prandaj shko dhe tregoji si heronjtë\N fitojnë gjithmonë në fund.
+Dialogue: 0,0:09:09.90,0:09:11.84,Default,Sign,0,0,0,,{\fad(0,750)\fnComic Sans MS\blur0.2\bord1.5\fs30\b1\shad0\an8\3c&HE4D4FC&\c&H1E00E7&\frz18.38\pos(85.5,246)}Ah! \NMë vritni më mirë!
+Dialogue: 0,0:09:09.90,0:09:12.65,Default,Meteor,0,0,0,,Tani nuk mund të bëhem kurrë nuse.
+Dialogue: 0,0:09:12.65,0:09:15.74,Default,Ayame,0,0,0,,Ka njerëz me atë fetish,\N kështu që do të jesh mirë.
+Dialogue: 0,0:09:16.86,0:09:21.08,Default,Sign,0,0,0,,{\bord2\shad0\blur0.3\4a&H00&\fs32\q2\c&H470808&\3c&HF6F7FA&\4c&HF6FDFB&\pos(376,292)}Pranë teje ditën kur bota merr fund
+Dialogue: 0,0:09:19.02,0:09:21.08,Top,Mana,0,0,0,,Ç'po ndodh me qiellin?
+Dialogue: 0,0:09:21.58,0:09:24.64,Default,Mana,0,0,0,,Duket sikur bota mund të copëtohet\N në çdo çast.
+Dialogue: 0,0:09:25.13,0:09:27.83,Default,Minto,0,0,0,,Hej, ç'dreqin bëre?
+Dialogue: 0,0:09:28.25,0:09:32.85,Default,Meru,0,0,0,,Hë? Magjistari im dhe heroina \Nende nuk janë rimëkëmbur?
+Dialogue: 0,0:09:34.20,0:09:36.07,Default,Meru,0,0,0,,Ka mbetur vetëm një orë.
+Dialogue: 0,0:09:36.07,0:09:39.00,Default,Meru,0,0,0,,Pyes veten nëse do t'ia dalin\N para se bota të shembet.
+Dialogue: 0,0:09:39.81,0:09:42.51,Default,Meru,0,0,0,,Epo, s'ka rëndësi. \NNë vend të tyre, do të luaj me ju të dyja.
+Dialogue: 0,0:09:42.60,0:09:44.73,Default,Minto,0,0,0,,Po të pyes çfarë bëre.
+Dialogue: 0,0:09:47.61,0:09:50.99,Default,Meru,0,0,0,,Unë jam ajo që sjell vdekjen \Ndhe kaosin në botë.
+Dialogue: 0,0:09:53.35,0:09:56.49,Default,Meru,0,0,0,,Dhe, ja pra, ky është fundi i botës.
+Dialogue: 0,0:09:57.73,0:10:00.33,Default,Minto,0,0,0,,Kjo grua ka lajthitur.
+Dialogue: 0,0:10:02.14,0:10:11.34,Default,Sign,0,0,0,,{\fnImpact\b1\blur0.2\fs60\t(\fs52)\bord0.5\shad2.5\4a&H10&\4c&H6F619A&\3c&H81799A&\frz14\move(292,85,292,95)}EMERGJENCË
+Dialogue: 0,0:10:02.80,0:10:04.78,Italics,Operator,0,0,0,,Takigawa Minto. Kuraishi Mana.
+Dialogue: 0,0:10:04.78,0:10:07.82,Italics,Operator,0,0,0,,Keni leje të përdorni magji\N mbi rrethin e katërt.
+Dialogue: 0,0:10:07.82,0:10:10.97,Italics,Operator,0,0,0,,Ju lutem, përdorni gjithë fuqinë tuaj \Npër ta neutralizuar atë grua të ligë.
+Dialogue: 0,0:10:13.61,0:10:14.55,Default,Mana,0,0,0,,Sigurisht.
+Dialogue: 0,0:10:14.55,0:10:16.17,Default,Minto,0,0,0,,Ky ishte plani!
+Dialogue: 0,0:10:18.38,0:10:19.59,Default,Meru,0,0,0,,A e dini?
+Dialogue: 0,0:10:20.29,0:10:23.89,Default,Meru,0,0,0,,Çdo histori e mirë me një zuzare të rimishëruar\N ka nevojë për një luan kurbani.
+Dialogue: 0,0:10:33.07,0:10:36.03,Default,Sign,0,0,0,,{\b1\blur0.2\bord2\fs50\t(\fs44)\shad0\frz22\3c&H5D0352&\c&HC73FBA&\move(381,323,375,292)}Dridhet
+Dialogue: 0,0:10:36.73,0:10:38.80,Default,Ryusei,0,0,0,,Ç-Çfarë është ajo?
+Dialogue: 0,0:10:43.48,0:10:44.46,Default,Meteor,0,0,0,,P-Pajisja...
+Dialogue: 0,0:10:44.96,0:10:46.22,Default,Meteor,0,0,0,,Pajisja ime më e mirë.
+Dialogue: 0,0:10:46.67,0:10:46.93,Default,Sign,0,0,0,,{\fnArial\b1\bord4.5\shad0\blur0.2\fs36\3c&HD24CBF&\c&HF9FFBA&\frz18.73\move(202.5,269.5,172.5,240.5)}Goja hapur
+Dialogue: 0,0:10:46.93,0:10:47.30,Default,Sign,0,0,0,,{\fnArial\b1\bord4.5\shad0\blur0.2\fs36\3c&HD24CBF&\c&HF9FFBA&\frz18.73\move(174.5,242.5,165.5,236.5)}Goja hapur
+Dialogue: 0,0:10:47.30,0:10:48.13,Default,Sign,0,0,0,,{\fad(0,1000)\fnArial\b1\bord4.5\shad0\blur0.2\fs36\3c&HD24CBF&\c&HF9FFBA&\frz18.73\move(165.5,236.5,158.5,226.5)}Goja hapur
+Dialogue: 0,0:10:47.81,0:10:48.94,Italics,Ryusei,0,0,0,,Është idiote.
+Dialogue: 0,0:10:49.41,0:10:50.57,Default,Meteor,0,0,0,,Si të duket?
+Dialogue: 0,0:10:50.57,0:10:52.63,Default,Ryusei,0,0,0,,Epo, koha nuk mund të ishte më e keqe.
+Dialogue: 0,0:10:53.32,0:10:56.20,Default,Ryusei,0,0,0,,Tani kjo është bërë shumë më tepër \Nse një çarje e thjeshtë dimensionale.
+Dialogue: 0,0:10:56.20,0:11:01.10,Default,Meteor,0,0,0,,Asahina-san tha se duhet të zbuloj më shumë lëkurë\N për ta forcuar fuqinë time shpirtërore.
+Dialogue: 0,0:11:01.10,0:11:03.35,Default,Ryusei,0,0,0,,Ende po e thua këtë?
+Dialogue: 0,0:11:03.35,0:11:06.64,Default,Ryusei,0,0,0,,Të shkojmë. Takigawa dhe Kuraishi\N shkuan përpara dhe jam i shqetësuar për to.
+Dialogue: 0,0:11:07.01,0:11:07.85,Default,Meteor,0,0,0,,Prit.
+Dialogue: 0,0:11:08.52,0:11:09.48,Default,Meteor,0,0,0,,Më thuaj...
+Dialogue: 0,0:11:10.49,0:11:12.44,Default,Meteor,0,0,0,,si ndihesh vërtet.
+Dialogue: 0,0:11:16.10,0:11:16.32,Default,Sign,0,0,0,,{\fad(240,0)\fnArial\an8\b1\bord1.8\shad0\fs20\blur0.2\move(337,170,335,163)\c&HFBD3FE&\3c&HBE48D2&\frx0\fry0\frz7.412}Budalla
+Dialogue: 0,0:11:16.32,0:11:18.09,Default,Sign,0,0,0,,{\fad(0,750)\fnArial\an8\b1\bord1.8\shad0\fs20\blur0.2\move(335,163,331,155)\c&HFBD3FE&\3c&HBE48D2&\frx0\fry0\frz7.412}Budalla
+Dialogue: 0,0:11:16.10,0:11:18.77,Default,Ryusei,0,0,0,,Epo, dukesh vërtet e lezetshme.
+Dialogue: 0,0:11:18.77,0:11:20.45,Default,Ryusei,0,0,0,,Nuk di ku të shikoj.
+Dialogue: 0,0:11:20.45,0:11:22.06,Default,Meteor,0,0,0,,Nuk po të pyesja për këtë!
+Dialogue: 0,0:11:22.06,0:11:23.57,Default,Meteor,0,0,0,,Megjithatë, faleminderit!
+Dialogue: 0,0:11:24.27,0:11:27.79,Default,Meteor,0,0,0,,Ajo princeshë shkaktoi luftën \Ndhe shndërrimin tënd në zot demonësh.
+Dialogue: 0,0:11:27.79,0:11:29.90,Default,Meteor,0,0,0,,Ajo është zuzarja pas gjithçkaje, apo jo?
+Dialogue: 0,0:11:30.62,0:11:32.83,Default,Meteor,0,0,0,,Atëherë, çfarë duhet të jetë\N zoti i demonëve?
+Dialogue: 0,0:11:34.31,0:11:35.42,Default,Ryusei,0,0,0,,Zoti i demonëve?
+Dialogue: 0,0:11:36.86,0:11:39.13,Default,Ryusei,0,0,0,,Thjesht një budalla që nuk mundi të mbronte asgjë.
+Dialogue: 0,0:11:39.69,0:11:41.85,Default,Ryusei,0,0,0,,Nuk munda ta mbroja vendin të cilit i shërbeja,
+Dialogue: 0,0:11:41.85,0:11:44.36,Default,Ryusei,0,0,0,,dhe nuk e vura re \Nzemrën e shtrembëruar të princeshës.
+Dialogue: 0,0:11:45.56,0:11:49.93,Default,Ryusei,0,0,0,,Gjithashtu, i dhashë njohuritë \Npër rimishërimin.
+Dialogue: 0,0:11:50.61,0:11:55.88,Default,Ryusei,0,0,0,,Kur kuptova se kishte nisur luftën\N për të marrë shpirtrat e nevojshëm për rilindjen,
+Dialogue: 0,0:11:55.88,0:11:57.70,Default,Ryusei,0,0,0,,ishte tepër vonë për të bërë gjë.
+Dialogue: 0,0:11:58.62,0:11:59.81,Default,Ryusei,0,0,0,,Është përgjegjësia ime.
+Dialogue: 0,0:12:00.44,0:12:03.03,Default,Meteor,0,0,0,,Prandaj u rimishërove \Ndhe e ndoqe pas?
+Dialogue: 0,0:12:03.33,0:12:04.07,Default,Ryusei,0,0,0,,Po.
+Dialogue: 0,0:12:04.49,0:12:08.40,Default,Ryusei,0,0,0,,Kisha ndër mend ta vrisja\N në botën tjetër.
+Dialogue: 0,0:12:08.40,0:12:11.81,Default,Meteor,0,0,0,,Je idiot?! Po merr mbi vete\N shumë përgjegjësi!
+Dialogue: 0,0:12:11.81,0:12:14.05,Default,Ryusei,0,0,0,,Këtu është edhe dikush tjetër \Npo aq e keqe, apo jo?
+Dialogue: 0,0:12:14.41,0:12:17.00,Default,Ryusei,0,0,0,,Një heroinë që u rimishërua \Ndhe ndoqi pas zotin e demonëve.
+Dialogue: 0,0:12:17.00,0:12:17.26,Default,Sign,0,0,0,,{\fad(200,0)\an9\bord3\b1\fnImpact\fs35\t(\fs44)\shad0\blur0.2\frz349\c&HB3FFEF&\3c&H4502AC&\move(538,180,580,125)}Skuqet
+Dialogue: 0,0:12:17.26,0:12:18.69,Default,Sign,0,0,0,,{\fad(0,700)\an9\bord3\b1\fnImpact\fs44\t(\fs50)\shad0\blur0.2\frz349\move(580,125,620,80)\c&HB3FFEF&\3c&H4502AC&}Skuqet
+Dialogue: 0,0:12:17.00,0:12:19.38,Default,Meteor,0,0,0,,Hesht! Të ngjashmit gjejnë njëri-tjetrin!
+Dialogue: 0,0:12:19.38,0:12:21.63,Default,Ryusei,0,0,0,,A është në rregull që një zot demonësh\N të bashkohet me një heroinë?
+Dialogue: 0,0:12:22.05,0:12:24.22,Default,Ryusei,0,0,0,,Kur kjo të mbarojë, \Ndo të marr përgjegjësi edhe për ty.
+Dialogue: 0,0:12:24.22,0:12:26.80,Default,Meteor,0,0,0,,Ky është ogur vdekjeje! Aman!
+Dialogue: 0,0:12:26.80,0:12:29.77,Default,Meteor,0,0,0,,Dhe mos më thuaj \N«edhe sikur të më kushtojë jetën», në rregull?
+Dialogue: 0,0:12:30.04,0:12:32.77,Default,Meteor,0,0,0,,{\i1}Unë{\i0} do të jem ajo që do të të mposhtë.
+Dialogue: 0,0:12:32.77,0:12:32.98,Default,Sign,0,0,0,,{\an7\fnArial\shad0\blur0.2\b1\fs35\t(\fs38)\frz30\move(108,135,92,112)\3c&HFEFDFE&\c&HB6B47B&}Hehe...
+Dialogue: 0,0:12:32.98,0:12:33.96,Default,Sign,0,0,0,,{\fad(0,500)\an7\fnArial\shad0\blur0.2\b1\fs38\t(\fs42)\frz30\move(92,112,68,78)\3c&HFEFDFE&\c&HB6B47B&}Hehe...
+Dialogue: 0,0:12:33.62,0:12:37.14,Default,Ryusei,0,0,0,,Princesha u rimishërua me aftësi mashtruese\N dhe duket tmerrësisht e fortë.
+Dialogue: 0,0:12:37.14,0:12:38.36,Default,Meteor,0,0,0,,Mblidhe veten.
+Dialogue: 0,0:12:39.91,0:12:41.83,Default,Ryusei,0,0,0,,Do të luftoj përkrah heroinës.
+Dialogue: 0,0:12:41.83,0:12:42.49,Default,Ryusei,0,0,0,,Jo...
+Dialogue: 0,0:12:43.78,0:12:45.67,Default,Ryusei,0,0,0,,Do të të kem pranë.
+Dialogue: 0,0:12:46.33,0:12:48.28,Default,Ryusei,0,0,0,,Asgjë nuk mund të më qetësonte më shumë.
+Dialogue: 0,0:12:50.72,0:12:53.98,Default,Meteor,0,0,0,,Si mund të thuash gjëra të tilla\N pa u turpëruar?
+Dialogue: 0,0:12:55.13,0:12:58.90,Default,Meteor,0,0,0,,Këtë herë Meteor-i thotë se do të të japë\N fuqinë e saj.
+Dialogue: 0,0:12:59.45,0:13:01.21,Default,Ryusei,0,0,0,,Ç'do të thotë kjo, fundja?
+Dialogue: 0,0:13:02.49,0:13:04.97,Default,Meteor,0,0,0,,Në rregull. Të shkojmë ta shpëtojmë botën.
+Dialogue: 0,0:13:04.97,0:13:07.16,Default,Ryusei,0,0,0,,H-Hej, mos u ngjit pas meje.
+Dialogue: 0,0:13:10.39,0:13:12.93,Default,Both,0,0,0,,Magji e Kombinuar: Tornado Zjarri!
+Dialogue: 0,0:13:17.37,0:13:19.13,Italics,MechanicalVoice,0,0,0,,Mbrojtje kundër magjisë sulmuese.
+Dialogue: 0,0:13:17.37,0:13:20.40,Default,Sign,0,0,0,,{\fad(480,0)\fnArial\shad0\bord1.6\blur0.2\fs26\an1\b1\c&HEEA539&\3c&HFFF9ED&\pos(96,138)}Mbrojtje\Nkundër\NMagjisë\NSulmuese
+Dialogue: 0,0:13:20.73,0:13:23.05,Default,Minto,0,0,0,,As edhe një gërvishtje?
+Dialogue: 0,0:13:23.05,0:13:24.73,Italics,MechanicalVoice,0,0,0,,Përthithje mane.
+Dialogue: 0,0:13:23.11,0:13:24.84,Default,Sign,0,0,0,,{\fad(230,500)\fnArial\shad0\bord1.6\blur0.2\fs26\b1\c&HEEA539&\3c&HFFF9ED&\pos(136,35.5)}Përthithje Mane
+Dialogue: 0,0:13:25.38,0:13:27.51,Default,Meru,0,0,0,,Kjo është magji sulmuese e jashtëzakonshme.
+Dialogue: 0,0:13:27.87,0:13:30.58,Default,Meru,0,0,0,,Por nuk e mposht dot aftësinë time mashtruese.
+Dialogue: 0,0:13:31.39,0:13:33.26,Italics,MechanicalVoice,0,0,0,,Pasqyrim i magjisë sulmuese.
+Dialogue: 0,0:13:31.25,0:13:33.29,Default,Sign,0,0,0,,{\fad(230,560)\fnArial\shad0\bord1.6\blur0.2\fs20\b1\c&HEEA539&\3c&HFFF9ED&\pos(112,158.5)}Pasqyrim i Magjisë Sulmuese
+Dialogue: 0,0:13:40.01,0:13:41.96,Default,Mana,0,0,0,,Minto, a je mirë?
+Dialogue: 0,0:13:42.55,0:13:43.77,Default,Minto,0,0,0,,Jam mirë.
+Dialogue: 0,0:13:45.17,0:13:46.36,Italics,MechanicalVoice,0,0,0,,Përforcim magjik.
+Dialogue: 0,0:13:46.36,0:13:47.62,Italics,MechanicalVoice,0,0,0,,Ngarkim magjik.
+Dialogue: 0,0:13:45.05,0:13:46.39,Default,Sign,0,0,0,,{\fad(200,400)\fnArial\shad0\bord1.6\blur0.2\fs14\b1\c&HEEA539&\3c&HEAE5CB&\pos(216,80)}Përforcim Magjik
+Dialogue: 0,0:13:46.18,0:13:47.81,Default,Sign,0,0,0,,{\fad(200,400)\fnArial\shad0\bord1.6\blur0.2\fs16\b1\c&HEEA539&\3c&HEAE5CB&\pos(426,136)}Ngarkim Magjik
+Dialogue: 0,0:13:48.07,0:13:51.39,Default,Meru,0,0,0,,Ju të dyja nuk mund të më mposhtni kurrë.
+Dialogue: 0,0:13:52.25,0:13:55.39,Default,Meru,0,0,0,,Unë jam shenjtore {\i1}dhe{\i0} zuzare.
+Dialogue: 0,0:13:56.09,0:13:59.57,Default,Meru,0,0,0,,A e dini cili është burimi \Ni forcës së një zuzareje?
+Dialogue: 0,0:14:00.04,0:14:01.36,Default,Meru,0,0,0,,Është...
+Dialogue: 0,0:14:02.63,0:14:04.32,Default,Meru,0,0,0,,Dëshpërimi.
+Dialogue: 0,0:14:18.87,0:14:21.04,Default,Meteor,0,0,0,,Për pak.
+Dialogue: 0,0:14:22.73,0:14:24.00,Default,Meteor,0,0,0,,Më falni që ju bëra të prisnit.
+Dialogue: 0,0:14:24.00,0:14:26.09,Default,Meru,0,0,0,,Oh, më në fund erdhët?
+Dialogue: 0,0:14:24.55,0:14:26.23,Top Italics,MechanicalVoice,0,0,0,,{\pos(195,20)}Rikuperim automatik i manës.
+Dialogue: 0,0:14:24.38,0:14:26.47,Default,Sign,0,0,0,,{\fad(230,400)\fnArial\shad0\bord1.6\blur0.2\fs20\b1\c&HEEA539&\3c&HFFF9ED&\pos(500,82)}Rikuperim Automatik i Manës
+Dialogue: 0,0:14:26.09,0:14:28.47,Default,Meru,0,0,0,,Kisha frikë se nuk do të arrinit në kohë.
+Dialogue: 0,0:14:28.47,0:14:30.57,Default,Ryusei,0,0,0,,A jeni mirë ju të dyja?
+Dialogue: 0,0:14:30.57,0:14:32.80,Default,Mana,0,0,0,,U vonuat, Sensei.
+Dialogue: 0,0:14:36.46,0:14:38.60,Default,Meteor,0,0,0,,Nuk do të të lejoj ta shkatërrosh këtë botë.
+Dialogue: 0,0:14:38.60,0:14:39.56,Default,Meru,0,0,0,,Oh, çudi.
+Dialogue: 0,0:14:39.82,0:14:42.31,Default,Meru,0,0,0,,Paskeni marrë masa \Nkundër Brave Jammer-it, hë?
+Dialogue: 0,0:14:42.31,0:14:44.27,Default,Minto,0,0,0,,Hanaori, ti...
+Dialogue: 0,0:14:45.13,0:14:48.24,Default,Meteor,0,0,0,,Takanashi-san u përpoq shumë \Nqë unë të mund të luftoja përsëri.
+Dialogue: 0,0:14:49.51,0:14:51.99,Italics,Minto,0,0,0,,Pse ke veshur parzmore bikini?
+Dialogue: 0,0:14:52.23,0:14:54.67,Default,Meteor,0,0,0,,Ju të dyja largohuni në një distancë të sigurt.
+Dialogue: 0,0:14:55.20,0:14:57.50,Default,Ryusei,0,0,0,,Ne e marrim përsipër që këtej.
+Dialogue: 0,0:14:57.72,0:14:59.96,Default,Minto,0,0,0,,Kini kujdes. Ajo ka aftësi mashtruese.
+Dialogue: 0,0:14:59.96,0:15:03.94,Default,Minto,0,0,0,,Magjia nuk funksionon fare ndaj saj\N dhe ajo rikuperohet menjëherë.
+Dialogue: 0,0:15:04.29,0:15:05.17,Default,Ryusei,0,0,0,,Mos u shqetëso.
+Dialogue: 0,0:15:05.76,0:15:07.81,Default,Ryusei,0,0,0,,Zoti i demonëve dhe heroina\N janë bashkuar.
+Dialogue: 0,0:15:07.81,0:15:09.38,Default,Ryusei,0,0,0,,Nuk ka si të humbasim.
+Dialogue: 0,0:15:09.38,0:15:12.10,Default,Minto,0,0,0,,Prit, prit! Do të luftosh \Nduke u dukur {\i1}ashtu{\i0}?
+Dialogue: 0,0:15:12.10,0:15:12.77,Default,Meteor,0,0,0,,Hë?
+Dialogue: 0,0:15:12.77,0:15:14.55,Default,Minto,0,0,0,,Mos më shiko sikur thua «Pse jo?».
+Dialogue: 0,0:15:14.55,0:15:17.54,Default,Minto,0,0,0,,Epo mirë. Unë {\i1}jam{\i0} shtrigë.
+Dialogue: 0,0:15:17.54,0:15:19.21,Default,Minto,0,0,0,,Sot do të bëj një përjashtim,
+Dialogue: 0,0:15:19.21,0:15:21.92,Default,Minto,0,0,0,,dhe do të të jap një shndërrim të veçantë.
+Dialogue: 0,0:15:21.92,0:15:23.29,Default,Minto,0,0,0,,Veshja e Betejës!
+Dialogue: 0,0:15:24.80,0:15:27.56,Default,Minto,0,0,0,,Tani, është koha për ballo.
+Dialogue: 0,0:15:31.55,0:15:34.39,Default,Sign,0,0,0,,{\bord1.5\shad0\blur0.2\b1\fs26\frz23.15\pos(40.5,47)\c&HFDEDF9&\3c&HBE8EEE&\t(170,380,\alpha&HFF&)\t(420,421,\alpha&H00&)\t(500,501,\alpha&HFF&)\t(1000,1001,\alpha&H00&)\t(1170,1330,\alpha&HFF&)\t(2000,2001,\alpha&H00&)\t(2170,2340,\alpha&HFF&)}Kërcim
+Dialogue: 0,0:15:32.04,0:15:34.39,Default,Sign,0,0,0,,{\bord1.5\shad0\blur0.2\b1\fs26\c&HC3FFF7&\3c&H5582DF&\t(170,380,\alpha&HFF&)\t(1000,1001,\alpha&H00&)\t(1170,1330,\alpha&HFF&)\t(2000,2001,\alpha&H00&)\t(2170,2340,\alpha&HFF&)\pos(364,32)\frz349.1}Kërcim
+Dialogue: 0,0:15:32.81,0:15:34.41,Default,Minto,0,0,0,,Shko dhe argëtohu.
+Dialogue: 0,0:15:34.63,0:15:36.99,Default,Meru,0,0,0,,Oh, sa e adhurueshme.
+Dialogue: 0,0:15:37.27,0:15:39.96,Default,Meru,0,0,0,,Atëherë, ma fal këtë vallëzim?
+Dialogue: 0,0:15:39.96,0:15:40.90,Default,Meru,0,0,0,,Ta-da.
+Dialogue: 0,0:15:42.47,0:15:43.68,Default,Meru,0,0,0,,Bomba e Shenjtë.
+Dialogue: 0,0:15:42.52,0:15:45.25,Default,Sign,0,0,0,,{\fnArial\shad0\bord2.1\blur0.8\fs30\b1\c&HF8FFAD&\3c&HFFFDE5&\pos(98.5,344)}Bomba e Shenjtë
+Dialogue: 0,0:15:43.76,0:15:45.25,Default,Sign,0,0,0,,{\an9\fnArial\shad0\bord1.6\blur0.2\fs30\b1\c&H7A002D&\3c&HFFF9ED&\pos(560,17)}Muri i Errësirës
+Dialogue: 0,0:15:43.68,0:15:45.25,Default,Ryusei,0,0,0,,Muri i Errësirës.
+Dialogue: 0,0:15:45.25,0:15:46.21,Default,Ryusei,0,0,0,,Shko!
+Dialogue: 0,0:15:49.55,0:15:50.92,Italics,MechanicalVoice,0,0,0,,Mbrojtje kundër prerjeve.
+Dialogue: 0,0:15:49.59,0:15:50.92,Default,Sign,0,0,0,,{\fad(250,0)\fnArial\shad0\bord1.6\blur0.2\fs20\b1\c&HEEA539&\3c&HFFFFE3&\pos(138,117.5)}Mbrojtje kundër Prerjeve
+Dialogue: 0,0:15:51.88,0:15:53.09,Default,Meru,0,0,0,,Shumë e dobët.
+Dialogue: 0,0:15:53.09,0:15:54.24,Default,Ryusei,0,0,0,,Meteor!
+Dialogue: 0,0:15:55.93,0:15:57.68,Default,Ryusei,0,0,0,,Goditja Meteor!
+Dialogue: 0,0:16:01.40,0:16:02.81,Italics,MechanicalVoice,0,0,0,,Mbrojtje kundër dëmtimit nga goditjet.
+Dialogue: 0,0:16:01.45,0:16:04.48,Default,Sign,0,0,0,,{\fad(200,0)\fnArial\shad0\bord1.6\blur0.2\fs20\b1\c&HEEA539&\3c&HFFFFE3&\pos(513.5,140)}Mbrojtje Kundër\NDëmtimit nga Goditjet
+Dialogue: 0,0:16:02.81,0:16:04.48,Italics,MechanicalVoice,0,0,0,,Mbrojtje kundër magjisë sulmuese.
+Dialogue: 0,0:16:02.69,0:16:04.48,Default,Sign,0,0,0,,{\fad(200,0)\fnArial\shad0\bord1.6\blur0.2\fs22\b1\c&HEEA539&\3c&HFFFFE3&\pos(155.5,234.5)}Mbrojtje Kundër Magjisë Sulmuese
+Dialogue: 0,0:16:08.88,0:16:10.40,Italics,MechanicalVoice,0,0,0,,Mbrojtje kundër prerjeve.
+Dialogue: 0,0:16:08.86,0:16:10.40,Default,Sign,0,0,0,,{\fad(200,0)\fnArial\shad0\bord1.6\blur0.2\fs22\b1\c&HEEA539&\3c&HFFFFE3&\pos(144,253)}Mbrojtje Kundër Prerjeve
+Dialogue: 0,0:16:12.55,0:16:14.07,Top Italics,MechanicalVoice,0,0,0,,Kundërsulm automatik.
+Dialogue: 0,0:16:12.53,0:16:14.07,Default,Sign,0,0,0,,{\fad(200,0)\fnArial\shad0\bord1.6\blur0.2\fs35\b1\c&HEEA539&\3c&HFFFFE3&\pos(425,272)}Kundërsulm Automatik
+Dialogue: 0,0:16:15.53,0:16:16.66,Default,Ryusei,0,0,0,,Meteor!
+Dialogue: 0,0:16:18.03,0:16:19.83,Default,Ryusei,0,0,0,,Shpërthimi i Kufomës!
+Dialogue: 0,0:16:25.21,0:16:26.93,Italics,MechanicalVoice,0,0,0,,Mbrojtje kundër magjisë sulmuese.
+Dialogue: 0,0:16:25.05,0:16:27.02,Default,Sign,0,0,0,,{\fad(200,450)\fnArial\shad0\bord1.6\blur0.2\fs22\b1\c&HEEA539&\3c&HFFFFE3&\pos(222,44)}Mbrojtje Kundër Magjisë Sulmuese
+Dialogue: 0,0:16:31.98,0:16:33.21,Default,Meteor,0,0,0,,Çfarë po ndodh?
+Dialogue: 0,0:16:33.21,0:16:35.36,Default,Meteor,0,0,0,,Asnjë nga sulmet tona nuk po funksionon.
+Dialogue: 0,0:16:35.69,0:16:38.18,Default,Ryusei,0,0,0,,Asgjësoi edhe magjinë time të nivelit 9.
+Dialogue: 0,0:16:38.18,0:16:39.73,Italics,MechanicalVoice,0,0,0,,Rikuperim i qëndrueshmërisë.
+Dialogue: 0,0:16:39.73,0:16:40.86,Italics,MechanicalVoice,0,0,0,,Rezistencë ndaj helmit.
+Dialogue: 0,0:16:40.86,0:16:42.19,Italics,MechanicalVoice,0,0,0,,Rikuperim mane.
+Dialogue: 0,0:16:38.44,0:16:39.89,Default,Sign,0,0,0,,{\fad(200,450)\fnArial\shad0\bord1.6\blur0.2\fs28\b1\c&HEEA539&\3c&HFFFFE3&\pos(474,258)}Rikuperim i Qëndrueshmërisë
+Dialogue: 0,0:16:39.69,0:16:41.15,Default,Sign,0,0,0,,{\fad(200,450)\fnArial\shad0\bord1.6\blur0.2\fs24\b1\c&HEEA539&\3c&HFFFFE3&\pos(130,109)}Rezistencë ndaj Helmit
+Dialogue: 0,0:16:40.69,0:16:42.16,Default,Sign,0,0,0,,{\fad(200,450)\fnArial\shad0\bord1.6\blur0.2\fs24\b1\c&HEEA539&\3c&HFFFFE3&\pos(518,82.5)}Rikuperim Mane
+Dialogue: 0,0:16:42.19,0:16:44.97,Default,Meru,0,0,0,,Kjo është aftësia mashtruese që fitova.
+Dialogue: 0,0:16:45.61,0:16:49.38,Default,Meru,0,0,0,,Jam bërë zuzarja më e fuqishme\N dhe plotësisht e pamposhtur.
+Dialogue: 0,0:16:51.36,0:16:53.32,Default,Meteor,0,0,0,,Ky është thjesht mashtrim.
+Dialogue: 0,0:16:53.32,0:16:56.14,Default,Meteor,0,0,0,,Hej, çfarë {\i1}është{\i0} kjo? Ajo është e pandalshme!
+Dialogue: 0,0:16:56.14,0:16:59.62,Top,Meteor,0,0,0,,Mashtruese! Mashtruese! Mashtruese!\NMashtruese! Mashtruese! Mashtruese!
+Dialogue: 0,0:16:57.75,0:16:59.62,Default,Ryusei,0,0,0,,Prandaj quhen aftësi «mashtruese».
+Dialogue: 0,0:16:59.62,0:16:59.87,Default,Sign,0,0,0,,{\b1\blur0.2\bord1.5\shad0\fs24\t(\fs30)\move(176,114,148,88)\frz14\3c&HFBE8EA&\c&HB6A10F&}Hëm!
+Dialogue: 0,0:16:59.87,0:17:00.12,Default,Sign,0,0,0,,{\b1\blur0.2\bord1.5\shad0\fs30\t(\fs32)\move(148,88,138,78)\frz14\3c&HFBE8EA&\c&HB6A10F&}Hëm!
+Dialogue: 0,0:17:00.12,0:17:00.60,Default,Sign,0,0,0,,{\fad(0,500)\b1\blur0.2\bord1.5\shad0\fs32\t(\fs33)\move(138,78,130,74)\frz14\3c&HFBE8EA&\c&HB6A10F&}Hëm!
+Dialogue: 0,0:17:00.33,0:17:01.71,Default,Meteor,0,0,0,,Rimishërimi është një marrëzi.
+Dialogue: 0,0:17:01.71,0:17:03.20,Default,Ryusei,0,0,0,,Kujdes fjalorin!
+Dialogue: 0,0:17:03.63,0:17:05.42,Default,Meru,0,0,0,,Pajtohem.
+Dialogue: 0,0:17:06.34,0:17:07.29,Default,Meru,0,0,0,,Në fund të fundit...
+Dialogue: 0,0:17:07.29,0:17:09.27,Top Italics,MechanicalVoice,0,0,0,,Aktivizim i heshtur i magjisë.
+Dialogue: 0,0:17:07.29,0:17:09.27,Default,Sign,0,0,0,,{\fad(200,450)\fnArial\shad0\bord1.6\blur0.2\fs24\b1\c&HEEA539&\3c&HFFFFE3&\pos(466.5,284)}Aktivizim i Heshtur i Magjisë
+Dialogue: 0,0:17:09.27,0:17:11.50,Default,Meru,0,0,0,,Kjo është tepër e fuqishme.
+Dialogue: 0,0:17:11.50,0:17:13.01,Default,Ryusei,0,0,0,,Muri i Errësirës!
+Dialogue: 0,0:17:13.01,0:17:14.18,Default,Meteor,0,0,0,,Cila është strategjia jonë?
+Dialogue: 0,0:17:14.18,0:17:15.09,Default,Ryusei,0,0,0,,Ende po mendoj.
+Dialogue: 0,0:17:15.34,0:17:17.30,Default,Meteor,0,0,0,,Atëherë do të fitoj pak kohë!
+Dialogue: 0,0:17:19.58,0:17:21.12,Italics,MechanicalVoice,0,0,0,,Përforcim magjik.
+Dialogue: 0,0:17:19.64,0:17:21.24,Default,Sign,0,0,0,,{\fad(200,450)\fnArial\shad0\bord1.6\blur0.2\fs24\b1\c&HEEA539&\3c&HFFFFE3&\pos(515.5,200)}Përforcim Magjik
+Dialogue: 0,0:17:23.33,0:17:24.76,Default,Meru,0,0,0,,Çekani i Thor-it.
+Dialogue: 0,0:17:23.31,0:17:25.73,Default,Sign,0,0,0,,{\fad(200,0)\fnArial\shad0\bord1.6\blur0.2\fs28\b1\c&HEEA539&\3c&HFFFFE3&\pos(556,66)}Çekani\Ni Thor-it
+Dialogue: 0,0:17:29.83,0:17:31.20,Default,Meru,0,0,0,,Lævateinn.
+Dialogue: 0,0:17:29.82,0:17:32.15,Default,Sign,0,0,0,,{\fad(200,0)\fnArial\shad0\bord1.6\blur0.2\fs24\b1\c&HEEA539&\3c&HFFFFE3&\pos(65,36)}Lævateinn
+Dialogue: 0,0:17:32.49,0:17:34.20,Default,Meru,0,0,0,,Është një marrëzi e plotë.
+Dialogue: 0,0:17:34.20,0:17:37.82,Default,Meru,0,0,0,,Jeni të pafuqishëm ndaj aftësive të mia mashtruese.
+Dialogue: 0,0:17:37.82,0:17:40.78,Default,Ryusei,0,0,0,,Por kjo nuk do të thotë \Nse nuk mund të mposhtesh.
+Dialogue: 0,0:17:43.24,0:17:44.14,Default,Ryusei,0,0,0,,Shiu i Vdekjes.
+Dialogue: 0,0:17:44.14,0:17:45.68,Italics,MechanicalVoice,0,0,0,,Rezistencë ndaj mallkimeve.
+Dialogue: 0,0:17:44.13,0:17:45.48,Default,Sign,0,0,0,,{\fad(200,450)\fnArial\shad0\bord1.6\blur0.2\fs24\b1\c&HEEA539&\3c&HFFFFE3&\pos(488,105.5)}Rezistencë ndaj Mallkimeve
+Dialogue: 0,0:17:45.68,0:17:46.88,Default,Ryusei,0,0,0,,Rrebeshi i Helmit.
+Dialogue: 0,0:17:46.88,0:17:48.21,Italics,MechanicalVoice,0,0,0,,Neutralizim i helmit.
+Dialogue: 0,0:17:46.88,0:17:48.13,Default,Sign,0,0,0,,{\fad(200,300)\fnArial\shad0\bord1.6\blur0.2\fs24\b1\c&HEEA539&\3c&HFFFFE3&\pos(143,261)}Neutralizim i Helmit
+Dialogue: 0,0:17:48.61,0:17:49.81,Default,Ryusei,0,0,0,,Mjegulla Pandemike.
+Dialogue: 0,0:17:49.81,0:17:51.44,Top Italics,MechanicalVoice,0,0,0,,Rezistencë ndaj sëmundjeve.
+Dialogue: 0,0:17:49.80,0:17:51.44,Default,Sign,0,0,0,,{\fad(200,450)\fnArial\shad0\bord1.6\blur0.2\fs30\b1\c&HEEA539&\3c&HFFFFE3&\pos(473,268.5)}Rezistencë ndaj Sëmundjeve
+Dialogue: 0,0:17:51.44,0:17:53.02,Default,Ryusei,0,0,0,,Mjegulla Vdekjeprurëse.
+Dialogue: 0,0:17:55.74,0:17:59.11,Default,Ryusei,0,0,0,,Mora guximin të përdor \Ndisa magji të përgatitura si provë.
+Dialogue: 0,0:17:59.53,0:18:02.31,Default,Ryusei,0,0,0,,Aftësitë e tua mashtruese mund të duken të pamposhtura\N në shikim të parë,
+Dialogue: 0,0:18:02.31,0:18:04.27,Default,Ryusei,0,0,0,,por janë aktive vetëm për tetë sekonda,
+Dialogue: 0,0:18:04.86,0:18:09.62,Default,Ryusei,0,0,0,,dhe duket se mund të kesh vetëm \Ntri aftësi automatike aktive njëherësh.
+Dialogue: 0,0:18:10.44,0:18:11.40,Default,Ryusei,0,0,0,,Pra tani, ti—
+Dialogue: 0,0:18:12.03,0:18:12.90,Default,Sign,0,0,0,,{\fad(260,0)\fnArial\shad0\bord1.6\blur0.2\fs30\b1\c&HEEA539&\3c&HFFFFE3&\pos(556,38.5)}Bekim
+Dialogue: 0,0:18:12.04,0:18:12.90,Default,Meru,0,0,0,,Bekim.
+Dialogue: 0,0:18:14.56,0:18:16.66,Default,Meru,0,0,0,,E kam bekuar gjithë këtë zonë.
+Dialogue: 0,0:18:16.66,0:18:21.12,Default,Meru,0,0,0,,Tani nuk mund t'i përdorësh ato magji të përgatitura\N që i do aq shumë, magjistari im.
+Dialogue: 0,0:18:16.66,0:18:21.12,Default,Sign,0,0,0,,{\fad(250,0)\an9\b1\bord1.5\xshad1.5\yshad2\4a&H00&\fs50\blur0.3\frz13\c&HD5FEFE&\3c&H4499F5&\4c&H4499F5&\move(486,148,494,140,250,4440)}Rreze
+Dialogue: 0,0:18:21.12,0:18:22.33,Italics,Ryusei,0,0,0,,Nuk është e drejtë.
+Dialogue: 0,0:18:22.75,0:18:23.54,Default,Ryusei,0,0,0,,Në atë rast...
+Dialogue: 0,0:18:23.96,0:18:27.08,Default,Ryusei,0,0,0,,Mjafton ta tejkaloj \Natë që mund të asgjësojnë aftësitë e tua mashtruese.
+Dialogue: 0,0:18:34.97,0:18:35.79,Default,Ryusei,0,0,0,,Po filloj.
+Dialogue: 0,0:18:37.02,0:18:40.09,Default,Ryusei,0,0,0,,Recitim i Trefishtë: Aktivizim i Njëkohshëm.
+Dialogue: 0,0:18:41.21,0:18:42.55,Default,Ryusei,0,0,0,,Urdhri i Helmit.
+Dialogue: 0,0:18:42.55,0:18:43.56,Default,Ryusei,0,0,0,,Heshta e Hijes.
+Dialogue: 0,0:18:43.56,0:18:45.18,Default,Ryusei,0,0,0,,Shpërthimi i Mërisë.
+Dialogue: 0,0:18:45.18,0:18:46.37,Italics,MechanicalVoice,0,0,0,,Rezistencë ndaj helmit.
+Dialogue: 0,0:18:46.37,0:18:47.95,Italics,MechanicalVoice,0,0,0,,Rezistencë ndaj dëmtimit mendor.
+Dialogue: 0,0:18:47.95,0:18:49.36,Italics,MechanicalVoice,0,0,0,,Rezistencë ndaj mallkimeve.
+Dialogue: 0,0:18:49.36,0:18:51.11,Italics,MechanicalVoice,0,0,0,,Mbrojtje kundër magjisë sulmuese.
+Dialogue: 0,0:18:45.41,0:18:46.41,Default,Sign,0,0,0,,{\fad(0,500)\fnArial\shad0\bord1.6\blur0.2\fs24\b1\c&HEEA539&\3c&HFFFFE3&\pos(524.5,244.5)}Rezistencë ndaj Helmit
+Dialogue: 0,0:18:46.41,0:18:47.95,Default,Sign,0,0,0,,{\fad(0,500)\fnArial\shad0\bord1.6\blur0.2\fs30\b1\c&HEEA539&\3c&HFFFFE3&\pos(205,158)}Rezistencë ndaj Dëmtimit Mendor
+Dialogue: 0,0:18:47.95,0:18:49.50,Default,Sign,0,0,0,,{\fad(0,500)\fnArial\shad0\bord1.6\blur0.2\fs26\b1\c&HEEA539&\3c&HFFFFE3&\pos(501.5,115.5)}Rezistencë ndaj Mallkimeve
+Dialogue: 0,0:18:49.50,0:18:50.92,Default,Sign,0,0,0,,{\fad(0,620)\fnArial\shad0\bord1.6\blur0.2\fs24\b1\c&HEEA539&\3c&HFFFFE3&\pos(178,122)}Mbrojtje Kundër Magjisë Sulmuese
+Dialogue: 0,0:18:51.11,0:18:55.10,Default,Meru,0,0,0,,«Bota është imja» është fuqia e shenjtores\N për të parë përtej gjithçkaje.
+Dialogue: 0,0:18:55.58,0:18:58.49,Default,Meru,0,0,0,,E dija tashmë se të mungonin fuqia\N dhe numri i lëvizjeve
+Dialogue: 0,0:18:58.49,0:19:01.49,Default,Meru,0,0,0,,për t'i çarë aftësitë e mia mashtruese\N me magjinë tënde të njëpasnjëshme.
+Dialogue: 0,0:19:01.91,0:19:02.78,Default,Meru,0,0,0,,Gjithashtu...
+Dialogue: 0,0:19:04.29,0:19:06.82,Default,Meru,0,0,0,,E di se gjithë ajo magji\N ishte vetëm për të fituar kohë,
+Dialogue: 0,0:19:06.82,0:19:09.58,Default,Meru,0,0,0,,dhe se sulmi i heroinës \Nishte plani yt i vërtetë.
+Dialogue: 0,0:19:09.99,0:19:11.20,Default,Meru,0,0,0,,Pesë herë.
+Dialogue: 0,0:19:11.20,0:19:13.96,Default,Meru,0,0,0,,Ky është numri maksimal i herëve \Nqë mund të aktivizohet aftësia ime mashtruese.
+Dialogue: 0,0:19:15.30,0:19:19.76,Default,Meru,0,0,0,,Fatkeqësisht për ty, \Nsulmet e tua nuk do të më afrohen dot.
+Dialogue: 0,0:19:20.10,0:19:22.97,Default,Meru,0,0,0,,Kjo betejë mbaroi, magjistari im.
+Dialogue: 0,0:19:24.46,0:19:25.90,Italics,MechanicalVoice,0,0,0,,Mbrojtje kundër predhave.
+Dialogue: 0,0:19:24.23,0:19:26.20,Default,Sign,0,0,0,,{\fad(200,500)\fnArial\shad0\bord1.6\blur0.2\fs24\b1\c&HEEA539&\3c&HFFFFE3&\pos(483,100.5)}Mbrojtje Kundër Predhave
+Dialogue: 0,0:19:27.18,0:19:30.39,Default,Ryusei,0,0,0,,Prandaj bëra edhe një lëvizje.
+Dialogue: 0,0:19:30.39,0:19:32.85,Italics,Meru,0,0,0,,E pamundur. Nga erdhi ajo?
+Dialogue: 0,0:19:37.86,0:19:40.23,Default,Mana,0,0,0,,Thjesht të qëllova me një gur.
+Dialogue: 0,0:19:40.54,0:19:42.27,Default,Mana,0,0,0,,Edhe një aktivizim.
+Dialogue: 0,0:19:42.27,0:19:43.49,Italics,Meru,0,0,0,,Shtriga?
+Dialogue: 0,0:19:43.81,0:19:45.26,Default,Meteor,0,0,0,,A nuk të thashë?
+Dialogue: 0,0:19:45.26,0:19:47.83,Default,Meteor,0,0,0,,Zoti ynë i demonëve është i mahnitshëm.
+Dialogue: 0,0:20:04.95,0:20:06.41,Default,Meru,0,0,0,,U argëtova.
+Dialogue: 0,0:20:07.90,0:20:10.61,Default,Meru,0,0,0,,Le të takohemi sërish, rivalja ime në dashuri.
+Dialogue: 0,0:20:21.19,0:20:22.90,Default,Meteor,0,0,0,,Nuk dua të të shoh më kurrë.
+Dialogue: 0,0:20:23.76,0:20:25.11,Default,Ryusei,0,0,0,,Meteor.
+Dialogue: 0,0:20:26.33,0:20:27.58,Default,Meteor,0,0,0,,Fituam.
+Dialogue: 0,0:20:32.44,0:20:35.36,Italics,Ryusei,0,0,0,,Veshjet e saj nuk mbulojnë\N kurrë mjaftueshëm.
+Dialogue: 0,0:20:32.12,0:20:37.09,Default,Sign,0,0,0,,{\an7\fnComic Sans MS\b1\fs20\blur0.2\bord1.6\shad0\c&HB9FFF1&\3c&H7CB390&\move(300,54,315,34)}Hi\Nhi\Nhi
+Dialogue: 0,0:22:09.17,0:22:10.37,Default,Ryusei,0,0,0,,E mposhtëm.
+Dialogue: 0,0:22:10.37,0:22:11.97,Default,Meteor,0,0,0,,Tani mbaroi.
+Dialogue: 0,0:22:11.97,0:22:13.16,Default,Sign,0,0,0,,{\fad(0,600)\an1\b1\bord1.5\fs36\fscx90\shad0\blur0.2\c&HFCFFC0&\3c&HA9603D&\frz15.5\move(88.5,220,47,174)}E dëshpëruar
+Dialogue: 0,0:22:12.69,0:22:16.18,Default,Ryusei,0,0,0,,Shyqyr që i mungonte \Npërvoja e vërtetë në betejë.
+Dialogue: 0,0:22:16.18,0:22:17.18,Default,Meteor,0,0,0,,Po.
+Dialogue: 0,0:22:17.18,0:22:20.10,Default,Meteor,0,0,0,,Sikur t'i kishte zotëruar aftësitë mashtruese,\N do të kishim humbur.
+Dialogue: 0,0:22:20.10,0:22:22.44,Default,Ryusei,0,0,0,,Më në fund më iku një barrë nga supet.
+Dialogue: 0,0:22:22.80,0:22:23.44,Default,Ryusei,0,0,0,,Tani mund të—
+Dialogue: 0,0:22:23.44,0:22:23.61,Default,Sign,0,0,0,,{\an9\b1\shad0\bord2.2\blur0.2\fs36\move(526,81,538,74)\3c&H87542F&\c&HEEF9CE&}Dënesë
+Dialogue: 0,0:22:23.61,0:22:23.91,Default,Sign,0,0,0,,{\an9\b1\shad0\bord2.2\blur0.2\fs36\move(538,74,548,68)\3c&H87542F&\c&HEEF9CE&}Dënesë
+Dialogue: 0,0:22:23.91,0:22:24.59,Default,Sign,0,0,0,,{\fad(0,650)\an9\b1\shad0\bord2.2\blur0.2\fs36\move(548,68,554,64)\3c&H87542F&\c&HEEF9CE&}Dënesë
+Dialogue: 0,0:22:25.63,0:22:27.61,Default,Ryusei,0,0,0,,Hë? Çfarë? P-Pse?
+Dialogue: 0,0:22:28.66,0:22:32.08,Default,Meteor,0,0,0,,Sepse e mbajte gjithë këtë barrë i vetëm.
+Dialogue: 0,0:22:32.34,0:22:38.09,Default,Meteor,0,0,0,,U bëre zot demonësh, u rimishërove,\N dhe luftove krejt i vetëm.
+Dialogue: 0,0:22:38.69,0:22:40.25,Default,Meteor,0,0,0,,Kjo është thjesht {\i1}tepër{\i0} e trishtueshme.
+Dialogue: 0,0:22:42.04,0:22:44.51,Default,Ryusei,0,0,0,,Pse po qan?
+Dialogue: 0,0:22:44.51,0:22:45.43,Default,Ryusei,0,0,0,,Hajde. Merre.
+Dialogue: 0,0:22:45.43,0:22:47.53,Default,Meteor,0,0,0,,Por...
+Dialogue: 0,0:22:48.07,0:22:49.80,Default,Ryusei,0,0,0,,Përveç kësaj, nuk isha i trishtuar.
+Dialogue: 0,0:22:50.53,0:22:52.98,Default,Ryusei,0,0,0,,Jeta si zot demonësh ishte deri diku argëtuese.
+Dialogue: 0,0:22:53.61,0:22:55.86,Default,Ryusei,0,0,0,,Edhe lufta me heroinën më përmbushi.
+Dialogue: 0,0:22:57.03,0:23:00.61,Default,Ryusei,0,0,0,,Përveç kësaj, ti më gjete përsëri\N në këtë botë.
+Dialogue: 0,0:23:03.28,0:23:05.33,Default,Meteor,0,0,0,,Sepse unë jam heroina.
+Dialogue: 0,0:23:05.33,0:23:07.85,Default,Ryusei,0,0,0,,Faleminderit, Heroina Meteor.
+Dialogue: 0,0:23:10.06,0:23:11.86,Default,Ryusei,0,0,0,,Gëzohem që të takova.
+Dialogue: 0,0:23:15.70,0:23:16.41,Default,Meteor,0,0,0,,Po.
+Dialogue: 0,0:23:32.21,0:23:33.01,Default,Minto,0,0,0,,Vdiq?
+Dialogue: 0,0:23:33.01,0:23:34.09,Default,Mana,0,0,0,,Sigurisht që jo.
+Dialogue: 0,0:23:35.05,0:23:45.11,Default,Sign,0,0,0,,{\fnImpact\an8\fs50\4a&HBF&\bord3.5\yshad4\pos(314,12)\3c&H4936DB&\4c&H424044&\t(1630,1631,\3c&HD4CB50&)\t(2530,2531,\3c&H508DEA&)\t(3490,3491,\3c&HF54955&)\t(4650,4651,\3c&H21A9F7&)\t(5365,5366,\3c&H3F01A7&)\t(6490,6491,\3c&HBCD356&)\t(7575,7576,\3c&H805AD7&)\t(8240,8241,\3c&HC66C27&)\t(8950,8951,\3c&H06A63F&)}Parapamja e Episodit Tjetër
+Dialogue: 0,0:23:35.95,0:23:36.68,Default,Ryusei,0,0,0,,Mbaroi.
+Dialogue: 0,0:23:37.56,0:23:38.52,Default,Ryusei,0,0,0,,Gjithçka mbaroi.
+Dialogue: 0,0:23:38.52,0:23:39.68,Default,Meteor,0,0,0,,Ende jo!
+Dialogue: 0,0:23:39.68,0:23:43.27,Default,Meteor,0,0,0,,Harrove? {\i1}Unë{\i0} jam ajo\N që do të të vrasë!
+Dialogue: 0,0:23:43.27,0:23:45.11,Default,Ryusei,0,0,0,,H-Hë? E-E harrova.
+Dialogue: 0,0:23:45.42,0:23:48.09,Default,Meteor,0,0,0,,Epo... Nuk ka fare problem\N ta harrosh këtë.
+Dialogue: 0,0:23:47.61,0:23:50.07,Default,Sign,0,0,0,,{\fnArial Black\shad0\blur0.3\q2\fscx40\t(30,1440,0.4,\fscx90)\3c&HFEFAFF&\c&HF5ED6D&\fs50\pos(320,150)}Episodi 12: Dashuria e Vërtetë
+Dialogue: 0,0:23:48.09,0:23:49.52,Default,Ryusei,0,0,0,,Sa e sjellshme je!
+Dialogue: 0,0:23:50.07,0:24:00.25,Default,Sign,0,0,0,,{\an1\fnArial\fs14\bord1\b1\fscx90\fscy110\3c&H424242&\pos(31.5,326)}Ilustrimi: Sekine Akira
+
