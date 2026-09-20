@@ -620,6 +620,20 @@
       "sourceEpisode": "07",
       "sourceTitle": "Link Click S3",
       "numberingEvidence": "https://anikototv.to/watch/shiguang-dailiren-iii"
+    },
+    {
+      "id": "at-689787",
+      "title": "Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance",
+      "episode": "12",
+      "malId": 60637,
+      "anilistId": 185875,
+      "slugs": [
+        "mahou-shoujo-lyrical-nanoha-exceeds-gun-blaze-vengeance-09bbd"
+      ],
+      "file": "files/at-689787.sq.vtt",
+      "assFile": "ass/at-689787.sq.ass",
+      "offset": 0,
+      "sourceReleaseId": "689787"
     }
   ]
 }
