@@ -522,6 +522,22 @@
       "sourceReleaseId": "689806",
       "sourceEpisode": "12",
       "sourceTitle": "Oni no Hanayome"
+    },
+    {
+      "id": "at-689937",
+      "title": "Digimon Beatbreak",
+      "episode": "48",
+      "malId": 61269,
+      "anilistId": 188388,
+      "slugs": [
+        "digimon-beatbreak-u2o7s"
+      ],
+      "file": "files/at-689937.sq.vtt",
+      "assFile": "ass/at-689937.sq.ass",
+      "offset": 0,
+      "sourceReleaseId": "689937",
+      "sourceEpisode": "48",
+      "sourceTitle": "Digimon Beatbreak"
     }
   ]
 }

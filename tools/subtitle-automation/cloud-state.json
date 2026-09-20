@@ -1,13 +1,7 @@
 {
   "version": 1,
-  "updated": "2026-09-20T11:09:02Z",
+  "updated": "2026-09-20T13:12:00Z",
   "pending": [
-    {
-      "sourceReleaseId": "689937",
-      "sourceTitle": "Digimon Beatbreak",
-      "sourceEpisode": "48",
-      "status": "queued"
-    },
     {
       "sourceReleaseId": "689925",
       "sourceTitle": "Meitantei Precure!",

@@ -1,0 +1,343 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+PlayResX: 640
+WrapStyle: 0
+Video Aspect Ratio: 0
+Video Zoom: 8
+PlayResY: 360
+ScaledBorderAndShadow: yes
+
+[Aegisub Project Garbage]
+Audio File: ?video
+Video File: elusivesamurai-eps2-watermarked-mx-deDE-B.avi
+Video Position: 31675
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,1,1,15,0
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: On Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: DefaultLow,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:05:22.53,0:05:23.91,On Top,,0,0,0,,RRUGA TREGTARE HIKARIGAHAMA
+Dialogue: 0,0:22:01.20,0:22:07.37,On Top,,0,0,0,,{\i1}Vendosa të jetoj si vetvetja, uou{\i0}
+Dialogue: 0,0:22:07.87,0:22:14.63,On Top,,0,0,0,,{\i1}Le ta krijojmë të nesërmen më të mirë, uou, oh{\i0}
+Dialogue: 0,0:22:14.79,0:22:16.79,On Top,,0,0,0,,{\i1}Nuk mund ta gënjej{\i0}
+Dialogue: 0,0:22:16.96,0:22:18.75,On Top,,0,0,0,,{\i1}këtë vrull{\i0}
+Dialogue: 0,0:22:18.92,0:22:22.22,On Top,,0,0,0,,{\i1}Edhe nëse dal nga rreshti, jam gjallë{\i0}
+Dialogue: 0,0:22:22.38,0:22:28.85,On Top,,0,0,0,,{\i1}Le t'i kthejmë në melodi edhe plagët e pathëna{\i0}
+Dialogue: 0,0:22:29.10,0:22:34.56,On Top,,0,0,0,,{\i1}Thyeje të zakonshmen me këtë tingull{\i0}
+Dialogue: 0,0:22:36.81,0:22:41.07,On Top,,0,0,0,,{\i1}Me ritmin që luan zemra{\i0}
+Dialogue: 0,0:22:41.24,0:22:43.24,On Top,,0,0,0,,{\i1}skalitem jetën time{\i0}
+Dialogue: 0,0:22:43.40,0:22:45.99,On Top,,0,0,0,,{\i1}Dua vetëm të besoj\Nnë mbarë botën{\i0}
+Dialogue: 0,0:22:46.16,0:22:48.45,On Top,,0,0,0,,{\i1}tani do ta bëj të jehojë{\i0}
+Dialogue: 0,0:22:48.62,0:22:51.04,On Top,,0,0,0,,{\i1}realitetin tim{\i0}
+Dialogue: 0,0:22:51.20,0:22:52.58,On Top,,0,0,0,,{\i1}pikërisht siç është{\i0}
+Dialogue: 0,0:00:10.18,0:00:13.18,Default,,0,0,0,,
+Dialogue: 0,0:00:13.18,0:00:18.14,Default,,0,0,0,,{\i1}Në të ardhmen e afërt, e-Pulse\Nkrijohet nga mendimet dhe emocionet njerëzore,{\i0}
+Dialogue: 0,0:00:18.31,0:00:22.56,Default,,0,0,0,,{\i1}dhe përdoret si burim energjie\Npër pajisjet me IA të quajtura «Sapotama»,{\i0}
+Dialogue: 0,0:00:22.73,0:00:26.19,Default,,0,0,0,,{\i1}duke sjellë një zhvillim të ri për njerëzimin.{\i0}
+Dialogue: 0,0:00:27.78,0:00:32.12,Default,,0,0,0,,{\i1}Por nga hijet e tij\Njanë shfaqur përbindësha të frikshëm.{\i0}
+Dialogue: 0,0:00:32.91,0:00:35.95,Default,,0,0,0,,{\i1}Përbindësha që evoluojnë duke konsumuar e-Pulse.{\i0}
+Dialogue: 0,0:00:36.62,0:00:37.75,Default,,0,0,0,,{\i1}Ata janë...{\i0}
+Dialogue: 0,0:00:39.83,0:00:41.71,Default,,0,0,0,,Ç'dreqin është ai Digimon?!
+Dialogue: 0,0:00:41.88,0:00:43.75,Default,,0,0,0,,Tani për tani, të largohemi prej këtu!
+Dialogue: 0,0:00:43.92,0:00:44.80,Default,,0,0,0,,Tomoro!
+Dialogue: 0,0:00:44.96,0:00:46.00,Default,,0,0,0,,Tomoro!
+Dialogue: 0,0:00:46.84,0:00:50.22,Default,,0,0,0,,Nuk ka dobi.\NZemra i është ngrirë plotësisht.
+Dialogue: 0,0:00:51.22,0:00:52.34,Default,,0,0,0,,Jo...
+Dialogue: 0,0:00:56.18,0:00:58.35,Default,,0,0,0,,Ç'dreqin është ajo gjë gjigante?!
+Dialogue: 0,0:00:58.52,0:01:00.35,Default,,0,0,0,,Edhe ai është Digimon?
+Dialogue: 0,0:01:00.52,0:01:02.27,Default,,0,0,0,,Nuk ka mundësi, apo jo?
+Dialogue: 0,0:01:02.44,0:01:03.27,Default,,0,0,0,,Hë?
+Dialogue: 0,0:01:04.48,0:01:05.52,Default,,0,0,0,,Kyo!
+Dialogue: 0,0:01:05.69,0:01:08.03,Default,,0,0,0,,A duhet të ishe ngritur?
+Dialogue: 0,0:01:08.53,0:01:09.57,Default,,0,0,0,,Ju...
+Dialogue: 0,0:01:10.65,0:01:11.61,Default,,0,0,0,,a mund të...
+Dialogue: 0,0:01:12.11,0:01:13.28,Default,,0,0,0,,më ndihmoni?
+Dialogue: 0,0:01:17.54,0:01:19.45,Default,,0,0,0,,DY RRAHJE
+Dialogue: 0,0:01:24.25,0:01:25.79,Default,,0,0,0,,Ku jam?
+Dialogue: 0,0:01:27.50,0:01:28.34,Default,,0,0,0,,Gekkomon?
+Dialogue: 0,0:01:36.60,0:01:39.02,Default,,0,0,0,,Ngaqë jam tepër i dobët,
+Dialogue: 0,0:01:39.18,0:01:40.39,Default,,0,0,0,,Tomoro...
+Dialogue: 0,0:01:40.98,0:01:42.39,Default,,0,0,0,,Tomoro...!
+Dialogue: 0,0:01:47.82,0:01:49.23,Default,,0,0,0,,Mos, Gekkomon!
+Dialogue: 0,0:01:49.40,0:01:51.82,Default,,0,0,0,,Gekkomon!
+Dialogue: 0,0:01:51.99,0:01:53.07,Default,,0,0,0,,{\i1}Tomoro!{\i0}
+Dialogue: 0,0:01:54.87,0:01:55.74,Default,,0,0,0,,Reina.
+Dialogue: 0,0:01:56.53,0:01:57.62,Default,,0,0,0,,Makoto.
+Dialogue: 0,0:01:58.83,0:01:59.95,Default,,0,0,0,,Shyqyr.
+Dialogue: 0,0:02:00.41,0:02:04.58,Default,,0,0,0,,Në Sapotama-n tënde kishte mbetur\Nnjë sasi e vogël e-Pulse-i.
+Dialogue: 0,0:02:06.08,0:02:07.29,Default,,0,0,0,,Gekkomon...
+Dialogue: 0,0:02:08.30,0:02:10.55,Default,,0,0,0,,Tomoro, për Gekkomon-in...
+Dialogue: 0,0:02:11.01,0:02:11.97,Default,,0,0,0,,Ku është?
+Dialogue: 0,0:02:13.80,0:02:14.93,Default,,0,0,0,,Nuk e di.
+Dialogue: 0,0:02:20.10,0:02:21.10,Default,,0,0,0,,Tomoro!
+Dialogue: 0,0:02:21.27,0:02:22.14,Default,,0,0,0,,Je mirë!
+Dialogue: 0,0:02:25.60,0:02:27.06,Default,,0,0,0,,Ç'dreqin është ajo?
+Dialogue: 0,0:02:34.03,0:02:36.07,Default,,0,0,0,,Unë jam Sanzomon.
+Dialogue: 0,0:02:36.82,0:02:39.99,Default,,0,0,0,,Jam ajo që ju e keni përçmuar si «defekt»...
+Dialogue: 0,0:02:40.70,0:02:42.45,Default,,0,0,0,,një Digimon.
+Dialogue: 0,0:02:43.96,0:02:45.50,Default,,0,0,0,,{\i1}Shikoni.{\i0}
+Dialogue: 0,0:02:48.59,0:02:54.51,Default,,0,0,0,,{\i1}Dëshira e kryetarit Wong,\NProjekti Shangri-La, tani është yni.{\i0}
+Dialogue: 0,0:02:55.22,0:03:00.14,Default,,0,0,0,,{\i1}Që tani e tutje, i gjithë e-Pulse-i i njerëzimit{\i0}
+Dialogue: 0,0:03:00.31,0:03:02.93,Default,,0,0,0,,do të administrohet nga ne Digimonët.
+Dialogue: 0,0:03:03.85,0:03:05.73,Default,,0,0,0,,Më lejoni t'ju tregoj...
+Dialogue: 0,0:03:06.23,0:03:08.36,Default,,0,0,0,,Rrethin e Përforcimit.
+Dialogue: 0,0:03:09.73,0:03:10.69,Default,,0,0,0,,Asuka?!
+Dialogue: 0,0:03:22.58,0:03:23.58,Default,,0,0,0,,Kjo është...
+Dialogue: 0,0:03:27.33,0:03:29.58,Default,,0,0,0,,Pse... ne...
+Dialogue: 0,0:03:33.76,0:03:35.38,Default,,0,0,0,,{\i1}Çfarë po ndodh?{\i0}
+Dialogue: 0,0:03:35.55,0:03:37.59,Default,,0,0,0,,Po ua thithin e-Pulse-in!
+Dialogue: 0,0:03:38.76,0:03:42.01,Default,,0,0,0,,{\i1}Të gjithëve në Hikarigahama Lindore?{\i0}
+Dialogue: 0,0:03:43.06,0:03:47.94,Default,,0,0,0,,Albatusmon-i ka aftësinë\Nta thithë pafundësisht e-Pulse-in.
+Dialogue: 0,0:03:59.66,0:04:00.78,Default,,0,0,0,,{\i1}Dhe...{\i0}
+Dialogue: 0,0:04:00.95,0:04:05.79,Default,,0,0,0,,Atratusmon-i mund ta përforcojë\Natë e-Pulse deri në kufi.
+Dialogue: 0,0:04:07.83,0:04:08.87,Default,,0,0,0,,Gekkomon.
+Dialogue: 0,0:04:09.42,0:04:10.33,Default,,0,0,0,,Hë?!
+Dialogue: 0,0:04:23.68,0:04:25.77,Default,,0,0,0,,Me këtë fuqi...
+Dialogue: 0,0:04:25.93,0:04:30.98,Default,,0,0,0,,mund të sigurohet i gjithë e-Pulse-i\Nqë i nevojitet çdo Digimoni në botë.
+Dialogue: 0,0:04:31.15,0:04:33.82,Default,,0,0,0,,Mund të furnizohen të gjithë.
+Dialogue: 0,0:04:34.94,0:04:36.74,Default,,0,0,0,,{\i1}Organizmi gjigant u vu në shënjestër!{\i0}
+Dialogue: 0,0:04:36.90,0:04:38.82,Default,,0,0,0,,{\i1}Po fillojmë sulmin!{\i0}
+Dialogue: 0,0:04:45.79,0:04:48.96,Default,,0,0,0,,Sigurisht, mund të përdoret edhe kështu.
+Dialogue: 0,0:04:55.17,0:04:58.84,Default,,0,0,0,,Choutaisei Raitenhou!
+Dialogue: 0,0:05:03.51,0:05:04.81,Default,,0,0,0,,Të gjitha sistemet jashtë funksionit!
+Dialogue: 0,0:05:04.97,0:05:06.52,Default,,0,0,0,,Çfarë po ndodh?!
+Dialogue: 0,0:05:07.47,0:05:09.81,Default,,0,0,0,,Tani, Digimonë, shokët e mi.
+Dialogue: 0,0:05:10.27,0:05:13.44,Default,,0,0,0,,Nuk ka më nevojë\Nt'u bindeni njerëzve.
+Dialogue: 0,0:05:14.27,0:05:16.44,Default,,0,0,0,,N-Ndal! Unë jam Pronari ju—
+Dialogue: 0,0:05:19.44,0:05:23.74,Default,,0,0,0,,{\i1}Nuk ka më nevojë t'u frikësoheni Pastruesve\Ndhe të jetoni të fshehur.{\i0}
+Dialogue: 0,0:05:24.91,0:05:30.29,Default,,0,0,0,,Që tani e tutje,\Nunë do t'ju furnizoj me e-Pulse.
+Dialogue: 0,0:05:31.25,0:05:36.55,Default,,0,0,0,,{\i1}Kjo botë do të bëhet një utopi\Npër ne Digimonët.{\i0}
+Dialogue: 0,0:05:39.17,0:05:40.80,Default,,0,0,0,,Në djall me këtë!
+Dialogue: 0,0:05:42.13,0:05:44.80,Default,,0,0,0,,Ai Digimoni i zi është...?
+Dialogue: 0,0:05:45.18,0:05:46.18,Default,,0,0,0,,Po.
+Dialogue: 0,0:05:46.35,0:05:47.64,Default,,0,0,0,,Jam i sigurt.
+Dialogue: 0,0:05:48.27,0:05:49.14,Default,,0,0,0,,Ai është...
+Dialogue: 0,0:05:50.23,0:05:51.43,Default,,0,0,0,,Gekkomon.
+Dialogue: 0,0:05:51.94,0:05:53.81,Default,,0,0,0,,Duhet ta shpëtojmë!
+Dialogue: 0,0:05:53.98,0:05:54.94,Default,,0,0,0,,Po.
+Dialogue: 0,0:05:55.11,0:05:56.15,Default,,0,0,0,,Si?
+Dialogue: 0,0:05:56.90,0:06:01.07,Default,,0,0,0,,E kuptoj si ndiheni,\Npor pa një plan nuk do t'i mundni.
+Dialogue: 0,0:06:01.53,0:06:03.82,Default,,0,0,0,,e-Pulse-i i pafund është hile.
+Dialogue: 0,0:06:07.20,0:06:08.24,Default,,0,0,0,,Të gjithë.
+Dialogue: 0,0:06:09.70,0:06:12.25,Default,,0,0,0,,Duhet të jeni të uritur.
+Dialogue: 0,0:06:16.08,0:06:17.00,Default,,0,0,0,,Kyo?!
+Dialogue: 0,0:06:17.17,0:06:18.38,Default,,0,0,0,,Çfarë po bën?
+Dialogue: 0,0:06:18.55,0:06:20.26,Default,,0,0,0,,Nuk duhet të ishe ngritur!
+Dialogue: 0,0:06:22.01,0:06:23.30,Default,,0,0,0,,Jam mirë.
+Dialogue: 0,0:06:23.47,0:06:24.34,Default,,0,0,0,,Por...
+Dialogue: 0,0:06:25.68,0:06:27.68,Default,,0,0,0,,Edhe ti duhet të ndihmosh!
+Dialogue: 0,0:06:29.89,0:06:31.35,Default,,0,0,0,,Ja ku e kemi.
+Dialogue: 0,0:06:32.39,0:06:36.27,Default,,0,0,0,,Specialiteti i Nirinso-s, kerri special.
+Dialogue: 0,0:06:36.44,0:06:38.32,Default,,0,0,0,,Me ndihmën e Bandës Kinoko.
+Dialogue: 0,0:06:39.19,0:06:40.90,Default,,0,0,0,,Kemi kohë për të ngrënë?
+Dialogue: 0,0:06:50.20,0:06:51.37,Default,,0,0,0,,Le të hamë.
+Dialogue: 0,0:06:59.71,0:07:01.34,Default,,0,0,0,,Mirë, pra!
+Dialogue: 0,0:07:02.21,0:07:03.59,Default,,0,0,0,,Le të hamë!
+Dialogue: 0,0:07:03.76,0:07:04.93,Default,,0,0,0,,Le të hamë.
+Dialogue: 0,0:07:06.34,0:07:07.89,Default,,0,0,0,,Le të hamë.
+Dialogue: 0,0:07:20.44,0:07:22.90,Default,,0,0,0,,Të gjithë po hamë nga e njëjta tenxhere.
+Dialogue: 0,0:07:23.53,0:07:27.78,Default,,0,0,0,,Vetëm kaq është. Por pse kjo të bën\Ntë ndihesh kaq ngrohtë përbrenda?
+Dialogue: 0,0:07:30.53,0:07:31.83,Default,,0,0,0,,Sa e shijshme, ta dish!
+Dialogue: 0,0:07:36.62,0:07:39.79,Default,,0,0,0,,Tomoro, më jep edhe, ta dish!
+Dialogue: 0,0:07:48.05,0:07:49.05,Default,,0,0,0,,Të gjithë.
+Dialogue: 0,0:07:50.30,0:07:51.26,Default,,0,0,0,,Unë...
+Dialogue: 0,0:07:52.31,0:07:55.18,Default,,0,0,0,,Dua t'i kthej Gekkomon-in dhe Asuka-n.
+Dialogue: 0,0:07:56.48,0:07:57.85,Default,,0,0,0,,E di që po kërkoj shumë.
+Dialogue: 0,0:07:58.48,0:07:59.31,Default,,0,0,0,,Por...
+Dialogue: 0,0:08:00.15,0:08:01.06,Default,,0,0,0,,Ju lutem...
+Dialogue: 0,0:08:01.77,0:08:03.15,Default,,0,0,0,,më jepni forcën tuaj!
+Dialogue: 0,0:08:03.82,0:08:04.94,Default,,0,0,0,,Patjetër.
+Dialogue: 0,0:08:05.44,0:08:07.45,Default,,0,0,0,,Thjesht duhet të bëjmë rrëmujë, apo jo?
+Dialogue: 0,0:08:13.87,0:08:16.37,Default,,0,0,0,,Ishte shumë e shijshme. Faleminderit.
+Dialogue: 0,0:08:19.96,0:08:20.79,Default,,0,0,0,,Tomoro.
+Dialogue: 0,0:08:21.84,0:08:23.88,Default,,0,0,0,,Sigurohu që të ktheheni të gjithë në shtëpi.
+Dialogue: 0,0:08:24.71,0:08:25.59,Default,,0,0,0,,Unë...
+Dialogue: 0,0:08:26.05,0:08:27.80,Default,,0,0,0,,besoj te të gjithë ju.
+Dialogue: 0,0:08:29.38,0:08:30.30,Default,,0,0,0,,Po!
+Dialogue: 0,0:08:32.43,0:08:33.43,Default,,0,0,0,,Cili është plani?
+Dialogue: 0,0:08:33.93,0:08:36.14,Default,,0,0,0,,Sanzomon-i ishte brenda atij.
+Dialogue: 0,0:08:36.31,0:08:38.02,Default,,0,0,0,,Pra, ja...
+Dialogue: 0,0:08:38.18,0:08:42.77,Default,,0,0,0,,Do të futemi me vrull te ai peshku i artë gjigant\Ndhe do ta zgjojmë Gekkomon-in!
+Dialogue: 0,0:08:42.94,0:08:44.98,Default,,0,0,0,,Ky nuk është plan.
+Dialogue: 0,0:08:45.15,0:08:46.61,Default,,0,0,0,,Është plan fare pa mend.
+Dialogue: 0,0:08:46.78,0:08:49.57,Default,,0,0,0,,Hesht! Do ta bëjmë!
+Dialogue: 0,0:08:49.74,0:08:51.61,Default,,0,0,0,,Do t'ju duhet të çani përpara!
+Dialogue: 0,0:08:51.91,0:08:56.24,Default,,0,0,0,,Do ta ngarkoj këtë me gjithë e-Pulse-in\Nqë kam dhe do t'i godas me të.
+Dialogue: 0,0:08:56.79,0:08:58.33,Default,,0,0,0,,E parapëlqej të thjeshtë.
+Dialogue: 0,0:08:58.50,0:09:00.67,Default,,0,0,0,,Problemi është të afrohemi mjaftueshëm.
+Dialogue: 0,0:09:02.04,0:09:03.92,Default,,0,0,0,,Nisemi, të gjithë!
+Dialogue: 0,0:09:04.38,0:09:05.38,Default,,0,0,0,,Po!
+Dialogue: 0,0:09:08.92,0:09:11.09,Default,,0,0,0,,Nuk dini kur të hiqni dorë.
+Dialogue: 0,0:09:12.51,0:09:15.14,Default,,0,0,0,,Ocean Strike!
+Dialogue: 0,0:09:18.22,0:09:20.77,Default,,0,0,0,,Trinity Lightning!
+Dialogue: 0,0:09:30.15,0:09:31.82,Default,,0,0,0,,Nuk e kuptoj.
+Dialogue: 0,0:09:31.99,0:09:34.16,Default,,0,0,0,,Bota do të ndryshojë.
+Dialogue: 0,0:09:34.70,0:09:37.66,Default,,0,0,0,,Pse ende i lini njerëzit t'ju përdorin?
+Dialogue: 0,0:09:37.83,0:09:40.25,Default,,0,0,0,,«Përdorin»? Mos më bëj të qesh!
+Dialogue: 0,0:09:40.41,0:09:44.46,Default,,0,0,0,,Jemi me ta sepse kështu zgjedhim vetë!
+Dialogue: 0,0:09:44.63,0:09:49.42,Default,,0,0,0,,Fjalë të mëdha nga\Nkoneja e Sanzomon-it!
+Dialogue: 0,0:09:49.59,0:09:54.59,Default,,0,0,0,,Nëse nuk i kupton idealet e tyre,\Nnuk vlen për asgjë!
+Dialogue: 0,0:10:09.94,0:10:11.32,Default,,0,0,0,,Apollomon?
+Dialogue: 0,0:10:14.03,0:10:15.32,Default,,0,0,0,,Edhe ti erdhe?
+Dialogue: 0,0:10:16.32,0:10:17.49,Default,,0,0,0,,Kaito!
+Dialogue: 0,0:10:18.58,0:10:21.12,Default,,0,0,0,,Erdha të ta shlyej borxhin, Kyo.
+Dialogue: 0,0:10:21.45,0:10:24.83,Default,,0,0,0,,Më në fund mund të luftoj krah Kaito-sama-s!
+Dialogue: 0,0:10:26.46,0:10:28.55,Default,,0,0,0,,Qen endacakë...
+Dialogue: 0,0:10:30.13,0:10:32.22,Default,,0,0,0,,Lila Shower!
+Dialogue: 0,0:10:32.38,0:10:34.55,Default,,0,0,0,,Poseidon Vortex!
+Dialogue: 0,0:10:44.98,0:10:46.40,Default,,0,0,0,,Dëmtues të bezdisshëm!
+Dialogue: 0,0:10:50.02,0:10:52.57,Default,,0,0,0,,Mjaft u tallët.
+Dialogue: 0,0:11:03.75,0:11:09.09,Default,,0,0,0,,Mos mendoni se mund ta shuani flakën tonë\Nme atë shi të dobët!
+Dialogue: 0,0:11:09.25,0:11:11.92,Default,,0,0,0,,Sol Blaster!
+Dialogue: 0,0:11:17.14,0:11:18.01,Default,,0,0,0,,Çfarë?
+Dialogue: 0,0:11:28.98,0:11:29.77,Default,,0,0,0,,Tani!
+Dialogue: 0,0:11:53.38,0:11:57.13,Default,,0,0,0,,Mos e prishni, Agimi i Shndritshëm!
+Dialogue: 0,0:12:19.53,0:12:24.08,Default,,0,0,0,,Ju, gurë shahu, e keni përmbushur tashmë\Nqëllimin tuaj. Pse jeni këtu?
+Dialogue: 0,0:12:24.54,0:12:26.33,Default,,0,0,0,,Ma ktheni familjen time!
+Dialogue: 0,0:12:27.12,0:12:29.37,Default,,0,0,0,,Nuk keni asnjë mundësi të fitoni.
+Dialogue: 0,0:12:30.21,0:12:35.55,Default,,0,0,0,,Thjesht pranojeni sundimin tonë\Ndhe bëhuni burime për t'u shfrytëzuar.
+Dialogue: 0,0:12:35.71,0:12:38.30,Default,,0,0,0,,Çfarë kujtoni se janë njerëzit?
+Dialogue: 0,0:12:42.55,0:12:44.60,Default,,0,0,0,,Le të ndjekim planin!
+Dialogue: 0,0:12:44.76,0:12:45.72,Default,,0,0,0,,Po!
+Dialogue: 0,0:12:45.89,0:12:47.68,Default,,0,0,0,,Despair Blast!
+Dialogue: 0,0:12:58.65,0:12:59.57,Default,,0,0,0,,Atje lart!
+Dialogue: 0,0:13:07.00,0:13:08.16,Default,,0,0,0,,Çfarë ndodhi?
+Dialogue: 0,0:13:18.72,0:13:21.26,Default,,0,0,0,,Ç'plan i pagdhendur.
+Dialogue: 0,0:13:21.76,0:13:24.43,Default,,0,0,0,,Çfarë kujtoj se janë njerëzit?
+Dialogue: 0,0:13:25.30,0:13:29.10,Default,,0,0,0,,Ndoshta duhet të të bëj unë\Ntë njëjtën pyetje.
+Dialogue: 0,0:13:29.93,0:13:33.56,Default,,0,0,0,,Ne nuk mund të jetojmë pa e-Pulse.
+Dialogue: 0,0:13:34.44,0:13:40.65,Default,,0,0,0,,Për këtë arsye, ai ju lejon\Ntë luani me jetët e Digimon-ëve.
+Dialogue: 0,0:13:41.65,0:13:44.20,Default,,0,0,0,,{\i1}Para publikut jemi defekte që duhen asgjësuar.{\i0}
+Dialogue: 0,0:13:44.82,0:13:50.16,Default,,0,0,0,,{\i1}Prapa skenave, jemi armë lufte\Nqë përdoren për të kënaqur lakminë e njerëzimit.{\i0}
+Dialogue: 0,0:13:51.79,0:13:56.59,Default,,0,0,0,,Po ju, çfarë kujtoni se janë Digimon-ët?
+Dialogue: 0,0:13:58.13,0:14:01.01,Default,,0,0,0,,Nëse vërtet merakoseni aq shumë për Digimon-ët,
+Dialogue: 0,0:14:01.17,0:14:04.34,Default,,0,0,0,,atëherë pse i bëtë\Natë që i bëtë Gekkomon-it?!
+Dialogue: 0,0:14:04.72,0:14:08.14,Default,,0,0,0,,Është e vërtetë se\Ni kemi munduar shumë.
+Dialogue: 0,0:14:08.68,0:14:12.06,Default,,0,0,0,,Por ishte një sakrificë e nevojshme.
+Dialogue: 0,0:14:13.10,0:14:18.57,Default,,0,0,0,,Vërtet, gjithçka bëhet për të shpëtuar\NDigimon-ët e shtypur,
+Dialogue: 0,0:14:19.23,0:14:22.61,Default,,0,0,0,,dhe për të krijuar një utopi për ne.
+Dialogue: 0,0:14:22.78,0:14:24.70,Default,,0,0,0,,Kush jua kërkoi këtë?
+Dialogue: 0,0:14:25.91,0:14:31.87,Default,,0,0,0,,Dua të shoh shumë vende të reja\Nbashkë me Makoto-n!
+Dialogue: 0,0:14:32.04,0:14:35.67,Default,,0,0,0,,Ngaqë isha me Reina-n\Nmunda të shihja përpara!
+Dialogue: 0,0:14:38.09,0:14:42.09,Default,,0,0,0,,Nëse do të luash heroin,\Nbëje vetë.
+Dialogue: 0,0:14:42.67,0:14:46.55,Default,,0,0,0,,Gekkomon-i nuk kërkoi asgjë nga këto!
+Dialogue: 0,0:14:47.14,0:14:48.47,Default,,0,0,0,,Sa marrëzi.
+Dialogue: 0,0:14:53.31,0:14:55.02,Default,,0,0,0,,Nuk mund të humbim!
+Dialogue: 0,0:14:55.19,0:14:57.31,Default,,0,0,0,,Jo këtu! Jo tani!
+Dialogue: 0,0:15:01.44,0:15:04.82,Default,,0,0,0,,Nuk do të humbim kurrë!
+Dialogue: 0,0:15:06.61,0:15:10.62,Default,,0,0,0,,Evolucioni i Pristimon-it!
+Dialogue: 0,0:15:18.46,0:15:20.17,Default,,0,0,0,,Artiomon!
+Dialogue: 0,0:15:23.76,0:15:27.26,Default,,0,0,0,,Evolucioni i Chiropmon-it!
+Dialogue: 0,0:15:35.56,0:15:37.10,Default,,0,0,0,,Nosferamon!
+Dialogue: 0,0:15:41.69,0:15:43.40,Default,,0,0,0,,Digimon Mega?
+Dialogue: 0,0:15:44.40,0:15:48.03,Default,,0,0,0,,T'i futemi në maksimum, Artiomon!
+Dialogue: 0,0:15:48.49,0:15:51.37,Default,,0,0,0,,Fluturo me gjithë fuqinë, Nosferamon!
+Dialogue: 0,0:15:54.70,0:15:57.00,Default,,0,0,0,,Doom Buster!
+Dialogue: 0,0:15:57.17,0:15:59.13,Default,,0,0,0,,Rampage Bullet!
+Dialogue: 0,0:16:23.27,0:16:24.40,Default,,0,0,0,,Albatusmon!
+Dialogue: 0,0:16:34.99,0:16:36.00,Default,,0,0,0,,Tomoro!
+Dialogue: 0,0:16:36.16,0:16:39.37,Default,,0,0,0,,Bëje!
+Dialogue: 0,0:16:44.75,0:16:45.88,Default,,0,0,0,,{\i1}Gekkomon!{\i0}
+Dialogue: 0,0:16:50.34,0:16:51.72,Default,,0,0,0,,Gekkomon!
+Dialogue: 0,0:16:52.80,0:16:54.18,Default,,0,0,0,,Gekkomon!
+Dialogue: 0,0:16:56.93,0:16:58.73,Default,,0,0,0,,Kthehu tek unë!
+Dialogue: 0,0:17:00.23,0:17:03.27,Default,,0,0,0,,Gekkomon!
+Dialogue: 0,0:17:16.54,0:17:17.54,Default,,0,0,0,,Tomo...
+Dialogue: 0,0:17:18.33,0:17:19.21,Default,,0,0,0,,ro?
+Dialogue: 0,0:17:20.46,0:17:21.29,Default,,0,0,0,,Po.
+Dialogue: 0,0:17:22.29,0:17:23.42,Default,,0,0,0,,Gekkomon.
+Dialogue: 0,0:17:24.17,0:17:25.17,Default,,0,0,0,,Është e kotë.
+Dialogue: 0,0:17:28.59,0:17:29.47,Default,,0,0,0,,Tomoro!
+Dialogue: 0,0:17:31.43,0:17:33.59,Default,,0,0,0,,Tani, Atratusmon...
+Dialogue: 0,0:17:34.43,0:17:36.76,Default,,0,0,0,,vazhdo Rrethin e Përforcimit!
+Dialogue: 0,0:17:38.64,0:17:39.56,Default,,0,0,0,,Gekkomon!
+Dialogue: 0,0:17:43.23,0:17:44.69,Default,,0,0,0,,Nuk dua, ta dish!
+Dialogue: 0,0:17:45.77,0:17:47.32,Default,,0,0,0,,Çfarë the?
+Dialogue: 0,0:17:47.82,0:17:52.95,Default,,0,0,0,,Një e-Pulse i tillë\Nqë po i lëndon të gjithë...
+Dialogue: 0,0:17:53.78,0:17:56.91,Default,,0,0,0,,Do ta marr të gjithin dhe...
+Dialogue: 0,0:17:57.95,0:17:59.29,Default,,0,0,0,,Të gjithin!
+Dialogue: 0,0:17:59.95,0:18:01.12,Default,,0,0,0,,Gekkomon?
+Dialogue: 0,0:18:09.63,0:18:10.46,Default,,0,0,0,,Çfarë?
+Dialogue: 0,0:18:11.26,0:18:13.63,Default,,0,0,0,,Jo! Me këtë ritëm...
+Dialogue: 0,0:18:18.39,0:18:19.43,Default,,0,0,0,,Gekkomo--
+Dialogue: 0,0:18:34.78,0:18:35.70,Default,,0,0,0,,Çfarë?
+Dialogue: 0,0:18:43.50,0:18:45.17,Default,,0,0,0,,Ku është Gekkomon-i?
+Dialogue: 0,0:18:45.83,0:18:47.34,Default,,0,0,0,,Është zhdukur.
+Dialogue: 0,0:18:48.04,0:18:48.88,Default,,0,0,0,,Hë?
+Dialogue: 0,0:18:49.05,0:18:53.38,Default,,0,0,0,,E mblodhi brenda vetes e-Pulse-in e Albatusmon-it...
+Dialogue: 0,0:18:53.88,0:18:57.14,Default,,0,0,0,,dhe përdori të gjithë\Ne-Pulse-in që i kishte mbetur për të...
+Dialogue: 0,0:18:57.64,0:18:58.80,Default,,0,0,0,,Jo!
+Dialogue: 0,0:19:01.89,0:19:03.14,Default,,0,0,0,,Gekkomon.
+Dialogue: 0,0:19:04.60,0:19:05.69,Default,,0,0,0,,Gekkomon!
+Dialogue: 0,0:19:34.22,0:19:35.34,Default,,0,0,0,,Është këtu.
+Dialogue: 0,0:19:35.51,0:19:36.38,Default,,0,0,0,,Çfarë?
+Dialogue: 0,0:19:37.05,0:19:38.01,Default,,0,0,0,,Pikërisht këtu.
+Dialogue: 0,0:19:39.01,0:19:40.14,Default,,0,0,0,,Është këtu.
+Dialogue: 0,0:19:42.81,0:19:43.93,Default,,0,0,0,,Apo jo?
+Dialogue: 0,0:19:49.52,0:19:50.61,Default,,0,0,0,,E di që je aty.
+Dialogue: 0,0:19:51.86,0:19:52.98,Default,,0,0,0,,Gekkomon.
+Dialogue: 0,0:19:54.82,0:19:56.20,Default,,0,0,0,,{\i1}Tomoro.{\i0}
+Dialogue: 0,0:19:56.36,0:19:58.20,Default,,0,0,0,,Shih si je bërë.
+Dialogue: 0,0:19:59.78,0:20:02.20,Default,,0,0,0,,{\i1}Nuk munda të mbroja askënd, ta dish.{\i0}
+Dialogue: 0,0:20:02.58,0:20:06.75,Default,,0,0,0,,{\i1}As Kyo-n. As Murasamemon-in. As Asuka-n.{\i0}
+Dialogue: 0,0:20:06.91,0:20:08.58,Default,,0,0,0,,{\i1}As ty.{\i0}
+Dialogue: 0,0:20:09.25,0:20:13.05,Default,,0,0,0,,{\i1}Gjithçka sepse jam tepër i dobët!{\i0}
+Dialogue: 0,0:20:15.67,0:20:20.22,Default,,0,0,0,,{\i1}Nëse duhet të ndihem kështu,\Nmë mirë të mbetem Sapotama.{\i0}
+Dialogue: 0,0:20:21.93,0:20:22.97,Default,,0,0,0,,Gekkomon.
+Dialogue: 0,0:20:23.89,0:20:25.22,Default,,0,0,0,,Është e frikshme, apo jo?
+Dialogue: 0,0:20:26.14,0:20:28.27,Default,,0,0,0,,Të përballesh me ndjenjat e tua.
+Dialogue: 0,0:20:29.85,0:20:31.86,Default,,0,0,0,,Pse po lufton vetëm?
+Dialogue: 0,0:20:32.36,0:20:33.19,Default,,0,0,0,,{\i1}Hë?{\i0}
+Dialogue: 0,0:20:33.82,0:20:34.73,Default,,0,0,0,,{\i1}Au!{\i0}
+Dialogue: 0,0:20:36.82,0:20:38.78,Default,,0,0,0,,Ti ishe ai që më mësove.
+Dialogue: 0,0:20:39.95,0:20:43.33,Default,,0,0,0,,Kur ndajmë gjithçka përgjysmë,\Nvështirësitë bëhen përgjysmë më të lehta...
+Dialogue: 0,0:20:44.49,0:20:47.46,Default,,0,0,0,,kurse gjërat e mira bëhen\Ndy herë më të mira... ta dish.
+Dialogue: 0,0:20:49.92,0:20:51.79,Default,,0,0,0,,Të gjithë po të presin.
+Dialogue: 0,0:20:52.50,0:20:56.26,Default,,0,0,0,,Eja, kthehu dhe të hamë bashkë.
+Dialogue: 0,0:20:57.17,0:20:58.42,Default,,0,0,0,,{\i1}Tomoro.{\i0}
+Dialogue: 0,0:21:00.43,0:21:01.43,Default,,0,0,0,,{\i1}Unë...{\i0}
+Dialogue: 0,0:21:08.10,0:21:10.52,Default,,0,0,0,,Po vdes nga uria, ta dish!
+Dialogue: 0,0:21:11.77,0:21:12.73,Default,,0,0,0,,Gekkomon!
+Dialogue: 0,0:21:13.98,0:21:15.02,Default,,0,0,0,,Mirë se u ktheve!
+Dialogue: 0,0:21:18.11,0:21:19.74,Default,,0,0,0,,Çfarë dreqin...?
+Dialogue: 0,0:21:19.90,0:21:23.49,Default,,0,0,0,,Albatusmon! Ktheje Atratusmon-in!
+Dialogue: 0,0:21:32.29,0:21:33.96,Default,,0,0,0,,Çfarë po bën?
+Dialogue: 0,0:21:34.13,0:21:36.13,Default,,0,0,0,,Thithe të gjithin, ta dish!
+Dialogue: 0,0:21:39.09,0:21:41.59,Default,,0,0,0,,Do të bëj që ta dëgjoni ti dhe Asuka!
+Dialogue: 0,0:21:42.59,0:21:47.43,Default,,0,0,0,,Ritmin tonë... që do të tronditë botën!
+Dialogue: 0,0:22:01.20,0:22:07.37,Default,,0,0,0,,{\i1}E kam marrë vendimin\NDo ta jetoj jetën sipas mënyrës sime, uou{\i0}
+Dialogue: 0,0:22:07.87,0:22:14.63,Default,,0,0,0,,{\i1}Gjithçka duket në vendin e vet\NDo ta bëj të nesërmen më të mirën, uou, oh{\i0}
+Dialogue: 0,0:22:14.79,0:22:16.79,Default,,0,0,0,,{\i1}E di që s'mund të shtirem{\i0}
+Dialogue: 0,0:22:16.96,0:22:18.75,Default,,0,0,0,,{\i1}S'e kontrolloj dot këtë energji{\i0}
+Dialogue: 0,0:22:18.92,0:22:22.22,Default,,0,0,0,,{\i1}Nuk përshtatem, por jam gjallë{\i0}
+Dialogue: 0,0:22:22.38,0:22:28.85,Default,,0,0,0,,{\i1}Duhet ta kthej çdo plagë në melodi\NJa ku fillon{\i0}
+Dialogue: 0,0:22:29.10,0:22:34.56,Default,,0,0,0,,{\i1}Po e thyej të zakonshmen me këtë tingull{\i0}
+Dialogue: 0,0:22:34.73,0:22:36.65,Default,,0,0,0,,{\i1}Do ta thyej tani, do ta thyej tani, je{\i0}
+Dialogue: 0,0:22:36.81,0:22:41.07,Default,,0,0,0,,{\i1}Me ritmin që rreh thellë në zemrën time{\i0}
+Dialogue: 0,0:22:41.24,0:22:43.24,Default,,0,0,0,,{\i1}Do ta rishkruaj jetën time{\i0}
+Dialogue: 0,0:22:43.40,0:22:45.99,Default,,0,0,0,,{\i1}Thjesht dua të besoj\NSepse e di që ky është çelësi{\i0}
+Dialogue: 0,0:22:46.16,0:22:48.45,Default,,0,0,0,,{\i1}Le të dëgjohet anembanë botës{\i0}
+Dialogue: 0,0:22:48.62,0:22:51.04,Default,,0,0,0,,{\i1}Ky është realiteti im\NThjesht dua të jem «Unë»{\i0}
+Dialogue: 0,0:22:51.20,0:22:52.58,Default,,0,0,0,,{\i1}Dhe dua të jem i lirë{\i0}
+Dialogue: 0,0:22:52.75,0:22:55.37,Default,,0,0,0,,{\i1}Do ta thyej tani, do ta thyej tani{\i0}
+Dialogue: 0,0:22:55.54,0:22:57.17,Default,,0,0,0,,{\i1}Dhe do ta gjej veten{\i0}
+Dialogue: 0,0:23:02.72,0:23:07.22,Default,,0,0,0,,{\i1}Të bashkoj ritmet me ty\Nështë jashtëzakonisht bukur, ta dish!{\i0}
+Dialogue: 0,0:23:07.39,0:23:09.01,Default,,0,0,0,,{\i1}Edhe për mua, Gekkomon.{\i0}
+Dialogue: 0,0:23:09.51,0:23:14.64,Default,,0,0,0,,{\i1}Prandaj dua të vazhdoj të jetoj me ty\Ndhe me familjen time të shtrenjtë.{\i0}
+Dialogue: 0,0:23:14.98,0:23:18.98,Default,,0,0,0,,{\i1}Dua ta bëj realitet atë ëndërr\Nku Digimon-ët dhe njerëzit jetojnë bashkë!{\i0}
+Dialogue: 0,0:23:19.98,0:23:23.65,Default,,0,0,0,,{\i1}Jam i sigurt se mund ta realizojmë, ta dish!{\i0}
+Dialogue: 0,0:23:24.86,0:23:30.49,Default,,0,0,0,,{\i1}Herën tjetër në DIGIMON BEATBREAK,\N«Një botë me dritë vezulluese»{\i0}
+
