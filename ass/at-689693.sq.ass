@@ -1,0 +1,288 @@
+﻿[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Flashback Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:09.61,0:00:10.53,Default,Hisui,0,0,0,,Çfarë është kjo?
+Dialogue: 0,0:00:11.41,0:00:14.33,Default,Hisui,0,0,0,,A janë... gjallë?
+Dialogue: 0,0:00:16.90,0:00:20.28,Default,Ruri,0,0,0,,Çfarë do të thuash?\NKy është një qenie njerëzore.
+Dialogue: 0,0:00:21.06,0:00:24.63,Default,Ruri,0,0,0,,Nuk është një pamje shumë e këndshme, apo jo?\NI thënë ndryshe, ilaç tepër i fortë.
+Dialogue: 0,0:00:25.51,0:00:28.28,Default,Ruri,0,0,0,,Pavarësisht se gjithçka që po bën...
+Dialogue: 0,0:00:29.38,0:00:31.14,Default,Ruri,0,0,0,,është të jetojë.
+Dialogue: 0,0:02:02.98,0:02:07.98,Default,Sign,0,0,0,,{\an8}RAPORTI 12: ANISI YLL
+Dialogue: 0,0:02:08.51,0:02:12.43,Flashback Italics,Student 1,0,0,0,,Nëse hap barkun e një merimange helmuese,\Nme sa duket, brenda është bosh.
+Dialogue: 0,0:02:12.43,0:02:14.74,Flashback Italics,Student 1,0,0,0,,Thjesht lëshon helm në vend të kësaj.
+Dialogue: 0,0:02:15.27,0:02:17.91,Flashback Italics,Student 1,0,0,0,,E sheh, kjo merimangë...
+Dialogue: 0,0:02:18.49,0:02:22.00,Flashback Italics,Student 1,0,0,0,,i ishin hequr të brendshmet shumë kohë më parë.
+Dialogue: 0,0:02:22.85,0:02:26.50,Default,Hisui,0,0,0,,A është ende gjallë?\NKur është kështu? Si?
+Dialogue: 0,0:02:26.50,0:02:29.66,Default,Ruri,0,0,0,,I jap të pijë gjak vajzash.
+Dialogue: 0,0:02:31.21,0:02:34.05,Default,Ruri,0,0,0,,Unë jam ndërmjetësja që\Nia siguron gjakun.
+Dialogue: 0,0:02:34.05,0:02:36.18,Default,Hisui,0,0,0,,Motra Ruri...
+Dialogue: 0,0:02:36.18,0:02:40.06,Default,Hisui,0,0,0,,Gjithë këtë kohë, pyesja veten nëse\Nti mund të ishe njeriu i helmit.
+Dialogue: 0,0:02:40.06,0:02:42.92,Default,Hisui,0,0,0,,Dhe nuk më interesonte.\NEnde doja të të afrohesha.
+Dialogue: 0,0:02:43.56,0:02:46.52,Default,Hisui,0,0,0,,Por gabohesha!
+Dialogue: 0,0:02:46.52,0:02:48.56,Default,Ruri,0,0,0,,Edhe unë krijoj helm.
+Dialogue: 0,0:02:50.49,0:02:54.28,Default,Ruri,0,0,0,,Ndoshta ishte tepër herët të të tregoja këtë?
+Dialogue: 0,0:02:54.69,0:02:57.16,Default,Hisui,0,0,0,,Nuk mund të jetë! Çfarë{\i1}je{\i0}ti?!
+Dialogue: 0,0:02:57.78,0:03:00.62,Default,Hisui,0,0,0,,Sa kohë e bën këtë?
+Dialogue: 0,0:03:01.08,0:03:07.21,Default,Ruri,0,0,0,,Ai iku nga spitali ushtarak dhe\Npërfundoi këtu, duke shpresuar të mbijetonte.
+Dialogue: 0,0:03:08.49,0:03:11.44,Top,Ruri,0,0,0,,E vetmja gjë që donte ishte të mbijetonte.
+Dialogue: 0,0:03:07.67,0:03:12.67,Default,Sign,0,0,0,,{\an8\pos(315,260)}NJË DITË E SHKURTIT, MEIJI 23
+Dialogue: 0,0:03:21.62,0:03:22.93,Flashback,Poison Man,0,0,0,,Gjak...
+Dialogue: 0,0:03:22.93,0:03:25.18,Flashback,Poison Man,0,0,0,,Më duhet gjak!
+Dialogue: 0,0:03:32.21,0:03:36.38,Flashback,Cop,0,0,0,,Hej, çfarë po mendoni ju të dy?\NKëto gjëra bëhen në shtëpi.
+Dialogue: 0,0:03:40.77,0:03:41.96,Flashback,Cop,0,0,0,,Ndalo!
+Dialogue: 0,0:03:47.33,0:03:50.98,Flashback,Poison Man,0,0,0,,Më duhet më shumë gjak... nga vajza të reja...
+Dialogue: 0,0:04:00.44,0:04:02.99,Flashback Italics,Poison Man,0,0,0,,Një shkollë vajzash. Shkëlqyeshëm.
+Dialogue: 0,0:04:08.67,0:04:12.40,Flashback Italics,Poison Man,0,0,0,,Nëse kam gjak vajzash,\Nmund ta kthej në helm
+Dialogue: 0,0:04:12.40,0:04:14.90,Flashback Italics,Poison Man,0,0,0,,dhe të vazhdoj të jetoj.
+Dialogue: 0,0:04:17.01,0:04:19.11,Flashback,Teacher,0,0,0,,Kush është? Ka ndokush atje?
+Dialogue: 0,0:04:19.11,0:04:21.62,Flashback,Teacher,0,0,0,,Është koha e mësimit. Pra, nxito—
+Dialogue: 0,0:04:24.16,0:04:25.87,Flashback,Teacher,0,0,0,,A-ai është i vdekur?
+Dialogue: 0,0:04:26.20,0:04:27.58,Flashback,Poison Man,0,0,0,,G-Grua...
+Dialogue: 0,0:04:33.45,0:04:37.76,Flashback,Poison Man,0,0,0,,Më fal. Më duhet gjaku yt!\NNuk dua të vdes!
+Dialogue: 0,0:04:38.19,0:04:40.93,Flashback,Poison Man,0,0,0,,Nëse do të fajësosh dikë,\Nfajëso ata bastardët e ushtrisë!
+Dialogue: 0,0:04:40.93,0:04:42.93,Flashback,Poison Man,0,0,0,,Ata janë ata që më copëtuan!
+Dialogue: 0,0:04:42.93,0:04:44.26,Flashback,Teacher,0,0,0,,Ndalo!
+Dialogue: 0,0:04:44.59,0:04:49.25,Flashback,Poison Man,0,0,0,,Gjaku im është helm!\NEdhe fryma ime! Edhe lotët e mi!
+Dialogue: 0,0:04:49.25,0:04:52.52,Flashback,Poison Man,0,0,0,,Por ato janë ende lotët\Ne një njeriu, dreqin!
+Dialogue: 0,0:04:54.26,0:04:55.90,Flashback,Teacher,0,0,0,,Jo, mos!
+Dialogue: 0,0:05:02.23,0:05:05.91,Flashback,Teacher,0,0,0,,Çfarë është ai? I vdekur apo i gjallë?
+Dialogue: 0,0:05:08.16,0:05:11.96,Flashback Italics,Teacher,0,0,0,,Duke e shikuar,\Nnuk mund të jetë më i madh se gjashtëmbëdhjetë vjeç...
+Dialogue: 0,0:05:12.44,0:05:16.28,Flashback Italics,Teacher,0,0,0,,Lëkura dhe flokët e tij janë të bukur.
+Dialogue: 0,0:05:29.75,0:05:31.69,Flashback,Poison Man,0,0,0,,K-Ku jam?
+Dialogue: 0,0:05:31.69,0:05:35.00,Flashback,Teacher,0,0,0,,Më parë ishte një rrugë hyrëse për minierat.
+Dialogue: 0,0:05:35.00,0:05:37.86,Flashback,Teacher,0,0,0,,Tani, sipër saj po ndërtohet\Nnjë bibliotekë.
+Dialogue: 0,0:05:38.56,0:05:41.74,Flashback,Teacher,0,0,0,,Duhet të mund të të fsheh këtu poshtë.
+Dialogue: 0,0:05:41.74,0:05:45.02,Flashback,Poison Man,0,0,0,,Të më fshehësh? Pse do ta bëje këtë?
+Dialogue: 0,0:05:46.93,0:05:50.73,Flashback,Poison Man,0,0,0,,Mendoj se ka kuptim.\NEdhe unë jam helm për sytë tani.
+Dialogue: 0,0:06:00.53,0:06:02.01,Flashback,Poison Man,0,0,0,,Çfarë është ky lëng?
+Dialogue: 0,0:06:02.38,0:06:06.16,Flashback,Teacher,0,0,0,,Nëse të duhet gjak,\Nmund të marr nga zogj dhe derra.
+Dialogue: 0,0:06:06.16,0:06:07.14,Flashback,Teacher,0,0,0,,A do të mjaftojë?
+Dialogue: 0,0:06:07.14,0:06:11.00,Flashback,Poison Man,0,0,0,,Sigurisht që jo! Më duhet gjak gruaje!
+Dialogue: 0,0:06:11.00,0:06:13.46,Flashback,Poison Man,0,0,0,,Është e vetmja gjë që mban\Ntrupin tim në këtë gjendje!
+Dialogue: 0,0:06:13.46,0:06:15.65,Flashback,Poison Man,0,0,0,,Mund të përdoret për të bërë helm.
+Dialogue: 0,0:06:15.65,0:06:17.43,Flashback,Teacher,0,0,0,,Por kjo është...
+Dialogue: 0,0:06:17.43,0:06:19.15,Flashback,Poison Man,0,0,0,,Alternativa...
+Dialogue: 0,0:06:20.11,0:06:22.40,Flashback,Poison Man,0,0,0,,është që ti të më japësh gjakun tënd.
+Dialogue: 0,0:06:23.29,0:06:25.66,Flashback,Teacher,0,0,0,,Nëse është vetëm pak nga pak, ndoshta.
+Dialogue: 0,0:06:28.12,0:06:31.23,Flashback,Poison Man,0,0,0,,Çfarë je, e çmendur? O grua e vjetër.
+Dialogue: 0,0:06:39.13,0:06:41.13,Flashback,Poison Man,0,0,0,,Çfarë është ky gjak?
+Dialogue: 0,0:06:41.13,0:06:45.13,Flashback,Teacher,0,0,0,,Gjak nga një nxënëse e imja,\Nmarrë gjatë një provimi.
+Dialogue: 0,0:06:45.13,0:06:48.61,Flashback,Poison Man,0,0,0,,A është kjo gjëja që\Nduhet të bëjë një mësuese?
+Dialogue: 0,0:06:49.13,0:06:51.19,Flashback,Teacher,0,0,0,,Është vetëm një sasi e vogël.
+Dialogue: 0,0:06:51.19,0:06:54.52,Flashback,Teacher,0,0,0,,Gjaku im nuk mjafton\Npër të të mbajtur gjallë, apo jo?
+Dialogue: 0,0:06:55.25,0:06:58.52,Flashback,Poison Man,0,0,0,,E vlerësoj, por mos më fajëso\Nnëse futësh në telashe.
+Dialogue: 0,0:06:58.97,0:07:02.49,Flashback,Teacher,0,0,0,,Kështu është puna.\NHajde, pi që të mos vdesësh.
+Dialogue: 0,0:07:02.49,0:07:04.00,Flashback,Poison Man,0,0,0,,P-Po.
+Dialogue: 0,0:07:05.24,0:07:10.53,Default,Ruri,0,0,0,,Pak pas kësaj, shkolla pati\Nrastin e saj të parë të helmimit masiv ushqimor.
+Dialogue: 0,0:07:11.47,0:07:14.39,Default,Ruri,0,0,0,,Mësuesja mblodhi\Nhelmin e njeriut të helmit
+Dialogue: 0,0:07:14.39,0:07:16.54,Default,Ruri,0,0,0,,dhe e përhapi në gjithë shkollën.
+Dialogue: 0,0:07:17.34,0:07:22.18,Default,Ruri,0,0,0,,Në atë kohë, ajo nuk e kishte vënë re se mund\Nta përballonte helmin pa pasoja.
+Dialogue: 0,0:07:22.18,0:07:28.30,Default,Ruri,0,0,0,,Që po sillej si\Nbartëse e një patogjeni.
+Dialogue: 0,0:07:29.09,0:07:33.77,Default,Ruri,0,0,0,,Ajo kishte qenë jetime, dhe duke e parë atë\Nkrejt vetëm pa njeri ku të mbështetej,
+Dialogue: 0,0:07:33.77,0:07:36.31,Default,Ruri,0,0,0,,filloi të ndjente empati për të.
+Dialogue: 0,0:07:36.90,0:07:42.00,Default,Ruri,0,0,0,,Mblidhte gjak nga vajzat\Nnë vend të njeriut të helmit.
+Dialogue: 0,0:07:42.00,0:07:46.19,Default,Ruri,0,0,0,,Dhe me kalimin e kohës, metodat e saj për\Nta siguruar atë u bënë gjithnjë e më të rrepta.
+Dialogue: 0,0:07:46.59,0:07:49.84,Default,Ruri,0,0,0,,Si një vampire.
+Dialogue: 0,0:07:52.56,0:07:54.58,Flashback,Poison Man,0,0,0,,Ke gjak? Ma jep.
+Dialogue: 0,0:07:56.05,0:07:58.12,Flashback,Poison Man,0,0,0,,Je çmendur?! Çfarë po—
+Dialogue: 0,0:08:02.80,0:08:05.79,Flashback,Ruri,0,0,0,,Me gjakun e grave\Ntë reja në gojë,
+Dialogue: 0,0:08:05.79,0:08:10.16,Flashback,Ruri,0,0,0,,mësuesja do të vazhdonte të përqafonte\Nnjeriun e helmit, herë pas here.
+Dialogue: 0,0:08:12.13,0:08:16.38,Flashback,Poison Man,0,0,0,,Je jashtë mendjes.\NNuk mund të vazhdojmë kështu.
+Dialogue: 0,0:08:16.38,0:08:19.19,Flashback,Teacher,0,0,0,,Por ti do të jetosh, apo jo, Shikimi?
+Dialogue: 0,0:08:20.03,0:08:24.65,Flashback,Poison Man,0,0,0,,Sigurisht që dua! Të paktën derisa\Ntë marr hak ndaj ushtrisë!
+Dialogue: 0,0:08:25.45,0:08:27.14,Flashback,Teacher,0,0,0,,Çfarë do të thuash?
+Dialogue: 0,0:08:27.14,0:08:30.66,Flashback,Teacher,0,0,0,,A nuk të disektuan sepse\Nmendonin se ishe i vdekur?
+Dialogue: 0,0:08:30.66,0:08:32.16,Flashback,Poison Girl,0,0,0,,Aspak.
+Dialogue: 0,0:08:32.16,0:08:35.73,Flashback,Poison Girl,0,0,0,,Ata eksperimentuan me mua herë\Npas here vetëm për kërkimin e tyre.
+Dialogue: 0,0:08:35.73,0:08:37.97,Flashback,Poison Girl,0,0,0,,Unë u vrava!
+Dialogue: 0,0:08:38.77,0:08:42.88,Flashback,Teacher,0,0,0,,E kuptoj. Atëherë jeto, Shikimi.
+Dialogue: 0,0:08:47.07,0:08:51.91,Flashback,Teacher,0,0,0,,Nuk do të duhet të shqetësohesh kurrë për\Nmungesë vajzash këtu.
+Dialogue: 0,0:08:52.40,0:08:54.98,Flashback,Teacher,0,0,0,,Do të kesh gjithë gjakun që të duhet.
+Dialogue: 0,0:09:01.02,0:09:06.48,Default,Hisui,0,0,0,,Ruri-san, pse po vazhdon\Natë që filloi ajo mësuese?
+Dialogue: 0,0:09:06.85,0:09:08.74,Default,Hisui,0,0,0,,Dhe ku shkoi ajo?
+Dialogue: 0,0:09:11.99,0:09:17.08,Default,Hisui,0,0,0,,Ruri-san, mos vallë... A je ti e bija e tyre...?
+Dialogue: 0,0:09:21.17,0:09:22.50,Default,Ruri,0,0,0,,Kush është atje?
+Dialogue: 0,0:09:31.53,0:09:33.80,Default,Ruri,0,0,0,,Mbaj mend që e kisha kyçur atë derë.
+Dialogue: 0,0:09:33.80,0:09:36.65,Default,Kodo,0,0,0,,Gjimnazisti që infiltrova\Nnë shkollë paraprakisht
+Dialogue: 0,0:09:36.65,0:09:38.31,Default,Kodo,0,0,0,,më njoftoi për këtë vend.
+Dialogue: 0,0:09:38.90,0:09:42.60,Default,Kai,0,0,0,,Pyes veten se si Iwamoto-san\Ne kuptoi që ishte biblioteka.
+Dialogue: 0,0:09:42.60,0:09:46.65,Default,Bokuto,0,0,0,,Duket se kishte të tjerë që bënin\Nnjë hetim të fshehtë.
+Dialogue: 0,0:09:48.13,0:09:51.49,Default,Kai,0,0,0,,Pyes veten nëse ishin veshur si nxënës.
+Dialogue: 0,0:09:51.49,0:09:52.89,Default,Kai,0,0,0,,Oh, më falni.
+Dialogue: 0,0:09:53.82,0:09:56.42,Default,Kai,0,0,0,,Ku e kam parë më parë?
+Dialogue: 0,0:09:58.29,0:10:00.82,Default,Amaba,0,0,0,,E di, kjo më rri mirë.
+Dialogue: 0,0:10:00.82,0:10:04.29,Default,Amaba,0,0,0,,As shefi nuk e vuri re.
+Dialogue: 0,0:10:05.21,0:10:07.29,Default,Kodo,0,0,0,,Emri yt është Hisui-san, apo jo?
+Dialogue: 0,0:10:08.15,0:10:11.38,Default,Kodo,0,0,0,,Mos e prek më kurrë faqeshënuesin\Nnë çantën tënde.
+Dialogue: 0,0:10:15.78,0:10:18.27,Default,Oni,0,0,0,,Lulja që ajo shtypi\Naty është akoni.
+Dialogue: 0,0:10:18.27,0:10:22.22,Default,Oni,0,0,0,,Ka qindra faqeshënues të tillë\Nnë bibliotekë, dhe të gjithë janë helmues.
+Dialogue: 0,0:10:22.22,0:10:24.31,Default,Hisui,0,0,0,,Është helmues? Oh, jo...
+Dialogue: 0,0:10:25.01,0:10:28.37,Default,Kodo,0,0,0,,Ajo ka përhapur helm\Nnë gjithë shkollën
+Dialogue: 0,0:10:28.37,0:10:30.79,Default,Kodo,0,0,0,,që të mund të ushqejë njeriun e helmit\Nkur të ketë mundësi.
+Dialogue: 0,0:10:32.04,0:10:35.23,Default,Kodo,0,0,0,,Duke i bërë njerëzit viktima të helmit\Ndhe bukurisë së saj, pak nga pak,
+Dialogue: 0,0:10:35.23,0:10:36.97,Default,Kodo,0,0,0,,derisa ata të ndalojnë së rezistuari.
+Dialogue: 0,0:10:37.89,0:10:41.96,Default,Kodo,0,0,0,,Për të, ti je thjesht ushqim.\NE njëjta gjë vlen për vajzat e tjera "S".
+Dialogue: 0,0:10:48.90,0:10:51.05,Default,Kodo,0,0,0,,Faleminderit, Ruri.
+Dialogue: 0,0:10:52.46,0:10:56.47,Default,Kodo,0,0,0,,Falë teje,\Nnjeriu i helmit është ende gjallë.
+Dialogue: 0,0:11:00.62,0:11:04.59,Default,Ruri,0,0,0,,Po. Por nuk mendoj se i ka mbetur shumë.
+Dialogue: 0,0:11:04.59,0:11:07.35,Default,Ruri,0,0,0,,Ndoshta kjo ishte koha\Ne natyrshme për t'i dhënë fund.
+Dialogue: 0,0:11:12.10,0:11:15.74,Default,Kodo,0,0,0,,Njeriu i helmit... jo, Shikimi-san.
+Dialogue: 0,0:11:16.20,0:11:18.80,Default,Kodo,0,0,0,,Është e natyrshme që e urren ushtrinë.
+Dialogue: 0,0:11:19.86,0:11:21.88,Default,Kodo,0,0,0,,Dhe unë jam pjesë e asaj ushtrie.
+Dialogue: 0,0:11:22.50,0:11:28.63,Default,Kodo,0,0,0,,Më vjen keq që të ndoqa.\NPor kisha diçka që duhej të thosha.
+Dialogue: 0,0:11:29.22,0:11:31.88,Default,Kodo,0,0,0,,Për atë që të bënë, organet e tua,
+Dialogue: 0,0:11:31.88,0:11:34.67,Default,Kodo,0,0,0,,dhe efektin që ato patën\Nte njerëz të tjerë me fuqi.
+Dialogue: 0,0:11:35.46,0:11:39.09,Default,Kodo,0,0,0,,Po të mos ishe ti, ndoshta nuk do të kisha\Nmundur të shpëtoja Shizuma-kun.
+Dialogue: 0,0:11:40.31,0:11:42.51,Default,Kodo,0,0,0,,Dhe unë...
+Dialogue: 0,0:11:45.92,0:11:48.62,Default,Kodo,0,0,0,,Dëshiroj që kjo të mos kishte ndodhur me ty.
+Dialogue: 0,0:11:49.96,0:11:53.88,Default,Kodo,0,0,0,,Po të isha në vendin tënd,\Ne njëjta gjë mund të më kishte ndodhur edhe mua.
+Dialogue: 0,0:11:54.53,0:11:55.74,Default,Kodo,0,0,0,,Prandaj...
+Dialogue: 0,0:11:58.00,0:12:02.68,Default,Oni,0,0,0,,Iwamoto, ai është ende gjallë.\NDuhet ta zhvendosim.
+Dialogue: 0,0:12:03.00,0:12:04.00,Default,Kodo,0,0,0,,E drejtë.
+Dialogue: 0,0:12:07.49,0:12:10.06,Default,Oni,0,0,0,,Problemi i vërtetë tani është Ruri.
+Dialogue: 0,0:12:10.06,0:12:14.20,Default,Oni,0,0,0,,Kush do ta kishte menduar se\Nnjeriu i helmit kishte një vajzë?
+Dialogue: 0,0:12:14.20,0:12:19.18,Default,Oni,0,0,0,,Supozoj se ajo mund të qëndrojë në shkollë\Npër momentin, apo jo, Iwamoto?
+Dialogue: 0,0:12:21.49,0:12:25.18,Italics,Kodo,0,0,0,,E di pse po e mbante\Natë këtu poshtë. Por...
+Dialogue: 0,0:12:25.18,0:12:28.32,Italics,Kodo,0,0,0,,Pse ishte i lidhur me zinxhirë?
+Dialogue: 0,0:12:29.35,0:12:30.60,Default,Oni,0,0,0,,Iwamoto?
+Dialogue: 0,0:12:30.60,0:12:32.06,Italics,Kodo,0,0,0,,Mos më thuaj...
+Dialogue: 0,0:12:32.06,0:12:34.52,Default,Yajima,0,0,0,,A mund të flas dy fjalë, Iwamoto-kun?
+Dialogue: 0,0:12:34.52,0:12:35.68,Default,Kodo,0,0,0,,Yajima-san?
+Dialogue: 0,0:12:35.68,0:12:39.64,Default,Yajima,0,0,0,,Të lutem qëndro i qetë kur ta them\Nkëtë. Trupi i njeriut të helmit...
+Dialogue: 0,0:12:39.64,0:12:42.57,Default,Yajima,0,0,0,,Ose më mirë, trupi që menduam\Nse i përkiste njeriut të helmit...
+Dialogue: 0,0:12:44.14,0:12:45.83,Default,Yajima,0,0,0,,është një grua.
+Dialogue: 0,0:12:46.77,0:12:47.99,Default,Kodo,0,0,0,,Një grua?
+Dialogue: 0,0:12:47.99,0:12:49.72,Default,Kai,0,0,0,,Jam i sigurt.
+Dialogue: 0,0:12:49.72,0:12:53.08,Default,Oni,0,0,0,,Çfarë dreqin?\NPra ky nuk është njeriu i helmit?
+Dialogue: 0,0:12:54.60,0:12:55.59,Default,Kodo,0,0,0,,Një vajzë?
+Dialogue: 0,0:12:56.79,0:12:59.47,Default,Oni,0,0,0,,Vajza ishte ajo që\Nmbahej e lidhur këtu poshtë?!
+Dialogue: 0,0:13:00.85,0:13:05.58,Default,Oni,0,0,0,,Atëherë personi që menduam\Nse ishte vajza... Kush është ajo?
+Dialogue: 0,0:13:21.21,0:13:24.91,Default,Kodo,0,0,0,,Pse do ta lidhte njeriu i helmit\Nvajzën e tij me zinxhirë këtu poshtë?
+Dialogue: 0,0:13:25.81,0:13:30.55,Default,Kodo,0,0,0,,I nxori organet dhe\Ne ushqeu me gjak për t'i zgjatur jetën.
+Dialogue: 0,0:13:31.30,0:13:33.67,Default,Oni,0,0,0,,Gjithçka që ai të arratisej!
+Dialogue: 0,0:13:34.03,0:13:37.92,Default,Oni,0,0,0,,E dinte se një ditë do të shfaqeshim.
+Dialogue: 0,0:13:37.92,0:13:40.22,Default,Oni,0,0,0,,Prandaj përgatiti një karrem.
+Dialogue: 0,0:13:40.22,0:13:44.55,Default,Oni,0,0,0,,E dinte se po e hiqte vajzën e tij\Nsi njeriun e helmit, mund të arratisej!
+Dialogue: 0,0:13:45.23,0:13:46.39,Default,Kodo,0,0,0,,Nuk mund të jetë.
+Dialogue: 0,0:13:46.96,0:13:51.43,Default,Kodo,0,0,0,,Kjo nuk është gjëja që\Nkushdo mund ta bëjë.
+Dialogue: 0,0:13:52.45,0:13:54.03,Default,Kodo,0,0,0,,Nuk duhet të ishte e mundur...
+Dialogue: 0,0:13:55.01,0:13:57.81,Default,Oni,0,0,0,,Iwamoto. Ky njeri nuk është thjesht kushdo.
+Dialogue: 0,0:13:57.81,0:14:00.64,Default,Oni,0,0,0,,Mendo sa i dëshpëruar\Nka qenë për të mbijetuar.
+Dialogue: 0,0:14:01.50,0:14:04.98,Default,Oni,0,0,0,,Kështu na ka shmangur gjithë këtë kohë,\Nmegjithëse i mungonin copëza të trupit.
+Dialogue: 0,0:14:05.68,0:14:09.18,Default,Oni,0,0,0,,Dhe tani, po arratiset përsëri.
+Dialogue: 0,0:14:09.18,0:14:13.96,Default,Oni,0,0,0,,Ishte gati të nxirrte\Ntë brendshmet e vajzës së tij vetëm për t'i shpëtuar nesh.
+Dialogue: 0,0:14:13.96,0:14:16.50,Default,Oni,0,0,0,,Po shkojmë pas njeriut të helmit përsëri!
+Dialogue: 0,0:14:21.51,0:14:23.75,Default,Kodo,0,0,0,,Haramachi! Katërsysi!
+Dialogue: 0,0:14:24.34,0:14:27.77,Default,Bokuto,0,0,0,,Iwamoto-san, nga ajo anë. Nxito.
+Dialogue: 0,0:14:27.77,0:14:28.80,Default,Kodo,0,0,0,,Bokuto-kun.
+Dialogue: 0,0:14:29.16,0:14:30.55,Default,Bokuto,0,0,0,,Do të jem mirë.
+Dialogue: 0,0:14:30.55,0:14:34.02,Default,Bokuto,0,0,0,,Por ti je i vetmi\Nqë mund ta ndalojë atë.
+Dialogue: 0,0:14:34.02,0:14:35.04,Default,Kodo,0,0,0,,Më fal.
+Dialogue: 0,0:14:35.04,0:14:36.10,Default,Kodo,0,0,0,,Oni, kujdesu për ata.
+Dialogue: 0,0:14:36.10,0:14:37.90,Default,Oni,0,0,0,,Çfarë? Dreq, Iwamoto!
+Dialogue: 0,0:14:54.90,0:14:57.46,Default,Kodo,0,0,0,,A je ti njeriu i helmit?
+Dialogue: 0,0:14:58.09,0:15:01.32,Default,Kodo,0,0,0,,Do të doja të kontrolloja përsëri.
+Dialogue: 0,0:15:04.92,0:15:08.40,Default,Kodo,0,0,0,,Nuk do të mashtrohem përsëri nga helmi yt.
+Dialogue: 0,0:15:09.27,0:15:11.42,Default,Kodo,0,0,0,,Më trego të brendshmet e tua.
+Dialogue: 0,0:15:28.05,0:15:30.87,Italics,Kodo,0,0,0,,Ajo që pashë më parë ishte një maskim.
+Dialogue: 0,0:15:31.54,0:15:34.25,Italics,Kodo,0,0,0,,Nuk e kuptova në atë moment.
+Dialogue: 0,0:15:36.33,0:15:40.06,Default,Ruri/Poison Man,0,0,0,,Ndalo së na ndjekuri. Ne do të mbijetojmë.
+Dialogue: 0,0:15:40.06,0:15:42.63,Default,Ruri/Poison Man,0,0,0,,Dhe nuk do të lejojmë askënd të na ndalojë.
+Dialogue: 0,0:15:43.17,0:15:46.06,Default,Poison Man,0,0,0,,Nëse hyn në këtë pellg, do të paguash shtrenjtë.
+Dialogue: 0,0:15:51.94,0:15:55.73,Default,Poison Man,0,0,0,,A është vërtet e drejtë\Ntë më kapni?
+Dialogue: 0,0:15:58.43,0:16:00.27,Default,Poison Man,0,0,0,,Ti je një prej nesh, apo jo?
+Dialogue: 0,0:16:00.69,0:16:05.19,Default,Poison Man,0,0,0,,A nuk do të ishte më mirë të tregoje\Nmëshirë dhe të më lije të arratisesha?
+Dialogue: 0,0:16:06.71,0:16:08.99,Default,Poison Man,0,0,0,,Nuk mendon kështu, i vogli im?
+Dialogue: 0,0:16:09.81,0:16:14.49,Default,Kodo,0,0,0,,Njeriu i helmit, kam frikë se\Nnuk mund të të lë të arratisesh.
+Dialogue: 0,0:16:20.00,0:16:23.48,Italics,Kodo,0,0,0,,Kur njeriu i helmit\Nmë kapi për fyti,
+Dialogue: 0,0:16:23.48,0:16:25.95,Italics,Kodo,0,0,0,,ai nuk tregoi forcë mbinjerëzore.
+Dialogue: 0,0:16:26.70,0:16:29.90,Italics,Kodo,0,0,0,,Por nuk kaloi shumë kohë para se flokët\Ne mi të fillonin të ndryshonin ngjyrë.
+Dialogue: 0,0:16:30.48,0:16:34.09,Italics,Kodo,0,0,0,,Ai toksinë është fuqia e tij.
+Dialogue: 0,0:16:34.69,0:16:38.49,Italics,Kodo,0,0,0,,Ai është emëruar sipas anisit yll, një bime,\Nlulja, farat dhe rrënjët e së cilës janë të gjitha toksike.
+Dialogue: 0,0:16:38.94,0:16:44.06,Italics,Kodo,0,0,0,,Iluzioni që më tregoi ishte i një\Nkopshti që zhdukej në një valë flluskash.
+Dialogue: 0,0:16:45.20,0:16:48.28,Default,Poison Man,0,0,0,,Vdis që unë të jetoj.
+Dialogue: 0,0:16:58.21,0:17:02.17,Default,Poison Man,0,0,0,,Ka mbaruar, i vogli im.
+Dialogue: 0,0:17:18.52,0:17:21.81,Default,Kodo,0,0,0,,Zjarri im ka fuqinë të\Ndjegë aftësitë e të tjerëve.
+Dialogue: 0,0:17:25.08,0:17:29.82,Default,Kodo,0,0,0,,Nuk je i vetmi që është helmues\Nnga bulbët te farat te rrënjët.
+Dialogue: 0,0:17:31.02,0:17:32.36,Default,Kodo,0,0,0,,Më vjen kaq keq.
+Dialogue: 0,0:17:33.56,0:17:37.35,Default,Poison Man,0,0,0,,Vajza ime, Ruri, trashëgoi fuqinë time.
+Dialogue: 0,0:17:38.85,0:17:41.33,Default,Poison Man,0,0,0,,Pasi lindi,\Nishte e lumtur për një kohë.
+Dialogue: 0,0:17:41.80,0:17:44.33,Default,Poison Man,0,0,0,,Ajo mund të jetonte një jetë normale.
+Dialogue: 0,0:17:44.71,0:17:49.04,Default,Poison Man,0,0,0,,Por helmi që ndajmë unë dhe ajo\Ndëmtoi organet e saj.
+Dialogue: 0,0:17:49.52,0:17:52.19,Default,Poison Man,0,0,0,,Ishte vetëm dhjetë vjeç kur vdiq.
+Dialogue: 0,0:17:53.65,0:17:55.35,Default,Kodo,0,0,0,,Ajo është e vdekur?
+Dialogue: 0,0:17:55.35,0:17:59.86,Default,Poison Man,0,0,0,,Kështu që nxora organet e saj,\Nsiç kishte ndodhur me mua.
+Dialogue: 0,0:17:59.86,0:18:01.87,Default,Poison Man,0,0,0,,Unë e kisha mbijetuar atë.
+Dialogue: 0,0:18:03.37,0:18:05.24,Default,Poison Man,0,0,0,,Dhe kisha të drejtë.
+Dialogue: 0,0:18:07.44,0:18:10.61,Default,Poison Man,0,0,0,,Ajo kishte shumë dhimbje kur u ringjall,
+Dialogue: 0,0:18:11.65,0:18:17.33,Default,Poison Man,0,0,0,,por duke e zëvendësuar gjakun e saj helmues me\Ngjak të pastër, ajo mundi të vazhdonte të jetonte.
+Dialogue: 0,0:18:18.47,0:18:22.25,Default,Kodo,0,0,0,,Njeriu i helmit... jo, Shikimi.
+Dialogue: 0,0:18:22.25,0:18:25.65,Default,Kodo,0,0,0,,I bëre të gjitha këto për të shpëtuar\Nvajzën tënde? Për të shpëtuar Rurin?
+Dialogue: 0,0:18:29.14,0:18:31.54,Default,Kodo,0,0,0,,Shikimi! Mos vdis!
+Dialogue: 0,0:18:31.54,0:18:34.26,Default,Kodo,0,0,0,,Ke arritur kaq larg, apo jo?!
+Dialogue: 0,0:18:34.26,0:18:36.18,Default,Kodo,0,0,0,,Dreqin. Nuk mund të mbarojë kështu.
+Dialogue: 0,0:18:36.95,0:18:39.53,Default,Kodo,0,0,0,,Nuk e kupton sa i lumtur jam.
+Dialogue: 0,0:18:39.53,0:18:43.14,Default,Kodo,0,0,0,,Munde të sfidoje një fat\Nqë dukej i pandryshueshëm!
+Dialogue: 0,0:18:44.11,0:18:48.65,Default,Kodo,0,0,0,,Shikimi... Erdha këtu për të të shpëtuar.
+Dialogue: 0,0:18:49.45,0:18:50.57,Default,Kodo,0,0,0,,A jam përsëri...
+Dialogue: 0,0:18:51.55,0:18:55.08,Default,Kodo,0,0,0,,i paaftë për ta bërë këtë?
+Dialogue: 0,0:19:00.25,0:19:02.52,Italics,Kodo,0,0,0,,Pasi gjërat u qetësuan,
+Dialogue: 0,0:19:02.52,0:19:07.35,Italics,Kodo,0,0,0,,mësuam se trupi në bodrum nuk\Ni përkiste vajzës së njeriut të helmit,
+Dialogue: 0,0:19:07.35,0:19:09.62,Italics,Kodo,0,0,0,,por mësueses.
+Dialogue: 0,0:19:10.10,0:19:12.75,Italics,Kodo,0,0,0,,Pas një marrëdhënieje të gjatë\Nme njeriun e helmit,
+Dialogue: 0,0:19:12.75,0:19:15.64,Italics,Kodo,0,0,0,,organet iu hoqën nga trupi,
+Dialogue: 0,0:19:15.64,0:19:19.23,Italics,Kodo,0,0,0,,duke i lejuar asaj të vazhdonte të jetonte,\Nsi njeriu i helmit dhe Ruri.
+Dialogue: 0,0:19:20.68,0:19:22.83,Default,Oni,0,0,0,,Çfarë dreqin ndodhi këtu?
+Dialogue: 0,0:19:22.83,0:19:25.69,Default,Oni,0,0,0,,Ku është Ruri? Nuk e kuptoj.
+Dialogue: 0,0:19:26.37,0:19:31.30,Default,Kodo,0,0,0,,Kaloi dekada me një trup të copëtuar,\Ne vetmja gjë që e mbante gjallë ishte inati.
+Dialogue: 0,0:19:31.71,0:19:34.92,Default,Kodo,0,0,0,,Me siguri ia besoi\Nhakmarrjen e tij Rurit.
+Dialogue: 0,0:19:35.65,0:19:40.69,Default,Kodo,0,0,0,,Të jetonte një jetë të lirë\Ndo të ishte një fitore për të.
+Dialogue: 0,0:19:42.20,0:19:45.64,Flashback,Poison Man,0,0,0,,Ruri, duhet të vazhdosh të jetosh.
+Dialogue: 0,0:19:45.64,0:19:49.11,Flashback,Poison Man,0,0,0,,Pa organet e tua dhe\Npa askënd që të ndjekë.
+Dialogue: 0,0:19:50.19,0:19:52.56,Flashback,Poison Man,0,0,0,,Merr hak ndaj ushtrisë.
+Dialogue: 0,0:19:53.09,0:19:56.22,Flashback,Poison Man,0,0,0,,Jeto jetën që mua ma mohuan.
+Dialogue: 0,0:19:56.22,0:20:00.25,Flashback,Poison Man,0,0,0,,Unë nuk do të vdes.\NDhe do të kujdesem për nënën tënde.
+Dialogue: 0,0:20:00.68,0:20:02.22,Flashback,Poison Man,0,0,0,,Ti je e lirë.
+Dialogue: 0,0:20:02.84,0:20:05.53,Flashback,Poison Man,0,0,0,,Askush nuk do të vijë pas teje.
+Dialogue: 0,0:20:11.41,0:20:15.80,Default,Ruri,0,0,0,,Ah, pra ke ardhur.\NJe mjaft i pamëshirshëm, apo jo?
+Dialogue: 0,0:20:19.51,0:20:24.92,Default,Ruri,0,0,0,,Nëse më ndjek, do të iki përsëri.\NSepse unë jam "njeriu i helmit".
+Dialogue: 0,0:20:28.62,0:20:32.34,Default,Sign,0,0,0,,{\an8}NJERIU I HELMIT
+Dialogue: 0,0:20:35.55,0:20:38.55,Default,Sign,0,0,0,,{\an8}PËRDORUESI I BOJËS SHPIRTËRORE | HAJNI FANTOM AMABA\NNË FSHAT BIE BORA E ZE | NJERIU I SHIUT
+Dialogue: 0,0:20:40.36,0:20:42.38,Default,Shizuma,0,0,0,,Oh, Iwamoto-senpai.
+Dialogue: 0,0:20:44.41,0:20:45.68,Default,Shizuma,0,0,0,,Mirë se u ktheve.
+Dialogue: 0,0:20:46.15,0:20:48.18,Default,Kodo,0,0,0,,Shizuma-kun. Si ke qenë?
+Dialogue: 0,0:20:48.50,0:20:53.18,Default,Shizuma,0,0,0,,Hajde, nuk mungove aq gjatë.\NNuk jam fëmijë, e di.
+Dialogue: 0,0:20:53.18,0:20:55.19,Default,Kodo,0,0,0,,Ndoshta ke të drejtë. Më fal.
+Dialogue: 0,0:20:55.19,0:20:57.19,Default,Kodo,0,0,0,,A ndodhi gjë ndërsa isha larg?
+Dialogue: 0,0:20:57.63,0:20:59.32,Default,Shizuma,0,0,0,,Në fakt, po.
+Dialogue: 0,0:20:59.32,0:21:03.92,Default,Shizuma,0,0,0,,Me të gjithë jashtë shkolle,\Nm'u desh të merresha vetë.
+Dialogue: 0,0:21:03.92,0:21:06.33,Default,Kodo,0,0,0,,Të merreshe me çfarë?
+Dialogue: 0,0:21:07.69,0:21:09.71,Default,Shizuma,0,0,0,,Morëm disa letra.
+Dialogue: 0,0:21:10.03,0:21:11.25,Default,Kodo,0,0,0,,E drejtë.
+Dialogue: 0,0:21:11.25,0:21:13.46,Italics,Kodo,0,0,0,,Kjo nuk kishte ndodhur kurrë më parë.
+Dialogue: 0,0:21:16.28,0:21:19.22,Italics,Kodo,0,0,0,,Mendoj se është shenjë se\Npo bëjmë përparim të vërtetë.
+Dialogue: 0,0:21:19.89,0:21:23.50,Italics,Kodo,0,0,0,,Falë nxënësve të mi të talentuar.
+Dialogue: 0,0:21:28.24,0:21:33.03,Default,Kitsujo,0,0,0,,Meqë ra fjala, lexova raportin\Ntënd për njeriun e helmit.
+Dialogue: 0,0:21:33.03,0:21:34.98,Default,Kitsujo,0,0,0,,Impresionues si gjithmonë, Iwamoto-kun.
+Dialogue: 0,0:21:36.73,0:21:41.74,Default,Kitsujo,0,0,0,,Por duhet të të paralajmëroj, nëse ndjen empati\Ntepër me të tjerët që kanë fuqi,
+Dialogue: 0,0:21:41.74,0:21:46.74,Default,Kitsujo,0,0,0,,rrezikon që zemra të\Ntë copëtohet një ditë.
+Dialogue: 0,0:21:46.74,0:21:48.60,Default,Kodo,0,0,0,,Nuk ke pse shqetësohesh.
+Dialogue: 0,0:21:51.69,0:21:55.61,Italics,Kodo,0,0,0,,Nuk do të lejoj asnjë prej tyre\Ntë vdesë në fushëbetejë.
+Dialogue: 0,0:21:59.14,0:22:05.90,Italics,Kodo,0,0,0,,Kjo është detyra ime si i moshuari përgjegjës\Npër rekomandimin e tyre në këtë shkollë.
+

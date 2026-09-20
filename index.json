@@ -662,6 +662,20 @@
       "assFile": "ass/at-689726.sq.ass",
       "offset": 0,
       "sourceReleaseId": "689726"
+    },
+    {
+      "id": "at-689693",
+      "title": "Recommendations from Iwamoto-Senpai",
+      "episode": "12",
+      "malId": 63324,
+      "anilistId": 206249,
+      "slugs": [
+        "iwamoto-senpai-no-suisen-e1124"
+      ],
+      "file": "files/at-689693.sq.vtt",
+      "assFile": "ass/at-689693.sq.ass",
+      "offset": 0,
+      "sourceReleaseId": "689693"
     }
   ]
 }
