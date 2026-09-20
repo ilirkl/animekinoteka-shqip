@@ -752,6 +752,20 @@
       "assFile": "ass/at-689673.sq.ass",
       "offset": 0,
       "sourceReleaseId": "689673"
+    },
+    {
+      "id": "at-689973",
+      "title": "Iron Wok Jan!",
+      "episode": "12",
+      "malId": 63100,
+      "anilistId": 204060,
+      "slugs": [
+        "iron-wok-jan-35eac"
+      ],
+      "file": "files/at-689973.sq.vtt",
+      "assFile": "ass/at-689973.sq.ass",
+      "offset": 0,
+      "sourceReleaseId": "689973"
     }
   ]
 }

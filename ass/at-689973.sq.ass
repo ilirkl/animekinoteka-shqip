@@ -1,0 +1,447 @@
+﻿[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Audio File: CR_IronWokJan_S1.0E12.0_IWJSIM0012_379349_video_ja-jp_J9878610.mp4
+Video File: CR_IronWokJan_S1.0E12.0_IWJSIM0012_379349_video_ja-jp_J9878610.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 1.500000
+Scroll Position: 314
+Active Line: 320
+Video Position: 25730
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Main - Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Main - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Main - Top + Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback - Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback - Top + Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Signs,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,30,30,18,0
+Style: Signs - an2 H,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,30,30,65,0
+Style: Signs - an2 EH,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,30,30,95,0
+Style: Signs - an2 L,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,30,30,18,0
+Style: Signs - an3,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,3,30,30,65,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.65,Signs,Sign,0,0,0,,KJO ËSHTË FIKCION PA NDONJË NGJASHMËRI TË QËLLIMSHME\NME PERSONA,\NORGANIZATA APO NGJARJE.
+Dialogue: 0,0:00:02.11,0:00:03.98,Default,Judge 8,0,0,0,,Shijshëm!
+Dialogue: 0,0:00:03.98,0:00:06.99,Main - Top,Judge 8,0,0,0,,Mirë! Kaq mirë! Është kaq mirë!
+Dialogue: 0,0:00:06.99,0:00:09.28,Main - Top,Judge 8,0,0,0,,Kaq mirë!
+Dialogue: 0,0:00:11.41,0:00:13.44,Main - Top,Crowd,0,0,0,,Hej! "Mirë" nuk shpjegon asgjë!
+Dialogue: 0,0:00:13.44,0:00:15.08,Main - Top,Crowd,0,0,0,,Na tregoni si shijojnë!
+Dialogue: 0,0:00:15.08,0:00:16.95,Main - Top,Osawa,0,0,0,,Në rregull tani, le të shohim...
+Dialogue: 0,0:00:16.95,0:00:18.91,Main - Top,Osawa,0,0,0,,Po të mund të merrnim një koment...
+Dialogue: 0,0:00:18.91,0:00:20.27,Main - Top,Osawa,0,0,0,,Hej!
+Dialogue: 0,0:00:20.27,0:00:24.28,Main - Top,Osawa,0,0,0,,Ky nuk është vlerësim i mirë nëse askush\Nnuk jep komente!
+Dialogue: 0,0:00:25.50,0:00:27.97,Main - Italics,Otani,0,0,0,,Emri im është Otani Nichido.
+Dialogue: 0,0:00:28.31,0:00:30.76,Main - Italics,Otani,0,0,0,,Dhe gjuha ime njeh\Nçdo shije në tërësinë e saj.
+Dialogue: 0,0:00:30.76,0:00:34.43,Main - Italics,Otani,0,0,0,,Nuk ka ushqim që\Nnuk mund ta shpjegoj shijen e tij.
+Dialogue: 0,0:00:40.31,0:00:43.89,Main - Italics,Otani,0,0,0,,Kjo aromë gjaku e vështirë për t'u\Nshprehur me fjalë, por që sjell trëndafila të kuq!
+Dialogue: 0,0:00:43.89,0:00:46.94,Main - Italics,Otani,0,0,0,,Kjo ëmbëlsi e rafinuar\Nqë shkrihet në gjuhë!
+Dialogue: 0,0:00:46.94,0:00:49.49,Main - Italics,Otani,0,0,0,,Cila është mënyra më e mirë\Npër ta përshkruar këtë pjatë...?
+Dialogue: 0,0:00:50.11,0:00:52.32,Main - Italics,Otani,0,0,0,,Shija ime është thjesht hyjnore...
+Dialogue: 0,0:00:53.67,0:00:57.01,Main - Italics,Otani,0,0,0,,Mendimi im për ushqimin merret\Nsi fjala e Zotit.
+Dialogue: 0,0:00:57.48,0:00:59.16,Main - Italics,Otani,0,0,0,,Por ja ku jam...
+Dialogue: 0,0:00:59.79,0:01:03.73,Main - Italics,Otani,0,0,0,,përballë një shije si\Nasnjë që kam hasur ndonjëherë!
+Dialogue: 0,0:01:03.73,0:01:06.75,Main - Italics,Otani,0,0,0,,Dhe atë e krijoi ai dreq Akiyama!
+Dialogue: 0,0:01:07.16,0:01:09.84,Main - Italics,Otani,0,0,0,,Ai është djalli!
+Dialogue: 0,0:01:10.42,0:01:12.93,Default,Kiriko,0,0,0,,Dukesh mjaft i sigurt.
+Dialogue: 0,0:01:12.93,0:01:15.35,Default,Kiriko,0,0,0,,Por mos u bëj kaq i sigurt\Nse fitorja është e jotja.
+Dialogue: 0,0:01:15.35,0:01:19.60,Default,Jan,0,0,0,,Përveç se jam.\NJam absolutisht i bindur se kam fituar.
+Dialogue: 0,0:01:19.94,0:01:25.84,Default,Jan,0,0,0,,Së pari, nxora ru ge të gjallë\Npër të shokuar publikun.
+Dialogue: 0,0:01:25.84,0:01:29.78,Default,Jan,0,0,0,,Pastaj i shkullova të freskët dhe sfidova\Npritshmëritë për mënyrën si do t'i përdorja.
+Dialogue: 0,0:01:29.78,0:01:32.95,Default,Jan,0,0,0,,Shfaqja me gjak ishte e gjitha\Npër të tërhequr vëmendjen e të gjithëve.
+Dialogue: 0,0:01:32.95,0:01:37.54,Default,Jan,0,0,0,,Sapo gërvisht sipërfaqen,\Nnjerëzit janë të gjithë manjakë të pangopur.
+Dialogue: 0,0:01:37.54,0:01:39.70,Default,Jan,0,0,0,,Budallenj që shkundin kokat nëse
+Dialogue: 0,0:01:39.70,0:01:42.08,Default,Jan,0,0,0,,u prek majat\Ne hundëve me një gosti të vërtetë.
+Dialogue: 0,0:01:42.08,0:01:46.29,Default,Jan,0,0,0,,Dhe tani i ekspozova këta\Nmashtrues pretenciozë si qentë që janë në të vërtetë!
+Dialogue: 0,0:01:46.29,0:01:48.46,Default,Jan,0,0,0,,{\i1}Kjo{\i0}është magjia ime!
+Dialogue: 0,0:01:48.46,0:01:51.63,Default,Osawa,0,0,0,,Hajde! A mund të më japë\Ndikush një koment?!
+Dialogue: 0,0:01:51.89,0:01:55.49,Default,Osawa,0,0,0,,Do të mendoja se diçka prej gjaku\Ndo të kishte shije të neveritshme e të papërpunuar! Apo jo?!
+Dialogue: 0,0:01:55.49,0:01:59.18,Default,Judge 12,0,0,0,,Ah, jo, kjo definitivisht nuk është rasti.
+Dialogue: 0,0:01:59.18,0:02:01.17,Default,Judge 12,0,0,0,,Kjo falë përdorimit të gjakut të freskët
+Dialogue: 0,0:02:01.17,0:02:04.17,Default,Judge 12,0,0,0,,dhe meigui lu jiu me aromë trëndafili.
+Dialogue: 0,0:02:04.17,0:02:07.52,Default,Judge 12,0,0,0,,Edhe kremi i freskët\Nzbuti shijen.
+Dialogue: 0,0:02:07.52,0:02:10.10,Default,Osawa,0,0,0,,A ka fare shije gjaku, atëherë?
+Dialogue: 0,0:02:10.10,0:02:12.23,Default,Judge 12,0,0,0,,Ka. E megjithatë...
+Dialogue: 0,0:02:12.23,0:02:13.10,Default,Osawa,0,0,0,,E megjithatë?
+Dialogue: 0,0:02:13.10,0:02:17.78,Default,Judge 12,0,0,0,,Ë-Është krejt ndryshe nga çdo pjatë gjaku\Nqë kam provuar më parë. Për më tepër...
+Dialogue: 0,0:02:17.78,0:02:22.34,Default,Judge 12,0,0,0,,Pavarësisht kësaj, ka një shije gjaku\Ntë gjallë më të fortë se të gjitha!
+Dialogue: 0,0:02:22.34,0:02:23.55,Main - Italics,Kiriko,0,0,0,,Një shije...
+Dialogue: 0,0:02:23.55,0:02:24.54,Main - Italics,Celene,0,0,0,,...gjaku të gjallë?
+Dialogue: 0,0:02:24.54,0:02:28.01,Default,Osawa,0,0,0,,Kishte katër lloje vezësh, apo jo?\NCili është ndryshimi?
+Dialogue: 0,0:02:28.01,0:02:29.71,Default,Judge 12,0,0,0,,A-Ato ishin...
+Dialogue: 0,0:02:29.71,0:02:33.84,Default,Judge 12,0,0,0,,pluhur kokosi, matcha, perla pluhur...
+Dialogue: 0,0:02:33.84,0:02:37.85,Default,Judge 12,0,0,0,,Dhe tjetra... Më vështirë më duket\Nta besoj vetë, por...
+Dialogue: 0,0:02:39.78,0:02:41.68,Default,Judge 12,0,0,0,,O-Otani-sensei?
+Dialogue: 0,0:02:41.68,0:02:43.30,Main - Italics,Otani,0,0,0,,Dreqin...
+Dialogue: 0,0:02:43.69,0:02:46.44,Default,Otani,0,0,0,,Sh-Shija e fundit...
+Dialogue: 0,0:02:47.05,0:02:49.27,Default,Otani,0,0,0,,Është xie yan.
+Dialogue: 0,0:02:49.64,0:02:52.82,Default,Otani,0,0,0,,Foleja e rrallë e swiftlet.
+Dialogue: 0,0:02:53.10,0:02:54.44,Main - Italics,Narrator,0,0,0,,Foleja e zogut e ngrënshme!
+Dialogue: 0,0:02:54.44,0:02:56.64,Main - Italics,Narrator,0,0,0,,E njohur si jinsiyan në Kinë,
+Dialogue: 0,0:02:56.64,0:03:00.65,Main - Italics,Narrator,0,0,0,,ato prodhohen nga një lloj\Nzogu i quajtur swiftlet.
+Dialogue: 0,0:02:57.41,0:03:01.54,Signs,Sign,0,0,0,,JINSIYAN
+Dialogue: 0,0:03:00.65,0:03:04.12,Main - Italics,Narrator,0,0,0,,Lëngu i prodhuar në\Ngjëndrën nën-gjuhësore ngurtësohet,
+Dialogue: 0,0:03:04.12,0:03:06.61,Main - Italics,Narrator,0,0,0,,duke formuar një fole të ngrënshme të quajtur yanwo.
+Dialogue: 0,0:03:05.21,0:03:07.67,Signs,Sign,0,0,0,,YANWO
+Dialogue: 0,0:03:06.61,0:03:10.60,Main - Italics,Narrator,0,0,0,,Në përgjithësi pranohet se foletë\Nmë cilësore janë guan yan,
+Dialogue: 0,0:03:10.60,0:03:11.45,Main - Italics,Narrator,0,0,0,,megjithatë...
+Dialogue: 0,0:03:08.79,0:03:12.38,Signs,Sign,0,0,0,,GUAN YAN
+Dialogue: 0,0:03:11.45,0:03:15.49,Default,Otani,0,0,0,,Por ka një lloj që\Nkonsiderohet edhe më i mirë.
+Dialogue: 0,0:03:15.49,0:03:17.89,Default,Otani,0,0,0,,Dhe ky është: xie yan.
+Dialogue: 0,0:03:18.14,0:03:21.72,Default,Otani,0,0,0,,Emri, që do të thotë "gjak swiftlet-i",\Nvjen nga ngjyra portokalli që shfaqet
+Dialogue: 0,0:03:21.72,0:03:25.00,Default,Otani,0,0,0,,në rastin e rrallë që ka gjak\Nnë pështymën e përdorur për folenë.
+Dialogue: 0,0:03:25.00,0:03:29.48,Default,Otani,0,0,0,,Është kaq i rrallë sa shumica do ta kalojnë\Ngjithë jetën pa i parë me sy.
+Dialogue: 0,0:03:29.48,0:03:31.77,Default,Otani,0,0,0,,Ky është xie yan legjendar.
+Dialogue: 0,0:03:31.77,0:03:34.58,Main - Italics,Narrator,0,0,0,,Fatkeqësisht për të,\Nteoria e Otanit këtu
+Dialogue: 0,0:03:34.58,0:03:37.28,Main - Italics,Narrator,0,0,0,,konsiderohet përgjithësisht\Nfolklor në ditët moderne.
+Dialogue: 0,0:03:37.66,0:03:41.57,Main - Italics,Narrator,0,0,0,,Foletë e swiftlet-it me ngjyrë gjaku janë\Nrezultat i një reaksioni kimik
+Dialogue: 0,0:03:41.57,0:03:45.08,Main - Italics,Narrator,0,0,0,,nga mjedise me temperaturë\Ntë lartë dhe lagështi të lartë.
+Dialogue: 0,0:03:45.08,0:03:47.97,Main - Italics,Narrator,0,0,0,,Disa tregtarë që shisnin këto fole të kuqe
+Dialogue: 0,0:03:47.97,0:03:49.94,Main - Italics,Narrator,0,0,0,,përpiqeshin t'i bënin\Ntë duken më tërheqëse
+Dialogue: 0,0:03:49.94,0:03:54.77,Main - Italics,Narrator,0,0,0,,duke pretenduar se gjaku i swiftlet-it\Nishte arsyeja e ngjyrës,
+Dialogue: 0,0:03:54.77,0:03:57.53,Main - Italics,Narrator,0,0,0,,dhe kështu u përhap legjenda.
+Dialogue: 0,0:03:57.53,0:04:04.05,Main - Italics,Narrator,0,0,0,,Tridhjetë vjet më parë, nuk kishte bazë\Nshkencore për të hedhur poshtë këtë përrallë!
+Dialogue: 0,0:04:04.05,0:04:06.02,Main - Italics,Narrator,0,0,0,,Vlerësojmë mirëkuptimin tuaj!
+Dialogue: 0,0:04:06.76,0:04:08.64,Default,Judge 12,0,0,0,,Otani-san, mendoj se kjo ëmbëlsirë
+Dialogue: 0,0:04:08.64,0:04:13.07,Default,Judge 12,0,0,0,,është, pa dyshim,\Ne cilësisë më të lartë të mundshme.
+Dialogue: 0,0:04:14.19,0:04:18.53,Default,Judge 12,0,0,0,,Akiyama Jan... Kreativiteti i tij i pabesueshëm\Nna ka dhënë
+Dialogue: 0,0:04:18.53,0:04:21.70,Default,Judge 12,0,0,0,,një shije të re të\Ntë ardhmes së kuzhinës kineze!
+Dialogue: 0,0:04:21.70,0:04:26.20,Default,Judge 12,0,0,0,,Dhe besoj se e kompenson plotësisht\Ndështimin e pjatës së tij me makarona.
+Dialogue: 0,0:04:30.71,0:04:33.71,Default,Otani,0,0,0,,Ç-Çfarë dreqi të ka zënë?!
+Dialogue: 0,0:04:33.71,0:04:37.63,Default,Otani,0,0,0,,Nëse e pranon këtë, atëherë ai... ai...
+Dialogue: 0,0:04:37.63,0:04:38.72,Default,Crowd,0,0,0,,Çfarë dreqin?
+Dialogue: 0,0:04:38.72,0:04:40.72,Default,Judge 9,0,0,0,,Otani-san, kontrollohu!
+Dialogue: 0,0:04:40.72,0:04:43.49,Default,Otani,0,0,0,,Nuk mund ta pranojmë!
+Dialogue: 0,0:04:43.49,0:04:48.38,Default,Otani,0,0,0,,Nuk mund ta lëmë të fitojë!
+Dialogue: 0,0:04:48.68,0:04:51.44,Default,MC,0,0,0,,U-Uh, tani po kalojmë\Nte vlerësimi i pjatës tjetër!
+Dialogue: 0,0:04:51.44,0:04:54.39,Main - Italics,Kiriko,0,0,0,,Ai vërtet është i pabesueshëm...
+Dialogue: 0,0:04:52.73,0:04:55.72,Main - Top,MC,0,0,0,,Je gati, Gobancho?
+Dialogue: 0,0:04:55.72,0:04:56.82,Main - Italics,Kiriko,0,0,0,,Por...
+Dialogue: 0,0:04:57.30,0:05:00.07,Main - Italics,Kiriko,0,0,0,,Unë jam Gobancho Kiriko!
+Dialogue: 0,0:05:00.07,0:05:01.81,Default,MC,0,0,0,,Gobancho?
+Dialogue: 0,0:05:01.81,0:05:02.73,Default,Kiriko,0,0,0,,Gati!
+Dialogue: 0,0:05:04.87,0:05:09.79,Signs,Sign,0,0,0,,SAN DUAN XIGUA ZHONG
+Dialogue: 0,0:05:05.28,0:05:09.79,Default,Kiriko,0,0,0,,San duan xigua zhong.\NTri ëmbëlsira të servirura në shalqi.
+Dialogue: 0,0:05:11.67,0:05:13.08,Default,Judge 11,0,0,0,,Kjo është e jashtëzakonshme.
+Dialogue: 0,0:05:13.08,0:05:15.09,Default,Kiriko,0,0,0,,Shtresa e parë: shi.
+Dialogue: 0,0:05:15.09,0:05:18.84,Default,Kiriko,0,0,0,,E mbushur me xianguo xengrendofu,\Npelte bajame me fruta.
+Dialogue: 0,0:05:19.19,0:05:20.34,Default,Kiriko,0,0,0,,Shtresa e dytë: wei.
+Dialogue: 0,0:05:20.34,0:05:24.35,Default,Kiriko,0,0,0,,Yezhi dong guan yan, fole zogu\Ne ngrënshme e përzier me qumësht kokosi.
+Dialogue: 0,0:05:24.35,0:05:26.06,Default,Kiriko,0,0,0,,Shtresa e poshtme: tian.
+Dialogue: 0,0:05:26.06,0:05:30.43,Default,Kiriko,0,0,0,,Zha ze ximilu, supë e ftohtë fasulesh\Ntë kuqe me fasule dhe tapioka.
+Dialogue: 0,0:05:31.00,0:05:32.94,Default,Kiriko,0,0,0,,Ju lutem, shijojeni.
+Dialogue: 0,0:05:35.77,0:05:37.52,Default,Judge 7,0,0,0,,"Shi wei tian"?
+Dialogue: 0,0:05:37.52,0:05:42.00,Default,Judge 7,0,0,0,,"Ngrënia është baza themelore\Ne ekzistencës njerëzore", hë?
+Dialogue: 0,0:05:42.00,0:05:43.95,Default,Judge 7,0,0,0,,Epo, le ta provojmë.
+Dialogue: 0,0:05:44.21,0:05:48.74,Default,Judge 7,0,0,0,,Do të fillojmë nga maja\Nme këtë pelte bajame.
+Dialogue: 0,0:05:50.98,0:05:53.34,Default,Judge 7,0,0,0,,Oh, çfarë surprize dinake.
+Dialogue: 0,0:05:53.34,0:05:55.96,Default,Judge 7,0,0,0,,Ka një ndjesi kokrrizore por\Nqë dridhet në gojën time.
+Dialogue: 0,0:05:55.96,0:05:59.76,Default,Judge 7,0,0,0,,Është një ndjesi kaq moderne!
+Dialogue: 0,0:05:59.76,0:06:03.07,Default,Judge 7,0,0,0,,Shumë e saktë! Është si një kombinim\Ni kokrrizave të agarit
+Dialogue: 0,0:06:03.07,0:06:04.51,Default,Judge 7,0,0,0,,dhe pozitivave të pelteve!
+Dialogue: 0,0:06:04.51,0:06:08.18,Default,Judge 6,0,0,0,,Është e lezetshme dhe plot ngjyra,\Ne lehtë dhe e thjeshtë për t'u ngrënë.
+Dialogue: 0,0:06:08.18,0:06:12.27,Default,Judge 14,0,0,0,,Te shtresa e dytë,\Nqumështi i kokosit me fole zogu.
+Dialogue: 0,0:06:15.18,0:06:18.14,Default,Judge 1,0,0,0,,Vërtet ndjehet pasuria\Ndhe shija e qumështit të kokosit!
+Dialogue: 0,0:06:18.14,0:06:22.74,Default,Judge 1,0,0,0,,Foleja vepron si një theks i butë,\Ndhe rrjedh kaq lehtë.
+Dialogue: 0,0:06:22.74,0:06:26.66,Default,Judge 10,0,0,0,,Vetëm qumështi i kokosit nuk do të\Nkishte një shije kaq të mrekullueshme.
+Dialogue: 0,0:06:26.66,0:06:31.41,Default,Judge 8,0,0,0,,Marr me mend se shtove pluhur kokosi,\Ne zjeve të gjithë dhe pastaj e kullove.
+Dialogue: 0,0:06:31.41,0:06:34.27,Default,Judge 11,0,0,0,,Përpjekja shtesë dyfishoi shijen!
+Dialogue: 0,0:06:34.27,0:06:37.08,Default,Judge 11,0,0,0,,Është një pjatë e zakonshme, por vërtet\Nndjehet pasioni pas saj.
+Dialogue: 0,0:06:37.08,0:06:41.26,Default,Judge 5,0,0,0,,Dhe së fundmi, supa e ftohtë e fasuleve\Nme fasule dhe tapioka...
+Dialogue: 0,0:06:42.42,0:06:44.01,Default,Judge 12,0,0,0,,Kjo është gjithashtu e shkëlqyer!
+Dialogue: 0,0:06:44.01,0:06:47.85,Default,Judge 12,0,0,0,,Është e ëmbël dhe e trashë në një mënyrë\Nmë të theksuar se shtresat e tjera.
+Dialogue: 0,0:06:47.85,0:06:51.52,Default,Judge 12,0,0,0,,Dhe trashësia nxjerr\Nkëtë ngjyrë të bukur vjollcë të lehtë.
+Dialogue: 0,0:06:51.52,0:06:54.94,Default,Kiriko,0,0,0,,Përdora taro. Edhe fasulet\Nkontribuojnë në ngjyrosje.
+Dialogue: 0,0:06:54.94,0:06:57.23,Default,Judge 10,0,0,0,,Është natyrshëm e trashë nga përbërësit,
+Dialogue: 0,0:06:57.23,0:07:00.01,Default,Judge 10,0,0,0,,ndaj nuk është e rëndë, pavarësisht dendësisë.
+Dialogue: 0,0:07:00.01,0:07:01.90,Default,Judge 10,0,0,0,,Është e freskët dhe kaq e lehtë për t'u ngrënë.
+Dialogue: 0,0:07:01.90,0:07:04.28,Default,Judge 9,0,0,0,,Ky është një përzierje interesante fasulet.
+Dialogue: 0,0:07:04.28,0:07:07.57,Signs,Sign,0,0,0,,HONG DOU, MEI DOU, JI DOU, LU DOU, YAO DOU
+Dialogue: 0,0:07:04.28,0:07:07.57,Default,Judge 9,0,0,0,,Madhësitë e tyre të ndryshme do të thotë\Nkohë gatimi të ndryshme.
+Dialogue: 0,0:07:07.57,0:07:10.87,Default,Judge 9,0,0,0,,Duhej të llogaritje saktësisht\Nse kur t'i shtoje dhe në çfarë rendi.
+Dialogue: 0,0:07:10.87,0:07:13.52,Default,Judge 9,0,0,0,,Pavarësisht se po bëje\Ntre lloje ëmbëlsirash,
+Dialogue: 0,0:07:13.52,0:07:15.89,Default,Judge 9,0,0,0,,procesi yt për të gjitha ishte\Nsi me orë.
+Dialogue: 0,0:07:15.89,0:07:19.00,Default,Judge 3,0,0,0,,Tre shtresat e shalqirit\Nishin gjithashtu një ide mjaft inovative.
+Dialogue: 0,0:07:19.87,0:07:21.35,Default,Judge 10,0,0,0,,Megjithatë...
+Dialogue: 0,0:07:21.35,0:07:23.94,Default,Judge 10,0,0,0,,Lë vend për përmirësim.
+Dialogue: 0,0:07:25.58,0:07:26.43,Default,Kiriko,0,0,0,,Hë?
+Dialogue: 0,0:07:26.43,0:07:29.27,Default,Judge 12,0,0,0,,E drejtë. Ta them pozitivisht,\Ndo ta quaja një kryevepër teknike.
+Dialogue: 0,0:07:29.27,0:07:30.94,Default,Judge 8,0,0,0,,Më pak dashamirësisht, është imituese.
+Dialogue: 0,0:07:30.94,0:07:35.73,Default,Judge 8,0,0,0,,Është më shumë një përzierje\Nëmbëlsirash ekzistuese.
+Dialogue: 0,0:07:35.73,0:07:39.25,Default,Judge 11,0,0,0,,Përdore ndjeshmëri moderne për\Nt'i paketuar të gjitha mrekullueshëm, por...
+Dialogue: 0,0:07:39.25,0:07:43.21,Default,Judge 11,0,0,0,,Pavarësisht se na dhatë tre oferta,\Nndryshimi mes tyre nuk është i dukshëm.
+Dialogue: 0,0:07:43.21,0:07:46.45,Default,Judge 2,0,0,0,,Jam dakord. Një variacion më i theksuar\Ni shijeve do të kishte ndihmuar.
+Dialogue: 0,0:07:47.61,0:07:52.87,Default,Judge 9,0,0,0,,Nuk do ta krahasoja me ëmbëlsirën\Nikonoklaste me gjak të Akiyama, por...
+Dialogue: 0,0:07:52.87,0:07:55.06,Default,Judge 1,0,0,0,,Pyes veten çfarë ndodhi\Nme kreativitetin inspirues
+Dialogue: 0,0:07:55.06,0:07:58.46,Default,Judge 1,0,0,0,,që tregove kur\Nbëre shanhu mian.
+Dialogue: 0,0:07:58.78,0:08:01.01,Main - Italics,Kiriko,0,0,0,,Prit, nuk kuptoni!
+Dialogue: 0,0:08:01.01,0:08:02.53,Main - Italics,Kiriko,0,0,0,,Ky nuk ishte kurrë qëllimi im.
+Dialogue: 0,0:08:02.53,0:08:05.07,Main - Italics,Kiriko,0,0,0,,Nuk po përpiqesha të isha\Ninovative apo krijuese...
+Dialogue: 0,0:08:05.07,0:08:07.96,Main - Italics,Kiriko,0,0,0,,Nuk ishte me atë që\Nkërkoja të konkurroja!
+Dialogue: 0,0:08:07.96,0:08:09.22,Default,Otani,0,0,0,,Hej tani.
+Dialogue: 0,0:08:09.22,0:08:12.39,Default,Otani,0,0,0,,Prit pak, të gjithë.
+Dialogue: 0,0:08:12.39,0:08:13.96,Default,Judge 9,0,0,0,,Otani-san?
+Dialogue: 0,0:08:12.96,0:08:13.96,Main - Top,Judge 14,0,0,0,,Otani-sensei?
+Dialogue: 0,0:08:13.96,0:08:18.45,Default,Otani,0,0,0,,Mendoni se ëmbëlsira e Gobancho-s nuk është\Nmjaft unike? Nuk jam dakord.
+Dialogue: 0,0:08:18.45,0:08:21.40,Default,Otani,0,0,0,,Mendoj se të gjithë po nuk po shihni\Ndiçka kritike këtu.
+Dialogue: 0,0:08:21.40,0:08:22.56,Main - Italics,Kiriko,0,0,0,,Otani...?
+Dialogue: 0,0:08:22.56,0:08:25.19,Main - Italics,Otani,0,0,0,,Tani shiko këtë, Akiyama.
+Dialogue: 0,0:08:25.19,0:08:29.49,Main - Italics,Otani,0,0,0,,Kurrë nuk do të të lejoj të fitosh!
+Dialogue: 0,0:08:33.46,0:08:37.79,Default,Otani,0,0,0,,Tani, ëmbëlsira servohet në fund\Ntë një vakti të plotë, apo jo?
+Dialogue: 0,0:08:38.79,0:08:42.52,Default,Otani,0,0,0,,Ëmbëlsirat e rënda nuk janë të mira për njerëzit\Nme stomakun tashmë plot!
+Dialogue: 0,0:08:42.52,0:08:43.73,Default,Otani,0,0,0,,Mendoje në mënyrën tjetër!
+Dialogue: 0,0:08:43.73,0:08:46.09,Default,Otani,0,0,0,,Ndonjëherë vjen\Nte ëmbëlsira pa vend të lirë.
+Dialogue: 0,0:08:46.09,0:08:49.12,Default,Otani,0,0,0,,Këto tri ëmbëlsira,\Nsecila veçmas e pasur,
+Dialogue: 0,0:08:49.12,0:08:52.69,Default,Otani,0,0,0,,të japin opsione për të zgjedhur!
+Dialogue: 0,0:08:52.69,0:08:57.93,Default,Otani,0,0,0,,A nuk po e anashkalojmë pikërisht atë\Nkonsideratë për darkuesin?
+Dialogue: 0,0:08:57.93,0:08:59.39,Default,Otani,0,0,0,,Çfarë thoni?!
+Dialogue: 0,0:08:59.97,0:09:04.19,Default,Judge 9,0,0,0,,E kuptoj. Kjo lidhet edhe me\N"shi wei tian" mbi enët.
+Dialogue: 0,0:09:05.36,0:09:09.19,Default,Otani,0,0,0,,Këmbëngul se nuk duhet t'i lejojmë\Nvezët e Akiyama-s t'u hedhin hi syve!
+Dialogue: 0,0:09:09.19,0:09:15.19,Default,Otani,0,0,0,,Kjo ëmbëlsirë ka diçka që pjata e tij arrogante\Nnuk e ka: mirësi dhe konsideratë!
+Dialogue: 0,0:09:15.19,0:09:16.45,Default,Otani,0,0,0,,Nuk do të thuash ti?
+Dialogue: 0,0:09:16.83,0:09:20.46,Default,Otani,0,0,0,,Ato vezët me gjak janë\Nkrejt vulgare në krahasim!
+Dialogue: 0,0:09:22.00,0:09:23.50,Default,Judge 1,0,0,0,,Një pikë e drejtë...
+Dialogue: 0,0:09:23.94,0:09:26.52,Main - Italics,Kiriko,0,0,0,,Ai përshkroi saktësisht atë që kërkoja.
+Dialogue: 0,0:09:26.52,0:09:28.61,Main - Italics,Kiriko,0,0,0,,Qëllimi im me këtë ëmbëlsirë ishte të luaja
+Dialogue: 0,0:09:28.61,0:09:31.05,Main - Italics,Kiriko,0,0,0,,me variablat e ëmbëlsisë, teksturës\Ndhe trashësisë.
+Dialogue: 0,0:09:31.05,0:09:34.51,Main - Italics,Kiriko,0,0,0,,Sado që e urrej{\i0}që pikërisht ky djalë{\i1}\Ne theksoi...
+Dialogue: 0,0:09:35.76,0:09:37.53,Default,Jan,0,0,0,,Çfarë marrëzie!
+Dialogue: 0,0:09:38.85,0:09:43.51,Default,Jan,0,0,0,,Hej, Otani. Për dikë që nuk mund\Ntë flasë për shijen e ëmbëlsirës sime me gjak,
+Dialogue: 0,0:09:43.51,0:09:47.15,Default,Jan,0,0,0,,sigurisht që nuk u përmbaje\Nkur po e haje!
+Dialogue: 0,0:09:47.15,0:09:49.63,Default,Jan,0,0,0,,Dhe pasi e zbulove veten\Npër atë që je,
+Dialogue: 0,0:09:49.63,0:09:52.36,Default,Jan,0,0,0,,tani do të flasësh për\N"mirësi dhe konsideratë"?
+Dialogue: 0,0:09:52.36,0:09:56.28,Default,Jan,0,0,0,,Kujt mendon se po i hedh?!\NËshtë ndonjë skemë kjo?
+Dialogue: 0,0:09:56.28,0:09:57.91,Default,Jan,0,0,0,,Edhe ju të tjerët nuk jeni më mirë!
+Dialogue: 0,0:09:57.91,0:09:59.53,Default,Jan,0,0,0,,Zbukuroni sa të doni,
+Dialogue: 0,0:09:59.53,0:10:02.80,Default,Jan,0,0,0,,por jeni të gjithë thjesht një bandë\Ngrykësish të pangopur!
+Dialogue: 0,0:10:02.80,0:10:05.88,Default,Jan,0,0,0,,Apo e harruat tashmë\Nsi po mbushnit fytyrat?!
+Dialogue: 0,0:10:08.34,0:10:10.17,Default,Jan,0,0,0,,Hej, Kiriko!
+Dialogue: 0,0:10:14.83,0:10:17.30,Default,Jan,0,0,0,,Ke mbaruar!
+Dialogue: 0,0:10:20.06,0:10:24.96,Default,MC,0,0,0,,T-Tani, e fundit është pjata e Celene Yang.
+Dialogue: 0,0:10:24.96,0:10:25.98,Default,Celene,0,0,0,,E drejtë!
+Dialogue: 0,0:10:27.00,0:10:31.23,Main - Italics,Celene,0,0,0,,Vezë gjaku pëllumbi?\NTri opsione shalqiri?
+Dialogue: 0,0:10:32.13,0:10:34.95,Main - Italics,Celene,0,0,0,,Shikojeni nouvelle chinois\Ntë Celene Yang...
+Dialogue: 0,0:10:36.45,0:10:39.00,Main - Italics,Celene,0,0,0,,Askush nuk mund të krahasohet!
+Dialogue: 0,0:10:40.23,0:10:41.24,Default,Judge 13,0,0,0,,E pabesueshme.
+Dialogue: 0,0:10:41.24,0:10:43.74,Default,Judge 14,0,0,0,,Çfarë prezantimi glamur.
+Dialogue: 0,0:10:43.74,0:10:45.68,Default,Celene,0,0,0,,Mugua xue ge ju bu dian.
+Dialogue: 0,0:10:45.67,0:10:48.92,Signs,Sign,0,0,0,,MUGUA XUE GE JU BU DIAN
+Dialogue: 0,0:10:45.68,0:10:48.92,Default,Celene,0,0,0,,Papaja nën puding të pjekur\Nme xue ge.
+Dialogue: 0,0:10:48.92,0:10:50.21,Default,Judge 6,0,0,0,,Është kaq e lezetshme!
+Dialogue: 0,0:10:50.21,0:10:52.80,Default,Judge 11,0,0,0,,Vërtet po shkëlqen. Sa e bukur.
+Dialogue: 0,0:10:55.30,0:10:59.26,Main - Italics,Otani,0,0,0,,Në rregull, ja ku shkojmë. Kjo duhet të mjaftojë.
+Dialogue: 0,0:10:59.93,0:11:04.02,Default,Otani,0,0,0,,Epo, çfarë ëmbëlsire ëndërrimtare kemi këtu!
+Dialogue: 0,0:11:04.02,0:11:08.91,Default,Otani,0,0,0,,Shikojeni, njerëz! Si shkëlqen\Nky skulpturë sheqeri si rrjetë!
+Dialogue: 0,0:11:08.15,0:11:11.02,Signs,Sign,0,0,0,,SKULPTURË SHEQERI: E BËRË DUKE KOMBINUAR\NSHEQER, SHURUP MISRI DHE UJË,\NDUKE E NGROHUR DHE FTOHUR PËR TA FORMËSUAR
+Dialogue: 0,0:11:08.91,0:11:11.02,Default,Otani,0,0,0,,Dhe a nuk doli e mrekullueshme?
+Dialogue: 0,0:11:11.02,0:11:14.28,Default,Otani,0,0,0,,E bërë mjeshtërisht! Është vërtet diçka.
+Dialogue: 0,0:11:15.28,0:11:18.45,Default,Otani,0,0,0,,Dhe a nuk është mënyra si shihet\Ne bukura brenda diçka e veçantë?
+Dialogue: 0,0:11:18.45,0:11:23.12,Default,Otani,0,0,0,,Ato petale trëndafili janë\Nnjë prekje thjesht e shkëlqyer!
+Dialogue: 0,0:11:23.47,0:11:25.19,Default,Otani,0,0,0,,A nuk jeni dakord, njerëz?
+Dialogue: 0,0:11:26.65,0:11:28.73,Default,Otani,0,0,0,,Pikërisht ajo që prisja nga nouvelle chinois!
+Dialogue: 0,0:11:28.73,0:11:31.09,Default,Otani,0,0,0,,Një vepër e vërtetë arti,\Ne tjerrë mbi kanavacën e bardhë të një pjate.
+Dialogue: 0,0:11:31.09,0:11:33.45,Default,Otani,0,0,0,,Dhe këto lule—
+Dialogue: 0,0:11:31.88,0:11:34.37,Main - Top,Celene,0,0,0,,Ju lutem, provojeni.
+Dialogue: 0,0:11:36.05,0:11:38.64,Main - Italics,Celene,0,0,0,,Çfarë ka me të?\NAs nuk e ka ngrënë ende.
+Dialogue: 0,0:11:39.35,0:11:41.29,Default,Judge 7,0,0,0,,Epo, le t'i japim një shije.
+Dialogue: 0,0:11:41.29,0:11:42.14,Default,Judge 11,0,0,0,,E drejtë.
+Dialogue: 0,0:11:47.19,0:11:49.71,Default,Judge 9,0,0,0,,Oh, sa interesante. Kjo është—
+Dialogue: 0,0:11:49.71,0:11:52.27,Default,Otani,0,0,0,,Sa interesante! Kjo është e shijshme!
+Dialogue: 0,0:11:54.12,0:11:57.07,Default,Otani,0,0,0,,Kjo papaja e pjekur është e shkëlqyer, për fillim.
+Dialogue: 0,0:11:57.07,0:12:00.35,Default,Otani,0,0,0,,E gatuar kështu, ëmbëlsia\Ndhe aroma përqendrohen!
+Dialogue: 0,0:12:00.35,0:12:04.50,Default,Otani,0,0,0,,Por është ende e lëngshme!\NNjë shije e bukur tropikale.
+Dialogue: 0,0:12:04.50,0:12:08.64,Default,Otani,0,0,0,,Është si qielli blu dhe deti i\Ntropikëve po përhapen në gojën time!
+Dialogue: 0,0:12:08.64,0:12:10.28,Default,Otani,0,0,0,,Dhe pastaj kjo!
+Dialogue: 0,0:12:12.13,0:12:13.38,Default,Otani,0,0,0,,Xue ga!
+Dialogue: 0,0:12:13.38,0:12:15.22,Default,Otani,0,0,0,,Ovidukti i bretkosës!
+Dialogue: 0,0:12:15.22,0:12:20.64,Default,Otani,0,0,0,,Ka atë teksturë delikate e të butë!\NPa asnjë shije peshku!
+Dialogue: 0,0:12:20.64,0:12:22.89,Default,Otani,0,0,0,,A e dini këtë, njerëz?!
+Dialogue: 0,0:12:22.89,0:12:25.14,Default,Otani,0,0,0,,Xue ge është e mirë për trup të dobët!
+Dialogue: 0,0:12:25.14,0:12:28.34,Default,Otani,0,0,0,,Ka përfitime medicinale\Npër fytin dhe mushkëritë!
+Dialogue: 0,0:12:28.34,0:12:31.39,Default,Otani,0,0,0,,Kjo është ideja ime\Ne një diete të balancuar e të shëndetshme!
+Dialogue: 0,0:12:33.41,0:12:34.23,Default,Judge 7,0,0,0,,Vërtet ashtu.
+Dialogue: 0,0:12:35.28,0:12:39.20,Main - Italics,Celene,0,0,0,,Çfarë ka me të?\NTani po përpiqet ta lavdërojë pjatën time.
+Dialogue: 0,0:12:39.20,0:12:42.84,Default,Otani,0,0,0,,Nuk mund të them se kam ngrënë ndonjëherë një ëmbëlsirë më të mirë.
+Dialogue: 0,0:12:42.84,0:12:46.32,Main - Italics,Otani,0,0,0,,S'ka rëndësi çfarë duhet,\Nnuk do ta lejoj Akiyama të fitojë.
+Dialogue: 0,0:12:46.32,0:12:50.79,Main - Italics,Otani,0,0,0,,Duhet t'i bind të tjerët\Nse kjo ëmbëlsirë është më e mirë.
+Dialogue: 0,0:12:51.28,0:12:54.68,Main - Italics,Otani,0,0,0,,Zëri im ka autoritet hyjnor...
+Dialogue: 0,0:12:44.85,0:12:47.70,Main - Top,Otani,0,0,0,,Prezantim dhe shije të përsosura!
+Dialogue: 0,0:12:47.70,0:12:52.79,Main - Top,Otani,0,0,0,,Është fitore e kreativitetit.\NDo ta haja sa herë të kisha mundësi!
+Dialogue: 0,0:12:55.86,0:13:00.09,Default,Judge 6,0,0,0,,Ugh! Është kaq e butë, e neveritshme!
+Dialogue: 0,0:13:05.01,0:13:07.52,Default,Judge 6,0,0,0,,Oviduktet e një bretkose?!
+Dialogue: 0,0:13:07.52,0:13:09.47,Default,Judge 6,0,0,0,,Nuk mendoj se mund të ha më!
+Dialogue: 0,0:13:09.47,0:13:13.15,Default,Judge 6,0,0,0,,Thjesht duket e neveritshme dhe me shije peshku!
+Dialogue: 0,0:13:13.89,0:13:18.90,Default,Otani,0,0,0,,Ku dreqin e ke mendjen,\No budallaqe?!
+Dialogue: 0,0:13:18.90,0:13:20.76,Default,Otani,0,0,0,,As shijen nuk e vlerëson!
+Dialogue: 0,0:13:20.76,0:13:23.11,Default,Otani,0,0,0,,Ankohesh se është e butë\Ndhe të neverit?!
+Dialogue: 0,0:13:23.11,0:13:24.99,Default,Judge 6,0,0,0,,Por vërtet është e butë!
+Dialogue: 0,0:13:24.99,0:13:28.40,Default,Otani,0,0,0,,Nuk je i aftë të vlerësosh asgjë!\NTë dua larg!
+Dialogue: 0,0:13:28.95,0:13:30.29,Default,Judge 12,0,0,0,,Ndal, Otani-san!
+Dialogue: 0,0:13:31.79,0:13:34.29,Default,Judge 12,0,0,0,,Nuk je i vetmi gjyqtar\Nnë këtë garë!
+Dialogue: 0,0:13:36.29,0:13:38.34,Default,Judge 12,0,0,0,,Më duhet të pyes, Yang.
+Dialogue: 0,0:13:38.82,0:13:42.34,Default,Judge 12,0,0,0,,A mendove vërtet se një përbërës i tillë\Ndo të ishte popullor mes masave?
+Dialogue: 0,0:13:43.38,0:13:46.25,Default,Judge 12,0,0,0,,Nuk mendove se disa\Ndarkues do të hezitonin
+Dialogue: 0,0:13:46.25,0:13:48.97,Default,Judge 12,0,0,0,,kur të mësonin se xue ge është ovidukti i bretkosës?
+Dialogue: 0,0:13:49.72,0:13:52.92,Default,Judge 12,0,0,0,,A do të përfshije një artikull të tillë\Nnë menynë e restorantit tënd?
+Dialogue: 0,0:13:52.92,0:13:57.12,Default,Judge 12,0,0,0,,Puding me xue ge, ovidukt bretkose?
+Dialogue: 0,0:13:57.86,0:13:59.43,Default,Celene,0,0,0,,Epo...
+Dialogue: 0,0:13:59.43,0:14:01.99,Default,Judge 12,0,0,0,,Kam frikë se kjo tërheq\Nshumë direkt gourmanët.
+Dialogue: 0,0:14:01.99,0:14:04.73,Default,Judge 12,0,0,0,,Nuk është lloji i gjësë\Nqë një darkues mesatar do ta vlerësonte.
+Dialogue: 0,0:14:04.73,0:14:06.22,Default,Judge 3,0,0,0,,Absolutisht.
+Dialogue: 0,0:14:06.22,0:14:07.66,Default,Judge 9,0,0,0,,Një përpjekje e mrekullueshme, pa dyshim.
+Dialogue: 0,0:14:11.26,0:14:14.40,Default,Jan,0,0,0,,Përpjekje e mirë, Otani-sensei.
+Dialogue: 0,0:14:14.40,0:14:16.79,Default,Jan,0,0,0,,E vlerësoj ndihmën.
+Dialogue: 0,0:14:18.07,0:14:19.38,Default,Otani,0,0,0,,Mbyll...
+Dialogue: 0,0:14:24.18,0:14:27.68,Default,Otani,0,0,0,,Mbyll gojën, o copë e vogël!
+Dialogue: 0,0:14:39.48,0:14:40.90,Default,Otani,0,0,0,,O mut! O copë e vogël!
+Dialogue: 0,0:14:41.34,0:14:44.91,Main - Italics,Otani,0,0,0,,Gjithçka... Është e gjitha faji i tij!
+Dialogue: 0,0:14:44.91,0:14:48.56,Main - Italics,Otani,0,0,0,,Nuk do të kishte arritur kurrë deri këtu\Npo të mos ishte ai!
+Dialogue: 0,0:14:48.56,0:14:53.08,Main - Italics,Otani,0,0,0,,Më luajti si violinë duke më bërë\Nbashkëpunëtor të pavullnetshëm!
+Dialogue: 0,0:14:53.08,0:14:59.14,Main - Italics,Otani,0,0,0,,Unë jam Otani Nichido! Duhet të jem\Nkritiku më i shquar i ushqimit!
+Dialogue: 0,0:14:59.14,0:15:02.55,Default,Otani,0,0,0,,Dhe ai... Ai mendon se mund të...
+Dialogue: 0,0:15:02.55,0:15:06.22,Default,Otani,0,0,0,,Ti djalë budalla!
+Dialogue: 0,0:15:14.64,0:15:18.42,Default,Otani,0,0,0,,Çfarë është kaq qesharake, o i pandershëm?!
+Dialogue: 0,0:15:18.42,0:15:21.27,Default,Otani,0,0,0,,Dreqi të marrtë! Dreqi të marrtë!
+Dialogue: 0,0:15:21.27,0:15:23.62,Main - Italics,Kiriko,0,0,0,,Askush nuk po përpiqet ta ndalojë Otanin.
+Dialogue: 0,0:15:23.62,0:15:27.86,Main - Italics,Celene,0,0,0,,Kjo tregon sa të ngopur janë\Ntë gjithë me arrogancën e Akiyama-s.
+Dialogue: 0,0:15:31.74,0:15:33.64,Default,Otani,0,0,0,,Më lëshoni, o krimba të vegjël!
+Dialogue: 0,0:15:33.64,0:15:35.60,Default,Otani,0,0,0,,Kujt mendoni se po trajtoni me forcë?!
+Dialogue: 0,0:15:35.60,0:15:37.24,Default,MC,0,0,0,,Mjafton kaq!
+Dialogue: 0,0:15:38.55,0:15:41.80,Default,MC,0,0,0,,Gjyqtari Otani Nichido, ju\Nme këtë përjashtoheni nga ambienti!
+Dialogue: 0,0:15:43.80,0:15:46.05,Default,Audience,0,0,0,,I përjashtuar?!
+Dialogue: 0,0:15:46.49,0:15:48.55,Default,Judge 12,0,0,0,,Nj-Një gjyqtar koleg...
+Dialogue: 0,0:15:48.85,0:15:50.12,Default,Judge 11,0,0,0,,I përjashtuar?
+Dialogue: 0,0:15:50.12,0:15:51.61,Default,Jan,0,0,0,,Otani!
+Dialogue: 0,0:15:52.18,0:15:54.10,Default,Jan,0,0,0,,Keq të vjen ty!
+Dialogue: 0,0:15:54.10,0:15:58.82,Default,Jan,0,0,0,,Tregove ngjyrat e vërteta\Nkur më sulmove! Ti humbe!
+Dialogue: 0,0:16:04.67,0:16:06.65,Default,Osawa,0,0,0,,N-Na vjen keq për atë shfaqje!
+Dialogue: 0,0:16:06.65,0:16:10.08,Default,Osawa,0,0,0,,Tani do të fillojmë degustimin\Npër gjyqtarët e publikut!
+Dialogue: 0,0:16:10.08,0:16:13.62,Default,Osawa,0,0,0,,Do të doja t'i kërkoja panelit të gjyqtarëve\Ntë kthehet në vendet e tyre.
+Dialogue: 0,0:16:20.28,0:16:21.29,Main - Italics,Kirko,0,0,0,,Çfarë është kjo?
+Dialogue: 0,0:16:21.29,0:16:26.17,Main - Italics,Celene,0,0,0,,Po e hanë ëmbëlsirën time... por\Nsollën me vete vezët me gjak të Akiyama-s?
+Dialogue: 0,0:16:26.63,0:16:30.22,Default,Jan,0,0,0,,Duket se vezët e mia me gjak janë hit i vërtetë.
+Dialogue: 0,0:16:30.22,0:16:32.98,Default,Jan,0,0,0,,Kjo do të thotë se janë tepër të frikësuar\Npër t'i lënë poshtë
+Dialogue: 0,0:16:32.98,0:16:35.81,Default,Jan,0,0,0,,sepse shqetësohen\Nse nuk do të marrin më!
+Dialogue: 0,0:16:38.86,0:16:42.94,Default,Osawa,0,0,0,,Është koha për rezultatet e gjysmës së dytë\Ntë finales, betejën e ëmbëlsirave!
+Dialogue: 0,0:16:42.94,0:16:47.19,Default,Osawa,0,0,0,,Së pari, si ka votuar publiku?!
+Dialogue: 0,0:16:48.08,0:16:49.95,Default,Osawa,0,0,0,,O Zot, shikojeni këtë!
+Dialogue: 0,0:16:49.95,0:16:54.00,Default,Osawa,0,0,0,,Trembëdhjetë pikë për Gobancho!\NTrembëdhjetë për Yang!
+Dialogue: 0,0:16:54.00,0:16:57.77,Default,Osawa,0,0,0,,Dhe Akiyama merr një 74 shokues!
+Dialogue: 0,0:16:57.77,0:17:00.25,Default,Osawa,0,0,0,,Çfarë fitoreje dërrmuese!
+Dialogue: 0,0:17:00.25,0:17:03.06,Default,Kiriko,0,0,0,,M-Mora vetëm trembëdhjetë pikë?!
+Dialogue: 0,0:17:03.06,0:17:04.90,Default,Celene,0,0,0,,Po tallesh!
+Dialogue: 0,0:17:04.90,0:17:09.80,Default,Jan,0,0,0,,Tch, jo rezultat i përsosur? Çfarë turpi!
+Dialogue: 0,0:17:09.80,0:17:13.79,Default,Osawa,0,0,0,,Rezultatet totale aktuale duke përfshirë\Npikët e raundit të parë...
+Dialogue: 0,0:17:14.64,0:17:19.39,Default,Osawa,0,0,0,,Gobancho ka 137! Yang ka 106!
+Dialogue: 0,0:17:19.39,0:17:22.51,Default,Osawa,0,0,0,,Dhe Akiyama ka 107!
+Dialogue: 0,0:17:22.51,0:17:24.67,Default,Osawa,0,0,0,,Është ngjitur në vendin e dytë!
+Dialogue: 0,0:17:24.67,0:17:27.92,Default,Osawa,0,0,0,,Nuk dihet se si mund\Ntë shkojë kjo, njerëz!
+Dialogue: 0,0:17:27.92,0:17:35.27,Default,Osawa,0,0,0,,Dhe tani është koha... për pikët\Nnga paneli i gjyqtarëve!
+Dialogue: 0,0:17:36.62,0:17:41.92,Flashback,Otani,0,0,0,,Dëgjoni, njerëz. E dini kë duhet\Nta kurorëzojmë fitues, apo jo?
+Dialogue: 0,0:17:42.58,0:17:44.21,Flashback,Judge 12,0,0,0,,Otani-san?
+Dialogue: 0,0:17:44.21,0:17:48.35,Flashback,Otani,0,0,0,,Ai bastard i vogël\Nna quajti "grykës të pangopur".
+Dialogue: 0,0:17:48.35,0:17:53.13,Flashback,Otani,0,0,0,,Nëse e lëmë të fitojë, do të bëhemi\Ntë qeshur. A gabohem?
+Dialogue: 0,0:17:53.13,0:17:57.04,Flashback,Judge 11,0,0,0,,Por si gjyqtar, synimi im është\Ntë jap një vlerësim të drejtë—
+Dialogue: 0,0:17:57.04,0:17:58.06,Flashback,Otani,0,0,0,,Budalla!
+Dialogue: 0,0:17:58.06,0:18:00.04,Flashback,Otani,0,0,0,,Ti budalla i plotë!
+Dialogue: 0,0:18:00.04,0:18:03.77,Flashback,Otani,0,0,0,,Një kuzhinier nuk bën thjesht pjata të shijshme!
+Dialogue: 0,0:18:03.77,0:18:05.74,Flashback,Otani,0,0,0,,Një kuzhinier që nuk i trajton\Nklientët si të ftuar?
+Dialogue: 0,0:18:05.74,0:18:07.73,Flashback,Otani,0,0,0,,Që tall gjyqtarët?
+Dialogue: 0,0:18:07.73,0:18:10.06,Flashback,Otani,0,0,0,,Një kuzhinier që fiton\Nme çdo mjet të nevojshëm?
+Dialogue: 0,0:18:10.06,0:18:13.61,Flashback,Otani,0,0,0,,Vërtet mendoni se i tillë i pandershëm\Nduhet të jetë kuzhinieri më i mirë kinez i Japonisë?!
+Dialogue: 0,0:18:14.25,0:18:18.43,Flashback,Otani,0,0,0,,Vërtet mendoni se ai\Ne meriton një titull të tillë?
+Dialogue: 0,0:18:18.43,0:18:22.96,Flashback,Otani,0,0,0,,Doni t'u thoni të gjithë kuzhinierëve të Japonisë\Nse ky tip i përfaqëson?
+Dialogue: 0,0:18:22.96,0:18:26.25,Flashback,Otani,0,0,0,,Doni t'i nxisni të bëhen si ai?!
+Dialogue: 0,0:18:26.25,0:18:27.21,Flashback,Otani,0,0,0,,Këtë doni?!
+Dialogue: 0,0:18:28.30,0:18:32.67,Flashback,Otani,0,0,0,,E kuptoni, apo jo?\NVotojmë për një kuzhinier...
+Dialogue: 0,0:18:34.45,0:18:36.36,Flashback,Otani,0,0,0,,E morët?
+Dialogue: 0,0:18:40.72,0:18:41.98,Default,Osawa,0,0,0,,E jashtëzakonshme!
+Dialogue: 0,0:18:41.98,0:18:46.37,Default,Osawa,0,0,0,,Tetëdhjetë pikë për Akiyama!\NPesëdhjetë për Gobancho!
+Dialogue: 0,0:18:46.37,0:18:49.40,Default,Osawa,0,0,0,,Dhe dhjetë për Yang?
+Dialogue: 0,0:18:49.40,0:18:50.97,Default,Celene,0,0,0,,Ç-Çfarë...?
+Dialogue: 0,0:18:50.97,0:18:52.52,Default,Celene,0,0,0,,Mora vetëm dhjetë pikë?!
+Dialogue: 0,0:18:53.00,0:18:54.45,Default,Jan,0,0,0,,Tani e shoh.
+Dialogue: 0,0:18:54.45,0:19:01.05,Default,Jan,0,0,0,,Duket se gjyqtarët ngritën\Npikët e Kirikos për të mos më lënë të fitoj.
+Dialogue: 0,0:19:01.05,0:19:03.12,Default,Jan,0,0,0,,Çfarë loje e pandershme.
+Dialogue: 0,0:19:03.12,0:19:06.15,Default,Osawa,0,0,0,,D-Dhe ja rezultatet totale!
+Dialogue: 0,0:19:06.15,0:19:09.65,Default,Osawa,0,0,0,,Akiyama Jan ka 187 pikë!
+Dialogue: 0,0:19:09.65,0:19:13.33,Default,Osawa,0,0,0,,Gobancho Kiriko ka 187 pikë!
+Dialogue: 0,0:19:13.33,0:19:17.43,Default,Osawa,0,0,0,,Barazim! Është barazim, por...
+Dialogue: 0,0:19:17.84,0:19:19.55,Default,Yaichi,0,0,0,,Barazim?!
+Dialogue: 0,0:19:20.03,0:19:22.54,Main - Italics,Kiriko,0,0,0,,Jam e barabartë me Akiyama?!
+Dialogue: 0,0:19:27.06,0:19:29.63,Default,Jan,0,0,0,,Kjo është qesharake! Barazim, hë?
+Dialogue: 0,0:19:29.63,0:19:31.95,Default,Jan,0,0,0,,Pra, si e vendosim fituesin tani?
+Dialogue: 0,0:19:31.95,0:19:36.82,Default,Jan,0,0,0,,Marr me mend duhet të shkojmë në vdekje të papritur\Ndhe të rivlerësohen pikët?
+Dialogue: 0,0:19:38.34,0:19:39.98,Main - Italics,Kiriko,0,0,0,,Vdekje e papritur?
+Dialogue: 0,0:19:39.98,0:19:43.37,Main - Italics,Kiriko,0,0,0,,Në rregull për mua.\NDo të luftoj me të një nga një dhe do të fitoj!
+Dialogue: 0,0:19:44.20,0:19:45.50,Default,Judge 14,0,0,0,,Barazim...
+Dialogue: 0,0:19:45.84,0:19:47.68,Default,Judge 12,0,0,0,,Vdekja e papritur, atëherë.
+Dialogue: 0,0:19:47.68,0:19:49.30,Default,Osawa,0,0,0,,M-Më falni...
+Dialogue: 0,0:19:49.71,0:19:53.42,Default,Osawa,0,0,0,,Paneli ka dorëzuar vetëm 140 pikë.
+Dialogue: 0,0:19:53.42,0:19:55.92,Default,Osawa,0,0,0,,Kjo është vetëm sa katërmbëdhjetë gjyqtarë.
+Dialogue: 0,0:19:55.92,0:19:57.30,Default,Judge 7,0,0,0,,Katërmbëdhjetë?
+Dialogue: 0,0:19:57.30,0:19:58.68,Default,Judge 8,0,0,0,,Por si?
+Dialogue: 0,0:20:00.72,0:20:05.60,Default,Osawa,0,0,0,,E drejtë! Na mungojnë pikët\Ne gjyqtarit Otani, që u përjashtua.
+Dialogue: 0,0:20:08.65,0:20:11.39,Default,Otani,0,0,0,,Do ta zgjidh unë!
+Dialogue: 0,0:20:11.89,0:20:13.90,Default,Judge 12,0,0,0,,O-Otani-san?
+Dialogue: 0,0:20:13.90,0:20:17.14,Default,Otani,0,0,0,,Dhjetë pikët e mia shkojnë për Gobancho Kiriko!
+Dialogue: 0,0:20:17.14,0:20:18.80,Default,Otani,0,0,0,,Ka ndonjë problem me këtë?!
+Dialogue: 0,0:20:18.80,0:20:21.72,Default,Otani,0,0,0,,Ndoshta u përjashtova për dhunë,
+Dialogue: 0,0:20:21.72,0:20:24.85,Default,Otani,0,0,0,,por kjo nuk është e njëjta gjë me\Nheqjen e pozicionit tim të gjyqtarit!
+Dialogue: 0,0:20:24.85,0:20:25.81,Default,Staff 1,0,0,0,,Mjafton!
+Dialogue: 0,0:20:25.81,0:20:27.46,Default,Staff 2,0,0,0,,Kthehu!
+Dialogue: 0,0:20:28.25,0:20:30.70,Default,Otani,0,0,0,,Duket se përsëri humbe,\No copë e vogël!
+Dialogue: 0,0:20:30.70,0:20:32.79,Default,Otani,0,0,0,,As vdekje e papritur për ty!
+Dialogue: 0,0:20:32.79,0:20:37.97,Default,Otani,0,0,0,,Është 197 me 187, me fitoren\Nqë shkon për Gobancho Kiriko!
+Dialogue: 0,0:20:37.97,0:20:41.18,Default,Otani,0,0,0,,Akiyama Jan... ti humbe.
+Dialogue: 0,0:20:57.65,0:20:59.64,Default,Takao,0,0,0,,Hej! Jan!
+Dialogue: 0,0:21:00.57,0:21:02.07,Default,Takao,0,0,0,,Hej atje!
+Dialogue: 0,0:21:03.20,0:21:04.27,Default,Jan,0,0,0,,Okonogi?
+Dialogue: 0,0:21:04.27,0:21:05.72,Default,Takao,0,0,0,,Kisha të drejtë!
+Dialogue: 0,0:21:05.72,0:21:09.04,Default,Takao,0,0,0,,Do të shkoje në shtëpi pa\Nmarrë pjesë në ceremoninë e çmimeve.
+Dialogue: 0,0:21:09.40,0:21:12.21,Default,Takao,0,0,0,,Mendova se mund të kishe\Nqarë, por dukesh mirë.
+Dialogue: 0,0:21:12.21,0:21:15.09,Default,Jan,0,0,0,,Vërtet mendove kështu? Budalla.
+Dialogue: 0,0:21:19.01,0:21:21.68,Default,Kiriko,0,0,0,,Të fitosh kështu nuk është e drejtë!
+Dialogue: 0,0:21:22.28,0:21:23.30,Default,Kiriko,0,0,0,,Dreqin!
+Dialogue: 0,0:21:23.30,0:21:27.10,Default,Kiriko,0,0,0,,Herën tjetër, do të fitoj në një mënyrë\Nqë është e qartë për të gjithë!
+Dialogue: 0,0:21:27.10,0:21:29.06,Signs,Sign,0,0,0,,VENDI I TRETË: CELENE YANG\NNGA SEA DRAGON, KOBE
+Dialogue: 0,0:21:31.94,0:21:35.06,Default,Celene,0,0,0,,Ndjesia është reciproke, Kiriko-chan.
+Dialogue: 0,0:21:37.51,0:21:41.32,Default,Celene,0,0,0,,Mendoj se do të përplasemi\Npërsëri së shpejti.
+Dialogue: 0,0:21:43.25,0:21:47.22,Default,Celene,0,0,0,,Hajde, mos u bëj e hidhëruar!\NKëtë e fitove, apo jo?
+Dialogue: 0,0:21:47.22,0:21:49.83,Default,Celene,0,0,0,,Duhet të dukesh në lartësinë e saj! Vazhdo.
+Dialogue: 0,0:21:52.85,0:21:56.34,Default,Judge 12,0,0,0,,Marr me mend mund ta anashkalojmë\Natë grushtin e Akiyama-s.
+Dialogue: 0,0:21:56.34,0:21:59.88,Default,Judge 9,0,0,0,,Një e mirë për një të keqe. Le ta quajmë të barabartë.
+Dialogue: 0,0:22:01.04,0:22:03.76,Default,Takao,0,0,0,,Dëshiron të hash diçka\Ndhe pastaj të kthehemi?
+Dialogue: 0,0:22:03.76,0:22:04.76,Default,Jan,0,0,0,,Sigurisht.
+Dialogue: 0,0:22:05.36,0:22:09.78,Default,Takao,0,0,0,,Ishte kaq e mahnitshme, megjithatë!\NAjo ëmbëlsira jote me gjak pëllumbi.
+Dialogue: 0,0:22:10.31,0:22:11.69,Default,Crowd,0,0,0,,Ka një atje!
+Dialogue: 0,0:22:11.69,0:22:12.66,Default,Crowd,0,0,0,,Mos e lër të shpëtojë!
+Dialogue: 0,0:22:12.66,0:22:14.56,Default,Crowd,0,0,0,,Sigurohuni t'i kapni!
+Dialogue: 0,0:22:16.02,0:22:17.32,Default,Crowd,0,0,0,,Pëllumba!
+Dialogue: 0,0:22:17.32,0:22:18.19,Default,Crowd,0,0,0,,Kapini!
+Dialogue: 0,0:22:18.19,0:22:19.73,Default,Crowd,0,0,0,,Refikini nga ana tjetër!
+Dialogue: 0,0:22:19.73,0:22:22.86,Default,Crowd,0,0,0,,Do të bëj edhe unë një ëmbëlsirë\Nme gjak pëllumbi!
+Dialogue: 0,0:22:25.74,0:22:27.95,Default,Takao,0,0,0,,Pyes veten nëse Kiriko-san po e shikon.
+Dialogue: 0,0:22:27.95,0:22:29.36,Default,Jan,0,0,0,,Ndoshta.
+Dialogue: 0,0:22:39.71,0:22:43.72,Main - Italics,Narrator,0,0,0,,{\i0}Iron Wok Jan{\i1}Pjesa 1, fund!
+Dialogue: 0,0:22:39.71,0:22:43.72,Signs,Sign,0,0,0,,KAMPIONE: GOBANCHO KIRIKO\NVENDI I DYTË: AKIYAMA JAN
+Dialogue: 0,0:22:43.73,0:22:46.74,Signs,Sign,0,0,0,,EPISODI 12: MAKTHET,\NPASUAR NGA QIEJ TË KTHJELLËT!
+Dialogue: 0,0:23:50.81,0:23:52.31,Signs,Credits,0,0,0,,Përktheu: Lee Francis
+Dialogue: 0,0:23:52.31,0:23:53.81,Signs,Credits,0,0,0,,Kohëmatja: Mariana Martinez\NRedaktimi: Riley Dalton
+Dialogue: 0,0:23:53.81,0:23:55.31,Signs,Credits,0,0,0,,Kontrolli i cilësisë: SMR\NKontrolli i përkthimit: Michelle Tymon
+
