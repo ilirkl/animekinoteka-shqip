@@ -1,0 +1,376 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+PlayResX: 640
+WrapStyle: 0
+Video Aspect Ratio: 0
+Video Zoom: 8
+PlayResY: 360
+YCbCr Matrix: TV.601
+ScaledBorderAndShadow: yes
+
+[Aegisub Project Garbage]
+Audio File: CR_BlackTorch_S1.0E12.0_BCKSIM0012_377932_video_ja-jp_J8800480.mp4
+Video File: CR_BlackTorch_S1.0E12.0_BCKSIM0012_377932_video_ja-jp_J8800480.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Scroll Position: 195
+Active Line: 7
+Video Position: 2910
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,1,1,15,0
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: On Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: DefaultLow,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:07.68,0:00:10.06,Default,,0,0,0,,Ka shekuj që...
+Dialogue: 0,0:00:10.35,0:00:12.81,Default,,0,0,0,,Të ndjej përsëri atë fuqi\Nluksoze që rrjedh në damarët e mi...
+Dialogue: 0,0:00:13.48,0:00:14.98,Default,,0,0,0,,I tejkaluat pritshmëritë e mia.
+Dialogue: 0,0:00:15.10,0:00:18.57,Default,,0,0,0,,Jo, ju shkoni përtej imagjinatës,\NJiro Azuma.
+Dialogue: 0,0:00:20.53,0:00:23.70,Default,,0,0,0,,Do të të sfidoj, trup e shpirt.
+Dialogue: 0,0:01:56.08,0:01:58.96,Default,,0,0,0,,Epo, koha më në fund erdhi.
+Dialogue: 0,0:01:59.75,0:02:01.17,Default,,0,0,0,,A fiton njeriu?
+Dialogue: 0,0:02:01.33,0:02:02.71,Default,,0,0,0,,Apo perandoria më përket mua?
+Dialogue: 0,0:02:03.42,0:02:05.38,Default,,0,0,0,,E vërteta do të zbulohet.
+Dialogue: 0,0:02:40.54,0:02:41.50,Default,,0,0,0,,Dreq...
+Dialogue: 0,0:02:42.71,0:02:44.63,Default,,0,0,0,,Dije se ky nuk është duel.
+Dialogue: 0,0:02:45.25,0:02:46.80,Default,,0,0,0,,Ky është një fis kundër tjetrit...
+Dialogue: 0,0:02:47.76,0:02:49.26,Default,,0,0,0,,Një luftë llojesh!
+Dialogue: 0,0:02:50.01,0:02:52.68,Default,,0,0,0,,Mbi grushtat tanë qëndrojnë jetët
+Dialogue: 0,0:02:53.05,0:02:55.76,Default,,0,0,0,,dhe shpirtrat e individëve të panumërt.
+Dialogue: 0,0:02:56.18,0:02:57.89,Default,,0,0,0,,Në të vërtetë, lëngimi juaj provon
+Dialogue: 0,0:02:58.02,0:03:00.27,Default,,0,0,0,,se budallenjtë që të kanë besuar\Ntë ardhmen e tyre janë...
+Dialogue: 0,0:03:03.69,0:03:05.40,Default,,0,0,0,,Do të të mbyll gojën!
+Dialogue: 0,0:03:05.90,0:03:06.98,Default,,0,0,0,,Bravo!
+Dialogue: 0,0:03:07.90,0:03:09.40,Default,,0,0,0,,Më trego dëshpërim...
+Dialogue: 0,0:03:09.49,0:03:10.74,Default,,0,0,0,,Hajde, lufto mbrapsht!
+Dialogue: 0,0:03:11.70,0:03:13.32,Default,,0,0,0,,Më lër të shoh zemërimin tënd!
+Dialogue: 0,0:03:13.36,0:03:15.99,Default,,0,0,0,,Lëre cipën e fundit të\Nkontrollit trupëror të digjet në harresë...
+Dialogue: 0,0:03:16.33,0:03:17.83,Default,,0,0,0,,Përqafo ledhatimin e avullit të errët...
+Dialogue: 0,0:03:17.87,0:03:20.21,Default,,0,0,0,,Prano pasionin përvëlues,\Npërdore si tëndin!
+Dialogue: 0,0:03:20.75,0:03:21.75,Default,,0,0,0,,Pra...
+Dialogue: 0,0:03:21.83,0:03:25.08,Default,,0,0,0,,Sa kohë do t'i rezistojë\Nnjerëzorja jote flakëve?
+Dialogue: 0,0:03:26.17,0:03:27.42,Default,,0,0,0,,Dhjetë minuta?
+Dialogue: 0,0:03:27.96,0:03:29.59,Default,,0,0,0,,Ndoshta pesë?
+Dialogue: 0,0:03:30.22,0:03:31.47,Default,,0,0,0,,Mjerisht, nuk ka rëndësi.
+Dialogue: 0,0:03:31.63,0:03:35.30,Default,,0,0,0,,Sepse në momentin që vullneti yt\Ni nënshtrohet flakës...
+Dialogue: 0,0:03:36.01,0:03:37.81,Default,,0,0,0,,Fitorja do të jetë e imja!
+Dialogue: 0,0:03:39.60,0:03:40.56,Default,,0,0,0,,Jiro!!
+Dialogue: 0,0:03:43.98,0:03:45.44,Default,,0,0,0,,E di shumë mirë.
+Dialogue: 0,0:03:45.73,0:03:48.32,Default,,0,0,0,,Do të duhet më shumë se kaq\Npër të të shuar.
+Dialogue: 0,0:03:48.90,0:03:53.32,Default,,0,0,0,,Nuk je më djali\Ni pushtuar nga mononoke.
+Dialogue: 0,0:03:53.95,0:03:58.83,Default,,0,0,0,,Je diçka tjetër,\Nnjë titan spektral pas lëkurës njerëzore.
+Dialogue: 0,0:03:59.58,0:04:02.58,Default,,0,0,0,,Jetoni në kufirin mes\Nnjeriut dhe mononoke.
+Dialogue: 0,0:04:03.41,0:04:06.58,Default,,0,0,0,,Një bishë e errët\Ne pasigurt dhe e ndezur.
+Dialogue: 0,0:04:08.04,0:04:11.01,Default,,0,0,0,,Sapo fuqia të gërryejë\Natë që ka mbetur nga njerëzorja jote,
+Dialogue: 0,0:04:11.34,0:04:14.34,Default,,0,0,0,,shndërrimi në\Nnjë prej nesh do të plotësohet...
+Dialogue: 0,0:04:16.51,0:04:17.97,Default,,0,0,0,,Atëherë është koha e ngrënies!
+Dialogue: 0,0:04:24.52,0:04:25.48,Default,,0,0,0,,Çfarë ka?
+Dialogue: 0,0:04:27.81,0:04:29.98,Default,,0,0,0,,Sulmet e tua u bënë të përsëritura!
+Dialogue: 0,0:04:30.69,0:04:32.19,Default,,0,0,0,,Hajde tani, vëri shpinën!
+Dialogue: 0,0:04:32.69,0:04:34.24,Default,,0,0,0,,Jiro Azuma!
+Dialogue: 0,0:04:35.74,0:04:37.91,Default,,0,0,0,,Bëj sikur askush nuk po shikon!
+Dialogue: 0,0:04:38.32,0:04:40.45,Default,,0,0,0,,Shfaq atë fuqi!
+Dialogue: 0,0:04:41.24,0:04:43.91,Default,,0,0,0,,Provoji botës se fuqia i mund të gjitha.
+Dialogue: 0,0:04:45.25,0:04:46.79,Default,,0,0,0,,Nuk ka rrugë tjetër!
+Dialogue: 0,0:04:49.46,0:04:51.55,Default,,0,0,0,,Kjo është rruga jonë!
+Dialogue: 0,0:04:59.35,0:05:02.43,Default,,0,0,0,,Tani kjo është burrëria\Nqë kërkoja.
+Dialogue: 0,0:05:03.52,0:05:04.43,Default,,0,0,0,,Le ta them...
+Dialogue: 0,0:05:04.93,0:05:07.48,Default,,0,0,0,,Tani mezi mund të shoh\Nndonjë gjurmë njerëzore.
+Dialogue: 0,0:05:08.98,0:05:10.69,Default,,0,0,0,,Koha është afër, apo jo?
+Dialogue: 0,0:05:10.90,0:05:12.69,Default,,0,0,0,,Mendoj se duhet ta shijoj...
+Dialogue: 0,0:05:13.36,0:05:15.19,Default,,0,0,0,,...atë zemër që rreh!
+Dialogue: 0,0:05:19.95,0:05:21.03,Default,,0,0,0,,Epo, dreq.
+Dialogue: 0,0:05:22.16,0:05:24.70,Default,,0,0,0,,Ende ka energji të ulërijë\Nnë erë, hë?
+Dialogue: 0,0:05:25.29,0:05:26.12,Default,,0,0,0,,Fatkeqësisht...
+Dialogue: 0,0:05:26.41,0:05:29.46,Default,,0,0,0,,Është pak vonë për të luajtur\Nkartën tënde të fundit.
+Dialogue: 0,0:05:33.34,0:05:35.26,Default,,0,0,0,,Daddy Big Dog...
+Dialogue: 0,0:05:35.63,0:05:37.68,Default,,0,0,0,,Grushi!
+Dialogue: 0,0:05:51.56,0:05:53.57,Default,,0,0,0,,Të plakesh nuk është për zemërligjë.
+Dialogue: 0,0:05:54.82,0:05:56.44,Default,,0,0,0,,Kirihara-ryu...
+Dialogue: 0,0:05:56.53,0:05:58.07,Default,,0,0,0,,Karajiki!
+Dialogue: 0,0:06:00.06,0:06:01.11,Default,,0,0,0,,Nuk bën dobi...
+Dialogue: 0,0:06:01.41,0:06:03.12,Default,,0,0,0,,Teknika e saktësisë nuk është menduar të...
+Dialogue: 0,0:06:16.71,0:06:17.72,Default,,0,0,0,,Jiro!
+Dialogue: 0,0:06:18.05,0:06:19.97,Default,,0,0,0,,Amagi, o copë pa shpinë!
+Dialogue: 0,0:06:20.13,0:06:22.22,Default,,0,0,0,,Po të paralajmëroj,\Nnëse i vë dorë përsëri atij...
+Dialogue: 0,0:06:22.55,0:06:24.60,Default,,0,0,0,,do t'i copëtoj grykën
+Dialogue: 0,0:06:24.64,0:06:25.93,Default,,0,0,0,,dhe do t'i urinoj mbi kufomë!
+Dialogue: 0,0:06:25.97,0:06:27.73,Default,,0,0,0,,Diçka më shqetësonte.
+Dialogue: 0,0:06:28.35,0:06:31.48,Default,,0,0,0,,Ma prishët planin krejt...\Nplanet e mia...
+Dialogue: 0,0:06:32.40,0:06:36.53,Default,,0,0,0,,...dhe megjithatë, inati, zemërimi,\Nthjesht nuk po vinin.
+Dialogue: 0,0:06:37.07,0:06:38.69,Default,,0,0,0,,Por tani, e kuptoj.
+Dialogue: 0,0:06:39.86,0:06:43.49,Default,,0,0,0,,Ndonëse ecim rrugë të ndryshme,\Nti dhe unë,
+Dialogue: 0,0:06:44.28,0:06:46.99,Default,,0,0,0,,në thelb jemi të njëjtë.
+Dialogue: 0,0:06:47.87,0:06:50.50,Default,,0,0,0,,Jetojmë të pajisur me dhuntinë e fuqisë,\Npor edhe na frikësohen.
+Dialogue: 0,0:06:50.79,0:06:52.29,Default,,0,0,0,,Mbajmë barrën e përjashtimit,
+Dialogue: 0,0:06:52.33,0:06:53.63,Default,,0,0,0,,por lahemi në adhurimin e tyre.
+Dialogue: 0,0:06:54.00,0:06:57.76,Default,,0,0,0,,Prandaj, nuk kemi zgjidhje\Npërveçse ta përdorim fuqinë tonë.
+Dialogue: 0,0:06:58.26,0:07:01.88,Default,,0,0,0,,Lajmi i humbjes tënde me siguri\Ndo t'i demoralizojë njerëzit.
+Dialogue: 0,0:07:02.71,0:07:05.84,Default,,0,0,0,,Disa mund të dëshpërohen,\Ne disa madje mund të dënojnë.
+Dialogue: 0,0:07:06.51,0:07:07.72,Default,,0,0,0,,Por...
+Dialogue: 0,0:07:07.77,0:07:10.35,Default,,0,0,0,,I njoh therjen dhe dhimbjen\Ne goditjeve që shkëmbyem sot...
+Dialogue: 0,0:07:10.98,0:07:14.77,Default,,0,0,0,,Unë, dhe vetëm unë,\Ndo ta lëvdoj trimërinë tënde.
+Dialogue: 0,0:07:15.82,0:07:17.90,Default,,0,0,0,,Ke luftuar mirë.
+Dialogue: 0,0:07:18.57,0:07:21.03,Default,,0,0,0,,Tani mund të pushosh.
+Dialogue: 0,0:07:21.82,0:07:23.24,Default,,0,0,0,,Jeta jote...
+Dialogue: 0,0:07:23.91,0:07:26.03,Default,,0,0,0,,Do të vazhdojë me mua.
+Dialogue: 0,0:07:26.99,0:07:29.04,Default,,0,0,0,,Mos u shqetëso, dhe fli.
+Dialogue: 0,0:07:30.20,0:07:32.29,Default,,0,0,0,,Lamtumirë, shok!
+Dialogue: 0,0:07:50.02,0:07:52.35,Default,,0,0,0,,Ndoshta një instinkt i fundit mbrojtës...
+Dialogue: 0,0:07:53.14,0:07:56.27,Default,,0,0,0,,Sidoqoftë, agonitë e tua\Nnuk do t'i harroj së shpejti.
+Dialogue: 0,0:07:57.32,0:08:00.32,Default,,0,0,0,,Është e jashtëzakonshme çfarë kujton mendja\Nkur të shkëputet krahu.
+Dialogue: 0,0:08:00.53,0:08:04.82,Default,,0,0,0,,Eksitimi i një beteje kokë më kokë\Nderi në vdekje.
+Dialogue: 0,0:08:05.32,0:08:07.20,Default,,0,0,0,,Kjo është jeta e vërtetë...
+Dialogue: 0,0:08:07.37,0:08:09.12,Default,,0,0,0,,Për këtë është fjala...
+Dialogue: 0,0:08:15.50,0:08:16.96,Default,,0,0,0,,Pra ai vdiq.
+Dialogue: 0,0:08:17.67,0:08:18.63,Default,,0,0,0,,Por...
+Dialogue: 0,0:08:19.09,0:08:20.63,Default,,0,0,0,,Çfarë ishte...?
+Dialogue: 0,0:08:26.72,0:08:28.51,Default,,0,0,0,,Kush do ta kishte menduar?
+Dialogue: 0,0:08:28.85,0:08:32.27,Default,,0,0,0,,Të mos kesh fare atë energji spektrale\Nmund të jetë në fakt mjaft e dobishme.
+Dialogue: 0,0:08:32.64,0:08:33.94,Default,,0,0,0,,Edhe një i çmendur si ti...
+Dialogue: 0,0:08:34.10,0:08:36.27,Default,,0,0,0,,...mund të shpërqendrohet.
+Dialogue: 0,0:08:36.35,0:08:38.56,Default,,0,0,0,,S'është çudi që nuk e vure re.
+Dialogue: 0,0:08:39.61,0:08:40.65,Default,,0,0,0,,S'ka gjë.
+Dialogue: 0,0:08:40.86,0:08:44.28,Default,,0,0,0,,Thjesht një mace rrugësh që po kalonte.
+Dialogue: 0,0:08:45.24,0:08:46.07,Default,,0,0,0,,Mos.
+Dialogue: 0,0:08:47.78,0:08:48.87,Default,,0,0,0,,Dreq...
+Dialogue: 0,0:08:49.08,0:08:52.25,Default,,0,0,0,,A nuk e kemi kaluar\Nkëtë më parë, budalla?
+Dialogue: 0,0:08:52.66,0:08:55.08,Default,,0,0,0,,Vërtet do të më bësh\Nta përsëris veten?
+Dialogue: 0,0:08:56.08,0:08:57.21,Default,,0,0,0,,Hej!
+Dialogue: 0,0:08:57.92,0:08:59.59,Default,,0,0,0,,Tani hapi sytë!
+Dialogue: 0,0:08:59.84,0:09:01.17,Default,,0,0,0,,Jiro!
+Dialogue: 0,0:09:10.81,0:09:11.89,Default,,0,0,0,,Dreq!
+Dialogue: 0,0:09:12.18,0:09:15.48,Default,,0,0,0,,Hej, si ndihesh që u ktheve\Nnë tokën e të gjallëve, partner?
+Dialogue: 0,0:09:15.81,0:09:16.69,Default,,0,0,0,,Hë?
+Dialogue: 0,0:09:17.27,0:09:20.11,Default,,0,0,0,,A nuk është e qartë?\NNdjehem si dreq, o budalla!
+Dialogue: 0,0:09:20.52,0:09:22.19,Default,,0,0,0,,Ah, mjaft u ankuat!
+Dialogue: 0,0:09:22.36,0:09:24.28,Default,,0,0,0,,Unë jam ai që pothuajse\Ni ra te dyja këmbët atje
+Dialogue: 0,0:09:24.32,0:09:25.65,Default,,0,0,0,,për shkakun tënd, i vogli!
+Dialogue: 0,0:09:26.11,0:09:27.61,Default,,0,0,0,,Ti mjaft u ankuat!
+Dialogue: 0,0:09:27.82,0:09:30.41,Default,,0,0,0,,Në fund të fundit gjithçka shkoi mirë,\Napo jo?
+Dialogue: 0,0:09:30.99,0:09:33.66,Default,,0,0,0,,Po, në fund, falë meje!
+Dialogue: 0,0:09:34.00,0:09:37.00,Default,,0,0,0,,Si thua pak falënderim për\Nzgjuarsinë time, o dreq!
+Dialogue: 0,0:09:37.25,0:09:39.92,Default,,0,0,0,,Mua duhet të më falënderosh,\No topth leshi budalla!
+Dialogue: 0,0:09:40.25,0:09:41.75,Default,,0,0,0,,Oops, pothuajse harrova.
+Dialogue: 0,0:09:42.30,0:09:44.05,Default,,0,0,0,,Më vjen keq, Amagi!
+Dialogue: 0,0:09:44.46,0:09:46.67,Default,,0,0,0,,Merr një A të sigurt për përpjekjen...
+Dialogue: 0,0:09:47.63,0:09:50.68,Default,,0,0,0,,...por duket se je kthyer\Nnë pikën zero!
+Dialogue: 0,0:09:53.89,0:09:56.18,Default,,0,0,0,,Sikur të mos isha kaq i avancuar,\Ndo të thosha pothuajse
+Dialogue: 0,0:09:56.35,0:09:58.69,Default,,0,0,0,,se budallallëku yt fëminor po\Nfilluar të më ngjitet.
+Dialogue: 0,0:09:59.48,0:10:01.48,Default,,0,0,0,,Por ju të dy arritët të më\Nmësoni diçka.
+Dialogue: 0,0:10:02.36,0:10:05.78,Default,,0,0,0,,E thjeshta është gjithmonë më e mira.
+Dialogue: 0,0:10:07.70,0:10:09.36,Default,,0,0,0,,Nëse nuk mund t'ju konsumoj,
+Dialogue: 0,0:10:09.61,0:10:11.37,Default,,0,0,0,,atëherë duhet të fshiheni!
+Dialogue: 0,0:10:12.53,0:10:15.08,Default,,0,0,0,,Me një fuqi\Nedhe më të madhe se e juaja.
+Dialogue: 0,0:10:16.20,0:10:18.58,Default,,0,0,0,,Mendoj se ai është\Npak i zemëruar tani.
+Dialogue: 0,0:10:19.62,0:10:21.92,Default,,0,0,0,,A e mban mend si bëhet kjo?
+Dialogue: 0,0:10:22.29,0:10:24.21,Default,,0,0,0,,A e mban mend me kë po flet?
+Dialogue: 0,0:10:24.75,0:10:28.42,Default,,0,0,0,,Vetëm se di,\Nnuk do të frenohem.
+Dialogue: 0,0:10:29.01,0:10:30.59,Default,,0,0,0,,Më mirë mos e bëj, o mace.
+Dialogue: 0,0:10:39.19,0:10:40.06,Default,,0,0,0,,Jiro...
+Dialogue: 0,0:10:40.23,0:10:41.60,Default,,0,0,0,,Po, e di!
+Dialogue: 0,0:10:42.31,0:10:44.07,Default,,0,0,0,,Bashkë, duhet të përdorim gjithçka...
+Dialogue: 0,0:10:44.11,0:10:45.36,Default,,0,0,0,,Çdo pikë të fundit!
+Dialogue: 0,0:10:45.90,0:10:47.74,Default,,0,0,0,,Duhet ta bëjmë të numërohet...
+Dialogue: 0,0:10:47.94,0:10:49.82,Default,,0,0,0,,Trup e shpirt...
+Dialogue: 0,0:10:50.07,0:10:51.16,Default,,0,0,0,,Asgjësoini!!
+Dialogue: 0,0:11:04.63,0:11:06.46,Default,,0,0,0,,A je i paprekur, supozoj?
+Dialogue: 0,0:11:22.74,0:11:23.57,Default,,0,0,0,,Epo, epo.
+Dialogue: 0,0:11:24.48,0:11:26.23,Default,,0,0,0,,E admiroj guximin tënd, zonjushë,
+Dialogue: 0,0:11:26.27,0:11:28.53,Default,,0,0,0,,por bëhu pak më e kujdesshme herën tjetër.
+Dialogue: 0,0:11:28.90,0:11:30.19,Default,,0,0,0,,Z. Azuma...!
+Dialogue: 0,0:11:30.36,0:11:31.78,Default,,0,0,0,,Duket se...
+Dialogue: 0,0:11:32.24,0:11:34.78,Default,,0,0,0,,Gjithçka mbaroi.
+Dialogue: 0,0:11:37.12,0:11:40.71,Default,,0,0,0,,{\i1}K-Kryetar! Të gjithë dëmtuesit fluturues{\i0}\N{\i1}dhe mononoke në zonë{\i0}
+Dialogue: 0,0:11:40.75,0:11:42.29,Default,,0,0,0,,{\i1}janë shfarosur!{\i0}
+Dialogue: 0,0:11:42.58,0:11:44.79,Default,,0,0,0,,-Në rregull!!\N-Jaaa!!
+Dialogue: 0,0:11:45.71,0:11:47.42,Default,,0,0,0,,Faleminderit, zonjë,\Ndo të marr edhe një!
+Dialogue: 0,0:11:47.55,0:11:48.50,Default,,0,0,0,,Mjaft ulërima.
+Dialogue: 0,0:11:48.55,0:11:50.63,Default,,0,0,0,,Duhet të kthehemi\Nte Kryetari tani.
+Dialogue: 0,0:11:50.84,0:11:52.01,Default,,0,0,0,,P-Po, zonjë!
+Dialogue: 0,0:11:54.84,0:11:57.01,Default,,0,0,0,,Duket se operacioni i shfarosjes\Nka qenë i suksesshëm.
+Dialogue: 0,0:11:57.30,0:11:58.14,Default,,0,0,0,,E kuptoj...
+Dialogue: 0,0:11:58.76,0:12:00.35,Default,,0,0,0,,Kërcënimi i vetëm i mbetur është...
+Dialogue: 0,0:12:00.60,0:12:02.02,Default,,0,0,0,,Po.
+Dialogue: 0,0:12:03.39,0:12:05.52,Default,,0,0,0,,Kjo po zgjat më shumë\Nnga sa parashikova.
+Dialogue: 0,0:12:06.94,0:12:08.27,Default,,0,0,0,,Nuk je i shqetësuar?
+Dialogue: 0,0:12:08.36,0:12:09.53,Default,,0,0,0,,Jo veçanërisht.
+Dialogue: 0,0:12:10.44,0:12:14.16,Default,,0,0,0,,E përmbushëm misionin tonë\Nta shoqëronim te porta...
+Dialogue: 0,0:12:14.74,0:12:15.99,Default,,0,0,0,,Nuk mund të bëjmë shumë tani...
+Dialogue: 0,0:12:16.07,0:12:18.95,Default,,0,0,0,,Le të themi se ai na ka një detyrim.
+Dialogue: 0,0:12:20.95,0:12:23.04,Default,,0,0,0,,Mund të na trajtojë me sushi\Nkur të mbarojë e gjitha.
+Dialogue: 0,0:12:23.33,0:12:25.08,Default,,0,0,0,,Po, dhe jo atë\Nnë rrip transportues!
+Dialogue: 0,0:12:33.05,0:12:35.55,Default,,0,0,0,,Do të doja të mendoja se jam\Nmësuar disi me këtë fuqi...
+Dialogue: 0,0:12:36.14,0:12:38.93,Default,,0,0,0,,Por jam mjaft i sigurt se nuk do të\Nmund ta vazhdoj gjatë.
+Dialogue: 0,0:12:39.22,0:12:41.18,Default,,0,0,0,,Dhe pse dreqin\Nje mbi shpinën time!
+Dialogue: 0,0:12:41.52,0:12:42.43,Default,,0,0,0,,Hesht!
+Dialogue: 0,0:12:42.52,0:12:45.06,Default,,0,0,0,,Konsideroje si shpagim për të gjitha\Nherët që isha shtrati yt i maces!
+Dialogue: 0,0:12:45.64,0:12:47.48,Default,,0,0,0,,Epo çfarë mendon?
+Dialogue: 0,0:12:47.56,0:12:51.44,Default,,0,0,0,,E ndjeva grushtin të lidhej...
+Dialogue: 0,0:12:52.03,0:12:52.94,Default,,0,0,0,,Hej!
+Dialogue: 0,0:12:53.11,0:12:54.70,Default,,0,0,0,,Ende merr frymë atje poshtë, Amagi?
+Dialogue: 0,0:12:55.24,0:12:58.82,Default,,0,0,0,,E di, jam tërhequr nëpër\Nshumë mut falë teje...
+Dialogue: 0,0:12:59.33,0:13:01.62,Default,,0,0,0,,Por mësova një gjë të vogël!
+Dialogue: 0,0:13:02.62,0:13:03.58,Default,,0,0,0,,Dhe kjo është...
+Dialogue: 0,0:13:06.12,0:13:09.34,Default,,0,0,0,,Dy janë shumë më të fortë\Nse një!
+Dialogue: 0,0:13:11.17,0:13:14.42,Default,,0,0,0,,Hej, pas gjithë kësaj,\Nkëtë nxore?
+Dialogue: 0,0:13:14.72,0:13:16.47,Default,,0,0,0,,Hë? Ke problem me...
+Dialogue: 0,0:13:18.09,0:13:19.22,Default,,0,0,0,,Pranohet.
+Dialogue: 0,0:13:20.18,0:13:22.47,Default,,0,0,0,,Në të vërtetë, kjo ka logjikë...
+Dialogue: 0,0:13:24.31,0:13:27.65,Default,,0,0,0,,Atëherë, në këtë linjë mendimi,\Nkjo betejë e ju dyve kundër meje...
+Dialogue: 0,0:13:30.06,0:13:32.90,Default,,0,0,0,,...dhe unë, bashkë me 108 nga\Nshokët e mi besnikë kundër jush...
+Dialogue: 0,0:13:32.98,0:13:33.90,Default,,0,0,0,,Do të thosha...
+Dialogue: 0,0:13:34.99,0:13:36.90,Default,,0,0,0,,Unë fitoj.
+Dialogue: 0,0:14:28.25,0:14:29.42,Default,,0,0,0,,Po i bllokoj...
+Dialogue: 0,0:14:29.79,0:14:33.38,Default,,0,0,0,,Por mushkonjat e çmendura po\Nma gërryejnë fuqinë!
+Dialogue: 0,0:14:40.38,0:14:41.51,Default,,0,0,0,,Bastard!
+Dialogue: 0,0:14:41.97,0:14:44.56,Default,,0,0,0,,Me këtë ritëm, do të na\Ngërryejnë deri në asgjë!
+Dialogue: 0,0:14:45.06,0:14:46.72,Default,,0,0,0,,Hej, qetësohu...
+Dialogue: 0,0:14:46.97,0:14:47.93,Default,,0,0,0,,Partner.
+Dialogue: 0,0:14:49.18,0:14:50.44,Default,,0,0,0,,Do të shkoj tek ai!
+Dialogue: 0,0:14:51.19,0:14:53.06,Default,,0,0,0,,Vetëm sigurohu\Ntë më japësh një dorë!
+Dialogue: 0,0:14:53.77,0:14:55.19,Default,,0,0,0,,Të të jap një dorë?
+Dialogue: 0,0:14:55.52,0:14:57.53,Default,,0,0,0,,Si? Cili është plani yt?!
+Dialogue: 0,0:14:58.32,0:15:00.53,Default,,0,0,0,,Hajde... duhet ta them?
+Dialogue: 0,0:15:00.86,0:15:02.11,Default,,0,0,0,,Njësoj si gjithmonë...
+Dialogue: 0,0:15:02.24,0:15:03.66,Default,,0,0,0,,Do të bëj grushtin dhe...
+Dialogue: 0,0:15:03.78,0:15:05.24,Default,,0,0,0,,Do ta dërgoj këtë copë mut në ferr!
+Dialogue: 0,0:15:05.28,0:15:06.37,Default,,0,0,0,,Imbecil.
+Dialogue: 0,0:15:06.58,0:15:08.41,Default,,0,0,0,,Vetë e vure shenjën e gjuajtjes mbi vete!
+Dialogue: 0,0:15:08.83,0:15:09.91,Default,,0,0,0,,Siç dëshiron...
+Dialogue: 0,0:15:10.04,0:15:13.17,Default,,0,0,0,,Do të kënaqem duke të gëlltitur ty dhe Ragon të dy.
+Dialogue: 0,0:15:40.69,0:15:41.86,Default,,0,0,0,,Jiro!
+Dialogue: 0,0:15:47.87,0:15:50.25,Default,,0,0,0,,Epo, kjo dhembi si dreq.
+Dialogue: 0,0:15:50.79,0:15:52.54,Default,,0,0,0,,Mendova se do të vdisja\Npër herë të dytë.
+Dialogue: 0,0:15:52.62,0:15:53.67,Default,,0,0,0,,Si një budalla i vërtetë...
+Dialogue: 0,0:15:53.71,0:15:56.25,Default,,0,0,0,,Duhej t'i vije përsëri vulën\Ne "çmendurisë".
+Dialogue: 0,0:15:58.50,0:15:59.76,Default,,0,0,0,,Epo, ti fituat.
+Dialogue: 0,0:16:01.17,0:16:04.76,Default,,0,0,0,,Duket se plani im i madh\Nmbaron këtu.
+Dialogue: 0,0:16:05.80,0:16:06.76,Default,,0,0,0,,Në të njëjtën kohë...
+Dialogue: 0,0:16:07.55,0:16:10.22,Default,,0,0,0,,Ju përforcuat besimin tim.
+Dialogue: 0,0:16:11.18,0:16:14.02,Default,,0,0,0,,Arritët të më mposhtnit për\Nnjë arsye të vetme...
+Dialogue: 0,0:16:14.73,0:16:16.77,Default,,0,0,0,,Ju të dy ishit më të fortë.
+Dialogue: 0,0:16:17.11,0:16:19.78,Default,,0,0,0,,Dhe unë më i dobëti.
+Dialogue: 0,0:16:21.61,0:16:23.15,Default,,0,0,0,,Kaq e thjeshtë.
+Dialogue: 0,0:16:26.41,0:16:30.54,Default,,0,0,0,,Brenda një momenti,\Nunë dhe ky mbretëri do të asgjësohemi.
+Dialogue: 0,0:16:31.04,0:16:32.25,Default,,0,0,0,,Nëse dëshironi të jetoni, ju sugjeroj
+Dialogue: 0,0:16:32.29,0:16:34.12,Default,,0,0,0,,të largoheni\Nashtu siç erdhët.
+Dialogue: 0,0:16:34.21,0:16:36.04,Default,,0,0,0,,Kthehuni te shokët tuaj të gëzuar.
+Dialogue: 0,0:16:40.55,0:16:43.80,Default,,0,0,0,,Lutem të gjeni një armik të ri për të luftuar,\Ndhe, kur ta bëni,
+Dialogue: 0,0:16:43.92,0:16:46.39,Default,,0,0,0,,të përdorni fuqinë tuaj\Npër t'i detyruar të nënshtrohen.
+Dialogue: 0,0:16:46.51,0:16:50.26,Default,,0,0,0,,Bëjeni përsëri e përsëri,\Nprovoni se fuqia juaj është rruga.
+Dialogue: 0,0:16:51.56,0:16:53.85,Default,,0,0,0,,Qofshi përgjithmonë i fortë,\NJiro Azuma.
+Dialogue: 0,0:16:54.81,0:16:58.31,Default,,0,0,0,,Më premto se nuk do të humbësh kurrë ndaj një\Nkundërshtari më të dobët se unë.
+Dialogue: 0,0:17:00.40,0:17:03.07,Default,,0,0,0,,Do të kënaqem duke ju shikuar nga ferri.
+Dialogue: 0,0:17:06.11,0:17:07.16,Default,,0,0,0,,Amagi...
+Dialogue: 0,0:17:07.28,0:17:08.41,Default,,0,0,0,,Ikim, Jiro!
+Dialogue: 0,0:17:08.49,0:17:12.04,Default,,0,0,0,,Nxito ose ti dhe unë do t'i\Nbashkohemi atij!
+Dialogue: 0,0:17:20.04,0:17:21.00,Default,,0,0,0,,Hej!
+Dialogue: 0,0:17:21.30,0:17:22.71,Default,,0,0,0,,Pothuajse arritëm!
+Dialogue: 0,0:17:22.88,0:17:24.42,Default,,0,0,0,,Mblidh forcat, Jiro!
+Dialogue: 0,0:17:25.17,0:17:26.43,Default,,0,0,0,,D-Dreq.
+Dialogue: 0,0:17:48.99,0:17:52.24,Default,,0,0,0,,{\i1}Kur u përmenda,{\i0}\N{\i1}isha me fytyrë lart në një shtrat spitali.{\i0}
+Dialogue: 0,0:17:52.70,0:17:54.66,Default,,0,0,0,,Ooo, Jiro!
+Dialogue: 0,0:17:56.66,0:17:58.42,Default,,0,0,0,,-{\i1}Usami dukej si e shkatërruar,{\i0}\N{\i1}-{\i0}Mirëmëngjes...
+Dialogue: 0,0:17:58.46,0:18:00.17,Default,,0,0,0,,{\i1}sikur nuk kishte fjetur prej ditësh.{\i0}
+Dialogue: 0,0:18:00.63,0:18:03.67,Default,,0,0,0,,{\i1}Por sipas saj,{\i0}\N{\i1}isha pa ndjenja për tri ditë.{\i0}
+Dialogue: 0,0:18:04.05,0:18:05.55,Default,,0,0,0,,{\i1}Ishte si përçartje dhe{\i0}
+Dialogue: 0,0:18:05.59,0:18:08.43,Default,,0,0,0,,{\i1}ose një "falë Zotit"{\i0}\N{\i1}ose një "faleminderit".{\i0}
+Dialogue: 0,0:18:09.22,0:18:12.55,Default,,0,0,0,,{\i1}Ishte e re për mua.{\i0}\N{\i1}Nuk dija çfarë të thosha...{\i0}
+Dialogue: 0,0:18:13.47,0:18:15.93,Default,,0,0,0,,{\i1}Megjithatë ishte disi e këndshme.{\i0}
+Dialogue: 0,0:18:16.98,0:18:20.31,Default,,0,0,0,,{\i1}Kujtoj pa qartësi Reiji dhe Ichika{\i0}\N{\i1}duke më nxjerrë nga porta{\i0}
+Dialogue: 0,0:18:20.35,0:18:22.19,Default,,0,0,0,,{\i1}pikërisht para se gjithçka të shkonte në dreq.{\i0}
+Dialogue: 0,0:18:23.77,0:18:26.69,Default,,0,0,0,,{\i1}Për ndonjë arsye{\i0}\N{\i1}të dy supet më dhembin tmerrësisht...{\i0}
+Dialogue: 0,0:18:28.49,0:18:31.07,Default,,0,0,0,,{\i1}Gjithsesi, ndoshta duhet{\i0}\N{\i1}t'u them faleminderit herën tjetër që i shoh.{\i0}
+Dialogue: 0,0:18:32.74,0:18:35.45,Default,,0,0,0,,{\i1}Jam zgjuar prej dy ditësh tani.{\i0}
+Dialogue: 0,0:18:35.99,0:18:37.33,Default,,0,0,0,,{\i1}Me sa duket, për botën e jashtme,{\i0}
+Dialogue: 0,0:18:37.37,0:18:40.92,Default,,0,0,0,,{\i1}gjithë kjo rrëmujë u raportua{\i0}\N{\i1}si një zjarr i madh porti.{\i0}
+Dialogue: 0,0:18:42.17,0:18:44.71,Default,,0,0,0,,{\i1}Por jo gjithçka është mbyllur,{\i0}\N{\i1}çështja e mbyllur.{\i0}
+Dialogue: 0,0:18:45.38,0:18:47.97,Default,,0,0,0,,{\i1}Me fjalë të tjera, ka mononoke.{\i0}
+Dialogue: 0,0:18:48.67,0:18:50.97,Default,,0,0,0,,{\i1}Disa mbetën në Byro.{\i0}
+Dialogue: 0,0:18:51.89,0:18:54.22,Default,,0,0,0,,{\i1}Disa thjesht u zhdukën.{\i0}
+Dialogue: 0,0:18:55.14,0:18:57.98,Default,,0,0,0,,{\i1}Dhe me siguri ka nga ata që{\i0}\N{\i1}nuk përfunduan si dreka e Amagit.{\i0}
+Dialogue: 0,0:18:59.48,0:19:02.40,Default,,0,0,0,,{\i1}Pastaj, është e gjithë çështja se{\i0}\N{\i1}çfarë do të ndodhë me mua dhe Ragon.{\i0}
+Dialogue: 0,0:19:02.52,0:19:03.94,Default,,0,0,0,,{\i1}Për momentin, jemi bllokuar këtu,{\i0}
+Dialogue: 0,0:19:03.98,0:19:06.11,Default,,0,0,0,,{\i1}vetëm ne të dy që duhet të shikojmë...{\i0}
+Dialogue: 0,0:19:06.36,0:19:09.49,Default,,0,0,0,,{\i1}Këtë vend duuuuuumb...{\i0}
+Dialogue: 0,0:19:10.95,0:19:13.03,Default,,0,0,0,,Dreqin!\NKjo gjë budallaqe ngrin përsëri...
+Dialogue: 0,0:19:13.07,0:19:13.99,Default,,0,0,0,,Copë muti!
+Dialogue: 0,0:19:14.53,0:19:16.29,Default,,0,0,0,,Nuk mund të besoj se duhet të shkruaj
+Dialogue: 0,0:19:16.33,0:19:18.29,Default,,0,0,0,,një "dëshmi me thyesë\Ndosje kujtimesh"...
+Dialogue: 0,0:19:18.75,0:19:20.29,Default,,0,0,0,,Si ta dorëzoj\Nkëtë copë mut
+Dialogue: 0,0:19:20.33,0:19:21.87,Default,,0,0,0,,nëse tingëllon si\Nditari i një fëmije?!
+Dialogue: 0,0:19:22.00,0:19:25.00,Default,,0,0,0,,Tani nëse{\i1}ti{\i0}mendon se është keq,\Nduhet të jetë vërtet i neveritshëm.
+Dialogue: 0,0:19:25.42,0:19:26.96,Default,,0,0,0,,Epo, nuk e di për ty,
+Dialogue: 0,0:19:27.00,0:19:29.17,Default,,0,0,0,,por unë po e shijoj\Nkëtë pak kohë të qetë.
+Dialogue: 0,0:19:29.51,0:19:32.26,Default,,0,0,0,,Hë, po sikur ti të jesh mace!
+Dialogue: 0,0:19:34.64,0:19:36.47,Default,,0,0,0,,Po të shqetësojnë, apo jo?
+Dialogue: 0,0:19:37.06,0:19:37.97,Default,,0,0,0,,Çfarë?
+Dialogue: 0,0:19:38.39,0:19:41.02,Default,,0,0,0,,Fjalët e lamtumirës së Amagit.
+Dialogue: 0,0:19:44.73,0:19:46.44,Default,,0,0,0,,Nuk po më shqetësojnë.
+Dialogue: 0,0:19:47.02,0:19:48.19,Default,,0,0,0,,Në rregull atëherë...
+Dialogue: 0,0:19:48.61,0:19:51.95,Default,,0,0,0,,Thjesht do të bëj një bisedë të vogël\Nme veten time këtu.
+Dialogue: 0,0:19:52.65,0:19:53.99,Default,,0,0,0,,Nëse më pyet mua...
+Dialogue: 0,0:19:54.16,0:19:57.45,Default,,0,0,0,,Nuk mendoj se\Ndjali kishte plotësisht gabim.
+Dialogue: 0,0:19:57.95,0:19:59.66,Default,,0,0,0,,Thuaj çfarë të duash,
+Dialogue: 0,0:19:59.70,0:20:02.50,Default,,0,0,0,,por në fund të ditës,\Nfuqia është ajo që ka rëndësi.
+Dialogue: 0,0:20:02.87,0:20:04.63,Default,,0,0,0,,Sikur gjithçka të\Nzgjidhej me fjalë të ëmbla,
+Dialogue: 0,0:20:04.67,0:20:06.63,Default,,0,0,0,,nuk do të gjeje asnjë\Nshpirt të palumtur.
+Dialogue: 0,0:20:06.71,0:20:09.21,Default,,0,0,0,,Kështu funksionon bota.
+Dialogue: 0,0:20:09.76,0:20:10.88,Default,,0,0,0,,Por...
+Dialogue: 0,0:20:10.96,0:20:12.72,Default,,0,0,0,,Vetëm se kujt do t'i shkelësh shputën...
+Dialogue: 0,0:20:12.97,0:20:15.97,Default,,0,0,0,,Kjo është diçka\Nqë secili duhet ta vendosë vetë.
+Dialogue: 0,0:20:16.39,0:20:20.43,Default,,0,0,0,,I dobët ose i fortë, i mirë ose i keq,
+Dialogue: 0,0:20:20.52,0:20:23.23,Default,,0,0,0,,mik ose armik, fitim ose humbje.
+Dialogue: 0,0:20:23.27,0:20:24.60,Default,,0,0,0,,Asnjëra prej tyre nuk ka rëndësi në fund.
+Dialogue: 0,0:20:25.44,0:20:27.23,Default,,0,0,0,,Nëse, pasi ta mendosh\Nvetë,
+Dialogue: 0,0:20:27.31,0:20:31.15,Default,,0,0,0,,ende ndjen\Nse diçka nuk është në rregull, atëherë...
+Dialogue: 0,0:20:31.69,0:20:33.11,Default,,0,0,0,,Kjo është rruga për të ecur.
+Dialogue: 0,0:20:33.20,0:20:35.36,Default,,0,0,0,,Bëj atë që duhet të bësh,\Ndhe bëje me gjithë fuqinë.
+Dialogue: 0,0:20:35.82,0:20:39.41,Default,,0,0,0,,Dhe unë do të jem aty për të të ndihmuar\Ntë shkelësh ca bytha.
+Dialogue: 0,0:20:40.99,0:20:42.25,Default,,0,0,0,,Çfarë ishte ajo?
+Dialogue: 0,0:20:42.45,0:20:44.62,Default,,0,0,0,,Të thashë\Nthjesht po mendoj me zë të lartë.
+Dialogue: 0,0:20:46.17,0:20:49.63,Default,,0,0,0,,Hej, hej...\NNuk ka mjaft punë për të bërë, shoh.
+Dialogue: 0,0:20:50.25,0:20:52.17,Default,,0,0,0,,Dhe ja ku unë kam humbur gjumin\Nduke u përpjekur të mbaroj
+Dialogue: 0,0:20:52.21,0:20:53.97,Default,,0,0,0,,malin e\Ndokumenteve pas-pastrimit...
+Dialogue: 0,0:20:54.13,0:20:57.09,Default,,0,0,0,,Nuk është pamje e mirë t'i nxjerrësh\Nfrustrimet te vartësit, Kryetar.
+Dialogue: 0,0:20:57.39,0:20:59.43,Default,,0,0,0,,Ti e ke mirë, Kryetar.
+Dialogue: 0,0:20:59.51,0:21:02.56,Default,,0,0,0,,Mua më kanë dërguar nëpër botë si\Npulë pa kokë...
+Dialogue: 0,0:21:02.68,0:21:03.93,Default,,0,0,0,,Dhe për ndonjë arsye,
+Dialogue: 0,0:21:03.98,0:21:07.85,Default,,0,0,0,,m'u desh ta shoqëroja Rorenin\Nnë përfundimin e dokumenteve të tij.
+Dialogue: 0,0:21:08.15,0:21:11.11,Default,,0,0,0,,Personalisht, e kalova shkëlqyeshëm\Nduke u shëruar në spital
+Dialogue: 0,0:21:11.15,0:21:12.90,Default,,0,0,0,,me ato\Ninfermieret kaq të vëmendshme!
+Dialogue: 0,0:21:13.03,0:21:16.03,Default,,0,0,0,,Sa shumë do të dëshiroje të shkoje\Ntë notoje me ato rroba të stilit?
+Dialogue: 0,0:21:16.20,0:21:18.37,Default,,0,0,0,,Nuk do ta bëja.\NDo ta ndotje ujin.
+Dialogue: 0,0:21:19.41,0:21:23.29,Default,,0,0,0,,Gjithsesi, gjërat u qetësuan\Ndisi për momentin...
+Dialogue: 0,0:21:23.83,0:21:28.25,Default,,0,0,0,,Ta quajmë ditë të mbaruar dhe\Nmë në fund ta bëjmë atë festën për Reijin.
+Dialogue: 0,0:21:28.54,0:21:30.17,Default,,0,0,0,,Vërtet, Kryetar?
+Dialogue: 0,0:21:30.29,0:21:31.34,Default,,0,0,0,,Po, pse jo?
+Dialogue: 0,0:21:31.96,0:21:34.80,Default,,0,0,0,,Edhe zogjtë në qiell duhet të pushojnë\Nkrahët herë pas here.
+Dialogue: 0,0:21:35.17,0:21:37.38,Default,,0,0,0,,Ky është thjesht një justifikim tjetër\Npër të bredhur, apo jo, Kryetar?
+Dialogue: 0,0:21:37.43,0:21:38.26,Default,,0,0,0,,Kaq e dukshme?
+Dialogue: 0,0:21:39.01,0:21:40.22,Default,,0,0,0,,Hej, ju të dy!
+Dialogue: 0,0:21:40.35,0:21:42.51,Default,,0,0,0,,Sa kohë do të rrini\Nduke shikuar në hapësirë?
+Dialogue: 0,0:21:42.93,0:21:44.14,Default,,0,0,0,,Le të shkojmë.
+Dialogue: 0,0:21:49.19,0:21:50.27,Default,,0,0,0,,Po!
+Dialogue: 0,0:23:21.53,0:23:23.16,Default,,0,0,0,,Dreq, ai Shiba...
+Dialogue: 0,0:23:23.95,0:23:25.91,Default,,0,0,0,,Jam tashmë në tel të hollë\Npër mungesën e mësimit,
+Dialogue: 0,0:23:25.99,0:23:27.95,Default,,0,0,0,,dhe tani\Nmë vuri të bëj këtë mut!
+Dialogue: 0,0:23:28.87,0:23:31.42,Default,,0,0,0,,Vetë e ke\Npër këtë...
+Dialogue: 0,0:23:31.50,0:23:32.50,Default,,0,0,0,,Budallai.
+Dialogue: 0,0:23:33.04,0:23:34.84,Default,,0,0,0,,Dakord, le ta bëjmë, partner.
+Dialogue: 0,0:23:35.25,0:23:36.25,Default,,0,0,0,,Dakord.
+Dialogue: 0,0:23:42.30,0:23:43.97,Default,,0,0,0,,Misioni filloi!
+

@@ -738,6 +738,20 @@
       "assFile": "ass/at-689648.sq.ass",
       "offset": 0,
       "sourceReleaseId": "689648"
+    },
+    {
+      "id": "at-689673",
+      "title": "BLACK TORCH",
+      "episode": "12",
+      "malId": 61169,
+      "anilistId": null,
+      "slugs": [
+        "black-torch-1d364"
+      ],
+      "file": "files/at-689673.sq.vtt",
+      "assFile": "ass/at-689673.sq.ass",
+      "offset": 0,
+      "sourceReleaseId": "689673"
     }
   ]
 }
