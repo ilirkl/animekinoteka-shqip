@@ -1,45 +1,120 @@
 {
   "version": 1,
-  "updated": "2026-09-16T14:10:29Z",
+  "updated": "2026-09-20T08:10:28Z",
   "pending": [
     {
-      "sourceReleaseId": "688367",
-      "sourceTitle": "World Is Dancing",
+      "sourceReleaseId": "689937",
+      "sourceTitle": "Digimon Beatbreak",
+      "sourceEpisode": "48",
+      "status": "queued"
+    },
+    {
+      "sourceReleaseId": "689925",
+      "sourceTitle": "Meitantei Precure!",
+      "sourceEpisode": "34",
+      "status": "queued"
+    },
+    {
+      "sourceReleaseId": "689864",
+      "sourceTitle": "Saijo no Osewa",
       "sourceEpisode": "12",
-      "status": "blocked-attachment",
-      "reason": "Expected exactly one unforced English ASS track"
+      "status": "queued"
     },
     {
-      "sourceReleaseId": "688403",
-      "sourceTitle": "Suterare Seijo no Isekai Gohan Tabi",
+      "sourceReleaseId": "689842",
+      "sourceTitle": "Hanaori-san wa Tensei shitemo Kenka ga Shitai",
       "sourceEpisode": "11",
-      "status": "hold-ambiguous",
-      "reason": "Top Anikoto candidate did not meet the minimum confidence score; catalog already contains a likely matching episode"
+      "status": "queued"
     },
     {
-      "sourceReleaseId": "688753",
-      "sourceTitle": "Re Zero kara Hajimeru Isekai Seikatsu",
-      "sourceEpisode": "83",
-      "status": "hold-ambiguous",
-      "reason": "Multiple equally scored Anikoto candidates"
+      "sourceReleaseId": "689806",
+      "sourceTitle": "Oni no Hanayome",
+      "sourceEpisode": "12",
+      "status": "queued"
     },
     {
-      "sourceReleaseId": "688736",
-      "sourceTitle": "Youjo Senki S2",
+      "sourceReleaseId": "689805",
+      "sourceTitle": "Kimiai",
+      "sourceEpisode": "12",
+      "status": "queued"
+    },
+    {
+      "sourceReleaseId": "689787",
+      "sourceTitle": "Mahou Shoujo Lyrical Nanoha EXCEEDS - Gun Blaze Vengeance",
+      "sourceEpisode": "12",
+      "status": "queued"
+    },
+    {
+      "sourceReleaseId": "689748",
+      "sourceTitle": "Grow Up Show - Himawari no Circus-dan",
+      "sourceEpisode": "12",
+      "status": "queued"
+    },
+    {
+      "sourceReleaseId": "689726",
+      "sourceTitle": "Yomi no Tsugai",
+      "sourceEpisode": "24",
+      "status": "queued"
+    },
+    {
+      "sourceReleaseId": "689693",
+      "sourceTitle": "Iwamoto-senpai no Suisen",
+      "sourceEpisode": "12",
+      "status": "queued"
+    },
+    {
+      "sourceReleaseId": "689673",
+      "sourceTitle": "Black Torch",
+      "sourceEpisode": "12",
+      "status": "queued"
+    },
+    {
+      "sourceReleaseId": "689648",
+      "sourceTitle": "Mairimashita! Iruma-kun S4",
+      "sourceEpisode": "23",
+      "status": "queued"
+    },
+    {
+      "sourceReleaseId": "689639",
+      "sourceTitle": "Detective Conan",
+      "sourceEpisode": "1213",
+      "status": "queued"
+    },
+    {
+      "sourceReleaseId": "689595",
+      "sourceTitle": "Honzuki no Gekokujou S4",
+      "sourceEpisode": "22",
+      "status": "queued"
+    },
+    {
+      "sourceReleaseId": "689538",
+      "sourceTitle": "Rilakkuma",
+      "sourceEpisode": "25",
+      "status": "queued"
+    },
+    {
+      "sourceReleaseId": "689452",
+      "sourceTitle": "Hell Mode S2",
+      "sourceEpisode": "12",
+      "status": "queued"
+    },
+    {
+      "sourceReleaseId": "689458",
+      "sourceTitle": "Uchi no Otouto-domo ga Sumimasen",
+      "sourceEpisode": "12",
+      "status": "queued"
+    },
+    {
+      "sourceReleaseId": "689419",
+      "sourceTitle": "Nige Jouzu no Wakagimi S2",
+      "sourceEpisode": "10",
+      "status": "queued"
+    },
+    {
+      "sourceReleaseId": "689391",
+      "sourceTitle": "Kore Kaite Shine",
       "sourceEpisode": "11",
-      "status": "queued",
-      "slug": "youjo-senki-ii",
-      "malId": 49233,
-      "anilistId": 135865
-    },
-    {
-      "sourceReleaseId": "688706",
-      "sourceTitle": "Clevatess S2",
-      "sourceEpisode": "11",
-      "status": "queued",
-      "slug": "clevatess-season-2",
-      "malId": 62513,
-      "anilistId": null
+      "status": "queued"
     }
   ]
 }

@@ -1,0 +1,83 @@
+﻿[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 8
+YCbCr Matrix: TV.601
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: main - top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: main - italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: main - italics top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: main - flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: main - flashback - top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Episode Title,Tahoma,22,&H00100F07,&H000000FF,&H009D9F9A,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,160,215,58,0
+Style: sign_3485_52_Men_s_Bath,Tahoma,22,&H00E1DFDF,&H000000FF,&H009D9F9A,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,48,464,280,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.60,0:00:06.53,main,Narumi,0,0,0,,Po vjen vëllai i atij\Nme sytë si dhelpër?!
+Dialogue: 0,0:00:07.73,0:00:09.11,Episode Title,SIGN,0,0,0,,{\blur3\3c&HC7C9C4&\fs18\an9\pos(508,35)}Kapiteni i Divizionit të Gjashtë{\fs22}\NSoichiro Hoshina
+Dialogue: 0,0:00:09.11,0:00:10.50,main - top,Hasegawa,0,0,0,,Ta thashë këtë.
+Dialogue: 0,0:00:09.78,0:00:14.49,Episode Title,EPTITLE,0,0,0,,{\fad(480,643)\pos(477,303)}{\blur3}Ai person nga perëndimi
+Dialogue: 0,0:00:10.50,0:00:13.38,main - top,Narumi,0,0,0,,Në bazë nuk lejohen sy dhelpre apo gërsheta!\NNxirreni jashtë!
+Dialogue: 0,0:00:13.38,0:00:14.91,main - top,Hasegawa,0,0,0,,Ky nuk është rregull i vërtetë.
+Dialogue: 0,0:00:15.49,0:00:19.50,main,Kafka,0,0,0,,Kapiteni Narumi nuk shkon mirë as\Nme vëllanë e zëvendëskapitenit Hoshina?
+Dialogue: 0,0:00:20.15,0:00:21.74,main,Hasegawa,0,0,0,,Në fakt...
+Dialogue: 0,0:00:25.00,0:00:28.75,main - flashback,Soichiro,0,0,0,,Pra, ti je Narumi-kun,\Nnjeriu më i fortë në lindje?
+Dialogue: 0,0:00:28.75,0:00:31.78,main - flashback,Soichiro,0,0,0,,Unë jam Soichiro Hoshina,\Nnjeriu më i fortë në perëndim.
+Dialogue: 0,0:00:31.78,0:00:32.71,main - flashback,Soichiro,0,0,0,,Gëzohem që u njohëm.
+Dialogue: 0,0:00:33.85,0:00:36.09,main - flashback,Narumi,0,0,0,,Nuk ka as lindje, as perëndim.
+Dialogue: 0,0:00:36.09,0:00:38.89,main - flashback,Narumi,0,0,0,,Unë jam më i forti kudo.
+Dialogue: 0,0:00:38.89,0:00:40.65,main - flashback,Soichiro,0,0,0,,Çfarë?
+Dialogue: 0,0:00:45.64,0:00:48.62,main - flashback,Kyuji,0,0,0,,T'i japim një mësim\Nkëtij tipi, kapiten?
+Dialogue: 0,0:00:49.06,0:00:50.10,main - flashback,Kyuji,0,0,0,,Kapiten?
+Dialogue: 0,0:00:51.54,0:00:53.73,main - flashback,Kyuji,0,0,0,,Pse duket kaq i lumtur?!
+Dialogue: 0,0:00:53.73,0:00:55.44,main - flashback,Soichiro,0,0,0,,Sa freskuese!
+Dialogue: 0,0:00:55.44,0:00:58.25,main - flashback,Soichiro,0,0,0,,Askush në perëndim\Nnuk më flet kështu!
+Dialogue: 0,0:00:58.25,0:00:59.82,main - flashback,Kyuji,0,0,0,,Nuk duhet të të pëlqejë kjo.
+Dialogue: 0,0:00:59.82,0:01:02.83,main - flashback,Soichiro,0,0,0,,Të gjithë në perëndim vetëm përpiqen\Ntë më bëjnë lajka! S'ka pikë lezet!
+Dialogue: 0,0:01:02.83,0:01:04.93,main - flashback,Soichiro,0,0,0,,Narumi, më pëlqen!
+Dialogue: 0,0:01:04.93,0:01:06.52,main - flashback,Soichiro,0,0,0,,Për ty jam {\i1}kapiteni{\i0} Narumi!
+Dialogue: 0,0:01:06.52,0:01:09.25,main - flashback,Soichiro,0,0,0,,Nuk më pëlqejnë njerëzit që sillen tepër\Nmiqësisht sapo jemi njohur!
+Dialogue: 0,0:01:09.25,0:01:11.89,main - flashback,Soichiro,0,0,0,,Po sillet si idiot i vërtetë!\NSa shumë po kënaqem!
+Dialogue: 0,0:01:11.89,0:01:15.56,main - flashback,Soichiro,0,0,0,,Më pëlqen. Të bëhemi miq, Narumi.
+Dialogue: 0,0:01:15.56,0:01:16.37,main - flashback,Narumi,0,0,0,,Refuzoj!
+Dialogue: 0,0:01:16.37,0:01:18.50,main - flashback,Soichiro,0,0,0,,Sa mizor! Hajde të hamë diçka!
+Dialogue: 0,0:01:18.50,0:01:19.66,main - flashback,Narumi,0,0,0,,Largohu prej meje! Ua, ç'neveri!
+Dialogue: 0,0:01:20.18,0:01:21.76,main,Hasegawa,0,0,0,,...kështu ndodhi.
+Dialogue: 0,0:01:21.76,0:01:25.44,main,Hasegawa,0,0,0,,Që atëherë, Narumi e urren vërtet\Nsa këmbëngulës është Soichiro...
+Dialogue: 0,0:01:28.19,0:01:30.44,main,Hasegawa,0,0,0,,Ia mbathi.
+Dialogue: 0,0:01:35.29,0:01:38.67,main,Narumi,0,0,0,,Jam i sigurt se nuk do të hyjë në banjën\Ne një divizioni tjetër.
+Dialogue: 0,0:01:38.67,0:01:40.95,main,Narumi,0,0,0,,Ç'gjeni që jam...
+Dialogue: 0,0:01:47.96,0:01:49.29,main,Narumi,0,0,0,,Çfarë po bën në banjën tonë?
+Dialogue: 0,0:01:49.29,0:01:51.58,main,Soichiro,0,0,0,,Erdha të të shoh, sigurisht!
+Dialogue: 0,0:01:51.58,0:01:54.22,main,Soichiro,0,0,0,,Gen-chan.
+Dialogue: 0,0:01:54.22,0:01:59.81,main,SIGN,0,0,0,,{\an8\b1\c&H51113E&\3c&H9922B3&}dridhet
+Dialogue: 0,0:01:54.22,0:01:56.54,main,Narumi,0,0,0,,Mos më thirr kështu!\NMos më thirr Gen-chan!
+Dialogue: 0,0:01:56.54,0:01:57.61,main,Narumi,0,0,0,,Është rrëqethëse!
+Dialogue: 0,0:01:57.61,0:01:59.80,main,Soichiro,0,0,0,,Kujtdo në perëndim do t'i pëlqente!
+Dialogue: 0,0:01:59.80,0:02:01.54,main,Soichiro,0,0,0,,Ua, sa mirë qenka.
+Dialogue: 0,0:02:01.54,0:02:04.35,main,Soichiro,0,0,0,,Më pëlqen si përpiqesh të më shmangësh.
+Dialogue: 0,0:02:04.35,0:02:08.04,main,Soichiro,0,0,0,,Njerëzit në perëndim do të prisnin\Nme orë të tëra për të më takuar!
+Dialogue: 0,0:02:08.04,0:02:09.81,main,Narumi,0,0,0,,Pse je kaq i sigurt në vete?!
+Dialogue: 0,0:02:09.81,0:02:13.01,main,Soichiro,0,0,0,,Ti dhe Soshiro jeni të vetmit\Nqë më ktheni krahët!
+Dialogue: 0,0:02:13.01,0:02:15.28,main,Soichiro,0,0,0,,Të lutem, mos ndrysho kurrë!
+Dialogue: 0,0:02:15.28,0:02:17.62,main,Narumi,0,0,0,,Atëherë shko rri me vëllanë tënd!
+Dialogue: 0,0:02:17.90,0:02:20.00,main,Narumi,0,0,0,,Ç'dreqin?!
+Dialogue: 0,0:02:23.06,0:02:25.33,main,Soichiro,0,0,0,,Ua, tani ndihem shumë më mirë.
+Dialogue: 0,0:02:25.33,0:02:31.98,sign_3485_52_Men_s_Bath,Kyuji,0,0,0,,{\blur0.8\fs18\pos(107,305)}Banja\Ne burrave
+Dialogue: 0,0:02:25.59,0:02:28.16,main,Kyuji,0,0,0,,Kapiten, për ndonjë arsye po të shkëlqen fytyra.
+Dialogue: 0,0:02:28.16,0:02:30.78,main,Soichiro,0,0,0,,Kur flas me Gen-chan-in,\Nndihem shumë më mirë.
+Dialogue: 0,0:02:30.78,0:02:32.34,main,Soichiro,0,0,0,,Tani, t'i futemi punës.
+Dialogue: 0,0:02:32.34,0:02:33.36,main,Narumi,0,0,0,,Mos u kthe më kurrë!
+

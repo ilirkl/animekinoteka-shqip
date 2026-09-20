@@ -1,7 +1,7 @@
 {
   "version": 1,
   "language": "sq",
-  "updated": "2026-09-18",
+  "updated": "2026-09-20",
   "entries": [
     {
       "id": "liar-game-24",
@@ -474,6 +474,22 @@
       "assFile": "ass/at-688367.sq.ass",
       "offset": 0,
       "sourceReleaseId": "688367"
+    },
+    {
+      "id": "at-689633",
+      "title": "Kaiju No. 8: Narumi's Week at Work",
+      "episode": "3",
+      "malId": 63138,
+      "anilistId": null,
+      "slugs": [
+        "kaiju-no-8-narumi-s-week-at-work-62d0e"
+      ],
+      "file": "files/at-689633.sq.vtt",
+      "assFile": "ass/at-689633.sq.ass",
+      "offset": 0,
+      "sourceReleaseId": "689633",
+      "sourceEpisode": "03",
+      "sourceTitle": "Kaijuu 8-gou - Narumi no Heijitsu"
     }
   ]
 }
