@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-20T09:24:34Z",
+  "updated": "2026-09-20T11:09:02Z",
   "pending": [
     {
       "sourceReleaseId": "689937",
@@ -24,12 +24,6 @@
       "sourceReleaseId": "689842",
       "sourceTitle": "Hanaori-san wa Tensei shitemo Kenka ga Shitai",
       "sourceEpisode": "11",
-      "status": "queued"
-    },
-    {
-      "sourceReleaseId": "689806",
-      "sourceTitle": "Oni no Hanayome",
-      "sourceEpisode": "12",
       "status": "queued"
     },
     {

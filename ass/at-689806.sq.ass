@@ -1,0 +1,297 @@
+﻿[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 8
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: italicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashback italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashbackitalicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: overlaptop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: sign_generic,Arial,20,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.77,0:00:07.10,Default,REIYA,0,0,0,,A je mirë, Yuzu?
+Dialogue: 0,0:00:07.88,0:00:09.99,Default,YUZU,0,0,0,,Po, jam mirë.
+Dialogue: 0,0:00:28.81,0:00:30.69,Default,REIYA,0,0,0,,Nuk je lënduar diku tjetër, apo jo?
+Dialogue: 0,0:00:31.30,0:00:32.64,Default,YUZU,0,0,0,,Faleminderit.
+Dialogue: 0,0:00:32.99,0:00:37.22,Default,REIYA,0,0,0,,Jo, është faji im. Më fal.
+Dialogue: 0,0:00:37.22,0:00:39.55,Default,YUZU,0,0,0,,Pse po kërkon falje, Reiya?
+Dialogue: 0,0:00:40.85,0:00:46.36,Default,REIYA,0,0,0,,Nuk erdha të të shpëtoja me kohë kur \Najo vajzë u vu pas teje.
+Dialogue: 0,0:00:48.15,0:00:51.37,Default,REIYA,0,0,0,,Mund të më fajësosh mua.
+Dialogue: 0,0:00:51.74,0:00:53.08,Default,YUZU,0,0,0,,Reiya...
+Dialogue: 0,0:00:54.39,0:00:57.34,Default,REIYA,0,0,0,,Duhet të jesh frikësuar shumë, Yuzu.
+Dialogue: 0,0:00:58.08,0:00:59.53,Default,REIYA,0,0,0,,Gëzohem që je mirë.
+Dialogue: 0,0:01:02.41,0:01:06.80,Default,YUZU,0,0,0,,Faleminderit, Reiya. Por jam mirë.
+Dialogue: 0,0:01:14.94,0:01:15.96,Default,YOUTA,0,0,0,,Karin!
+Dialogue: 0,0:01:18.41,0:01:19.38,Default,YOUTA,0,0,0,,Karin!
+Dialogue: 0,0:01:21.60,0:01:22.67,Default,YOUTA,0,0,0,,Karin!
+Dialogue: 0,0:01:25.20,0:01:26.72,Default,KARIN,0,0,0,,Youta!
+Dialogue: 0,0:01:30.68,0:01:32.06,Default,SENYA,0,0,0,,Oh, ç'na gjeti.
+Dialogue: 0,0:01:32.06,0:01:33.97,Default,SENYA,0,0,0,,E bëre lëmsh.
+Dialogue: 0,0:01:35.42,0:01:36.92,Default,NADESHIKO,0,0,0,,Vërtet.
+Dialogue: 0,0:01:39.42,0:01:41.52,Default,SENYA,0,0,0,,Yuzu-chan, a je mirë?
+Dialogue: 0,0:01:41.93,0:01:43.20,Default,YUZU,0,0,0,,Po.
+Dialogue: 0,0:01:43.20,0:01:46.76,Default,SENYA,0,0,0,,E kuptoj. Mirë atëherë.
+Dialogue: 0,0:01:46.76,0:01:49.40,Default,SENYA,0,0,0,,Tani, Nadeshiko-chan...
+Dialogue: 0,0:01:50.19,0:01:51.59,Default,NADESHIKO,0,0,0,,Po.
+Dialogue: 0,0:01:52.21,0:01:55.63,Default,NADESHIKO,0,0,0,,E paralajmërova kaq herë. Çfarë budallaqeje.
+Dialogue: 0,0:01:57.07,0:01:59.95,Default,NADESHIKO,0,0,0,,Youta, e di çfarë do të thotë kjo.
+Dialogue: 0,0:02:02.10,0:02:07.22,Default,NADESHIKO,0,0,0,,Si kryetare e klanit, nuk mund ta pranoj \Natë budallaqe në klanin tonë.
+Dialogue: 0,0:02:07.43,0:02:11.92,Default,YOUTA,0,0,0,,Nadeshiko-sama, të lutem \Njepi edhe një mundësi!
+Dialogue: 0,0:02:11.92,0:02:15.74,Default,YOUTA,0,0,0,,Të premtoj se këtë herë do ta bëj \Ntë më dëgjojë, prandaj...
+Dialogue: 0,0:02:15.74,0:02:20.75,Default,NADESHIKO,0,0,0,,Jo. Ajo tashmë bëri një gabim.
+Dialogue: 0,0:02:21.68,0:02:28.51,Default,NADESHIKO,0,0,0,,Pati mundësi të mendonte për \Nveprimet e veta dhe e shpërdoroi.
+Dialogue: 0,0:02:29.42,0:02:34.06,Default,NADESHIKO,0,0,0,,Dhe faji yt është se e ke llastuar \Nnë vend që të përpiqeshe ta ndaloje.
+Dialogue: 0,0:02:36.32,0:02:37.43,Default,YUZU,0,0,0,,Reiya?
+Dialogue: 0,0:02:37.67,0:02:43.80,Default,REIYA,0,0,0,,Nëse do të të prekte përsëri, nuk do të \Npranohej më si nusja e atij djali.
+Dialogue: 0,0:02:44.81,0:02:47.69,Default,REIYA,0,0,0,,Ajo dhe prindërit e saj \Ndo të dërgoheshin shumë larg.
+Dialogue: 0,0:02:47.69,0:02:50.19,Default,REIYA,0,0,0,,Kështu vendosi kryetarja e klanit të dhelprave.
+Dialogue: 0,0:02:56.26,0:02:57.47,Default,NADESHIKO,0,0,0,,Youta.
+Dialogue: 0,0:02:57.47,0:03:00.39,Default,NADESHIKO,0,0,0,,Ajo vajzë nuk është më nusja jote.
+Dialogue: 0,0:03:00.39,0:03:04.12,Default,NADESHIKO,0,0,0,,Unë, kryetarja e klanit, nuk e pranoj.
+Dialogue: 0,0:03:08.18,0:03:10.21,Default,KARIN,0,0,0,,Y-Youta?
+Dialogue: 0,0:03:10.97,0:03:13.13,Default,YOUTA,0,0,0,,Pse, Karin?
+Dialogue: 0,0:03:13.51,0:03:14.59,Default,YOUTA,0,0,0,,Të thashë...
+Dialogue: 0,0:03:15.36,0:03:18.73,Default,YOUTA,0,0,0,,kaq shumë herë të qëndroje\Nlarg motrës sate!
+Dialogue: 0,0:03:18.73,0:03:22.35,Default,YOUTA,0,0,0,,Duhej ta bëje, ndryshe nuk do të ishim bashkë!
+Dialogue: 0,0:03:23.39,0:03:28.02,Default,KARIN,0,0,0,,Por ajo shkatërroi gjithçka, ndaj unë...
+Dialogue: 0,0:03:28.54,0:03:31.37,Default,KARIN,0,0,0,,Më fal, Youta.
+Dialogue: 0,0:03:31.37,0:03:34.03,Default,KARIN,0,0,0,,Nuk ia vlen të qash për këtë, në rregull?
+Dialogue: 0,0:03:34.43,0:03:36.14,Default,KARIN,0,0,0,,Nuk do ta bëj më.
+Dialogue: 0,0:03:37.13,0:03:39.35,Default,YOUTA,0,0,0,,Është tepër vonë.
+Dialogue: 0,0:03:40.44,0:03:42.62,Default,YOUTA,0,0,0,,Nuk mund të jemi më bashkë.
+Dialogue: 0,0:03:43.14,0:03:44.59,Default,KARIN,0,0,0,,Pse jo?
+Dialogue: 0,0:03:48.46,0:03:51.12,Default,YOUTA,0,0,0,,Nuk je më nusja ime.
+Dialogue: 0,0:03:52.52,0:03:53.78,Default,KARIN,0,0,0,,Çfarë?
+Dialogue: 0,0:04:03.47,0:04:06.39,top,sign,0,0,0,,NUSJA E DEMONIT
+Dialogue: 0,0:05:27.22,0:05:31.22,top,sign,0,0,0,,EPISODI 12: NUSJA E DEMONIT
+Dialogue: 0,0:05:27.91,0:05:31.47,Default,KARIN,0,0,0,,Çfarë do të thuash që nuk jam më nusja jote?
+Dialogue: 0,0:05:31.80,0:05:35.10,Default,YOUTA,0,0,0,,Sepse e lëndove \Nnusen e familjes Kiryuuin.
+Dialogue: 0,0:05:35.57,0:05:39.55,Default,YOUTA,0,0,0,,Nuk mund të të pranoj më \Nnë klanin tonë.
+Dialogue: 0,0:05:45.69,0:05:48.17,Default,KARIN,0,0,0,,Përsëri është faji i saj?
+Dialogue: 0,0:05:52.65,0:05:55.24,Default,YOUTA,0,0,0,,Jo, nuk është.
+Dialogue: 0,0:05:56.61,0:05:58.38,Default,YOUTA,0,0,0,,Nuk është faji i saj.
+Dialogue: 0,0:05:59.71,0:06:04.99,Default,NADESHIKO,0,0,0,,Do t'ju duhet kohë për t'u ndarë. \NÇmojini çastet që ju kanë mbetur.
+Dialogue: 0,0:06:16.25,0:06:17.52,Default,REIYA,0,0,0,,Yuzu.
+Dialogue: 0,0:06:17.52,0:06:18.58,Default,YUZU,0,0,0,,Po.
+Dialogue: 0,0:06:20.32,0:06:21.94,Default,KARIN,0,0,0,,Prit një minutë!
+Dialogue: 0,0:06:23.32,0:06:25.11,Default,KARIN,0,0,0,,Ky është faji yt!
+Dialogue: 0,0:06:25.11,0:06:29.20,Default,KARIN,0,0,0,,Tani vetëm ti mund të jesh \Ne lumtur? Kjo nuk është e drejtë!
+Dialogue: 0,0:06:30.63,0:06:31.99,Default,YUZU,0,0,0,,Karin...
+Dialogue: 0,0:06:36.43,0:06:38.03,italics,YUZU/ID,0,0,0,,Lamtumirë.
+Dialogue: 0,0:06:46.08,0:06:47.61,Default,KARIN,0,0,0,,Youta?
+Dialogue: 0,0:06:48.42,0:06:53.96,Default,YOUTA,0,0,0,,Nuk mund të jemi më bashkë.
+Dialogue: 0,0:06:57.27,0:07:01.51,flashback,YOUTA,0,0,0,,Karin-chan, ti je nusja ime.
+Dialogue: 0,0:07:03.41,0:07:04.56,flashback,KARIN,0,0,0,,Në rregull.
+Dialogue: 0,0:07:04.56,0:07:07.62,flashback,KARIN,0,0,0,,Kujdesu mirë për mua, Youta-kun.
+Dialogue: 0,0:07:17.38,0:07:19.01,Default,KARIN,0,0,0,,Pse?
+Dialogue: 0,0:07:20.75,0:07:25.01,Default,KARIN,0,0,0,,The se do të ishe gjithmonë me mua.
+Dialogue: 0,0:07:25.01,0:07:30.36,Default,KARIN,0,0,0,,The se isha nusja e një demoni dhelpre. \NSe isha e veçantë.
+Dialogue: 0,0:07:31.96,0:07:37.15,Default,KARIN,0,0,0,,Youta, fol përsëri me Nadeshiko-sama-n.
+Dialogue: 0,0:07:37.60,0:07:42.85,Default,KARIN,0,0,0,,Nuk do ta bëj më.\NDo të bëj edhe çfarë të më thuash.
+Dialogue: 0,0:07:44.68,0:07:48.39,Default,KARIN,0,0,0,,Mos shko, Youta!
+Dialogue: 0,0:08:00.61,0:08:02.28,Default,REIYA,0,0,0,,Të shqetëson?
+Dialogue: 0,0:08:03.43,0:08:06.17,Default,YUZU,0,0,0,,Ndoshta.
+Dialogue: 0,0:08:07.38,0:08:12.79,italics,YUZU/ID,0,0,0,,Mund të mos takohemi më kurrë, \Npor gjithçka ndodhi kaq shpejt.
+Dialogue: 0,0:08:13.87,0:08:18.18,italics,YUZU/ID,0,0,0,,Çfarë do të bëjnë tani Karin dhe Youta?
+Dialogue: 0,0:08:18.83,0:08:21.38,italics,YUZU/ID,0,0,0,,A nuk kishte rrugë tjetër?
+Dialogue: 0,0:08:24.98,0:08:27.47,Default,REIYA,0,0,0,,Nuk ke pse shqetësohesh për këtë, Yuzu.
+Dialogue: 0,0:08:27.47,0:08:28.62,Default,YUZU,0,0,0,,Reiya.
+Dialogue: 0,0:08:29.02,0:08:31.22,Default,REIYA,0,0,0,,Tani i përket së shkuarës.
+Dialogue: 0,0:08:31.87,0:08:35.87,Default,REIYA,0,0,0,,Harroje atë që ndien tani, që \Nt'i hapësh rrugë së ardhmes.
+Dialogue: 0,0:08:36.90,0:08:38.77,italics,YUZU/ID,0,0,0,,E shkuara...
+Dialogue: 0,0:08:42.40,0:08:45.58,italics,YUZU/ID,0,0,0,,Familja jonë rrotullohej gjithmonë rreth Karinës.
+Dialogue: 0,0:08:46.33,0:08:52.09,italics,YUZU/ID,0,0,0,,Edhe unë doja vëmendjen e tyre, \Npor në një çast hoqa dorë.
+Dialogue: 0,0:08:55.22,0:09:01.39,italics,YUZU/ID,0,0,0,,Po të mund ta flakja të shkuarën time të trishtë \Ndhe ta harroja, ndoshta do të ndihesha më mirë.
+Dialogue: 0,0:09:04.37,0:09:08.53,italics,YUZU/ID,0,0,0,,Por gjithçka është gdhendur në zemrën time.
+Dialogue: 0,0:09:10.52,0:09:13.04,italics,YUZU/ID,0,0,0,,Është pjesë e asaj që jam sot.
+Dialogue: 0,0:09:15.30,0:09:18.66,Default,YUZU,0,0,0,,Nuk do ta harroj.
+Dialogue: 0,0:09:19.71,0:09:24.87,Default,YUZU,0,0,0,,Do ta kujtoj dhe do ta pranoj\Nqë të mësoj prej saj.
+Dialogue: 0,0:09:25.76,0:09:28.93,Default,REIYA,0,0,0,,Nëse këtë dëshiron të bësh.
+Dialogue: 0,0:09:29.49,0:09:30.57,Default,YUZU,0,0,0,,Po, këtë dua.
+Dialogue: 0,0:09:31.68,0:09:36.86,Default,REIYA,0,0,0,,Por mos harro se jam këtu \Npër ty kur gjërat vështirësohen.
+Dialogue: 0,0:09:37.24,0:09:40.74,Default,YUZU,0,0,0,,E di. Qëndro me mua përgjithmonë.
+Dialogue: 0,0:09:41.16,0:09:45.50,Default,REIYA,0,0,0,,Do të qëndroj. Edhe nëse thua se nuk \Nke nevojë për mua, do të jem pranë teje.
+Dialogue: 0,0:09:47.19,0:09:50.91,Default,REIYA,0,0,0,,Gostia po mbaron. \NTë largohemi prej këtu?
+Dialogue: 0,0:09:51.29,0:09:53.71,Default,YUZU,0,0,0,,Po. Dua të shkoj në shtëpi.
+Dialogue: 0,0:09:58.36,0:10:01.78,Default,REIYA,0,0,0,,Atëherë le të kthehemi në shtëpinë tonë.
+Dialogue: 0,0:10:12.25,0:10:13.31,Default,YUZU,0,0,0,,Ja ku u bë.
+Dialogue: 0,0:10:14.64,0:10:16.50,Default,YUKINO,0,0,0,,Dukesh shumë bukur edhe sot.
+Dialogue: 0,0:10:18.48,0:10:22.39,Default,YUZU,0,0,0,,Faleminderit, Yukino-san. \NEdhe ju, demonët e vegjël.
+Dialogue: 0,0:10:26.88,0:10:31.09,italics,YUZU/ID,0,0,0,,Dalëngadalë jam mësuar \Ntë jetoj me familjen Kiryuuin.
+Dialogue: 0,0:10:33.90,0:10:35.56,Default,YUZU,0,0,0,,Mirëmëngjes, Reiya.
+Dialogue: 0,0:10:36.22,0:10:38.19,Default,REIYA,0,0,0,,Mirëmëngjes, Yuzu.
+Dialogue: 0,0:10:40.18,0:10:44.97,italics,YUZU/ID,0,0,0,,Shkëlqimi verbues i Reiya-s ende \Nma bën zemrën të rrahë fort.
+Dialogue: 0,0:10:46.53,0:10:49.25,Default,REIYA,0,0,0,,Çfarë ke? Fytyra të është skuqur.
+Dialogue: 0,0:10:51.74,0:10:53.95,Default,YUZU,0,0,0,,Asgjë.
+Dialogue: 0,0:10:54.33,0:10:58.80,italics,YUZU/ID,0,0,0,,Jeta me familjen time të re \Nështë plot ngrohtësi.
+Dialogue: 0,0:11:00.62,0:11:03.62,Default,DOUKUU,0,0,0,,Kujdesu, Yuzu-sama.
+Dialogue: 0,0:11:05.90,0:11:07.25,Default,YUZU,0,0,0,,Shihemi më vonë.
+Dialogue: 0,0:11:12.29,0:11:13.73,Default,TOUKO,0,0,0,,Mirëmëngjes.
+Dialogue: 0,0:11:14.03,0:11:15.54,Default,YUZU,0,0,0,,Mirëmëngjes, Touko.
+Dialogue: 0,0:11:16.50,0:11:20.36,Default,TOUKO,0,0,0,,Yuzu, ke ndryshuar kohët e fundit.
+Dialogue: 0,0:11:21.99,0:11:23.29,Default,YUZU,0,0,0,,Vërtet?
+Dialogue: 0,0:11:23.98,0:11:26.75,Default,TOUKO,0,0,0,,Po, je më e gëzuar.
+Dialogue: 0,0:11:27.29,0:11:31.08,Default,YUZU,0,0,0,,Nëse jam, ndoshta është falë Reiya-s.
+Dialogue: 0,0:11:31.85,0:11:34.16,Default,TOUKO,0,0,0,,Po, po. Faleminderit që na e the.
+Dialogue: 0,0:11:34.16,0:11:35.63,Default,TOUKO,0,0,0,,S'ke pse na e lavdëron kaq shumë.
+Dialogue: 0,0:11:35.63,0:11:37.82,Default,YUZU,0,0,0,,Aman, Touko.
+Dialogue: 0,0:11:47.39,0:11:49.89,top,SIGN,0,0,0,,PO VIJ TË TË MARR
+Dialogue: 0,0:11:54.39,0:11:56.42,Default,YUZU,0,0,0,,Po nisem tani.
+Dialogue: 0,0:11:56.42,0:11:57.67,Default,TOUKO,0,0,0,,Shihemi nesër.
+Dialogue: 0,0:12:01.99,0:12:03.42,Default,TOUKO,0,0,0,,Çfarë po ndodh?
+Dialogue: 0,0:12:04.18,0:12:05.96,Default,GIRL A,0,0,0,,Sa i bukur qenka!
+Dialogue: 0,0:12:07.17,0:12:09.35,Default,TOUKO,0,0,0,,Ka ardhur të të marrë?
+Dialogue: 0,0:12:09.35,0:12:11.08,Default,YUZU,0,0,0,,P-Po.
+Dialogue: 0,0:12:15.03,0:12:17.63,Default,TOUKO,0,0,0,,Shko. Mos e lër të presë.
+Dialogue: 0,0:12:21.75,0:12:22.93,Default,YUZU,0,0,0,,Mirupafshim.
+Dialogue: 0,0:12:25.69,0:12:26.79,Default,YAMATO,0,0,0,,Yuzu.
+Dialogue: 0,0:12:30.02,0:12:31.47,Default,YUZU,0,0,0,,Yamato?
+Dialogue: 0,0:12:38.29,0:12:43.01,Default,YAMATO,0,0,0,,Yuzu, kam menduar mirë që atëherë.
+Dialogue: 0,0:12:43.69,0:12:47.02,Default,YAMATO,0,0,0,,E kisha gabim për Karin-chan-in.
+Dialogue: 0,0:12:48.93,0:12:51.29,Default,YUZU,0,0,0,,Dhe çfarë pastaj?
+Dialogue: 0,0:12:52.05,0:12:54.06,Default,YAMATO,0,0,0,,Mund të provojmë përsëri?
+Dialogue: 0,0:12:54.06,0:12:57.34,Default,YAMATO,0,0,0,,E kuptova se, në fund të fundit, më pëlqen.
+Dialogue: 0,0:12:58.33,0:13:01.97,Default,TOUKO,0,0,0,,Ç'dreqin po thotë Yamato \Npas gjithë asaj që bëri?
+Dialogue: 0,0:13:05.46,0:13:09.36,italics,YUZU/ID,0,0,0,,Çfarë më pëlqente te Yamato?
+Dialogue: 0,0:13:10.44,0:13:14.08,italics,YUZU/ID,0,0,0,,U gëzova kur Yamato, djali \Ni famshëm, më ftoi të dilnim,
+Dialogue: 0,0:13:14.48,0:13:18.43,italics,YUZU/ID,0,0,0,,por atëherë nuk e kuptoja \Ndashurinë apo romancën.
+Dialogue: 0,0:13:19.76,0:13:20.85,italics,YUZU/ID,0,0,0,,Por...
+Dialogue: 0,0:13:22.53,0:13:24.07,italics,YUZU/ID,0,0,0,,tani e kuptoj.
+Dialogue: 0,0:13:30.49,0:13:33.77,Default,YUZU,0,0,0,,Më lësho. Jam e dashuruar me Reiya-n.
+Dialogue: 0,0:13:33.77,0:13:35.89,Default,YUZU,0,0,0,,Nuk mund të lidhem me ty, Yamato.
+Dialogue: 0,0:13:41.20,0:13:44.02,Default,YAMATO,0,0,0,,Nuk je mjaftueshëm e mirë për të.
+Dialogue: 0,0:13:44.02,0:13:48.60,Default,YAMATO,0,0,0,,Ai do të përfundojë duke të tradhtuar e braktisur...
+Dialogue: 0,0:14:04.60,0:14:07.71,Default,YUZU,0,0,0,,M-Mjaft më, në rregull?
+Dialogue: 0,0:14:08.78,0:14:11.04,Default,YAMATO,0,0,0,,Yuzu...
+Dialogue: 0,0:14:11.77,0:14:14.32,Default,TOUKICHI,0,0,0,,Hej, a je gjallë?
+Dialogue: 0,0:14:14.92,0:14:17.80,Default,TOUKO,0,0,0,,Sa poshtë ra zoti Popullor.
+Dialogue: 0,0:14:23.48,0:14:24.38,Default,YUZU,0,0,0,,Reiya.
+Dialogue: 0,0:14:28.20,0:14:29.50,Default,YUZU,0,0,0,,U ktheva.
+Dialogue: 0,0:14:29.50,0:14:31.21,Default,REIYA,0,0,0,,Mirë se erdhe në shtëpi, Yuzu.
+Dialogue: 0,0:14:51.56,0:14:53.25,Default,YUZU,0,0,0,,Sakurako-san.
+Dialogue: 0,0:14:55.18,0:14:59.87,Default,YUKINO,0,0,0,,Dëgjova se sot ka diçka \Npër t'i raportuar Reiya-sama-s.
+Dialogue: 0,0:15:00.63,0:15:03.21,italics,YUZU/ID,0,0,0,,Është gjithmonë kaq e bukur.
+Dialogue: 0,0:15:03.21,0:15:04.22,Default,REIYA,0,0,0,,Yuzu.
+Dialogue: 0,0:15:07.49,0:15:09.05,Default,REIYA,0,0,0,,A mund të vish me mua?
+Dialogue: 0,0:15:16.65,0:15:18.92,Default,YUZU,0,0,0,,Reiya, çfarë do të—
+Dialogue: 0,0:15:25.83,0:15:27.17,Default,TAKAMICHI,0,0,0,,Na falni.
+Dialogue: 0,0:15:34.28,0:15:36.01,italics,YUZU/ID,0,0,0,,Takamichi-san?
+Dialogue: 0,0:15:37.17,0:15:44.17,Default,TAKAMICHI,0,0,0,,Reiya-sama, erdhëm t'ju themi \Nse unë dhe Sakurako jemi fejuar.
+Dialogue: 0,0:15:44.57,0:15:45.70,Default,,0,0,0,,E kuptoj.
+Dialogue: 0,0:15:49.64,0:15:52.54,Default,YUZU,0,0,0,,Çfarë?!
+Dialogue: 0,0:15:52.93,0:15:55.86,Default,YUZU,0,0,0,,S'ka mundësi! Ju të dy? Që kur?
+Dialogue: 0,0:15:55.86,0:15:58.18,Default,REIYA,0,0,0,,Yuzu, qetësohu.
+Dialogue: 0,0:15:58.49,0:16:00.96,Default,YUZU,0,0,0,,Si mund të jesh kaq i qetë?
+Dialogue: 0,0:16:00.96,0:16:03.71,Default,YUZU,0,0,0,,Takamichi-san dhe \NSakurako-san janë fejuar!
+Dialogue: 0,0:16:04.19,0:16:06.13,Default,REIYA,0,0,0,,Sigurisht që janë.
+Dialogue: 0,0:16:06.49,0:16:11.11,Default,REIYA,0,0,0,,Pasi të gjeta ty dhe fejesa ime \Nme të u prish,
+Dialogue: 0,0:16:11.11,0:16:12.84,Default,REIYA,0,0,0,,e dija se kjo do të ndodhte.
+Dialogue: 0,0:16:14.77,0:16:18.34,Default,REIYA,0,0,0,,Klani Kiyama i Sakurako-s dhe \Nklani Araki i Takamichi-t
+Dialogue: 0,0:16:18.34,0:16:20.72,Default,REIYA,0,0,0,,janë familjet degë më \Ntë afërta me Kiryuuinët.
+Dialogue: 0,0:16:20.72,0:16:23.39,Default,REIYA,0,0,0,,Prej shekujsh e kanë mbështetur \Nnga afër kryetarin e klanit.
+Dialogue: 0,0:16:24.33,0:16:28.73,Default,REIYA,0,0,0,,Prandaj Kiryuuinët ndonjëherë martohen \Nme pjesëtarë të familjeve të tyre.
+Dialogue: 0,0:16:30.58,0:16:35.58,Default,REIYA,0,0,0,,Çiftet e demonëve caktohen \Nsipas fuqisë.
+Dialogue: 0,0:16:36.83,0:16:41.88,Default,REIYA,0,0,0,,Burri i pamartuar pas meje në radhë, me \Nfuqi të përshtatshme për Sakurako-n, është Takamichi.
+Dialogue: 0,0:16:44.08,0:16:46.52,Default,YUZU,0,0,0,,Pra, kështu qenka.
+Dialogue: 0,0:16:46.52,0:16:49.87,Default,YUZU,0,0,0,,A jeni të dy dakord me këtë?
+Dialogue: 0,0:16:50.36,0:16:53.24,Default,TAKAMICHI,0,0,0,,Po, jam i kënaqur.
+Dialogue: 0,0:16:53.91,0:16:55.56,Default,SAKURAKO,0,0,0,,Edhe unë.
+Dialogue: 0,0:16:57.14,0:16:58.97,italics,YUZU/ID,0,0,0,,Sakurako-san?
+Dialogue: 0,0:16:59.63,0:17:04.36,Default,TAKAMICHI,0,0,0,,Gjithmonë mendoja se Sakurako \Ndo të martohej me Reiya-sama-n,
+Dialogue: 0,0:17:04.36,0:17:06.78,Default,TAKAMICHI,0,0,0,,prandaj ende më duket pak e çuditshme,
+Dialogue: 0,0:17:07.62,0:17:10.58,Default,TAKAMICHI,0,0,0,,por ajo është padyshim e zonja, \Nkështu që nuk kam ankesa.
+Dialogue: 0,0:17:10.58,0:17:12.11,Default,SAKURAKO,0,0,0,,Oh, zot.
+Dialogue: 0,0:17:12.11,0:17:16.69,Default,SAKURAKO,0,0,0,,Nusja jote është aq e zonja dhe e bukur sa \Nmund të vdesësh? Oh, Takamichi-sama.
+Dialogue: 0,0:17:16.69,0:17:18.96,Default,TAKAMICHI,0,0,0,,Nuk thashë këtë.
+Dialogue: 0,0:17:18.96,0:17:20.57,italics,YUZU/ID,0,0,0,,Mos vallë?
+Dialogue: 0,0:17:21.53,0:17:23.51,Default,REIYA,0,0,0,,Kur do të martoheni?
+Dialogue: 0,0:17:23.51,0:17:27.44,Default,TAKAMICHI,0,0,0,,Ndoshta pasi Sakurako \Ntë mbarojë universitetin.
+Dialogue: 0,0:17:28.07,0:17:32.91,Default,TAKAMICHI,0,0,0,,Ose ndoshta pasi ju \Ntë dy të martoheni.
+Dialogue: 0,0:17:35.18,0:17:36.48,Default,TAKAMICHI,0,0,0,,Megjithatë,
+Dialogue: 0,0:17:36.48,0:17:42.28,Default,TAKAMICHI,0,0,0,,do të doja të vendosnim sa më shpejt \Nse kush do t'u shërbejë fëmijëve tuaj.
+Dialogue: 0,0:17:43.03,0:17:49.26,Default,REIYA,0,0,0,,E kuptoj. Do të isha i qetë po t'i dija fëmijët e mi \Nnë duart e fëmijëve tuaj.
+Dialogue: 0,0:17:49.90,0:17:53.18,Default,REIYA,0,0,0,,Por ju njoh të dyve. Mos i bëni \Nshumë trysni vetes.
+Dialogue: 0,0:17:54.16,0:17:58.11,Default,TAKAMICHI,0,0,0,,Jam i nderuar që ju dëgjoj \Nta thoni këtë, Reiya-sama.
+Dialogue: 0,0:18:01.35,0:18:04.02,italics,YUZU/ID,0,0,0,,Unë do të martohem me Reiya-n.
+Dialogue: 0,0:18:18.64,0:18:20.66,italics,YUZU/ID,0,0,0,,Sigurisht që do të martohem.
+Dialogue: 0,0:18:20.66,0:18:24.15,italics,YUZU/ID,0,0,0,,Jam nusja e tij, ndaj e dija se \Ndo të ndodhte një ditë,
+Dialogue: 0,0:18:24.15,0:18:26.11,italics,YUZU/ID,0,0,0,,por nuk jam gati për fëmijë.
+Dialogue: 0,0:18:30.30,0:18:31.98,Default,YUZU,0,0,0,,Sakurako-san.
+Dialogue: 0,0:18:31.98,0:18:33.16,Default,SAKURAKO,0,0,0,,Po?
+Dialogue: 0,0:18:34.29,0:18:38.35,Default,YUZU,0,0,0,,A e dashuron Takamichi-san-in?
+Dialogue: 0,0:18:41.50,0:18:43.30,italics,YUZU/ID,0,0,0,,Sa e lezetshme.
+Dialogue: 0,0:18:43.92,0:18:47.48,Default,SAKURAKO,0,0,0,,Dallohej kaq lehtë?
+Dialogue: 0,0:18:49.10,0:18:50.80,italics,YUZU/ID,0,0,0,,Shumë e lezetshme.
+Dialogue: 0,0:18:52.49,0:18:56.50,Default,SAKURAKO,0,0,0,,Do të turpërohesha shumë po \Nta dinte edhe Takamichi-sama.
+Dialogue: 0,0:18:58.52,0:19:04.44,Default,YUZU,0,0,0,,Nuk e di nëse e di, \Npor dukeshe shumë e lumtur.
+Dialogue: 0,0:19:06.11,0:19:11.18,Default,SAKURAKO,0,0,0,,Vërtet? Intuita e një gruaje \Nështë e mprehtë, apo jo?
+Dialogue: 0,0:19:11.57,0:19:13.45,Default,YUZU,0,0,0,,Do të thuash...
+Dialogue: 0,0:19:14.31,0:19:20.03,Default,SAKURAKO,0,0,0,,Po. Në të vërtetë e dua Takamichi-sama-n \Nprej shumë kohësh.
+Dialogue: 0,0:19:22.14,0:19:27.88,Default,YUZU,0,0,0,,Atëherë pse nuk kundërshtove \Nqë të bëheshe e fejuara e Reiya-s?
+Dialogue: 0,0:19:28.23,0:19:31.06,Default,SAKURAKO,0,0,0,,Jam vajza e familjes degë \Nmë të rëndësishme.
+Dialogue: 0,0:19:31.06,0:19:33.89,Default,SAKURAKO,0,0,0,,Bëj çfarë më urdhëron klani.
+Dialogue: 0,0:19:33.89,0:19:38.95,Default,SAKURAKO,0,0,0,,Për më tepër, isha fejuar \Nme Reiya-sama-n. Ishte nder.
+Dialogue: 0,0:19:41.04,0:19:42.54,Default,SAKURAKO,0,0,0,,Si pjesëtarë të fuqishëm të familjeve degë,
+Dialogue: 0,0:19:43.06,0:19:47.43,Default,SAKURAKO,0,0,0,,unë dhe Takamichi-sama u rritëm\Nnë familje të ngjashme.
+Dialogue: 0,0:19:50.46,0:19:53.42,Default,SAKURAKO,0,0,0,,Ishim gjithmonë bashkë, si motër e vëlla.
+Dialogue: 0,0:19:54.75,0:19:58.25,Default,SAKURAKO,0,0,0,,Takamichi-sama vendosi të bëhej \Nsekretari i Reiya-sama-s,
+Dialogue: 0,0:19:58.83,0:20:04.21,Default,SAKURAKO,0,0,0,,ndërsa unë vendosa si synim \Ntë zgjidhesha partnerja e Reiya-sama-s.
+Dialogue: 0,0:20:14.14,0:20:17.84,flashback,SAKURAKO,0,0,0,,Takamichi-sama, jam shumë nervoze
+Dialogue: 0,0:20:17.84,0:20:22.10,flashback,SAKURAKO,0,0,0,,që më në fund do të kërcej \Nnë praninë e Reiya-sama-s.
+Dialogue: 0,0:20:24.69,0:20:26.01,flashback,TAKAMICHI,0,0,0,,Për fat të mbarë.
+Dialogue: 0,0:20:37.80,0:20:39.70,flashback,SAKURAKO,0,0,0,,Faleminderit.
+Dialogue: 0,0:20:42.90,0:20:46.92,Default,SAKURAKO,0,0,0,,Gjithmonë e kemi mbështetur njëri-tjetrin,
+Dialogue: 0,0:20:46.92,0:20:52.65,Default,SAKURAKO,0,0,0,,prandaj jam e lumtur që u fejuam.
+Dialogue: 0,0:20:53.55,0:20:59.08,italics,YUZU/ID,0,0,0,,Ajo i ndrydhte ndjenjat për \NTakamichi-san-in për hir të klanit.
+Dialogue: 0,0:21:01.73,0:21:03.06,Default,YUZU,0,0,0,,Sakurako-san.
+Dialogue: 0,0:21:05.21,0:21:09.01,Default,YUZU,0,0,0,,Urime.\NJam vërtet e lumtur për ty.
+Dialogue: 0,0:21:22.64,0:21:24.95,italics,YUZU/ID,0,0,0,,Edhe unë do të martohem me Reiya-n.
+Dialogue: 0,0:21:36.25,0:21:37.85,Default,REIYA,0,0,0,,Çfarë ke, Yuzu?
+Dialogue: 0,0:21:39.83,0:21:42.20,Default,YUZU,0,0,0,,A-Asgjë.
+Dialogue: 0,0:21:47.90,0:21:50.29,Default,REIYA,0,0,0,,Ke diçka që dëshiron të thuash?
+Dialogue: 0,0:21:51.19,0:21:57.08,Default,YUZU,0,0,0,,Epo, ëm... një ditë do të \Nmartohemi, apo jo?
+Dialogue: 0,0:21:57.52,0:21:59.55,Default,YUZU,0,0,0,,Kur?
+Dialogue: 0,0:22:00.17,0:22:02.97,Default,REIYA,0,0,0,,Menjëherë pasi të mbarosh universitetin.
+Dialogue: 0,0:22:03.29,0:22:05.46,Default,YUZU,0,0,0,,Çfarë? Vërtet?
+Dialogue: 0,0:22:06.02,0:22:08.04,Default,REIYA,0,0,0,,Po. Është tepër vonë?
+Dialogue: 0,0:22:08.48,0:22:13.01,Default,YUZU,0,0,0,,Jo, tepër herët. Mendova \Nse ishte tepër herët.
+Dialogue: 0,0:22:13.54,0:22:16.99,Default,REIYA,0,0,0,,Pse? Unë do të martohesha me ty që tani.
+Dialogue: 0,0:22:18.48,0:22:19.85,Default,YUZU,0,0,0,,Unë...
+Dialogue: 0,0:22:30.03,0:22:33.16,italics,YUZU/ID,0,0,0,,Gjithmonë ëndërroja të kisha \Nnjë familje të gëzuar.
+Dialogue: 0,0:22:37.18,0:22:41.45,italics,YUZU/ID,0,0,0,,Pasi të mbaroja universitetin, të gjeja \Npunë dhe të mbaja veten,
+Dialogue: 0,0:22:42.21,0:22:45.63,italics,YUZU/ID,0,0,0,,doja të martohesha me një burrë \Ntë dashur dhe të krijoja familje.
+Dialogue: 0,0:22:46.62,0:22:50.74,italics,YUZU/ID,0,0,0,,Pastaj do të jetonim të lumtur përgjithmonë
+Dialogue: 0,0:22:50.74,0:22:54.18,italics,YUZU/ID,0,0,0,,si gjyshi dhe gjyshja.
+Dialogue: 0,0:22:55.06,0:22:58.53,italics,YUZU/ID,0,0,0,,Tani do të martohem menjëherë.
+Dialogue: 0,0:22:58.53,0:23:03.23,italics,YUZU/ID,0,0,0,,Do të thotë se dëshira ime do të \Nplotësohet më shpejt, por...
+Dialogue: 0,0:23:03.76,0:23:04.87,Default,REIYA,0,0,0,,Yuzu.
+Dialogue: 0,0:23:10.70,0:23:12.64,Default,REIYA,0,0,0,,Do të të pres.
+Dialogue: 0,0:23:13.93,0:23:16.46,Default,REIYA,0,0,0,,Përgjithmonë, pranë teje.
+Dialogue: 0,0:23:18.21,0:23:22.70,Default,REIYA,0,0,0,,Mund të presim për martesën derisa të \Nmësohesh më shumë me këtë botë.
+Dialogue: 0,0:23:24.24,0:23:27.40,Default,YUZU,0,0,0,,Në rregull. Faleminderit, Reiya.
+Dialogue: 0,0:23:28.76,0:23:32.96,italics,YUZU/ID,0,0,0,,Jam shumë e lumtur që takova Reiya-n.
+Dialogue: 0,0:23:34.99,0:23:41.50,italics,YUZU/ID,0,0,0,,Jam mirënjohëse që e takova Reiya-n atë ditë \Nkur më kishte pushtuar trishtimi dhe dhimbja.
+Dialogue: 0,0:23:42.84,0:23:47.00,italics,YUZU/ID,0,0,0,,Me Reiya-n mund të ec drejt \Nnjë të ardhmeje plot ngrohtësi.
+Dialogue: 0,0:23:48.46,0:23:50.36,italics,YUZU/ID,0,0,0,,Për sa kohë Reiya është me mua.
+Dialogue: 0,0:23:28.34,0:23:32.31,Default,credits,0,0,0,,{\an8\fs20}Përkthyes: Sho Stifler\NSinkronizimi: Edgar Cruz
+Dialogue: 0,0:23:34.35,0:23:37.77,Default,credits,0,0,0,,{\an8\fs20}Redaktor: Salem Alabanza\NKontrolli i cilësisë: Gabriella Alabanza
+Dialogue: 0,0:23:38.19,0:23:41.61,Default,credits,0,0,0,,{\an8\fs20}Kontrolli përfundimtar i cilësisë: Michelle Tymon
+

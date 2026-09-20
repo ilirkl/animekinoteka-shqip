@@ -506,6 +506,22 @@
       "sourceReleaseId": "689538",
       "sourceEpisode": "25",
       "sourceTitle": "Rilakkuma"
+    },
+    {
+      "id": "at-689806",
+      "title": "The Ogre's Bride",
+      "episode": "12",
+      "malId": 61814,
+      "anilistId": 194219,
+      "slugs": [
+        "oni-no-hanayome-e3e67"
+      ],
+      "file": "files/at-689806.sq.vtt",
+      "assFile": "ass/at-689806.sq.ass",
+      "offset": 0,
+      "sourceReleaseId": "689806",
+      "sourceEpisode": "12",
+      "sourceTitle": "Oni no Hanayome"
     }
   ]
 }
