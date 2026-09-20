@@ -538,6 +538,22 @@
       "sourceReleaseId": "689937",
       "sourceEpisode": "48",
       "sourceTitle": "Digimon Beatbreak"
+    },
+    {
+      "id": "at-689925",
+      "title": "Star Detective Precure!",
+      "episode": "34",
+      "malId": 63042,
+      "anilistId": 202957,
+      "slugs": [
+        "star-detective-precure-jjsd0"
+      ],
+      "file": "files/at-689925.sq.vtt",
+      "assFile": "ass/at-689925.sq.ass",
+      "offset": 0,
+      "sourceReleaseId": "689925",
+      "sourceEpisode": "34",
+      "sourceTitle": "Meitantei Precure!"
     }
   ]
 }

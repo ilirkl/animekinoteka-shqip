@@ -1,0 +1,401 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+PlayResX: 640
+WrapStyle: 0
+Video Aspect Ratio: 0
+Video Zoom: 8
+PlayResY: 360
+ScaledBorderAndShadow: yes
+
+[Aegisub Project Garbage]
+Audio File: ?video
+Video File: elusivesamurai-eps2-watermarked-mx-deDE-B.avi
+Video Position: 31675
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,1,1,15,0
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: On Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: DefaultLow,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:29.84,0:01:33.72,On Top,,0,0,0,,{\i1}Le të shkojmë ta kërkojmë, çelësi është në zemër!{\i0}
+Dialogue: 0,0:01:33.89,0:01:36.76,On Top,,0,0,0,,{\i1}Një shkëndijë e ndritur{\i0}
+Dialogue: 0,0:01:37.10,0:01:39.73,On Top,,0,0,0,,{\i1}Me siguri do ta gjejmë\NSepse jemi Precure{\i0}
+Dialogue: 0,0:01:39.89,0:01:42.44,On Top,,0,0,0,,{\i1}Po na thërret{\i0}
+Dialogue: 0,0:01:42.60,0:01:45.36,On Top,,0,0,0,,{\i1}Ku është e vërteta?\NÇfarë do të zbulojmë?{\i0}
+Dialogue: 0,0:01:45.52,0:01:49.11,On Top,,0,0,0,,{\i1}Një mister sjell një tjetër{\i0}
+Dialogue: 0,0:01:49.78,0:01:55.16,On Top,,0,0,0,,{\i1}Mblidhini pjesët e enigmës\NNga e tashmja drejt së shkuarës e së ardhmes{\i0}
+Dialogue: 0,0:01:55.32,0:02:00.41,On Top,,0,0,0,,{\i1}Si një provë\NDiçka që shkëlqen përtej kohës{\i0}
+Dialogue: 0,0:02:00.66,0:02:03.33,On Top,,0,0,0,,{\i1}Si? Si? Mos është ndonjë truk?{\i0}
+Dialogue: 0,0:02:03.50,0:02:06.29,On Top,,0,0,0,,{\i1}Pse? Pse? Do të përballemi{\i0}
+Dialogue: 0,0:02:06.59,0:02:11.88,On Top,,0,0,0,,{\i1}Shikoje dhe ndjeje\NZbuloje sekretin{\i0}
+Dialogue: 0,0:02:12.22,0:02:17.72,On Top,,0,0,0,,{\i1}Një hap i guximshëm do të na çojë te mrekullia{\i0}
+Dialogue: 0,0:02:18.10,0:02:23.27,On Top,,0,0,0,,{\i1}Përgjigjja?!\NGjendet kur vëren të pavërejturën{\i0}
+Dialogue: 0,0:02:23.60,0:02:29.07,On Top,,0,0,0,,{\i1}Është fati, është dashuria\NPëshpëritur nga një zë i vogël{\i0}
+Dialogue: 0,0:02:29.23,0:02:32.53,On Top,,0,0,0,,{\i1}Le ta përshkojmë bashkë atë rrugë!{\i0}
+Dialogue: 0,0:02:32.69,0:02:36.45,On Top,,0,0,0,,{\i1}Le të shkojmë ta kërkojmë, çelësi është në zemër!{\i0}
+Dialogue: 0,0:02:36.62,0:02:38.28,On Top,,0,0,0,,{\i1}Një shkëndijë e ndritur{\i0}
+Dialogue: 0,0:02:38.45,0:02:44.08,On Top,,0,0,0,,{\i1}Çelësi i xhevahirit na lidh\NDuke hapur lidhjen që na çon përpara{\i0}
+Dialogue: 0,0:02:44.25,0:02:49.17,On Top,,0,0,0,,{\i1}Hej, fakti që lindëm\Ndhe u takuam është një mister i mrekullueshëm{\i0}
+Dialogue: 0,0:02:49.34,0:02:52.80,On Top,,0,0,0,,{\i1}Përpara! Precure, Detektivet e Yjeve!{\i0}
+Dialogue: 0,0:03:04.14,0:03:06.48,On Top,,0,0,0,,KOMISARIATI I POLICISË MAKOTO MIRAI
+Dialogue: 0,0:03:43.18,0:03:44.98,On Top,,0,0,0,,KRYEPOLIC PËR NJË DITË
+Dialogue: 0,0:04:06.58,0:04:10.38,On Top,,0,0,0,,KRYEPOLIC PËR NJË DITË
+Dialogue: 0,0:04:41.57,0:04:49.25,On Top,,0,0,0,,ZYRA E PRITJES
+Dialogue: 0,0:05:51.64,0:05:53.81,On Top,,0,0,0,,HËNA PA PRINCESHË
+Dialogue: 0,0:05:53.98,0:05:56.82,On Top,,0,0,0,,MOTONOBU SHIRAKAWA
+Dialogue: 0,0:06:30.10,0:06:33.64,On Top,,0,0,0,,DREJTPËRDREJT NGA MAKOTO MIRAI
+Dialogue: 0,0:06:40.78,0:06:45.36,On Top,,0,0,0,,KËRKOHET PRONARI!\N«HËNA PA PRINCESHË» E MOTONOBU SHIRAKAWA-S
+Dialogue: 0,0:08:45.69,0:08:48.19,On Top,,0,0,0,,PRONARJA NR. 1\NYOSHIE UZOE
+Dialogue: 0,0:08:48.74,0:08:51.41,On Top,,0,0,0,,PRONARI NR. 2\NSHIRO YAHAGI
+Dialogue: 0,0:08:51.91,0:08:54.41,On Top,,0,0,0,,PRONARI NR. 3\NRYAN HOWARD
+Dialogue: 0,0:22:29.35,0:22:35.69,On Top,,0,0,0,,{\i1}Mos vallë sepse ju kam pranë?\NMund të bëhem më e fortë{\i0}
+Dialogue: 0,0:22:35.85,0:22:41.28,On Top,,0,0,0,,{\i1}Nuk i shpërfill pikëpyetjet\NFuqia për të menduar më buron përbrenda{\i0}
+Dialogue: 0,0:22:42.36,0:22:48.58,On Top,,0,0,0,,{\i1}Vërej atë që nuk shihet\Ndhe shoh atë që nuk vihet re{\i0}
+Dialogue: 0,0:22:48.95,0:22:53.50,On Top,,0,0,0,,{\i1}Kur kam pranë shoqe të besueshme{\i0}
+Dialogue: 0,0:22:53.66,0:23:00.55,On Top,,0,0,0,,{\i1}Bëj një hap përtej asaj shkëndije\NEc! Ec!{\i0}
+Dialogue: 0,0:23:00.71,0:23:06.47,On Top,,0,0,0,,{\i1}Sa herë i afrohem përgjigjes\Nzemra më rreh nga gëzimi{\i0}
+Dialogue: 0,0:23:06.84,0:23:13.39,On Top,,0,0,0,,{\i1}Përtej kohës, përtej çdo vendi\NPesë mistere dhe çelësi i dyfishtë{\i0}
+Dialogue: 0,0:23:13.56,0:23:19.23,On Top,,0,0,0,,{\i1}Ku? Kush? Kur? Pse?\NÇfarë bëri? Duhet ta hetojmë!{\i0}
+Dialogue: 0,0:23:19.40,0:23:23.28,On Top,,0,0,0,,{\i1}Një ditë do ta kuptojmë,\Ndhe me siguri do ta takojmë mrekullinë{\i0}
+Dialogue: 0,0:23:23.44,0:23:26.57,On Top,,0,0,0,,{\i1}Sepse linjat e botëve vazhdojnë{\i0}
+Dialogue: 0,0:23:26.74,0:23:32.58,On Top,,0,0,0,,{\i1}Është mundësia për t'i realizuar dëshirat\NMisteri nuk është më mister{\i0}
+Dialogue: 0,0:23:33.33,0:23:40.46,On Top,,0,0,0,,{\i1}Të gjithë jemi detektivë të mëdhenj plot dashuri\NKjo është dashuria Precure{\i0}
+Dialogue: 0,0:00:16.10,0:00:19.10,Default,,0,0,0,,
+Dialogue: 0,0:00:19.10,0:00:20.98,Default,,0,0,0,,Ndal!
+Dialogue: 0,0:00:29.28,0:00:31.37,Default,,0,0,0,,Po shkon drejt rrugës!
+Dialogue: 0,0:00:31.53,0:00:32.82,Default,,0,0,0,,{\i1}Ma lër mua!{\i0}
+Dialogue: 0,0:00:35.87,0:00:37.29,Default,,0,0,0,,Nuk do të shpëtosh.
+Dialogue: 0,0:00:37.45,0:00:38.75,Default,,0,0,0,,Esnafi i Hajdutëve Fantazmë.
+Dialogue: 0,0:00:41.33,0:00:42.46,Default,,0,0,0,,Më zbuluat?
+Dialogue: 0,0:00:42.96,0:00:43.96,Default,,0,0,0,,Ageseine!
+Dialogue: 0,0:00:48.38,0:00:50.34,Default,,0,0,0,,T-Ti!
+Dialogue: 0,0:00:50.93,0:00:52.51,Default,,0,0,0,,Mos e ul vigjilencën.
+Dialogue: 0,0:00:53.26,0:00:56.10,Default,,0,0,0,,Kjo është çmenduri! Do të pendoheni!
+Dialogue: 0,0:00:57.89,0:00:59.85,Default,,0,0,0,,Urra!
+Dialogue: 0,0:01:00.77,0:01:03.02,Default,,0,0,0,,Le t'ia kthejmë pronarit.
+Dialogue: 0,0:01:03.19,0:01:05.44,Default,,0,0,0,,Me siguri është i shqetësuar.
+Dialogue: 0,0:01:05.61,0:01:07.15,Default,,0,0,0,,Ku duhet ta çojmë?
+Dialogue: 0,0:01:07.73,0:01:10.28,Default,,0,0,0,,Pochitan-i na lajmëroi...
+Dialogue: 0,0:01:11.57,0:01:14.37,Default,,0,0,0,,Por kur e gjetëm,\Nishte vjedhur tashmë...
+Dialogue: 0,0:01:15.03,0:01:18.16,Default,,0,0,0,,Atëherë, kujt dhe ku iu vodh?
+Dialogue: 0,0:01:20.33,0:01:23.17,Default,,0,0,0,,Nuk e dimë!
+Dialogue: 0,0:01:29.84,0:01:33.72,Default,,0,0,0,,{\i1}Le ta kërkojmë\NÇelësi është në zemër!{\i0}
+Dialogue: 0,0:01:33.89,0:01:36.76,Default,,0,0,0,,{\i1}Një shkëndijë e ndritur{\i0}
+Dialogue: 0,0:01:37.10,0:01:39.73,Default,,0,0,0,,{\i1}Me siguri do ta gjejmë\NNë fund të fundit, jemi Precure{\i0}
+Dialogue: 0,0:01:39.89,0:01:42.44,Default,,0,0,0,,{\i1}Po na thërret{\i0}
+Dialogue: 0,0:01:42.60,0:01:45.36,Default,,0,0,0,,{\i1}Ku është e vërteta?\NÇfarë do të zbulojmë?{\i0}
+Dialogue: 0,0:01:45.52,0:01:49.11,Default,,0,0,0,,{\i1}Një mister pas tjetrit{\i0}
+Dialogue: 0,0:01:49.78,0:01:55.16,Default,,0,0,0,,{\i1}Mblidhini pjesët\NNga e tashmja drejt së shkuarës e së ardhmes{\i0}
+Dialogue: 0,0:01:55.32,0:02:00.41,Default,,0,0,0,,{\i1}Si një provë\NDiçka që shkëlqen përtej kohës{\i0}
+Dialogue: 0,0:02:00.66,0:02:03.33,Default,,0,0,0,,{\i1}Si? Si? Mos është ndonjë truk?{\i0}
+Dialogue: 0,0:02:03.50,0:02:06.29,Default,,0,0,0,,{\i1}Pse? Pse? Do të përballemi{\i0}
+Dialogue: 0,0:02:06.59,0:02:11.88,Default,,0,0,0,,{\i1}Shikoje dhe ndjeje\NZbuloje sekretin{\i0}
+Dialogue: 0,0:02:12.22,0:02:17.72,Default,,0,0,0,,{\i1}Një hap i guximshëm do të na çojë te mrekullia{\i0}
+Dialogue: 0,0:02:18.10,0:02:23.27,Default,,0,0,0,,{\i1}Përgjigjja?!\NGjendet kur vëren të pavërejturën{\i0}
+Dialogue: 0,0:02:23.60,0:02:29.07,Default,,0,0,0,,{\i1}Është fati, është dashuria\NPëshpëritur nga një zë i vogël{\i0}
+Dialogue: 0,0:02:29.23,0:02:32.53,Default,,0,0,0,,{\i1}Le ta përshkojmë bashkë atë rrugë!{\i0}
+Dialogue: 0,0:02:32.69,0:02:36.45,Default,,0,0,0,,{\i1}Le ta kërkojmë\NÇelësi është në zemër!{\i0}
+Dialogue: 0,0:02:36.62,0:02:38.28,Default,,0,0,0,,{\i1}Një shkëndijë e ndritur{\i0}
+Dialogue: 0,0:02:38.45,0:02:44.08,Default,,0,0,0,,{\i1}Çelësi i xhevahirit na lidh\NDuke hapur lidhjen që na çon përpara{\i0}
+Dialogue: 0,0:02:44.25,0:02:49.17,Default,,0,0,0,,{\i1}Hej, fakti që lindëm dhe u takuam\Nështë një mister i mrekullueshëm{\i0}
+Dialogue: 0,0:02:49.34,0:02:52.80,Default,,0,0,0,,{\i1}Përpara! Precure, Detektivet e Yjeve!{\i0}
+Dialogue: 0,0:02:59.43,0:03:03.98,Default,,0,0,0,,{\i1}Luluka dhe Hëna e Plotë me Yll të Artë{\i0}
+Dialogue: 0,0:03:04.48,0:03:06.48,Default,,0,0,0,,Më falni!
+Dialogue: 0,0:03:06.65,0:03:11.23,Default,,0,0,0,,Po kërkojmë\Npronarin e kësaj kutie prej druri.
+Dialogue: 0,0:03:11.40,0:03:14.28,Default,,0,0,0,,Një send i humbur? Në atë rast...
+Dialogue: 0,0:03:14.44,0:03:20.08,Default,,0,0,0,,Epo, nuk është send i humbur; e vodhi\NEsnafi i Hajdutëve Fantazmë.
+Dialogue: 0,0:03:21.28,0:03:22.08,Default,,0,0,0,,Çfarë?!
+Dialogue: 0,0:03:22.24,0:03:23.75,Default,,0,0,0,,AGJENCIA E DETEKTIVËVE CURETTO
+Dialogue: 0,0:03:24.54,0:03:27.46,Default,,0,0,0,,Jeni nga Agjencia e Detektivëve CUREtto?
+Dialogue: 0,0:03:28.00,0:03:29.92,Default,,0,0,0,,Vërtet qenkeni të reja.
+Dialogue: 0,0:03:30.09,0:03:31.92,Default,,0,0,0,,Kam dëgjuar për punën tuaj.
+Dialogue: 0,0:03:33.34,0:03:35.05,Default,,0,0,0,,Detektive!
+Dialogue: 0,0:03:35.55,0:03:36.84,Default,,0,0,0,,Ky zë!
+Dialogue: 0,0:03:42.06,0:03:44.98,Default,,0,0,0,,Shiruku Ieiri.
+Dialogue: 0,0:03:45.60,0:03:47.60,Default,,0,0,0,,Shiruku, ç'është ajo uniformë?
+Dialogue: 0,0:03:49.23,0:03:54.07,Default,,0,0,0,,Shiruku Ieiri, kryepolice për një ditë!
+Dialogue: 0,0:03:54.90,0:03:57.07,Default,,0,0,0,,S-Sa bukur!
+Dialogue: 0,0:04:07.79,0:04:10.38,Default,,0,0,0,,Pse erdhët ju detektivet në polici?
+Dialogue: 0,0:04:10.54,0:04:11.96,Default,,0,0,0,,Në fakt...
+Dialogue: 0,0:04:12.50,0:04:15.38,Default,,0,0,0,,Pra, nuk e dini kush është pronari?
+Dialogue: 0,0:04:15.55,0:04:16.51,Default,,0,0,0,,Po.
+Dialogue: 0,0:04:16.67,0:04:18.84,Default,,0,0,0,,Nuk dimë çfarë të bëjmë.
+Dialogue: 0,0:04:19.01,0:04:23.05,Default,,0,0,0,,Ma lini mua! Në fakt, po më intervistojnë\Nsi kryepolice për një ditë.
+Dialogue: 0,0:04:23.22,0:04:25.81,Default,,0,0,0,,Nëse u tregoni të gjithëve se është këtu,
+Dialogue: 0,0:04:25.97,0:04:27.52,Default,,0,0,0,,pronari do të shfaqet!
+Dialogue: 0,0:04:27.68,0:04:28.56,Default,,0,0,0,,Po.
+Dialogue: 0,0:04:28.73,0:04:31.23,Default,,0,0,0,,Pra, çfarë ka brenda kutisë?
+Dialogue: 0,0:04:31.40,0:04:33.82,Default,,0,0,0,,Duket si një pergamenë e vjetër.
+Dialogue: 0,0:04:33.98,0:04:36.07,Default,,0,0,0,,Nuk dimë shumë për të.
+Dialogue: 0,0:04:36.23,0:04:38.20,Default,,0,0,0,,E di! Për gjëra të tilla,
+Dialogue: 0,0:04:38.36,0:04:40.70,Default,,0,0,0,,{\i1}mund të pyesim dikë.{\i0}
+Dialogue: 0,0:04:41.57,0:04:45.12,Default,,0,0,0,,Përshëndetje, vajza!\NSi gjithmonë, qenkeni plot gjallëri!
+Dialogue: 0,0:04:45.29,0:04:46.54,Default,,0,0,0,,Zonja Hosho!
+Dialogue: 0,0:04:46.70,0:04:48.91,Default,,0,0,0,,Faleminderit që erdhët deri këtu!
+Dialogue: 0,0:04:50.29,0:04:51.96,Default,,0,0,0,,Chinami Hosho.
+Dialogue: 0,0:05:01.18,0:05:06.47,Default,,0,0,0,,Dëgjova se kishit diçka për të cilën unë,\Nsi pronare muzeu arti, mund t'ju ndihmoja?
+Dialogue: 0,0:05:06.64,0:05:08.48,Default,,0,0,0,,Po, ju lutem.
+Dialogue: 0,0:05:09.56,0:05:10.77,Default,,0,0,0,,Ta heqim kapakun.
+Dialogue: 0,0:05:10.94,0:05:13.27,Default,,0,0,0,,Vërtet duket si pergamenë.
+Dialogue: 0,0:05:15.52,0:05:19.32,Default,,0,0,0,,Oh? O Zot! O Zot, o Zot, o Zot!
+Dialogue: 0,0:05:19.49,0:05:20.40,Default,,0,0,0,,Çfarë ka?
+Dialogue: 0,0:05:20.57,0:05:22.66,Default,,0,0,0,,Vajza, dëgjoni!
+Dialogue: 0,0:05:22.95,0:05:25.16,Default,,0,0,0,,Kjo është një vepër e famshme nga periudha Edo,
+Dialogue: 0,0:05:25.33,0:05:29.08,Default,,0,0,0,,«Hëna pa Princeshë»\Ne Motonobu Shirakawa-s!
+Dialogue: 0,0:05:29.25,0:05:31.00,Default,,0,0,0,,Është vërtet e veçantë?
+Dialogue: 0,0:05:31.16,0:05:33.04,Default,,0,0,0,,Sigurisht që po!
+Dialogue: 0,0:05:33.21,0:05:35.54,Default,,0,0,0,,Rreth 400 vjet më parë,
+Dialogue: 0,0:05:35.71,0:05:40.80,Default,,0,0,0,,kur Tokio quhej Edo, Motonobu Shirakawa\Nkrijoi portretin e tij të vetëm të një bukurosheje.
+Dialogue: 0,0:05:40.97,0:05:45.22,Default,,0,0,0,,Vepra shkoi në Evropë, ku frymëzoi\Nimpresionistët, e më pas u zhduk.
+Dialogue: 0,0:05:45.39,0:05:47.93,Default,,0,0,0,,Është legjendarja «Hëna pa Princeshë»!
+Dialogue: 0,0:05:48.10,0:05:51.48,Default,,0,0,0,,P-Pra, do të thotë se është vërtet mahnitëse,\Napo jo?
+Dialogue: 0,0:05:51.64,0:05:53.81,Default,,0,0,0,,Është edhe në këtë libër!
+Dialogue: 0,0:05:54.35,0:05:56.82,Default,,0,0,0,,Vërtet! Është tamam e njëjta!
+Dialogue: 0,0:05:57.32,0:05:59.78,Default,,0,0,0,,Por pergamena e vërtetë është e grisur.
+Dialogue: 0,0:05:59.94,0:06:03.78,Default,,0,0,0,,Duket se ajo grisje\Nka ndodhur shumë kohë më parë.
+Dialogue: 0,0:06:03.95,0:06:06.74,Default,,0,0,0,,Sidoqoftë,\Nvlera e saj historike nuk ka ndryshuar!
+Dialogue: 0,0:06:06.91,0:06:08.87,Default,,0,0,0,,Vlen pa problem disa miliarda!
+Dialogue: 0,0:06:09.04,0:06:13.04,Default,,0,0,0,,Ma ndez vërtet shpirtin e koleksionistes!\NPo më zien, po më zien, po më zien!
+Dialogue: 0,0:06:13.21,0:06:14.25,Default,,0,0,0,,Zonja Hosho?!
+Dialogue: 0,0:06:16.38,0:06:21.21,Default,,0,0,0,,Duhet ta shfaqim në televizor\Nfigurën nga libri.
+Dialogue: 0,0:06:21.38,0:06:23.13,Default,,0,0,0,,Po. Pajtohem.
+Dialogue: 0,0:06:23.30,0:06:24.43,Default,,0,0,0,,Do ta provoj!
+Dialogue: 0,0:06:25.84,0:06:28.43,Default,,0,0,0,,Shiruku! Është koha për intervistën!
+Dialogue: 0,0:06:28.60,0:06:29.60,Default,,0,0,0,,Në rregull!
+Dialogue: 0,0:06:30.64,0:06:33.64,Default,,0,0,0,,{\i1}Kryepolice Shiruku, ndonjë fjalë të fundit?{\i0}
+Dialogue: 0,0:06:34.19,0:06:40.61,Default,,0,0,0,,{\i1}Po! Po kërkojmë pronarin e\N«Hënës pa Princeshë» të Motonobu Shirakawa-s.{\i0}
+Dialogue: 0,0:06:40.78,0:06:45.36,Default,,0,0,0,,{\i1}Nëse keni ndonjë informacion, ju lutemi kontaktoni\NKomisariatin e Policisë Makoto Mirai.{\i0}
+Dialogue: 0,0:06:45.99,0:06:47.87,Default,,0,0,0,,{\i1}Faleminderit për ndihmën!{\i0}
+Dialogue: 0,0:06:50.54,0:06:52.62,Default,,0,0,0,,ZONJUSHA SHIRUKU IEIRI\NDHOMA E GRIMIT
+Dialogue: 0,0:06:56.67,0:06:57.67,Default,,0,0,0,,Po vij!
+Dialogue: 0,0:07:00.59,0:07:02.34,Default,,0,0,0,,Oh, qenke ti.
+Dialogue: 0,0:07:03.51,0:07:05.30,Default,,0,0,0,,KRYEPOLICE PËR NJË DITË
+Dialogue: 0,0:07:06.38,0:07:08.55,Default,,0,0,0,,Më fal për herën e kaluar.
+Dialogue: 0,0:07:10.35,0:07:12.56,Default,,0,0,0,,Nuk është diçka që duhet ta fal unë.
+Dialogue: 0,0:07:13.31,0:07:18.52,Default,,0,0,0,,{\i1}Por ai që ma vodhi vathin\Nnga dhoma e grimit ishte ai burrë.{\i0}
+Dialogue: 0,0:07:19.11,0:07:21.48,Default,,0,0,0,,Por unë isha me Hajdutët Fantazmë.
+Dialogue: 0,0:07:22.07,0:07:25.49,Default,,0,0,0,,Atë ditë ta zgjata vathin,
+Dialogue: 0,0:07:25.65,0:07:27.95,Default,,0,0,0,,por prisja që të mos e merrje.
+Dialogue: 0,0:07:28.32,0:07:29.78,Default,,0,0,0,,Hë? Pse?
+Dialogue: 0,0:07:30.62,0:07:31.83,Default,,0,0,0,,Ta thashë.
+Dialogue: 0,0:07:31.99,0:07:37.04,Default,,0,0,0,,«Aktorët i vëzhgojnë gjithmonë njerëzit,\Nqë të mund t'i portretizojnë të tjerët.»
+Dialogue: 0,0:07:38.71,0:07:41.96,Default,,0,0,0,,Atë ditë po luaje\Nrolin e një Hajduti Fantazmë.
+Dialogue: 0,0:07:42.59,0:07:44.42,Default,,0,0,0,,Jam aktore, prandaj e kuptova.
+Dialogue: 0,0:07:44.96,0:07:46.76,Default,,0,0,0,,Ti nuk je njeri i keq.
+Dialogue: 0,0:07:47.59,0:07:49.39,Default,,0,0,0,,Deri tani, unë--
+Dialogue: 0,0:07:51.81,0:07:54.85,Default,,0,0,0,,Mos nxirr përfundime për veten!
+Dialogue: 0,0:07:57.27,0:07:59.19,Default,,0,0,0,,Miqtë e tu të kuptojnë.
+Dialogue: 0,0:07:59.35,0:08:00.44,Default,,0,0,0,,Apo jo?
+Dialogue: 0,0:08:02.98,0:08:07.90,Default,,0,0,0,,E butë, si mëndafsh në gojë.\NPër mua, është Akullorja Silky.
+Dialogue: 0,0:08:08.78,0:08:11.83,Default,,0,0,0,,Më sollën disa dhuratë. Dëshiron një?
+Dialogue: 0,0:08:12.58,0:08:13.74,Default,,0,0,0,,Faleminderit.
+Dialogue: 0,0:08:17.79,0:08:20.33,Default,,0,0,0,,ZONJUSHA SHIRUKU IEIRI\NDHOMA E GRIMIT
+Dialogue: 0,0:08:22.29,0:08:26.76,Default,,0,0,0,,Nëse ia kthejmë pergamenën pronarit,\Nçfarë do të bëhet me Xhevahirin Makoto?
+Dialogue: 0,0:08:26.92,0:08:28.47,Default,,0,0,0,,Po.
+Dialogue: 0,0:08:28.63,0:08:31.43,Default,,0,0,0,,Mund t'i bëj Pochi Pochi Cure Cure!
+Dialogue: 0,0:08:31.59,0:08:32.68,Default,,0,0,0,,Më falni.
+Dialogue: 0,0:08:33.97,0:08:35.93,Default,,0,0,0,,Ç-Ç-Çfarë mund të bëj për ju?
+Dialogue: 0,0:08:36.31,0:08:38.14,Default,,0,0,0,,Është paraqitur një pronar.
+Dialogue: 0,0:08:38.31,0:08:41.15,Default,,0,0,0,,Problemi i vetëm\Nështë se janë tre.
+Dialogue: 0,0:08:41.69,0:08:42.48,Default,,0,0,0,,Hë?
+Dialogue: 0,0:08:45.23,0:08:48.19,Default,,0,0,0,,Është një thesar familjar\Ni trashëguar brez pas brezi.
+Dialogue: 0,0:08:48.36,0:08:51.41,Default,,0,0,0,,Më në fund e gjetët! Është imja.
+Dialogue: 0,0:08:51.91,0:08:54.12,Default,,0,0,0,,Kjo i përkiste gjyshit tim.
+Dialogue: 0,0:08:54.91,0:08:56.37,Default,,0,0,0,,Çfarë po ndodh?
+Dialogue: 0,0:08:56.54,0:08:58.58,Default,,0,0,0,,Dy nga ata të tre...
+Dialogue: 0,0:08:58.75,0:09:00.54,Default,,0,0,0,,...po gënjejnë.
+Dialogue: 0,0:09:00.71,0:09:03.00,Default,,0,0,0,,Atëherë le të flasim me ta.
+Dialogue: 0,0:09:03.17,0:09:04.46,Default,,0,0,0,,DHOMA E MARRJES NË PYETJE
+Dialogue: 0,0:09:04.63,0:09:07.26,Default,,0,0,0,,Ishe jashtë shtetit deri javën e kaluar?
+Dialogue: 0,0:09:07.42,0:09:09.92,Default,,0,0,0,,Sapo u ktheve në Japoni?
+Dialogue: 0,0:09:10.09,0:09:13.93,Default,,0,0,0,,Po. Dëgjova se kishte një pergamenë\Nqë ishte zhdukur jashtë shtetit.
+Dialogue: 0,0:09:14.55,0:09:16.60,Default,,0,0,0,,Udhëtova në një ishull jugor.
+Dialogue: 0,0:09:16.77,0:09:21.77,Default,,0,0,0,,Djersija pa pushim\Nnën diellin përvëlues. Ishte tmerr!
+Dialogue: 0,0:09:22.35,0:09:26.23,Default,,0,0,0,,Por dëgjova për një tregtar antikash\Ndhe e gjeta atje!
+Dialogue: 0,0:09:26.82,0:09:28.23,Default,,0,0,0,,E kuptoj.
+Dialogue: 0,0:09:28.40,0:09:31.95,Default,,0,0,0,,Dhe sapo e solla në shtëpi,\Nma vodhën.
+Dialogue: 0,0:09:32.11,0:09:33.91,Default,,0,0,0,,Ja prova ime.
+Dialogue: 0,0:09:35.87,0:09:37.33,Default,,0,0,0,,Ups, jo kjo.
+Dialogue: 0,0:09:39.33,0:09:41.79,Default,,0,0,0,,Kjo vërtet mban datën e javës së kaluar.
+Dialogue: 0,0:09:42.71,0:09:44.75,Default,,0,0,0,,Prandaj qenke nxirë nga dielli.
+Dialogue: 0,0:09:45.25,0:09:50.72,Default,,0,0,0,,Po. Kisha mjekër të dendur dhe flokë të çrregullta.
+Dialogue: 0,0:09:51.67,0:09:52.93,Default,,0,0,0,,Mjekër...?
+Dialogue: 0,0:09:53.09,0:09:55.39,Default,,0,0,0,,E rrova para se të vija këtu.
+Dialogue: 0,0:09:55.55,0:09:57.60,Default,,0,0,0,,Sapo the një gënjeshtër.
+Dialogue: 0,0:09:57.76,0:09:58.56,Default,,0,0,0,,Hë?
+Dialogue: 0,0:09:59.18,0:10:02.94,Default,,0,0,0,,Nëse ecje\Nnën diellin përvëlues me mjekër,
+Dialogue: 0,0:10:03.10,0:10:06.86,Default,,0,0,0,,zona rreth gojës\Ndhe mjekrës nuk do të ishte nxirë.
+Dialogue: 0,0:10:07.02,0:10:10.49,Default,,0,0,0,,Por fytyrën e ke të nxirë gjithandej.
+Dialogue: 0,0:10:11.15,0:10:13.70,Default,,0,0,0,,Ti thjesht shkove jashtë shtetit, kaq.
+Dialogue: 0,0:10:13.86,0:10:21.16,Default,,0,0,0,,Më falni! E pashë «Hënën pa Princeshë»\Nnë televizor dhe u dashurova me shikim të parë!
+Dialogue: 0,0:10:21.33,0:10:23.21,Default,,0,0,0,,Ti! Hyr këtu menjëherë!
+Dialogue: 0,0:10:23.37,0:10:25.50,Default,,0,0,0,,Është njëri prej këtyre të dyve.
+Dialogue: 0,0:10:26.08,0:10:28.96,Default,,0,0,0,,Njëri prej tyre është nga jashtë.\NÇfarë mund të bëjmë?
+Dialogue: 0,0:10:29.55,0:10:30.84,Default,,0,0,0,,Kjo kërkon...
+Dialogue: 0,0:10:34.26,0:10:35.14,Default,,0,0,0,,Hapu!
+Dialogue: 0,0:10:37.89,0:10:39.22,Default,,0,0,0,,Karamelet Pre-Kit!
+Dialogue: 0,0:10:40.56,0:10:41.35,Default,,0,0,0,,Ja!
+Dialogue: 0,0:10:41.77,0:10:43.81,Default,,0,0,0,,Me karamelet tona do t'ia dalim!
+Dialogue: 0,0:10:44.73,0:10:47.19,Default,,0,0,0,,Ne të dyja dimë anglisht.
+Dialogue: 0,0:10:47.36,0:10:48.27,Default,,0,0,0,,Po.
+Dialogue: 0,0:10:48.44,0:10:50.98,Default,,0,0,0,,Por duken të shijshme, ndaj t'i provojmë!
+Dialogue: 0,0:10:56.20,0:10:57.62,Default,,0,0,0,,Sa të shijshme!
+Dialogue: 0,0:10:59.20,0:11:03.79,Default,,0,0,0,,Pra, Ryan, po planifikon\Ntë shpërngulesh së shpejti.
+Dialogue: 0,0:11:03.96,0:11:08.79,Default,,0,0,0,,Po, prandaj po sistemoja shtëpinë,\Ndhe rastësisht e gjeta.
+Dialogue: 0,0:11:08.96,0:11:12.76,Default,,0,0,0,,Deri atëherë, nuk dije\Npër pergamenën?
+Dialogue: 0,0:11:13.42,0:11:14.22,Default,,0,0,0,,Jo.
+Dialogue: 0,0:11:14.38,0:11:18.97,Default,,0,0,0,,Gjyshi im i adhuronte antikat,\Nprandaj duhet ta ketë marrë diku.
+Dialogue: 0,0:11:19.14,0:11:23.73,Default,,0,0,0,,Dukej se e çmonte shumë,\Npor, kur e mora vesh, ajo ishte zhdukur.
+Dialogue: 0,0:11:26.06,0:11:28.86,Default,,0,0,0,,Jeni mësuese e ceremonisë së çajit?
+Dialogue: 0,0:11:29.02,0:11:31.44,Default,,0,0,0,,Ku e morët pergamenën?
+Dialogue: 0,0:11:31.98,0:11:35.40,Default,,0,0,0,,Është një thesar familjar\Nqë e kemi prej brezash.
+Dialogue: 0,0:11:35.90,0:11:37.36,Default,,0,0,0,,Ku mbahet zakonisht?
+Dialogue: 0,0:11:37.53,0:11:41.58,Default,,0,0,0,,E kishim varur në mur.\NPastaj, një ditë, u zhduk.
+Dialogue: 0,0:11:41.74,0:11:45.00,Default,,0,0,0,,Nuk e dija se ishte kaq e vlefshme.
+Dialogue: 0,0:11:46.41,0:11:47.83,Default,,0,0,0,,Vërtet?
+Dialogue: 0,0:11:50.17,0:11:53.46,Default,,0,0,0,,Asnjëri nuk tha ndonjë gjë të çuditshme.
+Dialogue: 0,0:11:53.63,0:11:58.34,Default,,0,0,0,,Edhe Ryan-i, edhe Yoshie thanë\Nse nuk e dinin vlerën e pergamenës.
+Dialogue: 0,0:11:58.51,0:12:03.18,Default,,0,0,0,,Të dy thanë gjithashtu\Nse ajo thjesht u zhduk një ditë.
+Dialogue: 0,0:12:05.56,0:12:06.43,Default,,0,0,0,,Luluka?
+Dialogue: 0,0:12:08.94,0:12:11.19,Default,,0,0,0,,Edhe akullorja, edhe misteret\Nnë fund shkrihen.
+Dialogue: 0,0:12:12.69,0:12:14.32,Default,,0,0,0,,Ai person është fajtori.
+Dialogue: 0,0:12:23.87,0:12:25.20,Default,,0,0,0,,Hë? Çfarë?
+Dialogue: 0,0:12:25.79,0:12:27.71,Default,,0,0,0,,Për çfarë po më akuzon?
+Dialogue: 0,0:12:28.46,0:12:31.63,Default,,0,0,0,,Thatë se e kishit varur në mur.
+Dialogue: 0,0:12:31.79,0:12:33.21,Default,,0,0,0,,Po, çfarë ka këtu?
+Dialogue: 0,0:12:33.38,0:12:37.17,Default,,0,0,0,,Figura që Shiruku tregoi në televizor\Nishte marrë nga një libër.
+Dialogue: 0,0:12:37.34,0:12:39.18,Default,,0,0,0,,Ç'lidhje ka kjo?
+Dialogue: 0,0:12:39.72,0:12:44.64,Default,,0,0,0,,Pergamena e vërtetë është grisur përgjysmë,\Nprandaj nuk mund ta kishit varur.
+Dialogue: 0,0:12:45.39,0:12:46.64,Default,,0,0,0,,P-Por...!
+Dialogue: 0,0:12:46.81,0:12:49.14,Default,,0,0,0,,U gris pasi e vodhën.
+Dialogue: 0,0:12:49.31,0:12:51.40,Default,,0,0,0,,Kur e rimorëm,
+Dialogue: 0,0:12:52.02,0:12:54.44,Default,,0,0,0,,{\i1}kutia ishte lidhur fort me një litar.{\i0}
+Dialogue: 0,0:12:55.02,0:13:00.78,Default,,0,0,0,,{\i1}Që nga çasti kur u vodh e deri kur pamë\Nbrenda, kutia nuk ishte hapur.{\i0}
+Dialogue: 0,0:13:01.24,0:13:04.28,Default,,0,0,0,,{\i1}Ka shumë pak gjasa që të jetë grisur\Npasi u vodh.{\i0}
+Dialogue: 0,0:13:04.99,0:13:08.87,Default,,0,0,0,,Sidoqoftë, pergamena është grisur\Nshumë kohë më parë.
+Dialogue: 0,0:13:09.04,0:13:11.29,Default,,0,0,0,,Nuk mund të ketë qenë e varur në murin tuaj.
+Dialogue: 0,0:13:12.67,0:13:18.26,Default,,0,0,0,,Ju e vodhët pergamenën nga shtëpia e Ryan-it,\Nbashkë me gjithë kutinë.
+Dialogue: 0,0:13:18.76,0:13:21.22,Default,,0,0,0,,Prandaj nuk e dinit se ishte e grisur.
+Dialogue: 0,0:13:21.76,0:13:22.84,Default,,0,0,0,,A nuk është kështu,
+Dialogue: 0,0:13:23.34,0:13:24.55,Default,,0,0,0,,Ageseine?
+Dialogue: 0,0:13:25.60,0:13:28.14,Default,,0,0,0,,Kjo vërtet tërbon.
+Dialogue: 0,0:13:28.64,0:13:30.35,Default,,0,0,0,,Gënjeshtra, mbështilleni!
+Dialogue: 0,0:13:31.06,0:13:34.36,Default,,0,0,0,,Bëji të fluturojnë! Hanninda!
+Dialogue: 0,0:13:40.40,0:13:42.78,Default,,0,0,0,,Hanninda!
+Dialogue: 0,0:13:46.99,0:13:48.20,Default,,0,0,0,,Hanninda!
+Dialogue: 0,0:13:50.37,0:13:51.16,Default,,0,0,0,,Ndal!
+Dialogue: 0,0:13:51.33,0:13:52.67,Default,,0,0,0,,Nuk do të shpëtosh.
+Dialogue: 0,0:13:53.46,0:13:54.46,Default,,0,0,0,,Hapu!
+Dialogue: 0,0:14:03.34,0:14:05.05,Default,,0,0,0,,Shkopi Shine Arcana!
+Dialogue: 0,0:14:09.02,0:14:11.18,Default,,0,0,0,,Precure! Koha e Zgjimit!
+Dialogue: 0,0:14:14.19,0:14:16.69,Default,,0,0,0,,Shkëlqe, e bardhë si zambaku
+Dialogue: 0,0:14:25.53,0:14:26.82,Default,,0,0,0,,Prekja e Lules!
+Dialogue: 0,0:14:47.39,0:14:54.48,Default,,0,0,0,,Drita e bardhë që ndriçon të vërtetën,\NDetektivja e Yjeve Cure Arcana!
+Dialogue: 0,0:15:00.23,0:15:01.15,Default,,0,0,0,,Hapu!
+Dialogue: 0,0:15:07.24,0:15:09.24,Default,,0,0,0,,Maja e Aromës së Zambakut!
+Dialogue: 0,0:15:11.91,0:15:14.50,Default,,0,0,0,,Precure! Koha e Zgjimit!
+Dialogue: 0,0:15:15.08,0:15:16.42,Default,,0,0,0,,Rrotullim Lulesh,
+Dialogue: 0,0:15:32.72,0:15:33.77,Default,,0,0,0,,Lulëzo!
+Dialogue: 0,0:15:56.33,0:15:57.87,Default,,0,0,0,,Zgjohu!
+Dialogue: 0,0:15:58.04,0:16:03.75,Default,,0,0,0,,Aroma e së vërtetës së brendshme,\NDetektivja e Yjeve Cure Eclair!
+Dialogue: 0,0:16:10.76,0:16:11.89,Default,,0,0,0,,Hapu!
+Dialogue: 0,0:16:16.85,0:16:18.69,Default,,0,0,0,,Ora Jewel Cure!
+Dialogue: 0,0:16:21.44,0:16:24.07,Default,,0,0,0,,Precure! Koha e Zgjimit!
+Dialogue: 0,0:16:24.23,0:16:26.19,Default,,0,0,0,,3! Zbulo!
+Dialogue: 0,0:16:38.87,0:16:40.88,Default,,0,0,0,,6! Dhe përballuni!
+Dialogue: 0,0:16:52.85,0:16:55.14,Default,,0,0,0,,9! Ne jemi dyshja e mrekullueshme!
+Dialogue: 0,0:17:04.48,0:17:06.19,Default,,0,0,0,,Rrotullohuni!
+Dialogue: 0,0:17:06.36,0:17:08.36,Default,,0,0,0,,Dhe përfundojeni bukur!
+Dialogue: 0,0:17:32.22,0:17:35.18,Default,,0,0,0,,Ylli i artë që zgjidh çdo mister!
+Dialogue: 0,0:17:35.35,0:17:38.22,Default,,0,0,0,,Detektivja e Yjeve Cure Answer!
+Dialogue: 0,0:17:40.31,0:17:43.65,Default,,0,0,0,,Drejt buzëqeshjeve kërcejmë\Nme arsyetim të shumëfishtë!
+Dialogue: 0,0:17:43.81,0:17:46.94,Default,,0,0,0,,Detektivja e Yjeve Cure Mystique!
+Dialogue: 0,0:17:51.11,0:17:53.16,Default,,0,0,0,,Precure, Detektivet e Yjeve!
+Dialogue: 0,0:17:55.78,0:17:58.24,Default,,0,0,0,,Do t'jua tregoj përgjigjen time.
+Dialogue: 0,0:18:00.41,0:18:02.42,Default,,0,0,0,,Të gjithë duken për mrekulli!
+Dialogue: 0,0:18:02.58,0:18:03.37,Default,,0,0,0,,Po!
+Dialogue: 0,0:18:05.29,0:18:07.75,Default,,0,0,0,,Mbështille, mbështille! Mbështille!
+Dialogue: 0,0:18:07.92,0:18:10.17,Default,,0,0,0,,Han-ni han-ni han!
+Dialogue: 0,0:18:10.34,0:18:11.42,Default,,0,0,0,,Nuk do ta lejoj.
+Dialogue: 0,0:18:18.56,0:18:20.43,Default,,0,0,0,,Arcana Star Shine!
+Dialogue: 0,0:18:27.36,0:18:28.61,Default,,0,0,0,,Hanninda!
+Dialogue: 0,0:18:28.77,0:18:31.53,Default,,0,0,0,,Nuk mbaroi ende! Tani shpojini!
+Dialogue: 0,0:18:31.69,0:18:33.24,Default,,0,0,0,,Hanninda!
+Dialogue: 0,0:18:36.91,0:18:38.45,Default,,0,0,0,,Ha! Hanninda!
+Dialogue: 0,0:18:38.62,0:18:39.74,Default,,0,0,0,,Tani është mundësia jonë!
+Dialogue: 0,0:18:39.91,0:18:41.62,Default,,0,0,0,,Da!
+Dialogue: 0,0:18:41.79,0:18:42.83,Default,,0,0,0,,Hej!
+Dialogue: 0,0:18:43.00,0:18:44.54,Default,,0,0,0,,Ja lëvizja përfundimtare.
+Dialogue: 0,0:18:52.67,0:18:53.67,Default,,0,0,0,,Mashutan!
+Dialogue: 0,0:18:56.39,0:18:57.43,Default,,0,0,0,,Xhevahiri Makoto.
+Dialogue: 0,0:19:02.56,0:19:04.31,Default,,0,0,0,,Cure Arcana do ta zgjidhë këtë çështje...
+Dialogue: 0,0:19:10.19,0:19:12.23,Default,,0,0,0,,Kjo është përgjigjja ime.
+Dialogue: 0,0:19:13.61,0:19:17.20,Default,,0,0,0,,Precure! Arcana White Lily!
+Dialogue: 0,0:19:30.34,0:19:32.00,Default,,0,0,0,,Çështja CUREtto u Zgjidh!
+Dialogue: 0,0:19:32.96,0:19:37.64,Default,,0,0,0,,Han! Nin! Da!
+Dialogue: 0,0:19:46.39,0:19:49.23,Default,,0,0,0,,Pochi Pochi Cure Cure!
+Dialogue: 0,0:19:52.65,0:19:55.28,Default,,0,0,0,,Uf! Kjo vërtet ma bluan shpirtin!
+Dialogue: 0,0:19:55.44,0:19:57.66,Default,,0,0,0,,S'është e drejtë të më sulmoni të gjitha bashkë!
+Dialogue: 0,0:19:58.11,0:19:59.66,Default,,0,0,0,,Kjo është çmenduri!
+Dialogue: 0,0:20:00.41,0:20:01.70,Default,,0,0,0,,KOMISARIATI I POLICISË MAKOTO MIRAI
+Dialogue: 0,0:20:02.20,0:20:03.91,Default,,0,0,0,,Faleminderit, detektive.
+Dialogue: 0,0:20:05.04,0:20:07.67,Default,,0,0,0,,Gjyshi im do të gëzohet.
+Dialogue: 0,0:20:08.29,0:20:09.46,Default,,0,0,0,,Më vjen mirë.
+Dialogue: 0,0:20:10.04,0:20:14.63,Default,,0,0,0,,A mund t'ju kërkoj pak ndihmë?
+Dialogue: 0,0:20:15.09,0:20:15.88,Default,,0,0,0,,Hë?
+Dialogue: 0,0:20:17.38,0:20:19.55,Default,,0,0,0,,Të restauroni pergamenën?
+Dialogue: 0,0:20:19.72,0:20:22.26,Default,,0,0,0,,Po, është një kërkesë nga pronari, Ryan-i.
+Dialogue: 0,0:20:22.43,0:20:27.48,Default,,0,0,0,,Po pyeste nëse «Hëna pa Princeshë»\Nmund të restaurohej plotësisht.
+Dialogue: 0,0:20:28.02,0:20:29.98,Default,,0,0,0,,Do të ishte nder për mua.
+Dialogue: 0,0:20:30.15,0:20:35.65,Default,,0,0,0,,Njoh një mjeshtër të jashtëzakonshëm restaurimi\Nqë mund ta rregullojë.
+Dialogue: 0,0:20:36.11,0:20:38.07,Default,,0,0,0,,Ju faleminderit shumë!
+Dialogue: 0,0:20:41.20,0:20:44.24,Default,,0,0,0,,Oh, tani që më kujtohet. Si quhesh?
+Dialogue: 0,0:20:45.87,0:20:47.46,Default,,0,0,0,,Luluka Moria.
+Dialogue: 0,0:20:48.00,0:20:51.33,Default,,0,0,0,,Në fakt, duhet të të kërkoj falje.
+Dialogue: 0,0:20:51.79,0:20:52.75,Default,,0,0,0,,Luluka.
+Dialogue: 0,0:20:53.09,0:20:55.34,Default,,0,0,0,,Çfarë mund të kesh parasysh?
+Dialogue: 0,0:20:56.01,0:21:02.30,Default,,0,0,0,,Isha Hajdute Fantazmë dhe vodha\N«Princeshën e Dritës së Yjeve» nga muzeu juaj.
+Dialogue: 0,0:21:02.47,0:21:06.02,Default,,0,0,0,,O Zot, dita e sotme qenka plot të papritura.
+Dialogue: 0,0:21:06.18,0:21:08.52,Default,,0,0,0,,Më falni për atë që bëra.
+Dialogue: 0,0:21:12.48,0:21:13.56,Default,,0,0,0,,Në rregull.
+Dialogue: 0,0:21:14.06,0:21:19.57,Default,,0,0,0,,{\i1}Por atë ditë vodhe kopjen e rreme\Ntë «Princeshës së Dritës së Yjeve».{\i0}
+Dialogue: 0,0:21:20.15,0:21:23.20,Default,,0,0,0,,Prandaj këtë herë të fal.
+Dialogue: 0,0:21:24.53,0:21:26.16,Default,,0,0,0,,Por... unë...
+Dialogue: 0,0:21:26.66,0:21:32.37,Default,,0,0,0,,Falë atij incidenti, vendosa\Ntë ekspozoj të vërtetën, prandaj gjithçka është mirë.
+Dialogue: 0,0:21:34.04,0:21:35.46,Default,,0,0,0,,Faleminderit.
+Dialogue: 0,0:21:38.46,0:21:39.55,Default,,0,0,0,,Gjithashtu.
+Dialogue: 0,0:21:43.09,0:21:46.39,Default,,0,0,0,,Edhe marrëdhëniet njerëzore\Nmund të riparohen.
+Dialogue: 0,0:21:47.26,0:21:50.39,Default,,0,0,0,,Ashtu si «Hëna pa Princeshë».
+Dialogue: 0,0:21:51.69,0:21:55.44,Default,,0,0,0,,Atë natë hëna ishte në zbehje.\NPor sonte...
+Dialogue: 0,0:22:11.87,0:22:13.96,Default,,0,0,0,,Është hënë e plotë me yll të artë.
+Dialogue: 0,0:22:29.35,0:22:35.69,Default,,0,0,0,,{\i1}Mos vallë sepse jemi bashkë?\NMund të bëhem më e fortë{\i0}
+Dialogue: 0,0:22:35.85,0:22:41.28,Default,,0,0,0,,{\i1}Nuk do ta shpërfill një mister\NMë lind fuqia për të menduar{\i0}
+Dialogue: 0,0:22:42.36,0:22:48.58,Default,,0,0,0,,{\i1}Vërej atë që nuk shihet\NKërkoj atë që nuk vihet re{\i0}
+Dialogue: 0,0:22:48.95,0:22:53.50,Default,,0,0,0,,{\i1}Kur jam me shoqe të besueshme{\i0}
+Dialogue: 0,0:22:53.66,0:23:00.55,Default,,0,0,0,,{\i1}Do të bëj një hap drejt përgjigjes\NEc! Ec!{\i0}
+Dialogue: 0,0:23:00.71,0:23:06.47,Default,,0,0,0,,{\i1}Sa herë i afrohem përgjigjes\Nështë emocionuese dhe argëtuese{\i0}
+Dialogue: 0,0:23:06.84,0:23:13.39,Default,,0,0,0,,{\i1}Përtej kohës, përtej çdo vendi\NPesë mistere dhe një çelës i dyfishtë{\i0}
+Dialogue: 0,0:23:13.56,0:23:19.23,Default,,0,0,0,,{\i1}Ku? Kush? Kur? Pse?\NÇfarë bëri? Duhet ta zbuloj!{\i0}
+Dialogue: 0,0:23:19.40,0:23:23.28,Default,,0,0,0,,{\i1}Një ditë do ta kuptoj,\Nme siguri do ta takojmë mrekullinë{\i0}
+Dialogue: 0,0:23:23.44,0:23:26.57,Default,,0,0,0,,{\i1}Sepse bota jonë vazhdon përpara{\i0}
+Dialogue: 0,0:23:26.74,0:23:32.58,Default,,0,0,0,,{\i1}Është një mundësi për t'i realizuar dëshirat\NMisteri nuk është më mister{\i0}
+Dialogue: 0,0:23:33.33,0:23:40.46,Default,,0,0,0,,{\i1}Të gjithë i duan Detektivet e Yjeve\NKjo është dashuria, Precure{\i0}
+Dialogue: 0,0:23:47.22,0:23:50.14,Default,,0,0,0,,{\i1}Luluka dhe Kurea\Ndo të transferohen në shkollë të mesme?{\i0}
+Dialogue: 0,0:23:50.30,0:23:53.52,Default,,0,0,0,,{\i1}Një letër dashurie pa adresë\Nu gjet në klasë.{\i0}
+Dialogue: 0,0:23:53.68,0:23:55.31,Default,,0,0,0,,{\i1}Kush e humbi?{\i0}
+Dialogue: 0,0:23:55.48,0:23:57.90,Default,,0,0,0,,{\i1}Misteret e zemrës m'i lini mua!{\i0}
+Dialogue: 0,0:23:58.35,0:24:01.61,Default,,0,0,0,,{\i1}Precure, Detektivet e Yjeve!\N«Detektivet e Dashurisë»{\i0}
+Dialogue: 0,0:24:01.77,0:24:04.19,Default,,0,0,0,,{\i1}Atë mister! Çështja CUREtto u Zgjidh!{\i0}
+
