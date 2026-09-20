@@ -69,8 +69,16 @@ def subtitle_url(meta, entry):
     A standalone release carries its attachments at the top level; inside a batch each
     file carries its own, so prefer the file's list and fall back to the release's.
     """
-    video = entry.get('info', {}).get('mediainfoj', {}).get('video', [])
-    if len(video) != 1 or int(video[0].get('height', 0)) != 1080:
+    info = entry.get('info', {})
+    video = info.get('mediainfoj', {}).get('video', [])
+    json_confirms_1080p = (len(video) == 1 and int(video[0].get('height', 0)) == 1080)
+    text = info.get('mediainfo', '')
+    blocks = [block for block in re.split(r'\r?\n\s*\r?\n', text.strip()) if block.strip()] if isinstance(text, str) else []
+    text_video = [block for block in blocks
+                  if re.fullmatch(r'Video(?:\s+#\d+)?', block.splitlines()[0].strip())]
+    text_confirms_1080p = (len(text_video) == 1 and
+                           re.search(r'(?m)^Height\s*:\s*1[ ,]?080 pixels\s*$', text_video[0]) is not None)
+    if not json_confirms_1080p and not text_confirms_1080p:
         raise ValueError('Video metadata does not confirm 1080p')
     attachments = entry.get('attachments') or meta.get('attachments', [])
     candidates = [a for a in attachments if a.get('type') == 'subtitle'

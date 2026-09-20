@@ -23,6 +23,18 @@ class PipelineTests(unittest.TestCase):
         meta['files'][0]['info']['mediainfoj']['video'][0]['height'] = 720
         with self.assertRaises(ValueError): attachment(meta,item)
 
+    def test_text_mediainfo_fallback_requires_one_explicit_1080p_video(self):
+        item = {'id':'1','release':'title.mkv'}
+        text = ('General\nFormat : Matroska\n\nVideo\nWidth : 1 920 pixels\n'
+                'Height : 1 080 pixels\n\nAudio\nLanguage : Japanese')
+        meta = {'id':1,'files':[{'filename':'title.mkv','info':{'mediainfo':text}}],
+                'attachments':[{'type':'subtitle','info':{'language_code':'eng','format':'ASS'},'url':'url'}]}
+        self.assertEqual(attachment(meta,item),'url')
+        meta['files'][0]['info']['mediainfo'] = text.replace('1 080', '720')
+        with self.assertRaises(ValueError): attachment(meta,item)
+        meta['files'][0]['info']['mediainfo'] = text + '\n\nVideo #2\nHeight : 1 080 pixels'
+        with self.assertRaises(ValueError): attachment(meta,item)
+
     def test_xz_validation(self):
         self.assertEqual(decompress(lzma.compress(b'text')),b'text')
         with self.assertRaises(ValueError): decompress(lzma.compress(b'text') + b'junk')
