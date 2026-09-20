@@ -707,6 +707,23 @@
       "sourceEpisode": "22",
       "sourceTitle": "Honzuki no Gekokujou",
       "numberingEvidence": "https://anikototv.to/watch/ascendance-of-a-bookworm-adopted-daughter-of-an-archduke-huvyk"
+    },
+    {
+      "id": "at-689639",
+      "title": "Case Closed",
+      "episode": "1213",
+      "malId": 235,
+      "anilistId": 235,
+      "slugs": [
+        "case-closed-w8ehk"
+      ],
+      "file": "files/at-689639.sq.vtt",
+      "assFile": "ass/at-689639.sq.ass",
+      "offset": 0,
+      "sourceReleaseId": "689639",
+      "sourceEpisode": "1213",
+      "sourceTitle": "Detective Conan",
+      "numberingEvidence": "https://anikototv.to/watch/case-closed-w8ehk"
     }
   ]
 }

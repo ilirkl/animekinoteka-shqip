@@ -1,0 +1,401 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: DCMain,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: DCItalic,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,2,2,20,20,18,0
+Style: DCFlashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: DCOverlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: DCMainTop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: DCItalicTop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,2,8,20,20,18,0
+Style: DCFlashbackTop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: DCOverlapTop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: DCFlashbackItalic,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: DCFlashbackItalicTop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: DCOverlapItalic,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: DCOverlapItalicTop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: sign_episode_title,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00FCFFFF,&H00D4A947,-1,0,0,0,100,100,0,0,1,0,0,8,10,10,60,0
+Style: sign_episode_preview,Roboto Medium,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,7,20,20,23,0
+Style: sign_suspect,Trebuchet MS,18,&H00FFFFFF,&H000000FF,&H409D434C,&H40000000,0,0,0,0,100,100,0,0,1,2,0,5,10,10,10,0
+Style: sign_next_episode,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00464646,&H00D4A947,-1,0,0,0,100,100,0,0,1,2,0,8,10,10,60,0
+Style: sign_hint_label,Impact,30,&H00191919,&H00A9A9A9,&H00E4E4E4,&H006D6D6D,0,0,0,0,100,90,0,0,3,3,0,5,10,10,10,0
+Style: sign_dont_miss,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H003B3B3B,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,4,10,10,10,0
+Style: sign_song_op_1206,Trebuchet MS,22,&H00E1E1E1,&H00FFFFFF,&H80000000,&H80000000,-1,0,0,0,100,90,1,0,1,0,1,5,10,10,10,0
+Style: sign_song_ed_1188,Verdana,14,&H00FFFFFF,&H007F7F7F,&H00000000,&H40232323,0,0,0,0,105,80,0,0,1,0,1,1,10,10,10,0
+Style: sign_later,Verdana,16,&H10FFFFFF,&H000000FF,&H80000000,&HA0000000,-1,0,0,0,100,100,0,0,1,0,1,5,10,10,10,0
+Style: sign_1213_phone_text_messages,Trebuchet MS,28,&H00603A1E,&H00704B33,&H00DDD3CE,&H20C8B7AC,-1,0,0,0,100,100,0,0,1,0,0,5,10,10,10,0
+Style: sign_1213_whiteboard_note,Comic Sans MS,32,&H00000000,&H00888888,&H00FFFFFF,&H00787878,-1,0,0,0,100,100,0,0,1,0,0,5,10,10,10,0
+Style: sign_1213_clothing_store_nako,Times New Roman,15,&H00E9E8ED,&H00888888,&H005F428B,&H003E2A5C,-1,0,0,0,100,100,1,0,1,0,0,5,10,10,10,0
+Style: sign_1213_salon_sign_loutre_de_mer,Arial Black,11,&H80170B8D,&H00888888,&H00E5E5E5,&H00787576,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:07.17,0:00:09.29,DCMain,RAN,0,0,0,,Çfarë ishte ajo?
+Dialogue: 0,0:00:09.29,0:00:12.00,DCMain,MISATO,0,0,0,,Dikush u rrëzua. Le të shkojmë ta shohim.
+Dialogue: 0,0:00:12.46,0:00:13.16,DCMain,RAN,0,0,0,,Në rregull.
+Dialogue: 0,0:00:17.00,0:00:20.96,sign_song_op_1206,SIGN,0,0,0,,{\fad(1,500)\an3\pos(358,158)\blur0.2}Ai no FIRE
+Dialogue: 0,0:00:17.00,0:00:20.96,sign_song_op_1206,SIGN,0,0,0,,{\fad(1,500)\an7\pos(263,200)\fs14\blur0.2}Kënga nga Niihama Leon
+Dialogue: 0,0:00:32.90,0:00:34.58,DCItalic,CONAN,0,0,0,,Dashuria e pashuar është fitil!
+Dialogue: 0,0:00:34.58,0:00:36.94,DCItalic,CONAN,0,0,0,,Flakët digjen brenda\Nkëtyre aftësive detektive!
+Dialogue: 0,0:00:36.94,0:00:38.53,DCItalic,CONAN,0,0,0,,Në distancë, Ran\Nsheh një hije që lëkundet!
+Dialogue: 0,0:00:38.53,0:00:40.48,DCItalic,CONAN,0,0,0,,Diçka është gati të ndodhë!
+Dialogue: 0,0:00:40.48,0:00:42.25,DCItalic,CONAN,0,0,0,,Gjithmonë duke zbuluar të vetmen të vërtetë
+Dialogue: 0,0:00:42.25,0:00:44.25,DCItalic,CONAN,0,0,0,,me trupin e një fëmije\Ndhe mendjen e një të rrituri,
+Dialogue: 0,0:00:44.25,0:00:46.89,DCItalic,CONAN,0,0,0,,emri i tij është Detektivi Conan!
+Dialogue: 0,0:02:13.07,0:02:18.99,sign_episode_title,SIGN,0,0,0,,{\fad(400,1)}Mori Ran, Dëshmitarja
+Dialogue: 0,0:02:13.24,0:02:15.96,DCItalic,CONAN,0,0,0,,"Mori Ran, Dëshmitarja!"
+Dialogue: 0,0:02:21.48,0:02:24.25,DCMain,TAKAGI,0,0,0,,Viktima ishte një ish-punonjëse\Ne kësaj kompanie,
+Dialogue: 0,0:02:24.25,0:02:26.83,sign_suspect,SIGN,0,0,0,,{\pos(243,171)}Ishii Sayaka (35)
+Dialogue: 0,0:02:24.25,0:02:26.83,sign_suspect,SIGN,0,0,0,,{\fs14\pos(243,196)}Ish-punonjëse e kompanisë së\Nzhvillimit të sistemeve "Butterfee"
+Dialogue: 0,0:02:24.25,0:02:26.83,DCMain,TAKAGI,0,0,0,,Ishii Sayaka-san, 35 vjeç.
+Dialogue: 0,0:02:27.10,0:02:29.59,DCMain,TAKAGI,0,0,0,,Vdiq rreth një orë më parë.
+Dialogue: 0,0:02:30.00,0:02:35.03,DCMain,TAKAGI,0,0,0,,U mbyt me një lloj litari,\Npor nuk ka plagë të tjera të jashtme.
+Dialogue: 0,0:02:35.03,0:02:40.51,DCMain,TAKAGI,0,0,0,,Gjetëm këtë çelës zyre\Nnë xhepin e viktimës.
+Dialogue: 0,0:02:41.88,0:02:49.25,DCMainTop,MEGURE,0,0,0,,Dhe trupi u gjet dhe u raportua\Nnga Ran-kun dhe Misato Junta-san,
+Dialogue: 0,0:02:48.81,0:02:52.40,sign_suspect,SIGN,0,0,0,,{\fad(500,1)\pos(180,257)}Misato Junta (28)
+Dialogue: 0,0:02:48.81,0:02:52.40,sign_suspect,SIGN,0,0,0,,{\fad(500,1)\fs14\pos(180,274)}Frizues
+Dialogue: 0,0:02:49.25,0:02:52.40,DCMainTop,MEGURE,0,0,0,,i cili drejton një sallon në\Nkatin e dytë të kësaj ndërtese.
+Dialogue: 0,0:02:52.76,0:02:56.53,DCMain,TAKAGI,0,0,0,,Në fakt, ata nuk e gjetën thjesht trupin.
+Dialogue: 0,0:02:56.53,0:03:00.45,DCMain,TAKAGI,0,0,0,,Me sa duket\Nishin dëshmitarë edhe të krimit.
+Dialogue: 0,0:03:00.45,0:03:02.79,DCMain,MEGURE,0,0,0,,Çfarë? A është e vërtetë?
+Dialogue: 0,0:03:02.79,0:03:04.17,DCMain,RAN,0,0,0,,Po.
+Dialogue: 0,0:03:04.90,0:03:09.09,DCMain,RAN,0,0,0,,Po prisja Sonokon në\Nanën tjetër të stacionit,
+Dialogue: 0,0:03:09.09,0:03:13.47,DCMain,RAN,0,0,0,,por arrita herët,\Ndhe ndërsa prisja...
+Dialogue: 0,0:03:13.47,0:03:14.76,DCFlashback,MISATO,0,0,0,,Më falni.
+Dialogue: 0,0:03:17.01,0:03:20.14,DCFlashback,MISATO,0,0,0,,A do të interesoheshit për modelim flokësh?
+Dialogue: 0,0:03:20.14,0:03:21.19,DCFlashback,RAN,0,0,0,,Çfarë?
+Dialogue: 0,0:03:21.19,0:03:26.27,DCFlashback,MISATO,0,0,0,,Në fakt jam mjaft i famshëm,\Nta them vetë.
+Dialogue: 0,0:03:26.27,0:03:29.61,DCFlashback,MISATO,0,0,0,,Thjesht sot\Nnuk kam klientë.
+Dialogue: 0,0:03:29.61,0:03:30.93,DCFlashback,RAN,0,0,0,,E kuptoj.
+Dialogue: 0,0:03:30.93,0:03:35.16,DCMain,RAN,0,0,0,,Kështu që telefonova Sonokon dhe\Nvendosa të pritem flokët.
+Dialogue: 0,0:03:35.16,0:03:37.93,DCFlashback,MISATO,0,0,0,,Shkëlqyeshëm, faleminderit.
+Dialogue: 0,0:03:37.93,0:03:40.15,DCFlashback,MISATO,0,0,0,,Salloni im është afër.
+Dialogue: 0,0:03:40.51,0:03:44.02,DCFlashback,MISATO,0,0,0,,Është në katin e dytë të\Nasaj ndërtese matanë shinave.
+Dialogue: 0,0:03:51.46,0:03:54.35,DCFlashback,RAN,0,0,0,,Çfarë ishte ajo?
+Dialogue: 0,0:03:54.35,0:03:57.20,DCFlashback,MISATO,0,0,0,,Dikush u rrëzua. Le të shkojmë ta shohim.
+Dialogue: 0,0:03:57.20,0:03:58.09,DCFlashback,RAN,0,0,0,,Në rregull.
+Dialogue: 0,0:03:58.09,0:04:01.10,DCMain,MISATO,0,0,0,,Pas kësaj, erdhëm në këtë ndërtesë.
+Dialogue: 0,0:04:01.52,0:04:04.60,DCMain,MISATO,0,0,0,,Kontrollova katin e tretë për çdo rast.
+Dialogue: 0,0:04:05.23,0:04:11.51,DCMain,MISATO,0,0,0,,Dera ishte e hapur, kështu që hyra brenda\Ndhe gjeta Ishii-san në tokë.
+Dialogue: 0,0:04:13.15,0:04:15.61,DCMain,MISATO,0,0,0,,Pastaj Chozuka-san doli nga banjoja.
+Dialogue: 0,0:04:15.88,0:04:18.53,DCMain,MEGURE,0,0,0,,Çfarë? Dikush ishte në vendin e krimit?
+Dialogue: 0,0:04:18.53,0:04:21.33,DCMain,TAKAGI,0,0,0,,Po, Chozuka Kazuhiko-san.
+Dialogue: 0,0:04:21.33,0:04:23.49,DCMain,TAKAGI,0,0,0,,Ai është presidenti i kësaj kompanie.
+Dialogue: 0,0:04:28.25,0:04:31.25,sign_1213_phone_text_messages,SIGN,0,0,0,,{\c&HEAEAEA&\an4\frz-20\pos(305,90)}Ran
+Dialogue: 0,0:04:28.25,0:04:31.25,sign_1213_phone_text_messages,SIGN,0,0,0,,{\an6\frz-20\pos(555,230)}TEMË: Prerje flokësh?
+Dialogue: 0,0:04:28.25,0:04:31.25,sign_1213_phone_text_messages,SIGN,0,0,0,,{\an9\frz-20\q2\pos(482,245)}Shinichi, a ke një stil flokësh\Ntë preferuar?
+Dialogue: 1,0:04:28.25,0:04:31.25,DCItalicTop,RAN,0,0,0,,Shinichi, a ke\Nnjë stil flokësh të preferuar?
+Dialogue: 0,0:04:34.13,0:04:38.51,sign_1213_phone_text_messages,SIGN,0,0,0,,{\c&HEAEAEA&\an4\frz-20\pos(305,90)}Ran
+Dialogue: 0,0:04:34.13,0:04:38.51,sign_1213_phone_text_messages,SIGN,0,0,0,,{\an6\frz-20\pos(555,227)}TEMË: Urgjencë!
+Dialogue: 0,0:04:34.13,0:04:38.51,sign_1213_phone_text_messages,SIGN,0,0,0,,{\an9\frz-20\q2\pos(540,255)}Pashë aksidentalisht një krim\Nteksa shkoja\Nte salloni!
+Dialogue: 1,0:04:34.52,0:04:38.51,DCItalicTop,RAN,0,0,0,,Pashë aksidentalisht një krim\Nteksa shkoja te salloni!
+Dialogue: 0,0:04:38.51,0:04:39.56,DCMain,CONAN,0,0,0,,Prit,{\i1}çfarë{\i0}?
+Dialogue: 0,0:04:40.60,0:04:41.51,DCMain,SONOKO,0,0,0,,Ran!
+Dialogue: 0,0:04:42.67,0:04:43.85,DCMain,RAN,0,0,0,,Sonoko.
+Dialogue: 0,0:04:44.68,0:04:45.89,DCMain,SONOKO,0,0,0,,A je mirë?
+Dialogue: 0,0:04:45.89,0:04:49.52,DCMain,RAN,0,0,0,,Po. Më vjen keq për gjithë këtë.
+Dialogue: 0,0:04:49.52,0:04:50.69,DCMain,SONOKO,0,0,0,,S'ka problem.
+Dialogue: 0,0:04:50.69,0:04:54.57,DCMain,RAN,0,0,0,,Detektivi Takagi më tha\Ntë shkoja të prisja në katin e dytë.
+Dialogue: 0,0:04:54.57,0:04:55.70,DCMain,SONOKO,0,0,0,,Kuptova.
+Dialogue: 0,0:04:56.80,0:04:58.53,DCMain,SONOKO,0,0,0,,Djalosh?
+Dialogue: 0,0:04:58.53,0:05:00.93,DCMain,CONAN,0,0,0,,Ran-neechan, a je mirë?
+Dialogue: 0,0:05:00.93,0:05:03.03,DCMain,RAN,0,0,0,,Conan-kun, çfarë po bën këtu?
+Dialogue: 0,0:05:03.03,0:05:10.54,DCMain,CONAN,0,0,0,,Shinichi-niichan tha se ishte tepër i zënë\Npër të ardhur dhe më kërkoi të të kontrolloja.
+Dialogue: 0,0:05:11.05,0:05:12.54,DCMain,RAN,0,0,0,,E kuptoj.
+Dialogue: 0,0:05:12.93,0:05:14.69,DCMain,RAN,0,0,0,,Ne jemi mirë.
+Dialogue: 0,0:05:14.69,0:05:17.01,DCMain,SONOKO,0,0,0,,Nuk do të zgjasë shumë zgjidhja e çështjes.
+Dialogue: 0,0:05:17.01,0:05:21.72,DCMain,SONOKO,0,0,0,,Meqë Ran pashë krimin,\Nfajtori ishte ende në vendin e ngjarjes.
+Dialogue: 0,0:05:22.06,0:05:23.47,DCMain,CONAN,0,0,0,,Vërtet?
+Dialogue: 0,0:05:36.73,0:05:38.32,sign_1213_whiteboard_note,SIGN,0,0,0,,{\an2\frz20\fax-0.3\move(102,101,159,101)\c&H282828&}Chozuka
+Dialogue: 0,0:05:36.73,0:05:38.32,sign_1213_whiteboard_note,SIGN,0,0,0,,{\an2\frz20\fax-0.3\move(253,47,310,47)\c&H282828&}Në zyrë
+Dialogue: 0,0:05:46.76,0:05:48.44,DCMain,CHOZUKA,0,0,0,,P-Por...
+Dialogue: 0,0:05:49.03,0:05:51.46,DCMain,CHOZUKA,0,0,0,,Nuk kisha asnjë lidhje me këtë! Vërtet!
+Dialogue: 0,0:05:51.71,0:05:56.21,sign_suspect,SIGN,0,0,0,,{\pos(320,255)\fad(500,500)}Chozuka Kazuhiko (40)
+Dialogue: 0,0:05:51.71,0:05:56.21,sign_suspect,SIGN,0,0,0,,{\pos(320,272)\fad(500,500)\fs14}Presidenti i "Butterfee"
+Dialogue: 0,0:05:52.03,0:05:56.96,DCMainTop,CHOZUKA,0,0,0,,Ndoshta një hajdut hyri\Nnë ndërtesë dhe Ishii u ndesh me të.
+Dialogue: 0,0:05:56.96,0:06:01.72,DCMain,MEGURE,0,0,0,,Por dëgjuam se asgjë nuk\Nu vodh nga zyra,
+Dialogue: 0,0:06:01.72,0:06:04.97,DCMain,MEGURE,0,0,0,,dhe mendoj se do të kishe\Ndëgjuar një hajdut duke thyer.
+Dialogue: 0,0:06:04.97,0:06:08.50,DCMain,CONAN,0,0,0,,Nuk kishte shenja\Npërleshjeje në vendin e ngjarjes, apo jo?
+Dialogue: 0,0:06:08.50,0:06:13.65,DCMain,RAN,0,0,0,,Jo, dhe Detektivi Takagi\Ntha se viktima u mbyt
+Dialogue: 0,0:06:13.65,0:06:15.72,DCMain,RAN,0,0,0,,por nuk kishte plagë të tjera të jashtme.
+Dialogue: 0,0:06:15.72,0:06:18.68,DCMain,SONOKO,0,0,0,,Duhet ta ketë vrarë\Ndikush që ajo e njihte.
+Dialogue: 0,0:06:18.68,0:06:19.61,DCMain,MISATO,0,0,0,,Çfarë?
+Dialogue: 0,0:06:19.61,0:06:21.72,DCMain,MISATO,0,0,0,,Nga e dini?
+Dialogue: 0,0:06:21.72,0:06:24.60,DCMain,RAN,0,0,0,,Sonoko është detektive gjimnazi.
+Dialogue: 0,0:06:24.60,0:06:25.60,DCMain,MISATO,0,0,0,,Çfarë?
+Dialogue: 0,0:06:25.60,0:06:29.40,DCMain,SONOKO,0,0,0,,Babai dhe i dashuri i Ranit janë detektivë.
+Dialogue: 0,0:06:30.08,0:06:31.82,DCMain,MISATO,0,0,0,,Kjo është mbresëlënëse.
+Dialogue: 0,0:06:32.33,0:06:36.55,DCMain,TAKAGI,0,0,0,,Chozuka-san, a mund të na tregoni\Nçfarë ndodhi
+Dialogue: 0,0:06:36.55,0:06:38.94,DCMain,TAKAGI,0,0,0,,pasi mbërritët në zyrë sot?
+Dialogue: 0,0:06:38.94,0:06:39.84,DCMain,CHOZUKA,0,0,0,,Në rregull.
+Dialogue: 0,0:06:40.29,0:06:45.84,DCMain,CHOZUKA,0,0,0,,Kompania ishte e mbyllur sot, por\Nerdha sepse kisha punë.
+Dialogue: 0,0:06:46.13,0:06:50.85,DCMain,CHOZUKA,0,0,0,,Si gjithmonë, kyça derën,\Nmora kafe nga frigoriferi,
+Dialogue: 0,0:06:51.11,0:06:56.60,DCMain,CHOZUKA,0,0,0,,u kujdesa për bimët dhe fillova punën.
+Dialogue: 0,0:06:57.35,0:06:59.86,DCMain,CHOZUKA,0,0,0,,Duhet të jem i lodhur nga\Nkaq punë kohët e fundit,
+Dialogue: 0,0:07:00.25,0:07:02.85,DCMain,CHOZUKA,0,0,0,,sepse më zuri gjumi në banjo.
+Dialogue: 0,0:07:03.18,0:07:07.11,DCMain,CHOZUKA,0,0,0,,Kur u zgjova,\Ntrupi i Ishiit ishte në zyrë,
+Dialogue: 0,0:07:07.47,0:07:10.62,DCMain,CHOZUKA,0,0,0,,dhe Misato-kun dhe ajo vajza ishin atje.
+Dialogue: 0,0:07:10.62,0:07:15.62,DCMain,TAKAGI,0,0,0,,E kuptoj. Dëgjuam se Ishii-san\Nishte ish-punonjëse.
+Dialogue: 0,0:07:15.62,0:07:18.63,DCMain,CHOZUKE,0,0,0,,Po. Ajo u largua dy muaj më parë.
+Dialogue: 0,0:07:18.63,0:07:23.26,DCMain,TAKAGI,0,0,0,,A keni ndonjë ide pse\Nerdhi në zyrë sot?
+Dialogue: 0,0:07:25.89,0:07:27.26,DCMain,CHOZUKA,0,0,0,,Jo.
+Dialogue: 0,0:07:28.51,0:07:30.99,DCMain,SONOKO,0,0,0,,Ky nuk është justifikim i mirë.
+Dialogue: 0,0:07:30.99,0:07:36.14,DCMain,SONOKO,0,0,0,,Misato-san, a dini gjë\Npër Ishii-san dhe Chozuka-san?
+Dialogue: 0,0:07:36.14,0:07:42.15,DCMain,MISATO,0,0,0,,Ishii-san ishte kliente e imja, por\Nnuk e njoh mirë presidentin.
+Dialogue: 0,0:07:42.72,0:07:46.46,DCMain,MISATO,0,0,0,,Ishii-san e përmendte atë ndonjëherë\Nteksa priste flokët.
+Dialogue: 0,0:07:46.46,0:07:48.03,DCMain,RAN,0,0,0,,E kuptoj.
+Dialogue: 0,0:07:48.81,0:07:53.16,DCMain,MISATO,0,0,0,,Tani që po mendoj,\NIshii-san erdhi këtu së fundmi.
+Dialogue: 0,0:07:53.50,0:07:56.40,DCMain,MISATO,0,0,0,,Hyri pa takim të caktuar.
+Dialogue: 0,0:07:56.83,0:08:01.67,DCMain,MISATO,0,0,0,,Nuk i duhej fare prerje,\Npor gjithsesi kërkoi një të tillë.
+Dialogue: 0,0:08:15.06,0:08:16.93,sign_1213_clothing_store_nako,SIGN,0,0,0,,{\an1\pos(284,112)}DYQAN VESHJESH TË PËRDORURA
+Dialogue: 0,0:08:17.30,0:08:18.44,DCMain,CHIBA,0,0,0,,Më falni.
+Dialogue: 0,0:08:18.44,0:08:22.13,DCMain,CHIBA,0,0,0,,A mund t'ju pyes për\NIshii-san, viktimën?
+Dialogue: 0,0:08:23.94,0:08:28.07,sign_suspect,SIGN,0,0,0,,{\pos(320,255)\fad(500,500)}Muto Nako (38)
+Dialogue: 0,0:08:23.94,0:08:28.07,sign_suspect,SIGN,0,0,0,,{\pos(320,272)\fad(500,500)\fs14}Menaxhere e dyqanit të veshjeve të përdorura
+Dialogue: 0,0:08:24.24,0:08:28.32,DCMainTop,NAKO,0,0,0,,Ishii-san thjesht vinte si\Nkliente ndonjëherë.
+Dialogue: 0,0:08:28.59,0:08:31.66,DCMain,CHIBA,0,0,0,,A mbani mend gjë për të?
+Dialogue: 0,0:08:31.66,0:08:33.73,DCMain,CHIBA,0,0,0,,Edhe gjëja më e vogël mund të ndihmojë.
+Dialogue: 0,0:08:33.73,0:08:35.95,DCMain,NAKO,0,0,0,,Nuk e di...
+Dialogue: 0,0:08:36.28,0:08:40.26,DCMain,NAKO,0,0,0,,O, ajo fliste ndonjëherë për\Nkompaninë e saj.
+Dialogue: 0,0:08:40.26,0:08:41.83,DCMain,CHIBA,0,0,0,,Çfarë thoshte?
+Dialogue: 0,0:08:42.26,0:08:47.09,DCMain,NAKO,0,0,0,,Ankohej se sa rreptësisht\Npresidenti i përmbahej rutinave.
+Dialogue: 0,0:08:47.09,0:08:49.66,DCMain,CHIBA,0,0,0,,Çfarë saktësisht thoshte?
+Dialogue: 0,0:08:49.66,0:08:54.99,DCMain,NAKO,0,0,0,,Nuk kënaqej nëse nuk bënte të\Nnjëjtat gjëra në të njëjtën rend çdo ditë.
+Dialogue: 0,0:08:54.99,0:08:56.35,DCMain,CHIBA,0,0,0,,E kuptoj.
+Dialogue: 0,0:08:56.35,0:09:00.35,DCMain,NAKO,0,0,0,,Gjithsesi, mendoj se Ishii-san la punën.
+Dialogue: 0,0:09:00.84,0:09:03.81,DCMain,NAKO,0,0,0,,E kisha parë së fundmi, ndaj nuk e kisha idenë.
+Dialogue: 0,0:09:04.14,0:09:06.48,DCMain,CHIBA,0,0,0,,E patë? Ku?
+Dialogue: 0,0:09:06.48,0:09:08.83,DCMain,NAKO,0,0,0,,Afër kësaj ndërtese.
+Dialogue: 0,0:09:08.83,0:09:12.36,DCMain,NAKO,0,0,0,,E pashë duke folur\Nme presidentin gjithashtu.
+Dialogue: 0,0:09:12.72,0:09:16.74,DCMain,NAKO,0,0,0,,Dukeshin se po\Ngrindeshin për diçka.
+Dialogue: 0,0:09:17.10,0:09:18.81,DCMain,CHIBA,0,0,0,,A e dini çfarë thoshte?
+Dialogue: 0,0:09:18.81,0:09:21.25,DCMain,NAKO,0,0,0,,Jo, nuk e di.
+Dialogue: 0,0:09:21.62,0:09:28.26,DCMain,CHIBA,0,0,0,,E kuptoj. Meqë ra fjala, ku\Nishe rreth orës 11:45 sot?
+Dialogue: 0,0:09:28.26,0:09:32.63,DCMain,NAKO,0,0,0,,Sapo kisha mbyllur për pasditen\Ndhe po bëja pushim.
+Dialogue: 0,0:09:32.63,0:09:36.14,DCMain,NAKO,0,0,0,,Ishte në kafenenë time të zakonshme.
+Dialogue: 0,0:09:36.14,0:09:38.02,sign_1213_whiteboard_note,SIGN,0,0,0,,{\an8\frz35\fs24\pos(297,134)}Nga 11:30-12:00
+Dialogue: 0,0:09:36.14,0:09:38.02,sign_1213_whiteboard_note,SIGN,0,0,0,,{\frz37\fax0.1\an8\fs24\pos(360,200)}Jashtë për drekë
+Dialogue: 0,0:09:36.14,0:09:38.02,sign_1213_whiteboard_note,SIGN,0,0,0,,{\frz40\fax0.1\fs24\an8\pos(410,240)}Dyqani i veshjeve NAKO
+Dialogue: 0,0:09:36.51,0:09:38.02,DCMainTop,CHIBA,0,0,0,,E kuptoj.
+Dialogue: 0,0:09:38.34,0:09:40.43,DCMain,CHIBA,0,0,0,,Vlerësoj bashkëpunimin tuaj.
+Dialogue: 0,0:09:49.94,0:09:51.86,DCMain,CONAN,0,0,0,,Hej, zonjë.
+Dialogue: 0,0:09:51.86,0:09:55.99,DCMain,CONAN,0,0,0,,Po e mbyll dyqanin?
+Dialogue: 0,0:09:55.99,0:10:00.20,DCMain,NAKO,0,0,0,,Çfarë? Po, por nga e kuptove?
+Dialogue: 0,0:10:01.34,0:10:02.82,DCMain,CONAN,0,0,0,,Thjesht një ndjenjë.
+Dialogue: 0,0:10:05.37,0:10:07.99,sign_1213_clothing_store_nako,SIGN,0,0,0,,{\an2\frx40\frz1\fs18\move(406,250,406,340)}DYQAN VESHJESH TË PËRDORURA
+Dialogue: 0,0:10:05.76,0:10:07.99,DCMainTop,TAKAGI,0,0,0,,E kuptoj. Kuptova.
+Dialogue: 0,0:10:07.99,0:10:09.40,DCMain,TAKAGI,0,0,0,,Faleminderit.
+Dialogue: 0,0:10:10.47,0:10:12.24,DCMain,MEGURE,0,0,0,,Mësuat gjë?
+Dialogue: 0,0:10:12.24,0:10:19.39,DCMain,TAKAGI,0,0,0,,Po. Ishii-san u pa përreth\Nkësaj ndërtese edhe pasi u largua.
+Dialogue: 0,0:10:20.02,0:10:23.69,DCMain,TAKAGI,0,0,0,,U pa madje\Nduke u grindur me Chozuka-san.
+Dialogue: 0,0:10:23.69,0:10:26.84,DCMain,TAKAGI,0,0,0,,A nuk ishte miqësore largimi i saj?
+Dialogue: 0,0:10:27.46,0:10:29.15,DCMain,CHOZUKA,0,0,0,,Nuk ishte.
+Dialogue: 0,0:10:29.81,0:10:36.91,DCMain,CHOZUKA,0,0,0,,Në fakt kemi një shërbim të ri që\Npo nisemi, dhe fillimisht ishte idea e saj.
+Dialogue: 0,0:10:37.45,0:10:41.66,DCMain,CHOZUKA,0,0,0,,Diskutuam të punonim bashkë për të,
+Dialogue: 0,0:10:42.20,0:10:46.67,DCMain,CHOZUKA,0,0,0,,por ajo u verbua nga lakmia\Ndhe humbi kontrollin.
+Dialogue: 0,0:10:47.25,0:10:50.67,DCMain,CHOZUKA,0,0,0,,U detyrova ta largoja.
+Dialogue: 0,0:10:50.67,0:10:53.75,DCMain,CHOZUKA,0,0,0,,Ajo nuk mund ta pranonte, ndaj...
+Dialogue: 0,0:10:54.93,0:10:59.05,DCMain,MEGURE,0,0,0,,Ndoshta Ishii-san ndjeu se e tradhtove.
+Dialogue: 0,0:10:59.59,0:11:01.51,DCMain,CHOZUKA,0,0,0,,Mendoj se po.
+Dialogue: 0,0:11:01.51,0:11:04.81,DCMain,CHOZUKA,0,0,0,,Ajo ndoshta mendonte\Nse mora meritat për punën e saj.
+Dialogue: 0,0:11:05.65,0:11:10.49,DCMain,SONOKO,0,0,0,,Thua se Ishii-san priste flokët\Nkur nuk i duheshin, apo jo?
+Dialogue: 0,0:11:10.49,0:11:12.37,DCMain,MISATO,0,0,0,,Hë? Po.
+Dialogue: 0,0:11:12.37,0:11:16.20,DCMain,SONOKO,0,0,0,,Ndoshta vinte të mbante\Nnjë sy mbi Chozuka-san.
+Dialogue: 0,0:11:16.57,0:11:20.33,DCMain,SONOKO,0,0,0,,Bast se po e shantazhonte.
+Dialogue: 0,0:11:20.33,0:11:21.47,DCMain,MISATO,0,0,0,,Çfarë?
+Dialogue: 0,0:11:22.11,0:11:24.33,DCMain,SONOKO,0,0,0,,Tani kemi një motiv të qartë.
+Dialogue: 0,0:11:25.15,0:11:30.09,DCMain,CHOZUKA,0,0,0,,Siç e shihni, nuk kam asgjë\Nqë mund të përdoret si armë.
+Dialogue: 0,0:11:30.09,0:11:32.41,DCMain,SONOKO,0,0,0,,Tani na duhet vetëm prova.
+Dialogue: 0,0:11:32.41,0:11:34.40,DCMain,RAN,0,0,0,,Po. Hë?
+Dialogue: 0,0:11:35.48,0:11:36.97,DCMain,RAN,0,0,0,,Ku është Conan-kun?
+Dialogue: 0,0:11:39.80,0:11:41.01,DCItalic,CONAN/ID,0,0,0,,Kjo është.
+Dialogue: 0,0:11:41.39,0:11:43.52,DCItalic,CONAN/ID,0,0,0,,Ajo është ndërtesa ku ndodhi.
+Dialogue: 0,0:11:46.21,0:11:48.52,DCItalic,CONAN/ID,0,0,0,,Nuk ka pamje të qartë nga këtu.
+Dialogue: 0,0:11:48.52,0:11:50.65,sign_1213_clothing_store_nako,SIGN,0,0,0,,{\fad(400,1)\an1\frz-3\fax0.1\fs12\pos(294,150)}DYQAN VESHJESH TË PËRDORURA
+Dialogue: 0,0:11:51.72,0:11:55.38,DCMain,RAN,0,0,0,,Ku shkoi Conan-kun?
+Dialogue: 0,0:11:56.28,0:11:58.80,DCMain,CHIBA,0,0,0,,A mund të flas përsëri me ju?
+Dialogue: 0,0:11:59.91,0:12:04.15,DCMain,CHIBA,0,0,0,,Biznesi i ri i presidentit Chozuka\Npo shkonte mirë,
+Dialogue: 0,0:12:04.15,0:12:08.92,DCMain,CHIBA,0,0,0,,ndaj donte të zgjeronte zyrën\Nnë këtë hapësirë në katin e parë.
+Dialogue: 0,0:12:09.47,0:12:13.03,DCMain,CHIBA,0,0,0,,Dëgjova se Ishii-san ishte\Nduke negociuar dëbimin tuaj.
+Dialogue: 0,0:12:13.03,0:12:17.63,DCMain,NAKO,0,0,0,,O, mendoni se unë e vrava?
+Dialogue: 0,0:12:17.63,0:12:19.16,DCMain,CHIBA,0,0,0,,A është e vërtetë?
+Dialogue: 0,0:12:19.16,0:12:25.49,DCMain,NAKO,0,0,0,,Ajo që thatë është e vërtetë, por isha e kënaqur\Nme kompensimin që ofruan.
+Dialogue: 0,0:12:25.49,0:12:29.94,DCMain,NAKO,0,0,0,,Kryesisht e drejtoja këtë vend për argëtim dhe\Ngjithsesi nuk kisha shumë klientë.
+Dialogue: 0,0:12:31.19,0:12:34.48,DCMain,NAKO,0,0,0,,Meqë ra fjala, a verifikuat alibinë time?
+Dialogue: 0,0:12:34.48,0:12:36.44,DCMain,CHIBA,0,0,0,,Siç thatë,
+Dialogue: 0,0:12:36.79,0:12:42.95,DCMain,CHIBA,0,0,0,,pronari i kafenesë dëshmoi se\Nishe atje deri rreth orës 11:45.
+Dialogue: 0,0:12:43.93,0:12:46.33,DCMain,NAKO,0,0,0,,Sigurisht. Mirë.
+Dialogue: 0,0:12:56.26,0:13:01.24,DCItalic,RAN,0,0,0,,Sipas Misato-san, viktima\NIshii-san erdhi në sallon
+Dialogue: 0,0:13:01.24,0:13:03.94,DCItalic,RAN,0,0,0,,edhe kur nuk i duhej asgjë.
+Dialogue: 0,0:13:04.72,0:13:11.17,DCItalic,RAN,0,0,0,,Pothuajse jemi të sigurt se po vëzhgonte\NChozuka-san dhe po e shantazhonte,
+Dialogue: 0,0:13:11.17,0:13:15.02,DCItalic,RAN,0,0,0,,por ka edhe dikë tjetër\Nqë ka motiv.
+Dialogue: 0,0:13:15.84,0:13:21.33,DCItalic,CONAN/ID,0,0,0,,Dikush tjetër ka motiv,\Npor ajo ka alibi.
+Dialogue: 0,0:13:28.84,0:13:30.40,DCItalic,CONAN/ID,0,0,0,,Prit një minutë.
+Dialogue: 0,0:13:31.48,0:13:32.50,DCItalic,CONAN/ID,0,0,0,,E gjeta!
+Dialogue: 0,0:13:32.50,0:13:37.50,sign_1213_phone_text_messages,SIGN,0,0,0,,{\an9\pos(620,20)\fad(1,1)\fscx100\fscy100\p1\shad0\bord2\c&HF3F1EF&\3c&H6F4A32&\4c&HFFFFFF&}m 220 00 l 00 00 00 150 220 150
+Dialogue: 1,0:13:32.50,0:13:37.50,sign_1213_phone_text_messages,SIGN,0,0,0,,{\fs16\an7\pos(415,27)}NJOFTIM PËR MBYLLJE RRUGE\N\N{\fs12}Rruga në perëndim të\Nstacionit Tsutsuginakahara\Ndo të mbyllet\Npër shkak të punimeve të riparimit\Nnë rrugën e ngritur\N\N\NData dhe ora\NE shtunë dhe e diel gjatë shtatorit\N9:00~12:00
+Dialogue: 0,0:13:37.50,0:13:40.78,DCItalic,CONAN/ID,0,0,0,,E kuptoj. Pra{\i0}kështu{\i1}është.
+Dialogue: 0,0:13:50.54,0:13:53.92,DCMain,SONOKO,0,0,0,,Ran, pse i mblodhe të gjithë?
+Dialogue: 0,0:13:53.92,0:13:55.13,DCMain,RAN,0,0,0,,Çfarë?
+Dialogue: 0,0:13:55.13,0:14:01.08,DCMain,RAN,0,0,0,,Shinichi telefonoi të thoshte se ti\Nndoshta e zgjidhe çështjen.
+Dialogue: 0,0:14:01.08,0:14:03.48,DCMain,SONOKO,0,0,0,,Çfarë? Ai tha kështu?
+Dialogue: 0,0:14:03.48,0:14:07.28,DCMain,CONAN,0,0,0,,Ti vure re gjëra të ndryshme.
+Dialogue: 0,0:14:07.28,0:14:10.40,DCMain,SONOKO,0,0,0,,Hë? Vërtet? Unë?
+Dialogue: 0,0:14:12.32,0:14:15.42,DCMain,NAKO,0,0,0,,Hm, çfarë është?
+Dialogue: 0,0:14:15.42,0:14:18.92,DCMain,TAKAGI,0,0,0,,Ka diçka që duhet\Nta dish, Muto-san.
+Dialogue: 0,0:14:18.92,0:14:21.54,DCMain,TAKAGI,0,0,0,,E drejtë, Sonoko-san?
+Dialogue: 0,0:14:21.54,0:14:22.88,DCMain,SONOKO,0,0,0,,Hë? Nuk e—
+Dialogue: 0,0:14:29.69,0:14:30.81,DCMain,RAN,0,0,0,,Sonoko!
+Dialogue: 0,0:14:32.06,0:14:37.19,DCMain,SONOKO,0,0,0,,Ashtu është. Dua që të gjithë\Nta dëgjojnë të vërtetën e kësaj çështjeje.
+Dialogue: 0,0:14:37.84,0:14:41.72,DCMain,SONOKO,0,0,0,,Së pari, kujtoni situatën\Nnë vendin e krimit.
+Dialogue: 0,0:14:42.09,0:14:45.13,DCMain,SONOKO,0,0,0,,Nuk kishte shenja\Npërleshjeje në zyrë.
+Dialogue: 0,0:14:45.13,0:14:50.21,DCMain,SONOKO,0,0,0,,Sikur Chozuka-san ta kishte sulmuar Ishii-san,\Na do të kishte qenë{\i1}vërtet{\i0}kaq e rregullt?
+Dialogue: 0,0:14:50.70,0:14:51.96,DCMain,TAKAGI,0,0,0,,Kjo është e vërtetë.
+Dialogue: 0,0:14:52.87,0:14:56.33,DCMain,SONOKO,0,0,0,,Do të kishte qenë e vështirë\Nt'i afrohej edhe nga pas.
+Dialogue: 0,0:14:56.69,0:15:03.72,DCMain,SONOKO,0,0,0,,Edhe sikur ta bënte, Ishii-san do të\Nrezistonte ndërsa mbyshej.
+Dialogue: 0,0:15:04.14,0:15:06.58,DCMain,CHOZUKA,0,0,0,,Po, ashtu është.
+Dialogue: 0,0:15:06.58,0:15:11.01,DCMain,CHOZUKA,0,0,0,,Sikur të isha unë fajtori, nuk do të\Nkisha kohë të rregulloja vendin e krimit.
+Dialogue: 0,0:15:11.52,0:15:18.27,DCMain,SONOKO,0,0,0,,Pikërisht, ndaj mendova se gjithçka\Nqë tha Chozuka-san duhej të ishte e vërtetë.
+Dialogue: 0,0:15:18.27,0:15:22.42,DCMain,SONOKO,0,0,0,,Me fjalë të tjera, ai u kurdis.
+Dialogue: 0,0:15:22.42,0:15:24.84,DCMain,SONOKO,0,0,0,,Fajtori e shfrytëzoi atë.
+Dialogue: 0,0:15:24.84,0:15:27.65,DCMain,MEGURE,0,0,0,,Rutinën e Chozuka-san, do të thuash.
+Dialogue: 0,0:15:27.65,0:15:33.41,DCMain,SONOKO,0,0,0,,Po. Chozuka-san piu kafe të droguar,
+Dialogue: 0,0:15:33.41,0:15:37.42,DCMain,SONOKO,0,0,0,,iu zuri gjumi në banjo,\Ndhe mbeti i bllokuar brenda.
+Dialogue: 0,0:15:37.78,0:15:40.69,DCMain,MEGURE,0,0,0,,Duke përdorur atë fshesën?
+Dialogue: 0,0:15:40.69,0:15:42.30,DCMain,TAKAGI,0,0,0,,A ishte e mbështetur te dera?
+Dialogue: 0,0:15:42.68,0:15:45.30,DCMain,TAKAGI,0,0,0,,Mu duk e çuditshme.
+Dialogue: 0,0:15:45.82,0:15:50.68,DCMain,CHIBA,0,0,0,,Por a nuk u pa momenti\Ni krimit?
+Dialogue: 0,0:15:50.68,0:15:53.43,DCMain,RAN,0,0,0,,Po. E pashë duke ndodhur.
+Dialogue: 0,0:15:53.43,0:15:58.31,DCMain,SONOKO,0,0,0,,A ishte vërtet{\i1}ai{\i0}momenti\Ni krimit, megjithatë?
+Dialogue: 0,0:15:59.85,0:16:03.73,DCMain,SONOKO,0,0,0,,Çelësi i kësaj çështjeje është\Nora e krimit.
+Dialogue: 0,0:16:03.73,0:16:07.95,DCMain,SONOKO,0,0,0,,Chozuka-san është i vetmi\Nqë nuk ka alibi për atë orë.
+Dialogue: 0,0:16:08.35,0:16:14.58,DCMain,SONOKO,0,0,0,,Por nëse mund ta zgjidhim çështjen e\Nkohës, mund të ketë fajtorë të tjerë.
+Dialogue: 0,0:16:15.02,0:16:19.68,DCMain,MISATO,0,0,0,,P-Por Ran-san dhe\Nunë e pamë Ishii-san duke u rrëzuar.
+Dialogue: 0,0:16:19.68,0:16:21.00,DCMain,SONOKO,0,0,0,,A e patë vërtet?
+Dialogue: 0,0:16:21.37,0:16:26.31,DCMain,SONOKO,0,0,0,,Ran, a e pe{\i1}vërtet{\i0}\NIshii-san duke u rrëzuar?
+Dialogue: 0,0:16:26.31,0:16:30.22,DCMain,RAN,0,0,0,,Çfarë? A jam e sigurt se ishte Ishii-san?
+Dialogue: 0,0:16:33.17,0:16:37.72,DCMain,RAN,0,0,0,,N-Nuk jam e sigurt nëse ishte Ishii-san,
+Dialogue: 0,0:16:37.72,0:16:40.81,DCMain,RAN,0,0,0,,por pashë patjetër{\i1}dikë{\i0}duke u rrëzuar.
+Dialogue: 0,0:16:41.09,0:16:47.69,DCMain,SONOKO,0,0,0,,Ashtu është. Nuk e pe Ishii-san\Nduke u rrëzuar; pe një{\i1}figurë{\i0}duke u rrëzuar.
+Dialogue: 0,0:16:47.69,0:16:51.64,DCMain,SONOKO,0,0,0,,Me fjalë të tjera, diçka që i ngjante\Nnjë personi u vendos pranë dritares
+Dialogue: 0,0:16:51.64,0:16:55.33,DCMain,SONOKO,0,0,0,,dhe u bë të dukej si Ishii-san duke rënë.
+Dialogue: 0,0:16:55.33,0:17:00.08,DCMain,SONOKO,0,0,0,,Ajo u vendos pranë dritares dhe\Nu lidh me një fshesë robotike me spango.
+Dialogue: 0,0:17:00.51,0:17:05.55,DCMain,SONOKO,0,0,0,,Kur fshesa robotike aktivizohet\Nme kohëmatës, ajo e tërheq poshtë.
+Dialogue: 0,0:17:05.55,0:17:07.84,DCMain,SONOKO,0,0,0,,Është një truk i thjeshtë.
+Dialogue: 0,0:17:07.84,0:17:09.76,DCMain,TAKAGI,0,0,0,,Përdorën fshesën robotike?
+Dialogue: 0,0:17:10.28,0:17:12.01,DCMain,CONAN,0,0,0,,Tani që po mendoj,
+Dialogue: 0,0:17:12.01,0:17:17.64,DCMain,CONAN,0,0,0,,mendova se baza e fshesës robotike\Nishte në një drejtim të çuditshëm.
+Dialogue: 0,0:17:17.64,0:17:23.52,DCMain,TAKAGI,0,0,0,,E kuptoj. Kjo ishte për ta penguar\Ntë shkonte në drejtimin e gabuar.
+Dialogue: 0,0:17:23.96,0:17:27.36,DCMain,RAN,0,0,0,,Por çfarë ishte objekti\Nqë i ngjante një personi?
+Dialogue: 0,0:17:27.36,0:17:31.29,DCMain,SONOKO,0,0,0,,Ka diçka që i ngjan\Nnjë personi dhe rregullohet lehtë.
+Dialogue: 0,0:17:31.29,0:17:32.70,DCMain,MEGURE,0,0,0,,Çfarë është ajo?
+Dialogue: 0,0:17:32.70,0:17:34.70,DCMain,SONOKO,0,0,0,,Një torso vinili.
+Dialogue: 0,0:17:34.70,0:17:37.91,DCMain,SONOKO,0,0,0,,Është një manekin i fryrë.
+Dialogue: 0,0:17:40.19,0:17:42.17,DCMain,NAKO,0,0,0,,Çfarë? Jo, prit!
+Dialogue: 0,0:17:42.52,0:17:44.60,DCMain,NAKO,0,0,0,,Nuk e bëra unë!
+Dialogue: 0,0:17:44.60,0:17:48.34,DCMain,NAKO,0,0,0,,Truku funksionoi sepse\Ndëshmitarët rastësisht e panë, por...
+Dialogue: 0,0:17:48.34,0:17:52.05,DCMain,SONOKO,0,0,0,,Pikërisht. Ran nuk e pa\Naksidentalisht.
+Dialogue: 0,0:17:52.05,0:17:55.35,DCMain,SONOKO,0,0,0,,Ajo u zgjodh për ta parë\Nnga fajtori i vërtetë.
+Dialogue: 0,0:17:57.22,0:17:59.22,DCMain,RAN,0,0,0,,Do të thuash...
+Dialogue: 0,0:17:59.22,0:18:05.85,DCMain,SONOKO,0,0,0,,E kërkova, dhe rruga përpara\Nkësaj ndërtese ishte e mbyllur në atë kohë.
+Dialogue: 0,0:18:02.60,0:18:05.85,sign_1213_phone_text_messages,SIGN,0,0,0,,{\an9\pos(620,20)\fad(1,1)\fscx100\fscy100\p1\shad0\bord2\c&HF5F3F1&\3c&H7D6353&\4c&HFFFFFF&}m 220 00 l 00 00 00 150 220 150
+Dialogue: 1,0:18:02.60,0:18:05.85,sign_1213_phone_text_messages,SIGN,0,0,0,,{\fs16\an7\pos(415,27)\c&H7D6353&}NJOFTIM PËR MBYLLJE RRUGE\N\N{\fs12}Rruga në perëndim të\Nstacionit Tsutsuginakahara\Ndo të mbyllet\Npër shkak të punimeve të riparimit\Nnë rrugën e ngritur\N\N\NData dhe ora\NE shtunë dhe e diel gjatë shtatorit\N9:00~12:00
+Dialogue: 0,0:18:05.85,0:18:10.16,DCMain,SONOKO,0,0,0,,Për më tepër, pati një moment kur asnjë\Ntren nuk po mbërrinte në stacion.
+Dialogue: 0,0:18:10.16,0:18:12.66,DCMain,SONOKO,0,0,0,,Një moment i përsosur kur Ran\Nmund ta shihte qartë ndërtesën
+Dialogue: 0,0:18:12.66,0:18:15.56,DCMain,SONOKO,0,0,0,,nga vendi ku qëndronte.
+Dialogue: 0,0:18:15.56,0:18:21.71,DCMain,SONOKO,0,0,0,,Fajtori vendosi kohëmatësin për atë\Ndritare të ngushtë dhe foli me Ranin.
+Dialogue: 0,0:18:21.71,0:18:22.89,DCFlashback,MISATO,0,0,0,,Më falni.
+Dialogue: 0,0:18:24.05,0:18:26.45,DCMain,MISATO,0,0,0,,Po pyesja veten se çfarë do të thoshe.
+Dialogue: 0,0:18:26.45,0:18:31.26,DCMain,MISATO,0,0,0,,Mund të jesh detektive gjimnazi,\Npor duhet të kujdesesh çfarë thua.
+Dialogue: 0,0:18:31.78,0:18:34.64,DCMain,MISATO,0,0,0,,Erdha në vendin e krimit me Ran-san.
+Dialogue: 0,0:18:34.64,0:18:38.67,DCMain,SONOKO,0,0,0,,Ran, a ishe vërtet me\NMisato-san gjatë gjithë kohës?
+Dialogue: 0,0:18:40.17,0:18:41.79,DCMain,RAN,0,0,0,,Epo...
+Dialogue: 0,0:18:41.79,0:18:45.15,DCMain,RAN,0,0,0,,Tani që e përmend,\Nu ndamë për një moment.
+Dialogue: 0,0:18:45.15,0:18:51.30,DCMain,RAN,0,0,0,,Tha se do të kontrollonte katin e tretë,\Ndhe pastaj dëgjova klithmën.
+Dialogue: 0,0:18:51.30,0:18:52.90,DCMain,RAN,0,0,0,,Ishte vetëm rreth një minutë.
+Dialogue: 0,0:18:53.30,0:18:57.21,DCMain,SONOKO,0,0,0,,Kjo është kohë e mjaftueshme\Npër të hequr torson,
+Dialogue: 0,0:18:57.21,0:18:59.70,DCMain,SONOKO,0,0,0,,për ta kthyer fshesën robotike në bazën e saj,
+Dialogue: 0,0:18:59.70,0:19:03.52,DCMain,SONOKO,0,0,0,,dhe për të hequr fshesën\Nqë bllokonte derën e banjos.
+Dialogue: 0,0:19:04.05,0:19:10.90,DCMain,MISATO,0,0,0,,Vazhdon të thuash gjëra, por si\Nmund të kisha hyrë në zyrë?
+Dialogue: 0,0:19:10.90,0:19:13.18,DCMain,MISATO,0,0,0,,Është gjithmonë e kyçur.
+Dialogue: 0,0:19:13.18,0:19:17.13,DCMain,SONOKO,0,0,0,,Kujtohu, Ishii-san\Npriste Chozuka-san
+Dialogue: 0,0:19:17.13,0:19:20.35,DCMain,SONOKO,0,0,0,,para ndërtesës pasi u largua.
+Dialogue: 0,0:19:20.35,0:19:23.57,DCMain,SONOKO,0,0,0,,Me fjalë të tjera, ajo\Nnuk kishte më çelës.
+Dialogue: 0,0:19:23.57,0:19:25.60,DCMain,SONOKO,0,0,0,,Dikush e vodhi.
+Dialogue: 0,0:19:26.70,0:19:28.97,DCMain,MISATO,0,0,0,,Po thua se{\i1}unë{\i0}jam\Nai që e vodhi?
+Dialogue: 0,0:19:28.97,0:19:31.61,DCMain,MISATO,0,0,0,,Edhe Muto-san mund ta kishte vjedhur!
+Dialogue: 0,0:19:32.02,0:19:35.61,DCMain,SONOKO,0,0,0,,Ishii-san vinte periodikisht\Nnë sallon, apo jo?
+Dialogue: 0,0:19:36.11,0:19:38.36,DCMain,SONOKO,0,0,0,,Ti do të kishe pasur mundësinë ta vidhje.
+Dialogue: 0,0:19:38.98,0:19:44.25,DCMain,SONOKO,0,0,0,,Përveç kësaj, nëse ajo u vra\Nnë këtë sallon e jo në zyrë,
+Dialogue: 0,0:19:44.69,0:19:49.25,DCMain,SONOKO,0,0,0,,ti do të kishe mundur natyrshëm\Nt'i afroheshe nga pas.
+Dialogue: 0,0:19:49.65,0:19:52.75,DCMain,SONOKO,0,0,0,,Muto-san thjesht nuk mund ta kishte bërë.
+Dialogue: 0,0:19:53.28,0:19:56.42,DCMain,SONOKO,0,0,0,,Nuk ka ashensor në këtë ndërtesë.
+Dialogue: 0,0:19:56.42,0:20:00.55,DCMain,SONOKO,0,0,0,,Po thua se Muto-san e vrau\NIshii-san në dyqanin e saj në katin e parë
+Dialogue: 0,0:20:00.96,0:20:03.56,DCMain,SONOKO,0,0,0,,dhe e çoi lart në katin e tretë?
+Dialogue: 0,0:20:04.37,0:20:06.52,DCMain,MISATO,0,0,0,,Jo, prit! Nuk isha unë!
+Dialogue: 0,0:20:07.00,0:20:09.23,DCMain,MISATO,0,0,0,,Ran-san, duhet të më besosh!
+Dialogue: 0,0:20:10.86,0:20:11.98,sign_1213_salon_sign_loutre_de_mer,SIGN RED,0,0,0,,{\an8\frz-2\fad(300,1)\pos(371,270)}KATI 2 I KËSAJ NDËRTESE
+Dialogue: 0,0:20:13.06,0:20:14.23,DCMain,RAN,0,0,0,,Tabela juaj...
+Dialogue: 0,0:20:14.23,0:20:15.36,DCMain,MISATO,0,0,0,,Çfarë?
+Dialogue: 0,0:20:15.89,0:20:20.37,DCMain,RAN,0,0,0,,Tabela e këtij salloni është\Npikërisht pranë hyrjes.
+Dialogue: 0,0:20:20.73,0:20:23.40,DCMain,RAN,0,0,0,,A nuk është e çuditshme të kesh një tabelë që thotë,
+Dialogue: 0,0:20:23.40,0:20:27.37,DCMain,RAN,0,0,0,,"Kati 2 i Kësaj Ndërtese"\Npranë një hyrjeje në katin e dytë?
+Dialogue: 0,0:20:27.37,0:20:29.05,DCMain,MISATO,0,0,0,,U-Unë...
+Dialogue: 0,0:20:29.60,0:20:34.38,DCMain,RAN,0,0,0,,Nuk doje që klientët të hynin,\Nndaj nuk e vure tabelën në rrugë.
+Dialogue: 0,0:20:34.79,0:20:40.24,DCMain,RAN,0,0,0,,A nuk është kjo sepse planifikoje\Ntë vrisje dikë në këtë sallon?
+Dialogue: 0,0:20:42.14,0:20:45.02,DCMain,MISATO,0,0,0,,Nëse mendon se e bëra,\Nmë trego provën!
+Dialogue: 0,0:20:45.02,0:20:48.76,DCMain,MISATO,0,0,0,,Ku është prova se e bëra?\NKu është arma?
+Dialogue: 0,0:20:48.76,0:20:50.22,DCMain,TAKAGI,0,0,0,,Nuk e kemi gjetur ende.
+Dialogue: 0,0:20:50.22,0:20:55.44,DCMain,SONOKO,0,0,0,,Sigurisht që jo, sepse\NMisato-san e ka ende me vete.
+Dialogue: 0,0:20:56.69,0:21:00.88,DCMain,SONOKO,0,0,0,,Kuti e gërshërëve e tua\Nnuk ka gërshërë brenda.
+Dialogue: 0,0:21:00.88,0:21:06.87,DCMain,SONOKO,0,0,0,,A nuk është sepse torso i shfryrë\Nështë i palosur aty brenda?
+Dialogue: 0,0:21:07.48,0:21:11.72,DCMain,SONOKO,0,0,0,,Pasi mori torson\Nnga vendi i hedhjes,
+Dialogue: 0,0:21:11.72,0:21:15.63,DCMain,SONOKO,0,0,0,,Misato-san përdori torson e shfryrë\Npër të mbytur Ishii-san,
+Dialogue: 0,0:21:15.96,0:21:21.38,DCMain,SONOKO,0,0,0,,e fryu për trukun e tij, dhe pastaj\Ne shfryu përsëri dhe e fshehu.
+Dialogue: 0,0:21:21.38,0:21:23.26,DCMain,RAN,0,0,0,,Por pse?
+Dialogue: 0,0:21:24.37,0:21:28.51,DCMain,MISATO,0,0,0,,Ajo grua më foli\Nedhe mua për t'u shpërngulur.
+Dialogue: 0,0:21:29.02,0:21:33.79,DCMain,MISATO,0,0,0,,Kur refuzova, ajo prishi\Nreputacionin e sallonit tim.
+Dialogue: 0,0:21:34.22,0:21:38.24,DCMain,MISATO,0,0,0,,Klientët ndaluan së ardhuri,\Ndhe u detyrova ta mbyllja.
+Dialogue: 0,0:21:38.78,0:21:42.77,DCMain,MISATO,0,0,0,,Dyqani im ishte i famshëm dikur!
+Dialogue: 0,0:21:42.77,0:21:48.59,DCMain,MISATO,0,0,0,,Nuk mund t'ia falja\Nnjollosjen e emrit me gënjeshtra!
+Dialogue: 0,0:23:09.95,0:23:15.38,DCMain,SONOKO,0,0,0,,Mendova se do të ishte në modë\Ntë pritesha nga dikush i famshëm,
+Dialogue: 0,0:23:15.38,0:23:19.72,DCMain,SONOKO,0,0,0,,por ndoshta kjo është shenjë\Nse duhet ta mbaj stilin aktual.
+Dialogue: 0,0:23:20.83,0:23:23.79,DCMain,RAN,0,0,0,,Conan-kun, çfarë mendon\Npër stilin tim të flokëve?
+Dialogue: 0,0:23:23.79,0:23:24.59,DCMain,CONAN,0,0,0,,Hë?
+Dialogue: 0,0:23:28.85,0:23:31.10,DCMain,CONAN,0,0,0,,Mendoj se është mirë ashtu si është.
+Dialogue: 0,0:23:31.43,0:23:32.56,DCMain,RAN,0,0,0,,Vërtet?
+Dialogue: 0,0:23:32.56,0:23:35.40,DCMain,CONAN,0,0,0,,Mendoj se Shinichi-niichan do të pajtohej.
+Dialogue: 0,0:23:35.40,0:23:37.42,DCMain,RAN,0,0,0,,Vërtet?
+Dialogue: 0,0:23:38.21,0:23:39.93,DCMain,RAN,0,0,0,,Atëherë mendoj se do ta mbaj.
+Dialogue: 0,0:23:41.41,0:23:43.40,DCItalic,CONAN/ID,0,0,0,,Kam mjaft për t'u shqetësuar tashmë...
+Dialogue: 0,0:23:44.99,0:24:09.01,sign_episode_preview,SIGN,0,0,0,,Pamje paraprake e episodit
+Dialogue: 0,0:23:45.61,0:23:47.83,DCMain,ANZAKA,0,0,0,,Më mirë të kujdesesh.
+Dialogue: 0,0:23:47.83,0:23:51.87,DCMain,ANZAKA,0,0,0,,Nuk dihet se çfarë mund të ndodhë\Ngjatë shfaqjes.
+Dialogue: 0,0:23:52.17,0:23:54.12,DCMain,HEIJI,0,0,0,,Çfarë do të thuash me këtë?
+Dialogue: 0,0:23:54.12,0:23:58.37,DCMain,ANZAKA,0,0,0,,Kukullari djallëzor i skenës.
+Dialogue: 0,0:23:58.37,0:24:03.00,DCItalic,HEIJI/ID,0,0,0,,Ashtu është. Unë jam nga Osaka,\Nndaj duhet ta bëj këtu.
+Dialogue: 0,0:24:03.37,0:24:09.01,DCItalic,HEIJI/ID,0,0,0,,Do t'i them Kazuhas si ndjehem\Nnë vendin më të lartë të Osakës.
+Dialogue: 0,0:24:09.01,0:24:15.02,sign_next_episode,SIGN,0,0,0,,{\pos(320,45)}Dita e Mbylljes së Kuqe\N(Dita e Hapjes)
+Dialogue: 0,0:24:09.73,0:24:14.55,DCItalic,CONAN,0,0,0,,Episodi i radhës i Conan është "Dita e\NMbylljes së Kuqe, Dita e Hapjes!"
+Dialogue: 0,0:24:30.03,0:24:33.09,DCItalicTop,SONOKO,0,0,0,,Gjëza e Conanit të radhës!
+Dialogue: 0,0:24:30.03,0:24:34.95,sign_hint_label,SIGN,0,0,0,,{\an2\fnImpact\pos(320,300)}{\3c&HB6B1B0&}\h{\3c&HB8B4B3&}\h{\3c&HC2BCBB&}\h{\3c&HD1C9C7&}S{\3c&HE0D9D8&}K{\3c&HE8E2E0&}E{\3c&HE8E2E0&}N{\3c&HDCD7D6&}A{\3c&HD1CBCA&}\h{\3c&HC7C1C0&}\h{\3c&HBDB8B5&}\h
+Dialogue: 0,0:24:33.09,0:24:34.95,DCItalicTop,CONAN,0,0,0,,Skena!
+Dialogue: 0,0:24:34.95,0:24:36.90,DCMainTop,RAN,0,0,0,,Mund ta bësh, Kazuha-chan\Ndhe Hattori-kun!
+Dialogue: 0,0:24:34.95,0:24:39.96,sign_dont_miss,SIGN,0,0,0,,{\pos(245,304)}Mos e humbni episodin tjetër.
+Dialogue: 0,0:24:36.90,0:24:38.70,DCMainTop,CONAN,0,0,0,,Por së pari, ka një speciale dyorëshe.
+Dialogue: 0,0:24:38.70,0:24:39.92,DCMainTop,RAN,0,0,0,,Një speciale?
+
