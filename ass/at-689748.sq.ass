@@ -1,0 +1,326 @@
+﻿[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,1,1,15,0
+Style: On Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: DefaultLow,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,70,70,30,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.02,0:00:05.27,Default,On-screen Text,0,0,0,,{\an8}CIRKU I LULEDIULLIT
+Dialogue: 0,0:00:12.03,0:00:13.95,Default,NTP,0,0,0,,Hajde, pse gjithë kjo fshehtësi?
+Dialogue: 0,0:00:15.74,0:00:17.49,Default,NTP,0,0,0,,Bëhet fjalë për Maria-san.
+Dialogue: 0,0:00:17.66,0:00:19.74,Default,NTP,0,0,0,,Oh. Mësuat gjë?
+Dialogue: 0,0:00:20.04,0:00:21.66,Default,NTP,0,0,0,,Çfarë po ndodh me të?
+Dialogue: 0,0:00:21.66,0:00:25.83,Default,NTP,0,0,0,,Për momentin, dëgjoj se vetëm Nanami-san\Ndhe shumë pak njerëz të zgjedhur nga familja
+Dialogue: 0,0:00:26.04,0:00:28.84,Default,NTP,0,0,0,,dhe Rin-san lejohen ta vizitojnë.
+Dialogue: 0,0:00:28.84,0:00:31.42,Default,NTP,0,0,0,,Megjithatë, edhe ne jemi familje.
+Dialogue: 0,0:00:32.01,0:00:36.01,Default,NTP,0,0,0,,Le të shkojmë në një grup të vogël\Nqë të mos shkaktojmë telashe.
+Dialogue: 0,0:00:36.93,0:00:39.14,Default,NTP,0,0,0,,Pra, do të thotë ne të parët, atëherë?
+Dialogue: 0,0:00:39.14,0:00:39.89,Default,NTP,0,0,0,,Po.
+Dialogue: 0,0:00:40.26,0:00:44.39,Default,NTP,0,0,0,,Por nëse nuk pranon vizitorë,\Na nuk do të thotë kjo se nuk është mirë?
+Dialogue: 0,0:00:44.52,0:00:49.86,Default,NTP,0,0,0,,Sipas asaj që më ka thënë Rin-san,\Nështë e kthjellët dhe mund të hajë gjithashtu.
+Dialogue: 0,0:00:50.40,0:00:52.61,Default,NTP,0,0,0,,Me sa duket, thjesht po tregohen tepër të kujdesshëm.
+Dialogue: 0,0:00:52.61,0:00:56.61,Default,NTP,0,0,0,,Pra, le t'i themi shpejt një përshëndetje dhe të ikim,\Nqë të mos lodhet.
+Dialogue: 0,0:00:56.61,0:00:57.57,Default,NTP,0,0,0,,E kuptova.
+Dialogue: 0,0:00:57.99,0:01:00.45,Default,NTP,0,0,0,,Nëse nuk mund ta shohim,\Natëherë do të hymë me forcë, hë?
+Dialogue: 0,0:01:00.45,0:01:01.45,Default,NTP,0,0,0,,Po!
+Dialogue: 0,0:02:35.96,0:02:38.26,Default,NTP,0,0,0,,A mund të\Npërpiqeni të mos shkaktoni telashe?
+Dialogue: 0,0:02:39.22,0:02:40.89,Default,NTP,0,0,0,,Na vjen keq.
+Dialogue: 0,0:02:41.55,0:02:48.02,Default,NTP,0,0,0,,Por së shpejti do të nisemi për në Tokyo,\Nku po mbahet çadra e finaleve.
+Dialogue: 0,0:02:48.27,0:02:50.81,Default,NTP,0,0,0,,Nuk do të kemi mundësi\Nta shohim më.
+Dialogue: 0,0:02:50.81,0:02:52.94,Default,NTP,0,0,0,,Dua të shoh Maria-san.
+Dialogue: 0,0:02:55.07,0:02:59.40,Default,NTP,0,0,0,,Duket se shpresa e vetme është të shfaqemi papritur\Nnë aeroport ditën që ajo niset, hë?
+Dialogue: 0,0:02:59.61,0:03:01.07,Default,NTP,0,0,0,,Por...
+Dialogue: 0,0:03:01.07,0:03:03.87,Default,NTP,0,0,0,,Po, nëse do ta bënim këtë,
+Dialogue: 0,0:03:03.87,0:03:08.16,Default,NTP,0,0,0,,do të thoshte të hiqnim dorë nga dita e parë\Ne shfaqjes sonë finale, apo jo?
+Dialogue: 0,0:03:11.75,0:03:14.13,Default,NTP,0,0,0,,Kam një mesazh\Npër të gjithë nga Maria.
+Dialogue: 0,0:03:15.59,0:03:17.80,Default,NTP,0,0,0,,"Faleminderit që shqetësoheni për mua."
+Dialogue: 0,0:03:18.17,0:03:21.68,Default,NTP,0,0,0,,"Por dua që të gjithë të përqendroheni te stërvitja."
+Dialogue: 0,0:03:21.93,0:03:24.30,Default,NTP,0,0,0,,"Vërtet nuk mund t'i lejoni vetes\Ntë shqetësoheni për mua tani."
+Dialogue: 0,0:03:24.68,0:03:28.27,Default,NTP,0,0,0,,"Mos u shqetësoni. Do të nisem\Npër në Amerikë me humor të mirë."
+Dialogue: 0,0:03:29.02,0:03:31.94,Default,NTP,0,0,0,,"Do të pres me padurim\Nshfaqjen tonë finale."
+Dialogue: 0,0:03:33.73,0:03:37.73,Default,NTP,0,0,0,,Do t'ia them patjetër Marias\Nsi ndiheni të gjithë.
+Dialogue: 0,0:03:55.33,0:03:57.25,Default,NTP,0,0,0,,Më vjen keq që takohemi në një vend si ky.
+Dialogue: 0,0:03:57.80,0:03:59.88,Default,NTP,0,0,0,,Oh, jo, s'ka problem.
+Dialogue: 0,0:04:00.42,0:04:05.93,Default,NTP,0,0,0,,Nuk do të ishte mirë të shiheshim në publik\Nduke u takuar me kundërshtarin tim në finale.
+Dialogue: 0,0:04:06.05,0:04:07.14,Default,NTP,0,0,0,,Jam dakord.
+Dialogue: 0,0:04:07.35,0:04:11.06,Default,NTP,0,0,0,,Të them të vërtetën,\Nnuk mendoja se do të arrinit kaq larg.
+Dialogue: 0,0:04:14.44,0:04:17.65,Default,NTP,0,0,0,,Dua të arrij majën e cirkut.
+Dialogue: 0,0:04:18.02,0:04:21.82,Default,NTP,0,0,0,,Dhe mendova se edhe ti ndjeje\Ntë njëjtën gjë si unë.
+Dialogue: 0,0:04:23.65,0:04:26.62,Default,NTP,0,0,0,,Dëshiron të ngjitesh\Nnë lartësitë më të mëdha të cirkut.
+Dialogue: 0,0:04:27.07,0:04:29.16,Default,NTP,0,0,0,,Kjo është arsyeja pse hezitove\Nkur të rekrutova.
+Dialogue: 0,0:04:29.62,0:04:31.29,Default,NTP,0,0,0,,Sepse nëse kalon te Sumeragi,
+Dialogue: 0,0:04:31.29,0:04:33.79,Default,NTP,0,0,0,,mendoje se mund të performoje\Nnë një skenë të madhe.
+Dialogue: 0,0:04:33.91,0:04:34.83,Default,NTP,0,0,0,,A kam të drejtë?
+Dialogue: 0,0:04:37.00,0:04:39.09,Default,NTP,0,0,0,,Ajo që dua unë, Kawasumi-san...
+Dialogue: 0,0:04:39.96,0:04:44.51,Default,NTP,0,0,0,,është të krijoj trupën më të mirë,\Nnjë që do të udhëhiqte industrinë e cirkut të Japonisë.
+Dialogue: 0,0:04:44.80,0:04:46.84,Default,NTP,0,0,0,,Prandaj të kërkova të bashkoheshe me ne.
+Dialogue: 0,0:04:47.85,0:04:49.05,Default,NTP,0,0,0,,Megjithëse ti më refuzove.
+Dialogue: 0,0:04:49.39,0:04:50.64,Default,NTP,0,0,0,,Më vjen keq.
+Dialogue: 0,0:04:50.93,0:04:52.93,Default,NTP,0,0,0,,Por performuesit e tjerë\Njanë çështje tjetër.
+Dialogue: 0,0:04:53.23,0:04:55.94,Default,NTP,0,0,0,,Po i marr të gjithë\Nvetëm sepse motra ime më kërkoi.
+Dialogue: 0,0:04:56.06,0:05:01.23,Default,NTP,0,0,0,,Epo, megjithëse e bija e Lotusit të Zi\Nmund të jetë një shtesë e mirë.
+Dialogue: 0,0:05:01.53,0:05:04.40,Default,NTP,0,0,0,,Nëse dëshiron të shkelësh kontratën,\Nedhe për mua do të ishte në rregull.
+Dialogue: 0,0:05:05.24,0:05:07.36,Default,NTP,0,0,0,,Nëse humbni,\NLulediulli do të shpërndahet.
+Dialogue: 0,0:05:07.87,0:05:10.53,Default,NTP,0,0,0,,Jeni të përgatitur të përfundoni të shpërndarë\Nlarg njëri-tjetrit, apo jo?
+Dialogue: 0,0:05:10.66,0:05:13.41,Default,NTP,0,0,0,,Nuk po mendojmë të humbim,\Nas nga larg.
+Dialogue: 0,0:05:16.00,0:05:17.58,Default,NTP,0,0,0,,Më lejo të të pyes, për çdo rast.
+Dialogue: 0,0:05:18.25,0:05:20.09,Default,NTP,0,0,0,,Cili është qëllimi yt tani?
+Dialogue: 0,0:05:20.67,0:05:23.71,Default,NTP,0,0,0,,Tani për tani, është të realizoj\Ndëshirën e Marias.
+Dialogue: 0,0:05:24.05,0:05:25.47,Default,NTP,0,0,0,,Të gjithë bashkë.
+Dialogue: 0,0:05:26.51,0:05:27.47,Default,NTP,0,0,0,,E kuptoj.
+Dialogue: 0,0:05:29.05,0:05:30.14,Default,NTP,0,0,0,,Tani po nisem.
+Dialogue: 0,0:05:30.26,0:05:31.60,Default,NTP,0,0,0,,Shihemi në Tokyo.
+Dialogue: 0,0:05:32.01,0:05:32.81,Default,NTP,0,0,0,,Në rregull.
+Dialogue: 0,0:05:34.93,0:05:36.44,Default,NTP,0,0,0,,Oh, Nanami-san?
+Dialogue: 0,0:05:39.15,0:05:42.61,Default,NTP,0,0,0,,Faleminderit që paguat shpenzimet e Marias\Nnë emër tonë.
+Dialogue: 0,0:05:43.15,0:05:45.24,Default,NTP,0,0,0,,{\an8}Bëra vetëm atë që do të bënte kushdo\Nnë vendin tim.
+Dialogue: 0,0:05:49.24,0:05:50.62,Default,NTP,0,0,0,,Ma kthe me kamatë, në rregull?
+Dialogue: 0,0:05:50.95,0:05:52.62,Default,NTP,0,0,0,,Ah, në rregull.
+Dialogue: 0,0:05:53.12,0:05:54.29,Default,NTP,0,0,0,,Po bëj shaka.
+Dialogue: 0,0:05:55.00,0:05:57.79,Default,NTP,0,0,0,,Pi atë lëng portokalli, në rregull?\NËshtë i shijshëm.
+Dialogue: 0,0:06:01.75,0:06:03.50,Default,NTP,0,0,0,,{\i1}Do të sjell një edhe për Mizukën.{\i0}
+Dialogue: 0,0:06:09.01,0:06:13.39,Default,NTP,0,0,0,,{\i1}Nuk ka rrugë tjetër për të parë Maria-san\Npërveçse të shkojmë drejt e në aeroport.{\i0}
+Dialogue: 0,0:06:13.68,0:06:15.47,Default,NTP,0,0,0,,{\i1}Por nga ana e kohës, kjo do të thoshte{\i0}
+Dialogue: 0,0:06:15.47,0:06:18.27,Default,NTP,0,0,0,,{\i1}të hiqnim dorë nga shfaqja finale.{\i0}
+Dialogue: 0,0:06:18.39,0:06:20.77,Default,NTP,0,0,0,,{\i1}Dhe kjo nuk është ajo që Maria-san\Ndo të dëshironte.{\i0}
+Dialogue: 0,0:06:21.44,0:06:22.40,Default,NTP,0,0,0,,{\i1}Por...{\i0}
+Dialogue: 0,0:06:22.69,0:06:24.78,Default,NTP,0,0,0,,{\i1}Të gjithë, edhe unë.{\i0}
+Dialogue: 0,0:06:24.98,0:06:26.61,Default,NTP,0,0,0,,{\i1}Duam të shohim Maria-san.{\i0}
+Dialogue: 0,0:06:28.99,0:06:31.16,Default,NTP,0,0,0,,{\i1}Pse nuk mund ta shohim vetëm një sekondë?{\i0}
+Dialogue: 0,0:06:44.21,0:06:46.96,Default,NTP,0,0,0,,{\i1}Mizuka, ti bëhu drejtuesja e manezhit tonë.{\i0}
+Dialogue: 0,0:06:49.93,0:06:50.97,Default,NTP,0,0,0,,{\i1}Mizuka.{\i0}
+Dialogue: 0,0:06:54.05,0:06:55.26,Default,NTP,0,0,0,,{\i1}Mizuka!{\i0}
+Dialogue: 0,0:07:02.52,0:07:04.32,Default,NTP,0,0,0,,{\i1}Ajo që do të dëshironte Maria-san...{\i0}
+Dialogue: 0,0:07:18.83,0:07:22.37,Default,NTP,0,0,0,,Të gjithë, faleminderit\Nqë u mblodhët këtu sot.
+Dialogue: 0,0:07:22.88,0:07:25.75,Default,NTP,0,0,0,,Dua t'ju njoftoj me vendimin tim\Nsi drejtuese e manezhit në detyrë.
+Dialogue: 0,0:07:28.34,0:07:30.76,Default,NTP,0,0,0,,Nuk do të heqim dorë\Nnga shfaqja jonë finale.
+Dialogue: 0,0:07:31.01,0:07:32.72,Default,NTP,0,0,0,,Siç na tha Maria-san,
+Dialogue: 0,0:07:32.93,0:07:36.64,Default,NTP,0,0,0,,do t'i japim përparësi\Nstërvitjes për finalet.
+Dialogue: 0,0:07:37.22,0:07:40.14,Default,NTP,0,0,0,,Nëse japim gjithçka dhe përpiqemi\Ntë arrijmë qëllimin tonë,
+Dialogue: 0,0:07:40.43,0:07:42.77,Default,NTP,0,0,0,,ky do të jetë dhurata më e mirë.
+Dialogue: 0,0:07:45.77,0:07:48.86,Default,NTP,0,0,0,,E di, kisha një ndjenjë\Nse do të thoshe kështu.
+Dialogue: 0,0:07:48.86,0:07:49.74,Default,NTP,0,0,0,,Hë?
+Dialogue: 0,0:07:49.94,0:07:53.41,Default,NTP,0,0,0,,Së pari, nëse do të hiqnim dorë,\Najo do të na vriste, apo jo?
+Dialogue: 0,0:07:53.91,0:07:58.12,Default,NTP,0,0,0,,Të them të vërtetën, kisha dyshimet e mia,\Npor tani mund të vazhdoj përpara.
+Dialogue: 0,0:07:58.12,0:08:02.16,Default,NTP,0,0,0,,Po. Për më tepër, falë teje\Nkemi arritur kaq larg, Mizuka.
+Dialogue: 0,0:08:02.50,0:08:06.63,Default,NTP,0,0,0,,Mizuka, ndjenjat tona janë të njëjta.
+Dialogue: 0,0:08:06.88,0:08:07.96,Default,NTP,0,0,0,,Ashtu është.
+Dialogue: 0,0:08:07.96,0:08:13.05,Default,NTP,0,0,0,,Thjesht mund të përdorim çmimin e finaleve\Npër ta vizituar në Amerikë, apo jo?
+Dialogue: 0,0:08:13.05,0:08:14.76,Default,NTP,0,0,0,,Po. Tingëllon argëtuese.
+Dialogue: 0,0:08:15.39,0:08:18.68,Default,NTP,0,0,0,,Mendoj se more\Nvendimin e duhur edhe ti, Mizuka.
+Dialogue: 0,0:08:19.31,0:08:21.14,Default,NTP,0,0,0,,Edhe unë jam dakord me ty.
+Dialogue: 0,0:08:22.43,0:08:24.14,Default,NTP,0,0,0,,Faleminderit, të gjithë.
+Dialogue: 0,0:08:24.77,0:08:27.98,Default,NTP,0,0,0,,Në rregull, tani që\Njemi gati të hyjmë në finale,
+Dialogue: 0,0:08:27.98,0:08:30.82,Default,NTP,0,0,0,,si do të ishte një fjalë\Nnga drejtuesja jonë e manezhit në detyrë?
+Dialogue: 0,0:08:30.82,0:08:31.53,Default,NTP,0,0,0,,Çfarë?
+Dialogue: 0,0:08:31.53,0:08:34.32,Default,NTP,0,0,0,,Tani është momenti kur duhet të dëgjojmë\Nnjë fjalim prekës, hë?
+Dialogue: 0,0:08:34.32,0:08:36.07,Default,NTP,0,0,0,,Ide e mirë, dua ta dëgjoj.
+Dialogue: 0,0:08:36.66,0:08:43.16,Default,NTP,0,0,0,,Hm, epo, ky mund të mos jetë\Nai lloj fjalimi, por...
+Dialogue: 0,0:08:45.12,0:08:49.04,Default,NTP,0,0,0,,Që kur kam lindur,\Nkam qenë në cirk.
+Dialogue: 0,0:08:49.55,0:08:54.13,Default,NTP,0,0,0,,Cirku Lotus ishte shtëpia ime,\Nmiqtë e mi dhe familja ime.
+Dialogue: 0,0:08:54.51,0:08:56.68,Default,NTP,0,0,0,,Dhe kur ai u zhduk papritur,
+Dialogue: 0,0:08:56.68,0:09:00.56,Default,NTP,0,0,0,,iu dërgova babanë, dhe i ktheva\Nsytë nga cirku,
+Dialogue: 0,0:09:00.93,0:09:03.10,Default,NTP,0,0,0,,dhe doja të largohesha\Nnga kjo botë.
+Dialogue: 0,0:09:03.73,0:09:06.81,Default,NTP,0,0,0,,Dhe kur erdha te Lulediulli,\Nvërtet nuk doja të isha këtu.
+Dialogue: 0,0:09:07.10,0:09:09.77,Default,NTP,0,0,0,,Sepse ndihej sikur\Npo tradhtoja familjen time të vjetër.
+Dialogue: 0,0:09:10.15,0:09:12.40,Default,NTP,0,0,0,,Por gjëja është se, hm...
+Dialogue: 0,0:09:13.11,0:09:15.49,Default,NTP,0,0,0,,E dua cirkun.
+Dialogue: 0,0:09:15.65,0:09:20.53,Default,NTP,0,0,0,,Ky është vendi ku unë përkas.\NTë gjithë këtu më mësuan këtë.
+Dialogue: 0,0:09:21.95,0:09:26.29,Default,NTP,0,0,0,,Dhe nuk mendoj se jam vetëm unë.
+Dialogue: 0,0:09:30.38,0:09:32.09,Default,NTP,0,0,0,,Vendi ku përket...
+Dialogue: 0,0:09:33.05,0:09:34.51,Default,NTP,0,0,0,,Ajo që dëshiron të bësh...
+Dialogue: 0,0:09:38.59,0:09:39.68,Default,NTP,0,0,0,,Shpresat e tua...
+Dialogue: 0,0:09:40.68,0:09:42.26,Default,NTP,0,0,0,,Dhe ajo që të pëlqen.
+Dialogue: 0,0:09:46.60,0:09:49.27,Default,NTP,0,0,0,,Nuk po realizojmë vetëm\Nëndrrën e Maria-san.
+Dialogue: 0,0:09:49.69,0:09:51.40,Default,NTP,0,0,0,,Gjithçka është pikërisht këtu.
+Dialogue: 0,0:09:51.94,0:09:57.45,Default,NTP,0,0,0,,Për të mbrojtur këtë vend,\Nqë të gjithë të qëndrojmë bashkë përgjithmonë...
+Dialogue: 0,0:09:57.95,0:10:00.16,Default,NTP,0,0,0,,Le të fitojmë. Të gjithë bashkë!
+Dialogue: 0,0:10:02.12,0:10:02.91,Default,NTP,0,0,0,,Hë?
+Dialogue: 0,0:10:03.29,0:10:06.33,Default,NTP,0,0,0,,Hej, sapo the diçka vërtet të bukur.
+Dialogue: 0,0:10:06.33,0:10:08.12,Default,NTP,0,0,0,,Është si... tingëllon si drejtuese manezhi.
+Dialogue: 0,0:10:08.12,0:10:11.50,Default,NTP,0,0,0,,Çfarë? Por ju jeni ata\Nqë më kërkuat të mbaj një fjalim.
+Dialogue: 0,0:10:15.01,0:10:17.68,Default,NTP,0,0,0,,Papritmas,\Npo ndihem kaq e turpëruar.
+Dialogue: 0,0:10:18.51,0:10:19.80,Default,NTP,0,0,0,,Hajde tani.
+Dialogue: 0,0:10:19.80,0:10:23.76,Default,NTP,0,0,0,,Nesër nisemi për në Tokyo,\Npra, ju lutem, bëhuni gati të gjithë.
+Dialogue: 0,0:10:23.76,0:10:24.81,Default,NTP,0,0,0,,Në rregull!
+Dialogue: 0,0:10:34.11,0:10:35.32,Default,NTP,0,0,0,,Mizuka?
+Dialogue: 0,0:10:36.36,0:10:39.07,Default,NTP,0,0,0,,Faleminderit që more përsipër\Nnjë rol kaq të dhimbshëm.
+Dialogue: 0,0:10:39.32,0:10:44.58,Default,NTP,0,0,0,,Jo, unë jam përgjegjësja e kësaj trupe,\Npra bëra vetëm atë që do të bënte kushdo.
+Dialogue: 0,0:10:46.20,0:10:47.50,Default,NTP,0,0,0,,Faleminderit.
+Dialogue: 0,0:10:48.08,0:10:50.71,Default,NTP,0,0,0,,Tani të gjithë mund të ecin përpara\Ndhe të jenë të fortë.
+Dialogue: 0,0:10:51.71,0:10:55.05,Default,NTP,0,0,0,,Unë thashë se do të bëja\Nçfarëdo që duhej për të fituar.
+Dialogue: 0,0:10:55.59,0:10:57.34,Default,NTP,0,0,0,,Këtë i thashë Maria-san.
+Dialogue: 0,0:10:57.55,0:10:58.34,Default,NTP,0,0,0,,Po.
+Dialogue: 0,0:10:59.38,0:11:04.81,Default,NTP,0,0,0,,Do të presim si një trupë që mund\Nta mirëpresë me kokën lart
+Dialogue: 0,0:11:04.97,0:11:06.06,Default,NTP,0,0,0,,sa herë që ajo kthehet.
+Dialogue: 0,0:11:06.39,0:11:08.39,Default,NTP,0,0,0,,Po. Do t'ia them.
+Dialogue: 0,0:11:14.27,0:11:17.11,Default,NTP,0,0,0,,Jam e lumtur që erdha te Lulediulli.
+Dialogue: 0,0:11:17.44,0:11:20.57,Default,NTP,0,0,0,,Jam vërtet e lumtur\Nqë takova të gjithë.
+Dialogue: 0,0:11:20.86,0:11:24.28,Default,NTP,0,0,0,,Çfarë? Duhet ta kishe thënë këtë\Npërpara të gjithëve.
+Dialogue: 0,0:11:24.28,0:11:25.49,Default,NTP,0,0,0,,Nuk ndodh.
+Dialogue: 0,0:11:25.49,0:11:26.54,Default,NTP,0,0,0,,Nuk do?
+Dialogue: 0,0:11:26.54,0:11:28.20,Default,NTP,0,0,0,,Sepse do të ishte e turpshme.
+Dialogue: 0,0:11:29.33,0:11:30.79,Default,NTP,0,0,0,,Harroje atë.
+Dialogue: 0,0:11:30.79,0:11:32.63,Default,NTP,0,0,0,,Ju lutem, hidhini një sy kësaj.
+Dialogue: 0,0:11:34.08,0:11:35.96,Default,NTP,0,0,0,,Çfarë është ajo?
+Dialogue: 0,0:11:36.50,0:11:39.09,Default,NTP,0,0,0,,Është programi ynë i ri.
+Dialogue: 0,0:11:39.34,0:11:42.22,Default,NTP,0,0,0,,Duke filluar nga nesër,\Ndo të bëj që të gjithë të marrin pjesë,
+Dialogue: 0,0:11:42.34,0:11:44.01,Default,NTP,0,0,0,,dhe do të jetë koha e kampit stërvitor.
+Dialogue: 0,0:11:44.01,0:11:45.72,Default,NTP,0,0,0,,Prit një sekondë.
+Dialogue: 0,0:11:45.72,0:11:48.22,Default,NTP,0,0,0,,Kjo... Diçka si kjo...
+Dialogue: 0,0:11:50.23,0:11:51.60,Default,NTP,0,0,0,,A mund ta bëjmë vërtet?\NPo, mundemi.
+Dialogue: 0,0:11:55.56,0:11:59.65,Default,NTP,0,0,0,,{\i1}Në këtë ditë me diell, qielli blu\Nduket se po shtrihet gjërë e gjatë.{\i0}
+Dialogue: 0,0:11:59.90,0:12:03.41,Default,On-screen Text,0,0,0,,{\an8}KOLEKSIONI I 24-TË I CIRKUT\NTURNEU I JAPONISË
+Dialogue: 0,0:12:00.19,0:12:03.41,Default,NTP,0,0,0,,{\i1}Koleksioni i 24-të i Cirkut,\NTurneu i Japonisë.{\i0}
+Dialogue: 0,0:12:03.66,0:12:06.53,Default,NTP,0,0,0,,Sot është dita e parë\Ne shfaqjeve finale.
+Dialogue: 0,0:12:03.66,0:12:06.87,Default,On-screen Text,0,0,0,,{\an8}SHFAQJET FINALE\NDITA E PARË
+Dialogue: 0,0:12:06.87,0:12:11.08,Default,On-screen Text,0,0,0,,{\an8}KOMPANIA PUBLIKE E TRANSMETIMIT
+Dialogue: 0,0:12:07.12,0:12:09.08,Default,NTP,0,0,0,,{\i1}Me një vend në Turneun Botëror\Nnë lojë,{\i0}
+Dialogue: 0,0:12:09.08,0:12:11.08,Default,NTP,0,0,0,,{\i1}duke u përpjekur të bëhen numër një\Nnë Japoni janë...{\i0}
+Dialogue: 0,0:12:11.29,0:12:14.63,Default,NTP,0,0,0,,{\i1}Cirku i Trëndafilit Blu,\Ni udhëhequr nga Nanami Sumeragi,{\i0}
+Dialogue: 0,0:12:14.63,0:12:18.30,Default,NTP,0,0,0,,{\i1}dhe Cirku i Lulediullit i udhëhequr\Nnga e bija e Lotusit të Zi.{\i0}
+Dialogue: 0,0:12:21.01,0:12:22.51,Default,NTP,0,0,0,,Pres me padurim\Ntë konkurroj me ju.
+Dialogue: 0,0:12:22.97,0:12:24.47,Default,NTP,0,0,0,,Ju uroj fat të mirë.
+Dialogue: 0,0:12:25.72,0:12:29.72,Default,NTP,0,0,0,,{\i1}Shfaqjet finale\Ndo të mbahen gjatë pesë ditëve të ardhshme.{\i0}
+Dialogue: 0,0:12:29.72,0:12:31.85,Default,NTP,0,0,0,,{\i1}Nuk mund t'i heqim sytë deri në fund.{\i0}
+Dialogue: 0,0:12:40.19,0:12:42.28,Default,NTP,0,0,0,,Mendoni se Lulediulli mund të fitojë?
+Dialogue: 0,0:12:49.20,0:12:50.74,Default,NTP,0,0,0,,{\i1}Skena e kësaj historie është...{\i0}
+Dialogue: 0,0:12:51.37,0:12:53.29,Default,NTP,0,0,0,,{\i1}Magjistari i Ozit.{\i0}
+Dialogue: 0,0:12:53.46,0:12:58.38,Default,NTP,0,0,0,,{\i1}Emri i vajzës që u hodh\Nnga një tornado e madhe është Dorothy.{\i0}
+Dialogue: 0,0:12:58.79,0:13:02.67,Default,NTP,0,0,0,,{\i1}Së bashku me qenin e saj të dashur, Toto,\Najo ka mbërritur në Lindje.{\i0}
+Dialogue: 0,0:13:03.13,0:13:07.51,Default,NTP,0,0,0,,{\i1}Ajo kishte jetuar një jetë të mirë\Nnë një shtëpi të vogël në stepën e Kansas{\i0}
+Dialogue: 0,0:13:07.51,0:13:11.27,Default,NTP,0,0,0,,{\i1}me xha Henry dhe hallë Em...{\i0}
+Dialogue: 0,0:13:13.89,0:13:16.02,Default,NTP,0,0,0,,{\i1}Shtriga e Veriut i tha Dorothys,{\i0}
+Dialogue: 0,0:13:16.02,0:13:21.23,Default,NTP,0,0,0,,{\i1}"Vish ato papuçe argjendi\Nqë i mbante Shtriga e Lindjes,{\i0}
+Dialogue: 0,0:13:21.23,0:13:22.65,Default,NTP,0,0,0,,{\i1}e cila u shtyp atje."{\i0}
+Dialogue: 0,0:13:23.49,0:13:25.24,Default,NTP,0,0,0,,{\i1}Në rregull, të gjithë.{\i0}
+Dialogue: 0,0:13:25.24,0:13:30.53,Default,NTP,0,0,0,,{\i1}Ju lutem, mbështetini që ata\Ntë kthehen në Kansas shëndoshë e mirë.{\i0}
+Dialogue: 0,0:13:30.53,0:13:32.45,Default,NTP,0,0,0,,Në rregull!\NDorothy!
+Dialogue: 0,0:13:33.79,0:13:37.08,Default,NTP,0,0,0,,Po, janë finalet,\Npor asgjë nuk ka ndryshuar.
+Dialogue: 0,0:13:37.58,0:13:40.96,Default,NTP,0,0,0,,Performoni si gjithmonë,\Ndhe bëni që e gjithë ajo stërvitje të shpërblehet.
+Dialogue: 0,0:13:41.55,0:13:46.18,Default,NTP,0,0,0,,Le të sigurohemi që ai turma e madhe atje\Ntë ndihet e argëtuar dhe e prekur.
+Dialogue: 0,0:13:46.34,0:13:47.30,Default,NTP,0,0,0,,Po, zonjë!
+Dialogue: 0,0:13:49.72,0:13:52.85,Default,NTP,0,0,0,,A vjen kjo nga çadra e Lulediullit?
+Dialogue: 0,0:13:56.19,0:14:00.11,Default,NTP,0,0,0,,{\i1}Tani atëherë, ndërsa Dorothy vazhdon\Npërgjatë rrugës së verdhë me tulla,{\i0}
+Dialogue: 0,0:14:00.48,0:14:04.82,Default,NTP,0,0,0,,{\i1}ajo haset me një kashtëk që dëshiron\Nnjë tru, por nuk mund të zbresë nga shtiza e tij.{\i0}
+Dialogue: 0,0:14:05.15,0:14:06.95,Default,NTP,0,0,0,,Një, dy...
+Dialogue: 0,0:14:08.24,0:14:09.03,Default,NTP,0,0,0,,Ja!
+Dialogue: 0,0:14:23.34,0:14:26.51,Default,NTP,0,0,0,,{\i1}Dorothy shpëtoi kashtëkun.{\i0}
+Dialogue: 0,0:14:34.18,0:14:35.39,Default,NTP,0,0,0,,{\i1}I kemi në dorë, hë?{\i0}
+Dialogue: 0,0:14:36.56,0:14:39.10,Default,NTP,0,0,0,,T'i kthejmë aktet në një histori?
+Dialogue: 0,0:14:39.35,0:14:40.35,Default,NTP,0,0,0,,Po.
+Dialogue: 0,0:14:40.35,0:14:41.61,Default,NTP,0,0,0,,Çfarë do të thotë kjo?
+Dialogue: 0,0:14:41.61,0:14:43.07,Default,NTP,0,0,0,,Pikërisht atë që sapo tha ajo.
+Dialogue: 0,0:14:43.32,0:14:48.03,Default,NTP,0,0,0,,Menduam se konkurrimi\Nmund të mos jetë për atë se cili akt është më i mirë.
+Dialogue: 0,0:14:50.11,0:14:54.58,Default,NTP,0,0,0,,Me fjalë të tjera, aktet në vetvete nuk janë\Nmënyra e vetme për të argëtuar publikun.
+Dialogue: 0,0:14:54.91,0:14:57.45,Default,NTP,0,0,0,,Nuk e kam idenë se çfarë po thua.
+Dialogue: 0,0:14:57.45,0:14:59.50,Default,NTP,0,0,0,,Siç thashë, kjo është ajo që dua të them!
+Dialogue: 0,0:15:00.58,0:15:02.21,Default,NTP,0,0,0,,Magjistari i Ozit?
+Dialogue: 0,0:15:02.21,0:15:05.30,Default,NTP,0,0,0,,Ashtu është. Historia që dua.
+Dialogue: 0,0:15:05.55,0:15:08.80,Default,NTP,0,0,0,,Ouka dhe unë sapo pamë filmin.
+Dialogue: 0,0:15:09.01,0:15:11.68,Default,NTP,0,0,0,,Dhe u magjepsëm shumë prej tij.
+Dialogue: 0,0:15:12.14,0:15:15.14,Default,NTP,0,0,0,,Çfarë mendoni se\Ne bën atë kaq të këndshëm?
+Dialogue: 0,0:15:15.68,0:15:18.06,Default,NTP,0,0,0,,Historia dhe personazhet?
+Dialogue: 0,0:15:18.06,0:15:19.48,Default,NTP,0,0,0,,Ashtu është.
+Dialogue: 0,0:15:19.48,0:15:23.90,Default,NTP,0,0,0,,Kjo më bëri të mendoj: "Pse nuk mund\Ntë ofrojë edhe cirku këtë lloj argëtimi?"
+Dialogue: 0,0:15:26.86,0:15:28.90,Default,NTP,0,0,0,,Kam edhe një propozim tjetër.
+Dialogue: 0,0:15:28.90,0:15:30.82,Default,NTP,0,0,0,,T'u afrohemi më shumë publikut.
+Dialogue: 0,0:15:30.82,0:15:36.08,Default,NTP,0,0,0,,Cirku është i njëanshëm dhe gjithçka është që ne\Nt'i tregojmë atë publikut nga skena.
+Dialogue: 0,0:15:36.08,0:15:37.83,Default,NTP,0,0,0,,Epo, sigurisht që është.
+Dialogue: 0,0:15:37.83,0:15:41.50,Default,NTP,0,0,0,,Por ne do t'i kthejmë vendet\Nnë një skenë gjithashtu.
+Dialogue: 0,0:15:41.87,0:15:43.38,Default,NTP,0,0,0,,Jo thjesht një vend për të shikuar.
+Dialogue: 0,0:15:43.38,0:15:45.71,Default,NTP,0,0,0,,Një cirk ku mund të argëtohesh\Nsë bashku me performuesit.
+Dialogue: 0,0:15:49.13,0:15:50.63,Default,NTP,0,0,0,,Ajo ka të drejtë për këtë.
+Dialogue: 0,0:15:50.63,0:15:54.68,Default,NTP,0,0,0,,Mendova se ishte kaq argëtuese\Ntë ndërveprosh nga afër me publikun.
+Dialogue: 0,0:15:54.68,0:15:55.64,Default,NTP,0,0,0,,Po.
+Dialogue: 0,0:15:55.64,0:15:58.43,Default,NTP,0,0,0,,Do të thuash që do ta fusim\Ngjithë publikun në aktin tonë, atëherë?
+Dialogue: 0,0:15:58.43,0:15:59.43,Default,NTP,0,0,0,,Po!
+Dialogue: 0,0:15:59.43,0:16:02.90,Default,NTP,0,0,0,,E vetmja gjë është se, nëse duam të mbajmë\Naktet dhe historinë në vazhdim,
+Dialogue: 0,0:16:02.90,0:16:05.11,Default,NTP,0,0,0,,do të na duhet një skenar i fortë.
+Dialogue: 0,0:16:05.65,0:16:08.82,Default,NTP,0,0,0,,A do të ishe e gatshme\Ntë ma besosh skenarin mua?
+Dialogue: 0,0:16:08.98,0:16:11.28,Default,NTP,0,0,0,,Po, faleminderit shumë!
+Dialogue: 0,0:16:12.70,0:16:14.32,Default,NTP,0,0,0,,Ky ishte plani që nga fillimi, apo jo?
+Dialogue: 0,0:16:15.28,0:16:16.08,Default,NTP,0,0,0,,Po.
+Dialogue: 0,0:16:16.74,0:16:19.25,Default,NTP,0,0,0,,Do të doja të shtoja idetë\Nqë dolëm edhe ne.
+Dialogue: 0,0:16:19.25,0:16:21.83,Default,NTP,0,0,0,,Po! Ju lutem, vazhdoni t'i jepni.
+Dialogue: 0,0:16:23.33,0:16:26.96,Default,NTP,0,0,0,,Po filloj të mendoj se ky\Nlloj i ri cirku mund të funksionojë.
+Dialogue: 0,0:16:26.96,0:16:28.17,Default,NTP,0,0,0,,Po.
+Dialogue: 0,0:16:28.17,0:16:29.30,Default,NTP,0,0,0,,Edhe unë!
+Dialogue: 0,0:16:29.30,0:16:33.76,Default,NTP,0,0,0,,Le të përballemi me\NNanami-san me këtë cirk.
+Dialogue: 0,0:16:36.76,0:16:39.47,Default,NTP,0,0,0,,{\i1}Njeriu prej Kallaji, që dëshiron një zemër,\Nështë në telashe tani.{\i0}
+Dialogue: 0,0:16:39.81,0:16:43.73,Default,NTP,0,0,0,,{\i1}A do t'i hidhni ato topa vaji\Nqë ai të fillojë të lëvizë përsëri?{\i0}
+Dialogue: 0,0:16:43.73,0:16:45.27,Default,NTP,0,0,0,,Ja!\NJa ku është!
+Dialogue: 0,0:16:45.27,0:16:46.40,Default,NTP,0,0,0,,Jeee!
+Dialogue: 0,0:16:47.15,0:16:47.86,Default,On-screen Text,0,0,0,,{\an8}VAJ
+Dialogue: 0,0:16:48.73,0:16:49.61,Default,NTP,0,0,0,,Ja.
+Dialogue: 0,0:16:50.48,0:16:51.36,Default,NTP,0,0,0,,Ja!
+Dialogue: 0,0:16:52.65,0:16:53.49,Default,NTP,0,0,0,,Ja!
+Dialogue: 0,0:16:54.61,0:16:58.45,Default,NTP,0,0,0,,{\i1}Z. Njeri prej Kallaji, je kaq i pangopur.\NAs fytyrën nuk mund të shohim.{\i0}
+Dialogue: 0,0:16:59.62,0:17:02.29,Default,NTP,0,0,0,,{\i1}Z. Njeri prej Kallaji,\Nle t'i falënderojmë publikun.{\i0}
+Dialogue: 0,0:17:07.75,0:17:08.63,Default,NTP,0,0,0,,Ja!
+Dialogue: 0,0:17:27.73,0:17:31.19,Default,NTP,0,0,0,,{\i1}Një luan frikacak është shfaqur\Npërpara Dorothy dhe miqve të saj.{\i0}
+Dialogue: 0,0:17:31.19,0:17:32.61,Default,NTP,0,0,0,,Luan.\NKaq i bukur!
+Dialogue: 0,0:17:33.65,0:17:36.95,Default,NTP,0,0,0,,{\i1}E besoni?\NKy luan sapo sulmoi Toton!{\i0}
+Dialogue: 0,0:17:43.16,0:17:44.96,Default,NTP,0,0,0,,Shizuku-san!
+Dialogue: 0,0:17:46.00,0:17:49.71,Default,NTP,0,0,0,,{\i1}Por kur Dorothy e qorton,\Nai fillon të turret.{\i0}
+Dialogue: 0,0:17:50.67,0:17:56.72,Default,NTP,0,0,0,,{\i1}Dhe kështu, vendosën të shkojnë te Magjistari,\Npër të realizuar dëshirat e tyre përkatëse.{\i0}
+Dialogue: 0,0:18:25.37,0:18:26.71,Default,NTP,0,0,0,,Mund ta bësh!
+Dialogue: 0,0:18:35.30,0:18:37.17,Default,NTP,0,0,0,,{\i1}Po tallesh?{\i0}
+Dialogue: 0,0:18:37.47,0:18:38.84,Default,NTP,0,0,0,,{\i1}Të gjithë ne...{\i0}
+Dialogue: 0,0:18:38.84,0:18:43.43,Default,NTP,0,0,0,,{\i1}Të gjithë po përpiqemi të arrijmë në majë\Ntë botës me Nanami-san.{\i0}
+Dialogue: 0,0:18:43.85,0:18:46.89,Default,NTP,0,0,0,,{\i1}Nuk do të lejoj askënd të na pengojë.{\i0}
+Dialogue: 0,0:18:47.48,0:18:52.48,Default,NTP,0,0,0,,{\i1}E hipur mbi një majmun me krahë, Shtriga e Ligë\Ne Perëndimit po sillet keq me Dorothyn.{\i0}
+Dialogue: 0,0:18:52.65,0:18:57.24,Default,NTP,0,0,0,,{\i1}Oh, shikoni! Dorothy dhe të tjerët kanë\Nvjedhur fshesën e çmuar të shtrigës.{\i0}
+Dialogue: 0,0:18:57.24,0:18:59.99,Default,NTP,0,0,0,,{\i1}Ju lutem, vazhdoni ta largoni me gisht\Nqë ajo të mos e marrë mbrapsht.{\i0}
+Dialogue: 0,0:19:00.45,0:19:03.66,Default,NTP,0,0,0,,{\i1}Hajde të gjithë,\Nshtriga është duke na ndjekur nga afër.{\i0}
+Dialogue: 0,0:19:07.66,0:19:09.67,Default,NTP,0,0,0,,{\i1}Vazhdoni, të gjithë!{\i0}
+Dialogue: 0,0:19:22.22,0:19:23.85,Default,NTP,0,0,0,,{\i1}Falë ndihmës së të gjithëve,{\i0}
+Dialogue: 0,0:19:23.85,0:19:26.77,Default,NTP,0,0,0,,{\i1}Shtriga e Ligë e Perëndimit\Nu mund.{\i0}
+Dialogue: 0,0:19:27.98,0:19:29.06,Default,NTP,0,0,0,,Ja!
+Dialogue: 0,0:19:34.06,0:19:37.57,Default,NTP,0,0,0,,{\i1}Tani do të ketë\Nnjë pushim dhjetëminutësh.{\i0}
+Dialogue: 0,0:19:50.54,0:19:51.87,Default,NTP,0,0,0,,Nuk ka gjasa, apo jo?
+Dialogue: 0,0:20:13.81,0:20:15.06,Default,NTP,0,0,0,,Teatër?
+Dialogue: 0,0:20:15.06,0:20:18.98,Default,NTP,0,0,0,,Epo, ndoshta jo teatër,\Npor është si, teatral në stil.
+Dialogue: 0,0:20:19.19,0:20:22.99,Default,NTP,0,0,0,,Ata po performonin\Nsipas linjës së historisë.
+Dialogue: 0,0:20:23.53,0:20:27.54,Default,NTP,0,0,0,,Po përdorin pajisje dhe po e bëjnë\Npublikun të entuziazmohet duke e përfshirë atë.
+Dialogue: 0,0:20:31.29,0:20:33.33,Default,NTP,0,0,0,,Faleminderit për raportin.
+Dialogue: 0,0:20:33.46,0:20:34.21,Default,NTP,0,0,0,,Po.
+Dialogue: 0,0:20:38.38,0:20:41.47,Default,NTP,0,0,0,,Përgjigja e publikut\Nnuk mund të ishte më e mirë, apo jo?
+Dialogue: 0,0:20:41.47,0:20:43.97,Default,NTP,0,0,0,,Si performuese,\Nasgjë nuk ia kalon një momenti si ky.
+Dialogue: 0,0:20:43.97,0:20:44.97,Default,NTP,0,0,0,,Po!
+Dialogue: 0,0:20:45.97,0:20:46.68,Default,NTP,0,0,0,,Mutsumi?
+Dialogue: 0,0:20:47.30,0:20:48.10,Default,NTP,0,0,0,,Po?
+Dialogue: 0,0:20:48.47,0:20:50.06,Default,NTP,0,0,0,,Je e shqetësuar për Lulediullin?
+Dialogue: 0,0:20:51.56,0:20:53.89,Default,NTP,0,0,0,,Nuk mund t'i lejosh vetes\Ntë shpërqendrohesh nga gjëra të tjera.
+Dialogue: 0,0:20:53.89,0:20:55.56,Default,NTP,0,0,0,,Përqendrohu te skena.
+Dialogue: 0,0:20:55.86,0:20:59.78,Default,NTP,0,0,0,,M-Më falni.
+Dialogue: 0,0:21:01.40,0:21:04.45,Default,NTP,0,0,0,,{\i1}Tani për tani, është të realizojmë\Ndëshirën e Marias.{\i0}
+Dialogue: 0,0:21:05.03,0:21:07.07,Default,NTP,0,0,0,,{\i1}Ëndrra e motrës, hë?{\i0}
+Dialogue: 0,0:21:19.80,0:21:20.96,Default,NTP,0,0,0,,Nanami-san?
+Dialogue: 0,0:21:24.01,0:21:26.89,Default,NTP,0,0,0,,Të mendosh që performuesit\Ndhe publiku tani janë një.
+Dialogue: 0,0:21:27.09,0:21:30.31,Default,NTP,0,0,0,,Pra cirku mund t'i tërheqë\Nshikuesit edhe në këtë mënyrë?
+Dialogue: 0,0:21:29.26,0:21:31.22,Default,NTP,0,0,0,,{\an8}Është kaq argëtuese.
+Dialogue: 0,0:21:30.31,0:21:34.52,Default,NTP,0,0,0,,Kjo është e bija e Lotusit të Zi, pa dyshim.\NNuk do të thuash ti?
+Dialogue: 0,0:21:31.22,0:21:32.27,Default,NTP,0,0,0,,{\an8}Po.
+Dialogue: 0,0:21:32.27,0:21:34.52,Default,NTP,0,0,0,,{\an8}Publiku është vërtet i përfshirë gjithashtu.
+Dialogue: 0,0:21:49.28,0:21:50.33,Default,NTP,0,0,0,,Motra.
+Dialogue: 0,0:21:52.83,0:21:54.21,Default,NTP,0,0,0,,Oh, na kapën.
+Dialogue: 0,0:21:56.42,0:21:57.96,Default,NTP,0,0,0,,Çfarë po bëni?
+Dialogue: 0,0:21:58.17,0:21:59.71,Default,NTP,0,0,0,,Jeni në mes të një shfaqjeje.
+Dialogue: 0,0:22:00.17,0:22:02.84,Default,NTP,0,0,0,,Nuk mund t'i lejoni vetes\Ntë shpërqendroheni nga gjëra të tjera.
+Dialogue: 0,0:22:04.05,0:22:05.30,Default,NTP,0,0,0,,Pse jeni këtu?
+Dialogue: 0,0:22:06.18,0:22:09.14,Default,NTP,0,0,0,,Ka diçka që\Nthjesht duhet ta shoh me sytë e mi.
+

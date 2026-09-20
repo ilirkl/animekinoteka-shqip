@@ -634,6 +634,20 @@
       "assFile": "ass/at-689787.sq.ass",
       "offset": 0,
       "sourceReleaseId": "689787"
+    },
+    {
+      "id": "at-689748",
+      "title": "GROW UP SHOW -Sunflower Circus-",
+      "episode": "12",
+      "malId": 62051,
+      "anilistId": 196017,
+      "slugs": [
+        "grow-up-show-himawari-no-circus-dan-b8747"
+      ],
+      "file": "files/at-689748.sq.vtt",
+      "assFile": "ass/at-689748.sq.ass",
+      "offset": 0,
+      "sourceReleaseId": "689748"
     }
   ]
 }
