@@ -490,6 +490,22 @@
       "sourceReleaseId": "689633",
       "sourceEpisode": "03",
       "sourceTitle": "Kaijuu 8-gou - Narumi no Heijitsu"
+    },
+    {
+      "id": "at-689538",
+      "title": "Rilakkuma",
+      "episode": "25",
+      "malId": 60153,
+      "anilistId": 183231,
+      "slugs": [
+        "rilakkuma-qvmgp"
+      ],
+      "file": "files/at-689538.sq.vtt",
+      "assFile": "ass/at-689538.sq.ass",
+      "offset": 0,
+      "sourceReleaseId": "689538",
+      "sourceEpisode": "25",
+      "sourceTitle": "Rilakkuma"
     }
   ]
 }

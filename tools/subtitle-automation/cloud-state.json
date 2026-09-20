@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-20T08:10:28Z",
+  "updated": "2026-09-20T09:24:34Z",
   "pending": [
     {
       "sourceReleaseId": "689937",
@@ -87,16 +87,11 @@
       "status": "queued"
     },
     {
-      "sourceReleaseId": "689538",
-      "sourceTitle": "Rilakkuma",
-      "sourceEpisode": "25",
-      "status": "queued"
-    },
-    {
       "sourceReleaseId": "689452",
       "sourceTitle": "Hell Mode S2",
       "sourceEpisode": "12",
-      "status": "queued"
+      "status": "blocked-attachment",
+      "reason": "Expected exactly one unforced English ASS track"
     },
     {
       "sourceReleaseId": "689458",
