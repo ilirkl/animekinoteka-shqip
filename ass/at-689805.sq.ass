@@ -1,0 +1,331 @@
+﻿[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Audio File: CR_TheDukesSonClai_S1.0E12_UKMSIM0012_378622_video_ja-jp_J9680123.mp4
+Video File: CR_TheDukesSonClai_S1.0E12_UKMSIM0012_378622_video_ja-jp_J9680123.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 1.250000
+Scroll Position: 228
+Active Line: 252
+Video Position: 27871
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: italicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashback italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashbackitalicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: overlaptop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: sign_generic,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,18,1
+Style: high,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,50,1
+Style: highitalics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.98,0:00:08.11,flashback italics,Adolf,0,0,0,,Më falni që po tërhiqem nga fjala ime,
+Dialogue: 0,0:00:08.11,0:00:12.24,flashback italics,Adolf,0,0,0,,por në zgjedhjet e ardhshme për kryetar, \Ndo të mbaj qëndrim neutral.
+Dialogue: 0,0:00:13.60,0:00:16.25,italics,Jarmo,0,0,0,,Duhet t'ia them babait këtë \Nsa më shpejt të jetë e mundur.
+Dialogue: 0,0:00:16.75,0:00:19.40,italics,Jarmo,0,0,0,,Por si munda të dështoj kështu?
+Dialogue: 0,0:00:19.85,0:00:23.24,italics,Jarmo,0,0,0,,Të zhgënjej pritshmëritë e babait \Nnë këtë mënyrë është thjesht...
+Dialogue: 0,0:00:27.30,0:00:31.01,italics,Jarmo,0,0,0,,Dhe ka mundësi që Julius \Nta ketë vënë re komplotin tim.
+Dialogue: 0,0:00:34.73,0:00:37.47,Default,Jarmo,0,0,0,,Mbaroi. Gjithçka.
+Dialogue: 0,0:00:41.49,0:00:43.02,italics,Serafina,0,0,0,,Vëllai im i shtrenjtë...
+Dialogue: 0,0:01:05.29,0:01:08.51,sign_generic,Title,0,0,0,,{\fad(0,943)\fnComic Sans MS\b1\fs24\an8\3c&HE0C6B4&}Djali i {\3c&HA494EF&}Dukës {\c&H2E749B&\bord0}Thotë se {\c&HE9EFDE&\3c&H8EA9A8&\bord1}S'Do të më {\c&H41809F&}Dashurojë,\N{\bord0\blur2\t(0,684,\blur0)\t(685,934,\bord2)\c&HBF9F98&\3c&HD6FEFF&}Por {\bord0\blur2\t(0,684,\blur0)\t(685,935,\bord1)\c&HC6BBEF&\3c&H7A99AE&}Më Mbulon me {\bord0\blur2\t(0,934,\blur0)\c&H2E739E&}Dashuri
+Dialogue: 0,0:02:13.53,0:02:20.49,sign_generic,Sign,0,0,0,,{\an2\fad(480,434)\blur2\fs18\fnComic Sans MS\b1\c&HFFFFFC&\3c&HB98F86&\pos(367.167,316)}Episodi 12
+Dialogue: 0,0:02:13.53,0:02:20.49,sign_generic,Sign,0,0,0,,{\fscx95\an1\fad(480,434)\blur2\fs16\fnComic Sans MS\b1\c&HFFFFFC&\3c&HB98F86&\pos(408.667,315)}"Një premtim në natën e yjeve që bien"
+Dialogue: 0,0:02:17.03,0:02:18.81,italicstop,Elsa,0,0,0,,Im shoq...
+Dialogue: 0,0:02:18.81,0:02:26.50,italicstop,Elsa,0,0,0,,Kur fillova\Ntë të dua kaq shumë?
+Dialogue: 0,0:02:30.61,0:02:32.76,italics,Elsa,0,0,0,,Por kjo ndjenjë...
+Dialogue: 0,0:02:32.76,0:02:37.76,italics,Elsa,0,0,0,,Nëse im shoq e merr vesh, \Nvetëm do t'i sjellë telashe.
+Dialogue: 0,0:02:38.17,0:02:40.26,flashback,Julius,0,0,0,,Mund të jem martuar me ty,
+Dialogue: 0,0:02:40.26,0:02:43.02,flashback,Julius,0,0,0,,{\fad(0,441)\t(2319,2760,\3c&HFFFFFF&\4c&HFFFFFF&)}por nuk kam aspak \Nndër mend të të dashuroj.
+Dialogue: 0,0:02:43.35,0:02:48.02,italics,Elsa,0,0,0,,Dhe atëherë, e pranova \Nse kjo ishte vetëm një martesë në letër.
+Dialogue: 0,0:02:48.31,0:02:52.57,italics,Elsa,0,0,0,,Për tim shoq, \Njam thjesht një grua sa për sy e faqe.
+Dialogue: 0,0:02:52.57,0:02:53.67,italics,Elsa,0,0,0,,Por...
+Dialogue: 0,0:02:56.03,0:03:00.28,italics,Elsa,0,0,0,,pavarësisht ndjenjave të mia, \Nasgjë nuk do të ndryshojë.
+Dialogue: 0,0:03:00.28,0:03:03.02,italics,Elsa,0,0,0,,Përditshmëria ime me \Ntim shoq do të vazhdojë.
+Dialogue: 0,0:03:03.02,0:03:06.04,italics,Elsa,0,0,0,,Kjo më gëzon shumë.
+Dialogue: 0,0:03:09.60,0:03:11.65,Default,Elsa,0,0,0,,Çfarë lulelakrash të mrekullueshme!
+Dialogue: 0,0:03:11.65,0:03:15.77,Default,Elsa,0,0,0,,Nëse bëj supë me to, \Njam e sigurt se im shoq do t'i hajë.
+Dialogue: 0,0:03:16.20,0:03:17.65,Default,Julius,0,0,0,,Mirëmëngjes, Elsa.
+Dialogue: 0,0:03:21.72,0:03:24.06,Default,Elsa,0,0,0,,M-Mirëmëngjes!
+Dialogue: 0,0:03:24.52,0:03:26.95,Default,Julius,0,0,0,,Po mbledh \Nperime edhe sot, shoh.
+Dialogue: 0,0:03:26.95,0:03:28.90,Default,Elsa,0,0,0,,Ah, po.
+Dialogue: 0,0:03:28.90,0:03:32.49,Default,Elsa,0,0,0,,Dhe duhet t'i çoj këto \Nnë kuzhinë, kështu që...
+Dialogue: 0,0:03:33.07,0:03:34.22,italics,Elsa,0,0,0,,Kjo s'është mirë.
+Dialogue: 0,0:03:34.22,0:03:38.07,italics,Elsa,0,0,0,,Zemra po më rreh aq fort, \Nsa s'mund ta shoh tim shoq në fytyrë.
+Dialogue: 0,0:03:43.14,0:03:44.34,italics,Julius,0,0,0,,Elsa...
+Dialogue: 0,0:03:50.48,0:03:53.56,italics,Julius,0,0,0,,Ajo gjithmonë ka folur \Nme mua duke buzëqeshur...
+Dialogue: 0,0:03:53.56,0:03:57.09,italics,Julius,0,0,0,,por që kur u kthyem nga \NKreisa, sillet kështu.
+Dialogue: 0,0:03:58.97,0:04:02.10,italics,Julius,0,0,0,,Rreziku që kaloi \Nnë fabrikën e tjerrjes...
+Dialogue: 0,0:04:02.10,0:04:04.74,italics,Julius,0,0,0,,duhet ta ketë tronditur.
+Dialogue: 0,0:04:06.17,0:04:09.43,flashback,Elsa,0,0,0,,Faleminderit që më more me vete.
+Dialogue: 0,0:04:10.12,0:04:12.29,italics,Julius,0,0,0,,Tha se nuk e shqetësonte,
+Dialogue: 0,0:04:12.29,0:04:14.86,italics,Julius,0,0,0,,por mos vallë \Ne detyroi veten ta thoshte?
+Dialogue: 0,0:04:20.37,0:04:22.31,Default,Julius,0,0,0,,Duhet të mund \Ntë kthehem herët sot.
+Dialogue: 0,0:04:22.78,0:04:27.06,Default,Elsa,0,0,0,,Sigurisht. Ëm... ki kujdes.
+Dialogue: 0,0:04:27.06,0:04:27.87,Default,Julius,0,0,0,,Do të kem.
+Dialogue: 0,0:04:28.66,0:04:30.78,italics,Julius,0,0,0,,Mos vallë po e detyron veten t'i bëjë këto?
+Dialogue: 0,0:04:32.47,0:04:33.88,Default,Relik,0,0,0,,Zonja Elsa.
+Dialogue: 0,0:04:34.72,0:04:36.90,Default,Relik,0,0,0,,Zonja Rebeka ka mbërritur.
+Dialogue: 0,0:04:40.21,0:04:45.89,Default,Rebeka,0,0,0,,U gëzova aq shumë që do t'ju shihja, zonja Elsa, \Nsa përfundova duke ardhur shumë herët.
+Dialogue: 0,0:04:45.89,0:04:50.36,Default,Elsa,0,0,0,,Zonja Rebeka! Edhe unë e kam pritur \Nme shumë padurim këtë!
+Dialogue: 0,0:04:51.26,0:04:54.22,Default,Rebeka,0,0,0,,Sot dua të bëjmë \Nnjë bisedë të gjatë e të mirë!
+Dialogue: 0,0:04:54.22,0:04:55.90,Default,Elsa,0,0,0,,Po, edhe unë!
+Dialogue: 0,0:04:58.32,0:05:00.58,Default,Rebeka,0,0,0,,Julius, ka kaluar kohë, apo jo?
+Dialogue: 0,0:05:00.58,0:05:01.59,Default,Julius,0,0,0,,Po.
+Dialogue: 0,0:05:02.06,0:05:03.45,Default,Julius,0,0,0,,Mirë, unë po nisem.
+Dialogue: 0,0:05:05.34,0:05:06.91,Default,Elsa,0,0,0,,Kalofsh mirë.
+Dialogue: 0,0:05:05.34,0:05:06.91,top,Rebeka,0,0,0,,Kalofsh mirë.
+Dialogue: 0,0:05:13.17,0:05:18.34,Default,Rebeka,0,0,0,,Kur ishe në krahinën Kreisa, \Nu ndjeva vetëm sepse s'mund të të shihja.
+Dialogue: 0,0:05:18.34,0:05:20.01,Default,Elsa,0,0,0,,Edhe unë.
+Dialogue: 0,0:05:20.01,0:05:22.18,Default,Elsa,0,0,0,,Ah! Të solla \Nnjë dhuratë të vogël.
+Dialogue: 0,0:05:23.45,0:05:25.57,Default,Rebeka,0,0,0,,A mund ta hap tani?
+Dialogue: 0,0:05:26.48,0:05:27.85,Default,Elsa,0,0,0,,Sigurisht!
+Dialogue: 0,0:05:28.48,0:05:30.18,Default,Rebeka,0,0,0,,Çfarë mund të jetë?
+Dialogue: 0,0:05:31.42,0:05:32.72,Default,Rebeka,0,0,0,,Uau...
+Dialogue: 0,0:05:33.62,0:05:36.19,Default,Rebeka,0,0,0,,Oh, qenka shumë e bukur!
+Dialogue: 0,0:05:39.47,0:05:42.19,Default,Rebeka,0,0,0,,Edhe Julius mban një të tillë, apo jo?
+Dialogue: 0,0:05:42.19,0:05:44.20,Default,Elsa,0,0,0,,Po, edhe unë.
+Dialogue: 0,0:05:44.82,0:05:47.60,Default,Elsa,0,0,0,,Është punim artizanal nga krahina Kreisa.
+Dialogue: 0,0:05:47.60,0:05:50.64,Default,Elsa,0,0,0,,Zonja Rebeka, tuajën e bëra vetë.
+Dialogue: 0,0:05:50.64,0:05:51.46,Default,Rebeka,0,0,0,,Vërtet?
+Dialogue: 0,0:05:52.01,0:05:55.40,Default,Rebeka,0,0,0,,Sa bukur! Kjo më gëzon pa masë.
+Dialogue: 0,0:05:56.80,0:06:00.17,Default,Elsa,0,0,0,,Kur ta vësh, nëse shpreh një dëshirë,
+Dialogue: 0,0:06:00.17,0:06:02.47,Default,Elsa,0,0,0,,thuhet se ajo do të plotësohet.
+Dialogue: 0,0:06:04.00,0:06:07.56,Default,Rebeka,0,0,0,,Atëherë, do ta vë më vonë, \Npasi ta kem menduar mirë.
+Dialogue: 0,0:06:08.20,0:06:09.37,Default,Rebeka,0,0,0,,Pra...
+Dialogue: 0,0:06:09.37,0:06:10.47,Default,Elsa,0,0,0,,Çfarë ka?
+Dialogue: 0,0:06:10.87,0:06:14.48,Default,Rebeka,0,0,0,,Zonja Elsa, çfarë dëshire shprehët?
+Dialogue: 0,0:06:14.48,0:06:17.48,Default,Elsa,0,0,0,,Epo, ajo është...
+Dialogue: 0,0:06:20.11,0:06:24.24,flashback italics,Elsa,0,0,0,,Dua të qëndroj me tim shoq \Npërgjithmonë.
+Dialogue: 0,0:06:25.40,0:06:26.74,Default,Elsa,0,0,0,,Është sekret.
+Dialogue: 0,0:06:26.74,0:06:27.98,Default,Rebeka,0,0,0,,Oh!
+Dialogue: 0,0:06:28.62,0:06:30.24,Default,Rebeka,0,0,0,,Po dëshira e Juliusit?
+Dialogue: 0,0:06:30.80,0:06:34.24,Default,Elsa,0,0,0,,Më tha se do që \Nta thërras me emër.
+Dialogue: 0,0:06:34.24,0:06:35.59,Default,Rebeka,0,0,0,,Çfarë?
+Dialogue: 0,0:06:35.59,0:06:39.25,Default,Elsa,0,0,0,,Tha se do që t'i drejtohem \Nsiç ju drejtohem juve dhe lordit Jarmo.
+Dialogue: 0,0:06:39.25,0:06:43.26,italics,Rebeka,0,0,0,,Epo, ndjenjat e Juliusit \Nqenkan krejt të qarta!
+Dialogue: 0,0:06:43.26,0:06:47.26,Default,Rebeka,0,0,0,,Atëherë, tani duhet ta thërrasësh \NLord Julius.
+Dialogue: 0,0:06:47.97,0:06:50.77,Default,Elsa,0,0,0,,J-Jo. Ka qenë e vështirë për mua,
+Dialogue: 0,0:06:50.77,0:06:53.27,Default,Elsa,0,0,0,,prandaj ende e thërras \N"Im shoq", si më parë.
+Dialogue: 0,0:06:53.27,0:06:57.27,italics,Rebeka,0,0,0,,Shkëlqyese si gjithmonë sot! \NAq e pastër! Aq e pafajshme!
+Dialogue: 0,0:07:00.51,0:07:03.03,Default,Rebeka,0,0,0,,Zonja Elsa, le të bëjmë më të mirën!
+Dialogue: 0,0:07:12.29,0:07:15.53,italics,Julius,0,0,0,,Ajo i buzëqeshi Rebekës \Nsiç bën gjithmonë.
+Dialogue: 0,0:07:15.53,0:07:18.79,italics,Julius,0,0,0,,Atëherë pse nuk më sheh as në sy?
+Dialogue: 0,0:07:21.04,0:07:25.55,italics,Julius,0,0,0,,Mos vallë e rëndoi aq shumë \Nngujimi në fabrikën e tjerrjes?
+Dialogue: 0,0:07:26.24,0:07:29.34,flashback,Elsa,0,0,0,,M-Më hyri pak pluhur në sy!
+Dialogue: 0,0:07:30.29,0:07:34.82,italics,Julius,0,0,0,,Kështu tha Elsa, por \Npo sikur në të vërtetë të ishte gënjeshtër?
+Dialogue: 0,0:07:37.06,0:07:41.06,italics,Julius,0,0,0,,Po sikur e vërteta të jetë se Jarmo \Ni tha gjëra të tmerrshme?
+Dialogue: 0,0:07:42.68,0:07:46.07,italics,Julius,0,0,0,,Jo, nuk është mirë të dyshoj në fjalët e Elsës.
+Dialogue: 0,0:07:51.08,0:07:55.39,Default,Aleksis,0,0,0,,Që kur u kthye nga \Nmuaji i mjaltit në Kreisa, sillet kështu.
+Dialogue: 0,0:07:55.39,0:07:57.73,Default,Jere,0,0,0,,Por nuk ishte muaj mjalti, apo jo?
+Dialogue: 0,0:07:58.08,0:08:03.13,Default,Aleksis,0,0,0,,Ah, por nuk lodhem kurrë \Nduke parë një të ri të shqetësohet.
+Dialogue: 0,0:08:03.13,0:08:07.77,Default,Jere,0,0,0,,Ju lutem, mos u entuziazmoni kaq shumë. \NPërqendrohuni te puna juaj.
+Dialogue: 0,0:08:07.77,0:08:09.30,Default,Aleksis,0,0,0,,Hë pra, Jere.
+Dialogue: 0,0:08:09.30,0:08:12.40,Default,Aleksis,0,0,0,,Kjo është më e rëndësishme \Nse puna ime tani, apo jo...
+Dialogue: 0,0:08:13.40,0:08:15.89,Default,Julius,0,0,0,,Ju lutem, mos ma pengoni punën.
+Dialogue: 0,0:08:18.10,0:08:22.11,Default,Aleksis,0,0,0,,Por ai nuk po punonte! Apo jo, Jere?
+Dialogue: 0,0:08:23.01,0:08:26.02,Default,Jene,0,0,0,,Mjaft me kaq.\NJu lutem, përqendrohuni te puna juaj.
+Dialogue: 0,0:08:28.11,0:08:31.03,italics,Julius,0,0,0,,Duhet të përqendrohem dhe \Nta mbaroj punën shpejt.
+Dialogue: 0,0:08:31.03,0:08:34.12,italics,Julius,0,0,0,,I premtova Elsës se \Ndo të kthehesha herët sot.
+Dialogue: 0,0:08:34.52,0:08:39.75,italics,Julius,0,0,0,,Por... a dëshiron Elsa \Nqë unë të kthehem herët?
+Dialogue: 0,0:08:42.53,0:08:43.84,Default,Serafina,0,0,0,,Vëlla i dashur!
+Dialogue: 0,0:08:46.51,0:08:48.13,Default,Serafina,0,0,0,,Po del?
+Dialogue: 0,0:08:49.30,0:08:52.14,Default,Jarmo,0,0,0,,Po. Kanë thirrur një mbledhje të papritur.
+Dialogue: 0,0:08:52.43,0:08:57.66,Default,Serafina,0,0,0,,Kur të kthehesh sot, a mund \Ntë dëgjosh gjithçka që kam për të të thënë?
+Dialogue: 0,0:08:57.66,0:08:59.09,Default,Jarmo,0,0,0,,Në rregull.
+Dialogue: 0,0:08:59.47,0:09:02.06,Default,Jarmo,0,0,0,,Mirë, po nisem, Serafina.
+Dialogue: 0,0:09:05.15,0:09:08.83,italics,Serafina,0,0,0,,Vërtet mendoj se vëllai im \Npo sillet çuditshëm.
+Dialogue: 0,0:09:13.16,0:09:16.56,Default,Rebeka,0,0,0,,Megjithatë, jam vërtet e habitur.
+Dialogue: 0,0:09:17.26,0:09:21.92,Default,Rebeka,0,0,0,,"Dua të më thërrasësh me emër." \NS'e imagjinoj dot Julius ta thotë këtë.
+Dialogue: 0,0:09:22.38,0:09:24.92,Default,Elsa,0,0,0,,Ëm, çfarë doni të thoni?
+Dialogue: 0,0:09:25.19,0:09:28.64,Default,Rebeka,0,0,0,,Që Julius t'i thotë dikujt \Nse dëshiron diçka...
+Dialogue: 0,0:09:28.64,0:09:30.94,Default,Rebeka,0,0,0,,Kjo nuk do të kishte ndodhur kurrë më parë.
+Dialogue: 0,0:09:32.15,0:09:34.68,Default,Rebeka,0,0,0,,E përmenda më parë, apo jo?
+Dialogue: 0,0:09:34.68,0:09:40.93,Default,Rebeka,0,0,0,,Përçarja mes prindërve të tij \Nia bëri të vështirë t'u besonte të tjerëve.
+Dialogue: 0,0:09:41.28,0:09:42.65,Default,Elsa,0,0,0,,Po.
+Dialogue: 0,0:09:42.65,0:09:45.04,Default,Rebeka,0,0,0,,Kur Julius ishte fëmijë...
+Dialogue: 0,0:09:55.95,0:09:57.86,Default,Rebeka,0,0,0,,kur ishte në shtëpi, ishte vetëm...
+Dialogue: 0,0:09:59.25,0:10:02.12,Default,Rebeka,0,0,0,,dhe kur shkonte në shkollë, \Nprapë ishte vetëm.
+Dialogue: 0,0:10:02.71,0:10:05.16,Default,Rebeka,0,0,0,,Edhe kur u transferua \Nnë një shkollë publike,
+Dialogue: 0,0:10:05.16,0:10:08.71,Default,Rebeka,0,0,0,,ishte nxënës aq i shkëlqyer \Nsa e trajtonin gjithmonë ndryshe.
+Dialogue: 0,0:10:09.39,0:10:12.84,Default,Rebeka,0,0,0,,Shokët e klasës as nuk mund \Nta imagjinonin të miqësoheshin me të.
+Dialogue: 0,0:10:13.77,0:10:16.61,Default,Rebeka,0,0,0,,Dhe Julius nuk interesohej për ta.
+Dialogue: 0,0:10:16.61,0:10:19.82,Default,Rebeka,0,0,0,,Nuk mbante mend as \Nemrat apo fytyrat e tyre.
+Dialogue: 0,0:10:20.38,0:10:26.20,Default,Rebeka,0,0,0,,Sikur të mos donte të lëndohej, \Nu mbyll thellë në vetvete...
+Dialogue: 0,0:10:27.11,0:10:30.59,Default,Rebeka,0,0,0,,dhe e mbrojti zemrën me gjemba të mprehtë.
+Dialogue: 0,0:10:36.61,0:10:38.07,Default,Elsa,0,0,0,,Im shoq...
+Dialogue: 0,0:10:38.56,0:10:42.02,Default,Rebeka,0,0,0,,Por ai Julius ka ndryshuar.
+Dialogue: 0,0:10:42.69,0:10:45.72,Default,Rebeka,0,0,0,,Zonja Elsa, sepse ju takoi juve.
+Dialogue: 0,0:10:46.69,0:10:50.38,Default,Rebeka,0,0,0,,Zonja Elsa, jeni ju ajo \Nqë po e bën Julius kaq të lumtur.
+Dialogue: 0,0:10:50.81,0:10:54.38,Default,Elsa,0,0,0,,Unë po e bëj tim shoq... të lumtur?
+Dialogue: 0,0:10:55.54,0:10:59.39,Default,Elsa,0,0,0,,Sikur kjo të jetë sadopak e vërtetë, \Ndo të isha pa masë e lumtur.
+Dialogue: 0,0:10:59.39,0:11:02.44,italics,Rebeka,0,0,0,,A-Ajo është tepër shkëlqyese!
+Dialogue: 0,0:11:05.17,0:11:06.66,Default,Rebeka,0,0,0,,Zonja Elsa!
+Dialogue: 0,0:11:13.65,0:11:17.95,italics,Julius,0,0,0,,Do të nxitoj ta dorëzoj këtë,\Npastaj duhet të përfundoj detyrën tjetër.
+Dialogue: 0,0:11:37.44,0:11:38.59,italics,Julius,0,0,0,,Jarmo?
+Dialogue: 0,0:11:43.00,0:11:44.48,Default,Jarmo,0,0,0,,Julius.
+Dialogue: 0,0:11:48.54,0:11:50.82,Default,Julius,0,0,0,,Nuk prisja të të hasja këtu.
+Dialogue: 0,0:11:50.82,0:11:54.53,Default,Julius,0,0,0,,Ka diçka që doja të të thosha,\Nndaj do të lidhesha me ty.
+Dialogue: 0,0:12:00.16,0:12:04.54,Default,Jarmo,0,0,0,,Ç'është kjo? Ndihem i nderuar \Nqë do të më kontaktoje.
+Dialogue: 0,0:12:04.54,0:12:06.54,Default,Julius,0,0,0,,Mos e përfshi Elsën.
+Dialogue: 0,0:12:06.54,0:12:09.46,Default,Jarmo,0,0,0,,Çfarë? Gruan tënde?
+Dialogue: 0,0:12:09.46,0:12:11.54,Default,Jarmo,0,0,0,,Nuk e di për çfarë po flet.
+Dialogue: 0,0:12:11.95,0:12:13.36,Default,Julius,0,0,0,,Mos bëj sikur s'di gjë.
+Dialogue: 0,0:12:13.36,0:12:15.40,Default,Julius,0,0,0,,Veprimet e fraksionit anti-mbretëror...
+Dialogue: 0,0:12:15.40,0:12:18.00,Default,Julius,0,0,0,,Përplasja për zgjedhjen e kryetarit...
+Dialogue: 0,0:12:18.00,0:12:22.05,Default,Julius,0,0,0,,E di se ke \Nvepruar në prapaskenë.
+Dialogue: 0,0:12:22.05,0:12:24.90,Default,Julius,0,0,0,,Jam ndihmësi personal i princit të kurorës,
+Dialogue: 0,0:12:24.90,0:12:27.81,Default,Julius,0,0,0,,prandaj e di gjithashtu se nga \Nkëndvështrimi yt, jam armik.
+Dialogue: 0,0:12:31.46,0:12:35.82,italics,Jarmo,0,0,0,,Pra e ka zbuluar \Nkomplotin tim në fund.
+Dialogue: 0,0:12:35.82,0:12:38.46,Default,Julius,0,0,0,,Por Elsa nuk ka të bëjë fare me këtë.
+Dialogue: 0,0:12:38.46,0:12:41.82,Default,Julius,0,0,0,,Nuk do të fal kurrë \Nasgjë që e lëndon atë.
+Dialogue: 0,0:12:44.83,0:12:47.83,Default,Jarmo,0,0,0,,A është vërtet kaq e çmuar për ty?
+Dialogue: 0,0:12:49.83,0:12:53.01,Default,Jarmo,0,0,0,,Epo, epo, qenke vërtet \Nlakmitar.
+Dialogue: 0,0:12:53.01,0:12:55.09,Default,Jarmo,0,0,0,,Dhe kjo edhe pse \Ntashmë ke gjithçka.
+Dialogue: 0,0:12:55.64,0:12:58.62,Default,Julius,0,0,0,,Kam gjithçka? Unë?
+Dialogue: 0,0:12:59.46,0:13:03.85,Default,Jarmo,0,0,0,,S'mund ta mohosh, apo jo? As tani, \Nas kur ishim studentë.
+Dialogue: 0,0:13:03.85,0:13:05.48,Default,Julius,0,0,0,,Kur ishim studentë?
+Dialogue: 0,0:13:06.41,0:13:11.85,Default,Julius,0,0,0,,Atëherë, gjithmonë\Ni kisha zili studentët si ti.
+Dialogue: 0,0:13:12.36,0:13:15.86,Default,Jarmo,0,0,0,,Zili? Çfarë marrëzie.
+Dialogue: 0,0:13:17.49,0:13:19.00,Default,Julius,0,0,0,,Nuk e kupton?
+Dialogue: 0,0:13:19.86,0:13:24.37,Default,Julius,0,0,0,,Të gjithë ju kishit atë që unë \Ns'mund ta kisha kurrë, edhe sikur ta dëshiroja.
+Dialogue: 0,0:13:26.74,0:13:28.52,Default,Julius,0,0,0,,Familje.
+Dialogue: 0,0:13:29.32,0:13:30.87,Default,Jarmo,0,0,0,,Familje?
+Dialogue: 0,0:13:35.75,0:13:37.70,Default,Jarmo,0,0,0,,Familje...
+Dialogue: 0,0:13:37.70,0:13:42.38,Default,Jarmo,0,0,0,,Kjo është diçka që e dëshiroja \Ndëshpërimisht kur isha djalë i vogël.
+Dialogue: 0,0:13:42.85,0:13:44.36,italics,Jarmo,0,0,0,,Ashtu është.
+Dialogue: 0,0:13:44.36,0:13:48.67,italics,Jarmo,0,0,0,,Nëse do të thoshte të kisha familje, \Nmendoja se mund të bëja gjithçka.
+Dialogue: 0,0:13:56.98,0:14:01.24,Default,Jarmo,0,0,0,,Kur im atë më solli këtu \Nnë pallat për herë të parë,
+Dialogue: 0,0:14:01.24,0:14:02.96,Default,Jarmo,0,0,0,,e gjeta këtë pikturë.
+Dialogue: 0,0:14:06.30,0:14:12.41,Default,Jarmo,0,0,0,,Nuk e di kush është në pikturë, \Nas kush e pikturoi.
+Dialogue: 0,0:14:14.10,0:14:17.74,Default,Julius,0,0,0,,Por... ti ishe gjithmonë me \Nfamiljen tënde, apo jo?
+Dialogue: 0,0:14:31.51,0:14:36.06,Default,Julius,0,0,0,,Ndeshje skermë, gara \Nfjalimesh, ekspozita arti...
+Dialogue: 0,0:14:36.06,0:14:38.20,Default,Julius,0,0,0,,Ishte gjithmonë njësoj.
+Dialogue: 0,0:14:38.20,0:14:40.32,Default,Julius,0,0,0,,Isha i vetmi \Nfamilja e të cilit nuk vinte.
+Dialogue: 0,0:14:41.49,0:14:45.93,Default,Jarmo,0,0,0,,Jo, unë isha... E imja nuk është ajo lloj \Nfamiljeje për të cilën po flet.
+Dialogue: 0,0:14:46.82,0:14:51.13,Default,Julius,0,0,0,,Atëherë, zemra ime ishte gjithmonë e mbyllur.
+Dialogue: 0,0:14:51.13,0:14:55.33,Default,Julius,0,0,0,,Aq sa nuk mbaja mend \Nemrat apo fytyrat e studentëve përreth.
+Dialogue: 0,0:14:55.85,0:14:57.47,flashback,Julius,0,0,0,,Kush je ti?
+Dialogue: 0,0:14:59.37,0:15:02.59,Default,Jarmo,0,0,0,,Kjo nuk... Nuk mund të jetë...
+Dialogue: 0,0:15:02.59,0:15:07.69,Default,Julius,0,0,0,,Pastaj takova Elsën, kalova kohë\Nme të dhe ndryshova.
+Dialogue: 0,0:15:07.69,0:15:12.60,Default,Julius,0,0,0,,Ajo, me buzëqeshjen e saj të ndritur, \Nmë ka mësuar kaq shumë gjëra.
+Dialogue: 0,0:15:14.45,0:15:17.84,Default,Julius,0,0,0,,Elsa është familja që më në fund gjeta.
+Dialogue: 0,0:15:17.84,0:15:20.11,Default,Julius,0,0,0,,Ajo është e pazëvendësueshme!
+Dialogue: 0,0:15:22.61,0:15:26.61,Default,Julius,0,0,0,,Nëse e lëndon ndonjëherë, \Nnuk do ta lë me kaq.
+Dialogue: 0,0:15:35.72,0:15:37.12,italics,Julius,0,0,0,,Pse?
+Dialogue: 0,0:15:38.11,0:15:43.13,italics,Julius,0,0,0,,Pse thashë gjëra që s'kisha ndër mend \Nt'i thosha me zë... dhe pikërisht Jarmos?
+Dialogue: 0,0:15:43.60,0:15:48.19,italics,Julius,0,0,0,,I thashë Jarmos se po ta lëndonte Elsën, \Nnuk do ta lija me kaq.
+Dialogue: 0,0:15:48.19,0:15:49.14,italics,Julius,0,0,0,,Por...
+Dialogue: 0,0:15:49.59,0:15:52.24,italics,Julius,0,0,0,,personi që e ka lënduar \NElsën më shumë se kushdo...
+Dialogue: 0,0:15:52.93,0:15:54.11,italics,Julius,0,0,0,,jam unë.
+Dialogue: 0,0:15:55.49,0:15:57.64,flashback,Julius,0,0,0,,Mund të jem martuar me ty,
+Dialogue: 0,0:15:57.64,0:16:00.40,flashback,Julius,0,0,0,,por nuk kam aspak \Nndër mend të të dashuroj.
+Dialogue: 0,0:16:02.50,0:16:04.60,italics,Julius,0,0,0,,Duhet t'i kërkoj falje Elsës.
+Dialogue: 0,0:16:07.34,0:16:11.66,italics,Julius,0,0,0,,Edhe po t'i kërkoj falje tani, \Nmund të mos e pranojë.
+Dialogue: 0,0:16:11.66,0:16:14.16,italics,Julius,0,0,0,,Mund të mos më falë.
+Dialogue: 0,0:16:14.64,0:16:17.16,italics,Julius,0,0,0,,Edhe kështu, unë...
+Dialogue: 0,0:16:23.16,0:16:24.23,italics,Julius,0,0,0,,Unë...
+Dialogue: 0,0:16:25.33,0:16:26.16,Default,Julius,0,0,0,,Elsa.
+Dialogue: 0,0:16:26.16,0:16:27.51,Default,Elsa,0,0,0,,Im shoq!
+Dialogue: 0,0:16:27.51,0:16:29.18,Default,Elsa,0,0,0,,Dëgjova se do të ketë yje që bien!
+Dialogue: 0,0:16:29.18,0:16:30.13,Default,Julius,0,0,0,,Çfarë?
+Dialogue: 0,0:16:30.68,0:16:33.06,Default,Elsa,0,0,0,,Ma tha zonja Rebeka.
+Dialogue: 0,0:16:33.06,0:16:36.18,Default,Elsa,0,0,0,,Bashkëshorti i zonjës Rebeka është \Nastronom, e kuptoni...
+Dialogue: 0,0:16:36.50,0:16:40.19,Default,Elsa,0,0,0,,Tha se sonte do të ketë shi meteorësh\Npër shkak të kometës.
+Dialogue: 0,0:16:40.60,0:16:42.14,Default,Julius,0,0,0,,Shi meteorësh?
+Dialogue: 0,0:16:45.56,0:16:47.66,italics,Elsa,0,0,0,,U gëzova aq shumë për yjet që bien
+Dialogue: 0,0:16:47.66,0:16:50.69,italics,Elsa,0,0,0,,sa pa dashje e pashë \Ntim shoq në fytyrë!
+Dialogue: 0,0:16:50.69,0:16:52.34,italics,Elsa,0,0,0,,Zemra po më rreh fort.
+Dialogue: 0,0:16:57.32,0:17:01.26,flashback italics,Julius,0,0,0,,Por... ti ishe gjithmonë me \Nfamiljen tënde, apo jo?
+Dialogue: 0,0:17:02.13,0:17:04.15,italics,Jarmo,0,0,0,,Familje, hë?
+Dialogue: 0,0:17:04.15,0:17:07.31,italics,Jarmo,0,0,0,,Kështu të dukej ty?
+Dialogue: 0,0:17:07.31,0:17:11.47,italics,Jarmo,0,0,0,,Por tani do të humbas gjithçka.
+Dialogue: 0,0:17:15.26,0:17:16.47,Default,Parnilla,0,0,0,,Hyr.
+Dialogue: 0,0:17:21.05,0:17:25.00,Default,Jarmo,0,0,0,,Baba, erdha sepse \Nkam diçka për të të thënë.
+Dialogue: 0,0:17:25.00,0:17:26.02,Default,Parnilla,0,0,0,,Çfarë është?
+Dialogue: 0,0:17:26.48,0:17:27.67,Default,Jarmo,0,0,0,,E vërteta është se,
+Dialogue: 0,0:17:27.67,0:17:32.49,Default,Jarmo,0,0,0,,dështova të fitoj mbështetjen e \Nvikontit Escola në krahinën Kreisa.
+Dialogue: 0,0:17:33.28,0:17:34.77,Default,Jarmo,0,0,0,,Më vjen shumë keq.
+Dialogue: 0,0:17:37.73,0:17:40.50,Default,Parnilla,0,0,0,,E kuptoj. Pra kjo ishte arsyeja.
+Dialogue: 0,0:17:41.16,0:17:43.53,Default,Parnilla,0,0,0,,Serafina erdhi të më kërkonte këshillë.
+Dialogue: 0,0:17:43.53,0:17:46.50,Default,Parnilla,0,0,0,,Tha se kohët e fundit \Npo sillesh çuditshëm.
+Dialogue: 0,0:17:48.51,0:17:52.59,Default,Parnilla,0,0,0,,A duhet një vëlla i madh \Nta shqetësojë motrën e vogël?
+Dialogue: 0,0:17:53.04,0:17:57.66,Default,Parnilla,0,0,0,,Ke bërë gjithçka që \Nke mundur për mua deri tani.
+Dialogue: 0,0:17:57.66,0:18:01.02,Default,Parnilla,0,0,0,,Nuk më shqetëson ky dështim i vetëm.
+Dialogue: 0,0:18:03.46,0:18:04.89,Default,Parnilla,0,0,0,,Mos harro.
+Dialogue: 0,0:18:06.27,0:18:09.78,Default,Parnilla,0,0,0,,Je biri im dhe jam krenar për ty.
+Dialogue: 0,0:18:21.42,0:18:24.37,Default,Jarmo,0,0,0,,Faleminderit... baba.
+Dialogue: 0,0:18:25.73,0:18:26.77,Default,Parnilla,0,0,0,,Shumë mirë.
+Dialogue: 0,0:18:33.25,0:18:34.62,italics,Julius,0,0,0,,Kërko falje.
+Dialogue: 0,0:18:35.21,0:18:36.28,Default,Julius,0,0,0,,Elsa...
+Dialogue: 0,0:18:36.28,0:18:37.32,Default,Elsa,0,0,0,,Po?
+Dialogue: 0,0:18:38.22,0:18:40.54,Default,Julius,0,0,0,,N-Nuk të flihet?
+Dialogue: 0,0:18:41.31,0:18:43.94,Default,Elsa,0,0,0,,Jo, jam mirë.
+Dialogue: 0,0:18:43.94,0:18:48.09,Default,Elsa,0,0,0,,Jam aq e emocionuar, është hera e parë \Nqë mendoj se mund të rri zgjuar gjithë natën!
+Dialogue: 0,0:18:48.76,0:18:49.95,Default,Julius,0,0,0,,E kuptoj.
+Dialogue: 0,0:18:50.65,0:18:53.81,italics,Julius,0,0,0,,Jo, s'është kjo. Dua të kërkoj falje.
+Dialogue: 0,0:18:54.52,0:18:57.13,Default,Elsa,0,0,0,,Ëm... im shoq?
+Dialogue: 0,0:18:57.62,0:18:59.58,Default,Julius,0,0,0,,Elsa, e vërteta është...
+Dialogue: 0,0:18:59.58,0:19:01.08,Default,Elsa,0,0,0,,Po?
+Dialogue: 0,0:19:02.87,0:19:04.36,Default,Julius,0,0,0,,N-Në disa krahina,
+Dialogue: 0,0:19:04.36,0:19:07.32,Default,Julius,0,0,0,,mendojnë se yjet bien kur \Nhapet një derë në qiell...
+Dialogue: 0,0:19:07.90,0:19:12.59,Default,Julius,0,0,0,,dhe drita që kalon përmes \Nasaj dere na duket si yje që bien.
+Dialogue: 0,0:19:12.59,0:19:14.59,italics,Julius,0,0,0,,Jo, unë...
+Dialogue: 0,0:19:14.59,0:19:18.06,Default,Julius,0,0,0,,Dhe për këtë arsye, nëse shpreh një dëshirë \Nkur sheh një yll që bie...
+Dialogue: 0,0:19:18.06,0:19:22.48,Default,Julius,0,0,0,,ajo dëshirë arrin te perënditë \Ndhe ato ta plotësojnë, kështu thonë.
+Dialogue: 0,0:19:22.48,0:19:24.23,Default,Elsa,0,0,0,,Vërtet?
+Dialogue: 0,0:19:24.91,0:19:26.85,Default,Elsa,0,0,0,,Një derë në qiell...
+Dialogue: 0,0:19:29.61,0:19:32.24,Default,Elsa,0,0,0,,Pashë një! Një yll që bie!
+Dialogue: 0,0:19:32.24,0:19:33.61,Default,Julius,0,0,0,,Po.
+Dialogue: 0,0:19:34.07,0:19:36.95,Default,Elsa,0,0,0,,Sonte mund të shprehim \Nsa dëshira të duam.
+Dialogue: 0,0:19:38.34,0:19:42.62,Default,Julius,0,0,0,,Elsa, ka diçka për të cilën \Nduhet të të kërkoj falje.
+Dialogue: 0,0:19:43.21,0:19:44.21,Default,Elsa,0,0,0,,Çfarë?
+Dialogue: 0,0:19:45.31,0:19:48.62,Default,Julius,0,0,0,,Natën e martesës sonë... \Najo që thashë...
+Dialogue: 0,0:19:49.29,0:19:52.63,Default,Julius,0,0,0,,se nuk kisha ndër mend \Ntë të dashuroja ndonjëherë.
+Dialogue: 0,0:19:54.36,0:19:55.60,Default,Elsa,0,0,0,,Po.
+Dialogue: 0,0:19:55.60,0:19:57.63,Default,Julius,0,0,0,,Më vjen vërtet keq për këtë.
+Dialogue: 0,0:19:57.99,0:20:00.13,Default,Julius,0,0,0,,Të kam lënduar.
+Dialogue: 0,0:20:00.73,0:20:02.22,Default,Elsa,0,0,0,,Im shoq?
+Dialogue: 0,0:20:03.24,0:20:06.64,Default,Julius,0,0,0,,Atëherë, mendoja \Nse ajo ishte gjëja e duhur.
+Dialogue: 0,0:20:07.51,0:20:11.65,Default,Julius,0,0,0,,Por ndërsa kam kaluar kohë me ty, \Ne kuptova gabimin tim.
+Dialogue: 0,0:20:12.28,0:20:14.06,Default,Julius,0,0,0,,Kam ndryshuar.
+Dialogue: 0,0:20:15.05,0:20:17.08,Default,Julius,0,0,0,,E gjitha falë teje.
+Dialogue: 0,0:20:21.15,0:20:22.28,Default,Julius,0,0,0,,Elsa.
+Dialogue: 0,0:20:22.66,0:20:25.66,Default,Julius,0,0,0,,Që tani e tutje, dua të jemi \Nnjë çift i vërtetë...
+Dialogue: 0,0:20:26.81,0:20:29.16,Default,Julius,0,0,0,,me ty gjithmonë pranë meje.
+Dialogue: 0,0:20:33.75,0:20:35.05,Default,Julius,0,0,0,,Elsa?
+Dialogue: 0,0:20:37.98,0:20:42.42,sign_generic,Credits,0,0,0,,{\fad(391,430)\fs12\an9\bord1.5\3c&H3E3E3E&\pos(212.666,20.666)}Përkthimi: Elanor Sakamoto\NKoha: Mariana Martinez\NRedaktimi dhe stilizimi: Gabriella Alabanza\NKontrolli i cilësisë: Salem Alabanza\NKontrolli përfundimtar i cilësisë: Michelle Tymon
+Dialogue: 0,0:20:38.28,0:20:39.80,Default,Elsa,0,0,0,,Jam e lumtur.
+Dialogue: 0,0:20:40.28,0:20:43.26,Default,Elsa,0,0,0,,Kjo nuk është ëndërr... apo jo?
+Dialogue: 0,0:20:45.29,0:20:46.56,Default,Julius,0,0,0,,Elsa...
+Dialogue: 0,0:20:48.52,0:20:50.04,Default,Elsa,0,0,0,,Im shoq.
+Dialogue: 0,0:20:50.99,0:20:52.86,Default,Julius,0,0,0,,Dua të më thërrasësh me emër.
+Dialogue: 0,0:20:55.00,0:20:56.52,Default,Elsa,0,0,0,,Lord Julius!
+Dialogue: 0,0:22:01.89,0:22:03.93,Default,Julius,0,0,0,,Elsa, çfarë dëshire shprehe?
+Dialogue: 0,0:22:05.03,0:22:06.54,Default,Elsa,0,0,0,,Unë...
+Dialogue: 0,0:22:12.64,0:22:14.94,Default,Elsa,0,0,0,,Është sekret.
+Dialogue: 0,0:22:18.68,0:22:20.57,Default,Elsa,0,0,0,,Do të jem i sinqertë.
+Dialogue: 0,0:22:20.57,0:22:24.46,Default,Julius,0,0,0,,Atëherë, ai që isha kur \Nthashë se nuk kisha ndër mend të të dashuroja...
+Dialogue: 0,0:22:27.82,0:22:31.32,Default,Julius,0,0,0,,tani është plotësisht dhe \Nmarrëzisht i dashuruar me ty.
+Dialogue: 0,0:22:33.50,0:22:34.67,Default,Elsa,0,0,0,,Po.
+

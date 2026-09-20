@@ -586,6 +586,23 @@
       "sourceReleaseId": "689842",
       "sourceEpisode": "11",
       "sourceTitle": "Hanaori-san wa Tensei shitemo Kenka ga Shitai"
+    },
+    {
+      "id": "at-689805",
+      "title": "The Duke’s Son Claims He Won’t Love Me Yet Showers Me with Adoration",
+      "episode": "12",
+      "malId": 63537,
+      "anilistId": null,
+      "slugs": [
+        "kimi-wo-aisuru-ki-wa-nai-to-itta-jiki-koushaku-sama-ga-nazeka-dekiai-shitekimasu-ac995"
+      ],
+      "file": "files/at-689805.sq.vtt",
+      "assFile": "ass/at-689805.sq.ass",
+      "offset": 0,
+      "sourceReleaseId": "689805",
+      "sourceEpisode": "12",
+      "sourceTitle": "Kimiai",
+      "numberingEvidence": "https://anikototv.to/watch/kimi-wo-aisuru-ki-wa-nai-to-itta-jiki-koushaku-sama-ga-nazeka-dekiai-shitekimasu-ac995"
     }
   ]
 }
