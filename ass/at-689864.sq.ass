@@ -1,0 +1,403 @@
+﻿[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: italicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashback italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashbackitalicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: overlaptop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:23.81,0:01:31.40,top,SIGN,0,0,0,,KUJDESTARI I VAJZËS SË PASUR
+Dialogue: 0,0:01:36.05,0:01:41.01,top,SIGN,0,0,0,,EPISODI 12: KREJT JASHTË LIGËS SIME
+Dialogue: 0,0:01:37.82,0:01:39.32,main,Itsuki,0,0,0,,Sot nuk është këtu?
+Dialogue: 0,0:01:39.85,0:01:42.04,italics,Itsuki,0,0,0,,Kur kishin mbetur tri ditë deri te\Ngara sportive,
+Dialogue: 0,0:01:42.62,0:01:45.58,italics,Itsuki,0,0,0,,Narika papritur mungoi nga shkolla.
+Dialogue: 0,0:01:46.39,0:01:51.00,italics,Itsuki,0,0,0,,I kërkova Shizune-san-it të organizonte një vizitë\Nnë shtëpinë Miyakojima, që ta shihja si ishte.
+Dialogue: 0,0:01:51.55,0:01:55.05,top,sign,0,0,0,,MIYAKOJIMA
+Dialogue: 0,0:01:52.06,0:01:55.05,italics,Itsuki,0,0,0,,Mendova se do të më refuzonin, por...
+Dialogue: 0,0:01:56.94,0:01:58.60,italics,Itsuki,0,0,0,,Nuk kam ardhur këtu që atëherë.
+Dialogue: 0,0:02:00.30,0:02:02.10,main,Servant,0,0,0,,Na falni që ju lamë të prisnit.
+Dialogue: 0,0:02:08.25,0:02:10.38,main,Servant,0,0,0,,Tomonari-sama ka mbërritur.
+Dialogue: 0,0:02:12.01,0:02:14.12,main,Itsuki,0,0,0,,Narika. A je mirë?
+Dialogue: 0,0:02:15.57,0:02:16.66,main,Itsuki,0,0,0,,Narika?
+Dialogue: 0,0:02:18.44,0:02:20.32,main,Itsuki,0,0,0,,K-Ka kaluar shumë kohë, zotëri!
+Dialogue: 0,0:02:21.64,0:02:22.79,main,Musashi,0,0,0,,Hyr.
+Dialogue: 0,0:02:27.94,0:02:29.28,main,Itsuki,0,0,0,,E-Epo, Narika është—
+Dialogue: 0,0:02:29.28,0:02:33.49,main,Musashi,0,0,0,,Kam dëgjuar se kohët e fundit po ndërhyn\Nnë marrëdhëniet e vajzës sime.
+Dialogue: 0,0:02:34.08,0:02:36.05,main,Itsuki,0,0,0,,Po e ndihmoj.
+Dialogue: 0,0:02:36.47,0:02:38.86,main,Musashi,0,0,0,,Po e ndihmon, hë?
+Dialogue: 0,0:02:38.86,0:02:43.02,main,Itsuki,0,0,0,,A mund t'ju pyes... A e dini\Nçfarë reputacioni ka Narika në shkollë?
+Dialogue: 0,0:02:43.02,0:02:44.54,main,Musashi,0,0,0,,Pak a shumë.
+Dialogue: 0,0:02:44.54,0:02:48.59,main,Musashi,0,0,0,,Mund të mendosh se Narika ka nevojë\Npër mbrojtje, por nuk ka.
+Dialogue: 0,0:02:48.59,0:02:49.89,main,Itsuki,0,0,0,,Mbrojtje?
+Dialogue: 0,0:02:49.89,0:02:51.86,main,Itsuki,0,0,0,,Nuk e kam aspak këtë qëllim!
+Dialogue: 0,0:02:52.26,0:02:53.70,main,Musashi,0,0,0,,Mirë, pra.
+Dialogue: 0,0:02:53.70,0:02:56.11,main,Musashi,0,0,0,,Kam punë për të bërë. Më fal.
+Dialogue: 0,0:02:57.73,0:02:59.54,main,Musashi,0,0,0,,Narika është në dojo.
+Dialogue: 0,0:03:00.56,0:03:03.02,italics,Itsuki,0,0,0,,Pra, nuk është e sëmurë?
+Dialogue: 0,0:03:03.02,0:03:04.41,main,Itsuki,0,0,0,,P-Prit një çast!
+Dialogue: 0,0:03:06.35,0:03:07.26,main,Musashi,0,0,0,,Çfarë?
+Dialogue: 0,0:03:07.26,0:03:11.96,main,Itsuki,0,0,0,,Më falni që e nxora Narika-n jashtë\Nkur ishim fëmijë.
+Dialogue: 0,0:03:12.31,0:03:16.24,main,Itsuki,0,0,0,,Atëherë më qortuat, por unë\Nnuk kërkova kurrë falje siç duhej.
+Dialogue: 0,0:03:16.24,0:03:19.13,main,Musashi,0,0,0,,Të qortova? Mendova se të falënderova.
+Dialogue: 0,0:03:20.37,0:03:21.68,main,Itsuki,0,0,0,,Por ju thatë...
+Dialogue: 0,0:03:22.09,0:03:24.68,flashback,Musashi,0,0,0,,Ti je ai që po e nxjerr\Nvajzën time jashtë?!
+Dialogue: 0,0:03:26.21,0:03:28.41,main,Itsuki,0,0,0,,A nuk e thatë?
+Dialogue: 0,0:03:28.41,0:03:31.10,main,Musashi,0,0,0,,Dhe pas kësaj thashë...
+Dialogue: 0,0:03:31.40,0:03:34.95,flashback,Musashi,0,0,0,,Herën tjetër që ta bësh, do të të jap\Npikërisht atë që meriton.
+Dialogue: 0,0:03:40.58,0:03:43.21,italics,Itsuki,0,0,0,,Epo, e thatë\Nnë mënyrë aq kërcënuese...
+Dialogue: 0,0:03:43.21,0:03:47.47,main,Musashi,0,0,0,,Shpresoja të ta shpërbleja\Nqë e kishe argëtuar.
+Dialogue: 0,0:03:48.54,0:03:49.96,main,Itsuki,0,0,0,,E kuptoj.
+Dialogue: 0,0:03:50.36,0:03:52.63,main,Itsuki,0,0,0,,Me sa duket, e paskam keqkuptuar.
+Dialogue: 0,0:03:52.63,0:03:54.17,main,Itsuki,0,0,0,,Më vjen shumë keq.
+Dialogue: 0,0:03:54.17,0:03:56.09,main,Musashi,0,0,0,,Keqkuptimet, herët a vonë,\Nzgjidhen vetë.
+Dialogue: 0,0:03:56.47,0:03:59.84,main,Musashi,0,0,0,,Edhe keqkuptimet rreth Narika-s\Ndo të zgjidhen me kohë.
+Dialogue: 0,0:04:01.91,0:04:04.72,main,Musashi,0,0,0,,Ajo që vjen më pas varet prej saj.
+Dialogue: 0,0:04:16.81,0:04:19.82,main,Narika,0,0,0,,I-Itsuki?! Çfarë po bën këtu?
+Dialogue: 0,0:04:20.14,0:04:21.84,main,Itsuki,0,0,0,,Mendova se ishe sëmurë, prandaj...
+Dialogue: 0,0:04:21.84,0:04:24.66,main,Narika,0,0,0,,Jo, vetëm ndrydha gishtin.
+Dialogue: 0,0:04:25.03,0:04:26.41,main,Itsuki,0,0,0,,Ndrydhe gishtin?
+Dialogue: 0,0:04:26.41,0:04:28.08,main,Itsuki,0,0,0,,A do të jesh në rregull\Npër garën sportive?
+Dialogue: 0,0:04:28.39,0:04:31.12,main,Narika,0,0,0,,Po, kjo nuk mjafton për të më ndalur.
+Dialogue: 0,0:04:31.12,0:04:33.96,main,Narika,0,0,0,,As që doja të mungoja sot,
+Dialogue: 0,0:04:33.96,0:04:35.72,main,Narika,0,0,0,,por babai im është tepër mbrojtës.
+Dialogue: 0,0:04:35.72,0:04:38.04,main,Narika,0,0,0,,Më detyroi të shkoja në spital.
+Dialogue: 0,0:04:38.04,0:04:39.64,main,Itsuki,0,0,0,,Tepër mbrojtës?
+Dialogue: 0,0:04:39.64,0:04:41.05,main,Narika,0,0,0,,Mirë, tani e kuptoj!
+Dialogue: 0,0:04:41.05,0:04:44.76,main,Narika,0,0,0,,Erdhe deri këtu sepse\Nishe i shqetësuar për mua?
+Dialogue: 0,0:04:45.09,0:04:46.82,main,Itsuki,0,0,0,,Më vjen mirë që të shoh mirë.
+Dialogue: 0,0:04:46.82,0:04:48.42,main,Itsuki,0,0,0,,Më fal që\Nta ndërpreva stërvitjen.
+Dialogue: 0,0:04:48.42,0:04:50.06,main,Narika,0,0,0,,O-Oh, aspak!
+Dialogue: 0,0:04:50.36,0:04:53.44,main,Narika,0,0,0,,Ka shumë kohë që nuk ke ardhur këtu...
+Dialogue: 0,0:04:53.44,0:04:55.86,main,Narika,0,0,0,,Itsuki, a të kujtohet premtimi ynë?!
+Dialogue: 0,0:04:56.98,0:05:00.47,main,Narika,0,0,0,,Shpërblimi im që fitova\Nndeshjen stërvitore të tenisit...
+Dialogue: 0,0:05:00.47,0:05:02.70,main,Narika,0,0,0,,D-Dua ta marr tani!
+Dialogue: 0,0:05:03.18,0:05:07.28,main,Narika,0,0,0,,A-A do të dalësh me mua?!
+Dialogue: 0,0:05:07.98,0:05:11.54,main,Itsuki,0,0,0,,Doje të shkoje te\Nkjo ëmbëltore e vjetër, apo jo?
+Dialogue: 0,0:05:11.83,0:05:13.25,main,Itsuki,0,0,0,,Më sjell shumë kujtime.
+Dialogue: 0,0:05:13.25,0:05:17.95,main,Narika,0,0,0,,Apo jo? Kam kaq shumë kujtime\Nnga vizitat këtu me ty.
+Dialogue: 0,0:05:17.95,0:05:20.72,main,Itsuki,0,0,0,,Vjen ende këtu?
+Dialogue: 0,0:05:20.72,0:05:22.71,main,Narika,0,0,0,,Pothuajse çdo ditë!
+Dialogue: 0,0:05:22.71,0:05:26.80,main,Narika,0,0,0,,Atëherë blinim gjëra këtu\Ndhe i hanim në parkun aty pranë.
+Dialogue: 0,0:05:26.80,0:05:28.35,main,Narika,0,0,0,,Le ta bëjmë përsëri!
+Dialogue: 0,0:05:28.86,0:05:32.56,main,Itsuki,0,0,0,,Nuk më besohet që i mban mend\Ntë gjitha ato nga fëmijëria jonë.
+Dialogue: 0,0:05:32.90,0:05:36.17,main,Narika,0,0,0,,Nuk do të isha ky person\Nqë jam sot pa ato kujtime.
+Dialogue: 0,0:05:36.17,0:05:39.15,main,Narika,0,0,0,,Edhe aftësia ime për të pranuar\Ndobësinë time...
+Dialogue: 0,0:05:39.43,0:05:41.82,main,Itsuki,0,0,0,,Po, e përmende më parë.
+Dialogue: 0,0:05:41.82,0:05:43.66,main,Itsuki,0,0,0,,The se dikush ta kishte mësuar.
+Dialogue: 0,0:05:44.11,0:05:46.24,main,Natsuki,0,0,0,,Po, mendova se do ta kishe harruar.
+Dialogue: 0,0:05:46.78,0:05:48.91,main,Natsuki,0,0,0,,Ti ishe ai që ma the!
+Dialogue: 0,0:05:50.11,0:05:53.34,main,Natsuki,0,0,0,,Ishte një herë tjetër kur babai më qortoi.
+Dialogue: 0,0:05:53.34,0:05:55.32,main,Natsuki,0,0,0,,Po qaja me dënesë,
+Dialogue: 0,0:05:55.32,0:05:58.06,main,Natsuki,0,0,0,,dhe ti më solle këtu e më ngushëllove.
+Dialogue: 0,0:05:58.06,0:05:59.34,main,Natsuki,0,0,0,,Ishe kaq i fortë.
+Dialogue: 0,0:05:59.67,0:06:03.64,main,Natsuki,0,0,0,,Doja me gjithë shpirt të bëhesha e fortë si ti.
+Dialogue: 0,0:06:03.64,0:06:05.09,main,Natsuki,0,0,0,,Por ti the...
+Dialogue: 0,0:06:05.55,0:06:09.52,flashback,Child Narika,0,0,0,,Si mund të jesh kaq i fortë, Itsuki?
+Dialogue: 0,0:06:09.52,0:06:11.04,flashback,Child Itsuki,0,0,0,,Nuk jam aspak i fortë.
+Dialogue: 0,0:06:12.12,0:06:15.91,flashback,Child Itsuki,0,0,0,,Në fakt, trembem kur të rriturit më bërtasin.
+Dialogue: 0,0:06:15.91,0:06:18.40,flashback,Child Itsuki,0,0,0,,Dikur kisha frikë edhe nga\Ninsektet dhe vetëtimat.
+Dialogue: 0,0:06:19.45,0:06:21.59,flashback,Child Narika,0,0,0,,Vërtet?
+Dialogue: 0,0:06:23.08,0:06:26.99,flashback,Child Itsuki,0,0,0,,Por, meqë e di se jam i dobët,\Nmund të luftoj me gjithçka kam.
+Dialogue: 0,0:06:28.81,0:06:32.93,main,Narika,0,0,0,,Ende i mbaj me vete ato fjalë.
+Dialogue: 0,0:06:32.93,0:06:34.00,main,Itsuki,0,0,0,,E kuptoj.
+Dialogue: 0,0:06:34.62,0:06:36.03,italics,Itsuki,0,0,0,,Të luftosh, hë?
+Dialogue: 0,0:06:36.03,0:06:39.27,italics,Itsuki,0,0,0,,Me sa duket, ende po e bëj edhe sot.
+Dialogue: 0,0:06:39.27,0:06:42.36,italics,Itsuki,0,0,0,,Edhe Narika po lufton\Nme gjithçka ka.
+Dialogue: 0,0:06:45.30,0:06:47.98,main,Narika,0,0,0,,Me sa duket, ky është ende\Nprivilegji im i veçantë.
+Dialogue: 0,0:06:47.98,0:06:49.63,main,Itsuki,0,0,0,,Çfarë?
+Dialogue: 0,0:06:49.63,0:06:52.18,main,Narika,0,0,0,,Të dalim vetëm ne të dy.
+Dialogue: 0,0:06:52.18,0:06:54.53,main,Narika,0,0,0,,Konohana-san tha se e kishte bërë edhe ajo,
+Dialogue: 0,0:06:54.53,0:06:57.02,main,Narika,0,0,0,,por jam e sigurt që po mburrej kot.
+Dialogue: 0,0:06:57.02,0:06:59.61,main,Narika,0,0,0,,Dhe vë bast se familja e Tennoji-san-it\Nështë vërtet e rreptë.
+Dialogue: 0,0:06:59.61,0:07:01.69,main,Itsuki,0,0,0,,Po mburrej kot, hë?
+Dialogue: 0,0:07:01.69,0:07:05.02,main,Itsuki,0,0,0,,Në fakt, kam dalë\Nnjë herë me secilën prej jush.
+Dialogue: 0,0:07:05.02,0:07:06.88,main,Narika,0,0,0,,K-Ku shkuat?!
+Dialogue: 0,0:07:06.88,0:07:08.30,main,Itsuki,0,0,0,,Në salla lojërash e të tjera.
+Dialogue: 0,0:07:08.30,0:07:10.45,main,Narika,0,0,0,,N-Në salla lojërash?!
+Dialogue: 0,0:07:10.45,0:07:14.33,main,Narika,0,0,0,,S'është e drejtë! P-Pas shpinës sime...
+Dialogue: 0,0:07:14.64,0:07:17.58,main,Itsuki,0,0,0,,Seriozisht, kjo nuk është garë.
+Dialogue: 0,0:07:18.82,0:07:20.33,main,Narika,0,0,0,,Por është.
+Dialogue: 0,0:07:22.25,0:07:23.34,main,Narika,0,0,0,,Dua të them...
+Dialogue: 0,0:07:23.71,0:07:26.78,main,Narika,0,0,0,,Unë isha ajo që të njihja e para.
+Dialogue: 0,0:07:27.23,0:07:28.75,main,Narika,0,0,0,,Por, pa e kuptuar,
+Dialogue: 0,0:07:28.75,0:07:31.84,main,Narika,0,0,0,,tani ke gjithë këta\Nnjerëz që të adhurojnë...
+Dialogue: 0,0:07:32.14,0:07:34.93,main,Itsuki,0,0,0,,Prit pak. Je xheloze?
+Dialogue: 0,0:07:37.81,0:07:42.23,main,Narika,0,0,0,,N-Nuk jam xheloze!\NNuk është aspak kështu!
+Dialogue: 0,0:07:42.57,0:07:45.87,main,Itsuki,0,0,0,,M-Më fal. Me sa duket, ishte\Ndiçka e çuditshme për ta thënë.
+Dialogue: 0,0:07:46.30,0:07:47.28,main,Narika,0,0,0,,Jo...
+Dialogue: 0,0:07:48.06,0:07:49.57,main,Narika,0,0,0,,Jam.
+Dialogue: 0,0:07:50.78,0:07:54.53,main,Narika,0,0,0,,J-Jam shumë, shumë xheloze!
+Dialogue: 0,0:07:58.00,0:07:59.64,main,Itsuki,0,0,0,,Narika. Le të shkojmë.
+Dialogue: 0,0:08:00.60,0:08:03.34,main,Itsuki,0,0,0,,Do të të çoj kudo që\Ndëshiron, përfshirë sallën e lojërave.
+Dialogue: 0,0:08:03.34,0:08:04.42,main,Itsuki,0,0,0,,Le të shkojmë.
+Dialogue: 0,0:08:16.17,0:08:17.89,main,Itsuki,0,0,0,,Sa shumë njerëz...
+Dialogue: 0,0:08:18.25,0:08:21.09,main,Hinako,0,0,0,,Edhe pse mendoj se gjysma janë shërbëtorë.
+Dialogue: 0,0:08:21.09,0:08:23.35,main,Itsuki,0,0,0,,Nuk janë familjarët e nxënësve?
+Dialogue: 0,0:08:24.05,0:08:27.65,main,Hinako,0,0,0,,Shumica e prindërve këtu nuk mund\Ntë gjejnë kohë në programin e tyre.
+Dialogue: 0,0:08:27.98,0:08:30.52,main,Itsuki,0,0,0,,Pra, as Kagen-san nuk do të vijë?
+Dialogue: 0,0:08:30.52,0:08:32.68,main,Shizune,0,0,0,,Në vend të tij jam unë.
+Dialogue: 0,0:08:33.57,0:08:35.07,main,Itsuki,0,0,0,,Shizune-san!
+Dialogue: 0,0:08:35.07,0:08:37.28,main,Itsuki,0,0,0,,Mendova se vetëm do të na sillje.
+Dialogue: 0,0:08:37.67,0:08:41.66,main,Shizune,0,0,0,,Kagen-sama më urdhëroi\Nta filmoja zonjushën.
+Dialogue: 0,0:08:43.21,0:08:45.38,main,Hinako,0,0,0,,Të lutem, jo. Është turpëruese.
+Dialogue: 0,0:08:45.38,0:08:47.88,main,Shizune,0,0,0,,Mund të bashkohesh me ne për\Nshfaqjen më vonë, Itsuki-san.
+Dialogue: 0,0:08:48.30,0:08:51.12,main,Shizune,0,0,0,,Zonjusha u mundua aq shumë\Npër ta humbur gjithë atë peshë...
+Dialogue: 0,0:08:51.12,0:08:52.70,main,Hinako,0,0,0,,Sh-Shizune!
+Dialogue: 0,0:08:52.70,0:08:55.09,main,Taisho,0,0,0,,Hej, Tomonari, Konohana-san!
+Dialogue: 0,0:08:55.46,0:08:58.02,main,Taisho,0,0,0,,Po fillon aktiviteti i vallëzimit.
+Dialogue: 0,0:08:58.02,0:08:59.60,main,Taisho,0,0,0,,Le të shkojmë në fushë!
+Dialogue: 0,0:09:01.36,0:09:04.64,main,Taisho,0,0,0,,Sapo të mbarojë vallëzimi,\Ndo të më duhet të nisem.
+Dialogue: 0,0:09:04.64,0:09:08.02,main,Taisho,0,0,0,,Vendi i skijimit është goxha\Nlarg shkollës.
+Dialogue: 0,0:09:08.02,0:09:12.27,main,Mirei,0,0,0,,Edhe unë duhet të nxitoj\Ndrejt fushës së polos.
+Dialogue: 0,0:09:12.27,0:09:16.37,main,Mirei,0,0,0,,Është mjaft larg, prandaj kam\Npak kohë për t'u vonuar.
+Dialogue: 0,0:09:16.37,0:09:18.22,main,Itsuki,0,0,0,,Paçi fat, të dy!
+Dialogue: 0,0:09:18.22,0:09:19.49,main,Narika,0,0,0,,Itsuki!
+Dialogue: 0,0:09:20.06,0:09:20.83,main,Itsuki,0,0,0,,Narika.
+Dialogue: 0,0:09:21.68,0:09:22.93,main,Itsuki,0,0,0,,Je mirë?
+Dialogue: 0,0:09:22.93,0:09:24.00,main,Narika,0,0,0,,Jam mirë.
+Dialogue: 0,0:09:24.00,0:09:27.66,main,Narika,0,0,0,,Edhe disa shokë klase më folën\Nkëtë mëngjes.
+Dialogue: 0,0:09:27.66,0:09:30.37,main,Narika,0,0,0,,Thanë se do të më mbështesnin\Nnë ndeshje!
+Dialogue: 0,0:09:30.37,0:09:32.34,main,Narika,0,0,0,,Këtë jua kam borxh ju të dyve.
+Dialogue: 0,0:09:32.70,0:09:34.63,main,Narika,0,0,0,,Nuk kam më frikë.
+Dialogue: 0,0:09:34.63,0:09:35.90,main,Itsuki,0,0,0,,E kuptoj.
+Dialogue: 0,0:09:35.90,0:09:38.97,italics,Announcer,0,0,0,,Valltarët tani do të dalin në skenë.
+Dialogue: 0,0:09:38.97,0:09:41.90,italics,Announcer,0,0,0,,Të gjithë, ju lutem,\Nduartrokitini!
+Dialogue: 0,0:09:47.32,0:09:48.94,overlap,Asahi,0,0,0,,Hej-ho!
+Dialogue: 0,0:09:48.06,0:09:51.24,italics,Itsuki,0,0,0,,Më në fund, filloi gara sportive.
+Dialogue: 0,0:09:52.73,0:09:54.05,main,Umpire 1,0,0,0,,Ndeshje me një set.
+Dialogue: 0,0:09:54.05,0:09:56.46,main,Umpire 1,0,0,0,,Shërben Tomonari. Filloni!
+Dialogue: 0,0:09:56.46,0:09:57.70,main,Itsuki/Boy 1,0,0,0,,Paçim një ndeshje të mirë!
+Dialogue: 0,0:10:04.21,0:10:06.85,main,Itsuki,0,0,0,,Hinako, mbarove që tani?
+Dialogue: 0,0:10:08.15,0:10:09.01,main,Hinako,0,0,0,,F.
+Dialogue: 0,0:10:09.01,0:10:12.00,main,Itsuki,0,0,0,,Po i kalon me radhë. Pikërisht \Nsiç pritej nga fituesja e vitit të kaluar.
+Dialogue: 0,0:10:12.31,0:10:13.70,main,Hinako,0,0,0,,Po ti?
+Dialogue: 0,0:10:13.70,0:10:15.45,main,Itsuki,0,0,0,,Arrita të fitoja.
+Dialogue: 0,0:10:15.45,0:10:17.53,main,Itsuki,0,0,0,,Falë stërvitjes së Narika-s.
+Dialogue: 0,0:10:17.53,0:10:20.10,main,Hinako,0,0,0,,Po. Edhe mua më ndihmoi.
+Dialogue: 0,0:10:20.10,0:10:20.89,main,Itsuki,0,0,0,,Po tani?
+Dialogue: 0,0:10:20.89,0:10:23.25,main,Itsuki,0,0,0,,Kemi pak kohë para \Nraundit tjetër të ndeshjeve.
+Dialogue: 0,0:10:23.25,0:10:25.14,main,Itsuki,0,0,0,,Të shohim ndonjë garë tjetër?
+Dialogue: 0,0:10:26.21,0:10:30.90,main,Itsuki,0,0,0,,Do të doja të shihja ç'po bëjnë Tennoji-san \Ndhe Taisho-kun, por...
+Dialogue: 0,0:10:30.90,0:10:32.53,main,Hinako,0,0,0,,Atëherë, këtej.
+Dialogue: 0,0:10:35.99,0:10:37.50,main,Itsuki,0,0,0,,Po e transmetojnë drejtpërdrejt?!
+Dialogue: 0,0:10:37.50,0:10:41.08,main,Taisho,0,0,0,,Mos i nënvlerësoni Transportet Taisho!
+Dialogue: 0,0:10:41.32,0:10:45.67,main,Itsuki,0,0,0,,Tha se në skitë verore nuk mund \Ntë ecje shumë shpejt...
+Dialogue: 0,0:10:47.59,0:10:48.92,main,Itsuki,0,0,0,,Ai zë!
+Dialogue: 0,0:10:54.18,0:10:56.03,main,Itsuki,0,0,0,,Po kënaqet, apo jo?
+Dialogue: 0,0:10:56.03,0:10:57.61,main,Hinako,0,0,0,,Po rrezaton.
+Dialogue: 0,0:11:01.13,0:11:02.53,main,Itsuki,0,0,0,,Narika...
+Dialogue: 0,0:11:02.86,0:11:04.49,main,Itsuki,0,0,0,,nuk qenka këtu, me sa duket.
+Dialogue: 0,0:11:05.03,0:11:09.79,top,sign,0,0,0,,MIYAKOJIMA
+Dialogue: 0,0:11:05.54,0:11:07.53,main,Itsuki,0,0,0,,Po ngjitet në renditje.
+Dialogue: 0,0:11:07.53,0:11:09.79,main,Itsuki,0,0,0,,Ndoshta po pushon diku?
+Dialogue: 0,0:11:10.25,0:11:12.12,main,Girl 1,0,0,0,,E-Ehm, Konohana-san!
+Dialogue: 0,0:11:13.74,0:11:15.43,main,Itsuki,0,0,0,,Je e sigurt për këtë?
+Dialogue: 0,0:11:15.43,0:11:17.45,main,Hinako,0,0,0,,Po, jam mirë.
+Dialogue: 0,0:11:17.45,0:11:19.80,main,Hinako,0,0,0,,Edhe Miyakojima-san po përpiqet fort.
+Dialogue: 0,0:11:19.80,0:11:22.38,main,Itsuki,0,0,0,,Në rregull. Flasim më vonë.
+Dialogue: 0,0:11:25.23,0:11:26.91,main,Girl 1,0,0,0,,Ishe e mahnitshme!
+Dialogue: 0,0:11:26.91,0:11:28.39,main,Girl 2,0,0,0,,Më mahnite fare!
+Dialogue: 0,0:11:29.06,0:11:30.89,main,Hinako,0,0,0,,Faleminderit shumë.
+Dialogue: 0,0:11:33.95,0:11:34.96,main,Narika,0,0,0,,Itsuki?
+Dialogue: 0,0:11:35.92,0:11:38.17,main,Itsuki,0,0,0,,Narika. Këtu ishe?
+Dialogue: 0,0:11:38.17,0:11:41.53,main,Narika,0,0,0,,Po. Po bëja një shëtitje mes ndeshjeve.
+Dialogue: 0,0:11:41.53,0:11:43.66,main,Itsuki,0,0,0,,Si e ke gishtin? Ke ndonjë problem?
+Dialogue: 0,0:11:44.01,0:11:45.71,main,Narika,0,0,0,,Është fare mirë.
+Dialogue: 0,0:11:45.71,0:11:47.33,main,Narika,0,0,0,,Në fakt, ndihem për mrekulli.
+Dialogue: 0,0:11:48.06,0:11:51.09,main,Narika,0,0,0,,Vitin e kaluar nuk mundesha as \Ntë shëtisja kështu.
+Dialogue: 0,0:11:51.09,0:11:53.13,main,Narika,0,0,0,,Vërtet ta kam borxh ty.
+Dialogue: 0,0:11:53.13,0:11:54.78,main,Itsuki,0,0,0,,Nuk isha aspak unë.
+Dialogue: 0,0:11:54.78,0:11:56.76,main,Itsuki,0,0,0,,Përpjekjet e tua të sollën deri këtu.
+Dialogue: 0,0:11:56.76,0:11:58.84,main,Itsuki,0,0,0,,Besoj se edhe të tjerët e shohin sa je përpjekur.
+Dialogue: 0,0:11:59.25,0:12:01.69,main,Itsuki,0,0,0,,Prandaj mbaje kokën lart dhe...
+Dialogue: 0,0:12:01.69,0:12:05.93,main,Itsuki,0,0,0,,Jo. Ke punuar fort \Ngjatë gjithë kësaj kohe, apo jo?
+Dialogue: 0,0:12:07.23,0:12:10.97,main,Itsuki,0,0,0,,Ke vazhduar të punosh gjithë kohën, \Nedhe kur unë nuk kam qenë pranë.
+Dialogue: 0,0:12:10.97,0:12:14.35,main,Itsuki,0,0,0,,Dhe më në fund po të shpërblehet. Kaq është.
+Dialogue: 0,0:12:14.35,0:12:16.23,main,Itsuki,0,0,0,,Je munduar shumë.
+Dialogue: 0,0:12:16.23,0:12:20.22,main,Itsuki,0,0,0,,Me gjithë keqkuptimet, \Nnuk u dorëzove kurrë.
+Dialogue: 0,0:12:24.59,0:12:25.90,main,Itsuki,0,0,0,,Narika?
+Dialogue: 0,0:12:25.90,0:12:27.74,main,Narika,0,0,0,,S-S'është gjë.
+Dialogue: 0,0:12:28.00,0:12:31.09,main,Narika,0,0,0,,M-Mos më shiko për pak, në rregull?
+Dialogue: 0,0:12:32.27,0:12:33.07,main,Itsuki,0,0,0,,Mirë...
+Dialogue: 0,0:12:33.77,0:12:35.71,main,Narika,0,0,0,,Gjithmonë i merr gjërat aq lehtë.
+Dialogue: 0,0:12:36.18,0:12:39.22,main,Narika,0,0,0,,Nuk është e drejtë kur bëhesh kaq i sinqertë...
+Dialogue: 0,0:12:41.65,0:12:42.84,main,Itsuki,0,0,0,,Më fal.
+Dialogue: 0,0:12:48.43,0:12:50.09,main,Itsuki,0,0,0,,U ndjeve më mirë?
+Dialogue: 0,0:12:52.00,0:12:56.53,main,Itsuki,0,0,0,,Mendoj se duhet të përpiqesh ta zgjerosh \Nrrethin e njerëzve të veçantë për ty.
+Dialogue: 0,0:12:56.53,0:12:57.76,main,Narika,0,0,0,,Njerëzve të veçantë?
+Dialogue: 0,0:12:57.76,0:13:00.62,main,Itsuki,0,0,0,,Më parë the se vetëm me mua \Nmund të flisje kështu,
+Dialogue: 0,0:13:00.62,0:13:02.80,main,Itsuki,0,0,0,,sepse unë isha i veçantë.
+Dialogue: 0,0:13:02.80,0:13:07.11,main,Itsuki,0,0,0,,Prandaj duhet të vazhdosh të bësh \Nmë shumë miq si unë.
+Dialogue: 0,0:13:09.16,0:13:11.08,main,Itsuki,0,0,0,,Hajde, të kthehemi.
+Dialogue: 0,0:13:11.08,0:13:12.41,main,Narika,0,0,0,,Prit!
+Dialogue: 0,0:13:12.89,0:13:13.98,main,Itsuki,0,0,0,,Narika?
+Dialogue: 0,0:13:15.47,0:13:16.49,main,Itsuki,0,0,0,,Çfarë ke?
+Dialogue: 0,0:13:16.97,0:13:18.25,main,Narika,0,0,0,,E ke gabim.
+Dialogue: 0,0:13:18.63,0:13:20.37,main,Narika,0,0,0,,E ke gabim, Itsuki.
+Dialogue: 0,0:13:21.13,0:13:23.13,main,Narika,0,0,0,,E ke krejtësisht gabim.
+Dialogue: 0,0:13:23.52,0:13:28.34,main,Narika,0,0,0,,Falë teje, tani mund të \Nflas me njerëz të ndryshëm.
+Dialogue: 0,0:13:29.04,0:13:31.22,main,Narika,0,0,0,,Konohana-san, Tennoji-san,
+Dialogue: 0,0:13:31.68,0:13:33.72,main,Narika,0,0,0,,Taisho-kun, Asahi-san...
+Dialogue: 0,0:13:33.72,0:13:37.73,main,Narika,0,0,0,,Kohët e fundit edhe me Kita-kun e të tjerë.
+Dialogue: 0,0:13:39.24,0:13:42.61,main,Narika,0,0,0,,Por për mua, ti je...
+Dialogue: 0,0:13:44.92,0:13:46.36,main,Narika,0,0,0,,I-Itsuki...
+Dialogue: 0,0:13:46.36,0:13:50.12,main,Narika,0,0,0,,Unë... Unë vërtet...
+Dialogue: 0,0:13:50.52,0:13:52.62,main,Narika,0,0,0,,Për mua ekziston vetëm ti!
+Dialogue: 0,0:13:53.85,0:13:58.97,main,Narika,0,0,0,,Pavarësisht sa miq \Ndo të bëj në të ardhmen,
+Dialogue: 0,0:13:59.68,0:14:02.71,main,Narika,0,0,0,,ti do të jesh gjithmonë i vetmi i veçantë për mua!
+Dialogue: 0,0:14:03.05,0:14:05.91,main,Narika,0,0,0,,Gjithmonë e përgjithmonë, do të jesh vetëm ti!
+Dialogue: 0,0:14:09.19,0:14:10.43,main,Narika,0,0,0,,Prandaj...
+Dialogue: 0,0:14:10.43,0:14:14.05,main,Narika,0,0,0,,Nuk do të kem kurrë askënd tjetër si ti.
+Dialogue: 0,0:14:14.57,0:14:17.94,main,Narika,0,0,0,,Mos e harro këtë, në rregull?
+Dialogue: 0,0:14:23.53,0:14:24.69,main,Hinako,0,0,0,,Itsuki?
+Dialogue: 0,0:14:27.46,0:14:30.33,main,Hinako,0,0,0,,Ndodhi gjë? Dukesh i hutuar.
+Dialogue: 0,0:14:30.33,0:14:32.04,main,Itsuki,0,0,0,,Jo, është...
+Dialogue: 0,0:14:32.52,0:14:36.33,main,Itsuki,0,0,0,,Po. Në fakt, ishte diçka mjaft e madhe.
+Dialogue: 0,0:14:36.33,0:14:37.62,main,Hinako,0,0,0,,Diçka e madhe?
+Dialogue: 0,0:14:37.92,0:14:38.75,main,Itsuki,0,0,0,,Po.
+Dialogue: 0,0:14:40.45,0:14:43.85,main,Itsuki,0,0,0,,Mirë, le të marrim vrull për \Nraundin tjetër të ndeshjeve.
+Dialogue: 0,0:14:45.36,0:14:47.61,main,Itsuki,0,0,0,,Do të vij të të marr kur të mbarojë.
+Dialogue: 0,0:14:47.61,0:14:49.97,main,Hinako,0,0,0,,Po. Jep maksimumin, Itsuki.
+Dialogue: 0,0:14:58.14,0:15:01.41,main,Nada,0,0,0,,Ende të pëlqen t'u servilosesh të tjerëve, hë?
+Dialogue: 0,0:15:01.41,0:15:02.85,main,Itsuki,0,0,0,,Ti je...
+Dialogue: 0,0:15:03.28,0:15:08.11,flashback,Nada,0,0,0,,Jo të gjithë dinë \Ntë servilosen si ti.
+Dialogue: 0,0:15:08.75,0:15:13.37,italics,Itsuki,0,0,0,,Falë tij u bëra i vetëdijshëm \Npër një problem serioz që kisha.
+Dialogue: 0,0:15:13.37,0:15:15.02,italics,Itsuki,0,0,0,,Duhet t'i jem mirënjohës.
+Dialogue: 0,0:15:15.02,0:15:19.87,italics,Itsuki,0,0,0,,Por prapë nuk më pëlqeu \Nmënyra si i foli Narika-s.
+Dialogue: 0,0:15:20.41,0:15:21.74,main,Umpire 1,0,0,0,,Ndeshje me një set.
+Dialogue: 0,0:15:21.74,0:15:23.14,main,Umpire 1,0,0,0,,Shërben Nada.
+Dialogue: 0,0:15:23.14,0:15:23.83,main,Umpire 1,0,0,0,,Filloni!
+Dialogue: 0,0:15:24.36,0:15:27.34,italics,Itsuki,0,0,0,,Ti je dikush që duhet ta mposht patjetër!
+Dialogue: 0,0:15:34.93,0:15:36.41,main,Umpire 1,0,0,0,,Mbaroi ndeshja!
+Dialogue: 0,0:15:36.41,0:15:37.99,main,Umpire 1,0,0,0,,Fiton Tomonari!
+Dialogue: 0,0:15:40.70,0:15:43.29,italics,Itsuki,0,0,0,,Për pak, por fitova!
+Dialogue: 0,0:15:43.29,0:15:44.84,main,Nada,0,0,0,,Luajte mirë.
+Dialogue: 0,0:15:46.09,0:15:47.67,main,Itsuki,0,0,0,,Faleminderit.
+Dialogue: 0,0:15:52.56,0:15:54.39,main,Nada,0,0,0,,Më thuaj vetëm një gjë.
+Dialogue: 0,0:15:54.88,0:15:58.69,main,Nada,0,0,0,,Çfarë marrëdhënieje ke me Konohana-san-in?
+Dialogue: 0,0:15:59.92,0:16:02.46,italics,Itsuki,0,0,0,,Prit pak. Mos vallë i pëlqen Hinako?
+Dialogue: 0,0:16:02.88,0:16:06.30,main,Nada,0,0,0,,Dëgjova se familja jote bënte pjesë \Nnë rrjetin e Grupit Konohana.
+Dialogue: 0,0:16:06.30,0:16:08.46,main,Nada,0,0,0,,Por aty bëjnë pjesë shumë familje.
+Dialogue: 0,0:16:08.79,0:16:11.34,main,Nada,0,0,0,,Megjithatë, ti dukesh veçanërisht i afërt me të.
+Dialogue: 0,0:16:12.99,0:16:15.20,main,Itsuki,0,0,0,,Të lutem, mos i trego askujt për këtë,
+Dialogue: 0,0:16:15.20,0:16:17.72,main,Itsuki,0,0,0,,por në të vërtetë punoj \Nnë shtëpinë Konohana.
+Dialogue: 0,0:16:18.05,0:16:21.27,main,Itsuki,0,0,0,,Prindërit donin që të \Nmësoja mirësjelljen prej tyre.
+Dialogue: 0,0:16:22.72,0:16:23.85,main,Nada,0,0,0,,E kuptoj.
+Dialogue: 0,0:16:24.21,0:16:27.73,main,Nada,0,0,0,,Gjithsesi, ajo është jashtë ligës sime.
+Dialogue: 0,0:16:28.92,0:16:30.63,main,Itsuki,0,0,0,,Hej, prit pak...
+Dialogue: 0,0:16:30.63,0:16:32.49,main,Nada,0,0,0,,Tomonari, po ta them qartë.
+Dialogue: 0,0:16:32.89,0:16:35.56,main,Nada,0,0,0,,Nuk besoj se mund të bëhemi ndonjëherë miq.
+Dialogue: 0,0:16:36.96,0:16:39.20,main,Itsuki,0,0,0,,Më vjen keq, por e kuptoj.
+Dialogue: 0,0:16:39.58,0:16:42.83,main,Nada,0,0,0,,Por më vonë do t'i kërkoj falje \NMiyakojima-san-it.
+Dialogue: 0,0:16:47.09,0:16:50.46,italics,Itsuki,0,0,0,,Në raundin e tretë humba keq.
+Dialogue: 0,0:16:51.39,0:16:55.19,italics,Itsuki,0,0,0,,Hinako fitoi lehtësisht garën individuale të vajzave.
+Dialogue: 0,0:16:57.63,0:16:58.97,main,Hinako,0,0,0,,Jam e rraskapitur.
+Dialogue: 0,0:16:59.23,0:17:01.66,main,Itsuki,0,0,0,,Si thua për një akullore si shpërblim?
+Dialogue: 0,0:17:07.84,0:17:10.10,main,Itsuki,0,0,0,,Më falni. Ndodhi gjë?
+Dialogue: 0,0:17:10.66,0:17:14.97,main,Boy 2,0,0,0,,Po, pati një problem \Nme kondicionerin,
+Dialogue: 0,0:17:14.97,0:17:17.48,main,Boy 2,0,0,0,,prandaj gara e kendos u shty.
+Dialogue: 0,0:17:17.48,0:17:20.03,italics,Itsuki,0,0,0,,Prandaj po shikojnë kaq shumë njerëz...
+Dialogue: 0,0:17:20.03,0:17:22.37,main,Boy 2,0,0,0,,Por gjysmëfinalet po fillojnë tani.
+Dialogue: 0,0:17:27.06,0:17:29.33,italics,Itsuki,0,0,0,,Narika. A do të jetë mirë?
+Dialogue: 0,0:17:29.80,0:17:31.84,italics,Itsuki,0,0,0,,Ka një publik kaq të madh...
+Dialogue: 0,0:17:32.14,0:17:33.91,italics,Itsuki,0,0,0,,Shpresoj të mos bëhet nervoze.
+Dialogue: 0,0:17:36.37,0:17:38.84,italics,Itsuki,0,0,0,,Po! Është e përqendruar!
+Dialogue: 0,0:17:39.21,0:17:40.08,main,Umpire 2,0,0,0,,Filloni!
+Dialogue: 0,0:17:44.36,0:17:48.49,italics,Itsuki,0,0,0,,Kur mban atë shpatën prej bambuje, \Nduket më e gjatë se zakonisht.
+Dialogue: 0,0:17:48.49,0:17:50.77,main,Girl 3,0,0,0,,Ajo nuk është Miyakojima-san?
+Dialogue: 0,0:17:50.77,0:17:53.36,main,Girl 4,0,0,0,,Qenka po aq e frikshme sa thonë.
+Dialogue: 0,0:17:54.62,0:17:59.96,main,Girl 5,0,0,0,,Kam dëgjuar se thuajse asnjë vajzë nuk hyn në \Ngarën e kendos, sepse Miyakojima-san është tepër e zonja.
+Dialogue: 0,0:17:59.96,0:18:03.44,main,Girl 6,0,0,0,,Po, dhe nuk përmbahet aspak!
+Dialogue: 0,0:18:06.08,0:18:07.40,main,Umpire 2,0,0,0,,Fituesja!
+Dialogue: 0,0:18:11.94,0:18:13.38,main,Girl 5,0,0,0,,Po më ngul sytë!
+Dialogue: 0,0:18:13.38,0:18:14.92,main,Girl 6,0,0,0,,Sa e frikshme!
+Dialogue: 0,0:18:18.51,0:18:20.20,italics,Itsuki,0,0,0,,Pse duhej të ndodhte kjo?
+Dialogue: 0,0:18:21.88,0:18:25.86,italics,Itsuki,0,0,0,,Me këtë ritëm, do të \Npërsëritet viti i kaluar...
+Dialogue: 0,0:18:25.86,0:18:28.35,italics,Itsuki,0,0,0,,Jo, ka një zgjidhje të mundshme.
+Dialogue: 0,0:18:28.76,0:18:30.68,main,Itsuki,0,0,0,,Nëse heq dorë nga fitorja...
+Dialogue: 0,0:18:30.68,0:18:32.74,main,Narika,0,0,0,,Nuk më kishte shkuar kurrë ndër mend.
+Dialogue: 0,0:18:33.81,0:18:35.26,main,Itsuki,0,0,0,,Narika!
+Dialogue: 0,0:18:35.26,0:18:38.72,main,Narika,0,0,0,,Mund të humbas qëllimisht dhe \Ntë dukem më e dobët.
+Dialogue: 0,0:18:40.28,0:18:44.17,main,Itsuki,0,0,0,,Narika, ishte thjesht një mendim që më kaloi...
+Dialogue: 0,0:18:44.17,0:18:47.25,main,Narika,0,0,0,,S'ka problem. Do ta bëj të duket bindëse.
+Dialogue: 0,0:18:51.54,0:18:52.36,main,Umpire 2,0,0,0,,Filloni!
+Dialogue: 0,0:19:02.41,0:19:04.14,main,Boy 3,0,0,0,,Hë? Miyakojima-san...
+Dialogue: 0,0:19:04.51,0:19:06.86,main,Boy 2,0,0,0,,Nuk po luan si zakonisht.
+Dialogue: 0,0:19:06.86,0:19:09.77,italics,Itsuki,0,0,0,,Ky plan ndoshta do të funksionojë.
+Dialogue: 0,0:19:10.10,0:19:13.31,italics,Itsuki,0,0,0,,Nuk do të kenë frikë nga Narika nëse humbet.
+Dialogue: 0,0:19:13.92,0:19:15.22,italics,Itsuki,0,0,0,,Por unë...
+Dialogue: 0,0:19:15.22,0:19:17.28,italics,Itsuki,0,0,0,,Çfarë dua të shoh?
+Dialogue: 0,0:19:17.83,0:19:20.03,main,Hinako,0,0,0,,Çfarë do të bësh, Itsuki?
+Dialogue: 0,0:19:22.54,0:19:23.74,main,Itsuki,0,0,0,,Unë...
+Dialogue: 0,0:19:24.15,0:19:27.49,main,Itsuki,0,0,0,,Narika që dua unë është gjithmonë \Nplotësisht e sinqertë.
+Dialogue: 0,0:19:27.87,0:19:30.49,main,Itsuki,0,0,0,,Është e ngathët dhe qaramanë,
+Dialogue: 0,0:19:30.49,0:19:33.13,main,Itsuki,0,0,0,,por përpiqet fort të jetë e fortë...
+Dialogue: 0,0:19:33.13,0:19:34.97,main,Itsuki,0,0,0,,Ajo krenohet me këtë.
+Dialogue: 0,0:19:37.23,0:19:39.80,italics,Itsuki,0,0,0,,Sigurisht. Është e njëjta gjë.
+Dialogue: 0,0:19:40.25,0:19:44.47,italics,Itsuki,0,0,0,,Edhe Hinako, edhe Tennoji-san, të dyja \Ni njihnin dobësitë e tyre,
+Dialogue: 0,0:19:44.47,0:19:47.31,italics,Itsuki,0,0,0,,por përpiqen fort të bëhen të forta...
+Dialogue: 0,0:19:47.88,0:19:51.31,italics,Itsuki,0,0,0,,Kjo u lejon ta mbajnë \Nkokën lart dhe të buzëqeshin.
+Dialogue: 0,0:19:52.20,0:19:54.36,main,Itsuki,0,0,0,,Hinako, unë...
+Dialogue: 0,0:19:54.90,0:19:56.64,main,Hinako,0,0,0,,Ndoshta gjithçka do të shkojë mirë.
+Dialogue: 0,0:19:57.92,0:20:02.07,main,Hinako,0,0,0,,Edhe nëse Miyakojima-san fiton \Ndhe situata bëhet e sikletshme...
+Dialogue: 0,0:20:02.46,0:20:04.68,main,Hinako,0,0,0,,Nëse e lavdëron \Nnga thellësia e zemrës,
+Dialogue: 0,0:20:04.68,0:20:07.22,main,Hinako,0,0,0,,kjo do të zgjidhë gjithçka.
+Dialogue: 0,0:20:07.22,0:20:09.00,main,Itsuki,0,0,0,,Çfarë do të thuash?
+Dialogue: 0,0:20:09.00,0:20:10.50,main,Hinako,0,0,0,,Prandaj, Itsuki...
+Dialogue: 0,0:20:10.84,0:20:13.12,main,Hinako,0,0,0,,Sigurohu t'ia thuash me fjalët e tua.
+Dialogue: 0,0:20:19.55,0:20:20.55,main,Itsuki,0,0,0,,Narika!
+Dialogue: 0,0:20:22.47,0:20:25.09,main,Itsuki,0,0,0,,Lufto me gjithë shpirt!
+Dialogue: 0,0:20:31.43,0:20:33.83,main,Opponent,0,0,0,,Parakrah!
+Dialogue: 0,0:20:35.01,0:20:36.94,main,Narika,0,0,0,,Kokë!
+Dialogue: 0,0:20:39.63,0:20:40.86,main,Umpire 2,0,0,0,,Fituesja!
+Dialogue: 0,0:20:59.71,0:21:02.04,main,Boy 3,0,0,0,,Ishte vërtet fantastike, apo jo?
+Dialogue: 0,0:21:02.04,0:21:04.51,main,Boy 2,0,0,0,,Po, më zuri krejt në befasi...
+Dialogue: 0,0:21:04.88,0:21:07.14,main,Girl 7,0,0,0,,A nuk është e jashtëzakonshme Miyakojima-san?
+Dialogue: 0,0:21:23.87,0:21:26.07,main,Hinako,0,0,0,,E sheh? Pikërisht siç thashë.
+Dialogue: 0,0:21:27.09,0:21:30.37,main,Hinako,0,0,0,,Sepse unë të njoh më mirë, Itsuki.
+Dialogue: 0,0:21:31.98,0:21:34.05,main,Itsuki,0,0,0,,Shumë faleminderit, Hinako.
+Dialogue: 0,0:21:50.39,0:21:52.83,main,Boy 4,0,0,0,,Mirëmëngjes, Konohana-san!
+Dialogue: 0,0:21:52.83,0:21:54.14,main,Girl A,0,0,0,,Mirëmëngjes!
+Dialogue: 0,0:21:59.04,0:22:01.22,italics,Itsuki,0,0,0,,Jashtë ligës sate, hë?
+Dialogue: 0,0:22:02.05,0:22:06.24,italics,Itsuki,0,0,0,,Kjo shkollë është plot me njerëz \Nqë janë jashtë ligës sime.
+Dialogue: 0,0:22:06.89,0:22:08.74,italics,Itsuki,0,0,0,,Por një ditë...
+Dialogue: 0,0:22:08.74,0:22:11.87,main,Mirei,0,0,0,,Tomonari-san, mirëmëngjes.
+Dialogue: 0,0:22:12.25,0:22:14.37,main,Itsuki,0,0,0,,Mirëmëngjes, Tennoji-san.
+Dialogue: 0,0:22:14.37,0:22:17.00,main,Mirei,0,0,0,,Erdhi koha për gostinë tonë të shumëpritur të çajit!
+Dialogue: 0,0:22:17.00,0:22:18.37,main,Mirei,0,0,0,,Mezi po pres!
+Dialogue: 0,0:22:18.37,0:22:20.13,main,Itsuki,0,0,0,,Edhe unë po e pres me kënaqësi.
+Dialogue: 0,0:22:20.13,0:22:21.88,main,Narika,0,0,0,,Itsuki!
+Dialogue: 0,0:22:25.76,0:22:27.17,main,Itsuki,0,0,0,,Mirëmëngjes, Narika.
+Dialogue: 0,0:22:27.17,0:22:28.13,main,Narika,0,0,0,,Mirëmëngjes!
+Dialogue: 0,0:22:28.13,0:22:29.80,main,Narika,0,0,0,,Dëgjo, Itsuki!
+Dialogue: 0,0:22:29.80,0:22:32.55,main,Narika,0,0,0,,Pranë shtëpisë sonë është hapur një dyqan i ri!
+Dialogue: 0,0:22:32.55,0:22:33.53,main,Itsuki,0,0,0,,Një dyqan?
+Dialogue: 0,0:22:33.53,0:22:35.02,main,Mirei,0,0,0,,Ç'lloj dyqani?
+Dialogue: 0,0:22:35.34,0:22:38.43,main,Narika,0,0,0,,Me sa duket, e ka hapur një pastiçier i famshëm...
+Dialogue: 0,0:22:38.43,0:22:40.07,main,Hinako,0,0,0,,Për çfarë po flasim?
+Dialogue: 0,0:22:40.07,0:22:43.72,main,Mirei,0,0,0,,Do të doja shumë të dëgjoja më tepër,
+Dialogue: 0,0:22:43.72,0:22:46.44,main,Mirei,0,0,0,,por nuk duhet të vonohemi në mësim.
+Dialogue: 0,0:22:46.44,0:22:46.89,main,Hinako,0,0,0,,Po.
+Dialogue: 0,0:22:46.89,0:22:48.06,main,Itsuki,0,0,0,,Ashtu është.
+Dialogue: 0,0:22:56.84,0:22:58.38,italics,Itsuki,0,0,0,,Shpresoj që një ditë...
+Dialogue: 0,0:22:59.47,0:23:01.03,italics,Itsuki,0,0,0,,...të ec krah për krah...
+Dialogue: 0,0:23:02.99,0:23:04.45,italics,Itsuki,0,0,0,,...me të gjitha ato.
+

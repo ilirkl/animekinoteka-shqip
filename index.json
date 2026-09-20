@@ -554,6 +554,22 @@
       "sourceReleaseId": "689925",
       "sourceEpisode": "34",
       "sourceTitle": "Meitantei Precure!"
+    },
+    {
+      "id": "at-689864",
+      "title": "Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School",
+      "episode": "12",
+      "malId": 62876,
+      "anilistId": 201514,
+      "slugs": [
+        "saijo-no-osewa-takane-no-hanadarake-na-meimonkou-de-gakuin-ichi-no-ojousama-seikatsu-nouryoku-kaimu-wo-kagenagara-osewa-suru-koto-ni-narimashita-dd632"
+      ],
+      "file": "files/at-689864.sq.vtt",
+      "assFile": "ass/at-689864.sq.ass",
+      "offset": 0,
+      "sourceReleaseId": "689864",
+      "sourceEpisode": "12",
+      "sourceTitle": "Saijo no Osewa"
     }
   ]
 }
