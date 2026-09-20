@@ -1,0 +1,417 @@
+﻿[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 8
+YCbCr Matrix: TV.601
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Audio File: CR_DaemonsOfTheSha_S1.0E24.0_DAESIM0024_374632_video_ja-jp_J8377021.mp4
+Video File: CR_DaemonsOfTheSha_S1.0E24.0_DAESIM0024_374632_video_ja-jp_J8377021.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Scroll Position: 215
+Active Line: 239
+Video Position: 23111
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: italicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashback italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashbackitalicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: overlaptop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Narration,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: sign_generic,Arial,20,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: screen_text,Verdana,20,&H00F0E8E4,&H000000FF,&H006F635C,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:13.53,0:00:20.49,sign_generic,OP eyecatch; sign,0,0,0,,{\an8\b1\fnGeorgia\bord0\c&HFFFFFF&\t(3942,3982,\c&HE2CBE1&)\fs28\pos(320,68)\alpha00\t(20,61,\alphaFF)\t(61,103,\alpha00)\t(103,145,\alphaFF)\t(145,186,\alpha00)\t(186,228,\alphaFF)\t(228,270,\alpha00)\t(270,312,\alphaFF)\t(312,353,\alpha00)\t(4983,5025,\c&HFFFFFF&)}Daemonët e Mbretërisë së Hijes
+Dialogue: 0,0:01:31.11,0:01:32.99,Default,HIKARU,0,0,0,,Akio-kun ishte tradhtar?
+Dialogue: 0,0:01:32.99,0:01:37.41,Default,GABBY,0,0,0,,Po. Sapo u përpoq të vriste Asën.
+Dialogue: 0,0:01:38.02,0:01:41.82,Default,GABBY,0,0,0,,Me gjasë e bindën\Nnga dikush i jashtëm.
+Dialogue: 0,0:01:41.82,0:01:43.59,Default,GABBY,0,0,0,,Kur u kthye zotëria,
+Dialogue: 0,0:01:43.59,0:01:46.92,Default,GABBY,0,0,0,,duhej t'i nxirrnim\Ninformacion dhe ta vrisnim.
+Dialogue: 0,0:01:46.92,0:01:50.94,Default,HIKARU,0,0,0,,Pse babai gjithmonë kalon\Ndirekt te vrasja e njerëzve?
+Dialogue: 0,0:01:50.94,0:01:53.12,Default,HIKARU,0,0,0,,Jetojmë dhe punojmë bashkë.
+Dialogue: 0,0:01:53.50,0:01:56.63,Default,HIKARU,0,0,0,,Pse nuk kërkon\Nnjë mënyrë për ta lënë të jetojë?
+Dialogue: 0,0:01:59.20,0:02:00.38,Default,GABBY,0,0,0,,Thjesht nuk është e mundur.
+Dialogue: 0,0:02:01.38,0:02:03.49,Default,GABBY,0,0,0,,Ende mendon se duhet ta lije Akio të jetojë?
+Dialogue: 0,0:02:06.10,0:02:07.91,Default,FUYUKI,0,0,0,,Është Kawai, kopshtari.
+Dialogue: 0,0:02:09.03,0:02:13.01,Default,FUYUKI,0,0,0,,Daemonët e tij janë të pastrehë tani\Nqë zotëria i tyre ka vdekur.
+Dialogue: 0,0:02:17.52,0:02:20.45,Default,JIN,0,0,0,,A do të bëjë dikush kontratë me ta?
+Dialogue: 0,0:02:22.41,0:02:25.95,Default,SERVANT A,0,0,0,,Uh, a mundem unë?
+Dialogue: 0,0:02:26.26,0:02:31.32,Default,SERVANT A,0,0,0,,Ishin të afërt me Heave-Ho tim.\NMendoj se do të ishin të përputhshëm.
+Dialogue: 0,0:02:49.21,0:02:50.30,Default,FUYUKI,0,0,0,,Më falni.
+Dialogue: 0,0:02:50.60,0:02:55.74,Default,FUYUKI,0,0,0,,Emri i çiftit, Gokko-Itachi.\NAktualisht pa emra individualë.
+Dialogue: 0,0:02:55.74,0:02:58.28,Default,FUYUKI,0,0,0,,Zotëria i mëparshëm, Kawai Sanosuke.
+Dialogue: 0,0:02:58.28,0:03:04.08,Default,FUYUKI,0,0,0,,U vra ndërsa po përpiqej\Ntë ndalonte Kuroya Akio nga arratisja.
+Dialogue: 0,0:03:04.08,0:03:05.95,Default,GABBY,0,0,0,,E mori vesh.
+Dialogue: 0,0:03:06.54,0:03:11.30,Default,HIKARU,0,0,0,,Por ishte si familje.\NPse do ta vriste?
+Dialogue: 0,0:03:11.55,0:03:15.54,Default,GONZO,0,0,0,,Policia do të hynte në rezidencë\Npër të hetuar një vdekje të panatyrshme.
+Dialogue: 0,0:03:15.82,0:03:19.31,Default,GONZO,0,0,0,,Do të duhet të themi se u zhduk.
+Dialogue: 0,0:03:20.10,0:03:25.15,Default,GONZO,0,0,0,,E solla Kawaïn. Nuk kishte familje.
+Dialogue: 0,0:03:25.15,0:03:27.12,Default,GONZO,0,0,0,,Do të jetë e lehtë ta bëjmë të zhduket.
+Dialogue: 0,0:03:28.19,0:03:29.60,Default,HIKARU,0,0,0,,Jin-kun!
+Dialogue: 0,0:03:30.93,0:03:32.65,Default,HIKARU,0,0,0,,Nuk mund ta bësh këtë!
+Dialogue: 0,0:03:32.94,0:03:35.34,Default,HIKARU,0,0,0,,Punoi për ne për vite me radhë.
+Dialogue: 0,0:03:35.34,0:03:37.98,Default,HIKARU,0,0,0,,Duhet t'i bëjmë një varrim të duhur.
+Dialogue: 0,0:03:37.98,0:03:40.74,Default,HIKARU,0,0,0,,Do të ishte shumë e trishtueshme, baba!
+Dialogue: 0,0:03:41.76,0:03:42.99,Default,HIKARU,0,0,0,,Baba!
+Dialogue: 0,0:03:44.09,0:03:49.25,Default,HIKARU,0,0,0,,A nuk ishte rreptësia jote ajo që\Ne shtyu Akio-kun të mbyllesh në vetvete?
+Dialogue: 0,0:03:49.56,0:03:51.83,Default,HIKARU,0,0,0,,I trajton njerëzit si familje
+Dialogue: 0,0:03:51.83,0:03:55.31,Default,HIKARU,0,0,0,,por nuk heziton t'i shkëputësh\Nkur ndodh diçka.
+Dialogue: 0,0:03:55.31,0:03:57.51,Default,HIKARU,0,0,0,,Vret njerëz për\Nt'u kundërshtuar qoftë edhe një herë.
+Dialogue: 0,0:03:58.30,0:04:02.40,Default,HIKARU,0,0,0,,Po të ishe më pak i ngurtë\Ndhe ta hapje zemrën,
+Dialogue: 0,0:04:02.40,0:04:06.85,Default,HIKARU,0,0,0,,ndoshta do të na kishte thënë pse\Ntradhtoi klanin Kagemori.
+Dialogue: 0,0:04:07.13,0:04:10.42,Default,HIKARU,0,0,0,,Ndoshta nuk do të kishte\Nhedhur atë hapin e fundit.
+Dialogue: 0,0:04:11.70,0:04:14.55,Default,HIKARU,0,0,0,,Ndoshta Kawai-san nuk do të kishte vdekur.
+Dialogue: 0,0:04:14.55,0:04:15.11,Default,GONZO,0,0,0,,Hikaru!
+Dialogue: 0,0:04:17.84,0:04:19.07,Default,GABBY,0,0,0,,E di, Sensei-chan...
+Dialogue: 0,0:04:19.39,0:04:23.82,Default,GABBY,0,0,0,,Më pëlqen manga jote sepse nuk\Nka njerëz të këqij në të.
+Dialogue: 0,0:04:24.68,0:04:31.02,Default,GABBY,0,0,0,,Realiteti është i mjerë, kështu që lexoj\Nmangën tënde dhe ndjehem i sigurt.
+Dialogue: 0,0:04:31.02,0:04:35.88,Default,GABBY,0,0,0,,Njerëzit në botët e tua\Nnuk do të përpiqeshin të më hiqnin qafe.
+Dialogue: 0,0:04:36.70,0:04:40.28,Default,GABBY,0,0,0,,Por realiteti është i mjerë.
+Dialogue: 0,0:04:40.28,0:04:47.10,Default,GABBY,0,0,0,,Është plot me njerëz tepër\Ntë neveritshëm, përfshirë mua.
+Dialogue: 0,0:04:47.57,0:04:49.67,Default,GABBY,0,0,0,,Megjithëse jam një i neveritshëm,
+Dialogue: 0,0:04:49.67,0:04:53.40,Default,GABBY,0,0,0,,dua të mbroj klanin Kagemori\Nsepse aty përkas.
+Dialogue: 0,0:04:53.79,0:04:58.44,Default,GABBY,0,0,0,,Dua që ti të vazhdosh të vizatosh\Nmangën tënde të lumtur në një vend të sigurt.
+Dialogue: 0,0:04:59.40,0:05:03.15,Default,GABBY,0,0,0,,Dua që Asa të jetojë\Nnjë jetë paqësore dhe normale.
+Dialogue: 0,0:05:04.06,0:05:10.20,Default,GABBY,0,0,0,,Akio zgjodhi prindërit që e braktisën\Nnë vend të Kagemorëve dhe na tradhtoi.
+Dialogue: 0,0:05:10.60,0:05:13.22,Default,GABBY,0,0,0,,Nuk e di sa të rëndësishëm\Njanë ata për të,
+Dialogue: 0,0:05:13.22,0:05:16.89,Default,GABBY,0,0,0,,por nuk do të fal askënd që përpiqet\Ntë shkatërrojë vendin ku përkasim.
+Dialogue: 0,0:05:17.78,0:05:23.41,Default,GABBY,0,0,0,,Do të vrisja edhe prindërit e mi\Npo ta bënin këtë!
+Dialogue: 0,0:05:23.41,0:05:29.79,Default,GABBY,0,0,0,,Mund të tregohesh i butë me budallenj dhe\Ntë shpresosh se do të ndryshojnë, por rrallë ndodh.
+Dialogue: 0,0:05:29.79,0:05:33.21,Default,GABBY,0,0,0,,Vriti para se të jetë vonë.
+Dialogue: 0,0:05:33.93,0:05:35.44,Default,GABBY,0,0,0,,Kjo është e vetmja gjë që mund të bësh.
+Dialogue: 0,0:05:37.77,0:05:38.94,Default,ASA,0,0,0,,Më vjen keq.
+Dialogue: 0,0:05:39.86,0:05:40.68,Default,GABBY,0,0,0,,Asa?
+Dialogue: 0,0:05:41.07,0:05:43.32,Default,JIN,0,0,0,,Mos e lër Asa-san vetëm.
+Dialogue: 0,0:05:43.32,0:05:44.36,Default,GABBY,0,0,0,,E di!
+Dialogue: 0,0:05:44.75,0:05:46.33,Default,GABBY,0,0,0,,Dreq, Asa! Prit!
+Dialogue: 0,0:05:46.79,0:05:48.33,Default,BUNBUN,0,0,0,,Hej, Haruo.
+Dialogue: 0,0:05:49.22,0:05:52.12,Default,BUNBUN,0,0,0,,Pse njerëzit tradhtojnë miqtë e tyre?
+Dialogue: 0,0:05:52.52,0:05:55.89,Default,BUNBUN,0,0,0,,Daemonët nuk tradhtojnë kurrë partnerët e tyre.
+Dialogue: 0,0:05:58.07,0:06:00.93,Default,GABBY,0,0,0,,Asa, nuk mund të shkosh vetëm!
+Dialogue: 0,0:06:00.93,0:06:03.26,Default,GABBY,0,0,0,,Akio mund të fshihet ende diku!
+Dialogue: 0,0:06:04.35,0:06:05.58,Default,GABBY,0,0,0,,Asa...
+Dialogue: 0,0:06:06.23,0:06:09.08,Default,ASA,0,0,0,,Akio-san, pse?
+Dialogue: 0,0:06:09.73,0:06:12.03,Default,ASA,0,0,0,,Mund të kishe thjesht të përpiqeshe të më vrisje.
+Dialogue: 0,0:06:12.74,0:06:15.29,Default,ASA,0,0,0,,Kawai-san nuk ishte luftëtar.
+Dialogue: 0,0:06:16.00,0:06:19.48,Default,ASA,0,0,0,,Ishte thjesht një kopshtar\Nqë nuk kishte vrarë kurrë askënd.
+Dialogue: 0,0:06:19.93,0:06:22.45,Default,ASA,0,0,0,,Nuk kishte dëshiruar kurrë që dikush të vdiste.
+Dialogue: 0,0:06:22.94,0:06:25.55,Default,ASA,0,0,0,,Thjesht jetonte një jetë normale.
+Dialogue: 0,0:06:26.54,0:06:27.94,Default,ASA,0,0,0,,Është faji im.
+Dialogue: 0,0:06:28.77,0:06:30.02,Default,GABBY,0,0,0,,Budallacke!
+Dialogue: 0,0:06:31.81,0:06:33.58,Default,GABBY,0,0,0,,Aspak faji yt!
+Dialogue: 0,0:06:33.58,0:06:36.80,Default,GABBY,0,0,0,,Ishte njerëzit që përpiqeshin\Ntë shfrytëzonin fuqinë tënde që e bënë këtë!
+Dialogue: 0,0:06:37.02,0:06:38.65,Default,GABBY,0,0,0,,Nuk është faji yt, Asa!
+Dialogue: 0,0:06:38.65,0:06:42.13,Default,GABBY,0,0,0,,Edhe Yuru tha të ndalosh\Ntë kërkoje falje për gjithçka!
+Dialogue: 0,0:06:42.13,0:06:44.88,Default,GABBY,0,0,0,,Herën tjetër që të kërkosh falje për ndonjë\Nbudallallëk, do të të rrah!
+Dialogue: 0,0:06:44.88,0:06:46.50,Default,GABBY,0,0,0,,Në fakt, të rraha tashmë!
+Dialogue: 0,0:06:50.89,0:06:52.61,Default,ASA,0,0,0,,Më fal, Gabby-chan.
+Dialogue: 0,0:06:53.85,0:06:56.27,sign_generic,EPTITLE,0,0,0,,{\an8\bord0\b1\fnTimes New Roman\c&H1B2DAF&\alpha00\t(19,61,\alphaFF)\t(61,102,\alpha00)\t(102,144,\alphaFF)\t(144,186,\alpha00\t(186,228,\alphaFF\t(228,269,\alpha00\t(269,311,\alphaFF\t(311,353,\alpha00)\pos(318,0)}Episodi 24\N{\fs17\alphaFF\t(647,686,\alpha00\t(686,730,\alphaFF\t(730,769,\alpha00\t(769,814,\alphaFF\t(814,855,\alpha00)}Fshati Higashi\Ndhe Fshati Nishino
+Dialogue: 0,0:06:54.40,0:06:56.26,Default,GABBY,0,0,0,,Çfarë të thashë sapo?!
+Dialogue: 0,0:07:33.03,0:07:35.71,flashback,YURU,0,0,0,,Babai nuk është këtu.
+Dialogue: 0,0:07:36.85,0:07:38.23,flashback,YURU,0,0,0,,Jam vetëm.
+Dialogue: 0,0:07:38.64,0:07:43.23,flashback,YURU,0,0,0,,Duhet ta pastroj këtë vetë.
+Dialogue: 0,0:07:43.82,0:07:50.74,flashback,YURU,0,0,0,,Ky bandit po përpiqej të më vriste.
+Dialogue: 0,0:08:00.60,0:08:04.26,flashback,YURU,0,0,0,,Mos hezito. Mos u lëkund.
+Dialogue: 0,0:08:04.27,0:08:06.25,flashback,YURU,0,0,0,,Babai nuk është këtu.
+Dialogue: 0,0:08:06.25,0:08:08.78,flashback,YURU,0,0,0,,Askush nuk do ta pastrojë këtë për mua.
+Dialogue: 0,0:08:08.78,0:08:10.51,flashback,YURU,0,0,0,,Duhet ta bëj vetë.
+Dialogue: 0,0:08:14.30,0:08:15.58,flashback,YURU,0,0,0,,Në male...
+Dialogue: 0,0:08:18.61,0:08:19.83,flashback,YURU,0,0,0,,Jam vetëm.
+Dialogue: 0,0:08:25.95,0:08:29.59,Default,YURU,0,0,0,,Hë? Ku jam?
+Dialogue: 0,0:08:30.85,0:08:35.73,Default,YURU,0,0,0,,Ah, e drejtë. Po flija në\Nvendin ku i mbajmë... futonët...
+Dialogue: 0,0:08:37.01,0:08:39.99,Default,LEFT,0,0,0,,Ndjehesh më mirë, Yuru?
+Dialogue: 0,0:08:41.19,0:08:43.30,Default,YURU,0,0,0,,Mos më tremb kështu, Left!
+Dialogue: 0,0:08:43.97,0:08:45.74,Default,YURU,0,0,0,,Çfarë po bën atje?
+Dialogue: 0,0:08:45.74,0:08:46.79,Default,LEFT,0,0,0,,Po të ruaj.
+Dialogue: 0,0:08:47.48,0:08:53.16,Default,LEFT,0,0,0,,Kam ende vështirësi të lëviz, por\Nmund të të shikoj përgjithmonë nga ky pozicion.
+Dialogue: 0,0:08:49.35,0:08:50.40,top,RIGHT,0,0,0,,Hup.
+Dialogue: 0,0:08:53.16,0:08:55.63,Default,YURU,0,0,0,,S-Sigurisht, faleminderit.
+Dialogue: 0,0:08:57.33,0:08:59.98,Default,KEN,0,0,0,,Yuru-san, u zgjove. Si ndjehesh?
+Dialogue: 0,0:09:00.24,0:09:04.23,Default,YURU,0,0,0,,Trupi ndjehet më i lehtë. Sa është ora?
+Dialogue: 0,0:09:04.23,0:09:06.38,Default,KEN,0,0,0,,Ka kaluar mesdita.
+Dialogue: 0,0:09:07.83,0:09:09.27,Default,HANA,0,0,0,,Mirëmëngjes.
+Dialogue: 0,0:09:09.27,0:09:11.57,Default,HANA,0,0,0,,Ose mirëdita, më mirë.
+Dialogue: 0,0:09:11.57,0:09:13.28,Default,DERA,0,0,0,,Ngjyra u kthye.
+Dialogue: 0,0:09:13.59,0:09:15.73,Default,AZAMI,0,0,0,,Yuru-niichan, a je mirë?
+Dialogue: 0,0:09:15.73,0:09:17.20,Default,KIRI,0,0,0,,Si është shpatulla?
+Dialogue: 0,0:09:17.20,0:09:18.24,Default,DANJI,0,0,0,,Dhe ethet?
+Dialogue: 0,0:09:18.59,0:09:21.69,Default,OSHIRASAMA,0,0,0,,Ndjehesh më mirë? Mirë.
+Dialogue: 0,0:09:32.61,0:09:34.08,Default,YURU,0,0,0,,Për çfarë ishte ajo?
+Dialogue: 0,0:09:34.08,0:09:35.21,Default,HANA,0,0,0,,Fli mirë?
+Dialogue: 0,0:09:36.94,0:09:38.72,Default,YURU,0,0,0,,Pashë një ëndërr të pakëndshme.
+Dialogue: 0,0:09:38.72,0:09:42.70,Default,HANA,0,0,0,,Po? Ha diçka të mirë\Ndhe harroje.
+Dialogue: 0,0:09:42.70,0:09:45.65,Default,DERA,0,0,0,,Në rregull. Le të bëjmë një drekë të vonë.
+Dialogue: 0,0:09:46.41,0:09:49.32,Default,DERA,0,0,0,,Mund të hamë të gjithë bashkë.
+Dialogue: 0,0:10:03.96,0:10:06.14,flashback,GABBY,0,0,0,,Të zuri kohë, Jin-chan.
+Dialogue: 0,0:10:06.14,0:10:07.61,flashback,GABBY,0,0,0,,Mund ta pastrosh këtë?
+Dialogue: 0,0:10:10.63,0:10:12.63,flashback,JIN,0,0,0,,Janë agjentë të Fshatit Higashi?
+Dialogue: 0,0:10:12.63,0:10:16.97,flashback,GABBY,0,0,0,,Me sa duket. Vranë Asën.
+Dialogue: 0,0:10:19.78,0:10:22.58,flashback,GABBY,0,0,0,,Ajo mori fuqinë e Break.
+Dialogue: 0,0:10:24.76,0:10:28.87,flashback,ASA,0,0,0,,Më vjen keq... Jin-san.
+Dialogue: 0,0:10:30.23,0:10:33.78,flashback,ASA,0,0,0,,Më vjen keq që duhet ta pastrosh këtë.
+Dialogue: 0,0:10:34.85,0:10:36.05,flashback,ASA,0,0,0,,Më vjen keq.
+Dialogue: 0,0:10:37.00,0:10:38.34,flashback,ASA,0,0,0,,Më vjen keq.
+Dialogue: 0,0:10:39.03,0:10:40.35,flashback,ASA,0,0,0,,Më vjen keq.
+Dialogue: 0,0:10:41.36,0:10:43.67,flashback,ASA,0,0,0,,Më vjen keq.
+Dialogue: 0,0:10:48.79,0:10:53.28,flashback,JIN,0,0,0,,Është në rregull. Është puna ime të pastroj.
+Dialogue: 0,0:10:53.28,0:10:55.58,flashback,JIN,0,0,0,,Nuk ke nevojë të kërkosh falje.
+Dialogue: 0,0:10:56.16,0:11:00.28,flashback,JIN,0,0,0,,Lërmë pjesën tjetër.\NBëj një pushim mendor.
+Dialogue: 0,0:11:10.57,0:11:12.61,Default,ASA,0,0,0,,Gabby-chan, je e rëndë.
+Dialogue: 0,0:11:14.73,0:11:16.96,Default,GABBY,0,0,0,,Fli mirë?
+Dialogue: 0,0:11:20.02,0:11:23.32,Default,ASA,0,0,0,,Pashë një ëndërr të keqe.
+Dialogue: 0,0:11:24.15,0:11:28.03,Default,GABBY,0,0,0,,Po? Ha diçka\Ndhe harroje.
+Dialogue: 0,0:11:28.71,0:11:31.54,Default,GABBY,0,0,0,,Ka gjë në kuzhinë?
+Dialogue: 0,0:11:33.69,0:11:36.41,Default,NATSUKI,0,0,0,,Mirëmëngjes. Ose mirëdita, më mirë.
+Dialogue: 0,0:11:36.41,0:11:40.44,Default,ASA,0,0,0,,Natsuki-neesan, po më ruaje?
+Dialogue: 0,0:11:40.44,0:11:45.22,Default,NATSUKI,0,0,0,,Mund të sulmojnë përsëri ndërsa\Nroja jonë është e dobët pas atij incidenti.
+Dialogue: 0,0:11:45.70,0:11:47.28,Default,NATSUKI,0,0,0,,Gëzohem që nuk ndodhi asgjë.
+Dialogue: 0,0:11:47.28,0:11:48.26,Default,ASA,0,0,0,,Ishe zgjuar gjithë natën?
+Dialogue: 0,0:11:48.26,0:11:51.53,Default,NATSUKI,0,0,0,,Po. Do të bëj një dush.
+Dialogue: 0,0:11:51.53,0:11:53.24,Default,NATSUKI,0,0,0,,Më zëvendëso, Gabby-chan.
+Dialogue: 0,0:11:53.24,0:11:54.52,Default,GABBY,0,0,0,,Sigurisht.
+Dialogue: 0,0:11:54.52,0:11:55.86,Default,ASA,0,0,0,,Natsuki-neesan.
+Dialogue: 0,0:11:57.75,0:11:58.76,Default,ASA,0,0,0,,Më vjen kaq—
+Dialogue: 0,0:12:03.13,0:12:04.83,Default,ASA,0,0,0,,Faleminderit.
+Dialogue: 0,0:12:06.48,0:12:11.66,Default,NATSUKI,0,0,0,,Sapo të dal nga dushi,\Ndo të bëjmë mësimin e matematikës si gjithmonë.
+Dialogue: 0,0:12:11.66,0:12:12.99,Default,ASA,0,0,0,,Çfarë?!
+Dialogue: 0,0:12:12.99,0:12:14.96,Default,GABBY,0,0,0,,Të paktën lëre të pushojë sot!
+Dialogue: 0,0:12:15.24,0:12:18.41,Default,BABAMARU,0,0,0,,Të rrish zgjuar gjithë natën është keq për\Nlëkurën, Natsuki-chan.
+Dialogue: 0,0:12:18.41,0:12:20.22,Default,JIJIMARU,0,0,0,,Duhet të flesh pak, Natsuki.
+Dialogue: 0,0:12:20.22,0:12:22.52,Default,GABBY,0,0,0,,Po! Shko flej, Natsuki-nee!
+Dialogue: 0,0:12:26.25,0:12:27.28,Default,NATSUKI,0,0,0,,Në rregull.
+Dialogue: 0,0:12:27.64,0:12:31.57,Default,NATSUKI,0,0,0,,Do të fle mjaftueshëm sapo të kesh\Nmbaruar matematikën e ditës.
+Dialogue: 0,0:12:31.89,0:12:35.15,Default,NATSUKI,0,0,0,,Nxito dhe zgjidhi ata\Nprobleme që të fle.
+Dialogue: 0,0:12:36.65,0:12:37.65,sign_generic,sign,0,0,0,,{\fs12\3c&HEBFEF4&\c&H123814&\an8\frx350\fry6\frz15.3\pos(295,221)\fade(1,200)}E lehtë\NMatematika I
+Dialogue: 0,0:12:35.15,0:12:36.66,Default,ASA & GABBY,0,0,0,,Ju jeni monster!
+Dialogue: 0,0:12:37.40,0:12:41.07,Default,ASA,0,0,0,,Pyes veten nëse mund t'i\N"Break" këto probleme.
+Dialogue: 0,0:12:41.07,0:12:44.54,Default,GABBY,0,0,0,,Mos përdor një Daemon legjendar\Npër budallallëqe të tilla!
+Dialogue: 0,0:12:46.49,0:12:47.99,sign_generic,GABBY,0,0,0,,{\an2\b1\fnTimes New Roman\bord0\fs35\c&HEDE9DC&\t(72,113,\c&HEEECE9&)\move(320,80,320,83,72,113)\blur1\t(72,113,\blur0)\t(72,113,\fs34.1)}Daemonët e Mbretërisë së Hijes
+Dialogue: 0,0:12:54.48,0:12:55.61,Default,FUYUKI,0,0,0,,Natsuki.
+Dialogue: 0,0:12:59.07,0:13:02.62,Default,FUYUKI,0,0,0,,Jin-san tha ta marrësh\Npjesën tjetër të ditës pushim.
+Dialogue: 0,0:13:06.81,0:13:09.38,Default,FUYUKI,0,0,0,,Haruo, le të pijmë bashkë.
+Dialogue: 0,0:13:09.38,0:13:11.84,Default,NATSUKI,0,0,0,,Do të pijmë dhe flimë më parë.
+Dialogue: 0,0:13:12.17,0:13:14.76,Default,NATSUKI,0,0,0,,Pastaj do të mendojmë për Akio.
+Dialogue: 0,0:13:15.56,0:13:17.54,Default,HARUO,0,0,0,,Zgjuar gjithë natën dhe duke pirë?
+Dialogue: 0,0:13:17.54,0:13:19.51,Default,HARUO,0,0,0,,Kjo është ferr për lëkurën tënde, Natsuki.
+Dialogue: 0,0:13:21.41,0:13:24.20,Default,NATSUKI,0,0,0,,Do të të vë në gjumë\Nmenjëherë, Haruo.
+Dialogue: 0,0:13:24.20,0:13:25.03,Default,FUYUKI,0,0,0,,Mos.
+Dialogue: 0,0:13:31.28,0:13:32.28,Default,YURU,0,0,0,,Në rregull!
+Dialogue: 0,0:13:32.64,0:13:33.89,Default,KEN,0,0,0,,Çfarë po bën ai?
+Dialogue: 0,0:13:33.89,0:13:35.03,Default,HANA,0,0,0,,Mori një fjalor elektronik.
+Dialogue: 0,0:13:35.28,0:13:38.92,Default,HANA,0,0,0,,Ia dhashë që të kërkojë\Nfjalë që nuk i njeh.
+Dialogue: 0,0:13:39.29,0:13:41.29,sign_generic,sign,0,0,0,,{\p1\bord0\alpha60\c&HFDFDFD&\an7}m 0 0 l 200 0 200 110 0 110
+Dialogue: 1,0:13:39.29,0:13:41.29,sign_generic,sign,0,0,0,,{\bord0\alpha60\an7\fnTimes New Roman\fs12\pos(18,16)}tsugai [emër]\N1) Kur dy ose më shumë objekte bashkohen për\Ntë formuar një çift\N2) Një çift kafshësh mashkull e femër\NNjë palë\N3) Një menteshë ose nyje\N4) Një mundësi, shans ose katalizator
+Dialogue: 0,0:13:39.28,0:13:40.86,Default,YURU,0,0,0,,Që kur zbrita këtu,
+Dialogue: 0,0:13:40.86,0:13:44.17,Default,YURU,0,0,0,,kam hasur shumë fjalë\Nqë i lexoj por nuk i kuptoj.
+Dialogue: 0,0:13:44.17,0:13:46.81,Default,YURU,0,0,0,,Tani nuk më duhet t'i pyes\Nnjerëzit gjatë gjithë kohës.
+Dialogue: 0,0:13:46.81,0:13:49.79,Default,KEN,0,0,0,,E kuptoj. Po përdor mënyrën e futjes hiragana.
+Dialogue: 0,0:13:49.79,0:13:50.67,Default,YURU,0,0,0,,Në rregull.
+Dialogue: 0,0:13:51.22,0:13:55.18,Default,KEN,0,0,0,,Yuru-san, çfarë studioje\Nnë fshat?
+Dialogue: 0,0:13:55.18,0:13:58.26,Default,YURU,0,0,0,,Lexoja tekstet që solli Dera-san\Nnga bota e jashtme,
+Dialogue: 0,0:13:58.80,0:14:00.10,Default,YURU,0,0,0,,si Sun Tzu.
+Dialogue: 0,0:14:00.10,0:14:03.49,Default,KEN,0,0,0,,E mahnitshme, Yuru-san!\NJe një barbar i arsimuar!
+Dialogue: 0,0:14:03.49,0:14:06.52,italics,YURU/ID,0,0,0,,Thashë vetëm se e lexova.\NNuk thashë kurrë se e kuptova.
+Dialogue: 0,0:14:06.78,0:14:10.55,Default,AZAMI,0,0,0,,Hm, çfarë? Si funksionon kjo?
+Dialogue: 0,0:14:10.55,0:14:13.84,Default,YURU,0,0,0,,As unë nuk jam i sigurt,\Npor kjo është ajo që bën.
+Dialogue: 0,0:14:17.27,0:14:18.34,Default,YURU,0,0,0,,Ja.
+Dialogue: 0,0:14:18.34,0:14:19.81,Default,AZAMI,0,0,0,,Faleminderit.
+Dialogue: 0,0:14:19.81,0:14:24.15,Default,YURU,0,0,0,,Azami, duhet të jesh e hutuar pasi\Nzbrite këtu kaq papritur.
+Dialogue: 0,0:14:24.15,0:14:25.35,Default,YURU,0,0,0,,A je mirë?
+Dialogue: 0,0:14:25.80,0:14:26.62,Default,AZAMI,0,0,0,,Po.
+Dialogue: 0,0:14:26.94,0:14:29.74,Default,AZAMI,0,0,0,,Nuk e di çfarë po ndodh,
+Dialogue: 0,0:14:29.74,0:14:36.15,Default,AZAMI,0,0,0,,por kam kaq kohë e hutuar sa\Njam mësuar të jem e hutuar.
+Dialogue: 0,0:14:36.15,0:14:37.75,Default,YURU,0,0,0,,E kuptoj saktësisht çfarë do të thuash!
+Dialogue: 0,0:14:38.07,0:14:39.87,Default,AZAMI,0,0,0,,Gjithashtu, orizi është i mirë.
+Dialogue: 0,0:14:39.87,0:14:40.76,Default,YURU,0,0,0,,Epo?
+Dialogue: 0,0:14:40.76,0:14:43.48,top,AZAMI,0,0,0,,Gjithashtu, kutia e ftohtë është e mrekullueshme.
+Dialogue: 0,0:14:41.45,0:14:44.72,Default,KIRI,0,0,0,,Gëzohem që Azami-chan\Nndjehet pak më mirë.
+Dialogue: 0,0:14:43.48,0:14:44.84,top,YURU,0,0,0,,Kutia e ftohtë?
+Dialogue: 0,0:14:44.72,0:14:45.75,Default,DANJI,0,0,0,,Po.
+Dialogue: 0,0:14:44.84,0:14:45.59,top,AZAMI,0,0,0,,Po.
+Dialogue: 0,0:14:45.59,0:14:46.89,top,YURU,0,0,0,,Ah, kutia e ftohtë.
+Dialogue: 0,0:14:45.75,0:14:49.45,Default,KIRI,0,0,0,,Por me gjasë dëshiron të\Nkthehet në fshat.
+Dialogue: 0,0:14:46.89,0:14:47.46,top,AZAMI,0,0,0,,Po.
+Dialogue: 0,0:14:47.46,0:14:47.90,top,YURU,0,0,0,,E drejtë.
+Dialogue: 0,0:14:47.90,0:14:48.64,top,AZAMI,0,0,0,,Është plot me ushqim.
+Dialogue: 0,0:14:48.64,0:14:49.45,top,YURU,0,0,0,,Kjo është e mrekullueshme.
+Dialogue: 0,0:14:49.45,0:14:50.13,top,AZAMI,0,0,0,,Po, është e mrekullueshme.
+Dialogue: 0,0:14:50.13,0:14:50.55,top,YURU,0,0,0,,Po.
+Dialogue: 0,0:14:50.25,0:14:53.37,Default,DANJI,0,0,0,,Shpresoj që mami të jetë mirë.
+Dialogue: 0,0:14:50.55,0:14:53.29,top,AZAMI,0,0,0,,Akulli nuk ka shije të mirë, megjithatë.
+Dialogue: 0,0:14:54.80,0:14:56.19,Default,RIGHT,0,0,0,,Gëzohu.
+Dialogue: 0,0:14:56.19,0:14:59.20,Default,RIGHT,0,0,0,,Do t'i largosh të gjitha\Nfatet e tua duke u dukur kaq i zymtë.
+Dialogue: 0,0:14:59.20,0:15:00.83,Default,DANJI & KIRI,0,0,0,,Right dhe Left.
+Dialogue: 0,0:15:01.99,0:15:03.45,Default,YURU,0,0,0,,I riktheve gjymtyrët?
+Dialogue: 0,0:15:03.73,0:15:06.47,Default,RIGHT,0,0,0,,Po, si të reja.
+Dialogue: 0,0:15:06.47,0:15:08.50,Default,LEFT,0,0,0,,Megjithatë, nuk jemi ende në formë të plotë.
+Dialogue: 0,0:15:08.88,0:15:12.34,Default,LEFT,0,0,0,,Ngjitësi i gurit që bleu Dera\Nfunksionoi mirë.
+Dialogue: 1,0:15:11.01,0:15:15.76,sign_generic,sign,0,0,0,,{\fnImpact\fs15\t(1,4750,\fs13)\c&HFBFCFC&\3c&H000000&\move(460,203,445,204)}Mbreti i Ngjitësit të Gurit
+Dialogue: 1,0:15:11.01,0:15:15.76,sign_generic,sign,0,0,0,,{\fnImpact\fs15\t(1,4750,\fs13)\c&HFBFCFC&\3c&H000000&\frx350\fry30\frz11.03\move(243,127,254,140)}Mbreti i Ngjitësit të Gurit
+Dialogue: 1,0:15:11.01,0:15:15.76,sign_generic,sign,0,0,0,,{\fnImpact\fs15\t(1,4750,\fs13)\c&H1300D6&\3c&H000000&\frx354\fry10\frz14.35\move(209,199,227,201)}Super i fortë!!
+Dialogue: 1,0:15:11.01,0:15:15.76,sign_generic,sign,0,0,0,,{\fnImpact\fs15\t(1,4750,\fs13)\c&H1300D6&\3c&H000000&\frz342.7\frx342\fry318\move(386,247,381,241)}Super i fortë!!
+Dialogue: 0,0:15:12.34,0:15:15.09,Default,RIGHT,0,0,0,,Me këtë gjë, mund të pritemi\Nsa të duam, pa problem.
+Dialogue: 0,0:15:15.77,0:15:18.56,Default,YURU,0,0,0,,Mundo të mos pritesh nëse mund ta shmangësh.
+Dialogue: 0,0:15:19.66,0:15:20.82,Default,YURU,0,0,0,,Hë?
+Dialogue: 0,0:15:21.66,0:15:24.26,Default,YURU,0,0,0,,Meqë ra fjala, ku është Dera-san?
+Dialogue: 0,0:15:42.89,0:15:45.18,Default,DERA,0,0,0,,Hej, shok. I humbe?
+Dialogue: 0,0:15:45.18,0:15:46.13,Default,HAMURA,0,0,0,,Edhe ti?
+Dialogue: 0,0:15:46.13,0:15:50.35,Default,DERA,0,0,0,,Po përpiqesha të fitoja para\Npër të mbajtur fëmijët.
+Dialogue: 0,0:15:50.35,0:15:53.45,Default,HAMURA,0,0,0,,Po përpiqem të shlyej një borxh.
+Dialogue: 0,0:15:53.45,0:15:56.89,Default,HAMURA,0,0,0,,Mora edhe një kredi\Nqë të vendos një bast.
+Dialogue: 0,0:15:57.13,0:16:01.64,Default,HAMURA,0,0,0,,Do ta kompensojmë me garën\Ntjetër për fëmijët e tu.
+Dialogue: 0,0:16:01.64,0:16:02.64,Default,DERA,0,0,0,,Po.
+Dialogue: 0,0:16:03.88,0:16:05.38,sign_generic,SIGN,0,0,0,,{\b1\bord0\pos(320,68)\c&H75212A&}Të neveritshëm.
+Dialogue: 0,0:16:04.27,0:16:05.38,italics,ASA & HANA & GABBY,0,0,0,,Të neveritshëm.
+Dialogue: 0,0:16:05.38,0:16:08.84,Default,HAMURA,0,0,0,,Koha për të marrë një kredi tjetër!
+Dialogue: 0,0:16:09.40,0:16:09.49,sign_generic,,0,0,0,,{\fnGeorgia\bord0\c&HA5CC65&\fs12\pos(199,184)\frz21.7}Yamitsuki Milk
+Dialogue: 0,0:16:09.40,0:16:09.49,sign_generic,,0,0,0,,{\fnComic Sans MS\b1\bord0\c&H000000&\an8\fs20\pos(151,236)\frz290.6}Hana
+Dialogue: 0,0:16:09.49,0:16:09.61,sign_generic,,0,0,0,,{\fnGeorgia\bord0\c&HA5CC65&\fs12\pos(200,180)\frz20.76}Yamitsuki Milk
+Dialogue: 0,0:16:09.49,0:16:09.61,sign_generic,,0,0,0,,{\fnComic Sans MS\b1\bord0\c&H000000&\an8\fs20\frz290.6\pos(151,232)}Hana
+Dialogue: 0,0:16:09.61,0:16:09.74,sign_generic,,0,0,0,,{\fnGeorgia\bord0\c&HA5CC65&\fs12\pos(200,176)\frz19.45}Yamitsuki Milk
+Dialogue: 0,0:16:09.61,0:16:09.74,sign_generic,,0,0,0,,{\fnComic Sans MS\b1\bord0\c&H000000&\an8\fs20\pos(152,228)\frz288.4}Hana
+Dialogue: 0,0:16:09.74,0:16:09.86,sign_generic,,0,0,0,,{\fnGeorgia\bord0\c&HA5CC65&\fs12\frz17\pos(202,174)}Yamitsuki Milk
+Dialogue: 0,0:16:09.74,0:16:09.86,sign_generic,,0,0,0,,{\fnComic Sans MS\b1\bord0\c&H000000&\an8\fs20\pos(153,224)\frz287.4}Hana
+Dialogue: 0,0:16:09.86,0:16:09.99,sign_generic,,0,0,0,,{\fnGeorgia\bord0\c&HA5CC65&\fs12\pos(203,172)\frz17.49}Yamitsuki Milk
+Dialogue: 0,0:16:09.86,0:16:09.99,sign_generic,,0,0,0,,{\fnComic Sans MS\b1\bord0\c&H000000&\an8\fs20\frz287.4\pos(154,222)}Hana
+Dialogue: 0,0:16:09.99,0:16:10.12,sign_generic,,0,0,0,,{\fnGeorgia\bord0\c&HA5CC65&\fs12\pos(205,170.5)\frz18.13}Yamitsuki Milk
+Dialogue: 0,0:16:09.99,0:16:10.12,sign_generic,,0,0,0,,{\fnComic Sans MS\b1\bord0\c&H000000&\an8\fs20\frz287.4\pos(155,220)}Hana
+Dialogue: 0,0:16:10.12,0:16:10.24,sign_generic,,0,0,0,,{\fnGeorgia\bord0\c&HA5CC65&\fs12\pos(206,167)\frz16.69}Yamitsuki Milk
+Dialogue: 0,0:16:10.12,0:16:10.24,sign_generic,,0,0,0,,{\fnComic Sans MS\b1\bord0\c&H000000&\an8\fs20\frz287\pos(158,217)}Hana
+Dialogue: 0,0:16:10.24,0:16:10.37,sign_generic,,0,0,0,,{\fnGeorgia\bord0\c&HA5CC65&\fs12\pos(207,166)\frz16.17}Yamitsuki Milk
+Dialogue: 0,0:16:10.24,0:16:10.37,sign_generic,,0,0,0,,{\fnComic Sans MS\b1\bord0\c&H000000&\an8\fs20\frz287\pos(159,214)}Hana
+Dialogue: 0,0:16:10.37,0:16:10.74,sign_generic,,0,0,0,,{\fnGeorgia\bord0\c&HA5CC65&\fs12\pos(207.5,164.5)\frz15.55}Yamitsuki Milk
+Dialogue: 0,0:16:10.37,0:16:10.74,sign_generic,,0,0,0,,{\fnComic Sans MS\b1\bord0\c&H000000&\an8\fs20\frz284.3\pos(159,213)}Hana
+Dialogue: 0,0:16:10.74,0:16:10.87,sign_generic,,0,0,0,,{\fnGeorgia\bord0\c&HA5CC65&\fs12\frz15.55\pos(205.5,167.5)}Yamitsuki Milk
+Dialogue: 0,0:16:10.74,0:16:10.87,sign_generic,,0,0,0,,{\fnComic Sans MS\b1\bord0\c&H000000&\an8\fs20\pos(158,217)\frz286.5}Hana
+Dialogue: 0,0:16:10.87,0:16:10.99,sign_generic,,0,0,0,,{\fnGeorgia\bord0\c&HA5CC65&\fs12\frz15.55\pos(203.5,171)}Yamitsuki Milk
+Dialogue: 0,0:16:10.87,0:16:10.99,sign_generic,,0,0,0,,{\fnComic Sans MS\b1\bord0\c&H000000&\an8\fs20\frz286.5\pos(156,221)}Hana
+Dialogue: 0,0:16:10.99,0:16:11.12,sign_generic,,0,0,0,,{\fnGeorgia\bord0\c&HA5CC65&\fs12\pos(201.5,173)\frz17.24}Yamitsuki Milk
+Dialogue: 0,0:16:10.99,0:16:11.12,sign_generic,,0,0,0,,{\fnComic Sans MS\b1\bord0\c&H000000&\an8\fs20\frz288.3\pos(156,224)}Hana
+Dialogue: 0,0:16:11.12,0:16:11.28,sign_generic,,0,0,0,,{\fnComic Sans MS\b1\bord0\c&H000000&\an8\fs20\frz288.1\pos(152,227)}Hana
+Dialogue: 0,0:16:11.28,0:16:11.28,sign_generic,,0,0,0,,{\fnGeorgia\bord0\c&HA5CC65&\fs12\frz18.02\pos(201.5,180.5)}Yamitsuki Milk
+Dialogue: 0,0:16:11.28,0:16:11.41,sign_generic,,0,0,0,,{\fnComic Sans MS\b1\bord0\c&H000000&\an8\fs20\frz288.1\pos(151,231)}Hana
+Dialogue: 0,0:16:11.41,0:16:11.53,sign_generic,,0,0,0,,{\fnGeorgia\bord0\c&HA5CC65&\fs12\frz17.81\pos(201.5,183.5)}Yamitsuki Milk
+Dialogue: 0,0:16:11.41,0:16:11.53,sign_generic,,0,0,0,,{\fnComic Sans MS\b1\bord0\c&H000000&\an8\fs20\frz288.1\pos(152,233)}Hana
+Dialogue: 0,0:16:11.53,0:16:11.74,sign_generic,,0,0,0,,{\fnGeorgia\bord0\c&HA5CC65&\fs12\frz17.81\pos(200.5,185.5)}Yamitsuki Milk
+Dialogue: 0,0:16:11.53,0:16:11.74,sign_generic,,0,0,0,,{\fnComic Sans MS\b1\bord0\c&H000000&\an8\fs20\frz288.1\pos(152,234)}Hana
+Dialogue: 0,0:16:14.73,0:16:16.21,Default,HANA,0,0,0,,Oh, dreq.
+Dialogue: 0,0:16:16.21,0:16:17.48,Default,DERA,0,0,0,,Uf.
+Dialogue: 0,0:16:17.48,0:16:19.48,sign_generic,SIGN,0,0,0,,{\fnComic Sans MS\bord0\fs35\b1\c&H000200&\pos(341,232)}Danno
+Dialogue: 0,0:16:18.68,0:16:21.97,Default,DERA,0,0,0,,Agjentët e Fshatit Higashi\Njanë thirrur.
+Dialogue: 0,0:16:21.97,0:16:25.00,Default,HANA,0,0,0,,Po thërrasin të gjithë\Nme rol zyrtar.
+Dialogue: 0,0:16:25.34,0:16:28.06,Default,HANA,0,0,0,,Ky mesazh është nga banditët.
+Dialogue: 0,0:16:28.06,0:16:29.49,Default,YURU,0,0,0,,Çfarë? Ata?
+Dialogue: 0,0:16:29.85,0:16:32.54,Default,HANA,0,0,0,,Me siguri po planifikojnë\Ntë të vënë në provë
+Dialogue: 0,0:16:32.54,0:16:36.10,Default,HANA,0,0,0,,për incidentin e magazinës së Fujimurayama\Ndhe të kërkojnë dorëzimin e Yuru-kun.
+Dialogue: 0,0:16:36.33,0:16:38.10,Default,DERA,0,0,0,,Po.
+Dialogue: 0,0:16:38.40,0:16:41.37,Default,YURU,0,0,0,,Duhet të shkoj t'u jap një\Nmësim të gjithëve?
+Dialogue: 0,0:16:41.37,0:16:42.71,Default,LEFT,0,0,0,,Nuk mundesh.
+Dialogue: 0,0:16:42.71,0:16:45.68,Default,KEN,0,0,0,,Po, dëgjo Left.
+Dialogue: 0,0:16:45.98,0:16:49.15,Default,RIGHT,0,0,0,,Nuk jemi shëruar plotësisht,\Nprandaj nuk mund të shkojmë.
+Dialogue: 0,0:16:49.15,0:16:52.45,Default,LEFT,0,0,0,,Nuk është e drejtë që ti\Ntë shkosh vetëm për gjueti.
+Dialogue: 0,0:16:52.69,0:16:53.95,Default,YURU,0,0,0,,E kuptoj.
+Dialogue: 0,0:16:54.40,0:16:58.21,Default,YURU,0,0,0,,Atëherë do t'u japim të gjithëve një\Nmësim sa të jesh më mirë.
+Dialogue: 0,0:16:58.21,0:17:00.20,italics,KEN/ID,0,0,0,,Mos e bëj të tingëllojë si\Nnjë shëtitje argëtuese!
+Dialogue: 0,0:17:00.57,0:17:04.95,Default,DERA,0,0,0,,Mos. Shumë agjentë të Fshatit Higashi\Nme rol zyrtar janë Zotërues Daemonësh.
+Dialogue: 0,0:17:05.21,0:17:07.66,Default,DERA,0,0,0,,Prandaj nuk do të marr pjesë.
+Dialogue: 0,0:17:07.66,0:17:09.25,Default,HANA,0,0,0,,E padrejtë, Dera-san!
+Dialogue: 0,0:17:09.25,0:17:13.52,Default,HANA,0,0,0,,Edhe nëse mungoj unë, do të dyshojnë!
+Dialogue: 0,0:17:18.61,0:17:22.18,Default,HANA,0,0,0,,Hej. Si po shkon?
+Dialogue: 0,0:17:22.45,0:17:24.19,Default,GLASSES BANDIT,0,0,0,,Hej, varrmihës.
+Dialogue: 0,0:17:24.19,0:17:25.96,Default,OFFICIAL A,0,0,0,,Mirë të shoh, Hana-chan.
+Dialogue: 0,0:17:25.96,0:17:27.18,Default,OFFICIAL B,0,0,0,,Je ende gjallë, hë?
+Dialogue: 0,0:17:27.56,0:17:30.13,Default,GLASSES BANDIT,0,0,0,,Ke dëgjuar nga Tadera?
+Dialogue: 0,0:17:30.13,0:17:33.10,Default,HANA,0,0,0,,Jo. Nuk është këtu?
+Dialogue: 0,0:17:33.10,0:17:36.85,Default,GLASSES BANDIT,0,0,0,,Jo. As mesazheve nuk\Npërgjigjet. Është zhdukur.
+Dialogue: 0,0:17:36.85,0:17:40.53,Default,HANA,0,0,0,,Vërtet? Pyes veten nëse\Nka diçka për të fshehur.
+Dialogue: 0,0:17:40.53,0:17:42.78,Default,GLASSES BANDIT,0,0,0,,E hasur në magazinën\Ne Fujimurayama.
+Dialogue: 0,0:17:42.78,0:17:48.03,Default,GLASSES BANDIT,0,0,0,,Tha se nuk do ta dorëzonte\NYurun as nuk do të ndihmonte Fshatin Higashi.
+Dialogue: 0,0:17:48.03,0:17:50.37,Default,HANA,0,0,0,,Pra tradhtoi Fshatin Higashi?
+Dialogue: 0,0:17:50.37,0:17:54.54,Default,HANA,0,0,0,,Bast se po planifikon ta përdorë\Nfëmijën Seal për vete.
+Dialogue: 0,0:17:54.54,0:17:56.18,Default,HANA,0,0,0,,Uf, ai është i neveritshëm.
+Dialogue: 0,0:17:56.18,0:17:59.39,Default,HANA,0,0,0,,Më mirë t'i japim atij\Nbudallait një mësim nëse e gjejmë.
+Dialogue: 0,0:17:59.68,0:18:02.13,italics,GLASSES BANDIT/ID,0,0,0,,Ajo vërtet e urren atë.
+Dialogue: 0,0:18:05.93,0:18:07.64,Default,OFFICIAL C,0,0,0,,Presidenti është këtu.
+Dialogue: 0,0:18:22.29,0:18:24.58,Default,PRESIDENT,0,0,0,,A është të gjithë këtu?
+Dialogue: 0,0:18:24.86,0:18:26.35,Default,GLASSES BANDIT,0,0,0,,Tadera mungon.
+Dialogue: 0,0:18:27.01,0:18:28.49,Default,PRESIDENT,0,0,0,,S'është çudi.
+Dialogue: 0,0:18:28.91,0:18:30.29,Default,SHIZUKU,0,0,0,,Mirëmbrëma.
+Dialogue: 0,0:18:30.72,0:18:32.17,Default,KAGARI,0,0,0,,Mirë të të shoh përsëri.
+Dialogue: 0,0:18:32.76,0:18:35.30,Default,DERA,0,0,0,,Hej, është një mesazh nga Jiro.
+Dialogue: 0,0:18:34.09,0:18:36.58,sign_generic,SIGN,0,0,0,,{\an7\pos(86,95)\3c&HF0EDE9&\c&H5D5C5B&}daemonët e presidentit mirë
+Dialogue: 0,0:18:35.30,0:18:36.57,Default,YURU,0,0,0,,President?
+Dialogue: 0,0:18:36.95,0:18:40.41,Default,DERA,0,0,0,,Ai është lideri i agjentëve të Fshatit\NHigashi këtu poshtë.
+Dialogue: 0,0:18:40.41,0:18:44.70,Default,DERA,0,0,0,,Ai është ai që na cakton punën,\Nprandaj preferoj të mos luftoj me të,
+Dialogue: 0,0:18:44.70,0:18:47.35,Default,DERA,0,0,0,,por ai gjithashtu dëshiron të\Nmarrë Break dhe Seal
+Dialogue: 0,0:18:47.35,0:18:50.23,Default,DERA,0,0,0,,që Fshati Higashi të\Nmarrë kontrollin e botës.
+Dialogue: 0,0:18:51.34,0:18:58.12,Default,PRESIDENT,0,0,0,,Dëgjova se Tadera Ryu ka marrë Yurun\Ndhe është fshehur, varrmihës.
+Dialogue: 0,0:18:58.12,0:19:00.29,Default,HANA,0,0,0,,Po, me sa duket.
+Dialogue: 0,0:19:00.63,0:19:03.06,Default,PRESIDENT,0,0,0,,Nuk ke dëgjuar nga ai?
+Dialogue: 0,0:19:03.06,0:19:05.51,Default,HANA,0,0,0,,Siç u thashë banditëve,
+Dialogue: 0,0:19:05.51,0:19:07.51,Default,HANA,0,0,0,,sapo solla Yuru-kun nga mali
+Dialogue: 0,0:19:07.51,0:19:09.87,Default,HANA,0,0,0,,dhe i lashë\Nafër vendit të Dera-san.
+Dialogue: 0,0:19:09.87,0:19:11.54,Default,HANA,0,0,0,,Nuk kam dëgjuar nga ata që atëherë.
+Dialogue: 0,0:19:11.82,0:19:17.44,Default,OFFICIAL D,0,0,0,,Pse nuk na tregove që nxore\NYurun nga fshati?
+Dialogue: 0,0:19:17.44,0:19:20.67,Default,OFFICIAL D,0,0,0,,Është mirë që mësuam\Npër këtë përmes shamanit.
+Dialogue: 0,0:19:20.67,0:19:25.05,Default,OFFICIAL D,0,0,0,,Pothuajse nuk mësuam për\Nsulmin mbi Fshatin Higashi.
+Dialogue: 0,0:19:25.05,0:19:26.71,Default,HANA,0,0,0,,Hej, mos më fajëso!
+Dialogue: 0,0:19:27.14,0:19:29.88,Default,HANA,0,0,0,,Dera-san nuk më tha asgjë as mua!
+Dialogue: 0,0:19:29.88,0:19:31.43,Default,PRESIDENT,0,0,0,,E drejtë.
+Dialogue: 0,0:19:31.90,0:19:36.49,Default,PRESIDENT,0,0,0,,Fshati Higashi është në kaos\Npasi sulmuan Kagemorët,
+Dialogue: 0,0:19:36.49,0:19:41.51,Default,PRESIDENT,0,0,0,,Asa është me Kagemorët dhe\Nka marrë tashmë Break,
+Dialogue: 0,0:19:41.51,0:19:43.98,Default,PRESIDENT,0,0,0,,dhe Yuru është këtu poshtë.
+Dialogue: 0,0:19:43.98,0:19:46.31,Default,PRESIDENT,0,0,0,,Banditët pothuajse u fshinë.
+Dialogue: 0,0:19:46.31,0:19:48.75,Default,PRESIDENT,0,0,0,,Shamani dhe Tadera janë zhdukur.
+Dialogue: 0,0:19:48.75,0:19:54.75,Default,PRESIDENT,0,0,0,,Pothuajse të gjithë ata që dinin rrugën përmes\Nbarrierës së Fshatit Higashi janë zhdukur,
+Dialogue: 0,0:19:54.75,0:20:00.75,Default,PRESIDENT,0,0,0,,që do të thotë se pritja e udhëzimeve\Nnga gjyshja Yamaha do të na ngadalësojë.
+Dialogue: 0,0:20:02.69,0:20:08.08,Default,PRESIDENT,0,0,0,,Tani e tutje, unë duhet\Ntë marr komandën këtu poshtë.
+Dialogue: 0,0:20:08.51,0:20:10.26,sign_generic,SIGN,0,0,0,,{\an7\pos(86,95)\3c&HF0EDE9&\c&H5D5C5B&}qëllime të fshehta të presidentit
+Dialogue: 0,0:20:08.76,0:20:10.26,Default,YURU,0,0,0,,Qëllime të fshehta?
+Dialogue: 0,0:20:10.26,0:20:13.16,Default,DERA,0,0,0,,Hë? Çfarë? Për Hana-chan?
+Dialogue: 0,0:20:13.16,0:20:15.69,Default,DERA,0,0,0,,Ajo do ta vriste atë të shthurur!
+Dialogue: 0,0:20:14.26,0:20:16.52,sign_generic,SIGN,0,0,0,,{\an7\pos(86,95)\3c&HF0EDE9&\c&H5D5C5B&}dëshiron të marrë kontrollin e fshatit higashi
+Dialogue: 0,0:20:15.69,0:20:20.78,Default,DERA,0,0,0,,Ah, atë lloj qëllimi të fshehtë. Uf.
+Dialogue: 0,0:20:20.78,0:20:25.62,Default,PRESIDENT,0,0,0,,Së pari, gjeni Taderën dhe gjurmoni Yurun.
+Dialogue: 0,0:20:25.62,0:20:26.77,Default,OFFICIAL A,0,0,0,,Po nëse reziston?
+Dialogue: 0,0:20:27.08,0:20:31.16,Default,OFFICIAL D,0,0,0,,Nuk ka Daemonë. Mund\Nt'i hedhim thjesht Daemonë luftarakë.
+Dialogue: 0,0:20:32.16,0:20:33.32,Default,HANA,0,0,0,,Jiro?
+Dialogue: 0,0:20:33.96,0:20:35.28,Default,HANA,0,0,0,,Çfarë është ajo?
+Dialogue: 0,0:20:41.27,0:20:44.18,Default,GLASSES BANDIT,0,0,0,,Ata nuk janë...\Nobjekte potencialisht të rrezikshme.
+Dialogue: 0,0:20:44.50,0:20:47.42,Default,GLASSES BANDIT,0,0,0,,A janë këto relike Daemonësh?
+Dialogue: 0,0:20:47.42,0:20:48.71,Default,SHIZUKU,0,0,0,,Ata janë Daemonë.
+Dialogue: 0,0:20:49.03,0:20:53.41,Default,KAGARI,0,0,0,,Janë aktivë.\NNdjejmë shpirtra brenda tyre.
+Dialogue: 0,0:20:53.95,0:20:55.93,Default,HANA,0,0,0,,Daemonët e kujt janë këta?
+Dialogue: 0,0:20:55.93,0:20:58.29,Default,PRESIDENT,0,0,0,,Çfarë po bënin këtu?
+Dialogue: 0,0:20:58.29,0:20:59.34,Default,HANA,0,0,0,,Kush e di?
+Dialogue: 0,0:20:59.34,0:21:01.31,Default,OFFICIAL A,0,0,0,,Dikush të bëjë kontratë me ta.
+Dialogue: 0,0:21:22.97,0:21:26.60,sign_generic,,0,0,0,,{\fade(1,387)\fs15\an7\bord1.25\c&H241EAF&\3c&HBEC0E4&\b1}Përktheu:\N{\fs18}Sho Stifler\N\N{\fs15}Kohëmatësi:\N{\fs18}Edgar Cruz\N\N{\fs15}Redaktori:\N{\fs18}Salem Alabanza\N\N{\fs15}Kontrolli i cilësisë:\N{\fs18}Gabriella Alabanza\N\N{\fs15}Kontrolli final i cilësisë:\N{\fs18}Michelle Tymon
+Dialogue: 0,0:22:45.75,0:22:52.05,Default,GONZO,0,0,0,,Ka dikush që infekton reliket\Ne Daemonëve dhe i shpërthen?
+Dialogue: 0,0:22:52.05,0:22:53.43,Default,FUYUKI,0,0,0,,Dini gjë?
+Dialogue: 0,0:22:53.43,0:22:56.82,Default,WHISPER,0,0,0,,Nuk kam informacion\Npër dikë të tillë.
+Dialogue: 0,0:22:56.82,0:22:59.64,Default,JIN,0,0,0,,Një Daemon i panjohur për ne?
+Dialogue: 0,0:23:00.00,0:23:04.89,Default,JIN,0,0,0,,Le të kontrollojnë të gjithë në rezidencë\Nnëse Daemonët e tyre janë infektuar.
+Dialogue: 0,0:23:05.18,0:23:08.39,Default,HARUO,0,0,0,,Bunbun mendon se mund të jetë\Nnjë Daemon nga Perëndimi.
+Dialogue: 0,0:23:09.12,0:23:10.51,Default,GONZO,0,0,0,,Perëndimi?
+Dialogue: 0,0:23:11.10,0:23:13.90,Default,GONZO,0,0,0,,Perëndimi? Ndoshta...
+Dialogue: 0,0:23:13.90,0:23:16.67,Default,GONZO,0,0,0,,Jo, nuk mund të jetë.
+Dialogue: 0,0:23:17.27,0:23:22.04,Default,GONZO,0,0,0,,Fshati Nishino u shkatërrua.\NNdodhet në fund të një rezervuari.
+Dialogue: 0,0:23:30.93,0:23:36.96,sign_generic,SIGN,0,0,0,,{\c&H090907&\3c&H4A4644&\fnGeorgia\b1\an8\fade(600,1)}Fshati Nishino
+

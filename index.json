@@ -648,6 +648,20 @@
       "assFile": "ass/at-689748.sq.ass",
       "offset": 0,
       "sourceReleaseId": "689748"
+    },
+    {
+      "id": "at-689726",
+      "title": "Daemons of the Shadow Realm",
+      "episode": "24",
+      "malId": 62001,
+      "anilistId": 195600,
+      "slugs": [
+        "daemons-of-the-shadow-realm-hxj32"
+      ],
+      "file": "files/at-689726.sq.vtt",
+      "assFile": "ass/at-689726.sq.ass",
+      "offset": 0,
+      "sourceReleaseId": "689726"
     }
   ]
 }
