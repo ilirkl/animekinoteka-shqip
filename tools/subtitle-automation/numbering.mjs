@@ -180,7 +180,27 @@ function honzukiS4(parsed) {
   };
 }
 
-const RULES = [samuraiTroopers, onePiece, toukutsuOu, reZero, smokingBehindTheSupermarket, kaijuGirlCaramelise, bungoStrayDogsWan2, linkClickS3, honzukiS4];
+// Disambiguation only -- the episode number is carried through unchanged.
+// SubsPlease releases the ongoing series as "Detective Conan", while Anikoto files it as
+// "Case Closed"; searching returns movies and specials that likewise score 1. The ongoing
+// run is the only candidate that numbers episodes in the thousands.
+function detectiveConan(parsed) {
+  const episode = Number(parsed.episode);
+  if (parsed.title !== 'Detective Conan' ||
+      (parsed.season !== null && parsed.season !== 1) ||
+      !Number.isInteger(episode) || episode < 1000) return null;
+  return {
+    slug:'case-closed-w8ehk',
+    title:'Case Closed',
+    malId:235,
+    episode:String(episode),
+    sourceEpisode:String(episode),
+    sourceTitle:parsed.title,
+    evidence:'https://anikototv.to/watch/case-closed-w8ehk'
+  };
+}
+
+const RULES = [samuraiTroopers, onePiece, toukutsuOu, reZero, smokingBehindTheSupermarket, kaijuGirlCaramelise, bungoStrayDogsWan2, linkClickS3, honzukiS4, detectiveConan];
 
 export function knownNumbering(parsed) {
   for (const rule of RULES) {
