@@ -1,0 +1,412 @@
+﻿[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
+Style: Q0,Arial,27,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q1,Roboto Medium,52,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: Q2,Arial,21,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q3,Roboto Medium,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: Q4,Roboto Medium,35,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: Q5,Arial,27,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q6,Roboto Medium,52,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: Q7,Arial,27,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:05.00,0:00:08.42,Q1,,0,0,0,,Absurde! Nuk mund të\Npranonim kurrë paqe me elfët!
+Dialogue: 1,0:00:08.54,0:00:13.04,Q1,,0,0,0,,Po, mirë, letra që na dërguan\Npo kërkonte një "kthim në diplomaci".
+Dialogue: 1,0:00:13.25,0:00:17.04,Q1,,0,0,0,,Ata hoqën dorë të parët\Nkur i dëbuan njerëzit tanë nga vendi!
+Dialogue: 1,0:00:17.38,0:00:19.88,Q1,,0,0,0,,Ky është thjesht një nga skemat e tyre tinëzare.
+Dialogue: 1,0:00:20.08,0:00:25.50,Q1,,0,0,0,,Pikërisht. Ata duan vetëm të na mbajnë të nënshtruar e nën kontroll\Npara se të rifitojmë shumë nga fuqia jonë!
+Dialogue: 1,0:00:26.21,0:00:28.92,Q1,,0,0,0,,Do t'u japim vetëm\Nnjë mundësi për të na shtypur edhe më shumë.
+Dialogue: 1,0:00:28.92,0:00:30.17,Q1,,0,0,0,,Ndoshta, por...
+Dialogue: 1,0:00:35.79,0:00:37.04,Q1,,0,0,0,,Madhëri.
+Dialogue: 1,0:00:37.67,0:00:38.79,Q1,,0,0,0,,Shh.
+Dialogue: 1,0:00:40.83,0:00:45.13,Q1,,0,0,0,,O, Princi Olbaas. Është në gjumë të thellë.
+Dialogue: 1,0:00:45.63,0:00:51.58,Q1,,0,0,0,,Mendoja se pjesëmarrja në këshillin e pleqve\Ndo ta ndihmonte të formohej si udhëheqësi i ardhshëm i popullit tonë,
+Dialogue: 1,0:00:52.13,0:00:53.75,Q1,,0,0,0,,por thjesht e lodhi.
+Dialogue: 1,0:00:54.96,0:00:56.96,Q1,,0,0,0,,Do ta çoj në dhomat e tij.
+Dialogue: 1,0:00:57.46,0:00:58.04,Q1,,0,0,0,,Faleminderit.
+Dialogue: 1,0:01:22.13,0:01:23.63,Q1,,0,0,0,,Pa, pa, pa...
+Dialogue: 1,0:01:23.63,0:01:26.96,Q1,,0,0,0,,Po e kapërcejmë lamtumirën me familjen, apo jo?
+Dialogue: 1,0:01:27.50,0:01:29.29,Q1,,0,0,0,,Çfarë do të mendonte fëmija yt?
+Dialogue: 1,0:01:30.00,0:01:31.25,Q1,,0,0,0,,Nuk ka rëndësi.
+Dialogue: 1,0:01:31.25,0:01:34.42,Q1,,0,0,0,,Hmm. E shoh që zemra jote është vendosur për këtë.
+Dialogue: 1,0:01:34.71,0:01:35.71,Q1,,0,0,0,,Sigurisht.
+Dialogue: 1,0:01:36.58,0:01:38.25,Q1,,0,0,0,,Nga kjo marrëveshje fitoj fuqi, apo jo?
+Dialogue: 1,0:01:38.83,0:01:41.29,Q1,,0,0,0,,Fuqi të mjaftueshme për ta bërë ëndrrën time realitet.
+Dialogue: 1,0:01:41.67,0:01:42.96,Q1,,0,0,0,,Absolutisht.
+Dialogue: 1,0:01:44.13,0:01:45.83,Q1,,0,0,0,,Ashtu siç u premtua.
+Dialogue: 1,0:03:36.58,0:03:38.17,Q1,,0,0,0,,Nuk kam ngrënë ushqim elfësh prej vitesh!
+Dialogue: 1,0:03:38.33,0:03:39.42,Q1,,0,0,0,,Është më i miri!
+Dialogue: 1,0:03:40.00,0:03:45.33,Q1,,0,0,0,,Oh vërtet? Do të thuash nuk je kthyer këtu\Nqë kur more ato unazat e rikuperimit të MP?
+Dialogue: 1,0:03:45.33,0:03:46.25,Q1,,0,0,0,,Ashtu është.
+Dialogue: 1,0:03:46.58,0:03:50.46,Q1,,0,0,0,,Fitova një ftesë në Rohzenheim\Npasi shpëtova ushtrinë elfësh nga një situatë e vështirë.
+Dialogue: 1,0:03:50.88,0:03:53.13,Q1,,0,0,0,,Ne ende e vlerësojmë atë që bëre atëherë.
+Dialogue: 1,0:03:53.38,0:03:55.79,Q1,,0,0,0,,Dhe të falënderojmë që po na ndihmon edhe tani.
+Dialogue: 1,0:03:55.92,0:03:57.13,Q1,,0,0,0,,Mos e përmend!
+Dialogue: 1,0:03:57.38,0:04:01.63,Q1,,0,0,0,,Jam këtu vetëm si i huazuar, sepse një dhelpër dinake\Ni lëvizi fijet, në fund të fundit.
+Dialogue: 1,0:04:03.54,0:04:06.50,Q1,,0,0,0,,Ky njeri, betohem. Çfarë heroi mban inat?
+Dialogue: 1,0:04:07.29,0:04:11.17,Q1,,0,0,0,,U shqetësova kur dëgjova për herë të parë\Nse ju kishin dërguar të gjithë në Rohzenheim.
+Dialogue: 1,0:04:11.17,0:04:12.38,Q1,,0,0,0,,Pse kjo?
+Dialogue: 1,0:04:12.71,0:04:15.88,Q1,,0,0,0,,Sepse e kisha matur tashmë forcën tuaj\Nnë turnamentin e Akademisë.
+Dialogue: 1,0:04:16.17,0:04:20.46,Q1,,0,0,0,,Jam i habitur që nuk humbët asnjë anëtar partie\Nme vetëm një Mjeshtër Shpate si fuqinë tuaj të vetme.
+Dialogue: 1,0:04:20.46,0:04:24.00,Q1,,0,0,0,,Si është zakonisht partia juaj, Z. Helmios?
+Dialogue: 1,0:04:24.33,0:04:26.17,Q1,,0,0,0,,Kam rreth 10 anëtarë.
+Dialogue: 1,0:04:26.71,0:04:30.71,Q1,,0,0,0,,Kryesisht Shenjtorë të Mëdhenj,\NKryemagjistarë dhe Mjeshtër Shpate.
+Dialogue: 1,0:04:31.13,0:04:32.75,Q1,,0,0,0,,E pra partia më e mirë!
+Dialogue: 1,0:04:33.00,0:04:35.67,Q1,,0,0,0,,Pra është ndërtuar kryesisht rreth klasave me 3 yje.
+Dialogue: 1,0:04:36.13,0:04:40.75,Q1,,0,0,0,,Çuditërisht. Gjithmonë mendoja se\Npartia e Heroit kishte shumë më tepër njerëz.
+Dialogue: 1,0:04:41.04,0:04:45.75,Q1,,0,0,0,,Personalisht, e kam më të lehtë dhe më efikase\Ntë punoj me një grup më të vogël luftëtarësh elitarë.
+Dialogue: 1,0:04:46.17,0:04:50.25,Q1,,0,0,0,,Edhe nëse dikush vdes, Perandoria\Nka një sistem për të dërguar një zëvendësues.
+Dialogue: 1,0:04:50.25,0:04:51.96,Q1,,0,0,0,,Një zëvendësues...?
+Dialogue: 1,0:04:52.67,0:04:54.42,Q1,,0,0,0,,Ata vdesin në betejë, hë?
+Dialogue: 1,0:04:54.83,0:04:57.75,Q1,,0,0,0,,Gjërat duhet të jenë po aq keq\Nnë frontet e Perandorisë.
+Dialogue: 1,0:04:58.13,0:05:01.25,Q1,,0,0,0,,Epo, arrita të stabilizoja\Npjesën më të madhe të betejave atje.
+Dialogue: 1,0:05:01.67,0:05:04.42,Q1,,0,0,0,,Tani për tani, hyjnia demonike\Nnë Rohzenheim është kërcënimi më i madh.
+Dialogue: 1,0:05:04.96,0:05:07.83,Q1,,0,0,0,,Gjithsesi, kjo nuk do të jetë si\Nturnamenti i arteve marciale.
+Dialogue: 1,0:05:08.33,0:05:11.00,Q1,,0,0,0,,Më mashtrove\Nditën e provimeve të pranimit,
+Dialogue: 1,0:05:11.33,0:05:14.67,Q1,,0,0,0,,ndaj këtë herë dua të shoh gjithçka\Nqë mund të ofrojnë fuqitë e tua të Thirrësit.
+Dialogue: 1,0:05:15.50,0:05:17.83,Q1,,0,0,0,,Eh, po ma mban edhe këtë inat?
+Dialogue: 1,0:05:18.63,0:05:19.88,Q1,,0,0,0,,Sigurisht që po.
+Dialogue: 1,0:05:19.88,0:05:20.42,Q1,,0,0,0,,Oh?
+Dialogue: 1,0:05:20.67,0:05:23.33,Q1,,0,0,0,,Nuk do të kurseja kurrë një aleat që më mbron shpinën!
+Dialogue: 1,0:05:23.50,0:05:25.92,Q1,,0,0,0,,Por do të shohësh vetëm Aftësitë\Nqë më duhen në betejë.
+Dialogue: 1,0:05:26.96,0:05:27.92,Q1,,0,0,0,,Thirrje!
+Dialogue: 1,0:05:31.29,0:05:33.92,Q1,,0,0,0,,Është gjithmonë e çuditshme t'i shohësh nga afër.
+Dialogue: 1,0:05:34.46,0:05:36.92,Q1,,0,0,0,,Mund të thërras gjithsej 70 krijesa\Ntë ngjashme me këto.
+Dialogue: 1,0:05:37.29,0:05:39.50,Q1,,0,0,0,,Wow, bukur. E kuptoj si është.
+Dialogue: 1,0:05:40.13,0:05:44.46,Q1,,0,0,0,,Ti u frenove plotësisht kundër meje\Ngjatë përplasjes në Akademi, hë?
+Dialogue: 1,0:05:45.21,0:05:46.71,Q1,,0,0,0,,Por s'ka problem.
+Dialogue: 1,0:05:47.17,0:05:51.50,Q1,,0,0,0,,Në rregull. Plani është që unë dhe Allen\Nta luftojmë hyjninë demonike vetëm.
+Dialogue: 1,0:05:51.50,0:05:52.08,Q1,,0,0,0,,Dakord?
+Dialogue: 1,0:05:52.21,0:05:52.71,Q1,,0,0,0,,Hë?
+Dialogue: 1,0:05:52.71,0:05:54.58,Q1,,0,0,0,,Çfarë? Si funksionon kjo?!
+Dialogue: 1,0:05:54.83,0:05:56.13,Q1,,0,0,0,,Pse nuk po luftojmë?
+Dialogue: 1,0:05:56.38,0:05:58.58,Q1,,0,0,0,,Dua të them, ju thjesht do të pengonit.
+Dialogue: 1,0:05:58.71,0:05:59.50,Q1,,0,0,0,,Oo...
+Dialogue: 1,0:06:00.04,0:06:04.38,Q1,,0,0,0,,Këto krijesa të thirrura janë më të forta se kushdo prej jush\Ndhe mund të shërohen vetë.
+Dialogue: 1,0:06:04.67,0:06:06.83,Q1,,0,0,0,,Janë si të kishe një mini-ushtri.
+Dialogue: 1,0:06:07.54,0:06:11.50,Q1,,0,0,0,,Pra formacioni më i mirë i parties që kemi është:\NUnë, Allen dhe thirrjet e tij.
+Dialogue: 1,0:06:11.79,0:06:12.88,Q1,,0,0,0,,Kjo nuk është e drejtë...
+Dialogue: 1,0:06:13.58,0:06:17.83,Q1,,0,0,0,,Shoh se keni kaluar çdo Provë të Perëndive.\NPajisjet tuaja janë gjithashtu të shkëlqyera.
+Dialogue: 1,0:06:18.50,0:06:21.63,Q1,,0,0,0,,Vlerësoj përpjekjet tuaja\Nnë mundjen e atyre gjashtë milionë monstrave,
+Dialogue: 1,0:06:21.63,0:06:23.96,Q1,,0,0,0,,por të gjithë e dimë se nuk do ta kishit arritur pa Allen.
+Dialogue: 1,0:06:24.46,0:06:27.79,Q1,,0,0,0,,Për më tepër, Mjeshtri juaj i Shpatës nuk e\Nzotëron plotësisht Aftësinë e saj Extra.
+Dialogue: 1,0:06:28.00,0:06:28.96,Q1,,0,0,0,,Aç...
+Dialogue: 1,0:06:29.21,0:06:31.75,Q1,,0,0,0,,Pjesa tjetër prej jush nuk kanë Talente\Nmjaftueshëm të fortë për të bërë ndryshim.
+Dialogue: 1,0:06:32.25,0:06:34.25,Q1,,0,0,0,,Më besoni kur them se është më mirë të rrini.
+Dialogue: 1,0:06:34.92,0:06:36.25,Q1,,0,0,0,,Lëreni ne ta trajtojmë këtë.
+Dialogue: 1,0:06:36.79,0:06:37.63,Q1,,0,0,0,,Allen?
+Dialogue: 1,0:06:38.21,0:06:41.96,Q1,,0,0,0,,Z. Helmios është përballur me\Npesë hyjni demonike në të kaluarën,
+Dialogue: 1,0:06:42.21,0:06:44.33,Q1,,0,0,0,,por edhe ai arriti të mundë vetëm dy prej tyre.
+Dialogue: 1,0:06:44.63,0:06:47.29,Q1,,0,0,0,,Më keq, humbi shumë aleatë në proces.
+Dialogue: 1,0:06:48.83,0:06:51.21,Q1,,0,0,0,,Për të mbajtur shpresat lart,\Npubliku nuk i dëgjon kurrë të vërtetat e plota,
+Dialogue: 1,0:06:51.63,0:06:54.38,Q1,,0,0,0,,por realiteti është se edhe\Npartia e Heroit humbet ndonjëherë.
+Dialogue: 1,0:06:55.00,0:06:58.79,Q1,,0,0,0,,Shanset tona për të mundur Rehzelin janë vetëm 50%,\Nedhe me Z. Helmios në krahun tonë.
+Dialogue: 1,0:06:59.46,0:07:02.96,Q1,,0,0,0,,Dhe nëse Rehzel rezulton të jetë një Hyjni e Madhe,\Natëherë ka gjasa të jemi të dënuar.
+Dialogue: 1,0:07:03.79,0:07:07.58,Q1,,0,0,0,,Pra, ju lë juve të vendosni\Nnëse do të bashkoheni në betejë apo jo.
+Dialogue: 1,0:07:08.00,0:07:10.50,Q1,,0,0,0,,Humbja do të thotë se të gjithë vdesin...
+Dialogue: 1,0:07:11.08,0:07:12.46,Q1,,0,0,0,,Mos bëj budallallëqe, Krena.
+Dialogue: 1,0:07:13.42,0:07:15.21,Q1,,0,0,0,,Kur gjërat duken keq, ikim me vrap.
+Dialogue: 1,0:07:15.21,0:07:18.08,Q1,,0,0,0,,Humbja nuk të vret për sa kohë\Nikën para se të jetë vonë!
+Dialogue: 1,0:07:18.46,0:07:19.08,Q1,,0,0,0,,Hë?
+Dialogue: 1,0:07:19.08,0:07:20.21,Q1,,0,0,0,,Oo, dreq...
+Dialogue: 1,0:07:20.54,0:07:25.29,Q1,,0,0,0,,Në atë rast, elfët fatkeqësisht\Ndo të duhet të presin disa vjet për të marrë kryeqytetin mbrapsht.
+Dialogue: 1,0:07:25.46,0:07:28.71,Q1,,0,0,0,,Mendoj se ikja është zgjedhje e mençur,\Npor pse të presësh disa vjet?
+Dialogue: 1,0:07:28.71,0:07:31.88,Q1,,0,0,0,,Sepse dështimi do të thotë të stërvitemi shumë\Nqë të fitojmë herën tjetër.
+Dialogue: 1,0:07:32.04,0:07:33.08,Q1,,0,0,0,,A nuk është e qartë?
+Dialogue: 1,0:07:34.58,0:07:40.79,Q1,,0,0,0,,Betohem, truri yt është lidhur në mënyrën më të çuditshme.\NPor hej, kjo është sigurisht më mirë se vdekja!
+Dialogue: 1,0:07:41.54,0:07:43.08,Q1,,0,0,0,,Pra, çfarë thoni?
+Dialogue: 1,0:07:43.46,0:07:45.88,Q1,,0,0,0,,Do t'ju bashkohem, sigurisht.
+Dialogue: 1,0:07:45.88,0:07:47.88,Q1,,0,0,0,,Nuk do ta lë Z. Allen të përballet vetëm!
+Dialogue: 1,0:07:47.88,0:07:48.88,Q1,,0,0,0,,Edhe unë.
+Dialogue: 1,0:07:48.88,0:07:50.58,Q1,,0,0,0,,Dua të luftoj krah për krah me Allenin!
+Dialogue: 1,0:07:50.58,0:07:51.46,Q1,,0,0,0,,Edhe unë brenda.
+Dialogue: 1,0:07:51.46,0:07:52.29,Q1,,0,0,0,,Edhe unë!
+Dialogue: 1,0:07:52.96,0:07:54.54,Q1,,0,0,0,,Një bandë kryeneçësh të rinj.
+Dialogue: 1,0:07:55.21,0:07:58.46,Q1,,0,0,0,,Epo, nuk mund t'i lë shokët e mi\Ntë varen duke vdekur këtu, gjithashtu.
+Dialogue: 1,0:07:58.88,0:08:02.38,Q1,,0,0,0,,Pra po lutem që Aftësitë tuaja Extra\Ntë na ndihmojnë ta realizojmë këtë.
+Dialogue: 1,0:08:03.21,0:08:04.13,Q1,,0,0,0,,Z. Allen.
+Dialogue: 1,0:08:05.21,0:08:09.42,Q1,,0,0,0,,Siç e dini, gjithmonë e kam mbajtur Aftësinë time Extra\Nnë rezervë për shkak të detyrës sime
+Dialogue: 1,0:08:09.83,0:08:11.88,Q1,,0,0,0,,për të mbrojtur Princeshën Sophialohne nga rreziku.
+Dialogue: 1,0:08:12.54,0:08:16.13,Q1,,0,0,0,,Megjithatë, kjo është një betejë ku mund të llogarisni\Nmbi të si pjesë të strategjisë tuaj!
+Dialogue: 1,0:08:16.54,0:08:18.00,Q1,,0,0,0,,Oo, Volmaar!
+Dialogue: 1,0:08:18.00,0:08:20.13,Q1,,0,0,0,,Në rregull. E pranoj.
+Dialogue: 1,0:08:20.96,0:08:24.08,Q1,,0,0,0,,Kjo do të thotë se Dogora është i vetmi\Nqë nuk sjell një Aftësi Extra në tavolinë.
+Dialogue: 1,0:08:24.21,0:08:25.88,Q1,,0,0,0,,Mos më ngacmo, njeri!
+Dialogue: 1,0:08:26.21,0:08:29.08,Q1,,0,0,0,,Prit, Përdoruesi juaj i Sëpatës nuk mund të aktivizojë Aftësinë e tij Extra?
+Dialogue: 1,0:08:29.50,0:08:32.88,Q1,,0,0,0,,Tani jam edhe më i habitur që mbijetuat kaq gjatë\Nme këta të dy si pararojën tuaj.
+Dialogue: 1,0:08:32.88,0:08:33.92,Q1,,0,0,0,,Epo, më falni!
+Dialogue: 1,0:08:34.33,0:08:36.96,Q1,,0,0,0,,Nuk ke as besnikëri as lidhje me Rohzenheim.
+Dialogue: 1,0:08:37.17,0:08:38.88,Q1,,0,0,0,,Pse e hedh veten në këtë betejë?
+Dialogue: 1,0:08:39.58,0:08:40.50,Q1,,0,0,0,,Do të përfundosh i vdekur.
+Dialogue: 1,0:08:40.71,0:08:44.17,Q1,,0,0,0,,Sepse miqtë e mi po shkojnë!\NKjo është e gjithë arsyeja që më duhet, dreqin!
+Dialogue: 1,0:08:44.50,0:08:45.54,Q1,,0,0,0,,Mirë, atëherë.
+Dialogue: 1,0:08:46.04,0:08:48.38,Q1,,0,0,0,,Pse nuk bëjmë një ndeshje stërvitore?
+Dialogue: 1,0:08:49.08,0:08:51.79,Q1,,0,0,0,,Do të të tregoj sa pak vlejnë fjalët e tua të bukura\Nnë fushëbetejë.
+Dialogue: 1,0:08:52.75,0:08:54.21,Q1,,0,0,0,,Silleni sa të duash!
+Dialogue: 1,0:09:01.83,0:09:03.79,Q1,,0,0,0,,Aftësia ime Extra nuk po funksionon...
+Dialogue: 1,0:09:03.79,0:09:06.21,Q1,,0,0,0,,Mund ta bësh, Krena! Mos u dorëzo!
+Dialogue: 1,0:09:06.21,0:09:08.96,Q1,,0,0,0,,Nuk ka asgjë të keqe\Ntë ruash pozicionin, Dogora.
+Dialogue: 1,0:09:09.21,0:09:10.08,Q1,,0,0,0,,Hesht!
+Dialogue: 1,0:09:10.29,0:09:12.04,Q1,,0,0,0,,Do të shkoj dhe kaq!
+Dialogue: 1,0:09:12.63,0:09:15.58,Q1,,0,0,0,,Sulmet e mia nuk mjaftojnë? Mirë! Thjesht do të jem mburojë mishi!
+Dialogue: 1,0:09:15.71,0:09:17.25,Q1,,0,0,0,,Askush nuk po ma merr vendin!
+Dialogue: 1,0:09:17.63,0:09:19.04,Q1,,0,0,0,,Në rregull, të dëgjuam.
+Dialogue: 1,0:09:21.00,0:09:22.63,Q1,,0,0,0,,Bëjmë edhe një raund!
+Dialogue: 1,0:09:22.63,0:09:23.79,Q1,,0,0,0,,Ashtu si tha ai!
+Dialogue: 1,0:09:24.13,0:09:28.71,Q1,,0,0,0,,Uf. Në rregull, e di më mirë\Nsesa të luftoj një argument të humbur.
+Dialogue: 1,0:09:28.71,0:09:29.96,Q1,,0,0,0,,Po, more!
+Dialogue: 1,0:09:30.63,0:09:32.79,Q1,,0,0,0,,Pra, të vazhdojmë stërvitjen?
+Dialogue: 1,0:09:33.08,0:09:35.96,Q1,,0,0,0,,Jo. Strategjia jonë është plotësisht e përpunuar.
+Dialogue: 1,0:09:36.38,0:09:38.88,Q1,,0,0,0,,Nisemi për në Fortenia nesër.
+Dialogue: 1,0:09:45.33,0:09:46.92,Q1,,0,0,0,,Nuk të duhem të vij?
+Dialogue: 1,0:09:47.13,0:09:51.58,Q1,,0,0,0,,Jo. Do të dëshiroja të qëndrosh këtu\Nnë rast se diçka shkon keq.
+Dialogue: 1,0:09:52.29,0:09:55.63,Q1,,0,0,0,,Volmaar dhe unë do të luftojmë në emër të popullit elfish.
+Dialogue: 1,0:09:55.83,0:09:57.63,Q1,,0,0,0,,Po llogarisim mbi ty, Sophie.
+Dialogue: 1,0:09:58.21,0:09:59.17,Q1,,0,0,0,,Madhëria Juaj.
+Dialogue: 1,0:09:59.75,0:10:04.63,Q1,,0,0,0,,Ka një shans të mirë që Fortenia\Ntë shkatërrohet në këtë betejë; a jeni në rregull me këtë?
+Dialogue: 1,0:10:04.92,0:10:05.96,Q1,,0,0,0,,Sigurisht.
+Dialogue: 1,0:10:06.58,0:10:09.00,Q1,,0,0,0,,Ia vlen të shmangësh katastrofën më të madhe.
+Dialogue: 1,0:10:09.38,0:10:11.21,Q1,,0,0,0,,Atëherë nuk do të kursejmë asgjë.
+Dialogue: 1,0:10:12.50,0:10:14.42,Q1,,0,0,0,,Qofshin shpëtimtarët heroikë të kombit tonë...
+Dialogue: 1,0:10:14.58,0:10:16.75,Q1,,0,0,0,,të bekuar nga Sovrani i Shpirtrave.
+Dialogue: 1,0:10:21.17,0:10:22.38,Q1,,0,0,0,,Faleminderit!
+Dialogue: 1,0:10:23.33,0:10:24.79,Q1,,0,0,0,,Nisemi! Lamtumirë për tani!
+Dialogue: 1,0:10:24.79,0:10:25.54,Q1,,0,0,0,,Lamtumirë për tani!
+Dialogue: 1,0:10:25.54,0:10:26.54,Q3,,0,0,0,,Lamtumirë për tani!
+Dialogue: 1,0:10:26.54,0:10:27.29,Q4,,0,0,0,,Lamtumirë për tani!
+Dialogue: 1,0:10:29.83,0:10:31.71,Q1,,0,0,0,,Uau!
+Dialogue: 1,0:10:31.96,0:10:33.58,Q1,,0,0,0,,Është gjigante!
+Dialogue: 1,0:10:33.58,0:10:35.25,Q1,,0,0,0,,Ajo duhet të jetë Pema e Botës.
+Dialogue: 1,0:10:35.50,0:10:37.21,Q1,,0,0,0,,Çfarë qyteti i bukur.
+Dialogue: 1,0:10:37.21,0:10:37.96,Q1,,0,0,0,,Është!
+Dialogue: 1,0:10:38.54,0:10:40.04,Q1,,0,0,0,,Asnjë shpirt përreth.
+Dialogue: 1,0:10:40.42,0:10:44.71,Q1,,0,0,0,,Po. E dinim se nuk kishte elfë këtu,\Npor mungesa e monstrave është e çuditshme.
+Dialogue: 1,0:10:45.13,0:10:47.83,Q1,,0,0,0,,Këtu ndahesh ti, Volmaar.
+Dialogue: 1,0:10:47.83,0:10:48.46,Q1,,0,0,0,,E drejtë.
+Dialogue: 1,0:10:48.88,0:10:50.75,Q1,,0,0,0,,Të lutem, mbaje Princeshën Sophialohne të sigurt.
+Dialogue: 1,0:11:06.67,0:11:08.58,Q1,,0,0,0,,Është koha që ata të shfaqen.
+Dialogue: 1,0:11:21.17,0:11:22.17,Q1,,0,0,0,,Gjashtë prej tyre?
+Dialogue: 1,0:11:22.75,0:11:26.21,Q1,,0,0,0,,Djaloshi me flokë të errët. Ti je i Çliruari, apo jo?
+Dialogue: 1,0:11:26.63,0:11:28.71,Q1,,0,0,0,,Le të shoh nëse mund t'i zemëroj.
+Dialogue: 1,0:11:29.17,0:11:32.92,Q1,,0,0,0,,Po! Dhe jam këtu të të copëtoj,\Nhyjni demonike Rehzel!
+Dialogue: 1,0:11:33.17,0:11:34.92,Q1,,0,0,0,,Fortenia nuk është më e jotja!
+Dialogue: 1,0:11:36.54,0:11:39.58,Q1,,0,0,0,,Është mjaft qesharake ta dëgjosh këtë\Nnga një njeri i ulët.
+Dialogue: 1,0:11:40.17,0:11:43.08,Q1,,0,0,0,,A të vunë elfët ta bësh këtë\Nme historinë e tyre prekëse dhe lotët e rremë?
+Dialogue: 1,0:11:43.58,0:11:45.46,Q1,,0,0,0,,Më vjen keq për injorancën tënde.
+Dialogue: 1,0:11:47.08,0:11:48.42,Q1,,0,0,0,,Mendon se jam një budalla?
+Dialogue: 1,0:11:48.54,0:11:50.33,Q1,,0,0,0,,Di shumë, Rehzel!
+Dialogue: 1,0:11:51.08,0:11:53.54,Q1,,0,0,0,,Përfshirë faktin se ti je një elf i errët!
+Dialogue: 1,0:11:58.71,0:11:59.50,Q1,,0,0,0,,Oh?
+Dialogue: 1,0:11:59.79,0:12:00.67,Q1,,0,0,0,,Bingo!
+Dialogue: 1,0:12:01.13,0:12:04.00,Q1,,0,0,0,,Ju jeni fiksuar pas Pemës së Botës\Npër më shumë se një mijë vjet.
+Dialogue: 1,0:12:04.00,0:12:05.96,Q1,,0,0,0,,Çfarë obsesivësh të çmendur!
+Dialogue: 1,0:12:06.13,0:12:09.29,Q1,,0,0,0,,Fatkeqësisht, po ia ktheni\Nelfëve sot, o plak.
+Dialogue: 1,0:12:09.46,0:12:11.00,Q1,,0,0,0,,"Po ia kthejmë", thua?
+Dialogue: 1,0:12:12.92,0:12:15.54,Q1,,0,0,0,,Pema e Botës ka qenë gjithmonë e jona që në fillim!
+Dialogue: 1,0:12:15.83,0:12:17.83,Q1,,0,0,0,,Më në fund u kthye në duart e duhura!
+Dialogue: 1,0:12:18.00,0:12:19.63,Q1,,0,0,0,,Dhe askush nuk do të na e marrë përsëri!
+Dialogue: 1,0:12:20.04,0:12:21.46,Q1,,0,0,0,,Për çfarë po flet?!
+Dialogue: 1,0:12:21.63,0:12:24.08,Q1,,0,0,0,,Pema e Botës ishte fillimisht nën kujdesin e elfëve!
+Dialogue: 1,0:12:24.29,0:12:26.46,Q1,,0,0,0,,Ah, ti je një elf i lartë. I familjes mbretërore, supozoj?
+Dialogue: 1,0:12:26.75,0:12:33.42,Q1,,0,0,0,,Pasardhësit e Priftëreshës së Lutjes\Nthjesht e rishkruan historinë në favorin e tyre.
+Dialogue: 1,0:12:33.54,0:12:34.75,Q1,,0,0,0,,Kjo është absurde!
+Dialogue: 1,0:12:35.54,0:12:38.46,Q1,,0,0,0,,Të dyja palët kanë një kuptim\Nshumë të ndryshëm të historisë, me sa duket.
+Dialogue: 1,0:12:38.71,0:12:39.54,Q1,,0,0,0,,Por s'ka rëndësi!
+Dialogue: 1,0:12:39.96,0:12:43.25,Q1,,0,0,0,,Pavarësisht rrethanave,\Nkjo nuk justifikon faktin se
+Dialogue: 1,0:12:43.25,0:12:46.63,Q1,,0,0,0,,ju marshuat këtu me një ushtri monstrash\Ndhe masakruat mijëra elfë!
+Dialogue: 1,0:12:47.04,0:12:49.54,Q1,,0,0,0,,Çfarë do të bësh për këtë?
+Dialogue: 1,0:12:49.71,0:12:52.08,Q1,,0,0,0,,T'i jap fund mbretërimit tënd të terrorit!
+Dialogue: 1,0:12:52.42,0:12:54.42,Q1,,0,0,0,,Do të godas i pari! Thirrje e Shpejtë!
+Dialogue: 1,0:12:56.17,0:12:57.00,Q1,,0,0,0,,Rekrutim.
+Dialogue: 1,0:12:59.63,0:13:00.92,Q1,,0,0,0,,Provoje këtë!
+Dialogue: 1,0:13:01.29,0:13:02.13,Q1,,0,0,0,,Drago!
+Dialogue: 1,0:13:02.38,0:13:03.42,Q1,,0,0,0,,Po!
+Dialogue: 1,0:13:04.13,0:13:06.25,Q1,,0,0,0,,Zjarri i Zemërimit!
+Dialogue: 1,0:13:07.96,0:13:08.67,Q1,,0,0,0,,Shërim!
+Dialogue: 1,0:13:09.71,0:13:10.63,Q1,,0,0,0,,Kjo nuk mund të jetë!
+Dialogue: 1,0:13:17.50,0:13:19.42,Q1,,0,0,0,,Ai shpërtheu tempullin...
+Dialogue: 1,0:13:19.67,0:13:20.83,Q1,,0,0,0,,Mos u shqetëso.
+Dialogue: 1,0:13:24.83,0:13:26.92,Q1,,0,0,0,,E vrau Neftirën me një sulm, hë?
+Dialogue: 1,0:13:27.21,0:13:29.29,Q1,,0,0,0,,Asnjë gërvishtje nuk i la?!
+Dialogue: 1,0:13:29.54,0:13:30.33,Q1,,0,0,0,,Drago!
+Dialogue: 1,0:13:36.25,0:13:37.38,Q1,,0,0,0,,Grushi i tij është kaq i fortë?!
+Dialogue: 1,0:13:37.79,0:13:40.21,Q1,,0,0,0,,As skuadra ime Bron me Protect nuk shpëtoi.
+Dialogue: 1,0:13:40.96,0:13:44.29,Q1,,0,0,0,,Helmios tha se edhe fuqitë e tij heroike\Nnuk mund t'i shihnin statistikat e hyjnive demonike,
+Dialogue: 1,0:13:44.63,0:13:46.63,Q1,,0,0,0,,por po ju garantoj se ky tip është të paktën 30 000!
+Dialogue: 1,0:13:47.00,0:13:50.50,Q1,,0,0,0,,Vetëm një sulm në nivelin e\NAftësisë Extra të Heroit do ta lëndojë.
+Dialogue: 1,0:13:50.96,0:13:52.04,Q1,,0,0,0,,Nuk kam zgjidhje!
+Dialogue: 1,0:13:52.42,0:13:55.08,Q1,,0,0,0,,Krena, Dogora! Ai është krejt vetëm! Jepini!
+Dialogue: 1,0:13:55.29,0:13:56.04,Q1,,0,0,0,,Në rregull!
+Dialogue: 1,0:13:55.29,0:13:56.04,Q6,,0,0,0,,Dakord!
+Dialogue: 1,0:14:05.58,0:14:08.25,Q1,,0,0,0,,Më theu brinjët... është tepër i fortë!
+Dialogue: 1,0:14:08.71,0:14:11.46,Q1,,0,0,0,,Huh. Habitem që kjo nuk të vrau.
+Dialogue: 1,0:14:12.08,0:14:14.96,Q1,,0,0,0,,Mos e humb kohën dhe më jep më të mirën tënde.
+Dialogue: 1,0:14:16.75,0:14:17.46,Q1,,0,0,0,,Graviteti!
+Dialogue: 1,0:14:17.83,0:14:20.08,Q1,,0,0,0,,Zjarri i Zemërimit!
+Dialogue: 1,0:14:22.38,0:14:24.63,Q1,,0,0,0,,Kjo është shansi ynë më i mirë, sa është i shpërqendruar!
+Dialogue: 1,0:14:25.00,0:14:26.50,Q1,,0,0,0,,Krena! Është radha jote!
+Dialogue: 1,0:14:26.75,0:14:27.58,Q1,,0,0,0,,E mora vesh!
+Dialogue: 1,0:14:28.04,0:14:29.71,Q1,,0,0,0,,Thyerje Kufiri!
+Dialogue: 1,0:14:32.46,0:14:34.17,Q1,,0,0,0,,Më në fund, ata hapin portën.
+Dialogue: 1,0:14:34.46,0:14:35.96,Q1,,0,0,0,,Bëje tani, Volmaar!
+Dialogue: 1,0:14:36.42,0:14:39.04,Q1,,0,0,0,,Aftësi Extra: Illumillion!
+Dialogue: 1,0:14:46.33,0:14:48.96,Q1,,0,0,0,,Bukur! Të dy e goditën atje ku është më i pambrojtur!
+Dialogue: 1,0:14:49.42,0:14:52.33,Q1,,0,0,0,,Po pyesja veten se ku e kishe vendosur\Nanëtarin tënd të shtatë.
+Dialogue: 1,0:14:52.88,0:14:55.38,Q1,,0,0,0,,Fatkeqësisht, taktikat tuaja janë fëminore dhe të cekëta.
+Dialogue: 1,0:14:59.00,0:14:59.83,Q1,,0,0,0,,Krena!
+Dialogue: 1,0:14:59.83,0:15:01.83,Q1,,0,0,0,,Sikur ajo të mund t'i përdorte Aftësitë!
+Dialogue: 1,0:15:03.25,0:15:04.67,Q1,,0,0,0,,Një derr për therje.
+Dialogue: 1,0:15:09.46,0:15:11.13,Q1,,0,0,0,,Zhduku, mizë e bezdisshme.
+Dialogue: 1,0:15:12.13,0:15:13.17,Q1,,0,0,0,,Po përdor një magji!
+Dialogue: 1,0:15:14.25,0:15:16.54,Q1,,0,0,0,,Ose prit... Mendoj se jo?
+Dialogue: 1,0:15:17.79,0:15:18.96,Q1,,0,0,0,,Dreqin.
+Dialogue: 1,0:15:19.25,0:15:21.63,Q1,,0,0,0,,Ende nuk mund t'i përdorja Aftësitë e mia!
+Dialogue: 1,0:15:23.58,0:15:25.67,Q1,,0,0,0,,E mbyllët tashmë Portën tuaj Extra?
+Dialogue: 1,0:15:26.13,0:15:29.08,Q1,,0,0,0,,Jeni thjesht budallenj që qëndrojnë të pafuqishëm\Npara portave të fuqisë.
+Dialogue: 1,0:15:29.58,0:15:31.96,Q1,,0,0,0,,Po mërzitem, djalosh i Çliruar!
+Dialogue: 1,0:15:32.38,0:15:33.71,Q1,,0,0,0,,I Çliruar?
+Dialogue: 1,0:15:34.08,0:15:34.96,Q1,,0,0,0,,Ashtu është.
+Dialogue: 1,0:15:35.29,0:15:39.00,Q1,,0,0,0,,Vetëm ata që mund t'i hapin dhe t'i kapërcejnë\Nportat e fuqisë konsiderohen të Çliruar.
+Dialogue: 1,0:15:39.46,0:15:41.79,Q1,,0,0,0,,Të tillë si ti dhe unë!
+Dialogue: 1,0:15:42.08,0:15:44.75,Q1,,0,0,0,,Krena është dikush që "qëndron para portës"?
+Dialogue: 1,0:15:45.71,0:15:46.75,Q1,,0,0,0,,Prit një sekondë...
+Dialogue: 1,0:15:47.54,0:15:51.75,Q1,,0,0,0,,Kjo botë ka modalitete të ndryshme\Nsi Normal, Extra dhe Ferr.
+Dialogue: 1,0:15:52.21,0:15:55.17,Q1,,0,0,0,,Njerëzit në modalitetin Normal mund të përdorin një Aftësi "Extra"
+Dialogue: 1,0:15:55.17,0:15:57.83,Q1,,0,0,0,,për të lëshuar një sulm shumë të fuqishëm.
+Dialogue: 1,0:15:58.29,0:16:01.33,Q1,,0,0,0,,Nëse kam të drejtë, Aftësitë Extra po u mundësojnë atyre
+Dialogue: 1,0:16:01.33,0:16:04.25,Q1,,0,0,0,,të shfrytëzojnë përkohësisht fuqinë e Modalitetit Extra.
+Dialogue: 1,0:16:04.75,0:16:08.46,Q1,,0,0,0,,Dhe nëse "të Çliruarit" janë njerëz\Nqë kanë akses të vazhdueshëm në atë fuqi,
+Dialogue: 1,0:16:08.79,0:16:12.08,Q1,,0,0,0,,duhet të thotë se po luajnë në Modalitetin Extra!
+Dialogue: 1,0:16:12.83,0:16:17.17,Q1,,0,0,0,,Meqë Rehzel është një nga të Çliruarit,\Ndo të thotë se është një elf i errët që arriti në Modalitetin Extra.
+Dialogue: 1,0:16:18.04,0:16:20.08,Q1,,0,0,0,,Atëherë, është e mundur?
+Dialogue: 1,0:16:20.83,0:16:25.17,Q1,,0,0,0,,Ka një mënyrë që miqtë e mi në Modalitetin Normal\Ntë kalojnë në Modalitetin Extra?
+Dialogue: 1,0:16:26.08,0:16:27.17,Q1,,0,0,0,,Shtiza e Flakës!
+Dialogue: 1,0:16:31.96,0:16:33.21,Q1,,0,0,0,,Çfarë bëjmë, Allen?!
+Dialogue: 1,0:16:34.29,0:16:35.88,Q1,,0,0,0,,Harro planin.
+Dialogue: 1,0:16:36.46,0:16:37.38,Q1,,0,0,0,,Ikim me vrap!
+Dialogue: 1,0:16:39.92,0:16:41.79,Q1,,0,0,0,,Çfarë turpi, djalosh i Çliruar.
+Dialogue: 1,0:16:42.00,0:16:45.29,Q1,,0,0,0,,Ishe thjesht tepër i nxituar duke më sfiduar.
+Dialogue: 1,0:16:46.42,0:16:49.04,Q1,,0,0,0,,Thua ti që e lë veten krejt të pambrojtur!
+Dialogue: 1,0:16:49.21,0:16:50.88,Q1,,0,0,0,,Kjo është arma jote sekrete?
+Dialogue: 1,0:16:53.63,0:16:54.54,Q1,,0,0,0,,Dreq!
+Dialogue: 1,0:16:54.79,0:16:56.92,Q1,,0,0,0,,Ke mbaruar truket, hë?
+Dialogue: 1,0:16:58.08,0:17:01.08,Q1,,0,0,0,,Po. Përdora gjithçka në arsenalin tim.
+Dialogue: 1,0:17:02.38,0:17:03.67,Q1,,0,0,0,,Përveç kësaj gjëje të fundit!
+Dialogue: 1,0:17:05.79,0:17:06.54,Q1,,0,0,0,,E pamundur!
+Dialogue: 1,0:17:07.00,0:17:07.83,Q1,,0,0,0,,Heroi?!
+Dialogue: 1,0:17:07.83,0:17:09.54,Q1,,0,0,0,,Çfarë po bën këtu?!
+Dialogue: 1,0:17:10.13,0:17:11.79,Q1,,0,0,0,,Të të vras, qartësisht!
+Dialogue: 1,0:17:12.38,0:17:14.75,Q1,,0,0,0,,Shpata e Shenjtë!
+Dialogue: 1,0:17:24.71,0:17:25.83,Q1,,0,0,0,,Funksionoi!
+Dialogue: 1,0:17:26.04,0:17:27.38,Q1,,0,0,0,,Z. Helmios!
+Dialogue: 1,0:17:27.67,0:17:29.25,Q1,,0,0,0,,Ha këtë!
+Dialogue: 1,0:17:27.67,0:17:29.25,Q6,,0,0,0,,Në rregull!
+Dialogue: 1,0:17:29.75,0:17:32.25,Q1,,0,0,0,,Faleminderit për ndihmën, Z. Helmios.
+Dialogue: 1,0:17:32.25,0:17:34.00,Q1,,0,0,0,,Ti je ai që bëri planin.
+Dialogue: 1,0:17:34.33,0:17:36.96,Q1,,0,0,0,,Por dreqin, a do të vdisje të më jepte një punë më të lehtë?
+Dialogue: 1,0:17:37.29,0:17:40.75,Q1,,0,0,0,,Epo, e dija se Shpata e Shenjtë\Nishte shansi ynë i vetëm i vërtetë për të fituar.
+Dialogue: 1,0:17:41.08,0:17:44.08,Q1,,0,0,0,,Lëre partinë tënde të dobët të ushqejë\Nvetëbesimin e tij derisa ta godas nga pas.
+Dialogue: 1,0:17:44.42,0:17:45.96,Q1,,0,0,0,,Plani funksionoi si magji.
+Dialogue: 1,0:17:46.54,0:17:49.42,Q1,,0,0,0,,Gëzohem që arritëm ta mundim\Npara se gjërat të dilnin nga kontrolli.
+Dialogue: 1,0:17:49.88,0:17:51.42,Q1,,0,0,0,,Ju bëtë punë të shkëlqyer duke qëndruar!
+Dialogue: 1,0:17:52.88,0:17:53.79,Q1,,0,0,0,,Nuk ishte asgjë.
+Dialogue: 1,0:17:54.00,0:17:56.96,Q1,,0,0,0,,Në rregull, nxito dhe vëre në gjumë të përjetshëm!
+Dialogue: 1,0:17:56.96,0:18:00.13,Q1,,0,0,0,,Hë? Por unë tashmë e shpova në zemër.
+Dialogue: 1,0:18:00.25,0:18:02.38,Q1,,0,0,0,,Çuditshëm, libri im i magjisë nuk thotë asgjë...
+Dialogue: 1,0:18:06.13,0:18:09.96,Q1,,0,0,0,,E pranoj, nuk e prisja që Heroi\Ntë më sulmonte.
+Dialogue: 1,0:18:10.63,0:18:11.96,Q1,,0,0,0,,Lëvizje brilante.
+Dialogue: 1,0:18:12.67,0:18:16.33,Q1,,0,0,0,,Ai sulm ishte mjaft i fortë\Npër të shkatërruar një nga zemrat e mia.
+Dialogue: 1,0:18:18.33,0:18:20.71,Q1,,0,0,0,,Po më thua se ky njeri ka shumë zemra?!
+Dialogue: 1,0:18:21.13,0:18:23.79,Q1,,0,0,0,,Nuk është mirë. Shpata e Shenjtë është vetëm një herë në ditë!
+Dialogue: 1,0:18:24.83,0:18:27.00,Q1,,0,0,0,,Çfarë ka? Mbarove tashmë?
+Dialogue: 1,0:18:27.88,0:18:29.88,Q1,,0,0,0,,Atëherë, shijoje këtë.
+Dialogue: 1,0:18:33.00,0:18:39.54,Q1,,0,0,0,,Braktisa shtëpinë time, popullin tim,\Ndhe madje familjen time për të marrë këtë fuqi supreme!
+Dialogue: 1,0:18:46.50,0:18:48.96,Q1,,0,0,0,,Uh-oh, mund të jemi në telashe!
+Dialogue: 1,0:18:53.88,0:18:55.08,Q1,,0,0,0,,Shërim i Plotë!
+Dialogue: 1,0:18:57.50,0:18:59.92,Q1,,0,0,0,,Ju kafshë të ndyra nuk do ta keni kurrë Pemën e Botës.
+Dialogue: 1,0:19:00.33,0:19:02.71,Q1,,0,0,0,,Do t'ju masakroj të gjithë pa përjashtim!
+Dialogue: 1,0:19:03.00,0:19:04.17,Q1,,0,0,0,,Shkoni, skuadra Drago!
+Dialogue: 1,0:19:11.96,0:19:15.25,Q1,,0,0,0,,Thirrjet e mia nuk mund të bëjnë gjë\Npërveçse të na blejnë disa sekonda kohe!
+Dialogue: 1,0:19:15.88,0:19:16.79,Q1,,0,0,0,,Z. Hero!
+Dialogue: 1,0:19:17.21,0:19:19.29,Q1,,0,0,0,,Sulmet e tua nuk vlejnë asgjë kundër tij tani.
+Dialogue: 1,0:19:19.71,0:19:20.58,Q1,,0,0,0,,Thjesht tërhiqhu.
+Dialogue: 1,0:19:21.21,0:19:22.38,Q1,,0,0,0,,Tehu i Feniksit!
+Dialogue: 1,0:19:33.17,0:19:34.08,Q1,,0,0,0,,Volmaar!
+Dialogue: 1,0:19:34.46,0:19:36.63,Q1,,0,0,0,,Sophie! Përdor Elementarin e Madh!
+Dialogue: 1,0:19:36.71,0:19:42.79,Q1,,0,0,0,,M-Më falni, Z. Allen! Tashmë po\Npërpiqem ta përdor, por diçka nuk shkon!
+Dialogue: 1,0:19:42.96,0:19:43.67,Q1,,0,0,0,,Hë?
+Dialogue: 1,0:19:43.67,0:19:47.21,Q1,,0,0,0,,Koha më e keqe e mundshme. Kjo është e keqe! Shumë e keqe!
+Dialogue: 1,0:19:47.63,0:19:49.71,Q1,,0,0,0,,Rehzel nuk ka përdorur asnjë magji.
+Dialogue: 1,0:19:49.71,0:19:51.33,Q1,,0,0,0,,Jemi të dënuar kur ta bëjë!
+Dialogue: 1,0:19:51.71,0:19:54.00,Q1,,0,0,0,,Në rregull, koha për të kafshuar plumbin.
+Dialogue: 1,0:19:54.96,0:19:56.46,Q1,,0,0,0,,Hej, hyjni demonike Rehzel!
+Dialogue: 1,0:19:57.13,0:19:59.58,Q1,,0,0,0,,Lufton si një lopë me mbipeshë!
+Dialogue: 1,0:19:59.58,0:20:02.29,Q1,,0,0,0,,Më lër të të tregoj si bëhet vërtet!
+Dialogue: 1,0:20:02.63,0:20:05.50,Q1,,0,0,0,,Ngjitu këtu dhe lufto me mua, i Çliruar kundër të Çliruarit!
+Dialogue: 1,0:20:05.79,0:20:06.75,Q1,,0,0,0,,Oh?
+Dialogue: 1,0:20:07.29,0:20:08.54,Q1,,0,0,0,,Z. Allen?!
+Dialogue: 1,0:20:08.71,0:20:10.71,Q1,,0,0,0,,Prit, e humba këtë pjesë të planit?
+Dialogue: 1,0:20:11.17,0:20:12.21,Q1,,0,0,0,,Oh jo...
+Dialogue: 1,0:20:12.46,0:20:13.42,Q1,,0,0,0,,Jam pikërisht këtu, Rehzel!
+Dialogue: 1,0:20:13.42,0:20:14.50,Q1,,0,0,0,,Mos guxo, Allen!
+Dialogue: 1,0:20:14.63,0:20:16.54,Q1,,0,0,0,,Kjo më përshtatet mua!
+Dialogue: 1,0:20:16.54,0:20:18.00,Q1,,0,0,0,,Po! Po hedh një magji!
+Dialogue: 1,0:20:18.38,0:20:22.71,Q1,,0,0,0,,Do të më kushtojë jetën,\Npor të paktën mund të siguroj që miqtë e mi të shpëtojnë!
+Dialogue: 1,0:20:23.33,0:20:24.88,Q1,,0,0,0,,Delegim: Pasqyrë!
+Dialogue: 1,0:20:31.71,0:20:34.17,Q1,,0,0,0,,Mendon se nuk e di se mund të pasqyrojë magji?
+Dialogue: 1,0:20:34.46,0:20:37.17,Q1,,0,0,0,,Oh, dreq! Ma lexoi si libër të hapur!
+Dialogue: 1,0:20:48.96,0:20:50.92,Q1,,0,0,0,,Griff, duhet ta ndihmojmë Allenin!
+Dialogue: 1,0:20:51.42,0:20:53.50,Q1,,0,0,0,,Griff! Pse nuk më dëgjon?!
+Dialogue: 1,0:20:53.88,0:20:55.00,Q1,,0,0,0,,Z. Helmios.
+Dialogue: 1,0:20:55.33,0:20:57.42,Q1,,0,0,0,,Mjeshtër Allen do t'ju fitojë kohë.
+Dialogue: 1,0:20:57.88,0:20:59.63,Q1,,0,0,0,,Merr të gjithë dhe ik nga këtu.
+Dialogue: 1,0:20:59.79,0:21:00.46,Q1,,0,0,0,,Hë?
+Dialogue: 1,0:21:01.17,0:21:02.58,Q1,,0,0,0,,Oh, pra ky është plani i tij.
+Dialogue: 1,0:21:02.96,0:21:05.29,Q1,,0,0,0,,Por nuk mendoj se shefi yt e mendoi mirë këtë.
+Dialogue: 1,0:21:03.29,0:21:04.46,Q6,,0,0,0,,Shtiza e Flakës!
+Dialogue: 1,0:21:05.71,0:21:08.79,Q1,,0,0,0,,Miqtë e tij nuk do të pajtohen me këtë, sido që të jetë.
+Dialogue: 1,0:21:05.71,0:21:07.25,Q6,,0,0,0,,Mbaje, budalla!
+Dialogue: 1,0:21:07.25,0:21:08.79,Q6,,0,0,0,,Më lër të shkoj!
+Dialogue: 1,0:21:09.71,0:21:11.04,Q1,,0,0,0,,As unë!
+Dialogue: 1,0:21:12.50,0:21:14.83,Q1,,0,0,0,,Allen! E di se je ende gjallë!
+Dialogue: 1,0:21:15.08,0:21:16.50,Q1,,0,0,0,,Budalla kryeneç!
+Dialogue: 1,0:21:17.08,0:21:20.13,Q1,,0,0,0,,Gjithmonë bën marrëzira, njeri!
+Dialogue: 1,0:21:20.79,0:21:23.21,Q1,,0,0,0,,Me atë fytyrën tënde të vetëkënaqur çdo herë...
+Dialogue: 1,0:21:23.83,0:21:27.54,Q1,,0,0,0,,Të shoh sa i fortë dhe i zgjuar je... më çmendte!
+Dialogue: 1,0:21:30.54,0:21:35.67,Q1,,0,0,0,,Por më dhe një qëllim për të synuar\Ndhe kështu arrita kaq larg!
+Dialogue: 1,0:21:36.88,0:21:37.54,Q1,,0,0,0,,Allen!
+Dialogue: 1,0:21:38.50,0:21:40.25,Q1,,0,0,0,,Më fal, Dogora.
+Dialogue: 1,0:21:42.67,0:21:44.08,Q1,,0,0,0,,Jo, më lër mua të kërkoj falje.
+Dialogue: 1,0:21:44.29,0:21:45.00,Q1,,0,0,0,,Hë?
+Dialogue: 1,0:21:45.42,0:21:48.08,Q1,,0,0,0,,Të duhet të më bësh një nder\Ndhe t'u thuash njerëzve të mi në shtëpi...
+Dialogue: 1,0:21:48.92,0:21:50.29,Q1,,0,0,0,,se më vjen keq që nuk i pashë më.
+Dialogue: 1,0:21:50.58,0:21:52.46,Q1,,0,0,0,,Hej! Mos nënshkruaj dënimin tënd me vdekje!
+Dialogue: 1,0:21:52.46,0:21:53.75,Q1,,0,0,0,,Dëmtues këmbëngulës.
+Dialogue: 1,0:21:54.58,0:21:56.38,Q1,,0,0,0,,Vdis, djalosh me flokë të errët!
+Dialogue: 1,0:21:59.42,0:22:00.42,Q1,,0,0,0,,Dogora!
+Dialogue: 1,0:22:03.38,0:22:06.04,Q1,,0,0,0,,GËLLTITE KËTË!
+Dialogue: 1,0:22:06.33,0:22:08.42,Q1,,0,0,0,,FLAKË E PLOTË!
+Dialogue: 1,0:22:08.42,0:22:09.13,Q1,,0,0,0,,FLAKË E PLOTË!
+Dialogue: 1,0:22:09.13,0:22:10.04,Q3,,0,0,0,,FLAKË E PLOTË!
+Dialogue: 1,0:22:10.04,0:22:10.83,Q4,,0,0,0,,FLAKË E PLOTË!
+Dialogue: 0,0:00:01.00,0:00:04.67,Q0,,0,0,0,,{\pos(537.6,590.4)}{\an7}1 000 VJET MË PARË
+Dialogue: 0,0:03:33.17,0:03:37.79,Q2,,0,0,0,,{\pos(102.4,604.8)}{\an7}EPISODI 24: AFTËSIA EXTRA
+Dialogue: 0,0:08:59.67,0:09:02.38,Q0,,0,0,0,,{\pos(1011.2,108)}{\an7}3 DITË MË VONË
+Dialogue: 0,0:11:10.00,0:11:14.00,Q5,,0,0,0,,{\pos(230.4,439.2)}{\an7}LOJTARI HARDCORE DOMINON
+Dialogue: 0,0:11:10.00,0:11:14.00,Q5,,0,0,0,,{\pos(640,504)}{\an7}NË NJË BOTË TJETËR ME CILËSIME TË PRISHURA
+Dialogue: 0,0:15:47.29,0:15:52.21,Q7,,0,0,0,,{\pos(256,136.8)}{\an7}MODALITETI FERR
+Dialogue: 0,0:15:47.29,0:15:52.21,Q7,,0,0,0,,{\pos(243.2,259.2)}{\an7}MODALITETI EXTRA
+Dialogue: 0,0:15:47.29,0:15:52.21,Q7,,0,0,0,,{\pos(217.6,388.8)}{\an7}MODALITETI NORMAL
+Dialogue: 0,0:15:52.21,0:16:04.67,Q7,,0,0,0,,{\pos(179.2,115.2)}{\an7}MODALITETI EXTRA
+Dialogue: 0,0:15:52.21,0:16:04.67,Q7,,0,0,0,,{\pos(934.4,540)}{\an7}MODALITETI NORMAL
+

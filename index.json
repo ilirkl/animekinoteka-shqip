@@ -676,6 +676,20 @@
       "assFile": "ass/at-689693.sq.ass",
       "offset": 0,
       "sourceReleaseId": "689693"
+    },
+    {
+      "id": "at-689452",
+      "title": "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season",
+      "episode": "12",
+      "malId": 63817,
+      "anilistId": 209983,
+      "slugs": [
+        "hell-mode-yarikomi-zuki-no-gamer-wa-haisettei-no-isekai-de-musou-suru-2nd-season"
+      ],
+      "file": "files/at-689452.sq.vtt",
+      "assFile": "ass/at-689452.sq.ass",
+      "offset": 0,
+      "sourceReleaseId": "689452"
     }
   ]
 }
