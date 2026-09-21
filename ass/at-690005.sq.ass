@@ -1,0 +1,349 @@
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+PlayResX: 640
+PlayResY: 360
+ScaledBorderAndShadow: yes
+Title: English (US)
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: TopLeft,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,7,20,20,23,1
+Style: TopCenter,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: TopRight,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,9,20,20,23,1
+Style: CenterLeft,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,4,20,20,23,1
+Style: CenterCenter,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,5,20,20,23,1
+Style: CenterRight,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,6,20,20,23,1
+Style: BottomLeft,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,1,20,20,23,1
+Style: BottomCenter,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: BottomRight,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,3,20,20,23,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.00,0:00:06.71,BottomCenter,,0,0,0,,Z. Atobe, kur do të\Nniseni për në Distriktin 7?
+Dialogue: 0,0:00:06.79,0:00:11.13,BottomCenter,,0,0,0,,Dua të nisem sapo\Ntë përfundojë përforcimi i pajisjeve.
+Dialogue: 0,0:00:11.21,0:00:12.79,BottomCenter,,0,0,0,,E kuptoj...
+Dialogue: 0,0:00:12.88,0:00:17.21,BottomCenter,,0,0,0,,Të kalohesh në një distrikt tjetër do të thotë\Ntë themi lamtumirë, hë?
+Dialogue: 0,0:00:17.29,0:00:18.83,BottomCenter,,0,0,0,,Është mendim i trishtë...
+Dialogue: 0,0:00:20.54,0:00:21.54,BottomCenter,,0,0,0,,Thuaj...
+Dialogue: 0,0:00:21.63,0:00:25.33,BottomCenter,,0,0,0,,Nëse nuk të prish punë,
+Dialogue: 0,0:00:25.42,0:00:29.75,BottomCenter,,0,0,0,,a mund të vazhdoj të kujdesem për partinë tuaj\Nedhe pasi të kaloni në Distriktin 7?
+Dialogue: 0,0:00:30.08,0:00:32.21,BottomCenter,,0,0,0,,A është e mundur?
+Dialogue: 0,0:00:33.13,0:00:37.00,BottomCenter,,0,0,0,,Stafi i gildës lejohet të lëvizë\Nmidis gildave të ndryshme.
+Dialogue: 0,0:00:37.08,0:00:42.04,BottomCenter,,0,0,0,,Atëherë, patjetër. Do të donim\Ntë vazhdonim punën me ju, Louisa-san.
+Dialogue: 0,0:00:42.79,0:00:43.83,BottomCenter,,0,0,0,,Sigurisht!
+Dialogue: 0,0:00:46.08,0:00:47.25,BottomCenter,,0,0,0,,Hyni.
+Dialogue: 0,0:00:49.63,0:00:51.25,BottomCenter,,0,0,0,,Seraphina-san?
+Dialogue: 0,0:00:51.54,0:00:55.67,BottomCenter,,0,0,0,,Erdha t'ju falënderoj përsëri për\Nndihmën në shpëtimin e atyre Kërkuesve,
+Dialogue: 0,0:00:55.75,0:01:00.13,BottomCenter,,0,0,0,,dhe t'ju jap këtë juve dhe partisë tuaj.
+Dialogue: 0,0:01:00.21,0:01:02.00,BottomCenter,,0,0,0,,Ishulli i Iluzionit?
+Dialogue: 0,0:01:02.08,0:01:03.83,BottomCenter,,0,0,0,,O, sa e mrekullueshme!
+Dialogue: 0,0:01:03.92,0:01:07.63,BottomCenter,,0,0,0,,Ishulli i Iluzionit është një nga\Nstrehët që administron gilda.
+Dialogue: 0,0:01:07.71,0:01:09.83,BottomCenter,,0,0,0,,Është një labirint në\Nformën e një ishulli të vogël.
+Dialogue: 0,0:01:09.92,0:01:15.00,BottomCenter,,0,0,0,,Përbindëshat e tij rriten dhe\Nstërviten në disa objekte.
+Dialogue: 0,0:01:15.08,0:01:16.25,BottomCenter,,0,0,0,,Ah...
+Dialogue: 0,0:01:16.67,0:01:18.88,BottomCenter,,0,0,0,,Është një zonë shumë piktoreske.
+Dialogue: 0,0:01:18.96,0:01:21.88,BottomCenter,,0,0,0,,Duhet t'ju rigjallërojë të gjithëve\Ntrupin dhe mendjen.
+Dialogue: 0,0:01:21.96,0:01:23.83,BottomCenter,,0,0,0,,Nuk ka kufizime\Npër këtë vauçer.
+Dialogue: 0,0:01:23.92,0:01:26.58,BottomCenter,,0,0,0,,Partia juaj është e mirëpritur\Nta përdorë sa herë të doni.
+Dialogue: 0,0:01:26.67,0:01:28.92,BottomCenter,,0,0,0,,Sa herë të duam, hë?
+Dialogue: 0,0:01:29.83,0:01:34.50,BottomCenter,,0,0,0,,Tani që po mendoj, nuk kam pasur një ditë\Npushim që kur erdha në Vendin e Labirintit.
+Dialogue: 0,0:01:35.67,0:01:39.42,BottomCenter,,0,0,0,,Vërtet nuk ke marrë as\Nnjë ditë të vetme pushim gjithë këtë kohë?
+Dialogue: 0,0:01:39.50,0:01:40.63,BottomCenter,,0,0,0,,Ashtu është.
+Dialogue: 0,0:01:40.71,0:01:42.13,BottomCenter,,0,0,0,,Atobe Arihito.
+Dialogue: 0,0:01:42.96,0:01:47.54,BottomCenter,,0,0,0,,E kuptoj se rrethanat e çdo partie\Njanë të ndryshme, por...
+Dialogue: 0,0:01:49.63,0:01:52.17,BottomCenter,,0,0,0,,të lodhësh veten si kuaj pune
+Dialogue: 0,0:01:52.25,0:01:55.75,BottomCenter,,0,0,0,,do të konsumojë vetëm qëndrueshmërinë\Ndhe aftësinë mendore të partisë.
+Dialogue: 0,0:01:55.83,0:01:59.54,BottomCenter,,0,0,0,,Rregulli themelor për të qenë\NKërkues është të hash mirë, të pushosh mirë,
+Dialogue: 0,0:01:59.63,0:02:01.29,BottomCenter,,0,0,0,,dhe të jesh plotësisht i përgatitur.
+Dialogue: 0,0:02:01.58,0:02:06.33,BottomCenter,,0,0,0,,Sidomos të rinjtë premtues si ju,\Nduhet të pushojnë mjaftueshëm.
+Dialogue: 0,0:02:06.67,0:02:10.25,BottomCenter,,0,0,0,,Ke të drejtë. Të gjithë\Nmund të jenë goxha të lodhur.
+Dialogue: 0,0:02:12.46,0:02:13.63,BottomCenter,,0,0,0,,Në rregull.
+Dialogue: 0,0:02:13.96,0:02:16.21,BottomCenter,,0,0,0,,Atëherë, e pranoj me kënaqësi.
+Dialogue: 0,0:02:29.29,0:02:40.04,TopCenter,,0,0,0,,ROJA E PASME MË E FORTË NË BOTË
+Dialogue: 0,0:03:47.96,0:03:53.00,TopCenter,,0,0,0,,PËR TË ARDHMEN E VENDIT TË LABIRINTIT
+Dialogue: 0,0:03:58.58,0:04:01.71,BottomCenter,,0,0,0,,Uau! Kjo është e mrekullueshme!
+Dialogue: 0,0:04:01.79,0:04:04.92,BottomCenter,,0,0,0,,Nuk kam fjalë të tjera për këtë!
+Dialogue: 0,0:04:05.00,0:04:06.63,BottomCenter,,0,0,0,,Vërtet është.
+Dialogue: 0,0:04:06.71,0:04:08.58,BottomCenter,,0,0,0,,Meqë quhet strehë,
+Dialogue: 0,0:04:08.67,0:04:12.96,BottomCenter,,0,0,0,,po imagjinoja\Nnjë vilë të vogël të qetë apo diçka.
+Dialogue: 0,0:04:15.33,0:04:17.38,BottomCenter,,0,0,0,,A është vërtet në rregull kjo?
+Dialogue: 0,0:04:17.79,0:04:23.08,BottomCenter,,0,0,0,,Ndjehet sikur jemi të famshëm, që po marrim\Nnjë vend të tillë vetëm për ne!
+Dialogue: 0,0:04:24.54,0:04:26.04,BottomCenter,,0,0,0,,Është e pabesueshme!
+Dialogue: 0,0:04:27.54,0:04:29.46,BottomCenter,,0,0,0,,Çfarë ka, Arihito?
+Dialogue: 0,0:04:29.54,0:04:31.79,BottomCenter,,0,0,0,,Epo... nuk di si ta them...
+Dialogue: 0,0:04:32.08,0:04:34.67,BottomCenter,,0,0,0,,{\i1}Sinqerisht, nuk jam i sigurt ku{\i0}\N{\i1}është e sigurt të shikosh...{\i0}
+Dialogue: 0,0:04:37.88,0:04:40.38,BottomCenter,,0,0,0,,Është vërtet një vend i bukur, apo jo?
+Dialogue: 0,0:04:40.67,0:04:43.63,BottomCenter,,0,0,0,,Mendoj se do të marr pak\Nkohë për t'u relaksuar vetë.
+Dialogue: 0,0:04:43.71,0:04:46.75,BottomCenter,,0,0,0,,Oh, kanë edhe lëng\Ntropikal këtu.
+Dialogue: 0,0:04:46.83,0:04:48.08,BottomCenter,,0,0,0,,Lëng...
+Dialogue: 0,0:04:48.17,0:04:49.33,BottomCenter,,0,0,0,,Dua pak!
+Dialogue: 0,0:04:49.42,0:04:51.38,BottomCenter,,0,0,0,,Po ti, Znj. Kyouka?
+Dialogue: 0,0:04:51.46,0:04:55.71,BottomCenter,,0,0,0,,Oh, në fakt, ka një vend\Nqë do të doja ta shikoja.
+Dialogue: 0,0:04:55.79,0:04:59.33,BottomCenter,,0,0,0,,Atobe-kun, a do të të prishje punë të vije me mua?
+Dialogue: 0,0:05:00.71,0:05:03.79,BottomCenter,,0,0,0,,Pra vendi që doje\Ntë shikoje ishte...
+Dialogue: 0,0:05:03.88,0:05:05.29,BottomCenter,,0,0,0,,Po! Pikërisht këtu!
+Dialogue: 0,0:05:05.63,0:05:08.75,BottomCenter,,0,0,0,,Dëgjova se këtu rriten Coral Peigo.
+Dialogue: 0,0:05:09.46,0:05:11.71,BottomCenter,,0,0,0,,Oh! Atobe-kun, atje!
+Dialogue: 0,0:05:12.25,0:05:14.58,BottomCenter,,0,0,0,,Pra ata janë Coral Peigo...
+Dialogue: 0,0:05:14.67,0:05:16.79,BottomCenter,,0,0,0,,Duken si kukulla!
+Dialogue: 0,0:05:16.88,0:05:20.38,BottomCenter,,0,0,0,,Ke të drejtë. Por... janë\Npërbindësha, apo jo?
+Dialogue: 0,0:05:20.46,0:05:22.54,BottomCenter,,0,0,0,,Më lejoni të shpjegoj!
+Dialogue: 0,0:05:22.63,0:05:27.58,BottomCenter,,0,0,0,,Coral Peigo është përbindëshi që i ngjan\Nmë shumë një pinguini.
+Dialogue: 0,0:05:27.67,0:05:33.79,BottomCenter,,0,0,0,,Për sa kohë nuk i trembni, nuk\Npanikohen papritur apo nuk ju sulmojnë!
+Dialogue: 0,0:05:33.88,0:05:35.46,BottomCenter,,0,0,0,,Dhe e dini çfarë tjetër?!
+Dialogue: 0,0:05:35.54,0:05:39.79,BottomCenter,,0,0,0,,Mund t'u afroheni dhe madje\Nt'i ushqeni! Çfarë thoni?
+Dialogue: 0,0:05:42.25,0:05:43.75,BottomCenter,,0,0,0,,Të provojmë t'i ushqejmë?
+Dialogue: 0,0:05:52.46,0:05:54.33,BottomCenter,,0,0,0,,K-Kjo është kaq e lezetshme!
+Dialogue: 0,0:05:54.42,0:05:57.88,BottomCenter,,0,0,0,,Peshku që sapo hodhëm,\NTrofta Shpatë, është i preferuari i tyre,
+Dialogue: 0,0:05:57.96,0:06:00.63,BottomCenter,,0,0,0,,por hanë edhe karkaleca,\Ngaforre, madje edhe algë.
+Dialogue: 0,0:06:00.92,0:06:03.42,BottomCenter,,0,0,0,,Dhe siç mund ta merrni me mend nga emri,
+Dialogue: 0,0:06:03.50,0:06:06.58,BottomCenter,,0,0,0,,mund të hanë edhe gjëra të forta si koralet.
+Dialogue: 0,0:06:06.88,0:06:10.33,BottomCenter,,0,0,0,,Kam dëgjuar se pinguinët\Nnganjëherë hanë gurë.
+Dialogue: 0,0:06:10.42,0:06:11.96,BottomCenter,,0,0,0,,Pse kjo?
+Dialogue: 0,0:06:12.04,0:06:17.46,BottomCenter,,0,0,0,,Ka teori të ndryshme, por ne e dimë\Nsaktësisht pse Coral Peigo hanë koral.
+Dialogue: 0,0:06:17.54,0:06:21.21,BottomCenter,,0,0,0,,Ata krijojnë gurë magjikë\Nbrenda trupave të tyre
+Dialogue: 0,0:06:21.29,0:06:23.38,BottomCenter,,0,0,0,,dhe pastaj i lëshojnë si vezë.
+Dialogue: 0,0:06:23.46,0:06:28.42,BottomCenter,,0,0,0,,Kjo është vërtet diçka. A ka një\Nlloj të caktuar guri magjik që prodhojnë?
+Dialogue: 0,0:06:28.50,0:06:33.04,BottomCenter,,0,0,0,,Shumica e atyre këtu lëshojnë gurë baticë.
+Dialogue: 0,0:06:33.88,0:06:35.50,BottomCenter,,0,0,0,,Janë thjesht kaq të lezetshëm!
+Dialogue: 0,0:06:35.79,0:06:40.33,BottomCenter,,0,0,0,,A mund t'i mbajnë Kërkuesit e zakonshëm Coral Peigot?
+Dialogue: 0,0:06:40.42,0:06:42.54,BottomCenter,,0,0,0,,Na e pyesin shpesh këtë,
+Dialogue: 0,0:06:42.63,0:06:46.33,BottomCenter,,0,0,0,,por duhen plotësuar kushte të caktuara\Npër t'i rritur.
+Dialogue: 0,0:06:46.42,0:06:47.67,BottomCenter,,0,0,0,,Si çfarë?
+Dialogue: 0,0:06:47.96,0:06:50.58,BottomCenter,,0,0,0,,Duhet të hasni një Coral Peigo të Emërtuar
+Dialogue: 0,0:06:50.67,0:06:53.54,BottomCenter,,0,0,0,,dhe të merrni një objekt të caktuar prej tij.
+Dialogue: 0,0:06:53.63,0:06:55.58,BottomCenter,,0,0,0,,Një të Emërtuar?
+Dialogue: 0,0:06:55.67,0:06:59.00,BottomCenter,,0,0,0,,Natyrisht, nuk hasni\Ntë Emërtuar çdo ditë.
+Dialogue: 0,0:06:59.08,0:07:01.38,BottomCenter,,0,0,0,,Edhe duke e pasur parasysh këtë,
+Dialogue: 0,0:07:01.46,0:07:06.96,BottomCenter,,0,0,0,,një i Emërtuar nuk është parë në\Nkëtë ishull për një kohë shumë të gjatë.
+Dialogue: 0,0:07:07.54,0:07:09.17,BottomCenter,,0,0,0,,Ndoshta prandaj...
+Dialogue: 0,0:07:09.25,0:07:12.38,BottomCenter,,0,0,0,,Ata këtu duken\Ntë shqetësuar prej kohësh.
+Dialogue: 0,0:07:12.71,0:07:15.63,BottomCenter,,0,0,0,,E kuptoj. Faleminderit për informacionin.
+Dialogue: 0,0:07:15.71,0:07:19.42,BottomCenter,,0,0,0,,Atëherë thjesht do të kënaqemi duke ardhur\Nt'i shohim këtu.
+Dialogue: 0,0:07:19.50,0:07:22.88,BottomCenter,,0,0,0,,Po! Ju dhe shoqëruesi juaj jeni\Ntë mirëpritur të merrni kohën tuaj.
+Dialogue: 0,0:07:25.21,0:07:27.54,BottomCenter,,0,0,0,,Kjo vërtet ma qetësoi shpirtin.
+Dialogue: 0,0:07:27.96,0:07:30.21,BottomCenter,,0,0,0,,Jam mjaft e sigurt se ishin të rritur,
+Dialogue: 0,0:07:30.29,0:07:33.38,BottomCenter,,0,0,0,,por zogëzimet e tyre\Nishin kaq të lezetshme!
+Dialogue: 0,0:07:33.46,0:07:37.25,BottomCenter,,0,0,0,,Nuk do të mundja t'i luftoja kurrë\Npo t'i shihja në një labirint!
+Dialogue: 0,0:07:37.71,0:07:40.96,BottomCenter,,0,0,0,,Të shohësh përbindësha si ata\Nvërtet të qetëson, hë?
+Dialogue: 0,0:07:41.04,0:07:45.13,BottomCenter,,0,0,0,,Përbindëshat e tjerë që kemi hasur\Nishin shumë më... mbresëlënës.
+Dialogue: 0,0:07:45.21,0:07:46.42,BottomCenter,,0,0,0,,E di.
+Dialogue: 0,0:07:46.92,0:07:49.92,BottomCenter,,0,0,0,,Kemi parë disa të frikshëm\Ndhe disa të fuqishëm.
+Dialogue: 0,0:07:50.21,0:07:51.33,BottomCenter,,0,0,0,,Dhe...
+Dialogue: 0,0:07:51.67,0:07:54.83,BottomCenter,,0,0,0,,ti më ke shpëtuar nga të gjithë\Nata, Atobe-kun.
+Dialogue: 0,0:07:55.17,0:07:59.00,BottomCenter,,0,0,0,,Oh, aspak. Edhe ti më ke\Nshpëtuar shumë herë.
+Dialogue: 0,0:07:59.08,0:08:03.63,BottomCenter,,0,0,0,,Gjithmonë e thua këtë, por unë jam...
+Dialogue: 0,0:08:04.00,0:08:06.00,BottomCenter,,0,0,0,,vërtet e lumtur që ne jemi...
+Dialogue: 0,0:08:06.08,0:08:06.96,BottomCenter,,0,0,0,,Hë?
+Dialogue: 0,0:08:08.71,0:08:11.42,BottomCenter,,0,0,0,,Theresia nuk është këtu?
+Dialogue: 0,0:08:15.00,0:08:18.88,BottomCenter,,0,0,0,,Onii-chan! Kyouka-san! Mirë se u kthyet!
+Dialogue: 0,0:08:20.67,0:08:21.79,BottomCenter,,0,0,0,,Misaki!
+Dialogue: 0,0:08:25.96,0:08:27.42,BottomCenter,,0,0,0,,Çfarë po bën?!
+Dialogue: 0,0:08:27.50,0:08:28.75,BottomCenter,,0,0,0,,Çfarë po bën?!
+Dialogue: 0,0:08:28.83,0:08:32.04,BottomCenter,,0,0,0,,Ju lutem mos u grindni! Kjo\Nduhet të jetë pushim!
+Dialogue: 0,0:08:32.13,0:08:35.54,BottomCenter,,0,0,0,,Jo, Suzuna! Duhet t'i jap\Nnjë mësim Misakit!
+Dialogue: 0,0:08:35.63,0:08:39.21,BottomCenter,,0,0,0,,Çfarë? Nuk ishte faji im!\NNuk e bëra me qëllim!
+Dialogue: 0,0:08:39.29,0:08:40.50,BottomCenter,,0,0,0,,Ku është Theresia?
+Dialogue: 0,0:08:40.92,0:08:43.38,BottomCenter,,0,0,0,,E pashë duke u nisur drejt\Npyllit më herët.
+Dialogue: 0,0:08:43.88,0:08:45.17,BottomCenter,,0,0,0,,Vetëm?
+Dialogue: 0,0:08:55.25,0:08:58.29,BottomCenter,,0,0,0,,Dukesh tmerrësisht i trishtuar.
+Dialogue: 0,0:08:58.38,0:09:03.25,BottomCenter,,0,0,0,,N-Nuk jam! Po shikoja\Npyllin sepse... hm...
+Dialogue: 0,0:09:03.33,0:09:04.63,BottomCenter,,0,0,0,,Në atë rast...
+Dialogue: 0,0:09:05.88,0:09:07.92,BottomCenter,,0,0,0,,pse nuk shkojmë edhe ne atje?
+Dialogue: 0,0:09:08.50,0:09:12.00,BottomCenter,,0,0,0,,Gjithmonë më pëlqen pak terapi pylli.
+Dialogue: 0,0:09:15.79,0:09:18.46,BottomCenter,,0,0,0,,Mendoj se ky është fundi\Ni shtegut të ecjes.
+Dialogue: 0,0:09:22.75,0:09:23.79,BottomCenter,,0,0,0,,Theresia!
+Dialogue: 0,0:09:28.92,0:09:30.21,BottomCenter,,0,0,0,,Theresia...
+Dialogue: 0,0:09:34.96,0:09:36.29,BottomCenter,,0,0,0,,Çfarë ka?
+Dialogue: 0,0:09:37.92,0:09:42.08,BottomCenter,,0,0,0,,A... gjete diçka në burim?
+Dialogue: 0,0:09:53.46,0:09:55.54,BottomCenter,,0,0,0,,{\i1}Po vazhdojmë ende?{\i0}
+Dialogue: 0,0:09:55.92,0:09:57.21,BottomCenter,,0,0,0,,{\i1}Është kaq thellë...{\i0}
+Dialogue: 0,0:09:57.88,0:10:01.25,BottomCenter,,0,0,0,,{\i1}Por nuk mund ta lë Theresian vetëm...{\i0}
+Dialogue: 0,0:10:02.04,0:10:03.33,BottomCenter,,0,0,0,,{\i1}Nuk marr dot frymë...{\i0}
+Dialogue: 0,0:10:05.42,0:10:07.38,BottomCenter,,0,0,0,,{\i1}Dreq... Nuk mundem...{\i0}
+Dialogue: 0,0:10:09.33,0:10:11.25,BottomCenter,,0,0,0,,Onii-chan! Duro!
+Dialogue: 0,0:10:11.33,0:10:12.58,BottomCenter,,0,0,0,,Atobe-kun!
+Dialogue: 0,0:10:12.67,0:10:13.96,BottomCenter,,0,0,0,,Z. Atobe!
+Dialogue: 0,0:10:14.67,0:10:15.96,BottomCenter,,0,0,0,,Arihito-san!
+Dialogue: 0,0:10:16.04,0:10:18.75,BottomCenter,,0,0,0,,Të lutem, hap sytë!
+Dialogue: 0,0:10:21.29,0:10:22.92,BottomCenter,,0,0,0,,Falë Zotit!
+Dialogue: 0,0:10:23.00,0:10:25.88,BottomCenter,,0,0,0,,Nuk dinim se çfarë do të\Nndodhte me ty.
+Dialogue: 0,0:10:25.96,0:10:27.75,BottomCenter,,0,0,0,,Vërtet.
+Dialogue: 0,0:10:27.83,0:10:30.88,BottomCenter,,0,0,0,,Arihito, mos na shqetëso kaq shumë.
+Dialogue: 0,0:10:30.96,0:10:35.79,BottomCenter,,0,0,0,,Më fal. Bëra një vlerësim të keq\Ndhe më mbaroi fryma.
+Dialogue: 0,0:10:36.21,0:10:37.54,BottomCenter,,0,0,0,,Ku është Theresia?
+Dialogue: 0,0:10:41.38,0:10:43.29,BottomCenter,,0,0,0,,Më fal që të shqetësova.
+Dialogue: 0,0:10:44.13,0:10:47.42,BottomCenter,,0,0,0,,Jam krejt mirë, siç e shihni...
+Dialogue: 0,0:10:47.50,0:10:48.46,BottomCenter,,0,0,0,,Theresia?
+Dialogue: 0,0:10:49.88,0:10:51.42,BottomCenter,,0,0,0,,Ç-Çfarë ka?
+Dialogue: 0,0:10:51.50,0:10:53.67,BottomCenter,,0,0,0,,Po skuqesh.
+Dialogue: 0,0:10:54.33,0:10:56.75,BottomCenter,,0,0,0,,Çfarë mund t'i ketë ndodhur Theresia-san?
+Dialogue: 0,0:10:56.83,0:11:00.67,BottomCenter,,0,0,0,,Onii-chan, a të erdhi papritur\Ndëshira të hidheshe në burim?
+Dialogue: 0,0:11:00.75,0:11:02.33,BottomCenter,,0,0,0,,Epo, nuk ishte papritur...
+Dialogue: 0,0:11:02.63,0:11:05.08,BottomCenter,,0,0,0,,Diçka është në fund të atij burimi.
+Dialogue: 0,0:11:05.17,0:11:08.50,BottomCenter,,0,0,0,,Theresia e gjeti dhe\Nmë njoftoi për të.
+Dialogue: 0,0:11:08.58,0:11:09.33,BottomCenter,,0,0,0,,Çfarë?
+Dialogue: 0,0:11:09.42,0:11:14.63,BottomCenter,,0,0,0,,Një zbulim i ri në një strehë që\Ngilda e administron kaq kohë?
+Dialogue: 0,0:11:14.71,0:11:18.33,BottomCenter,,0,0,0,,Kjo parti vërtet është më\Nshumë nga sa duket.
+Dialogue: 0,0:11:18.42,0:11:22.29,BottomCenter,,0,0,0,,Në fund të\Nburimit? Çfarë mund të jetë?
+Dialogue: 0,0:11:27.96,0:11:29.58,BottomCenter,,0,0,0,,{\i1}Shkarkim Morali!{\i0}
+Dialogue: 0,0:11:40.79,0:11:43.67,BottomCenter,,0,0,0,,Jeni gati të teleportoheni.
+Dialogue: 0,0:11:44.38,0:11:48.29,BottomCenter,,0,0,0,,Besimtari im, kujdesu që ti dhe\Npartia jote të mos ndaheni.
+Dialogue: 0,0:11:52.17,0:11:53.88,BottomCenter,,0,0,0,,Ç-Çfarë dreqin?!
+Dialogue: 0,0:11:53.96,0:11:56.29,BottomCenter,,0,0,0,,Çfarë na ndodhi?
+Dialogue: 0,0:11:56.38,0:11:59.17,BottomCenter,,0,0,0,,Prit. Do të kontrolloj hartën...
+Dialogue: 0,0:11:59.58,0:12:00.92,BottomCenter,,0,0,0,,VENDNDODHJA AKTUALE: TERRITOR I PAEKSPLORUAR\N- Hë?
+Dialogue: 0,0:12:01.00,0:12:04.54,BottomCenter,,0,0,0,,Ajo gjë që gjetëm ishte një\Nmekanizëm teleportimi...
+Dialogue: 0,0:12:04.92,0:12:09.13,BottomCenter,,0,0,0,,dhe tani jemi në një ishull\Ntjetër nga ai që ishim më parë.
+Dialogue: 0,0:12:09.21,0:12:12.88,BottomCenter,,0,0,0,,Një ishull tjetër? Pra kishte të tjerë?
+Dialogue: 0,0:12:12.96,0:12:15.75,BottomCenter,,0,0,0,,Kjo do të thotë se ky labirint
+Dialogue: 0,0:12:15.83,0:12:20.25,BottomCenter,,0,0,0,,është në fakt një grup ishujsh\Ntë shpërndarë në oqean,
+Dialogue: 0,0:12:20.33,0:12:24.04,BottomCenter,,0,0,0,,dhe ky ishull arrihet vetëm\Nme teleportim.
+Dialogue: 0,0:12:26.08,0:12:27.75,BottomCenter,,0,0,0,,Çfarë? Është diçka...
+Dialogue: 0,0:12:33.79,0:12:35.38,BottomCenter,,0,0,0,,Një Coral Peigo?!
+Dialogue: 0,0:12:35.46,0:12:38.29,BottomCenter,,0,0,0,,P-Por ky është gjigant!
+Dialogue: 0,0:12:38.92,0:12:41.21,BottomCenter,,0,0,0,,{\i1}Krahët e Gërmuar që Vallëzojnë{\i0}\N{\i1}mbi Shkretëtirën e Ngrirë...{\i0}
+Dialogue: 0,0:12:41.29,0:12:42.75,BottomCenter,,0,0,0,,{\i1}Konfuzion?{\i0}
+Dialogue: 0,0:12:43.17,0:12:44.96,BottomCenter,,0,0,0,,{\i1}Djema! Po vjen!{\i0}
+Dialogue: 0,0:12:48.29,0:12:49.54,BottomCenter,,0,0,0,,Po ngrirëmi?!
+Dialogue: 0,0:12:49.63,0:12:50.75,BottomCenter,,0,0,0,,Është kaq ftohtë!
+Dialogue: 0,0:12:51.04,0:12:54.21,BottomCenter,,0,0,0,,Kjo është e keqe! Duhet ta\Nmbarojmë shpejt!
+Dialogue: 0,0:12:58.46,0:13:00.96,BottomCenter,,0,0,0,,{\i1}Çfarë po ndodh? Po sillet çuditshëm...{\i0}
+Dialogue: 0,0:13:01.54,0:13:02.79,BottomCenter,,0,0,0,,{\i1}Mos më thuaj...{\i0}
+Dialogue: 0,0:13:06.25,0:13:08.83,BottomCenter,,0,0,0,,Prit, Elitia! Theresia! Cion!
+Dialogue: 0,0:13:10.00,0:13:11.50,BottomCenter,,0,0,0,,Nuk do ta vrasim!
+Dialogue: 0,0:13:11.58,0:13:13.42,BottomCenter,,0,0,0,,Hë? Çfarë do të thuash?
+Dialogue: 0,0:13:13.50,0:13:16.38,BottomCenter,,0,0,0,,Mendoj se ky përbindësh i Emërtuar
+Dialogue: 0,0:13:16.46,0:13:20.67,BottomCenter,,0,0,0,,na sulmoi vetëm sepse e trembëm.
+Dialogue: 0,0:13:20.75,0:13:26.71,BottomCenter,,0,0,0,,Për çfarëdo arsye, me gjasë ka qenë\Nvetëm në këtë ishull që kur lindi,
+Dialogue: 0,0:13:27.04,0:13:29.50,BottomCenter,,0,0,0,,dhe pastaj ne u teleportuam papritur këtu.
+Dialogue: 0,0:13:29.58,0:13:31.92,BottomCenter,,0,0,0,,Pra e trembëm?
+Dialogue: 0,0:13:33.21,0:13:36.17,BottomCenter,,0,0,0,,Nëse mundemi, në vend që ta vrasim,
+Dialogue: 0,0:13:36.25,0:13:39.92,BottomCenter,,0,0,0,,do të doja ta çonim mbrapsht në\Nishullin ku është shtëpia jonë.
+Dialogue: 0,0:13:40.29,0:13:43.21,BottomCenter,,0,0,0,,Dua t'ia prezantoj\Ntë tjerëve të llojit të tij.
+Dialogue: 0,0:13:44.92,0:13:46.17,BottomCenter,,0,0,0,,Jam dakord.
+Dialogue: 0,0:13:46.50,0:13:49.63,BottomCenter,,0,0,0,,Duhet të ketë qenë kaq i vetmuar\Nduke qenë këtu vetëm gjithë këtë kohë.
+Dialogue: 0,0:13:49.92,0:13:51.04,BottomCenter,,0,0,0,,Faleminderit.
+Dialogue: 0,0:13:53.96,0:13:56.79,BottomCenter,,0,0,0,,Është në rregull. Nuk ka pse të trembesh.
+Dialogue: 0,0:13:58.96,0:14:02.71,BottomCenter,,0,0,0,,{\i1}Dyshoj se e kupton se çfarë{\i0}\N{\i1}po them, por gjithsesi...{\i0}
+Dialogue: 0,0:14:06.50,0:14:09.17,BottomCenter,,0,0,0,,Duam të të çojmë në një vend ku\Nka të tjerë si ti.
+Dialogue: 0,0:14:09.88,0:14:12.17,BottomCenter,,0,0,0,,A do të vish me ne?
+Dialogue: 0,0:14:18.96,0:14:20.25,BottomCenter,,0,0,0,,A bëre diçka?
+Dialogue: 0,0:14:22.46,0:14:23.50,BottomCenter,,0,0,0,,Vërtet bëre diçka.
+Dialogue: 0,0:14:24.50,0:14:25.79,BottomCenter,,0,0,0,,Nuk jam i zemëruar.
+Dialogue: 0,0:14:27.71,0:14:29.67,BottomCenter,,0,0,0,,Një i E-Emërtuar?!
+Dialogue: 0,0:14:29.75,0:14:32.42,BottomCenter,,0,0,0,,E zbutët dhe e sollët këtu?!
+Dialogue: 0,0:14:32.50,0:14:33.42,BottomCenter,,0,0,0,,Po.
+Dialogue: 0,0:14:34.21,0:14:39.50,BottomCenter,,0,0,0,,Të duhet një Pendë e Bardhë e Gërmuar\Npër ta bërë një Coral Peigo të të bindet.
+Dialogue: 0,0:14:39.58,0:14:40.96,BottomCenter,,0,0,0,,Po më thua se...
+Dialogue: 0,0:14:41.04,0:14:42.00,BottomCenter,,0,0,0,,Po.
+Dialogue: 0,0:14:42.75,0:14:44.46,BottomCenter,,0,0,0,,Vërtet more një të tillë.
+Dialogue: 0,0:14:44.54,0:14:48.17,BottomCenter,,0,0,0,,E kuptoj shumë mirë\Ntronditjen që po ndjeni.
+Dialogue: 0,0:14:48.25,0:14:51.96,BottomCenter,,0,0,0,,Këta janë disa të rinj\Ntë pabesueshëm që keni.
+Dialogue: 0,0:14:56.75,0:14:58.33,BottomCenter,,0,0,0,,Mund të shkosh t'u bashkohesh.
+Dialogue: 0,0:15:07.58,0:15:11.25,BottomCenter,,0,0,0,,Është kaq e lumtur të shohë të tjerë të llojit të saj.
+Dialogue: 0,0:15:32.67,0:15:37.25,BottomCenter,,0,0,0,,{\i1}Nëse qëndroj me Arihiton, do të ketë{\i0}\N{\i1}edhe për ne një të ardhme të tillë...{\i0}
+Dialogue: 0,0:15:37.75,0:15:39.08,BottomCenter,,0,0,0,,Shikoni!
+Dialogue: 0,0:15:39.17,0:15:43.04,BottomCenter,,0,0,0,,Diçka që duket si gur i çmuar sapo\Nra nga syri i pinguinit të madh!
+Dialogue: 0,0:15:43.67,0:15:45.96,BottomCenter,,0,0,0,,Lotët e Krahëve të Gërmuar\Nqë Vallëzojnë mbi Shkretëtirën e Ngrirë
+Dialogue: 0,0:15:46.04,0:15:48.50,BottomCenter,,0,0,0,,kthehen në gurë të çmuar të quajtur Pika Dëbore.
+Dialogue: 0,0:15:48.58,0:15:52.46,BottomCenter,,0,0,0,,Është shumë e rrallë t'i shohësh\Nduke i derdhur vërtet!
+Dialogue: 0,0:15:52.75,0:15:55.25,BottomCenter,,0,0,0,,Gëzohem që e sollëm këtu.
+Dialogue: 0,0:15:58.25,0:15:59.46,BottomCenter,,0,0,0,,Çfarë është?
+Dialogue: 0,0:16:00.67,0:16:04.88,BottomCenter,,0,0,0,,Duket se të ka njohur\Nsi zotërinë e tij.
+Dialogue: 0,0:16:04.96,0:16:09.54,BottomCenter,,0,0,0,,Nëse ke një fermë me të cilën ke kontratë,\Nmund ta mbash atje.
+Dialogue: 0,0:16:09.63,0:16:12.46,BottomCenter,,0,0,0,,Por më në fund arriti të\Ntakojë të tjerë të llojit të tij.
+Dialogue: 0,0:16:19.33,0:16:22.88,BottomCenter,,0,0,0,,Këta të vegjlit vërtet\Nmë befasojnë ndonjëherë.
+Dialogue: 0,0:16:23.21,0:16:26.25,BottomCenter,,0,0,0,,Janë të zgjuar dhe u\Nkujdesen miqve të tyre.
+Dialogue: 0,0:16:26.33,0:16:27.33,BottomCenter,,0,0,0,,E shoh.
+Dialogue: 0,0:16:27.79,0:16:31.67,BottomCenter,,0,0,0,,Nuk do të ndihesh vetëm në fermë nëse\Nmiqtë e tu janë me ty, apo jo?
+Dialogue: 0,0:16:34.79,0:16:37.71,BottomCenter,,0,0,0,,Sikur ta kishim mundur Krahët\Ne Gërmuar si zakonisht,
+Dialogue: 0,0:16:37.79,0:16:40.96,BottomCenter,,0,0,0,,nuk do të kishim pasur kurrë mundësinë\Ntë dëshmonim këtë.
+Dialogue: 0,0:16:41.04,0:16:42.04,BottomCenter,,0,0,0,,Po.
+Dialogue: 0,0:16:44.00,0:16:47.71,BottomCenter,,0,0,0,,Nesër më në fund do të nisemi\Ndrejt Distriktit 7.
+Dialogue: 0,0:16:47.79,0:16:49.00,BottomCenter,,0,0,0,,Po.
+Dialogue: 0,0:16:49.08,0:16:50.21,BottomCenter,,0,0,0,,Hm...
+Dialogue: 0,0:16:50.75,0:16:53.88,BottomCenter,,0,0,0,,Më lindi një mendim... ose\Nnjë sugjerim, më mirë.
+Dialogue: 0,0:16:53.96,0:16:56.88,BottomCenter,,0,0,0,,Që tani e tutje, ndoshta duhet\Ntë mbajmë ca pajisje në rezervë
+Dialogue: 0,0:16:56.96,0:17:01.13,BottomCenter,,0,0,0,,dhe të përdorim pajisje me gurë magjikë të ndryshëm\Nsipas labirintit ku ndodhemi?
+Dialogue: 0,0:17:01.21,0:17:02.13,BottomCenter,,0,0,0,,Ide e mirë.
+Dialogue: 0,0:17:02.50,0:17:05.29,BottomCenter,,0,0,0,,Do të marrim me qira një depo\Ndhe do të mbajmë ca pajisje atje.
+Dialogue: 0,0:17:05.38,0:17:08.17,BottomCenter,,0,0,0,,Do të na duhet një inventar\Ni organizuar.
+Dialogue: 0,0:17:08.25,0:17:12.79,BottomCenter,,0,0,0,,Kur të arrijmë në Distriktin 7, a mund\Nt'i riorganizosh pajisjet tona? Buxhetin e bëj unë.
+Dialogue: 0,0:17:12.88,0:17:14.46,BottomCenter,,0,0,0,,S-Sigurisht.
+Dialogue: 0,0:17:14.54,0:17:18.50,BottomCenter,,0,0,0,,Do të më besosh\Nnjë detyrë kaq të rëndësishme...
+Dialogue: 0,0:17:18.58,0:17:20.88,BottomCenter,,0,0,0,,Faleminderit, Onii-san!
+Dialogue: 0,0:17:21.17,0:17:23.58,BottomCenter,,0,0,0,,Edhe unë dua të jem e dobishme për ty së shpejti.
+Dialogue: 0,0:17:23.67,0:17:26.83,BottomCenter,,0,0,0,,Dissektuesit kanë aftësi që mund\Ntë përdoren vetëm gjatë Kërkimit.
+Dialogue: 0,0:17:26.92,0:17:28.54,BottomCenter,,0,0,0,,Do të doja t'i përdorja përsëri.
+Dialogue: 0,0:17:28.63,0:17:29.67,BottomCenter,,0,0,0,,Në rregull.
+Dialogue: 0,0:17:32.17,0:17:34.88,BottomCenter,,0,0,0,,Cion duket gjithashtu plot energji.
+Dialogue: 0,0:17:35.75,0:17:38.42,BottomCenter,,0,0,0,,{\i1}Rikerton-san, Falma-san...{\i0}
+Dialogue: 0,0:17:38.50,0:17:40.79,BottomCenter,,0,0,0,,{\i1}Keni lënë anëtarë të dashur{\i0}\N{\i1}familjeje në kujdesin tonë,{\i0}
+Dialogue: 0,0:17:40.88,0:17:42.83,BottomCenter,,0,0,0,,{\i1}por do t'i kthejmë të sigurt e të shëndoshë.{\i0}
+Dialogue: 0,0:17:43.17,0:17:46.71,BottomCenter,,0,0,0,,{\i1}Do të jetë një udhëtim i gjatë, por mund të{\i0}\N{\i1}pushoni të qetë ndërsa prisni kthimin e tyre.{\i0}
+Dialogue: 0,0:17:46.79,0:17:50.67,BottomCenter,,0,0,0,,Çfarë ka, Atobe-kun? Dukesh\Ntmerrësisht solemn.
+Dialogue: 0,0:17:50.75,0:17:53.83,BottomCenter,,0,0,0,,Oh, po mendoja\Ntë shkruaja letra
+Dialogue: 0,0:17:53.92,0:17:58.08,BottomCenter,,0,0,0,,për njerëzit që na kanë ndihmuar\Npasi të vendosemi në Distriktin 7.
+Dialogue: 0,0:17:59.21,0:18:03.96,BottomCenter,,0,0,0,,Më fal. Thjesht u ndjeva sentimental\Npapritur, me gjasë.
+Dialogue: 0,0:18:04.38,0:18:08.96,BottomCenter,,0,0,0,,Edhe unë e di sa e çuditshme është për një\Nburrë të rritur të thotë gjëra të tilla.
+Dialogue: 0,0:18:09.88,0:18:11.75,BottomCenter,,0,0,0,,Jo, e kuptoj.
+Dialogue: 0,0:18:11.83,0:18:16.50,BottomCenter,,0,0,0,,Nëse ndonjëherë ndihesh vetëm, Theresia-san\Ndo të flejë pranë teje.
+Dialogue: 0,0:18:16.58,0:18:19.25,BottomCenter,,0,0,0,,Oh, edhe Suzu-chan mundet.
+Dialogue: 0,0:18:19.83,0:18:21.75,BottomCenter,,0,0,0,,Çka... Nuk...
+Dialogue: 0,0:18:21.83,0:18:24.83,BottomCenter,,0,0,0,,Sikur të ndaja një dhomë\Nme të, do të ishte në rregull,
+Dialogue: 0,0:18:24.92,0:18:27.50,BottomCenter,,0,0,0,,por ndryshe thjesht do të ndihej gabim...
+Dialogue: 0,0:18:27.58,0:18:29.67,BottomCenter,,0,0,0,,Prit, pra do të ishe në rregull
+Dialogue: 0,0:18:29.75,0:18:33.13,BottomCenter,,0,0,0,,të ndaje shtratin me të për sa kohë\Ntë ndaje tashmë një dhomë?
+Dialogue: 0,0:18:33.21,0:18:37.88,BottomCenter,,0,0,0,,Në fakt, ju nuk e keni... b-bërë\Nkëtë tashmë, apo jo?
+Dialogue: 0,0:18:39.42,0:18:41.92,BottomCenter,,0,0,0,,J-Jo, nuk e kemi.
+Dialogue: 0,0:18:42.00,0:18:44.71,BottomCenter,,0,0,0,,Gjithashtu, Theresia është në të njëjtën dhomë.
+Dialogue: 0,0:18:45.71,0:18:49.83,BottomCenter,,0,0,0,,Gjithsesi, Theresia, do të\Nduhet të shkojmë të shohim Leila-san.
+Dialogue: 0,0:18:51.17,0:18:52.79,BottomCenter,,0,0,0,,Dua t'i tregoj se çfarë kemi bërë
+Dialogue: 0,0:18:52.88,0:18:57.50,BottomCenter,,0,0,0,,dhe t'i bëj të ditur se të gjithë jemi\Nduke u argëtuar bashkë, si sot.
+Dialogue: 0,0:19:14.96,0:19:16.83,BottomCenter,,0,0,0,,Çfarë ka, Theresia?
+Dialogue: 0,0:19:24.33,0:19:25.13,BottomCenter,,0,0,0,,Theresia?!
+Dialogue: 0,0:19:25.21,0:19:26.33,BottomCenter,,0,0,0,,Oh, jo!
+Dialogue: 0,0:19:28.88,0:19:31.13,BottomCenter,,0,0,0,,Nuk e di çfarë ndodhi atje,
+Dialogue: 0,0:19:31.42,0:19:34.50,BottomCenter,,0,0,0,,por nuk të kam parë kurrë\Ntë panikohesh kështu më parë.
+Dialogue: 0,0:19:39.46,0:19:40.79,BottomCenter,,0,0,0,,Ndjehet mirë.
+Dialogue: 0,0:19:41.67,0:19:45.33,BottomCenter,,0,0,0,,Retë kanë kaluar dhe\Ntë gjithë yjet janë shfaqur.
+Dialogue: 0,0:19:45.75,0:19:47.88,BottomCenter,,0,0,0,,Gëzohem që erdhëm këtu.
+Dialogue: 0,0:19:50.38,0:19:54.33,BottomCenter,,0,0,0,,Ka ende shumë gjëra\Nqë dua dhe duhet të bëj.
+Dialogue: 0,0:19:54.75,0:19:58.79,BottomCenter,,0,0,0,,Rruga e partisë sonë me gjasë\Ndo të jetë e vështirë.
+Dialogue: 0,0:19:58.88,0:20:00.00,BottomCenter,,0,0,0,,Por...
+Dialogue: 0,0:20:00.50,0:20:03.83,BottomCenter,,0,0,0,,tani e di se mund të kemi edhe momente\Ntë qeta si ky.
+Dialogue: 0,0:20:04.75,0:20:07.17,BottomCenter,,0,0,0,,Sot ishte një ditë e mirë.
+Dialogue: 0,0:20:24.83,0:20:27.33,BottomCenter,,0,0,0,,O Zot, çfarë surprize.
+Dialogue: 0,0:20:27.63,0:20:31.75,BottomCenter,,0,0,0,,Vështirë ta besoj se fituat të drejtën\Ntë kaloni në Distriktin 7 kaq shpejt.
+Dialogue: 0,0:20:32.04,0:20:35.54,BottomCenter,,0,0,0,,Askush tjetër në historinë e Vendit të\NLabirintit nuk arriti kaq larg kaq shpejt!
+Dialogue: 0,0:20:35.63,0:20:38.96,BottomCenter,,0,0,0,,Oh, pra ju punoni këtu?
+Dialogue: 0,0:20:39.04,0:20:40.13,BottomCenter,,0,0,0,,Po.
+Dialogue: 0,0:20:40.21,0:20:43.88,BottomCenter,,0,0,0,,Oh, por ndonëse jam e punësuar këtu,\Nnuk është në një rol shërbyes.
+Dialogue: 0,0:20:43.96,0:20:45.92,BottomCenter,,0,0,0,,Kam ca autoritet.
+Dialogue: 0,0:20:46.00,0:20:48.96,BottomCenter,,0,0,0,,Kështu që kur dëgjova se fituat\Ntë drejtën për të shkuar në Distriktin 7,
+Dialogue: 0,0:20:49.04,0:20:51.38,BottomCenter,,0,0,0,,kërkova të transferohesha këtu.
+Dialogue: 0,0:20:51.75,0:20:53.00,BottomCenter,,0,0,0,,Licencën tuaj, të lutem.
+Dialogue: 0,0:20:55.96,0:21:00.04,BottomCenter,,0,0,0,,Në rregull, tani jeni të miratuar të kaloni\Npërmes portës së Distriktit 7.
+Dialogue: 0,0:21:00.88,0:21:02.58,BottomCenter,,0,0,0,,Faleminderit.
+Dialogue: 0,0:21:02.67,0:21:04.71,BottomCenter,,0,0,0,,Epo, mendoj se do të nisemi.
+Dialogue: 0,0:21:06.67,0:21:11.25,BottomCenter,,0,0,0,,Atëherë mendoj se është koha\Ntë them frazën e zakonshme.
+Dialogue: 0,0:21:11.63,0:21:14.13,BottomCenter,,0,0,0,,Mirë se vini, të rinj!
+Dialogue: 0,0:21:14.21,0:21:17.08,BottomCenter,,0,0,0,,Këtu fillon vërtet aventura juaj në\NVendin e Labirintit.
+Dialogue: 0,0:21:17.46,0:21:20.29,BottomCenter,,0,0,0,,Do t'ju pres në Distriktin 1.
+Dialogue: 0,0:21:20.38,0:21:21.04,BottomCenter,,0,0,0,,Hë?
+Dialogue: 0,0:21:28.63,0:21:33.04,BottomCenter,,0,0,0,,{\i1}Kthimi i Theresias në{\i0}\N{\i1}njeri, shpëtimi i mikut të Elitias...{\i0}
+Dialogue: 0,0:21:33.13,0:21:35.71,BottomCenter,,0,0,0,,{\i1}Nëse është e mundur, dua të ndihmoj partitë{\i0}
+Dialogue: 0,0:21:35.79,0:21:38.92,BottomCenter,,0,0,0,,{\i1}që shfarosen në labirinte{\i0}\N{\i1}si partia e Georg, gjithashtu.{\i0}
+Dialogue: 0,0:21:39.46,0:21:40.67,BottomCenter,,0,0,0,,{\i1}Por unë jam...{\i0}
+Dialogue: 0,0:21:41.54,0:21:45.08,BottomCenter,,0,0,0,,{\i1}një Roje e Pasme. Një profesion që{\i0}\N{\i1}nuk mund të luftojë vetëm.{\i0}
+Dialogue: 0,0:21:45.71,0:21:46.75,BottomCenter,,0,0,0,,{\i1}Edhe kështu...{\i0}
+Dialogue: 0,0:21:50.33,0:21:53.17,BottomCenter,,0,0,0,,{\i1}Mund të bëhem Roja e Pasme{\i0}\N{\i1}më e fortë në botë,{\i0}
+Dialogue: 0,0:21:54.33,0:21:56.13,BottomCenter,,0,0,0,,{\i1}për sa kohë i kam ata.{\i0}
+Dialogue: 0,0:21:59.08,0:22:00.17,BottomCenter,,0,0,0,,Le të shkojmë!
+Dialogue: 0,0:22:05.50,0:22:09.96,TopCenter,,0,0,0,,ROJA E PASME MË E FORTË NË BOTË
+

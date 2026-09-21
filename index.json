@@ -857,6 +857,20 @@
       "assFile": "ass/at-689458.sq.ass",
       "offset": 0,
       "sourceReleaseId": "689458"
+    },
+    {
+      "id": "at-690005",
+      "title": "The World's Strongest Rearguard",
+      "episode": "12",
+      "malId": 62435,
+      "anilistId": null,
+      "slugs": [
+        "the-world-s-strongest-rearguard-3f76a"
+      ],
+      "file": "files/at-690005.sq.vtt",
+      "assFile": "ass/at-690005.sq.ass",
+      "offset": 0,
+      "sourceReleaseId": "690005"
     }
   ]
 }
