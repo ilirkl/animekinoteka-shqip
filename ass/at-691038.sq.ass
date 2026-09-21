@@ -1,0 +1,390 @@
+﻿[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 8
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Italics - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback Italics - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.06,0:00:07.80,Italics,Spica,0,0,0,,Me mbarimin e finaleve, arritëm në shtëpi\Nnë konviktin tonë pa incidente të tjera.
+Dialogue: 0,0:00:08.75,0:00:11.55,Italics,Spica,0,0,0,,Voodies tanë u kthyen në kukulla të zakonshme përsëri,
+Dialogue: 0,0:00:11.55,0:00:13.96,Italics,Spica,0,0,0,,dhe na u dha leje\Nt'i merrnim në shtëpi.
+Dialogue: 0,0:00:14.63,0:00:18.75,Italics,Spica,0,0,0,,Nuk do të flasë më,\Npor është engjëlli im mbrojtës.
+Dialogue: 0,0:00:19.62,0:00:24.96,Main,SIGN,0,0,0,,{\an8}HEHE...
+Dialogue: 0,0:00:19.90,0:00:21.05,Italics,Spica,0,0,0,,Vendi i parë.
+Dialogue: 0,0:00:21.05,0:00:24.31,Italics,Spica,0,0,0,,Mora vendin e parë.
+Dialogue: 0,0:00:26.88,0:00:28.09,Italics,Spica,0,0,0,,Dreq.
+Dialogue: 0,0:00:28.09,0:00:31.30,Italics,Spica,0,0,0,,Profesor Klod më tha të mos bëhesha mendjemadhe.
+Dialogue: 0,0:00:31.85,0:00:35.80,Italics,Spica,0,0,0,,Kovenet e tjera kishin\Nfinale të ngjashme me tonat.
+Dialogue: 0,0:00:35.80,0:00:40.62,Italics,Spica,0,0,0,,Nota jonë e përgjithshme e vitit u përcaktua\Nnga sa gurë mori secili.
+Dialogue: 0,0:00:40.62,0:00:43.27,Italics,Spica,0,0,0,,Isha e katërta në vitin tim!
+Dialogue: 0,0:00:43.27,0:00:48.69,Main,SIGN,0,0,0,,{\an8}HEHEHE...
+Dialogue: 0,0:00:43.27,0:00:45.06,Italics,Spica,0,0,0,,E katërta në vitin tim...
+Dialogue: 0,0:00:45.06,0:00:48.48,Italics,Spica,0,0,0,,Dhe kalova nga rendi F në\Nprovimet e mesit në rendin A në finale.
+Dialogue: 0,0:00:49.37,0:00:52.49,Italics,Spica,0,0,0,,Dreq! Më vjen të qesh nëse\Ne lë mendjen të endet.
+Dialogue: 0,0:00:52.49,0:00:53.81,Italics,Spica,0,0,0,,Duhet të stërvitem!
+Dialogue: 0,0:01:03.36,0:01:05.58,Italics,Spica,0,0,0,,Uh...
+Dialogue: 0,0:01:08.50,0:01:10.05,Main,Spica,0,0,0,,P-Profesor!
+Dialogue: 0,0:01:10.05,0:01:12.97,Main,Spica,0,0,0,,Profesor!
+Dialogue: 0,0:02:44.65,0:02:48.69,Main,Claude,0,0,0,,O, more. Vërtet\Ne lodhe pa masë.
+Dialogue: 0,0:02:48.69,0:02:49.97,Main,Claude,0,0,0,,Koha për të blerë një të re.
+Dialogue: 0,0:02:50.17,0:02:51.29,Main,Spica,0,0,0,,Vërtet?
+Dialogue: 0,0:02:51.29,0:02:54.01,Main,Spica,0,0,0,,Por kanë kaluar vetëm rreth dy vjet.
+Dialogue: 0,0:02:54.01,0:02:56.57,Main,Claude,0,0,0,,Duhet të blesh një më të fortë.
+Dialogue: 0,0:02:57.56,0:03:00.03,Main,Spica,0,0,0,,Shpenzime edhe më shumë...
+Dialogue: 0,0:03:00.71,0:03:03.00,Main,Spica,0,0,0,,Çfarë lloji të blej tjetër?
+Dialogue: 0,0:03:04.02,0:03:08.54,Italics,Claude,0,0,0,,Rrallë dëgjon për shkopinj\Nqë thyhen në vetëm dy vjet, megjithatë.
+Dialogue: 0,0:03:08.54,0:03:11.45,Italics,Claude,0,0,0,,Kjo tregon sa mund është dhënë.
+Dialogue: 0,0:03:11.81,0:03:12.89,Main,Claude,0,0,0,,Në rregull.
+Dialogue: 0,0:03:12.89,0:03:14.95,Main,Claude,0,0,0,,Do të të çoj në një dyqan të mirë.
+Dialogue: 0,0:03:14.95,0:03:16.50,Main,Spica,0,0,0,,Vërtet?
+Dialogue: 0,0:03:16.50,0:03:18.17,Main,Claude,0,0,0,,Po. Le të dalim në qytet.
+Dialogue: 0,0:03:18.52,0:03:20.89,Main,Claude,0,0,0,,Pra, Magjia e Rilindjes, të lutem.
+Dialogue: 0,0:03:20.89,0:03:23.15,Main,Spica,0,0,0,,Do të marrësh formë njerëzore?
+Dialogue: 0,0:03:23.15,0:03:25.39,Main,Claude,0,0,0,,Kam edhe unë disa gjëra për të blerë.
+Dialogue: 0,0:03:26.13,0:03:28.06,Main,Spica,0,0,0,,A-Është ai...
+Dialogue: 0,0:03:28.06,0:03:29.66,Main,Claude,0,0,0,,Nxito.
+Dialogue: 0,0:03:29.66,0:03:31.77,Main,Claude,0,0,0,,Kjo poza është poshtëruese.
+Dialogue: 0,0:03:35.66,0:03:36.77,Flashback Italics,Claude,0,0,0,,Takohemi pas gjysmë ore.
+Dialogue: 0,0:03:37.42,0:03:39.86,Flashback,Claude,0,0,0,,Te sheshi me shatërvanë në qytet.
+Dialogue: 0,0:03:39.86,0:03:44.29,Flashback,Claude,0,0,0,,Do të ndërlikohej nëse ndonjë student na shihte\Nduke dalë bashkë nga konvikti.
+Dialogue: 0,0:03:44.64,0:03:49.93,Italics,Spica,0,0,0,,Kam dalë me të disa\Nherë kur ishte në formë maceje,
+Dialogue: 0,0:03:49.93,0:03:53.10,Italics,Spica,0,0,0,,por kjo do të jetë hera e parë\Nme të si njeri.
+Dialogue: 0,0:03:53.54,0:03:58.06,Italics,Spica,0,0,0,,Për më tepër, po takohemi\Nnë qytet për të bërë pazar...
+Dialogue: 0,0:03:58.06,0:04:02.50,Italics,Spica,0,0,0,,A nuk është kjo... si një t-t-takim?
+Dialogue: 0,0:04:03.35,0:04:05.48,Main,Aria,0,0,0,,Hej, është Spika.
+Dialogue: 0,0:04:05.48,0:04:08.43,Main,Hana,0,0,0,,Po vinim të të vizitonim.
+Dialogue: 0,0:04:09.39,0:04:12.03,Main,Hana,0,0,0,,Çfarë ke? Je e skuqur flakë.
+Dialogue: 0,0:04:13.38,0:04:14.34,Main,Spica,0,0,0,,Dreq!
+Dialogue: 0,0:04:14.34,0:04:15.38,Main,Spica,0,0,0,,Çfarë të vesh?
+Dialogue: 0,0:04:15.38,0:04:16.25,Main,Spica,0,0,0,,Diçka të lezetshme?
+Dialogue: 0,0:04:16.25,0:04:17.11,Main,Spica,0,0,0,,Diçka të bukur?
+Dialogue: 0,0:04:17.11,0:04:20.31,Main,Spica,0,0,0,,Duhet të bëj grim\Ndhe të zgjedh një veshje...
+Dialogue: 0,0:04:20.31,0:04:22.40,Main,Spica,0,0,0,,Gjysmë ore është shumë pak!
+Dialogue: 0,0:04:22.40,0:04:25.84,Main,Spica,0,0,0,,Oh, jo! Oh, jo! Oh, jo!
+Dialogue: 0,0:04:26.51,0:04:28.12,Main,Aria,0,0,0,,Spika?
+Dialogue: 0,0:04:46.77,0:04:49.17,Main,Spica,0,0,0,,M-Më fal për pritjen.
+Dialogue: 0,0:04:49.17,0:04:50.60,Main,Claude,0,0,0,,Je vonë.
+Dialogue: 0,0:04:50.60,0:04:52.22,Main,Claude,0,0,0,,Për gjysmë ore.
+Dialogue: 0,0:04:52.22,0:04:55.98,Main,Spica,0,0,0,,Hm... Vërtet më vjen keq për vonesën.
+Dialogue: 0,0:04:56.32,0:05:00.25,Main,Spica,0,0,0,,Por vajzave u duhet kohë\Ntë bëhen gati, e di.
+Dialogue: 0,0:05:00.25,0:05:03.58,Main,Spica,0,0,0,,Një burrë që e kupton\Ndo të thoshte: "Sapo mbërrita edhe unë."
+Dialogue: 0,0:05:03.58,0:05:04.44,Main,Claude,0,0,0,,Nuk më intereson!
+Dialogue: 0,0:05:04.71,0:05:08.56,Main,Claude,0,0,0,,A e ke idenë sa e çmuar është\Ngjysmë ora e kohës së një profesori?
+Dialogue: 0,0:05:08.56,0:05:10.91,Main,Claude,0,0,0,,Vërtet, çfarë të zgjati kaq shumë?
+Dialogue: 0,0:05:12.11,0:05:13.42,Main,Claude,0,0,0,,Prit një sekondë...
+Dialogue: 0,0:05:15.92,0:05:17.26,Main,Claude,0,0,0,,Kaq shumë grim!
+Dialogue: 0,0:05:17.26,0:05:19.55,Main,Claude,0,0,0,,Je në gjimnaz!\NZbute pak!
+Dialogue: 0,0:05:19.55,0:05:23.76,Main,Spica,0,0,0,,E ashpër! Po përpiqesha të mos\Ndukesha si fëmijë pranë teje!
+Dialogue: 0,0:05:23.76,0:05:24.81,Main,Claude,0,0,0,,Harroje atë!
+Dialogue: 0,0:05:24.81,0:05:26.05,Main,Claude,0,0,0,,Le të nisemi.
+Dialogue: 0,0:05:26.05,0:05:29.89,Italics,Spica,0,0,0,,Ky njeri është kaq i pandjeshëm!
+Dialogue: 0,0:05:31.17,0:05:32.59,Main,Spica,0,0,0,,Prit, profesor!
+Dialogue: 0,0:05:35.46,0:05:37.20,Italics,Spica,0,0,0,,Au...
+Dialogue: 0,0:05:37.20,0:05:39.73,Italics,Spica,0,0,0,,Nuk jam mësuar me taka kaq të larta.
+Dialogue: 0,0:05:40.61,0:05:42.61,Main,Claude,0,0,0,,Hej, a je mirë?
+Dialogue: 0,0:05:42.61,0:05:43.90,Main,Claude,0,0,0,,Je kaq e ngathët.
+Dialogue: 0,0:05:45.61,0:05:47.59,Italics,Spica,0,0,0,,Jam kaq e turpëruar.
+Dialogue: 0,0:05:49.19,0:05:51.79,Main,Aria,0,0,0,,Ajo është atje. Është Spika.
+Dialogue: 0,0:05:51.79,0:05:55.09,Main,Hana,0,0,0,,Ai nuk është Profesor\NKlod me të, apo jo?
+Dialogue: 0,0:05:55.09,0:05:56.16,Main,Aria,0,0,0,,Duket se po.
+Dialogue: 0,0:05:56.39,0:05:59.87,Main,Hana,0,0,0,,A nuk janë në një takim...?
+Dialogue: 0,0:05:59.87,0:06:03.13,Main,Aria,0,0,0,,Prandaj po i ndjekim.\NPër ta zbuluar.
+Dialogue: 0,0:06:03.13,0:06:06.25,Main,Hana,0,0,0,,Nëse po sillesh si i çuditshëm\Nduke ndjekur studenten e tij,
+Dialogue: 0,0:06:06.25,0:06:09.12,Main,Hana,0,0,0,,do ta dorëzoj vetë në polici.
+Dialogue: 0,0:06:09.12,0:06:11.59,Main,Aria,0,0,0,,Kjo tingëllon argëtuese.
+Dialogue: 0,0:06:19.65,0:06:24.25,Italics,Spica,0,0,0,,Të ecësh kështu pranë tij vërtet\Ne bën të ndihet si takim.
+Dialogue: 0,0:06:24.25,0:06:25.94,Italics,Spica,0,0,0,,A po e mendoj tepër?
+Dialogue: 0,0:06:26.52,0:06:30.45,Italics,Spica,0,0,0,,Nuk më shqetësonte fare\Nkur ishte mace.
+Dialogue: 0,0:06:30.83,0:06:33.93,Italics,Spica,0,0,0,,Pyes veten çfarë mendon\Nprofesori për këtë.
+Dialogue: 0,0:06:33.93,0:06:37.79,Italics,Spica,0,0,0,,Preferoj që të më vinte re\Ntë paktën pak.
+Dialogue: 0,0:06:37.79,0:06:39.61,Main,Spica,0,0,0,,Hej, Profesor Klod...
+Dialogue: 0,0:06:40.26,0:06:42.67,Main,Spica,0,0,0,,Po më vjen pak etje.
+Dialogue: 0,0:06:42.67,0:06:44.10,Main,Spica,0,0,0,,Pse nuk blejmë një pije?
+Dialogue: 0,0:06:44.10,0:06:45.66,Main,Claude,0,0,0,,Mendoj se nuk do të më prishë punë.
+Dialogue: 0,0:06:45.91,0:06:47.04,Italics,Spica,0,0,0,,E mora!
+Dialogue: 0,0:06:47.04,0:06:49.73,Italics,Spica,0,0,0,,Ky dyqan lëngjesh është\Nvend popullor për çifte.
+Dialogue: 0,0:06:49.73,0:06:54.13,Italics,Spica,0,0,0,,Madje kanë kashtra çiftesh\Nqë dy njerëz të ndajnë një pije!
+Dialogue: 0,0:06:54.62,0:06:59.14,Italics,Spica,0,0,0,,Është pak e turpshme, por nëse mund\Ntë shikojmë njëri-tjetrin në sy ndërsa pijmë...
+Dialogue: 0,0:06:59.59,0:07:03.29,Italics,Claude,0,0,0,,A ishte Spika gjithmonë kaq e bukur?
+Dialogue: 0,0:07:03.29,0:07:05.85,Italics,Spica,0,0,0,,Kjo duhet ta prekë pak, apo jo?
+Dialogue: 0,0:07:06.27,0:07:07.42,Main,Trucker,0,0,0,,Përshëndetje.
+Dialogue: 0,0:07:07.42,0:07:10.32,Main,Spica,0,0,0,,Hm, n-një nga këto, të lutem.
+Dialogue: 0,0:07:10.88,0:07:12.35,Main,Aria,0,0,0,,Dyqani i lëngjeve?
+Dialogue: 0,0:07:12.35,0:07:14.47,Main,Aria,0,0,0,,Shoh vetëm Spikën duke porositur.
+Dialogue: 0,0:07:14.47,0:07:19.86,Main,Hana,0,0,0,,Më mirë të mos ketë ndërmend\Nnjë puthje indirekte profesori.
+Dialogue: 0,0:07:19.87,0:07:21.54,Main,SIGN,0,0,0,,{\an8}HEHEHEH
+Dialogue: 0,0:07:19.86,0:07:21.06,Main,Claude,0,0,0,,Heheheh...
+Dialogue: 0,0:07:21.06,0:07:23.43,Main,Claude,0,0,0,,Buzët e tua janë m...uah!
+Dialogue: 0,0:07:23.43,0:07:24.61,Main,Aria,0,0,0,,Nuk mundet!
+Dialogue: 0,0:07:24.61,0:07:25.80,Main,Hana,0,0,0,,Duhet t'i ndalojmë!
+Dialogue: 0,0:07:27.54,0:07:28.50,Main,Claude,0,0,0,,Spika.
+Dialogue: 0,0:07:28.50,0:07:29.18,Main,Spica,0,0,0,,Po?
+Dialogue: 0,0:07:29.18,0:07:30.17,Main,Claude,0,0,0,,Le të shkojmë.
+Dialogue: 0,0:07:31.11,0:07:33.42,Main,Trucker,0,0,0,,Zotëri, pija juaj!
+Dialogue: 0,0:07:33.92,0:07:35.30,Main,Aria,0,0,0,,Hë?
+Dialogue: 0,0:07:35.30,0:07:36.42,Main,Hana,0,0,0,,Të dy u zhdukën.
+Dialogue: 0,0:07:36.85,0:07:41.40,Main,Trucker,0,0,0,,Hm, përshëndetje. Nëse dëshironi...
+Dialogue: 0,0:07:44.38,0:07:46.87,Main,Aria,0,0,0,,Si ndodhi kjo?
+Dialogue: 0,0:07:46.87,0:07:48.43,Main,Hana,0,0,0,,Mos më pyet.
+Dialogue: 0,0:07:53.98,0:07:55.51,Main,Claude,0,0,0,,Oh.
+Dialogue: 0,0:07:55.51,0:07:58.20,Main,Claude,0,0,0,,Mendova se vura re dikë\Nqë po na ndiqte. Janë vetëm ata.
+Dialogue: 0,0:07:58.20,0:07:59.88,Main,Claude,0,0,0,,Çfarë po bëjnë?
+Dialogue: 0,0:08:02.31,0:08:03.79,Italics,Spica,0,0,0,,Është kaq afër!
+Dialogue: 0,0:08:04.29,0:08:07.25,Italics,Spica,0,0,0,,Kam qenë pranë tij\Ndisa herë më parë,
+Dialogue: 0,0:08:07.25,0:08:12.09,Italics,Spica,0,0,0,,por kjo situatë më bën\Ntë ndihem edhe më afër!
+Dialogue: 0,0:08:12.09,0:08:15.96,Italics,Spica,0,0,0,,Uh-oh... Trupi më nxehet.
+Dialogue: 0,0:08:15.96,0:08:18.05,Main,Claude,0,0,0,,Le të blejmë shkopin tënd dhe të kthehemi.
+Dialogue: 0,0:08:20.27,0:08:21.36,Main,Claude,0,0,0,,Spika?
+Dialogue: 0,0:08:21.85,0:08:23.00,Main,Claude,0,0,0,,Spika?
+Dialogue: 0,0:08:23.48,0:08:25.02,Main,Claude,0,0,0,,Ku shkove?!
+Dialogue: 0,0:08:21.41,0:08:22.63,Main - Top,Man,0,0,0,,Uau!
+Dialogue: 0,0:08:29.52,0:08:31.28,Main,Spica,0,0,0,,Au...
+Dialogue: 0,0:08:31.94,0:08:34.59,Main,Coachman,0,0,0,,Qetësohu, shok.
+Dialogue: 0,0:08:34.59,0:08:36.86,Main,Man 2,0,0,0,,A e dëgjove atë zhurmë të madhe?
+Dialogue: 0,0:08:35.73,0:08:39.12,Main - Top,Man 3,0,0,0,,Duket se kuajt po panikohen\Npasi dikush ra në ngarkesë.
+Dialogue: 0,0:08:40.73,0:08:42.41,Main,Spica,0,0,0,,Kjo është e mjerë.
+Dialogue: 0,0:08:42.78,0:08:45.06,Main,Spica,0,0,0,,Çfarë po bëj fare?
+Dialogue: 0,0:08:45.72,0:08:49.62,Main,Spica,0,0,0,,Po shkaktoj vetëm telashe\Ndhe po turpërohem.
+Dialogue: 0,0:08:49.62,0:08:51.05,Main,Spica,0,0,0,,Ndjehem kaq budallaqe.
+Dialogue: 0,0:08:51.89,0:08:54.64,Main,Spica,0,0,0,,Jemi studente dhe mësues.
+Dialogue: 0,0:08:55.04,0:08:56.85,Main,Spica,0,0,0,,Fëmijë dhe i rritur.
+Dialogue: 0,0:09:02.33,0:09:05.87,Italics,Spica,0,0,0,,Ai nuk do të më shohë kurrë si të barabartë.
+Dialogue: 0,0:09:06.69,0:09:08.91,Italics,Spica,0,0,0,,Nuk është se nuk e dija.
+Dialogue: 0,0:09:13.35,0:09:15.80,Main,Spica,0,0,0,,Çfarë është ky tym rozë?
+Dialogue: 0,0:09:17.48,0:09:19.36,Italics,Spica,0,0,0,,Gjoksi më rëndohet.
+Dialogue: 0,0:09:19.36,0:09:21.41,Italics,Spica,0,0,0,,A thitha shumë tym?
+Dialogue: 0,0:09:25.32,0:09:27.86,Main,Coachman,0,0,0,,Hej, a je mirë?
+Dialogue: 0,0:09:31.34,0:09:32.42,Main,Spica,0,0,0,,Më fal.
+Dialogue: 0,0:09:33.06,0:09:34.71,Main,Spica,0,0,0,,Ju jeni karrocieri?
+Dialogue: 0,0:09:34.71,0:09:36.16,Main,Coachman,0,0,0,,Po, unë jam.
+Dialogue: 0,0:09:36.16,0:09:39.85,Main,Coachman,0,0,0,,More rrugën duke u rrëzuar\Nndërsa po dorëzoja një pluhur magjik.
+Dialogue: 0,0:09:40.92,0:09:43.53,Main,Coachman,0,0,0,,Vërtet bëre rrëmujë.
+Dialogue: 0,0:09:43.53,0:09:45.14,Main,Spica,0,0,0,,Më vjen shumë keq.
+Dialogue: 0,0:09:45.14,0:09:46.69,Main,Spica,0,0,0,,Do ta paguaj.
+Dialogue: 0,0:09:46.69,0:09:48.09,Main,Coachman,0,0,0,,O Zot i madh.
+Dialogue: 0,0:09:48.09,0:09:50.05,Main,Coachman,0,0,0,,Mblidhu.
+Dialogue: 0,0:09:50.05,0:09:52.53,Main,Coachman,0,0,0,,Je një grua e rritur.
+Dialogue: 0,0:09:57.71,0:09:59.28,Italics,Spica,0,0,0,,Një grua e rritur?
+Dialogue: 0,0:10:01.55,0:10:05.99,Italics,Spica,0,0,0,,Jam magjistricja e gjimnazit Spika Virgo.
+Dialogue: 0,0:10:06.65,0:10:10.33,Italics,Spica,0,0,0,,Profesori im, Klod Sirius,\Ndhe unë shkuam për pazar në qytet.
+Dialogue: 0,0:10:10.33,0:10:15.51,Italics,Spica,0,0,0,,U shpërqendrova kaq shumë nga profesori\Nsa përfundova në një karrocë.
+Dialogue: 0,0:10:15.51,0:10:18.58,Italics,Spica,0,0,0,,Atje, thitha një\Npluhur magjik të paidentifikuar...
+Dialogue: 0,0:10:19.34,0:10:23.85,Italics,Spica,0,0,0,,dhe kur u përmenda, trupi im\Nishte kthyer në të një gruaje të rritur!
+Dialogue: 0,0:10:24.87,0:10:26.16,Main,Spica,0,0,0,,Një grua e rritur?
+Dialogue: 0,0:10:30.81,0:10:34.10,Main,Spica,0,0,0,,Kjo jam unë e rritur?
+Dialogue: 0,0:10:34.10,0:10:36.57,Main,Spica,0,0,0,,Nuk mundet... A jam...
+Dialogue: 0,0:10:36.57,0:10:39.63,Main,Spica,0,0,0,,A do të zhvillohem kaq bujshëm?!
+Dialogue: 0,0:10:39.63,0:10:42.02,Italics,Spica,0,0,0,,Por trup më i madh nuk\Ndo të thotë tru më i madh!
+Dialogue: 0,0:10:42.02,0:10:44.17,Main,Coachman,0,0,0,,Zonjushë? A u godite në kokë?
+Dialogue: 0,0:10:53.70,0:10:56.51,Italics,Spica,0,0,0,,Arrita ta rregulloja\Nsituatën me ngarkesën e tij,
+Dialogue: 0,0:10:56.51,0:10:58.16,Italics,Spica,0,0,0,,por çfarë të bëj me pamjen time?
+Dialogue: 0,0:10:58.78,0:11:01.23,Italics,Spica,0,0,0,,Me sa duket, ai pluhur magjik
+Dialogue: 0,0:11:01.23,0:11:04.89,Italics,Spica,0,0,0,,përkohësisht i lejon përdoruesit\Ntë marrë formën që dëshironte të kishte.
+Dialogue: 0,0:11:04.89,0:11:08.18,Italics,Spica,0,0,0,,Pra kjo nuk është domosdoshmërisht\Nsi do të dukem në të ardhmen?
+Dialogue: 0,0:11:08.52,0:11:13.44,Main,Spica,0,0,0,,Profesor Klod do të më mbajë leksion\Nnëse zbulon se gabova përsëri.
+Dialogue: 0,0:11:13.44,0:11:16.14,Main,Claude,0,0,0,,Nuk je gjë tjetër veç telashe!
+Dialogue: 0,0:11:16.14,0:11:18.37,Main,Claude,0,0,0,,Spika! Ku ishe?!
+Dialogue: 0,0:11:18.58,0:11:20.32,Italics,Spica,0,0,0,,Dreq! Profesori!
+Dialogue: 0,0:11:24.82,0:11:26.00,Main,Claude,0,0,0,,Hë?
+Dialogue: 0,0:11:27.70,0:11:30.95,Main,Claude,0,0,0,,Më fal. Ti i ngjaje\Ndikujt që njoh.
+Dialogue: 0,0:11:30.95,0:11:32.48,Main,Claude,0,0,0,,Çuditshëm...
+Dialogue: 0,0:11:32.48,0:11:34.91,Italics,Spica,0,0,0,,Nuk e ka vënë re se jam unë?!
+Dialogue: 0,0:11:35.15,0:11:36.71,Main,Spica,0,0,0,,Është... Spika...
+Dialogue: 0,0:11:37.96,0:11:41.19,Italics,Spica,0,0,0,,Duhet t'i them të vërtetën.
+Dialogue: 0,0:11:41.19,0:11:45.43,Italics,Spica,0,0,0,,Nuk e kam parë kurrë kaq të skuqur.
+Dialogue: 0,0:11:45.71,0:11:47.21,Main,Claude,0,0,0,,Spika?
+Dialogue: 0,0:11:47.21,0:11:49.27,Main,Claude,0,0,0,,E njeh?
+Dialogue: 0,0:11:49.27,0:11:51.08,Main,Spica,0,0,0,,Hë? Hm...
+Dialogue: 0,0:11:51.08,0:11:54.34,Main,Spica,0,0,0,,Oh, Spika është një e afërme e imja.
+Dialogue: 0,0:11:54.34,0:11:56.14,Italics,Spica,0,0,0,,Gënjeva!
+Dialogue: 0,0:11:56.39,0:12:00.76,Italics,Spica,0,0,0,,Por tani do të më shohë si të rritur.
+Dialogue: 0,0:12:00.76,0:12:04.32,Italics,Spica,0,0,0,,Jam kurioze të shoh\Nnjë anë tjetër të tij.
+Dialogue: 0,0:12:04.32,0:12:06.57,Italics,Spica,0,0,0,,Madje vetëm për një moment.
+Dialogue: 0,0:12:06.57,0:12:07.65,Main,Claude,0,0,0,,E vërteta është se...
+Dialogue: 0,0:12:07.65,0:12:11.42,Main,Claude,0,0,0,,erdhëm të blinim një shkop bashkë,\Npor u ndamë.
+Dialogue: 0,0:12:11.77,0:12:13.54,Main,Claude,0,0,0,,Nuk e ke parë, apo jo?
+Dialogue: 0,0:12:13.54,0:12:15.98,Main,Spica,0,0,0,,N-Nuk e kam parë.
+Dialogue: 0,0:12:15.98,0:12:17.89,Main,Spica,0,0,0,,A dëshironi që\Nt'ju ndihmoj ta kërkojmë?
+Dialogue: 0,0:12:17.89,0:12:20.08,Main,Claude,0,0,0,,Oh, jo, nuk do të doja t'ju bezdisja.
+Dialogue: 0,0:12:20.34,0:12:24.52,Main,Spica,0,0,0,,Nuk e kam parë Spikën prej kohësh.\NDo të ishte mirë ta shihja përsëri.
+Dialogue: 0,0:12:24.52,0:12:25.80,Main,Claude,0,0,0,,E kuptoj.
+Dialogue: 0,0:12:27.25,0:12:29.06,Main,Claude,0,0,0,,Në atë rast, a mund t'ju kërkoj ndihmën tuaj?
+Dialogue: 0,0:12:29.52,0:12:31.53,Main,Claude,0,0,0,,Unë jam profesori i Spikës, Klod.
+Dialogue: 0,0:12:31.53,0:12:33.22,Main,Spica,0,0,0,,M-Mirë se ju njoha.
+Dialogue: 0,0:12:33.22,0:12:36.39,Main,Claude,0,0,0,,Dyshoj se ka shkuar shumë larg ende.
+Dialogue: 0,0:12:36.58,0:12:39.90,Italics,Spica,0,0,0,,Shikomë, duke mashtruar Profesor Klodin!
+Dialogue: 0,0:12:39.90,0:12:41.90,Italics,Spica,0,0,0,,Mund të isha aktore!
+Dialogue: 0,0:12:41.90,0:12:43.48,Main,Claude,0,0,0,,A keni ndonjë ide?
+Dialogue: 0,0:12:45.24,0:12:47.68,Main,Spica,0,0,0,,Mund të ketë hyrë në\Nndonjë rrugicë, ndoshta.
+Dialogue: 0,0:12:48.57,0:12:50.50,Main,Claude,0,0,0,,Kjo tingëllon si diçka që Spika do të bënte.
+Dialogue: 0,0:12:50.50,0:12:54.17,Main,Claude,0,0,0,,Mund të endet nëpër\Nrrugica si një qen i humbur.
+Dialogue: 0,0:12:54.52,0:12:56.03,Main,Claude,0,0,0,,Le t'i provojmë.
+Dialogue: 0,0:12:56.03,0:12:57.92,Italics,Spica,0,0,0,,Për të jam një qen i humbur!
+Dialogue: 0,0:12:59.48,0:13:00.93,Main,Claude,0,0,0,,Spika!
+Dialogue: 0,0:13:00.93,0:13:03.37,Main,Spica,0,0,0,,S-Spika.
+Dialogue: 0,0:13:03.65,0:13:05.15,Main,Claude,0,0,0,,Spika!
+Dialogue: 0,0:13:05.15,0:13:08.79,Italics,Spica,0,0,0,,Të kërkoja veten është\Nnjë ndjenjë kaq e çuditshme.
+Dialogue: 0,0:13:10.87,0:13:12.43,Main,Claude,0,0,0,,Kujdes hapin.
+Dialogue: 0,0:13:16.36,0:13:19.13,Italics,Spica,0,0,0,,A-Është kaq i mirë.
+Dialogue: 0,0:13:19.13,0:13:22.31,Italics,Spica,0,0,0,,Nuk e ka bërë kurrë këtë për mua.
+Dialogue: 0,0:13:22.31,0:13:25.95,Italics,Spica,0,0,0,,A është Profesor Klod\Nnormalisht kaq zotëri?
+Dialogue: 0,0:13:25.95,0:13:29.03,Italics,Spica,0,0,0,,Apo thjesht i pëlqejnë\Ngratë më të vjetra?
+Dialogue: 0,0:13:29.30,0:13:32.41,Main,Claude,0,0,0,,Duket se rrugët këtu\Nnuk mirëmbahen.
+Dialogue: 0,0:13:32.41,0:13:34.53,Main,Claude,0,0,0,,Kujdes gurët e pabarabartë.
+Dialogue: 0,0:13:34.53,0:13:36.58,Main,Spica,0,0,0,,F-Faleminderit.
+Dialogue: 0,0:13:36.58,0:13:38.05,Main,Spica,0,0,0,,Iik! Një mi!
+Dialogue: 0,0:13:39.05,0:13:40.37,Main,Claude,0,0,0,,A je mirë?
+Dialogue: 0,0:13:40.37,0:13:43.83,Main,Spica,0,0,0,,M-Më fal. U tremba.
+Dialogue: 0,0:13:44.85,0:13:46.71,Main,Claude,0,0,0,,Edhe mua më trembe.
+Dialogue: 0,0:13:46.71,0:13:49.07,Italics,Spica,0,0,0,,Po turpërohet disi?!
+Dialogue: 0,0:13:49.07,0:13:52.11,Italics,Spica,0,0,0,,Ishte krejt i patrazuar kur\Nu afruam më herët!
+Dialogue: 0,0:13:52.11,0:13:53.56,Italics,Spica,0,0,0,,Janë gjoksi, apo jo?
+Dialogue: 0,0:13:53.56,0:13:55.73,Italics,Spica,0,0,0,,Të pëlqejnë gjoksi i madh, apo jo?!
+Dialogue: 0,0:13:55.73,0:13:57.48,Main,Claude,0,0,0,,Duket se\Nnuk është në rrugicë.
+Dialogue: 0,0:13:57.84,0:13:59.80,Main,Claude,0,0,0,,Të kërkojmë diku tjetër?
+Dialogue: 0,0:14:02.48,0:14:03.75,Main,Claude,0,0,0,,Uf.
+Dialogue: 0,0:14:03.75,0:14:05.40,Main,Claude,0,0,0,,Ku mund të ketë shkuar?
+Dialogue: 0,0:14:06.90,0:14:09.56,Main,Spica,0,0,0,,Po kërkoni një shkop, apo jo?
+Dialogue: 0,0:14:09.80,0:14:12.42,Main,Spica,0,0,0,,Mund të jetë tashmë në dyqan.
+Dialogue: 0,0:14:12.42,0:14:13.67,Main,Spica,0,0,0,,Ose jo.
+Dialogue: 0,0:14:13.67,0:14:19.41,Main,Claude,0,0,0,,Ah, mund ta shoh duke hyrë në dyqan\Nnë momentin që sheh tabelën e shkopinjve.
+Dialogue: 0,0:14:19.41,0:14:21.90,Main,Claude,0,0,0,,Si një insekt i tërhequr nga drita.
+Dialogue: 0,0:14:21.90,0:14:23.51,Italics,Spica,0,0,0,,Për të jam një insekt!
+Dialogue: 0,0:14:25.32,0:14:28.07,Italics,Spica,0,0,0,,Kjo është kaq argëtuese, megjithatë!
+Dialogue: 0,0:14:28.07,0:14:32.33,Italics,Spica,0,0,0,,Nuk është më aq e dyshimtë,\Ntani që jemi me lartësi të ngjashme, apo jo?
+Dialogue: 0,0:14:32.33,0:14:34.64,Main,Woman,0,0,0,,Mendoni se ata të dy janë aktorë skene?
+Dialogue: 0,0:14:35.36,0:14:37.85,Main,Woman 2,0,0,0,,Çfarë çifti tërheqës... Jam xheloze!
+Dialogue: 0,0:14:37.85,0:14:40.92,Italics,Spica,0,0,0,,A dukemi si çift për të tjerët?
+Dialogue: 0,0:14:42.09,0:14:43.48,Main,Claude,0,0,0,,A është gjithçka në rregull?
+Dialogue: 0,0:14:44.02,0:14:45.94,Main,Claude,0,0,0,,Fytyra të është skuqur.
+Dialogue: 0,0:14:45.94,0:14:47.76,Main,Spica,0,0,0,,J-Jam mirë.
+Dialogue: 0,0:14:47.76,0:14:48.68,Main,Claude,0,0,0,,Je e sigurt?
+Dialogue: 0,0:14:48.68,0:14:50.59,Main,Spica,0,0,0,,Hm, uh...
+Dialogue: 0,0:14:55.92,0:14:58.78,Main,Spica,0,0,0,,Thjesht po mendoja sa e lezetshme është kjo.
+Dialogue: 0,0:14:59.35,0:15:01.41,Main,Claude,0,0,0,,Ai me zbukurimet me lule?
+Dialogue: 0,0:15:02.98,0:15:04.69,Main,Claude,0,0,0,,Ju të dy jeni vërtet të ngjashme.
+Dialogue: 0,0:15:05.62,0:15:09.03,Main,Claude,0,0,0,,Mund ta shoh Spikën duke zgjedhur këtë.
+Dialogue: 0,0:15:12.66,0:15:15.95,Main,Claude,0,0,0,,O Zot... Ku është, gjithsesi?
+Dialogue: 0,0:15:15.95,0:15:18.24,Main,Claude,0,0,0,,Pse nuk shkojmë të kërkojmë\Nedhe jashtë pak?
+Dialogue: 0,0:15:18.64,0:15:20.51,Main,Spica,0,0,0,,Në rregull.
+Dialogue: 0,0:15:32.33,0:15:34.12,Main,Claude,0,0,0,,As këtu.
+Dialogue: 0,0:15:34.55,0:15:38.97,Main,Claude,0,0,0,,Duke e njohur, mendova se mund\Ntë kishte rënë në lumë.
+Dialogue: 0,0:15:38.97,0:15:42.12,Italics,Spica,0,0,0,,Vërtet, për kë më mban\Nai, gjithsesi?
+Dialogue: 0,0:15:43.84,0:15:45.15,Main,Spica,0,0,0,,Thuaj...
+Dialogue: 0,0:15:45.15,0:15:48.59,Main,Spica,0,0,0,,Si është Spika nga këndvështrimi yt?
+Dialogue: 0,0:15:48.95,0:15:54.99,Italics,Spica,0,0,0,,Është pak e frikshme, por dua të di\Nçfarë mendon vërtet profesori.
+Dialogue: 0,0:15:59.04,0:16:02.37,Main,Claude,0,0,0,,Është një budallacke dhe frikacake, pavarësisht\Nsa shumë e madhëron veten.
+Dialogue: 0,0:16:02.37,0:16:05.23,Main,Claude,0,0,0,,Është e shkujdesur dhe nuk sheh\Nveç diell e ylberë.
+Dialogue: 0,0:16:05.86,0:16:07.70,Italics,Spica,0,0,0,,Tepër e ashpër!
+Dialogue: 0,0:16:08.50,0:16:11.19,Main,Claude,0,0,0,,Ose kështu mendova, në fillim.
+Dialogue: 0,0:16:12.35,0:16:16.23,Main,Claude,0,0,0,,Por punon mjaftueshëm\Nsa ta kapërcejë paaftësinë.
+Dialogue: 0,0:16:17.11,0:16:20.18,Main,Claude,0,0,0,,Edhe pse është frikacake,\Nka guximin të përballet me frikën.
+Dialogue: 0,0:16:20.74,0:16:23.69,Main,Claude,0,0,0,,Gjithmonë ka aftësinë të mbajë\Nkokën lart dhe të punojë për qëllimin.
+Dialogue: 0,0:16:46.92,0:16:52.45,Main,Claude,0,0,0,,Personaliteti dhe mirësia e saj\Ntërheqin njerëzit në orbitën e saj.
+Dialogue: 0,0:16:54.96,0:16:58.78,Main,Claude,0,0,0,,Prandaj e vlerësoj shumë.
+Dialogue: 0,0:17:02.96,0:17:06.32,Main,Claude,0,0,0,,Oh, të lutem mos i thuaj këto, megjithatë.
+Dialogue: 0,0:17:06.32,0:17:08.84,Main,Claude,0,0,0,,Do t'i shkojnë patjetër në kokë.
+Dialogue: 0,0:17:10.18,0:17:14.79,Italics,Spica,0,0,0,,Nuk e dija se ai mendonte kështu për mua.
+Dialogue: 0,0:17:16.20,0:17:19.74,Flashback Italics,Spica,0,0,0,,Ai nuk do të më shohë kurrë si të barabartë.
+Dialogue: 0,0:17:20.49,0:17:22.79,Flashback Italics,Spica,0,0,0,,Nuk është se nuk e dija.
+Dialogue: 0,0:17:24.17,0:17:28.52,Italics,Spica,0,0,0,,Ai gjithmonë ka menduar për mua.
+Dialogue: 0,0:17:29.10,0:17:30.85,Main,Spica,0,0,0,,M-Më fal.
+Dialogue: 0,0:17:32.03,0:17:34.51,Main,Spica,0,0,0,,Sapo kujtova se\Nduhet të jem diku.
+Dialogue: 0,0:17:34.51,0:17:35.89,Main,Spica,0,0,0,,Duhet të nisem.
+Dialogue: 0,0:17:36.37,0:17:39.28,Main,Spica,0,0,0,,Jam e sigurt se do ta gjeni Spikën.
+Dialogue: 0,0:17:39.28,0:17:40.51,Main,Spica,0,0,0,,Mirupafshim.
+Dialogue: 0,0:17:41.56,0:17:42.19,Main,Claude,0,0,0,,Pri—
+Dialogue: 0,0:17:44.70,0:17:47.26,Italics,Claude,0,0,0,,A- A po qante?
+Dialogue: 0,0:17:47.26,0:17:48.44,Italics,Claude,0,0,0,,Pse?!
+Dialogue: 0,0:17:53.16,0:17:56.72,Italics,Spica,0,0,0,,Ai patjetër mendon se jam e çuditshme.
+Dialogue: 0,0:17:56.72,0:18:00.21,Italics,Spica,0,0,0,,Por isha gati të qaja\Npara tij.
+Dialogue: 0,0:18:01.78,0:18:05.72,Italics,Spica,0,0,0,,Nuk e dija se kujdesej kaq shumë për mua.
+Dialogue: 0,0:18:10.02,0:18:14.69,Italics,Spica,0,0,0,,Dhjetë minuta më vonë, magjia u shua\Ndhe u ktheva në normale.
+Dialogue: 0,0:18:14.69,0:18:27.66,Main,SIGN,0,0,0,,{\an8}NAG NAG NAG NAG
+Dialogue: 0,0:18:14.91,0:18:16.72,Main,Claude,0,0,0,,Çfarë po bëje gjithë këtë kohë?!
+Dialogue: 0,0:18:16.72,0:18:18.59,Main,Claude,0,0,0,,Endesha rreth e qark deri kaq vonë...
+Dialogue: 0,0:18:18.59,0:18:19.85,Main,Claude,0,0,0,,Ke fat që nuk ndodhi asgjë!
+Dialogue: 0,0:18:19.85,0:18:21.95,Main,Claude,0,0,0,,U zhduke pa më thënë\Nas ku po shkoje!
+Dialogue: 0,0:18:21.95,0:18:23.82,Main,Claude,0,0,0,,O Zot i madh! Je e pabesueshme!
+Dialogue: 0,0:18:23.82,0:18:27.66,Main,Claude,0,0,0,,Nag! Nag! Nag! Nag!
+Dialogue: 0,0:18:23.82,0:18:27.20,Italics,Spica,0,0,0,,Mora një qortim të madh.
+Dialogue: 0,0:18:27.66,0:18:29.42,Main,Spica,0,0,0,,Më fal.
+Dialogue: 0,0:18:29.42,0:18:30.73,Main,Claude,0,0,0,,Sinqerisht...
+Dialogue: 0,0:18:31.10,0:18:33.64,Main,Claude,0,0,0,,Çfarë do të bëja nëse\Nkultistët do të të kishin marrë?
+Dialogue: 0,0:18:36.04,0:18:37.88,Main,Claude,0,0,0,,Mos më shqetëso kështu.
+Dialogue: 0,0:18:38.76,0:18:41.38,Italics,Spica,0,0,0,,Ndjehem kaq keq!
+Dialogue: 0,0:18:41.38,0:18:46.14,Main,Spica,0,0,0,,Më fal! Më fal! Më fal!
+Dialogue: 0,0:18:43.86,0:18:46.14,Italics,Spica,0,0,0,,Jam një mbeturinë e vërtetë!
+Dialogue: 0,0:18:46.54,0:18:47.47,Main,Spica,0,0,0,,Au!
+Dialogue: 0,0:18:47.82,0:18:50.19,Main,Claude,0,0,0,,Nuk kemi kohë për pazar tani.
+Dialogue: 0,0:18:50.55,0:18:52.15,Main,Claude,0,0,0,,Le të kthehemi.
+Dialogue: 0,0:18:54.77,0:18:56.37,Main,Spica,0,0,0,,A nuk është kjo...
+Dialogue: 0,0:18:57.73,0:19:00.44,Main,Claude,0,0,0,,Meqë ra fjala, takova të afërmen tënde.
+Dialogue: 0,0:19:01.21,0:19:03.31,Main,Spica,0,0,0,,S-Si ishte ajo?
+Dialogue: 0,0:19:03.31,0:19:05.54,Main,Claude,0,0,0,,Ishte pak e çuditshme.
+Dialogue: 0,0:19:05.54,0:19:08.44,Italics,Spica,0,0,0,,Pra vërtet mendoi se isha e çuditshme!
+Dialogue: 0,0:19:13.52,0:19:16.95,Main,Spica,0,0,0,,Çfarë dite e gjatë. Jam e rraskapitur.
+Dialogue: 0,0:19:17.24,0:19:18.58,Main,Hana,0,0,0,,Ku ishe?!
+Dialogue: 0,0:19:18.58,0:19:19.67,Main,Aria,0,0,0,,Çfarë po bëje?
+Dialogue: 0,0:19:19.67,0:19:21.95,Main,Spica,0,0,0,,Hm...
+Dialogue: 0,0:19:22.35,0:19:26.98,Italics,Spica,0,0,0,,Për ndonjë arsye, Aria dhe Hana\Nmë morën në pyetje për atë që bëra sot.
+Dialogue: 0,0:19:21.95,0:19:24.20,Main - Top,Aria,0,0,0,,A është diçka që nuk mund të më tregosh?
+Dialogue: 0,0:19:24.20,0:19:26.98,Main - Top,Hana,0,0,0,,Ji e sinqertë! Çfarë po bëje?!
+Dialogue: 0,0:19:27.38,0:19:31.72,Italics,Spica,0,0,0,,Ndonëse, arrita të dëgjoja çfarë\Nmendon vërtet Klod për mua,
+Dialogue: 0,0:19:31.72,0:19:33.13,Italics,Spica,0,0,0,,dhe pashë se si skuqet.
+Dialogue: 0,0:19:33.13,0:19:34.60,Italics,Spica,0,0,0,,U argëtova.
+Dialogue: 0,0:19:37.22,0:19:43.48,Italics,Spica,0,0,0,,A do të kem vërtet një\Nshans kur të rritem?
+Dialogue: 0,0:19:44.49,0:19:46.23,Main,Spica,0,0,0,,Në rregull!
+Dialogue: 0,0:19:46.23,0:19:50.78,Main,Spica,0,0,0,,Do të bëhem një grua e përsosur,\Nnga brenda e nga jashtë!
+Dialogue: 0,0:19:50.78,0:19:53.17,Main,Spica,0,0,0,,Po!
+Dialogue: 0,0:19:59.60,0:20:01.94,Main,Io,0,0,0,,Sollët macezën tënde me vete sot?
+Dialogue: 0,0:20:02.73,0:20:04.84,Main,Spica,0,0,0,,Ishim me nxitim, ndaj...
+Dialogue: 0,0:20:10.92,0:20:14.93,Italics,Spica,0,0,0,,Gjithmonë kam admiruar Akademinë\NMbretërore të Magjisë Diana.
+Dialogue: 0,0:20:17.80,0:20:19.98,Main,Claude,0,0,0,,Më falni, a mund të, ju lutem?
+Dialogue: 0,0:20:31.05,0:20:33.82,Main,Claude,0,0,0,,Kështu është rasti se...
+Dialogue: 0,0:20:33.82,0:20:35.96,Main,Capella,0,0,0,,Hej, ndalo së mbështeturi tek unë.
+Dialogue: 0,0:20:36.83,0:20:40.29,Main,Ewe,0,0,0,,Vërtet po dëgjoj\Nnë mësim! Më lavdëro!
+Dialogue: 0,0:20:40.29,0:20:42.32,Main,Leo,0,0,0,,Kjo është kaq e mërzitshme.
+Dialogue: 0,0:20:42.32,0:20:44.73,Main,Leo,0,0,0,,Do të doja të bëja diçka më shpërthyese!
+Dialogue: 0,0:20:44.73,0:20:47.76,Main,Merrow,0,0,0,,Si thoni të këndojmë\Ntë gjithë bashkë gjatë leksionit?
+Dialogue: 0,0:20:48.03,0:20:50.85,Main,Astrea,0,0,0,,Hajde, ndërro me Poluksin.
+Dialogue: 0,0:20:50.85,0:20:52.92,Main,Astrea,0,0,0,,Nuk kam qejf të studioj pranë teje.
+Dialogue: 0,0:20:52.92,0:20:54.30,Main,Castor,0,0,0,,Hesht. Dhe vdis.
+Dialogue: 0,0:20:54.30,0:20:56.22,Main,Astrea,0,0,0,,Mjerisht, nuk do të vdes.
+Dialogue: 0,0:20:54.30,0:20:56.85,Main,Pollux,0,0,0,,Edhe unë dua të jem në klasë, vëlla.
+Dialogue: 0,0:20:56.85,0:20:58.43,Main,Tarf,0,0,0,,A është gjithçka në rregull, Kiron?
+Dialogue: 0,0:20:58.43,0:20:59.86,Main,Tarf,0,0,0,,A kupton gjithçka?
+Dialogue: 0,0:20:59.86,0:21:01.92,Main,Tarf,0,0,0,,Të shpjegoj gjë?
+Dialogue: 0,0:21:01.92,0:21:04.27,Main,Chiron,0,0,0,,Hesht! Mjaft më trajto si fëmijë!
+Dialogue: 0,0:21:04.27,0:21:06.07,Main,Chiron,0,0,0,,Por ma shpjego, të lutem.
+Dialogue: 0,0:21:06.07,0:21:09.96,Main,Aria,0,0,0,,Çfarë të bëj për ta ngacmuar Spikën sot?
+Dialogue: 0,0:21:09.96,0:21:14.37,Main,Hana,0,0,0,,Çfarë po ndodh saktësisht\Nmes Spikës dhe Profesor Klodit, gjithsesi?
+Dialogue: 0,0:21:14.37,0:21:15.78,Main,Hana,0,0,0,,Po më mundon kaq shumë.
+Dialogue: 0,0:21:16.89,0:21:19.75,Main,Io,0,0,0,,Koveni i Klodit është kaq argëtues.
+Dialogue: 0,0:21:20.07,0:21:23.57,Italics,Spica,0,0,0,,U shqetësova kur hyra\Npër herë të parë në akademi.
+Dialogue: 0,0:21:23.57,0:21:28.50,Italics,Spica,0,0,0,,Të detyrohesha të përballesha me mangësitë e mia,\Ntë sulmohesha nga kultistët...
+Dialogue: 0,0:21:28.50,0:21:32.03,Italics,Spica,0,0,0,,Është çmenduri të mendosh\Npër gjithçka që ka ndodhur.
+Dialogue: 0,0:21:32.03,0:21:36.86,Italics,Spica,0,0,0,,Çdo herë, punuam\Nbashkë dhe e kapërcyem.
+Dialogue: 0,0:21:38.98,0:21:39.94,Main,Spica,0,0,0,,Anima!
+Dialogue: 0,0:21:45.02,0:21:46.69,Italics,Spica,0,0,0,,Gjithçka do të shkojë mirë.
+Dialogue: 0,0:21:47.86,0:21:54.80,Italics,Spica,0,0,0,,Bashkë me Profesor Klodin dhe\NKovenin e Klodit, mund të mund çdo gjë.
+Dialogue: 0,0:21:55.62,0:21:57.49,Italics,Spica,0,0,0,,Çdo gjë që na del përpara.
+Dialogue: 0,0:22:00.73,0:22:06.02,Italics,Spica,0,0,0,,Rruga ime për t'u bërë magjistrice\Ne klasit të parë nuk mbaron këtu!
+
