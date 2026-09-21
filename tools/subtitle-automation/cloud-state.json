@@ -1,62 +1,7 @@
 {
   "version": 1,
-  "updated": "2026-09-20T21:48:14Z",
+  "updated": "2026-09-21T02:14:57Z",
   "pending": [
-    {
-      "sourceReleaseId": "689787",
-      "sourceTitle": "Mahou Shoujo Lyrical Nanoha EXCEEDS - Gun Blaze Vengeance",
-      "sourceEpisode": "12",
-      "status": "queued"
-    },
-    {
-      "sourceReleaseId": "689748",
-      "sourceTitle": "Grow Up Show - Himawari no Circus-dan",
-      "sourceEpisode": "12",
-      "status": "queued"
-    },
-    {
-      "sourceReleaseId": "689726",
-      "sourceTitle": "Yomi no Tsugai",
-      "sourceEpisode": "24",
-      "status": "queued"
-    },
-    {
-      "sourceReleaseId": "689693",
-      "sourceTitle": "Iwamoto-senpai no Suisen",
-      "sourceEpisode": "12",
-      "status": "queued"
-    },
-    {
-      "sourceReleaseId": "689673",
-      "sourceTitle": "Black Torch",
-      "sourceEpisode": "12",
-      "status": "queued"
-    },
-    {
-      "sourceReleaseId": "689648",
-      "sourceTitle": "Mairimashita! Iruma-kun S4",
-      "sourceEpisode": "23",
-      "status": "queued"
-    },
-    {
-      "sourceReleaseId": "689639",
-      "sourceTitle": "Detective Conan",
-      "sourceEpisode": "1213",
-      "status": "queued"
-    },
-    {
-      "sourceReleaseId": "689595",
-      "sourceTitle": "Honzuki no Gekokujou S4",
-      "sourceEpisode": "22",
-      "status": "queued"
-    },
-    {
-      "sourceReleaseId": "689452",
-      "sourceTitle": "Hell Mode S2",
-      "sourceEpisode": "12",
-      "status": "blocked-attachment",
-      "reason": "Expected exactly one unforced English ASS track"
-    },
     {
       "sourceReleaseId": "689458",
       "sourceTitle": "Uchi no Otouto-domo ga Sumimasen",
