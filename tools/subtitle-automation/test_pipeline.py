@@ -12,6 +12,40 @@ class PipelineTests(unittest.TestCase):
         xml = '<rss><channel>' + ''.join(f'<item><title>{t}</title><link>https://animetosho.xyz/view/{i}</link><pubDate>Tue, 15 Sep 2026 01:00:00 +0000</pubDate></item>' for i,t in enumerate(titles)) + '</channel></rss>'
         self.assertEqual([r['id'] for r in releases(xml)], ['0'])
 
+    @staticmethod
+    def feed(titles):
+        return '<rss><channel>' + ''.join(
+            f'<item><title>{t}</title><link>https://animetosho.xyz/view/{i}</link>'
+            f'<pubDate>Tue, 15 Sep 2026 01:00:00 +0000</pubDate></item>'
+            for i, t in enumerate(titles)) + '</channel></rss>'
+
+    def test_erai_takes_one_1080p_encode_per_episode(self):
+        titles = ['[Erai-raws] Title - 01 [1080p CR WEBRip HEVC AAC][MultiSub][AAAAAAAA]',
+                  '[Erai-raws] Title - 01 [1080p CR WEB-DL AVC AAC][MultiSub][BBBBBBBB]',
+                  '[Erai-raws] Title - 01 [720p CR WEB-DL AVC AAC][MultiSub][CCCCCCCC]',
+                  '[Erai-raws] Title - 01 [480p CR WEB-DL AVC AAC][DDDDDDDD]']
+        # One entry, and the WEB-DL rather than the WEBRip re-encode of it.
+        self.assertEqual([r['crc'] for r in releases(self.feed(titles))], ['BBBBBBBB'])
+
+    def test_erai_keeps_the_webrip_when_it_is_the_only_1080p(self):
+        titles = ['[Erai-raws] Other - 12 [1080p CR WEBRip HEVC AAC][MultiSub][EEEEEEEE]',
+                  '[Erai-raws] Other - 12 [480p CR WEB-DL AVC AAC][MultiSub][FFFFFFFF]']
+        self.assertEqual([r['crc'] for r in releases(self.feed(titles))], ['EEEEEEEE'])
+
+    def test_both_groups_parse_and_multisub_is_optional(self):
+        titles = ['[SubsPlease] Show - 05 (1080p) [12345678].mkv',
+                  '[Erai-raws] One Piece - 1179 [1080p CR WEB-DL AVC AAC][ABCDEF12]']
+        self.assertEqual([(r['title'], r['episode']) for r in releases(self.feed(titles))],
+                         [('Show', '05'), ('One Piece', '1179')])
+
+    def test_erai_episodes_are_distinct_but_numbering_is_normalised(self):
+        titles = ['[Erai-raws] Show - 01 [1080p CR WEB-DL AVC AAC][MultiSub][AAAAAAAA]',
+                  '[Erai-raws] Show - 1 [1080p CR WEBRip HEVC AAC][MultiSub][BBBBBBBB]',
+                  '[Erai-raws] Show - 02 [1080p CR WEB-DL AVC AAC][MultiSub][CCCCCCCC]']
+        # "01" and "1" are the same episode; 02 is not.
+        self.assertEqual([r['crc'] for r in releases(self.feed(titles))],
+                         ['AAAAAAAA', 'CCCCCCCC'])
+
     def test_track_and_video_checks(self):
         item = {'id':'1','release':'title.mkv'}
         meta = {'id':1,'files':[{'filename':'title.mkv','info':{'mediainfoj':{'video':[{'height':1080}]}}}],

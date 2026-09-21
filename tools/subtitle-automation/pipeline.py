@@ -13,12 +13,21 @@ import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 
-FEED = 'https://feed.animetosho.xyz/rss2?group=SubsPlease'
+# SubsPlease leads: it is the established source, and scanning it first means an
+# episode both groups carry is queued under its numbering rather than Erai's.
+# The two overlap heavily - Erai is a second shot at the same service rip when
+# SubsPlease is late or skips one, not a wider catalogue.
+FEEDS = ('https://feed.animetosho.xyz/rss2?group=SubsPlease',
+         'https://feed.animetosho.xyz/rss2?group=Erai-raws')
 LIMIT = 8 * 1024 * 1024
 RELEASE = re.compile(r'^\[SubsPlease\] (.+) - (\d+(?:\.\d+)?) \(1080p\) \[([A-Fa-f0-9]{8})\](?:\.mkv)?$')
 # Inside a batch the episodes keep any revision suffix they shipped with ("- 01v2"),
 # which the feed-level pattern deliberately does not accept for standalone releases.
 BATCH_FILE = re.compile(r'^\[SubsPlease\] (.+) - (\d+(?:\.\d+)?)(?:v\d+)? \(1080p\) \[([A-Fa-f0-9]{8})\]\.mkv$')
+# Erai-raws keeps the same "title - episode" shape and the same 8-hex CRC, so the
+# rest of the pipeline needs no new fields. Its third group is the source tag,
+# which releases() reads to choose between the encodes it ships per episode.
+ERAI = re.compile(r'^\[Erai-raws\] (.+) - (\d+(?:\.\d+)?) \[1080p ([^\]]*)\](?:\[MultiSub\])?\[([A-Fa-f0-9]{8})\]$')
 TOKEN = re.compile(r'(\{[^}]*\}|\\[Nnh])')
 
 def read(path):
@@ -54,18 +63,40 @@ def fetch(url):
     return data
 
 def releases(data):
-    result = []
+    """The 1080p episodes in one group's feed, one entry per episode.
+
+    SubsPlease publishes a single 1080p release per episode. Erai-raws publishes
+    two to four - a WEB-DL beside a much smaller WEBRip re-encode, sometimes from
+    two services - and they carry the same subtitle track, so the duplicates are
+    collapsed here rather than queued and rejected one at a time downstream.
+    WEB-DL wins because it is the untouched service rip; the WEBRip is only taken
+    when nothing else covers that episode, which for several titles it is.
+    """
+    best = {}
     for item in ET.fromstring(data).findall('./channel/item'):
         title = item.findtext('title', '')
-        match = RELEASE.fullmatch(title)
         link = urllib.parse.urlparse(item.findtext('link', ''))
         ident = re.fullmatch(r'/view/(\d+)', link.path)
-        if not match or not ident or link.hostname not in {'animetosho.xyz', 'animetosho.org'}:
+        if not ident or link.hostname not in {'animetosho.xyz', 'animetosho.org'}:
             continue
-        result.append({'id': ident[1], 'release': title, 'title': match[1],
-                       'episode': match[2], 'crc': match[3].upper(),
-                       'published': email.utils.parsedate_to_datetime(item.findtext('pubDate')).timestamp()})
-    return result
+        match = RELEASE.fullmatch(title)
+        if match:
+            name, episode, crc, rank = match[1], match[2], match[3], 0
+        else:
+            match = ERAI.fullmatch(title)
+            if not match:
+                continue
+            name, episode, crc = match[1], match[2], match[4]
+            rank = 1 if 'WEB-DL' in match[3] else 2
+        # Episode numbers are compared numerically so "01" and "1" are one episode.
+        key = (name, float(episode))
+        if key in best and best[key][0] <= rank:
+            continue
+        best[key] = (rank, {
+            'id': ident[1], 'release': title, 'title': name,
+            'episode': episode, 'crc': crc.upper(),
+            'published': email.utils.parsedate_to_datetime(item.findtext('pubDate')).timestamp()})
+    return [entry for _, entry in best.values()]
 
 def subtitle_url(meta, entry):
     """The one unforced English ASS attached to a confirmed 1080p file.
@@ -218,9 +249,15 @@ def main():
                 raise RuntimeError(result.stderr.strip() or result.stdout.strip())
             return json.loads(result.stdout)
         if args.command == 'scan':
-            for release in releases(fetch(FEED)):
-                if release['published'] >= state['since'] and release['id'] not in state['items']:
-                    state['items'][release['id']] = {**release, 'status': 'queued'}
+            # An episode both groups carry is queued twice: their titles are
+            # romanised differently, so nothing here can join them. The duplicate
+            # check in project.mjs resolves both to the same series and rejects
+            # the second - at match time if the first is already published, at
+            # publish time otherwise.
+            for feed in FEEDS:
+                for release in releases(fetch(feed)):
+                    if release['published'] >= state['since'] and release['id'] not in state['items']:
+                        state['items'][release['id']] = {**release, 'status': 'queued'}
             save()
         if args.command == 'expand':
             # Deliberate backfill only: the feed's history is finite, so a season that
@@ -278,10 +315,14 @@ def main():
                 if match.get('duplicate'):
                     item.update(status='duplicate', match=match); save()
                     print(json.dumps(item)); return
-                write(folder / 'match.json', match)
                 # A batch-expanded item is keyed by its file ID, so fetch its parent torrent.
                 torrent = str(item.get('torrentId', args.id))
                 meta = json.loads(fetch(f'https://feed.animetosho.xyz/json?id={torrent}&show=torrent'))
+                # AniDB's series id, recorded for publish: it is per-season and it
+                # is a real field here, where Anikoto only leaks an AniList id
+                # through a banner image URL that many titles do not have.
+                match['anidbId'] = meta.get('anidb_aid')
+                write(folder / 'match.json', match)
                 raw = decompress(fetch(attachment(meta, item)))
                 _, slots = segments(raw)
                 (folder / 'source.ass').write_bytes(raw)

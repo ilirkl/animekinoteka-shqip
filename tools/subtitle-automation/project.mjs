@@ -47,6 +47,25 @@ const anilistIdFromMal = async malId => {
   } catch { return null; }
 };
 
+// Last resort, for a title the mal mapping does not cover: Anime Tosho's own
+// series page, and only when it names exactly one AniList entry.
+//
+// AniDB files a long-running show's movies and specials under a single series
+// id, and the page then links every AniList entry belonging to it - fifteen for
+// One Piece, whose first is a one-episode special rather than the series. There
+// is nothing in the markup that marks which one is the show, so more than one
+// link is treated as no answer: a null here degrades an entry, where guessing
+// would attach a season of subtitles to the wrong title and say nothing.
+const anilistIdFromSeriesPage = async anidbId => {
+  if (!anidbId) return null;
+  try {
+    const response = await fetch(`https://animetosho.xyz/series/${anidbId}`, {signal: AbortSignal.timeout(15000)});
+    if (!response.ok) { await response.body?.cancel(); return null; }
+    const ids = new Set([...(await response.text()).matchAll(/https:\/\/anilist\.co\/anime\/(\d+)/g)].map(m => m[1]));
+    return ids.size === 1 ? Number([...ids][0]) || null : null;
+  } catch { return null; }
+};
+
 async function match(filename) {
   const parsed = parseFilename(filename);
   if (!parsed) throw Error('Unrecognized release filename');
@@ -124,6 +143,7 @@ async function publish(folder) {
   // the raw scrape, or a resolved id here would read as a changed match against
   // the null saved at match time and fail every affected release.
   fresh.anilistId ??= await anilistIdFromMal(fresh.malId);
+  fresh.anilistId ??= await anilistIdFromSeriesPage(savedMatch.anidbId);
   const releaseId = basename(folder);
   if (!/^\d+$/.test(releaseId)) throw Error('Invalid release ID');
   const id = `at-${releaseId}`;
