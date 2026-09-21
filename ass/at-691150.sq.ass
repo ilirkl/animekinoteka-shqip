@@ -1,0 +1,402 @@
+﻿[Script Info]
+Title: [Erai-raws] en
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+Video Zoom Percent: 1
+Scroll Position: 0
+Active Line: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,45,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,10,10,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:18.47,0:00:20.47,Default,,0,0,0,,Orizi ka mbërritur!
+Dialogue: 0,0:00:22.31,0:00:25.15,Default,,0,0,0,,Në rregull, le t'i futim këto brenda!
+Dialogue: 0,0:00:27.61,0:00:29.82,Default,,0,0,0,,Motori me avull Kuga,\Ni mrekullueshëm si gjithmonë!
+Dialogue: 0,0:00:34.36,0:00:36.32,Default,,0,0,0,,Kam një kërkesë për të gjithë.
+Dialogue: 0,0:00:36.41,0:00:40.91,Default,,0,0,0,,Këtë vit, po mendoj t'i lë\Npjesë të prodhimit të sakës Inakos.
+Dialogue: 0,0:00:41.41,0:00:43.00,Default,,0,0,0,,Inako?
+Dialogue: 0,0:00:46.12,0:00:47.38,Default,,0,0,0,,Jam unë, Inako.
+Dialogue: 0,0:00:48.33,0:00:50.96,Default,,0,0,0,,Saka që do të bëj\Nquhet "Nishiki Elektrik".
+Dialogue: 0,0:00:51.05,0:00:54.01,Default,,0,0,0,,Është një recetë që mamaja la\Nndërsa po vdiste.
+Dialogue: 0,0:00:54.09,0:00:55.80,Default,,0,0,0,,Jam ende e papërvojë,
+Dialogue: 0,0:00:55.88,0:00:59.64,Default,,0,0,0,,por dua të çoj përpara dëshirat e mamasë\Ndhe ta bëj këtë sakë.
+Dialogue: 0,0:00:59.72,0:01:01.51,Default,,0,0,0,,Ju lutem, më ndihmoni!
+Dialogue: 0,0:01:01.60,0:01:03.35,Default,,0,0,0,,Saka e Naekos, hë?
+Dialogue: 0,0:01:03.43,0:01:05.77,Default,,0,0,0,,E di se ke një nuhatje të mirë.
+Dialogue: 0,0:01:05.85,0:01:08.52,Default,,0,0,0,,Nuk na pengon, Jinemon.
+Dialogue: 0,0:01:09.48,0:01:10.52,Default,,0,0,0,,Faleminderit.
+Dialogue: 0,0:01:10.61,0:01:12.44,Default,,0,0,0,,Vajza ime u rrit në fabrikë.
+Dialogue: 0,0:01:12.53,0:01:14.61,Default,,0,0,0,,Mos hezito t'i thuash çdo gjë.
+Dialogue: 0,0:01:14.69,0:01:15.90,Default,,0,0,0,,Sigurisht.
+Dialogue: 0,0:01:15.99,0:01:19.12,Default,,0,0,0,,Ka kaluar kohë\Nqë kur bëmë sakën e Naekos!
+Dialogue: 0,0:01:20.91,0:01:22.37,Default,,0,0,0,,Mezi presim, hë?
+Dialogue: 0,0:01:25.12,0:01:26.50,Default,,0,0,0,,Faleminderit shumë.
+Dialogue: 0,0:01:40.18,0:01:43.77,Default,,0,0,0,,{\an8}SHKËNDIJA E SË NESËRMES
+Dialogue: 0,0:02:53.17,0:02:56.96,Default,,0,0,0,,EPISODI 12: TRURI ELEKTRIK
+Dialogue: 0,0:02:57.05,0:02:59.63,Default,,0,0,0,,{\an8}SPITALI KYOTO KAMOGAWA
+Dialogue: 0,0:03:09.52,0:03:11.90,Default,,0,0,0,,Ke ardhur të vizitosh atë djalin?
+Dialogue: 0,0:03:11.98,0:03:13.40,Default,,0,0,0,,Është një djalë i çuditshëm.
+Dialogue: 0,0:03:13.98,0:03:15.02,Default,,0,0,0,,Kihachi.
+Dialogue: 0,0:03:16.19,0:03:17.03,Default,,0,0,0,,Inago?
+Dialogue: 0,0:03:17.73,0:03:19.82,Default,,0,0,0,,Çfarë është kjo?
+Dialogue: 0,0:03:19.90,0:03:21.99,Default,,0,0,0,,Është një Truri Elektrik.
+Dialogue: 0,0:03:22.07,0:03:24.03,Default,,0,0,0,,Një Truri Elektrik?
+Dialogue: 0,0:03:24.53,0:03:27.16,Default,,0,0,0,,Sa më shumë qarqe,\Naq më komplekse llogaritjet që mund të bëjë.
+Dialogue: 0,0:03:27.24,0:03:29.20,Default,,0,0,0,,Por shtimi i qarqeve nuk është i lehtë.
+Dialogue: 0,0:03:29.29,0:03:31.21,Default,,0,0,0,,Për të filluar, burimi i qarqeve...
+Dialogue: 0,0:03:31.71,0:03:32.87,Default,,0,0,0,,Po dëgjon?
+Dialogue: 0,0:03:32.96,0:03:34.00,Default,,0,0,0,,Jo vërtet.
+Dialogue: 0,0:03:34.67,0:03:36.84,Default,,0,0,0,,E dija se Seiroku ishte i mahnitshëm.
+Dialogue: 0,0:03:36.92,0:03:38.96,Default,,0,0,0,,Të mendosh se shpiku diçka të tillë...
+Dialogue: 0,0:03:39.05,0:03:41.51,Default,,0,0,0,,Ta bësh këtë do të ndryshonte botën.
+Dialogue: 0,0:03:41.59,0:03:44.89,Default,,0,0,0,,Mund të bënim llogaritje 100 herë më shpejt\Ndhe më saktë se çdo abak.
+Dialogue: 0,0:03:44.97,0:03:46.80,Default,,0,0,0,,Trenat mund të ecin si plumba,
+Dialogue: 0,0:03:46.89,0:03:49.81,Default,,0,0,0,,dhe sinjalet elektrike\Nmund të kalonin oqeanin.
+Dialogue: 0,0:03:50.39,0:03:53.23,Default,,0,0,0,,Epoka e Elektricitetit\Ndo të vijë me një hap të madh.
+Dialogue: 0,0:03:54.31,0:03:56.36,Default,,0,0,0,,Çfarë është ai buzëqeshja?
+Dialogue: 0,0:03:57.48,0:04:01.32,Default,,0,0,0,,Babai më dha leje të bëj sakë.
+Dialogue: 0,0:04:02.70,0:04:04.28,Default,,0,0,0,,Ëndrra jote u realizua, hë?
+Dialogue: 0,0:04:04.36,0:04:05.49,Default,,0,0,0,,Po!
+Dialogue: 0,0:04:05.57,0:04:08.24,Default,,0,0,0,,Do të bëj një sakë\Nqë të gjithë e shohin të shijshme.
+Dialogue: 0,0:04:08.33,0:04:11.00,Default,,0,0,0,,Në atë rast, do të jetë një garë.
+Dialogue: 0,0:04:11.08,0:04:16.38,Default,,0,0,0,,A do ta bëj Trurin Elektrik i pari,\Napo do ta bësh sakën perfekte i pari?
+Dialogue: 0,0:04:16.46,0:04:18.63,Default,,0,0,0,,E pranoj sfidën tënde.
+Dialogue: 0,0:04:18.71,0:04:19.75,Default,,0,0,0,,E di se nuk do të humbas!
+Dialogue: 0,0:04:20.46,0:04:22.34,Default,,0,0,0,,Të solla një mizuame{\i1}për shërimin{\i0}.
+Dialogue: 0,0:04:22.42,0:04:25.01,Default,,0,0,0,,Të lutem, haje dhe shërohu shpejt.
+Dialogue: 0,0:04:25.09,0:04:27.05,Default,,0,0,0,,MIZUAME
+Dialogue: 0,0:04:41.36,0:04:42.61,Default,,0,0,0,,Emocionuese, hë?
+Dialogue: 0,0:04:42.69,0:04:43.65,Default,,0,0,0,,Po.
+Dialogue: 0,0:04:43.74,0:04:47.45,Default,,0,0,0,,Po bashkëpunoj me ty\Nvetëm për të bërë Trurin Elektrik.
+Dialogue: 0,0:04:47.53,0:04:50.24,Default,,0,0,0,,Është vërtet thelbi\Ni ëndrrës së Seirokus.
+Dialogue: 0,0:04:50.74,0:04:55.42,Default,,0,0,0,,Ky Truri Elektrik\Npërfundimisht do të tejkalojë trurin njerëzor.
+Dialogue: 0,0:04:55.50,0:04:57.42,Default,,0,0,0,,Në teori.
+Dialogue: 0,0:04:57.50,0:05:02.42,Default,,0,0,0,,Që do të thotë se një ditë, do të mund\Ntë krijojmë njerëz dhe vetë jetën.
+Dialogue: 0,0:05:03.59,0:05:06.34,Default,,0,0,0,,Vëllai im nuk donte\Ntë përdorej për këtë.
+Dialogue: 0,0:05:06.43,0:05:08.97,Default,,0,0,0,,Jo, sigurisht që jo.
+Dialogue: 0,0:05:12.89,0:05:16.39,Default,,0,0,0,,Së pari duhet të bëjmë tuba vakumi,\Nndaj merr ca llamba drite.
+Dialogue: 0,0:05:16.48,0:05:17.81,Default,,0,0,0,,Sa të duhen?
+Dialogue: 0,0:05:18.40,0:05:20.19,Default,,0,0,0,,Të paktën një milion.
+Dialogue: 0,0:05:20.27,0:05:23.82,Default,,0,0,0,,A e di sa kohë dhe para\Ndo të kërkonte kjo?
+Dialogue: 0,0:05:23.90,0:05:26.90,Default,,0,0,0,,Është për ëndrrën e Seirokus.\NLe t'i prodhojmë në masë.
+Dialogue: 0,0:05:27.61,0:05:29.74,Default,,0,0,0,,Na duhen edhe kondensatorë elektrikë,\Ntransformatorë,
+Dialogue: 0,0:05:29.82,0:05:32.58,Default,,0,0,0,,shumë tel bakri, magnete dhe kuarc.
+Dialogue: 0,0:05:33.62,0:05:36.50,Default,,0,0,0,,Do të organizoj të gjithë njerëzit\Ndhe materialet që na duhen.
+Dialogue: 0,0:05:37.12,0:05:39.79,Default,,0,0,0,,Një objekt i tillë… nën tokë?
+Dialogue: 0,0:05:40.34,0:05:43.55,Default,,0,0,0,,Mund të përdorësh gjithçka këtu lirisht.
+Dialogue: 0,0:05:43.63,0:05:46.13,Default,,0,0,0,,Le të fillojmë ndërtimin menjëherë.
+Dialogue: 0,0:05:46.22,0:05:48.43,Default,,0,0,0,,KATALOGU ELEKTRIK I SHEKULLIT TË NJËZETË
+Dialogue: 0,0:05:50.30,0:05:52.43,Default,,0,0,0,,Truri Elektrik i vëllait tim të madh.
+Dialogue: 0,0:05:52.51,0:05:55.14,Default,,0,0,0,,Qëllimi është 35% lagështi.
+Dialogue: 0,0:05:57.48,0:05:58.60,Default,,0,0,0,,Të lutem, ndërro ujin.
+Dialogue: 0,0:06:01.31,0:06:04.11,Default,,0,0,0,,Një, dy, tre.
+Dialogue: 0,0:06:04.19,0:06:05.07,Default,,0,0,0,,Në rregull.
+Dialogue: 0,0:06:06.40,0:06:07.74,Default,,0,0,0,,Të lutem, nxirre.
+Dialogue: 0,0:06:10.82,0:06:12.24,Default,,0,0,0,,Si është?
+Dialogue: 0,0:06:12.33,0:06:14.54,Default,,0,0,0,,Mendoj se është mirë. Le ta nxjerrim!
+Dialogue: 0,0:06:15.54,0:06:17.00,Default,,0,0,0,,-Ja.\N-E mora.
+Dialogue: 0,0:06:30.59,0:06:32.14,Default,,0,0,0,,Hej, Inako!
+Dialogue: 0,0:06:32.22,0:06:33.47,Default,,0,0,0,,Saki!
+Dialogue: 0,0:06:33.55,0:06:35.64,Default,,0,0,0,,Si po shkon Nishiki Elektrik?
+Dialogue: 0,0:06:36.22,0:06:37.93,Default,,0,0,0,,Sapo ka filluar.
+Dialogue: 0,0:06:38.02,0:06:40.40,Default,,0,0,0,,O Zot, mezi pres.
+Dialogue: 0,0:06:40.48,0:06:44.52,Default,,0,0,0,,-Shpresojmë t'i presësh me padurim.\N-Po, sigurisht.
+Dialogue: 0,0:06:44.61,0:06:47.86,Default,,0,0,0,,-Oh, a mund të pyes diçka?\N-Po.
+Dialogue: 0,0:06:47.94,0:06:52.37,Default,,0,0,0,,Kujt dëshiron t'ia japësh sakën tënde më shumë?
+Dialogue: 0,0:06:52.95,0:06:55.87,Default,,0,0,0,,-Kujt dua t'ia jap?\N-Po.
+Dialogue: 0,0:06:56.58,0:07:01.87,Default,,0,0,0,,Ëndrra ime është që shumë njerëz ta pinë,\Nndaj nuk e kam menduar.
+Dialogue: 0,0:07:01.96,0:07:04.54,Default,,0,0,0,,Kjo është thjesht teoria ime,
+Dialogue: 0,0:07:04.63,0:07:07.96,Default,,0,0,0,,por kur bën sakë duke menduar\Npër personin që dëshiron ta pijë,
+Dialogue: 0,0:07:08.46,0:07:10.26,Default,,0,0,0,,shija bëhet e jashtëzakonshme.
+Dialogue: 0,0:07:10.34,0:07:12.51,Default,,0,0,0,,Personi që dua ta pijë?
+Dialogue: 0,0:07:13.30,0:07:17.47,Default,,0,0,0,,Pres me padurim sakën tënde.
+Dialogue: 0,0:07:17.56,0:07:19.81,Default,,0,0,0,,Sigurohu që është e mirë, në rregull?
+Dialogue: 0,0:07:35.53,0:07:39.58,Default,,0,0,0,,Një punë ndërtimi kaq e madhe\Nnuk bëhet kaq shpejt!
+Dialogue: 0,0:07:40.08,0:07:43.62,Default,,0,0,0,,Ky është një projekt që do të përcaktojë\Ntë ardhmen e Firma Mizoe!
+Dialogue: 0,0:07:43.71,0:07:46.79,Default,,0,0,0,,Nëse nuk ka mjaft avull,\Npërdorni furnizimin civil!
+Dialogue: 0,0:07:46.88,0:07:49.01,Default,,0,0,0,,-Por—\N-Mjafton!
+Dialogue: 0,0:07:50.09,0:07:52.51,Default,,0,0,0,,Si po shkon, vëllai i vogël?
+Dialogue: 0,0:07:52.59,0:07:56.76,Default,,0,0,0,,Mora miratim për të gjitha pajisjet\Nqë diskutuam.
+Dialogue: 0,0:07:56.85,0:07:58.35,Default,,0,0,0,,A mund t'i kontrollosh për mua?
+Dialogue: 0,0:08:01.93,0:08:04.56,Default,,0,0,0,,-Hej! Kjo nuk bën.\N-Hë?
+Dialogue: 0,0:08:04.65,0:08:06.06,Default,,0,0,0,,Nuk do të përputhet me këtë.
+Dialogue: 0,0:08:06.15,0:08:07.82,Default,,0,0,0,,Hë? Ma jep atë!
+Dialogue: 0,0:08:07.90,0:08:10.19,Default,,0,0,0,,Më në fund mbarova\Nrregullimin e bisedimeve për këtë.
+Dialogue: 0,0:08:10.28,0:08:13.40,Default,,0,0,0,,-Nuk më intereson. Bëje përsëri.\N-Pse nuk ma the më parë?
+Dialogue: 0,0:08:13.99,0:08:16.28,Default,,0,0,0,,-Të thashë!\N-Jo, nuk më the!
+Dialogue: 0,0:08:16.37,0:08:18.28,Default,,0,0,0,,Nuk ka rrugë që ta harroja atë!
+Dialogue: 0,0:08:18.37,0:08:21.45,Default,,0,0,0,,Nuk do të harroja kurrë t'ju them\Ndiçka për Trurin Elektrik!
+Dialogue: 0,0:08:57.28,0:08:58.62,Default,,0,0,0,,Çfarë kuptimi ka kjo?
+Dialogue: 0,0:08:59.12,0:09:01.24,Default,,0,0,0,,-Çfarë po bën?\N-Pse je kaq prapa?
+Dialogue: 0,0:09:01.33,0:09:05.21,Default,,0,0,0,,E di sa i ndërlikuar është\NTruri Elektrik!
+Dialogue: 0,0:09:05.29,0:09:09.13,Default,,0,0,0,,Ti i vogli… Ky sistem nuk zgjat përgjithmonë!
+Dialogue: 0,0:09:09.21,0:09:11.38,Default,,0,0,0,,Nuk ka kuptim\Ntë bësh diçka gjysmë të përfunduar!
+Dialogue: 0,0:09:11.46,0:09:13.30,Default,,0,0,0,,Ti teknik pretendues!
+Dialogue: 0,0:09:13.38,0:09:15.93,Default,,0,0,0,,Nuk do të bëj kompromis! Po ti?
+Dialogue: 0,0:09:17.13,0:09:19.14,Default,,0,0,0,,Kompromisi është jashtë pyetjes.
+Dialogue: 0,0:09:19.22,0:09:21.89,Default,,0,0,0,,Mos e thuaj më kurrë atë fjalë!
+Dialogue: 0,0:09:25.23,0:09:30.06,Default,,0,0,0,,Njohuritë elektrike të vëllait tënd të vogël\Ndhe aftësitë teknike mund të jenë mbresëlënëse,
+Dialogue: 0,0:09:30.15,0:09:31.52,Default,,0,0,0,,por a nuk është pak i pamenduar?
+Dialogue: 0,0:09:31.61,0:09:34.99,Default,,0,0,0,,Mënyra si mbështetet vetëm tek unë\Npër gjëra të bezdisshme
+Dialogue: 0,0:09:35.07,0:09:36.78,Default,,0,0,0,,është pikërisht si ti, nuk mendon?
+Dialogue: 0,0:09:36.86,0:09:37.78,Default,,0,0,0,,E pabesueshme.
+Dialogue: 0,0:09:37.86,0:09:41.53,Default,,0,0,0,,Ju dy vëllezërit\Ngjithmonë më mbani duke vrapuar rreth e qark.
+Dialogue: 0,0:09:41.62,0:09:43.79,Default,,0,0,0,,Sa larg ke arritur?
+Dialogue: 0,0:09:43.87,0:09:47.96,Default,,0,0,0,,Jo shumë larg, sepse Zotëria i Stërlodrave\Nvazhdon të flasë për detaje.
+Dialogue: 0,0:09:48.04,0:09:51.38,Default,,0,0,0,,-Yajiro, më duhet kjo përsëri nesër.\N-Sigurisht.
+Dialogue: 0,0:09:53.25,0:09:54.92,Default,,0,0,0,,Kihachi, po argëtohesh?
+Dialogue: 0,0:09:55.01,0:09:59.39,Default,,0,0,0,,Po, sa më shumë mendoj,\Naq më shumë më motivon.
+Dialogue: 0,0:09:59.89,0:10:02.68,Default,,0,0,0,,A duhet të kontaktosh Inakon?
+Dialogue: 0,0:10:02.76,0:10:05.10,Default,,0,0,0,,Inago është njësoj si unë.
+Dialogue: 0,0:10:05.18,0:10:07.18,Default,,0,0,0,,Ajo do të përqendrohej te bërja e sakës.
+Dialogue: 0,0:10:10.48,0:10:12.36,Default,,0,0,0,,Inako Momokawa.
+Dialogue: 0,0:10:13.65,0:10:14.61,Default,,0,0,0,,Po?
+Dialogue: 0,0:10:18.28,0:10:20.95,Default,,0,0,0,,A nuk ke fjetur kohët e fundit, Inako?
+Dialogue: 0,0:10:21.03,0:10:22.12,Default,,0,0,0,,Jo…
+Dialogue: 0,0:10:22.20,0:10:24.29,Default,,0,0,0,,Por është kaq argëtuese!
+Dialogue: 0,0:10:24.37,0:10:26.33,Default,,0,0,0,,Dua bërjen e sakës!
+Dialogue: 0,0:10:26.41,0:10:28.62,Default,,0,0,0,,Është mirë të pushosh ndonjëherë.
+Dialogue: 0,0:10:28.71,0:10:31.71,Default,,0,0,0,,Dëshiron të shkojmë te Kihachi?\NKa kaluar kohë.
+Dialogue: 0,0:10:33.88,0:10:34.96,Default,,0,0,0,,Çfarë ka?
+Dialogue: 0,0:10:35.46,0:10:36.71,Default,,0,0,0,,Asgjë.
+Dialogue: 0,0:10:37.30,0:10:41.30,Default,,0,0,0,,Kihachi duhet të jetë duke punuar shumë\Npër ëndrrat e tij tani.
+Dialogue: 0,0:10:41.39,0:10:44.26,Default,,0,0,0,,Nuk mund ta vizitoj kot.
+Dialogue: 0,0:10:44.76,0:10:47.02,Default,,0,0,0,,Mund ta thuash atë…
+Dialogue: 0,0:10:47.10,0:10:48.52,Default,,0,0,0,,Përfunduam këtu.
+Dialogue: 0,0:10:48.60,0:10:50.14,Default,,0,0,0,,Më mirë të jesh i sinqertë me veten.
+Dialogue: 0,0:10:51.10,0:10:53.31,Default,,0,0,0,,Uau! Inako?
+Dialogue: 0,0:10:53.40,0:10:55.86,Default,,0,0,0,,Përshëndetje, a është Kihachi këtu?
+Dialogue: 0,0:10:55.94,0:10:59.61,Default,,0,0,0,,Kihachi iku.
+Dialogue: 0,0:10:59.70,0:11:01.03,Default,,0,0,0,,-Hë?\N-Më fal.
+Dialogue: 0,0:11:01.11,0:11:02.16,Default,,0,0,0,,Jam i zënë!
+Dialogue: 0,0:11:02.24,0:11:04.91,Default,,0,0,0,,Të lutem prit! Çfarë do të thuash?
+Dialogue: 0,0:11:04.99,0:11:06.24,Default,,0,0,0,,Nuk e di!
+Dialogue: 0,0:11:06.33,0:11:07.24,Default,,0,0,0,,Pse po vrapon—
+Dialogue: 0,0:11:07.33,0:11:08.70,Default,,0,0,0,,Inako?
+Dialogue: 0,0:11:08.79,0:11:10.21,Default,,0,0,0,,Yajiro!
+Dialogue: 0,0:11:14.59,0:11:16.50,Default,,0,0,0,,Ai është makina e Firma Mizoe.
+Dialogue: 0,0:11:16.59,0:11:17.84,Default,,0,0,0,,Kjo është e dyshimtë.
+Dialogue: 0,0:11:44.03,0:11:45.41,Default,,0,0,0,,Hej, zgjohu.
+Dialogue: 0,0:11:48.37,0:11:51.75,Default,,0,0,0,,U shtriva në çdo drejtim\Ndhe disi bëra marrëveshjet.
+Dialogue: 0,0:11:51.83,0:11:54.08,Default,,0,0,0,,Mund ta mbajmë këtë sistem për momentin.
+Dialogue: 0,0:11:54.71,0:11:55.54,Default,,0,0,0,,Vërtet?
+Dialogue: 0,0:11:55.63,0:11:56.96,Default,,0,0,0,,Po dëgjon?
+Dialogue: 0,0:11:57.04,0:11:59.17,Default,,0,0,0,,Absolutisht nuk do të dorëzohem kurrë.
+Dialogue: 0,0:11:59.26,0:12:02.68,Default,,0,0,0,,Do ta përfundoj Trurin Elektrik\Nnë përsosmëri sido që të duhet.
+Dialogue: 0,0:12:04.93,0:12:06.80,Default,,0,0,0,,Po, pikërisht ashtu.
+Dialogue: 0,0:12:06.89,0:12:09.18,Default,,0,0,0,,Nuk do të dorëzohem nga ëndrra e vëllait tim të madh.
+Dialogue: 0,0:12:12.89,0:12:16.81,Default,,0,0,0,,Pa Seirokun, Epoka e Elektricitetit\Nnuk do të vijë kurrë.
+Dialogue: 0,0:12:16.90,0:12:18.98,Default,,0,0,0,,Ndjej të njëjtën gjë.
+Dialogue: 0,0:12:20.94,0:12:22.82,Default,,0,0,0,,Kihachi.
+Dialogue: 0,0:12:22.90,0:12:25.82,Default,,0,0,0,,Kihachi?
+Dialogue: 0,0:12:25.91,0:12:30.33,Default,,0,0,0,,Epo, mendova se ishte keq\Ntë të thërrisja "vëllai i vogël".
+Dialogue: 0,0:12:30.83,0:12:32.08,Default,,0,0,0,,Çdo gjë është në rregull.
+Dialogue: 0,0:12:32.16,0:12:33.54,Default,,0,0,0,,Le të nxitojmë.
+Dialogue: 0,0:12:34.54,0:12:35.46,Default,,0,0,0,,Yosuke.
+Dialogue: 0,0:12:49.14,0:12:50.14,Default,,0,0,0,,Po shkon mirë.
+Dialogue: 0,0:12:52.18,0:12:54.69,Default,,0,0,0,,Faleminderit, të gjithë.
+Dialogue: 0,0:12:54.77,0:12:56.06,Default,,0,0,0,,Kjo është Inakoja jonë.
+Dialogue: 0,0:12:56.15,0:12:58.19,Default,,0,0,0,,Po, është e mahnitshme!
+Dialogue: 0,0:12:58.27,0:13:00.11,Default,,0,0,0,,Jam e emocionuar për filtrimin.
+Dialogue: 0,0:13:02.82,0:13:05.45,Default,,0,0,0,,Ditën e mirë, Inako.
+Dialogue: 0,0:13:05.53,0:13:06.36,Default,,0,0,0,,Saki.
+Dialogue: 0,0:13:06.45,0:13:08.99,Default,,0,0,0,,Këto i mora nga Noriko.
+Dialogue: 0,0:13:09.07,0:13:11.87,Default,,0,0,0,,Oh, nuk dukesh shumë e lumtur.
+Dialogue: 0,0:13:12.37,0:13:13.50,Default,,0,0,0,,Asgjë.
+Dialogue: 0,0:13:13.58,0:13:17.29,Default,,0,0,0,,Nuk kam fjetur shumë\Ngjatë bërjes së sakës.
+Dialogue: 0,0:13:17.37,0:13:19.04,Default,,0,0,0,,-Kështu që unë—\N-Çfarë ka?
+Dialogue: 0,0:13:19.71,0:13:22.25,Default,,0,0,0,,Më lër t'i dëgjoj shqetësimet\Ne një mjeshtre sakë-bërjeje.
+Dialogue: 0,0:13:22.84,0:13:24.13,Default,,0,0,0,,Epo…
+Dialogue: 0,0:13:29.80,0:13:32.72,Default,,0,0,0,,Kihachi është zhdukur.
+Dialogue: 0,0:13:32.81,0:13:35.27,Default,,0,0,0,,Atëherë duhet të shkosh ta kërkosh.
+Dialogue: 0,0:13:35.35,0:13:38.48,Default,,0,0,0,,Jo, nuk mund të largohem gjatë fermentimit.
+Dialogue: 0,0:13:38.56,0:13:41.02,Default,,0,0,0,,Dhe duket se është me Yajiro.
+Dialogue: 0,0:13:41.86,0:13:46.57,Default,,0,0,0,,Mund të jetë thjesht duke punuar shumë\Npër Epokën e Elektricitetit.
+Dialogue: 0,0:13:47.07,0:13:52.66,Default,,0,0,0,,Premtuam se do të garonim\Nkush i realizon ëndrrat i pari.
+Dialogue: 0,0:13:52.74,0:13:56.12,Default,,0,0,0,,Ndaj nuk dua t'i pengoj Kihachit.
+Dialogue: 0,0:13:56.21,0:13:57.04,Default,,0,0,0,,Por
+Dialogue: 0,0:13:57.12,0:13:59.75,Default,,0,0,0,,nëse mjeshtra e sakës\Npo bën një fytyrë të tillë,
+Dialogue: 0,0:13:59.83,0:14:01.71,Default,,0,0,0,,a do të jetë e shijshme Nishiki Elektrik?
+Dialogue: 0,0:14:03.92,0:14:06.26,Default,,0,0,0,,Kam dokumentet e mamasë.
+Dialogue: 0,0:14:06.34,0:14:07.38,Default,,0,0,0,,Do të jetë mirë.
+Dialogue: 0,0:14:07.47,0:14:09.13,Default,,0,0,0,,Po? Atëherë gjithçka në rregull.
+Dialogue: 0,0:14:09.22,0:14:11.47,Default,,0,0,0,,Po sillesha si e përzier.
+Dialogue: 0,0:14:11.55,0:14:12.39,Default,,0,0,0,,Prit!
+Dialogue: 0,0:14:15.52,0:14:21.61,Default,,0,0,0,,Po e bëj Nishiki Elektrik\Nsipas dokumentacionit, por…
+Dialogue: 0,0:14:21.69,0:14:23.27,Default,,0,0,0,,O Zot, pra je e shqetësuar.
+Dialogue: 0,0:14:26.32,0:14:29.95,Default,,0,0,0,,Çfarë lloj sake dëshiron të bësh?
+Dialogue: 0,0:14:30.03,0:14:34.79,Default,,0,0,0,,Një që i bën të gjithë ata që e pinë\Ntë buzëqeshin si hëna e plotë.
+Dialogue: 0,0:14:34.87,0:14:36.04,Default,,0,0,0,,Sakë e tillë.
+Dialogue: 0,0:14:36.12,0:14:37.33,Default,,0,0,0,,Të gjithë?
+Dialogue: 0,0:14:37.41,0:14:38.41,Default,,0,0,0,,Po.
+Dialogue: 0,0:14:38.50,0:14:41.67,Default,,0,0,0,,A nuk ka askënd të veçantë mes "të gjithëve"?
+Dialogue: 0,0:14:45.96,0:14:46.92,Default,,0,0,0,,Ka!
+Dialogue: 0,0:14:47.01,0:14:49.93,Default,,0,0,0,,A nuk mendon se saka që bën\Nduke menduar për atë person
+Dialogue: 0,0:14:50.01,0:14:52.18,Default,,0,0,0,,do të jetë shumë e shijshme?
+Dialogue: 0,0:14:52.26,0:14:53.43,Default,,0,0,0,,Mendoj se po!
+Dialogue: 0,0:14:53.51,0:14:55.31,Default,,0,0,0,,Për bërjen time të sakës,
+Dialogue: 0,0:14:55.89,0:14:57.77,Default,,0,0,0,,më duhet Kihachi me mua.
+Dialogue: 0,0:14:58.35,0:15:01.77,Default,,0,0,0,,Faleminderit, Saki. Po shkoj.
+Dialogue: 0,0:15:08.74,0:15:11.53,Default,,0,0,0,,Baba! Kam një kërkesë!
+Dialogue: 0,0:15:11.61,0:15:14.03,Default,,0,0,0,,Të lutem më lër të largohem nga fabrika\Npër një kohë…
+Dialogue: 0,0:15:15.33,0:15:16.58,Default,,0,0,0,,MOMO
+Dialogue: 0,0:15:25.29,0:15:28.71,Default,,0,0,0,,Truri Elektrik më në fund është gati!
+Dialogue: 0,0:15:28.80,0:15:30.09,Default,,0,0,0,,Po.
+Dialogue: 0,0:15:30.17,0:15:31.84,Default,,0,0,0,,I mrekullueshëm.
+Dialogue: 0,0:15:31.93,0:15:36.68,Default,,0,0,0,,Jam i sigurt se do të jetë e mundur\Ntë përsëritet truri njerëzor, Kihachi.
+Dialogue: 0,0:15:37.43,0:15:40.10,Default,,0,0,0,,Yosuke, të thashë më parë.
+Dialogue: 0,0:15:40.18,0:15:42.19,Default,,0,0,0,,Vëllai im nuk donte kurrë\Ndiçka të tillë.
+Dialogue: 0,0:15:42.81,0:15:43.94,Default,,0,0,0,,As unë nuk do ta lejoj.
+Dialogue: 0,0:15:46.19,0:15:47.40,Default,,0,0,0,,Është thjesht shaka.
+Dialogue: 0,0:15:47.48,0:15:50.07,Default,,0,0,0,,Gjithsesi, ka kohë\Npara se të aktivizojmë rrymën elektrike.
+Dialogue: 0,0:15:50.82,0:15:52.74,Default,,0,0,0,,Pse nuk pushon pak?
+Dialogue: 0,0:15:52.82,0:15:53.74,Default,,0,0,0,,Nuk ke fjetur.
+Dialogue: 0,0:15:54.87,0:15:55.74,Default,,0,0,0,,Epo…
+Dialogue: 0,0:15:55.82,0:15:57.95,Default,,0,0,0,,-Izo.\N-Sigurisht.
+Dialogue: 0,0:15:58.45,0:16:00.62,Default,,0,0,0,,Nga këtu, Kihachi.
+Dialogue: 0,0:16:17.89,0:16:18.97,Default,,0,0,0,,Në rregull!
+Dialogue: 0,0:16:34.82,0:16:36.95,Default,,0,0,0,,Tani, zgjohu,
+Dialogue: 0,0:16:37.03,0:16:38.03,Default,,0,0,0,,Seiroku!
+Dialogue: 0,0:16:43.41,0:16:46.96,Default,,0,0,0,,Mirëmëngjes. Më thuaj emrin tënd.
+Dialogue: 0,0:16:48.09,0:16:49.71,Default,,0,0,0,,Emri im është…
+Dialogue: 0,0:16:50.42,0:16:51.67,Default,,0,0,0,,Pikërisht!
+Dialogue: 0,0:16:51.76,0:16:55.22,Default,,0,0,0,,I mësova Trurit Elektrik\Ntë gjitha kujtimet që kam për ty.
+Dialogue: 0,0:16:55.30,0:16:56.18,Default,,0,0,0,,Vazhdo.
+Dialogue: 0,0:16:56.68,0:16:58.14,Default,,0,0,0,,Emri im është…
+Dialogue: 0,0:17:03.14,0:17:05.44,Default,,0,0,0,,Atëherë do të të them emrin tim.
+Dialogue: 0,0:17:05.94,0:17:07.35,Default,,0,0,0,,Unë jam Yosuke Mizoe.
+Dialogue: 0,0:17:07.44,0:17:09.61,Default,,0,0,0,,Yosuke yt.
+Dialogue: 0,0:17:11.36,0:17:14.65,Default,,0,0,0,,Yosuke, pse e nise\Nrrymën elektrike pa ma thënë—
+Dialogue: 0,0:17:23.58,0:17:24.41,Default,,0,0,0,,Yosuke!
+Dialogue: 0,0:17:24.50,0:17:26.17,Default,,0,0,0,,Ti… Kjo dhomë…
+Dialogue: 0,0:17:27.75,0:17:28.75,Default,,0,0,0,,Vëllai i madh…
+Dialogue: 0,0:17:28.83,0:17:30.17,Default,,0,0,0,,Mirëmëngjes, Kihachi.
+Dialogue: 0,0:17:30.25,0:17:33.38,Default,,0,0,0,,Pikërisht. Ky është vëllai yt i vogël.
+Dialogue: 0,0:17:33.46,0:17:36.72,Default,,0,0,0,,Për çfarë po flet?\NNjë kukull nuk mund të jetë vëllai im.
+Dialogue: 0,0:17:36.80,0:17:38.18,Default,,0,0,0,,Nuk është kukull!
+Dialogue: 0,0:17:38.26,0:17:40.80,Default,,0,0,0,,Përdora një motor me avull\Npër të rikrijuar organet dhe gjakun,
+Dialogue: 0,0:17:40.89,0:17:44.27,Default,,0,0,0,,dhe duke shtuar Trurin Elektrik,\Nkam krijuar trupin njerëzor në përsosmëri!
+Dialogue: 0,0:17:44.35,0:17:46.19,Default,,0,0,0,,Është Seiroku autentik!
+Dialogue: 0,0:17:46.27,0:17:47.48,Default,,0,0,0,,Ndal!
+Dialogue: 0,0:17:47.56,0:17:50.15,Default,,0,0,0,,Nuk mund ta përdorësh Trurin Elektrik\Npër diçka të tillë—
+Dialogue: 0,0:17:50.94,0:17:53.32,Default,,0,0,0,,Është për të ardhur keq\Nqë nuk mund të arrijmë mirëkuptim.
+Dialogue: 0,0:17:53.40,0:17:54.40,Default,,0,0,0,,Yosuke,
+Dialogue: 0,0:17:54.49,0:17:58.95,Default,,0,0,0,,pothuajse i gjithë avulli i fabrikës\Npo përdoret për këtë.
+Dialogue: 0,0:17:59.03,0:18:01.20,Default,,0,0,0,,Nëse vazhdon kështu,\Ni gjithë avulli i Kyoto-s do të—
+Dialogue: 0,0:18:01.28,0:18:04.20,Default,,0,0,0,,Është vetëm për momentin.\NDo të përdorë më pak në të ardhmen.
+Dialogue: 0,0:18:05.58,0:18:08.71,Default,,0,0,0,,Si mund t'i lejohet një njeriu ta bëjë këtë?
+Dialogue: 0,0:18:08.79,0:18:12.21,Default,,0,0,0,,Është një botë pa Seirokun\Nqë nuk mund ta lejoj.
+Dialogue: 0,0:18:13.80,0:18:14.84,Default,,0,0,0,,Të lutem!
+Dialogue: 0,0:18:14.92,0:18:16.47,Default,,0,0,0,,Edhe për ty, Momokawa,
+Dialogue: 0,0:18:16.55,0:18:18.97,Default,,0,0,0,,nuk mund të të lidh\Nmë me menaxherin e degës.
+Dialogue: 0,0:18:19.05,0:18:20.22,Default,,0,0,0,,Por kjo është…
+Dialogue: 0,0:18:21.10,0:18:23.22,Default,,0,0,0,,Nuk kemi asnjë të dhënë, apo jo?
+Dialogue: 0,0:18:23.93,0:18:24.77,Default,,0,0,0,,Inako.
+Dialogue: 0,0:18:24.85,0:18:25.72,Default,,0,0,0,,Kengo.
+Dialogue: 0,0:18:25.81,0:18:31.73,Default,,0,0,0,,Dëgjova se Yosuke do të përdorë Parkun Mizoe\Npër të mbajtur së shpejti një festë të madhe njoftimi.
+Dialogue: 0,0:18:31.81,0:18:35.73,Default,,0,0,0,,Me sa duket, është diçka\Nqë do të krijojë një epokë të re.
+Dialogue: 0,0:18:36.32,0:18:37.44,Default,,0,0,0,,Një epokë e re?
+Dialogue: 0,0:18:38.03,0:18:41.24,Default,,0,0,0,,Duket se Yosuke Mizoe\Nështë tërhequr nën Parkun Mizoe
+Dialogue: 0,0:18:41.32,0:18:43.16,Default,,0,0,0,,dhe nuk është parë për një kohë të gjatë.
+Dialogue: 0,0:18:43.24,0:18:46.83,Default,,0,0,0,,Ka edhe dëshmi që e kanë parë\Nme një djalë që i ngjan Kihachit.
+Dialogue: 0,0:18:46.91,0:18:50.50,Default,,0,0,0,,Duket se nuk ka dyshim\Nse Kihachi është nën Parkun Mizoe.
+Dialogue: 0,0:18:52.38,0:18:54.25,Default,,0,0,0,,Do të shkoj ta kërkoj atje!
+Dialogue: 0,0:18:54.34,0:18:56.71,Default,,0,0,0,,Pse? Ti duhet të jesh i përsosur!
+Dialogue: 0,0:18:56.80,0:18:58.26,Default,,0,0,0,,Po. Jam bërë në përsosmëri.
+Dialogue: 0,0:18:58.34,0:19:00.13,Default,,0,0,0,,Pse nuk bëhesh njeri?
+Dialogue: 0,0:19:00.22,0:19:02.64,Default,,0,0,0,,-Unë jam njeri i plotë.\N-Të gjitha pjesët e trupit tënd funksionojnë!
+Dialogue: 0,0:19:02.72,0:19:05.10,Default,,0,0,0,,Truri Elektrik\Nnuk duhet të ketë gabime gjithashtu!
+Dialogue: 0,0:19:05.18,0:19:07.39,Default,,0,0,0,,Atëherë çfarë mungon?
+Dialogue: 0,0:19:07.47,0:19:08.89,Default,,0,0,0,,Më thuaj, Seiroku!
+Dialogue: 0,0:19:08.98,0:19:12.69,Default,,0,0,0,,Nuk ka gabime në dizajnin e Yosuke Mizoe\Ndhe Kihachi Sakamoto.
+Dialogue: 0,0:19:14.06,0:19:15.07,Default,,0,0,0,,E shoh.
+Dialogue: 0,0:19:15.57,0:19:16.86,Default,,0,0,0,,Një pikë lidhjeje?
+Dialogue: 0,0:19:16.94,0:19:20.99,Default,,0,0,0,,Një pikë lidhjeje që do të bashkojë\NTrurin Elektrik dhe trupin me avull?
+Dialogue: 0,0:19:22.41,0:19:26.66,Default,,0,0,0,,Për t'u bërë njeri,\Ntë duhet shpirti i një njeriu tjetër.
+Dialogue: 0,0:19:27.16,0:19:28.91,Default,,0,0,0,,Kjo mund të bëhet menjëherë.
+Dialogue: 0,0:19:29.00,0:19:34.54,Default,,0,0,0,,Për të të kthyer,\Nkam zotëruar çdo fushë akademike.
+Dialogue: 0,0:19:35.67,0:19:38.59,Default,,0,0,0,,Dëgjova se Mizoe\Npo bën diçka kohët e fundit,
+Dialogue: 0,0:19:38.67,0:19:40.47,Default,,0,0,0,,madje me koston e familjes së tyre.
+Dialogue: 0,0:19:40.55,0:19:42.84,Default,,0,0,0,,Nuk kam parë kurrë drita të tilla.
+Dialogue: 0,0:19:42.93,0:19:46.47,Default,,0,0,0,,E mahnitshme. Sa qymyr po përdoret?
+Dialogue: 0,0:19:47.47,0:19:50.06,Default,,0,0,0,,Më mirë nëse nga këtu jemi vetëm ne.
+Dialogue: 0,0:19:50.64,0:19:51.52,Default,,0,0,0,,Por…
+Dialogue: 0,0:19:51.60,0:19:54.02,Default,,0,0,0,,Është më e sigurt kështu, Inako.
+Dialogue: 0,0:19:54.61,0:19:55.94,Default,,0,0,0,,Çfarë tani?
+Dialogue: 0,0:19:56.44,0:19:58.28,Default,,0,0,0,,Le të gjejmë diçka që mund të bëjmë.
+Dialogue: 0,0:20:01.36,0:20:05.45,Default,,0,0,0,,Ata pa ftesa\Nnuk mund të pranohen sot.
+Dialogue: 0,0:20:06.03,0:20:07.45,Default,,0,0,0,,Çfarë bëjmë?
+Dialogue: 0,0:20:10.66,0:20:12.46,Default,,0,0,0,,O Zot, a nuk është ajo Inako?
+Dialogue: 0,0:20:12.54,0:20:15.21,Default,,0,0,0,,Saki! Motra e madhe?
+Dialogue: 0,0:20:15.79,0:20:19.34,Default,,0,0,0,,Këto vajza janë të ftuarat e mia,\Nndaj lëri të hyjnë, në rregull?
+Dialogue: 0,0:20:19.42,0:20:20.59,Default,,0,0,0,,A është në rregull?
+Dialogue: 0,0:20:20.67,0:20:22.26,Default,,0,0,0,,Ia dolëm!
+Dialogue: 0,0:20:23.22,0:20:24.38,Default,,0,0,0,,Motra e madhe?
+Dialogue: 0,0:20:35.77,0:20:37.69,Default,,0,0,0,,Kengo, ai djali…
+Dialogue: 0,0:20:38.27,0:20:39.69,Default,,0,0,0,,Yajiro!
+Dialogue: 0,0:20:39.78,0:20:42.40,Default,,0,0,0,,Më pas, kemi një njoftim
+Dialogue: 0,0:20:42.49,0:20:44.91,Default,,0,0,0,,nga menaxheri i degës së Kyoto,\NYosuke Mizoe.
+Dialogue: 0,0:20:50.33,0:20:52.58,Default,,0,0,0,,Mirëdita. Jam Yosuke Mizoe.
+Dialogue: 0,0:20:52.66,0:20:54.12,Default,,0,0,0,,O Zot, zëri i tij!
+Dialogue: 0,0:20:54.21,0:20:55.33,Default,,0,0,0,,Hë?
+Dialogue: 0,0:20:56.88,0:21:00.67,Default,,0,0,0,,Të gjithë, këta megafonë\Njanë vërtet risi,
+Dialogue: 0,0:21:00.75,0:21:05.88,Default,,0,0,0,,por ajo që do t'ju tregoj sot\Nështë edhe më e mrekullueshme!
+Dialogue: 0,0:21:05.97,0:21:09.72,Default,,0,0,0,,Diçka revolucionare që do të\Nndryshojë plotësisht mënyrën tonë të jetesës!
+Dialogue: 0,0:21:11.06,0:21:12.35,Default,,0,0,0,,Emri i saj është…
+Dialogue: 0,0:21:15.19,0:21:16.85,Default,,0,0,0,,Truri Elektrik.
+Dialogue: 0,0:21:17.52,0:21:18.36,Default,,0,0,0,,Kihachi!
+Dialogue: 0,0:21:20.07,0:21:20.90,Default,,0,0,0,,Elektrik?
+Dialogue: 0,0:21:20.98,0:21:22.23,Default,,0,0,0,,-Inako!\N-Çfarë është ai djali?
+Dialogue: 0,0:21:22.32,0:21:25.86,Default,,0,0,0,,Truri Elektrik është një makinë\Nqë mendon vetë.
+Dialogue: 0,0:21:26.49,0:21:29.28,Default,,0,0,0,,Pas një çasti,\Ndo të dëshmoni një demonstrim.
+Dialogue: 0,0:21:29.78,0:21:30.62,Default,,0,0,0,,Kihachi!
+Dialogue: 0,0:21:30.70,0:21:34.29,Default,,0,0,0,,Tani, të gjithë,\Nju lutem prisni një çast të shkurtër!
+Dialogue: 0,0:21:37.04,0:21:38.29,Default,,0,0,0,,Pothuajse erdhi koha.
+Dialogue: 0,0:21:42.09,0:21:44.72,Default,,0,0,0,,Të lutem ndal, Mizoe!
+Dialogue: 0,0:21:44.80,0:21:46.63,Default,,0,0,0,,Ju vajzat! Ndaloni!
+Dialogue: 0,0:21:47.55,0:21:49.01,Default,,0,0,0,,Po ikin!
+Dialogue: 0,0:21:54.68,0:21:55.68,Default,,0,0,0,,Inako.
+Dialogue: 0,0:21:55.77,0:21:57.89,Default,,0,0,0,,Kengo, është tmerrësisht.
+Dialogue: 0,0:21:57.98,0:22:01.48,Default,,0,0,0,,Kihachi ishte nuse,\Ndhe ra nga kështjella me Mizoen!
+Dialogue: 0,0:22:01.98,0:22:03.19,Default,,0,0,0,,Qetësohu, Inako.
+Dialogue: 0,0:22:04.03,0:22:05.94,Default,,0,0,0,,Ai do të na tregojë rrugën.
+Dialogue: 0,0:22:06.03,0:22:07.36,Default,,0,0,0,,Yajiro!
+Dialogue: 0,0:22:07.45,0:22:09.45,Default,,0,0,0,,Më fal, edhe unë…
+Dialogue: 0,0:22:10.87,0:22:13.24,Default,,0,0,0,,Nuk mund të të lë të shkosh më tej.
+Dialogue: 0,0:22:13.33,0:22:16.96,Default,,0,0,0,,Izo, duhet ta ndihmojmë Kihachin!
+Dialogue: 0,0:22:17.04,0:22:19.21,Default,,0,0,0,,Mora urdhër të mos lë njeri të hyjë.
+Dialogue: 0,0:22:21.42,0:22:22.88,Default,,0,0,0,,Këtë herë,
+Dialogue: 0,0:22:22.96,0:22:24.00,Default,,0,0,0,,jam serioze.
+Dialogue: 0,0:22:31.76,0:22:33.22,Default,,0,0,0,,Më ndihmo.
+Dialogue: 0,0:22:33.31,0:22:34.60,Default,,0,0,0,,-Kate!\N-E mora!
+Dialogue: 0,0:22:34.68,0:22:36.89,Default,,0,0,0,,-Një, dy, tre!\N-Një, dy, tre!
+Dialogue: 0,0:22:40.15,0:22:41.98,Default,,0,0,0,,Shko përpara, Inako.
+Dialogue: 0,0:22:42.56,0:22:44.44,Default,,0,0,0,,Faleminderit të dyve.
+Dialogue: 0,0:22:46.11,0:22:47.28,Default,,0,0,0,,Ja ku janë!
+Dialogue: 0,0:22:47.36,0:22:49.28,Default,,0,0,0,,Erdhën deri këtu poshtë?
+Dialogue: 0,0:22:49.36,0:22:51.41,Default,,0,0,0,,Unë do t'i mbaj të zënë.
+Dialogue: 0,0:22:51.49,0:22:52.99,Default,,0,0,0,,Faleminderit, Yajiro!
+Dialogue: 0,0:22:56.54,0:22:57.87,Default,,0,0,0,,Më ndihmo.
+Dialogue: 0,0:22:57.95,0:23:00.00,Default,,0,0,0,,Çfarë po bën, djalosh?
+Dialogue: 0,0:23:02.75,0:23:03.59,Default,,0,0,0,,Inari?
+Dialogue: 0,0:23:06.88,0:23:08.09,Default,,0,0,0,,Është atje brenda?
+Dialogue: 0,0:23:11.18,0:23:14.05,Default,,0,0,0,,Si ndjehesh, Seiroku?
+Dialogue: 0,0:23:16.18,0:23:18.35,Default,,0,0,0,,{\an8}Ti je Yosuke.
+Dialogue: 0,0:23:19.23,0:23:21.35,Default,,0,0,0,,{\an8}A e di kush është ai?
+Dialogue: 0,0:23:21.44,0:23:22.85,Default,,0,0,0,,{\an8}Kihachi.
+Dialogue: 0,0:23:22.94,0:23:24.36,Default,,0,0,0,,{\an8}Po, pikërisht!
+Dialogue: 0,0:23:25.19,0:23:27.44,Default,,0,0,0,,Do të të bëj plotësisht të përsosur.
+Dialogue: 0,0:23:27.53,0:23:29.24,Default,,0,0,0,,Prit edhe pak.
+Dialogue: 0,0:23:29.32,0:23:32.78,Default,,0,0,0,,{\an8}Gjithçka më në fund është në vend.
+Dialogue: 0,0:23:33.82,0:23:35.99,Default,,0,0,0,,Mund ta ringjallim ëndrrën tonë.
+Dialogue: 0,0:23:41.67,0:23:42.54,Default,,0,0,0,,{\an8}Mizoe!
+Dialogue: 0,0:23:43.04,0:23:45.21,Default,,0,0,0,,{\an8}A je atje brenda, Kihachi?
+Dialogue: 0,0:23:45.84,0:23:47.46,Default,,0,0,0,,{\an8}Nëse je, përgjigjmu!
+Dialogue: 0,0:23:48.05,0:23:52.97,Default,,0,0,0,,{\an8}Përktheu: Daisy Savage
+

@@ -976,6 +976,20 @@
       "sourceEpisode": "25",
       "sourceTitle": "Mao",
       "numberingEvidence": "https://anikototv.to/watch/mao-fv7yd"
+    },
+    {
+      "id": "at-691150",
+      "title": "Sparks of Tomorrow",
+      "episode": "12",
+      "malId": 62856,
+      "anilistId": 103303,
+      "slugs": [
+        "sparks-of-tomorrow-a28c7"
+      ],
+      "file": "files/at-691150.sq.vtt",
+      "assFile": "ass/at-691150.sq.ass",
+      "offset": 0,
+      "sourceReleaseId": "691150"
     }
   ]
 }
