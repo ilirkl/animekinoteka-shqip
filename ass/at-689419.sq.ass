@@ -1,0 +1,344 @@
+﻿[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,1,1,15,0
+Style: On Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: DefaultLow,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,70,70,30,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:09.21,0:00:12.38,Default,,0,0,0,,Vëlla… Babai…
+Dialogue: 0,0:00:12.47,0:00:13.84,Default,,0,0,0,,Ka gjë?
+Dialogue: 0,0:00:14.72,0:00:17.18,Default,,0,0,0,,Ky nuk është vend për një fëmijë.
+Dialogue: 0,0:00:17.89,0:00:20.52,Default,,0,0,0,,Po luaja kukafshehti dhe u humba.
+Dialogue: 0,0:00:21.64,0:00:24.69,Default,,0,0,0,,Vërtet vrauve larg.
+Dialogue: 0,0:00:26.98,0:00:30.78,Default,,0,0,0,,Vila e babait tënd është larg\Nnga ajo anë.
+Dialogue: 0,0:00:32.99,0:00:33.99,Default,,0,0,0,,Kush je ti?
+Dialogue: 0,0:00:35.78,0:00:39.83,Default,,0,0,0,,Emri im është Takauji Ashikaga,\Nvasal nga provinca Shimotsuke.
+Dialogue: 0,0:00:40.58,0:00:43.00,Default,,0,0,0,,Dëgjova se pati një rrëmujë të madhe\Nsepse Zoti Takatoki,
+Dialogue: 0,0:00:43.08,0:00:45.17,Default,,0,0,0,,regjenti,\Nkishte humbur gjurmët e djalit të tij të çmuar.
+Dialogue: 0,0:00:45.83,0:00:47.79,Default,,0,0,0,,Dhe mendova disi\Nse mund të ishe këtu rreth.
+Dialogue: 0,0:00:49.17,0:00:51.17,Default,,0,0,0,,"Mendove disi"?
+Dialogue: 0,0:00:52.30,0:00:54.97,Default,,0,0,0,,Eja. Le të kthehemi te familja jote.
+Dialogue: 0,0:00:56.97,0:01:00.56,Default,,0,0,0,,Jo. Do të zemërohen dhe do të më ndalojnë\Ntë luaj kukafshehti.
+Dialogue: 0,0:01:00.64,0:01:02.68,Default,,0,0,0,,Më mirë të vdes sesa\Ntë mos mund të ik më.
+Dialogue: 0,0:01:02.77,0:01:05.27,Default,,0,0,0,,Pse je kaq i fiksuar pas ikjes?
+Dialogue: 0,0:01:09.06,0:01:10.23,Default,,0,0,0,,Në rregull!
+Dialogue: 0,0:01:10.32,0:01:13.78,Default,,0,0,0,,Atëherë, nëse të ndalojnë\Ntë luash kukafshehti,
+Dialogue: 0,0:01:13.86,0:01:16.28,Default,,0,0,0,,unë, Takauji,\Nfshehurazi do të marr rolin e "Kukafshehtësit"
+Dialogue: 0,0:01:16.36,0:01:17.91,Default,,0,0,0,,pa e ditur babai yt.
+Dialogue: 0,0:01:18.53,0:01:20.49,Default,,0,0,0,,Kam instinkte të mira.
+Dialogue: 0,0:01:21.08,0:01:23.62,Default,,0,0,0,,Kudo që të ikësh, do të të gjej.
+Dialogue: 0,0:01:27.04,0:01:28.38,Default,,0,0,0,,Vërtet?
+Dialogue: 0,0:01:28.46,0:01:29.71,Default,,0,0,0,,Po!
+Dialogue: 0,0:01:30.38,0:01:31.75,Default,,0,0,0,,Edhe në thellësitë e ferrit?
+Dialogue: 0,0:01:32.30,0:01:33.63,Default,,0,0,0,,Çfarë? Ferri?
+Dialogue: 0,0:01:33.71,0:01:37.30,Default,,0,0,0,,Ëndrra ime është të luaj një lojë kapjeje\Nme një demon të vërtetë.
+Dialogue: 0,0:01:37.38,0:01:38.39,Default,,0,0,0,,Le ta bëjmë bashkë!
+Dialogue: 0,0:01:39.22,0:01:41.89,Default,,0,0,0,,Çfarë ëndrre e rrezikshme\Nnë moshën tënde.
+Dialogue: 0,0:01:42.47,0:01:44.81,Default,,0,0,0,,Në rregull? Ma premto!
+Dialogue: 0,0:02:06.16,0:02:11.50,Default,Sign,0,0,0,,{\an8}SAMURAI I PAKAPSHËM
+Dialogue: 0,0:03:19.49,0:03:22.66,Default,Sign,0,0,0,,{\an8}REZIDENCA E KINMUNE SAIONJI
+Dialogue: 0,0:03:23.24,0:03:27.04,Default,,0,0,0,,Pasnesër, dy bankete të mëdha\Ndo të mbahen në të njëjtën kohë.
+Dialogue: 0,0:03:28.54,0:03:29.96,Default,,0,0,0,,Njëri do të jetë në rezidencën e Saionji.
+Dialogue: 0,0:03:30.62,0:03:33.17,Default,,0,0,0,,Një banket ku Z. Yasuie\Ndo të vrasë Perandorin.
+Dialogue: 0,0:03:34.38,0:03:36.46,Default,,0,0,0,,Tjetri do të jetë në rezidencën e Kusunoki.
+Dialogue: 0,0:03:36.55,0:03:39.63,Default,,0,0,0,,Një banket ku\NTakauji Ashikaga do të marrë pjesë me siguri.
+Dialogue: 0,0:03:40.84,0:03:43.76,Default,,0,0,0,,Do të vrasim Takaujin\Nnë të njëjtën kohë
+Dialogue: 0,0:03:43.84,0:03:45.85,Default,,0,0,0,,që Z. Yasuie vret Perandorin.
+Dialogue: 0,0:03:46.64,0:03:48.10,Default,,0,0,0,,Ky është plani im.
+Dialogue: 0,0:03:48.68,0:03:50.48,Default,,0,0,0,,Edhe nëse të dyja përpjekjet dështojnë,
+Dialogue: 0,0:03:51.02,0:03:54.02,Default,,0,0,0,,gjithsesi mund të shkaktojmë trazira shkatërruese\Nbrenda regjimit aktual.
+Dialogue: 0,0:03:54.10,0:03:56.15,Default,,0,0,0,,Mendoj se ia vlen të provohet.
+Dialogue: 0,0:03:56.23,0:03:59.74,Default,,0,0,0,,Të vrasësh Takaujin, që udhëheq luftëtarët,\Ndo të ishte më efektive tani
+Dialogue: 0,0:03:59.82,0:04:00.99,Default,,0,0,0,,sesa të vrasësh Perandorin.
+Dialogue: 0,0:04:01.07,0:04:05.20,Default,,0,0,0,,Babai tha se një përpjekje për vrasje\Nnuk do të funksiononte kundër Takaujit.
+Dialogue: 0,0:04:05.87,0:04:08.70,Default,,0,0,0,,Nuk duhet të marrim rreziqe të panevojshme.
+Dialogue: 0,0:04:08.79,0:04:12.83,Default,,0,0,0,,Po. Mendoj se kthimi i Zotit të Ri\Nshëndoshë e mirë në Shinano vjen i pari.
+Dialogue: 0,0:04:13.62,0:04:15.33,Default,,0,0,0,,Po ti, djalosh?
+Dialogue: 0,0:04:15.42,0:04:18.67,Default,,0,0,0,,A je i përgatitur të vrasësh Takaujin,\Nduke i ditur rreziqet?
+Dialogue: 0,0:04:22.30,0:04:23.51,Default,,0,0,0,,{\i1}Nëse mund ta takoj,
+Dialogue: 0,0:04:23.59,0:04:25.97,Default,,0,0,0,,{\i1}kam kaq shumë pyetje\Nqë do të doja t'i bëja sesa ta vras.
+Dialogue: 0,0:04:26.72,0:04:29.43,Default,,0,0,0,,{\i1}Pse tradhtoi klanin Hojo?
+Dialogue: 0,0:04:30.22,0:04:32.52,Default,,0,0,0,,{\i1}Nëse do të zbuloja se jam ende gjallë,
+Dialogue: 0,0:04:33.23,0:04:35.19,Default,,0,0,0,,{\i1}si do të më shikonte?
+Dialogue: 0,0:04:36.19,0:04:37.19,Default,,0,0,0,,{\i1}Por…
+Dialogue: 0,0:04:39.82,0:04:41.53,Default,,0,0,0,,Le të rrezikojmë dhe ta provojmë.
+Dialogue: 0,0:04:41.61,0:04:45.16,Default,,0,0,0,,Edhe nëse dështojmë, tashmë kemi skicuar\Nrrugët tona të arratisjes.
+Dialogue: 0,0:04:45.24,0:04:46.91,Default,,0,0,0,,Do të ndahemi në dy grupe.
+Dialogue: 0,0:04:46.99,0:04:50.41,Default,,0,0,0,,Kojiro, Fubuki dhe Genba,\Nju do të përpiqeni të vrisni Takaujin.
+Dialogue: 0,0:04:51.20,0:04:53.91,Default,,0,0,0,,Shizuku dhe Ayako,\Ndetyra juaj është të ndihmoni xhaxhain tim të shpëtojë.
+Dialogue: 0,0:04:55.67,0:04:59.17,Default,,0,0,0,,Unë do të shkoj t'i shpjegoj rrugën e arratisjes xhaxhait.
+Dialogue: 0,0:05:01.26,0:05:04.05,Default,,0,0,0,,Përpjekja ime për të vrarë Perandorin\Ndo të dështojë?
+Dialogue: 0,0:05:04.13,0:05:05.13,Default,Sign,0,0,0,,ME TË VËRTETË?
+Dialogue: 0,0:05:05.80,0:05:08.22,Default,,0,0,0,,Pra Yorishige ma fshehu këtë.
+Dialogue: 0,0:05:08.76,0:05:11.18,Default,,0,0,0,,Por largpamësia e Yorishige\Nnuk është gjithmonë e besueshme.
+Dialogue: 0,0:05:11.27,0:05:12.27,Default,Sign,0,0,0,,MA KTHENI PARATË
+Dialogue: 0,0:05:12.35,0:05:15.10,Default,,0,0,0,,I besova një herë më parë,\Ndhe pagova shtrenjtë.
+Dialogue: 0,0:05:15.89,0:05:17.73,Default,Sign,0,0,0,,LE TA BËJMË
+Dialogue: 0,0:05:17.81,0:05:20.11,Default,,0,0,0,,Nuk do ta dimë pa provuar.
+Dialogue: 0,0:05:20.19,0:05:21.73,Default,,0,0,0,,E di.
+Dialogue: 0,0:05:21.82,0:05:24.86,Default,,0,0,0,,Sapo vendos,\Nnuk e ndryshon kurrë.
+Dialogue: 0,0:05:25.65,0:05:29.24,Default,,0,0,0,,Por kemi kuaj gati\Npër ty dhe Z. Saionji.
+Dialogue: 0,0:05:30.03,0:05:34.71,Default,,0,0,0,,Nëse dështon, ju lutem arratisu\Nnën udhëheqjen e Shizuku dhe Ayako.
+Dialogue: 0,0:05:35.58,0:05:37.04,Default,,0,0,0,,Kuptova.
+Dialogue: 0,0:05:39.00,0:05:40.88,Default,,0,0,0,,Dhe çfarë do të bësh ti, Zoti Tokiyuki?
+Dialogue: 0,0:05:43.13,0:05:45.80,Default,,0,0,0,,Ka diçka që nuk mund ta shmang.
+Dialogue: 0,0:05:46.47,0:05:47.93,Default,,0,0,0,,Mos u shqetëso.
+Dialogue: 0,0:05:48.01,0:05:51.18,Default,,0,0,0,,Sapo të mbarojmë,\Nle të takohemi në vendin e caktuar.
+Dialogue: 0,0:05:52.14,0:05:53.14,Default,,0,0,0,,Shumë mirë.
+Dialogue: 0,0:06:00.61,0:06:02.90,Default,,0,0,0,,{\i1}Duhet të përgatitem plotësisht…
+Dialogue: 0,0:06:04.28,0:06:06.65,Default,,0,0,0,,{\i1}Që,\Ntë paktën me diçka për të treguar…
+Dialogue: 0,0:06:08.16,0:06:10.28,Default,,0,0,0,,{\i1}të gjithë të arratiseni mbrapsht në Shinano.
+Dialogue: 0,0:06:12.28,0:06:14.41,Default,Sign,0,0,0,,DITA E OPERACIONIT (16:00)
+Dialogue: 0,0:06:22.13,0:06:25.17,Default,,0,0,0,,{\i1}Diçka do të ndodhë\Nnë këtë kryeqytet sot.
+Dialogue: 0,0:06:25.26,0:06:26.51,Default,,0,0,0,,{\i1}Kam një ndjenjë se do të ndodhë.
+Dialogue: 0,0:06:27.88,0:06:31.43,Default,,0,0,0,,{\i1}Djalosh… Ai nuk është si ata\Nqë imitojnë vetëm pamjen e Basara-s.
+Dialogue: 0,0:06:32.10,0:06:35.60,Default,,0,0,0,,{\i1}Është një djalë fshati,\Npor ka diçka të fshehur brenda tij.
+Dialogue: 0,0:06:50.61,0:06:52.16,Default,,0,0,0,,{\i1}Por pse?
+Dialogue: 0,0:06:53.03,0:06:55.04,Default,,0,0,0,,{\i1}Çfarë është kjo ndjenjë e kobshme?
+Dialogue: 0,0:06:57.00,0:06:59.16,Default,Sign,0,0,0,,{\an8}STACIONI I ROJES PERANDARAKE (18:00)
+Dialogue: 0,0:06:59.25,0:07:00.79,Default,,0,0,0,,Epo atëherë, Z. Yoshisada.
+Dialogue: 0,0:07:01.38,0:07:04.92,Default,,0,0,0,,Me siguri kaq të dobët,\Nju lutem kini kujdes të veçantë nga vrasësit.
+Dialogue: 0,0:07:05.00,0:07:07.55,Default,,0,0,0,,Po bëni shaka, Z. Takauji.
+Dialogue: 0,0:07:07.63,0:07:11.51,Default,,0,0,0,,Nuk ka askënd mjaft të guximshëm\Npër të vrarë Yoshisada Nitta!
+Dialogue: 0,0:07:13.10,0:07:16.72,Default,,0,0,0,,Në çdo hap, Ashikagët\Npo i japin urdhra Nittës.
+Dialogue: 0,0:07:17.89,0:07:19.27,Default,,0,0,0,,Zoti Yoshisada.
+Dialogue: 0,0:07:19.35,0:07:22.94,Default,,0,0,0,,Me këtë ritëm, është sikur ju\Nthjesht bëni punë të vogla për Takaujin.
+Dialogue: 0,0:07:23.02,0:07:27.57,Default,,0,0,0,,Arritja jote në marrjen e Kamakura-s\Ne tejkalon atë të Takaujit!
+Dialogue: 0,0:07:28.19,0:07:29.70,Default,,0,0,0,,Mos u shqetëso.
+Dialogue: 0,0:07:29.78,0:07:31.82,Default,,0,0,0,,Nëse kthehet kundër nesh,\Nthjesht do ta mundim!
+Dialogue: 0,0:07:32.82,0:07:34.12,Default,,0,0,0,,Le të hamë!
+Dialogue: 0,0:07:34.20,0:07:36.87,Default,,0,0,0,,Të mendosh për të ardhmen\Nnuk na mbush stomakun!
+Dialogue: 0,0:07:38.25,0:07:39.71,Default,,0,0,0,,Zotëria jonë…
+Dialogue: 0,0:07:40.33,0:07:43.71,Default,,0,0,0,,Pret çdo shigjetë në një breshëri,
+Dialogue: 0,0:07:43.79,0:07:47.59,Default,,0,0,0,,dhe komanda e tij e guximshme në Kamakura\Ndo të hyjë në histori.
+Dialogue: 0,0:07:47.67,0:07:51.22,Default,,0,0,0,,Plot shpirt dhe me tipare të mprehta,\Nështë vetë modeli i luftëtarit.
+Dialogue: 0,0:07:52.01,0:07:53.59,Default,,0,0,0,,Por… e dini?
+Dialogue: 0,0:07:53.68,0:07:54.76,Default,,0,0,0,,Po.
+Dialogue: 0,0:07:54.85,0:07:57.81,Default,,0,0,0,,Mund të shihni diçka pranë kokës së tij\Ngjithë kohën, apo jo?
+Dialogue: 0,0:07:58.60,0:07:59.64,Default,,0,0,0,,Pyes veten pse.
+Dialogue: 0,0:07:59.73,0:08:05.11,Default,,0,0,0,,Disi, kam ndjenjën\Nse nuk e ka idenë se çfarë po ndodh.
+Dialogue: 0,0:08:07.36,0:08:08.36,Default,Sign,0,0,0,,{\an8}(19:00)
+Dialogue: 0,0:08:08.44,0:08:10.94,Default,,0,0,0,,{\an8}Së shpejti do të arrijmë\Nnë rezidencën e Z. Kusunoki.
+Dialogue: 0,0:08:11.03,0:08:12.36,Default,,0,0,0,,{\an8}Po.
+Dialogue: 0,0:08:12.45,0:08:15.95,Default,,0,0,0,,Ai dhelpër dinake Kusunoki është i rrezikshëm,\Nnëse më pyet mua.
+Dialogue: 0,0:08:16.53,0:08:19.49,Default,,0,0,0,,Është shumë më i mprehtë se Nitta,\Npor e fsheh pas një akti të pafajshëm.
+Dialogue: 0,0:08:20.16,0:08:22.54,Default,,0,0,0,,Mos dysho për të tjerët, Moroyasu.
+Dialogue: 0,0:08:22.62,0:08:25.58,Default,,0,0,0,,Është një aleat i besuar\Nqë i shërben të njëjtit Perandor.
+Dialogue: 0,0:08:25.67,0:08:28.46,Default,,0,0,0,,Faleminderit për punën e mundimshme\Nkaq vonë natën.
+Dialogue: 0,0:08:31.34,0:08:32.72,Default,,0,0,0,,Z. Kusunoki.
+Dialogue: 0,0:08:33.51,0:08:35.01,Default,,0,0,0,,Dolët të na prisni?
+Dialogue: 0,0:08:35.89,0:08:40.56,Default,,0,0,0,,Pse erdhët t'i përshëndesni personalisht,\NZ. Kusunoki?
+Dialogue: 0,0:08:40.64,0:08:43.23,Default,,0,0,0,,Erdha të kërkoj falje për neglizhencën time.
+Dialogue: 0,0:08:43.31,0:08:45.73,Default,,0,0,0,,Të ftuarit e mëparshëm kanë më shumë shoqërues\Nnga sa pritej,
+Dialogue: 0,0:08:45.81,0:08:48.23,Default,,0,0,0,,dhe nuk ka më vend për kuaj të tjerë.
+Dialogue: 0,0:08:48.98,0:08:52.11,Default,,0,0,0,,Arrita të siguroj një vend\Npër kalin tuaj, Z. Takauji, por…
+Dialogue: 0,0:08:52.74,0:08:56.74,Default,,0,0,0,,Shoqëruesit tuaj duhet t'i ndjekin ata\Nte zona e lidhjes së kuajve atje.
+Dialogue: 0,0:08:58.33,0:08:59.74,Default,,0,0,0,,Por në atë rast…
+Dialogue: 0,0:08:59.83,0:09:01.83,Default,,0,0,0,,Rezidenca ime është pak më tej.
+Dialogue: 0,0:09:01.91,0:09:05.42,Default,,0,0,0,,Unë personalisht do të kujdesem për mbrojtjen tuaj,\NZ. Takauji.
+Dialogue: 0,0:09:05.50,0:09:08.09,Default,,0,0,0,,Hej, ti! Po e nënvlerëson shumë\NPartinë Ashikaga.
+Dialogue: 0,0:09:08.17,0:09:09.63,Default,,0,0,0,,Mjaft, Moroyasu.
+Dialogue: 0,0:09:10.96,0:09:13.47,Default,,0,0,0,,Ne jemi ata që kemi fajin\Nqë arritëm vonë në banket.
+Dialogue: 0,0:09:13.55,0:09:15.47,Default,,0,0,0,,Le të shkojmë, Z. Kusunoki.
+Dialogue: 0,0:09:15.55,0:09:17.34,Default,,0,0,0,,Shumë e vlerësoj. Epo atëherë.
+Dialogue: 0,0:09:20.89,0:09:23.60,Default,,0,0,0,,Kusunoki është më budalla nga sa mendoja.
+Dialogue: 0,0:09:23.68,0:09:26.73,Default,,0,0,0,,Me gjasë nuk është mësuar\Ntë presë bankete të mëdha.
+Dialogue: 0,0:09:27.44,0:09:30.48,Default,,0,0,0,,Në fund të fundit, ai është thjesht\Nnjë i porsalindur me origjinë të dyshimtë.
+Dialogue: 0,0:09:41.03,0:09:43.08,Default,,0,0,0,,Hej, sa larg do të shkojmë?
+Dialogue: 0,0:09:43.70,0:09:46.87,Default,,0,0,0,,Kjo është rrugë e gjatë\Nvetëm për të lidhur kuajt.
+Dialogue: 0,0:09:46.96,0:09:47.96,Default,,0,0,0,,Hë?
+Dialogue: 0,0:09:48.46,0:09:51.46,Default,,0,0,0,,Zoti Kusunoki na tha se\Nsapo të arrijmë këtu rreth,
+Dialogue: 0,0:09:51.55,0:09:54.01,Default,,0,0,0,,Z. Moronao do të dijë\Nku t'i lidhim kuajt.
+Dialogue: 0,0:10:00.01,0:10:01.14,Default,,0,0,0,,Epo, atëherë.
+Dialogue: 0,0:10:01.22,0:10:04.60,Default,,0,0,0,,Çfarë synon të bësh tani?\NZ. Kusunoki, mashtruesi.
+Dialogue: 0,0:10:06.35,0:10:08.40,Default,,0,0,0,,Ti atje, që fshihesh pas asaj peme pishe!
+Dialogue: 0,0:10:08.98,0:10:10.86,Default,,0,0,0,,Nuk mund të më synosh\Npa dalë jashtë.
+Dialogue: 0,0:10:20.12,0:10:22.78,Default,,0,0,0,,Takauji Ashikaga, ofro jetën tënde!
+Dialogue: 0,0:10:27.00,0:10:28.25,Default,,0,0,0,,-{\i1}Të kapa!\N-{\i1}Të kapa!
+Dialogue: 0,0:10:30.96,0:10:32.46,Default,,0,0,0,,Uau atje.
+Dialogue: 0,0:10:41.80,0:10:42.85,Default,,0,0,0,,U zhduk?
+Dialogue: 0,0:10:43.76,0:10:45.31,Default,,0,0,0,,Ti je lideri?
+Dialogue: 0,0:10:46.93,0:10:48.39,Default,,0,0,0,,{\i1}Jo! Fytyra ime!
+Dialogue: 0,0:10:48.48,0:10:52.02,Default,,0,0,0,,Marr me mend je fëmija i një luftëtari\Nqë vdiq rreth Kyo-s.
+Dialogue: 0,0:10:52.77,0:10:56.28,Default,,0,0,0,,Nuk është çudi që mbetesh\Npa ku të shkoje dhe erdhe të urresh mua.
+Dialogue: 0,0:10:56.94,0:10:59.40,Default,,0,0,0,,Por mos e hidh jetën tënde dëm.
+Dialogue: 0,0:11:00.28,0:11:01.74,Default,,0,0,0,,Duke gjykuar nga fytyra jote…
+Dialogue: 0,0:11:03.28,0:11:05.20,Default,,0,0,0,,Dukesh rreth dhjetë vjeç, nëse kaq.
+Dialogue: 0,0:11:06.12,0:11:07.58,Default,,0,0,0,,{\i1}Hë?
+Dialogue: 0,0:11:07.66,0:11:09.54,Default,,0,0,0,,Ka shumë gjëra të këndshme.
+Dialogue: 0,0:11:10.33,0:11:13.63,Default,,0,0,0,,Harroje urrejtjen për një kohë\Ndhe mëso për botën.
+Dialogue: 0,0:11:14.84,0:11:17.63,Default,,0,0,0,,Një ditë, kur të njohësh\Ngëzimin e madh të jetës,
+Dialogue: 0,0:11:17.71,0:11:20.63,Default,,0,0,0,,ai shikimi urrejtjeje duhet të zhduket\Nnga fytyra jote!
+Dialogue: 0,0:11:21.84,0:11:22.97,Default,,0,0,0,,Hë?
+Dialogue: 0,0:11:24.30,0:11:25.51,Default,,0,0,0,,Hë?
+Dialogue: 0,0:11:26.81,0:11:30.56,Default,,0,0,0,,Nuk e mban mend fytyrën time?
+Dialogue: 0,0:11:31.10,0:11:33.36,Default,,0,0,0,,Jemi takuar më parë?
+Dialogue: 0,0:11:34.90,0:11:35.94,Default,,0,0,0,,Më falni.
+Dialogue: 0,0:11:36.57,0:11:40.36,Default,,0,0,0,,I harroj shpejt fytyrat e njerëzve\Nme të cilët kam pak lidhje.
+Dialogue: 0,0:11:40.45,0:11:42.32,Default,,0,0,0,,Ti harron?
+Dialogue: 0,0:11:43.24,0:11:46.08,Default,,0,0,0,,Dua të mendoj vetëm për atë që vjen.
+Dialogue: 0,0:11:46.16,0:11:50.12,Default,,0,0,0,,Ia lë vasalëve të mi\Ntë kujtojnë atë që ka kaluar.
+Dialogue: 0,0:11:51.21,0:11:54.54,Default,,0,0,0,,Jo, vërtet, më vjen keq! Nuk kam qëllim të keq.
+Dialogue: 0,0:11:55.25,0:11:58.59,Default,,0,0,0,,{\i1}Ky zë, kjo fytyrë, kjo prekje.
+Dialogue: 0,0:11:59.17,0:12:00.97,Default,,0,0,0,,{\i1}I mbaj mend të gjitha.
+Dialogue: 0,0:12:01.97,0:12:04.26,Default,,0,0,0,,{\i1}E megjithatë, ky njeri…
+Dialogue: 0,0:12:05.72,0:12:07.43,Default,,0,0,0,,-Hë?\N-Pse?
+Dialogue: 0,0:12:07.51,0:12:10.23,Default,,0,0,0,,Pse duhej ta shkatërroje Kamakura-n?
+Dialogue: 0,0:12:10.98,0:12:12.35,Default,,0,0,0,,Pse?
+Dialogue: 0,0:12:12.44,0:12:14.27,Default,,0,0,0,,As vetë nuk e di mirë.
+Dialogue: 0,0:12:14.35,0:12:17.07,Default,,0,0,0,,E vetmja gjë që mund të them është se, në fund,\Nkishte rënë.
+Dialogue: 0,0:12:24.20,0:12:25.95,Default,,0,0,0,,{\i1}A po thotë
+Dialogue: 0,0:12:26.66,0:12:28.83,Default,,0,0,0,,{\i1}se e shkatërroi\Npa e ditur as vetë pse?
+Dialogue: 0,0:12:32.75,0:12:34.29,Default,,0,0,0,,Oh, po, fëmijë.
+Dialogue: 0,0:12:34.96,0:12:39.05,Default,,0,0,0,,A mund të kompozosh poezi?\NA mund të luash flautin? A mund të kërcesh?
+Dialogue: 0,0:12:40.96,0:12:42.67,Default,,0,0,0,,Çfarë është kjo, papritur?
+Dialogue: 0,0:12:42.76,0:12:46.60,Default,,0,0,0,,Nëse shërben si faqja ime e preferuar,\Ndo të kujdesem për ty.
+Dialogue: 0,0:12:47.26,0:12:49.26,Default,,0,0,0,,Nëse jeton i begatë në shërbimin tim,
+Dialogue: 0,0:12:49.35,0:12:51.18,Default,,0,0,0,,familja jote e vdekur do të kënaqet,\Napo jo?
+Dialogue: 0,0:12:51.89,0:12:53.77,Default,,0,0,0,,Po, kjo do të ishte mirë.
+Dialogue: 0,0:12:54.27,0:12:57.94,Default,,0,0,0,,Ka mjaft rroba të bukura\Ndhe ëmbëlsira të shijshme.
+Dialogue: 0,0:13:00.40,0:13:02.44,Default,,0,0,0,,O i pafytyrë!
+Dialogue: 0,0:13:02.53,0:13:04.32,Default,,0,0,0,,Por e shoh.
+Dialogue: 0,0:13:05.61,0:13:06.82,Default,,0,0,0,,Atëherë të kërkoj falje.
+Dialogue: 0,0:13:07.32,0:13:09.79,Default,,0,0,0,,Nëse ke ardhur këtu të më vrasësh,
+Dialogue: 0,0:13:10.37,0:13:12.41,Default,,0,0,0,,atëherë mendoj se duhet të të vras.
+Dialogue: 0,0:13:26.01,0:13:27.14,Default,,0,0,0,,Zotëria im!
+Dialogue: 0,0:13:27.72,0:13:30.35,Default,,0,0,0,,{\i1}Nuk mendoja\Nse ishte kaq përbindësh.
+Dialogue: 0,0:13:30.93,0:13:32.43,Default,,0,0,0,,{\i1}E keqe e plotë pa e kuptuar fare!
+Dialogue: 0,0:13:32.52,0:13:35.73,Default,,0,0,0,,{\i1}Një njeri që i çmend njerëzit dhe shkakton\Nvdekjen e tyre thjesht duke jetuar i pafajshëm!
+Dialogue: 0,0:13:36.56,0:13:37.94,Default,,0,0,0,,{\i1}Duhet ta shpëtoj zotërinë tim!
+Dialogue: 0,0:13:44.65,0:13:45.82,Default,,0,0,0,,Fubuki!
+Dialogue: 0,0:13:49.28,0:13:50.66,Default,,0,0,0,,Jo! Nuk mund ta mundim!
+Dialogue: 0,0:13:50.74,0:13:52.83,Default,,0,0,0,,Sipas planit, mos e shtyj!\NPo ikim!
+Dialogue: 0,0:14:03.92,0:14:05.72,Default,,0,0,0,,Ai… Ai është i shpejtë!
+Dialogue: 0,0:14:06.30,0:14:09.34,Default,,0,0,0,,{\i1}Do të na arrijë.\NNëse na kap, do të vdesim!
+Dialogue: 0,0:14:15.89,0:14:18.69,Default,,0,0,0,,Ku po shkon, Z. Takauji?
+Dialogue: 0,0:14:18.77,0:14:21.69,Default,,0,0,0,,Ushqimi për ty do të ftohet.
+Dialogue: 0,0:14:23.73,0:14:25.94,Default,,0,0,0,,Z. Kusunoki, pse jeni këtu?
+Dialogue: 0,0:14:26.53,0:14:29.36,Default,,0,0,0,,Erdhët vonë,\Nndaj dola t'ju takoj.
+Dialogue: 0,0:14:29.95,0:14:31.66,Default,,0,0,0,,Gruaja ime vazhdonte të këmbëngulte,
+Dialogue: 0,0:14:31.74,0:14:35.87,Default,,0,0,0,,"Do të ishte e vrazhdë të mos i shërbejmë Z. Takauji\Nushqimin e nxehtë!"
+Dialogue: 0,0:14:35.95,0:14:39.50,Default,,0,0,0,,Nëse nuk të çoj menjëherë,\Najo do të më qortojë përsëri.
+Dialogue: 0,0:14:40.00,0:14:42.88,Default,,0,0,0,,Ju lutem, më ndihmo të ruaj pozitën\Nnë familjen time!
+Dialogue: 0,0:14:46.47,0:14:48.76,Default,,0,0,0,,Duket se këtë herë je ai i vërteti.
+Dialogue: 0,0:14:49.93,0:14:53.06,Default,,0,0,0,,Tani kam uri.\NLe të shijojmë gatimin e gruas tënde.
+Dialogue: 0,0:14:55.93,0:14:59.14,Default,,0,0,0,,{\i1}Shqetësohesha se djali mund\Nta kishte dëgjuar atë bisedë,
+Dialogue: 0,0:14:59.65,0:15:01.56,Default,,0,0,0,,{\i1}ndaj erdha të shoh çfarë po ndodhte.
+Dialogue: 0,0:15:04.40,0:15:07.78,Default,,0,0,0,,{\i1}Do të të ndihmoj vetëm këtë herë, djalosh.
+Dialogue: 0,0:15:11.03,0:15:14.28,Default,,0,0,0,,{\i1}Pozicionin tim aktual ia detyroj Perandorit.
+Dialogue: 0,0:15:15.20,0:15:17.75,Default,,0,0,0,,{\i1}Nëse bëhesh armik i Perandorit,\Ntë cilit i detyrohem kaq shumë,
+Dialogue: 0,0:15:17.83,0:15:21.12,Default,,0,0,0,,{\i1}atëherë, fëmijë apo hero, duhet të të mposht.
+Dialogue: 0,0:15:26.63,0:15:28.34,Default,,0,0,0,,Zotëria im! A jeni i paprekur?
+Dialogue: 0,0:15:28.42,0:15:29.76,Default,,0,0,0,,Jam mirë.
+Dialogue: 0,0:15:29.84,0:15:32.47,Default,,0,0,0,,Po ata fëmijë që ikën?
+Dialogue: 0,0:15:32.55,0:15:33.85,Default,,0,0,0,,Ishin vrasës.
+Dialogue: 0,0:15:33.93,0:15:37.06,Default,,0,0,0,,Metodat e tyre ishin jashtëzakonisht dinake\Npër fëmijë.
+Dialogue: 0,0:15:37.14,0:15:40.14,Default,,0,0,0,,Çfarë? Duhet të dërgojmë njerëz pas tyre menjëherë.
+Dialogue: 0,0:15:40.23,0:15:42.90,Default,,0,0,0,,Jo, kjo nuk do të jetë e nevojshme.\NËshtë e kaluara.
+Dialogue: 0,0:15:43.48,0:15:46.86,Default,,0,0,0,,Në vend që të dërgoj ndjekës,\Npreferoj sake dhe ushqim.
+Dialogue: 0,0:15:46.94,0:15:50.11,Default,,0,0,0,,Vërtet nuk keni frikë, Z. Takauji.
+Dialogue: 0,0:15:50.20,0:15:53.07,Default,,0,0,0,,Edhe fjalët për vrasës\Njanë thjesht diçka për të pirë.
+Dialogue: 0,0:15:53.66,0:15:54.87,Default,,0,0,0,,{\i1}Ajo dhelpra dinake.
+Dialogue: 0,0:15:54.95,0:15:56.83,Default,,0,0,0,,{\i1}Ti je pas kësaj, apo jo?
+Dialogue: 0,0:15:56.91,0:16:00.87,Default,,0,0,0,,{\i1}Ky njeri, besnik ndaj Perandorit,\Nështë jashtëzakonisht i bezdisshëm.
+Dialogue: 0,0:16:01.62,0:16:03.58,Default,,0,0,0,,{\i1}Përfundimisht, duhet të eliminohet.
+Dialogue: 0,0:16:04.17,0:16:07.13,Default,,0,0,0,,Meqë ra fjala, çfarë ka në menu sot?
+Dialogue: 0,0:16:07.21,0:16:10.51,Default,,0,0,0,,Kemi udon-in tuaj të preferuar, Z. Takauji.
+Dialogue: 0,0:16:10.59,0:16:11.97,Default,,0,0,0,,Po!
+Dialogue: 0,0:16:12.05,0:16:15.22,Default,,0,0,0,,Udon-i është specialitet\Ni provincës sonë Shimotsuke.
+Dialogue: 0,0:16:15.72,0:16:19.31,Default,,0,0,0,,Pyes veten nëse ka ndokënd në Kyo\Nqë bën udon më mirë se unë.
+Dialogue: 0,0:16:21.10,0:16:22.81,Default,,0,0,0,,Mos e kthe këtë në garë, Moronao.
+Dialogue: 0,0:16:24.48,0:16:26.06,Default,,0,0,0,,Z. Saionji!
+Dialogue: 0,0:16:26.15,0:16:29.19,Default,,0,0,0,,Jeni nën arrest me dyshimin\Nse komplotuat për të vrarë Perandorin!
+Dialogue: 0,0:16:30.19,0:16:31.95,Default,Sign,0,0,0,,{\an8}VILA SAIONJI (19:00)
+Dialogue: 0,0:16:34.32,0:16:37.03,Default,,0,0,0,,{\i1}Nuk ishte Perandori\Nqë erdhi në banket,
+Dialogue: 0,0:16:37.12,0:16:38.66,Default,,0,0,0,,{\i1}por forca e dërguar për ta kapur.
+Dialogue: 0,0:16:39.49,0:16:43.33,Default,,0,0,0,,{\i1}Komploti i Yasuie Hojo dhe Kinmune Saionji për\Ntë vrarë Perandorin dështoi
+Dialogue: 0,0:16:43.42,0:16:47.42,Default,,0,0,0,,{\i1}pasi vëllai i vogël i Kinmune i njoftoi\Nata.
+Dialogue: 0,0:16:47.50,0:16:48.92,Default,Sign,0,0,0,,OH DREQ
+Dialogue: 0,0:16:49.00,0:16:51.01,Default,,0,0,0,,Pra dështoi. Ky është fundi!
+Dialogue: 0,0:16:52.13,0:16:53.72,Default,,0,0,0,,Le të ikim, Z. Kinmune!
+Dialogue: 0,0:16:56.60,0:16:58.14,Default,,0,0,0,,Nuk do të ik!
+Dialogue: 0,0:16:59.52,0:17:01.81,Default,,0,0,0,,Mos e thuaj atë! Nxito!
+Dialogue: 0,0:17:01.89,0:17:05.23,Default,,0,0,0,,Gjithçka është gati për arratisjen tënde,\Ndhe jemi plotësisht të përgatitur të të fshehim!
+Dialogue: 0,0:17:05.31,0:17:06.61,Default,,0,0,0,,Mjafton! Lëshomë!
+Dialogue: 0,0:17:07.19,0:17:09.23,Default,,0,0,0,,Unë jam i klanit të shquar Saionji.
+Dialogue: 0,0:17:09.32,0:17:11.57,Default,,0,0,0,,Si mund të vendos veten\Nnë kujdesin e barbarëve?
+Dialogue: 0,0:17:17.07,0:17:19.03,Default,,0,0,0,,E humba bastin.
+Dialogue: 0,0:17:19.58,0:17:20.99,Default,,0,0,0,,Duhet të paguash çmimin e një basti të humbur,
+Dialogue: 0,0:17:21.08,0:17:23.33,Default,,0,0,0,,qoftë fisnik a i thjeshtë.
+Dialogue: 0,0:17:25.29,0:17:28.92,Default,,0,0,0,,Të falënderoj\Nqë më ndihmove të ndjek ambicien, Yasuie.
+Dialogue: 0,0:17:29.80,0:17:34.72,Default,,0,0,0,,Duhet të vazhdosh\Ntë luftosh luftën tënde barbare si luftëtar.
+Dialogue: 0,0:17:38.55,0:17:41.10,Default,,0,0,0,,{\i1}Lamtumirë, Z. Saionji!
+Dialogue: 0,0:17:49.27,0:17:50.61,Default,,0,0,0,,Z. Saionji.
+Dialogue: 0,0:17:50.69,0:17:51.94,Default,,0,0,0,,{\an8}Duket se jeni i përgatitur.
+Dialogue: 0,0:17:52.03,0:17:53.69,Default,Sign,0,0,0,,{\an8}KËSHILLTARË TË PERANDORIT GODAIGO\NCHIKAMITSU YUKI - NAGATOSHI NAWA
+Dialogue: 0,0:17:58.41,0:18:02.08,Default,,0,0,0,,Nawa, Yuki, Chigusa, Kusunoki…
+Dialogue: 0,0:18:02.70,0:18:06.12,Default,,0,0,0,,Të porsalindur me origjinë kaq të errët sa\Nnuk dihet nga erdhën.
+Dialogue: 0,0:18:07.42,0:18:11.71,Default,,0,0,0,,Lavdia juaj, e varur nga Perandori,\Nnuk do të zgjasë shumë.
+Dialogue: 0,0:18:19.93,0:18:21.89,Default,,0,0,0,,{\i1}Një tempull i artë, hë?
+Dialogue: 0,0:18:22.51,0:18:24.73,Default,,0,0,0,,{\i1}Mendoj se do të kisha dashur ta shihja.
+Dialogue: 0,0:18:28.77,0:18:32.02,Default,,0,0,0,,{\i1}Kinmune Saionji u kap dhe u ekzekutua.
+Dialogue: 0,0:18:32.52,0:18:34.65,Default,,0,0,0,,{\i1}Tokat e tij u konfiskuan\Nnga oborri perandarak.
+Dialogue: 0,0:18:35.82,0:18:39.66,Default,,0,0,0,,{\i1}Vite më vonë, klani Ashikaga bleu\Nvendin e këtij komploti,
+Dialogue: 0,0:18:39.74,0:18:42.99,Default,,0,0,0,,{\i1}dhe aty u ndërtua Tempulli Kinkaku-ji.
+Dialogue: 0,0:18:45.25,0:18:47.12,Default,Sign,0,0,0,,{\an8}(20:00)
+Dialogue: 0,0:18:55.76,0:18:56.88,Default,,0,0,0,,Djalosh!
+Dialogue: 0,0:18:59.80,0:19:00.80,Default,,0,0,0,,Mima.
+Dialogue: 0,0:19:01.97,0:19:03.22,Default,,0,0,0,,Po nisesh tashmë?
+Dialogue: 0,0:19:04.14,0:19:06.43,Default,,0,0,0,,Më vjen keq\Nnuk mund të them as një lamtumirë të duhur.
+Dialogue: 0,0:19:07.27,0:19:10.15,Default,,0,0,0,,Vërtet u kënaqa me kohën time në Kyo me ty.
+Dialogue: 0,0:19:14.11,0:19:16.49,Default,,0,0,0,,Hej. Do të takohemi përsëri, apo jo?
+Dialogue: 0,0:19:22.37,0:19:23.58,Default,,0,0,0,,Një ditë, do të takohemi.
+Dialogue: 0,0:19:34.25,0:19:37.67,Default,,0,0,0,,{\i1}Jam i frustruar. Jam i frustruar.\NJam i frustruar!
+Dialogue: 0,0:19:38.30,0:19:41.18,Default,,0,0,0,,{\i1}U detyrova\Ntë duroja poshtërim pas poshtërimi.
+Dialogue: 0,0:19:41.76,0:19:43.18,Default,,0,0,0,,{\i1}Dhe nuk mund të bëja asgjë.
+Dialogue: 0,0:19:44.39,0:19:46.06,Default,,0,0,0,,{\i1}Dua ta mund atë njeri.
+Dialogue: 0,0:19:46.85,0:19:48.85,Default,,0,0,0,,{\i1}Dua të bëhem më i fortë!
+Dialogue: 0,0:19:55.94,0:19:58.82,Default,,0,0,0,,Nuk dua t'i afrohem kurrë më atij.
+Dialogue: 0,0:19:59.65,0:20:01.03,Default,,0,0,0,,Ky ishte gabimi im.
+Dialogue: 0,0:20:01.95,0:20:04.07,Default,,0,0,0,,Nuk e imagjinoja\Nse Takauji do të ishte kaq i fuqishëm.
+Dialogue: 0,0:20:05.95,0:20:08.29,Default,,0,0,0,,Mos u dekurajo kaq, Fubuki!
+Dialogue: 0,0:20:09.29,0:20:13.00,Default,,0,0,0,,Kjo përpjekje për jetën e Takaujit\Ndo ta hedhë Kyo-n në trazira edhe më të mëdha.
+Dialogue: 0,0:20:13.75,0:20:17.63,Default,,0,0,0,,Plani yt funksionoi në momentin\Nqë e realizuam!
+Dialogue: 0,0:20:19.51,0:20:21.97,Default,,0,0,0,,Në moshën tonë, ishim të destinuar të humbnim.
+Dialogue: 0,0:20:22.59,0:20:25.85,Default,,0,0,0,,Por nëse një humbje na tremb,\Nnuk jemi luftëtarë!
+Dialogue: 0,0:20:25.93,0:20:29.64,Default,,0,0,0,,Një ditë, patjetër do t'ia paraqes kokën e tij\Nzotërisë tim!
+Dialogue: 0,0:20:31.39,0:20:32.48,Default,,0,0,0,,{\i1}Kojiro…
+Dialogue: 0,0:20:33.15,0:20:37.32,Default,,0,0,0,,{\i1}Është kur humbim që\Njam më i lumtur që je me mua.
+Dialogue: 0,0:20:37.40,0:20:38.61,Default,,0,0,0,,Le të ngarkojmë bagazhin.
+Dialogue: 0,0:20:38.69,0:20:40.61,Default,,0,0,0,,Hej!
+Dialogue: 0,0:20:42.32,0:20:47.62,Default,,0,0,0,,{\i1}U ribashkuam me xhaxhain\Ndhe filluam arratisjen drejt Shinano.
+Dialogue: 0,0:20:49.08,0:20:50.33,Default,,0,0,0,,O, njeri.
+Dialogue: 0,0:20:50.41,0:20:53.87,Default,,0,0,0,,Doja të vazhdoja të argëtohesha në Kyo.\NSikur Takauji të mos ekzistonte.
+Dialogue: 0,0:20:54.58,0:20:57.50,Default,,0,0,0,,Mima kishte një aromë kaq të bukur,\Nsi asgjë që kisha nuhatur më parë.
+Dialogue: 0,0:20:58.09,0:21:00.30,Default,,0,0,0,,Sikur ta kisha pyetur\Nçfarë lloj temjani ishte.
+Dialogue: 0,0:21:00.80,0:21:02.84,Default,,0,0,0,,Ishte kaq verbuese,\Nme gjithçka që mund të dëshiroje.
+Dialogue: 0,0:21:03.38,0:21:05.51,Default,,0,0,0,,Kyo ishte argëtuese, apo jo?
+Dialogue: 0,0:21:09.60,0:21:11.02,Default,,0,0,0,,{\i1}Gëzim,
+Dialogue: 0,0:21:11.10,0:21:12.35,Default,,0,0,0,,{\i1}frustrim,
+Dialogue: 0,0:21:12.98,0:21:15.40,Default,,0,0,0,,{\i1}dhe gjëra të tjera të panumërta…\NMësova shumë.
+Dialogue: 0,0:21:16.36,0:21:19.53,Default,,0,0,0,,{\i1}Nuk do ta harroj kurrë\Natë që ndodhi në këtë qytet.
+Dialogue: 0,0:21:32.54,0:21:33.87,Default,,0,0,0,,Jam kthyer.
+Dialogue: 0,0:21:41.38,0:21:43.30,Default,,0,0,0,,Ke përjetuar shumë në Kyo.
+Dialogue: 0,0:21:43.84,0:21:47.26,Default,,0,0,0,,Dhe tani dukesh si një luftëtar\Ni mbushur me shpirt luftarak.
+Dialogue: 0,0:21:50.60,0:21:53.18,Default,,0,0,0,,Ndërsa ishe larg,\Ntrupat tanë ishin plotësisht të përgatitur.
+Dialogue: 0,0:21:53.89,0:21:55.89,Default,,0,0,0,,Së pari, le të fillojmë mbledhjen e strategjisë\Nmenjëherë.
+Dialogue: 0,0:21:57.90,0:21:59.23,Default,,0,0,0,,Koha ka ardhur.
+Dialogue: 0,0:22:00.73,0:22:03.36,Default,,0,0,0,,Le të fillojmë betejën\Npër të rimarrë mbretërinë.
+Dialogue: 0,0:23:38.96,0:23:39.83,Default,Sign,0,0,0,,{\an8}EPISODI 23 (1335): BUDDA IMI, PJESA E DYTË
+Dialogue: 0,0:23:38.96,0:23:39.83,Default,,0,0,0,,{\i1}Le të shkojmë!
+

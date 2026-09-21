@@ -913,6 +913,20 @@
       "assFile": "ass/at-1399217.sq.ass",
       "offset": 0,
       "sourceReleaseId": "1399217"
+    },
+    {
+      "id": "at-689419",
+      "title": "The Elusive Samurai Season 2",
+      "episode": "10",
+      "malId": 60059,
+      "anilistId": 182616,
+      "slugs": [
+        "the-elusive-samurai-season-2-359bc"
+      ],
+      "file": "files/at-689419.sq.vtt",
+      "assFile": "ass/at-689419.sq.ass",
+      "offset": 0,
+      "sourceReleaseId": "689419"
     }
   ]
 }
