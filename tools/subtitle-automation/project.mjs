@@ -28,6 +28,25 @@ const duplicate = (entries, match) => entries.find(e => String(e.episode) === St
   (e.anilistId && match.anilistId && String(e.anilistId) === String(match.anilistId)) ||
   e.slug === match.slug || e.slugs?.includes(match.slug)));
 
+// Anikoto carries no AniList id of its own: parseAnime digs one out of the
+// banner image URL, so any title whose player has no banner - One Piece and
+// Mushoku Tensei among them - yields null, and consumers that join on AniList
+// id never see the entry. The episode's malId comes from a data attribute and
+// is reliable, so resolve through anilili-metadata's mal mapping instead.
+// Best-effort on purpose: any failure leaves null, exactly as before, because a
+// missing id is a degraded entry while a throw here would block the release.
+const anilistIdFromMal = async malId => {
+  if (!malId) return null;
+  try {
+    const bucket = String(malId).slice(0, -3) || '0';
+    const response = await fetch(
+      `https://cdn.jsdelivr.net/gh/pommieyewear/anilili-metadata@main/data/mappings/mal/${bucket}/${malId}.json`,
+      {signal: AbortSignal.timeout(15000)});
+    if (!response.ok) { await response.body?.cancel(); return null; }
+    return Number((await response.json()).anilist_id) || null;
+  } catch { return null; }
+};
+
 async function match(filename) {
   const parsed = parseFilename(filename);
   if (!parsed) throw Error('Unrecognized release filename');
@@ -101,6 +120,10 @@ async function publish(folder) {
   const fresh = await match(savedMatch.filename);
   if (fresh.duplicate) throw Error('Episode already exists; do not overwrite');
   for (const key of ['slug','episode','malId','anilistId']) if (fresh[key] !== savedMatch[key]) throw Error('Series match changed during translation');
+  // After the guard above, never before: both sides of that comparison must stay
+  // the raw scrape, or a resolved id here would read as a changed match against
+  // the null saved at match time and fail every affected release.
+  fresh.anilistId ??= await anilistIdFromMal(fresh.malId);
   const releaseId = basename(folder);
   if (!/^\d+$/.test(releaseId)) throw Error('Invalid release ID');
   const id = `at-${releaseId}`;
