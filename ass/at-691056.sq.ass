@@ -1,0 +1,407 @@
+﻿[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+YCbCr Matrix: TV.601
+LayoutResX: 640
+LayoutResY: 360
+
+[Aegisub Project Garbage]
+Audio File: CR_GoodbyeLara_S1.0E12.0_GBYSIM0012_378263_video_ja-jp_J9044092.mp4
+Video File: CR_GoodbyeLara_S1.0E12.0_GBYSIM0012_378263_video_ja-jp_J9044092.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 2.500000
+Scroll Position: 101
+Active Line: 153
+Video Position: 14087
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Default Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Italics Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Overlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Overlap Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Boxing Club Sign,Trebuchet MS,14,&H00101632,&H000000FF,&H00253B56,&H00000000,0,0,0,0,100,100,0,0,3,2,0,9,147,408,40,1
+Style: Large Date Signs,Verdana,28,&H00F0F9F9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,156,354,28,1
+Style: Tournament Sign,Times New Roman,26,&H00FFFEFB,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,131,133,257,1
+Style: Tournament Sign Finals,Times New Roman,25,&H00FFFEFB,&H000000FF,&H00BD8E62,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,94,90,257,1
+Style: Blue Bubble Signs,Trebuchet MS,23,&H00F8FEFE,&H000000FF,&H00E48D1E,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,10,364,20,1
+Style: Pink Bubble Signs,Trebuchet MS,23,&H007551EA,&H000000FF,&H00DFDEFE,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,10,493,20,1
+Style: Today Bubble,Trebuchet MS,16,&H00DBD2CB,&H000000FF,&H006C6866,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,10,583,20,1
+Style: Green Phone Bubble,Trebuchet MS,16,&H00F0F3BC,&H000000FF,&H00ACB539,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,11,421,48,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.40,0:00:04.29,Flashback,LAURA,0,0,0,,Lara...
+Dialogue: 0,0:00:08.24,0:00:08.99,Flashback,LUNA,0,0,0,,Lara...
+Dialogue: 0,0:00:09.86,0:00:10.74,Flashback,LISA,0,0,0,,Lara...
+Dialogue: 0,0:00:11.37,0:00:12.24,Flashback,ROSA,0,0,0,,Lara...
+Dialogue: 0,0:00:12.83,0:00:13.80,Flashback,LEAH,0,0,0,,Lara...
+Dialogue: 0,0:00:15.35,0:00:16.39,Flashback,YOSHIYA,0,0,0,,Lara-chan.
+Dialogue: 0,0:00:17.04,0:00:17.75,Flashback,SETA,0,0,0,,Lara-san.
+Dialogue: 0,0:00:18.17,0:00:19.14,Flashback,HIMEKA,0,0,0,,Lara-chan.
+Dialogue: 0,0:00:19.82,0:00:20.88,Flashback,LUCA,0,0,0,,Lara.
+Dialogue: 0,0:00:22.99,0:00:23.93,Flashback,RIGMOR,0,0,0,,Lara...
+Dialogue: 0,0:00:24.62,0:00:27.63,Flashback,RIGMOR,0,0,0,,Çfarë doje vërtet?
+Dialogue: 0,0:00:37.05,0:00:38.54,Default,ROWAN,0,0,0,,E bukur.
+Dialogue: 0,0:00:40.36,0:00:43.66,Default,ROWAN,0,0,0,,Kështu duhet të jesh.
+Dialogue: 0,0:00:44.72,0:00:45.78,Default,LISA,0,0,0,,Baba!
+Dialogue: 0,0:00:46.76,0:00:47.87,Default,LISA,0,0,0,,Baba...
+Dialogue: 0,0:00:48.57,0:00:49.53,Default,LISA,0,0,0,,Baba!
+Dialogue: 0,0:00:58.12,0:01:04.05,Default,ROWAN,0,0,0,,E prisha mallkimin e ilaçit me\Nfuqinë e shtizës së Familjes sonë Mbretërore.
+Dialogue: 0,0:01:05.93,0:01:12.54,Default,ROWAN,0,0,0,,Këmbët e njerëzve të ulët e ndotin\Ndritën dhe t'i mjegullojnë sytë.
+Dialogue: 0,0:01:13.16,0:01:13.99,Default,LARA,0,0,0,,Çfarë...?
+Dialogue: 0,0:01:13.99,0:01:17.22,Default,ROWAN,0,0,0,,Tani është koha të përmbushësh\Ndetyrën tënde si princeshë.
+Dialogue: 0,0:01:17.88,0:01:21.98,Default,ROWAN,0,0,0,,Përdore tehun tënd për të shpuar\Natë që do,
+Dialogue: 0,0:01:22.41,0:01:24.24,Default,ROWAN,0,0,0,,pastaj dritën,
+Dialogue: 0,0:01:24.24,0:01:26.86,Default,ROWAN,0,0,0,,dhe jepu atyre njerëzve të ulët atë që...
+Dialogue: 0,0:01:25.18,0:01:26.86,Default Top,LARA,0,0,0,,N-Nuk kuptoj!
+Dialogue: 0,0:01:28.62,0:01:30.36,Default,ROWAN,0,0,0,,Nuk ka nevojë...
+Dialogue: 0,0:01:35.38,0:01:36.24,Default,LISA,0,0,0,,Jo!
+Dialogue: 0,0:01:36.51,0:01:38.03,Default,LISA,0,0,0,,Ky vend është gati të rrëzohet.
+Dialogue: 0,0:01:38.56,0:01:40.69,Default,LISA,0,0,0,,Lara! Ndihmoji babait!
+Dialogue: 0,0:01:44.56,0:01:45.55,Default,MARI,0,0,0,,Çfarë është ajo?
+Dialogue: 0,0:01:50.86,0:01:52.92,Italics,ANNOUNCER,0,0,0,,Në Liqenin Biwa, Prefektura Shiga,
+Dialogue: 0,0:01:52.92,0:01:55.95,Italics,ANNOUNCER,0,0,0,,ndërsa këtë muaj u konfirmua një\Nlloj i ri bime ujore,
+Dialogue: 0,0:01:55.95,0:01:58.22,Italics,ANNOUNCER,0,0,0,,u zbuluan edhe mikroorganizma\Ntë paidentifikuar më parë,
+Dialogue: 0,0:01:52.90,0:01:55.34,Default,SIGN,0,0,0,,{\p1\bord0\an8\shad0\c&HF7F7F9&\frz359.9\pos(105,118)\fscx34\fscy8\fad(1380,1)}m 0 0 l 230 0 l 230 215 l 0 215
+Dialogue: 1,0:01:52.90,0:01:55.34,Default,SIGN,0,0,0,,{\an8\fs8.5\shad0\c&H0B0606&\3c&HECAA00&\bord0\fad(1380,1)\pos(105.5,123.5)}Otsu, Prefektura Shiga
+Dialogue: 0,0:01:52.90,0:01:55.34,Default,SIGN,0,0,0,,{\an7\fs15\shad0\c&HF2F2F1&\3c&H89828F&\bord1\fad(1380,1)\pos(124,143.5)}Sot
+Dialogue: 0,0:01:52.90,0:01:55.34,Default,SIGN,0,0,0,,{\fs14\shad0\c&HFCF4DF&\3c&HFEC050&\pos(594,36)\fad(1380,1)}Kaos
+Dialogue: 0,0:01:52.90,0:01:55.34,Default,SIGN,0,0,0,,{\p1\bord0\an8\shad0\c&HF4F0ED&\frz359.9\fad(1380,1)\fscx71\fscy14\pos(519,51)\clip(m 438 50 l 576 51 583 59 590 62 596 62 596 82 439 81)}m 0 0 l 230 0 l 230 215 l 0 215
+Dialogue: 1,0:01:52.90,0:01:55.34,Default,SIGN,0,0,0,,{\an7\fs10\shad0\c&H0B0606&\3c&HECAA00&\bord0\fad(1380,1)\pos(442.5,56)}Fenomen i pazakontë në{\c&H8E64D8&}qytetin Otsu\N{\c&H0B0606&}Qielli bëhet i kuq, shkaku i panjohur
+Dialogue: 0,0:01:52.90,0:01:55.34,Default,SIGN,0,0,0,,{\fad(1308,1)\p1\bord0\an8\shad0\c&HECAD2E&\frz359.9\fscx56\fscy6\pos(517,88)}m 0 0 l 230 0 l 230 215 l 0 215
+Dialogue: 1,0:01:52.90,0:01:55.34,Default,SIGN,0,0,0,,{\fad(1308,1)\an7\fs12\shad0\c&HF7F7F9&\3c&HECAA00&\bord0\pos(437,87)}Lëshim i mundshëm i gazit të paidentifikuar?
+Dialogue: 0,0:01:58.22,0:01:59.72,Italics,ANNOUNCER,0,0,0,,bashkë me prishjet e ekosistemit...
+Dialogue: 0,0:01:59.99,0:02:01.64,Default,YOSHIYA,0,0,0,,Baba! A më dëgjon?!
+Dialogue: 0,0:02:01.64,0:02:02.73,Default,YOSHIYA,0,0,0,,Është Mari...
+Dialogue: 0,0:02:02.73,0:02:04.73,Default,YOSHIYA,0,0,0,,Mari është zhdukur!
+Dialogue: 0,0:02:04.73,0:02:05.76,Italics Top,YOSHIYA,0,0,0,,Varka thjesht...
+Dialogue: 0,0:02:05.76,0:02:09.61,Italics Top,YOSHIYA,0,0,0,,Kërkuam kudo, por ajo nuk është!\NThirra edhe zjarrfikësit...
+Dialogue: 0,0:02:08.12,0:02:09.18,Default,MAKOTO,0,0,0,,Mari?
+Dialogue: 0,0:02:10.18,0:02:11.18,Default,LISA,0,0,0,,Kota!
+Dialogue: 0,0:02:11.70,0:02:14.48,Default,LISA,0,0,0,,Rezidenca filloi të rrëzohej.
+Dialogue: 0,0:02:15.42,0:02:18.01,Default,LISA,0,0,0,,Fuqia e shtrigës po fillon të venitet.
+Dialogue: 0,0:02:18.01,0:02:20.91,Default,LISA,0,0,0,,Babai po e humb fuqinë ndërsa flasim.
+Dialogue: 0,0:02:21.38,0:02:22.62,Default,LISA,0,0,0,,Nuk ka më kohë.
+Dialogue: 0,0:02:41.99,0:02:45.27,Default,LARA,0,0,0,,Nuk kam më ku të kthehem.
+Dialogue: 0,0:02:45.90,0:02:49.52,Default,LARA,0,0,0,,As bota mbi tokë... Askund.
+Dialogue: 0,0:02:51.68,0:02:53.00,Default,LARA,0,0,0,,Baba...
+Dialogue: 0,0:02:53.55,0:02:54.73,Default,LARA,0,0,0,,Baba!
+Dialogue: 0,0:02:55.06,0:02:58.03,Default,LARA,0,0,0,,Njerëzit nuk janë aspak të ulët!
+Dialogue: 0,0:02:58.55,0:03:01.10,Default,LARA,0,0,0,,Ditët që kalova me ta
+Dialogue: 0,0:03:01.10,0:03:04.57,Default,LARA,0,0,0,,më lanë diçka kaq të çmuar!
+Dialogue: 0,0:03:04.90,0:03:06.58,Default,LARA,0,0,0,,Nuk mundet!
+Dialogue: 0,0:03:06.90,0:03:08.17,Default,LARA,0,0,0,,Nuk mund të shpoj
+Dialogue: 0,0:03:09.54,0:03:12.29,Default,LARA,0,0,0,,atë që dua...
+Dialogue: 0,0:03:13.52,0:03:14.56,Default,LUNA,0,0,0,,Lara.
+Dialogue: 0,0:03:18.33,0:03:21.93,Default,LUNA,0,0,0,,Po dëgjoj... zërin e Larës.
+Dialogue: 0,0:03:22.59,0:03:23.47,Default,LARA,0,0,0,,Luna.
+Dialogue: 0,0:03:23.47,0:03:24.66,Default,ROSA,0,0,0,,Po e dëgjoj.
+Dialogue: 0,0:03:25.94,0:03:26.94,Default,ROSA,0,0,0,,Mban dritë...
+Dialogue: 0,0:03:27.60,0:03:29.58,Default,ROSA,0,0,0,,Zëri i princeshës.
+Dialogue: 0,0:03:30.46,0:03:34.82,Default,LEAH,0,0,0,,Zëri i motrës sime të dashur.
+Dialogue: 0,0:03:35.08,0:03:38.10,Default,LAURA,0,0,0,,Lara. Të lutem, na jep dritën.
+Dialogue: 0,0:03:38.66,0:03:41.47,Default,LAURA,0,0,0,,Mund ta bësh.
+Dialogue: 0,0:03:41.83,0:03:44.01,Default,LAURA,0,0,0,,Sepse je ti.
+Dialogue: 0,0:03:46.17,0:03:48.32,Default,ROSA,0,0,0,,Prandaj, këtë herë...
+Dialogue: 0,0:03:48.32,0:03:50.17,Default,LEAH,0,0,0,,Shpoje përmes...
+Dialogue: 0,0:03:50.17,0:03:52.34,Default,LAURA,0,0,0,,Shpirtit të njeriut...
+Dialogue: 0,0:03:53.20,0:03:56.34,Default,LUNA,0,0,0,,Zemrave të njerëzve të ulët...
+Dialogue: 0,0:03:56.62,0:03:57.98,Default,LEAH,0,0,0,,I urrej.
+Dialogue: 0,0:03:57.98,0:04:00.56,Default,ROSA,0,0,0,,I urrej njerëzit.
+Dialogue: 0,0:04:00.56,0:04:03.98,Default,LAURA,0,0,0,,Na vodhën dritën.
+Dialogue: 0,0:04:03.98,0:04:09.74,Default,LUNA,0,0,0,,I urrej ata njerëz që\Ntradhtuan ndjenjat e tua të dashurisë.
+Dialogue: 0,0:04:11.11,0:04:14.23,Default,LAURA,0,0,0,,A nuk ndihesh njësoj?
+Dialogue: 0,0:04:14.62,0:04:18.32,Default,LUNA,0,0,0,,Ai inat është ende aty, apo jo?
+Dialogue: 0,0:04:20.23,0:04:23.99,Default,LUNA,0,0,0,,Prandaj po qan gjithmonë, apo jo?
+Dialogue: 0,0:05:13.85,0:05:18.20,Default,CREDITS,0,0,0,,{\an2\b1\c&HFFFFFF&\3c&H020216&}Përktheu: Sachiko Takahashi
+Dialogue: 0,0:05:18.21,0:05:22.07,Default,CREDITS,0,0,0,,{\an2\b1\c&HFFFFFF&\3c&H020216&}Kohëmatja: Andy Ellis\NRedaktimi dhe shtypja: Ashley Barboza
+Dialogue: 0,0:05:22.08,0:05:25.74,Default,CREDITS,0,0,0,,{\an2\b1\c&HFFFFFF&\3c&H020216&}Kontrolli i cilësisë: Riley Dalton\NKontrolli i përkthimit: Sriram Gurunathan
+Dialogue: 0,0:06:10.65,0:06:13.39,Default,LISA,0,0,0,,Pse je këtu?
+Dialogue: 0,0:06:13.68,0:06:14.63,Default,MARI,0,0,0,,A është ai...
+Dialogue: 0,0:06:14.63,0:06:15.54,Default,LISA,0,0,0,,Ndal.
+Dialogue: 0,0:06:17.66,0:06:19.13,Default,LISA,0,0,0,,Çfarë po bën këtu?
+Dialogue: 0,0:06:19.44,0:06:22.56,Default,MARI,0,0,0,,Duhet ta shoh Larën.
+Dialogue: 0,0:06:23.82,0:06:25.49,Default,LISA,0,0,0,,Pra ajo të thirri.
+Dialogue: 0,0:06:25.91,0:06:27.91,Default,MARI,0,0,0,,Më tha të mos vija.
+Dialogue: 0,0:06:28.56,0:06:29.46,Default,MARI,0,0,0,,Por...
+Dialogue: 0,0:06:40.78,0:06:43.18,Default,LISA,0,0,0,,Lara është pikërisht atje.
+Dialogue: 0,0:06:43.59,0:06:45.84,Default,LISA,0,0,0,,Në atë vend, thellë në mjegull.
+Dialogue: 0,0:06:47.06,0:06:48.26,Default,LISA,0,0,0,,Nëse do ta shohësh,
+Dialogue: 0,0:06:48.57,0:06:49.76,Default,LISA,0,0,0,,duhet t'i afrohesh.
+Dialogue: 0,0:06:53.82,0:06:54.81,Default,LISA,0,0,0,,Tani, shko.
+Dialogue: 0,0:06:57.60,0:06:58.81,Default,MARI,0,0,0,,Faleminderit shumë.
+Dialogue: 0,0:07:11.91,0:07:13.04,Default,LISA,0,0,0,,Do të vdesësh.
+Dialogue: 0,0:07:14.70,0:07:16.11,Default,LISA,0,0,0,,Nëse shkon atje,
+Dialogue: 0,0:07:16.58,0:07:17.95,Default,LISA,0,0,0,,do të vdesësh.
+Dialogue: 0,0:07:19.45,0:07:23.13,Default,LISA,0,0,0,,Nuk e sheh atë teh, apo jo?
+Dialogue: 0,0:07:23.13,0:07:24.38,Default,MARI,0,0,0,,Atë teh?
+Dialogue: 0,0:07:24.38,0:07:26.59,Default,LISA,0,0,0,,Po. Zemra e Larës,
+Dialogue: 0,0:07:26.59,0:07:28.36,Default,LISA,0,0,0,,që fluturon atje.
+Dialogue: 0,0:07:29.11,0:07:30.34,Default,LISA,0,0,0,,Nuk arrin ta shohësh.
+Dialogue: 0,0:07:31.22,0:07:33.10,Default,LISA,0,0,0,,Sepse je njeri.
+Dialogue: 0,0:07:33.83,0:07:37.35,Default,LISA,0,0,0,,Njerëzit nuk mund të shohin dritën e vërtetë.
+Dialogue: 0,0:07:38.16,0:07:42.50,Default,LISA,0,0,0,,Fillimisht, njerëzit e detit dhe njerëzit\Ntë dy erdhën nga i njëjti det.
+Dialogue: 0,0:07:43.12,0:07:48.24,Default,LISA,0,0,0,,Por ju njerëzit zgjodhët t'i\Nmbyllni sytë, dhe tani...
+Dialogue: 0,0:07:49.03,0:07:50.96,Default,LISA,0,0,0,,nuk mund të shihni asgjë.
+Dialogue: 0,0:07:54.87,0:07:56.25,Default,LISA,0,0,0,,Ti je thjesht njeri!
+Dialogue: 0,0:07:56.58,0:08:00.68,Default,LISA,0,0,0,,Nuk do të mund ta kuptoje kurrë Larën...\Nkurrë nuk do të na kuptoje ne!
+Dialogue: 0,0:08:00.68,0:08:04.00,Default,LISA,0,0,0,,Ne jemi fisnikët që mbajmë dritën!
+Dialogue: 0,0:08:04.00,0:08:08.26,Default,LISA,0,0,0,,Dhe ju u kthyet shpinën\Ndritës, dashurisë së vërtetë!
+Dialogue: 0,0:08:08.26,0:08:10.91,Default,LISA,0,0,0,,Nuk mund të shpresoje kurrë ta kuptoje Larën!
+Dialogue: 0,0:08:15.36,0:08:18.89,Default,MARI,0,0,0,,Është e vërtetë. Nuk mund ta shoh zemrën e Larës.
+Dialogue: 0,0:08:20.63,0:08:22.77,Default,MARI,0,0,0,,Duhet t'i afrohem,\Npërndryshe nuk do ta di kurrë.
+Dialogue: 0,0:08:24.12,0:08:25.45,Default,MARI,0,0,0,,Prandaj do të shkoj.
+Dialogue: 0,0:08:28.98,0:08:32.78,Default,KOTA,0,0,0,,Të shpoj atë që do?
+Dialogue: 0,0:08:33.28,0:08:36.32,Default,KOTA,0,0,0,,Nuk dua ta shoh Zonjën Lara duke e bërë këtë.
+Dialogue: 0,0:08:37.27,0:08:41.60,Default,KOTA,0,0,0,,Sepse edhe unë dua dikë.
+Dialogue: 0,0:08:44.28,0:08:45.50,Default,LISA,0,0,0,,I urrej...
+Dialogue: 0,0:08:47.00,0:08:48.52,Default,LISA,0,0,0,,I urrej njerëzit!
+Dialogue: 0,0:08:54.56,0:08:56.81,Default,SIGN,0,0,0,,{\fs8\pos(212,101)\shad0\bord0\b1\c&HDDDBF7&}Zjarrfikësit Rajonalë
+Dialogue: 0,0:08:55.43,0:08:56.81,Default,YOSHIYA,0,0,0,,Çfarë? Mari?!
+Dialogue: 0,0:08:56.81,0:08:58.68,Default,YOSHIYA,0,0,0,,Hej, Mari! Ti je?!
+Dialogue: 0,0:08:59.26,0:09:00.94,Italics,MARI,0,0,0,,Hej, a më dëgjon?
+Dialogue: 0,0:09:02.33,0:09:04.96,Italics,YOSHIYA,0,0,0,,Çfarë dreqin po ndodh?\NKu je tani?
+Dialogue: 0,0:09:04.96,0:09:06.33,Default,MARI,0,0,0,,Okishima.
+Dialogue: 0,0:09:06.33,0:09:08.31,Italics,YOSHIYA,0,0,0,,Çfarë?! Vërtet...
+Dialogue: 0,0:09:08.31,0:09:11.18,Default,MARI,0,0,0,,Më fal, nuk kam pasur\Nsinjal këtu.
+Dialogue: 0,0:09:11.18,0:09:14.80,Italics,YOSHIYA,0,0,0,,Ti{\i0}budallacke{\i1}! Kemi qenë\Nduke të kërkuar kudo!
+Dialogue: 0,0:09:14.80,0:09:15.81,Default,MARI,0,0,0,,Më fal.
+Dialogue: 0,0:09:16.22,0:09:17.58,Default,MARI,0,0,0,,Por jam mirë.
+Dialogue: 0,0:09:18.05,0:09:19.70,Italics,MARI,0,0,0,,Do të kthehem sapo ta shoh Larën.
+Dialogue: 0,0:09:19.70,0:09:21.24,Default,YOSHIYA,0,0,0,,Çfarë? Lara-chan?
+Dialogue: 0,0:09:21.24,0:09:21.58,Default,LUCA,0,0,0,,Lara?!
+Dialogue: 0,0:09:21.58,0:09:22.25,Italics,LUCA,0,0,0,,Lara?!
+Dialogue: 0,0:09:22.25,0:09:24.17,Italics,LUCA,0,0,0,,Otsu-san! A është Lara atje?
+Dialogue: 0,0:09:24.17,0:09:25.28,Default,MARI,0,0,0,,Mendoj se po.
+Dialogue: 0,0:09:25.28,0:09:26.28,Italics,LUCA,0,0,0,,Falë Zotit.
+Dialogue: 0,0:09:26.28,0:09:27.59,Italics,LUCA,0,0,0,,Do të vij edhe unë atje!
+Dialogue: 0,0:09:27.59,0:09:28.50,Default,MARI,0,0,0,,E pamundur.
+Dialogue: 0,0:09:28.50,0:09:30.46,Italics,YOSHIYA,0,0,0,,Për çfarë dreqin po flet?
+Dialogue: 0,0:09:30.46,0:09:32.71,Italics,LUCA,0,0,0,,Epo, sepse... nuk e di!
+Dialogue: 0,0:09:32.71,0:09:35.22,Italics,LUCA,0,0,0,,Por... unë jam ajo...
+Dialogue: 0,0:09:35.22,0:09:37.05,Default,LUCA,0,0,0,,që lëndoi Larën.
+Dialogue: 0,0:09:40.24,0:09:41.12,Italics,MARI,0,0,0,,Nuk më intereson.
+Dialogue: 0,0:09:41.79,0:09:43.23,Italics,MARI,0,0,0,,Nuk është problemi im, ndaj pyete vetë.
+Dialogue: 0,0:09:43.58,0:09:46.43,Default,MARI,0,0,0,,Do ta kthej Larën.
+Dialogue: 0,0:09:47.52,0:09:49.69,Italics,LUCA,0,0,0,,Faleminderit, Otsu-san.
+Dialogue: 0,0:09:55.87,0:09:56.62,Default,MARI,0,0,0,,Lara?
+Dialogue: 0,0:09:58.97,0:09:59.49,Default,LARA,0,0,0,,Mari?
+Dialogue: 0,0:10:00.05,0:10:00.82,Default,MARI,0,0,0,,Lara!
+Dialogue: 0,0:10:00.82,0:10:02.00,Default,LARA,0,0,0,,Largohu!
+Dialogue: 0,0:10:03.42,0:10:04.75,Default,LARA,0,0,0,,Nëse i afrohesh...
+Dialogue: 0,0:10:04.75,0:10:08.00,Default,SIGN,0,0,0,,{\c&HD0D4D5&\3c&H275D90&\shad0\fs10\pos(101,112)}Turneu i 22-të i Boksit për Juniors\N {\an8}Kampionia e Grave\NMari Otsu
+Dialogue: 0,0:10:05.15,0:10:08.00,Default,LARA,0,0,0,,do të të vras.
+Dialogue: 0,0:10:12.16,0:10:13.00,Default,MARI,0,0,0,,Lara.
+Dialogue: 0,0:10:19.87,0:10:24.08,Default,LARA,0,0,0,,Nuk gjeta dot dashurinë e vërtetë, në fund.
+Dialogue: 0,0:10:24.78,0:10:26.83,Default,LARA,0,0,0,,Kjo sepse jam një sirenë,
+Dialogue: 0,0:10:27.34,0:10:29.37,Default,LARA,0,0,0,,dhe ju jeni të gjithë njerëz.
+Dialogue: 0,0:10:30.17,0:10:32.80,Default,LARA,0,0,0,,Kam qenë duke u përpjekur\Ntë mos përballem me këtë gjithë këtë kohë.
+Dialogue: 0,0:10:33.38,0:10:38.89,Default,LARA,0,0,0,,Kjo urrejtje e furishme që u rrit\Ngjatë 200 viteve të gjumit tim,
+Dialogue: 0,0:10:39.40,0:10:41.53,Default,LARA,0,0,0,,kjo trazim në zemrën time,
+Dialogue: 0,0:10:41.98,0:10:44.00,Default,LARA,0,0,0,,që nuk mund ta fshija kurrë.
+Dialogue: 0,0:10:44.73,0:10:49.32,Default,LARA,0,0,0,,Për sa kohë urrejtja ime... e jona mbetet,
+Dialogue: 0,0:10:50.16,0:10:52.32,Default,LARA,0,0,0,,gjithçka që i pret njerëzit e detit dhe njerëzit
+Dialogue: 0,0:10:52.92,0:10:55.36,Default,LARA,0,0,0,,është një fat ku copëtojmë njëri-tjetrin.
+Dialogue: 0,0:10:57.26,0:11:00.68,Default,LARA,0,0,0,,Nëse është kështu,\Nprincesha duhet të zhduket.
+Dialogue: 0,0:11:01.59,0:11:04.18,Default,LARA,0,0,0,,Kështu, askush nuk lëndohet.
+Dialogue: 0,0:11:04.50,0:11:06.81,Default,LARA,0,0,0,,Do t'i jap fund këtij fati.
+Dialogue: 0,0:11:09.19,0:11:10.94,Default,MARI,0,0,0,,Siç bëre atëherë?
+Dialogue: 0,0:11:12.36,0:11:13.80,Default,MARI,0,0,0,,Bëmë një premtim, të kujtohet?
+Dialogue: 0,0:11:14.19,0:11:18.70,Default,MARI,0,0,0,,Kur të bëhem boksere profesioniste,\Ndo të më bësh një tortë gjigante.
+Dialogue: 0,0:11:20.23,0:11:21.20,Default,LARA,0,0,0,,Ndal.
+Dialogue: 0,0:11:21.86,0:11:24.35,Default,LARA,0,0,0,,Ti dhe unë jemi të ndryshëm.
+Dialogue: 0,0:11:24.35,0:11:27.71,Default,LARA,0,0,0,,Shohim gjëra të ndryshme\Ndhe jetojmë në botë të ndryshme.
+Dialogue: 0,0:11:28.33,0:11:29.42,Default,LARA,0,0,0,,Largohu!
+Dialogue: 0,0:11:29.84,0:11:33.17,Default,LARA,0,0,0,,Thjesht... thjesht ndalo së afruari!
+Dialogue: 0,0:11:33.55,0:11:34.92,Default,LARA,0,0,0,,Ti dhe unë,
+Dialogue: 0,0:11:34.92,0:11:39.16,Default,LARA,0,0,0,,njerëzit dhe njerëzit e detit,\Njemi qenie krejtësisht të ndryshme!
+Dialogue: 0,0:11:42.51,0:11:45.68,Default,MARI,0,0,0,,Po. Ti dhe unë jemi të ndryshëm.
+Dialogue: 0,0:11:47.38,0:11:53.29,Default,MARI,0,0,0,,Ti je budallacke dhe ngatërrestare,\Ndhe gjithmonë më pengon.
+Dialogue: 0,0:11:53.86,0:11:57.66,Default,MARI,0,0,0,,Por pikërisht prandaj,\Nsa herë isha me ty,
+Dialogue: 0,0:11:58.00,0:11:59.93,Default,MARI,0,0,0,,nuk u ndjeva kurrë vetëm.
+Dialogue: 0,0:12:02.32,0:12:04.05,Default,MARI,0,0,0,,Nuk më intereson\Nfati, ligjet apo çfarëdo.
+Dialogue: 0,0:12:06.39,0:12:08.71,Default,MARI,0,0,0,,Por Lara, a nuk ishe ti...
+Dialogue: 0,0:12:09.85,0:12:11.21,Default,MARI,0,0,0,,A nuk lindëm të gjithë...
+Dialogue: 0,0:12:12.88,0:12:17.06,Default,MARI,0,0,0,,për të dashur dikë?
+Dialogue: 0,0:12:46.71,0:12:47.72,Default,LARA,0,0,0,,Mari...
+Dialogue: 0,0:12:48.40,0:12:49.13,Default,LARA,0,0,0,,Mari.
+Dialogue: 0,0:12:49.66,0:12:50.42,Default,LARA,0,0,0,,Mari!
+Dialogue: 0,0:12:53.64,0:12:56.18,Default,LARA,0,0,0,,Mari! Mari!
+Dialogue: 0,0:12:57.40,0:13:00.05,Default,LARA,0,0,0,,Jo! Zgjohu!
+Dialogue: 0,0:13:00.44,0:13:01.75,Default,LARA,0,0,0,,Mari!
+Dialogue: 0,0:13:01.75,0:13:03.43,Default,LARA,0,0,0,,Hajde, Mari!
+Dialogue: 0,0:13:04.34,0:13:05.81,Default,LARA,0,0,0,,Prit!
+Dialogue: 0,0:13:19.58,0:13:20.84,Default,LARA,0,0,0,,Drita.
+Dialogue: 0,0:13:22.94,0:13:26.00,Default,LARA,0,0,0,,Drita e atij që dua.
+Dialogue: 0,0:13:27.33,0:13:31.20,Default,LARA,0,0,0,,Gjithmonë kam dëshiruar...
+Dialogue: 0,0:13:32.49,0:13:34.13,Default,LARA,0,0,0,,këtë dritë.
+Dialogue: 0,0:13:36.09,0:13:38.96,Default,RIGMOR,0,0,0,,Çfarë doje vërtet?
+Dialogue: 0,0:13:40.79,0:13:43.47,Default,GRACE,0,0,0,,Çfarë doje,
+Dialogue: 0,0:13:43.47,0:13:44.61,Default,GRACE,0,0,0,,Lara?
+Dialogue: 0,0:13:49.22,0:13:50.98,Default,LARA,0,0,0,,Të gjithë ju, heshtni!
+Dialogue: 0,0:13:51.20,0:13:52.62,Default,LARA,0,0,0,,Nuk dua asgjë!
+Dialogue: 0,0:13:52.62,0:13:55.44,Default,LARA,0,0,0,,Nuk më interesonte nëse zhdukesha!
+Dialogue: 0,0:13:55.44,0:13:57.98,Default,LARA,0,0,0,,Por jo ti! Ti duhet\Ntë mbetesh në këtë botë.
+Dialogue: 0,0:13:57.98,0:14:00.33,Default,LARA,0,0,0,,Duhet të mbetesh këtu!
+Dialogue: 0,0:14:04.75,0:14:05.69,Default,LARA,0,0,0,,Mari!
+Dialogue: 0,0:14:06.46,0:14:07.41,Default,LARA,0,0,0,,Mari!
+Dialogue: 0,0:14:08.22,0:14:09.16,Default,LARA,0,0,0,,Mari!
+Dialogue: 0,0:14:13.86,0:14:14.88,Default,LARA,0,0,0,,Mari!
+Dialogue: 0,0:14:22.63,0:14:23.59,Default,LARA,0,0,0,,Dhemb!
+Dialogue: 0,0:14:25.15,0:14:26.12,Default,LARA,0,0,0,,Dhemb!
+Dialogue: 0,0:14:27.95,0:14:29.12,Default,LARA,0,0,0,,Dhemb!
+Dialogue: 0,0:14:30.56,0:14:32.01,Default,LARA,0,0,0,,Dhemb!
+Dialogue: 0,0:14:32.01,0:14:33.28,Default,LARA,0,0,0,,Dhemb!
+Dialogue: 0,0:14:39.98,0:14:41.62,Italics,LARA,0,0,0,,Nuk mund të lëviz...
+Dialogue: 0,0:14:46.10,0:14:48.62,Italics,LARA,0,0,0,,Nuk mund të të shpëtoj...
+Dialogue: 0,0:14:51.74,0:14:57.08,Italics,LARA,0,0,0,,Pra ky është fati që\Ni pret njerëzit e detit dhe njerëzit?
+Dialogue: 0,0:15:00.08,0:15:04.84,Italics,LARA,0,0,0,,Nuk duhej të isha kthyer kurrë në jetë.
+Dialogue: 0,0:15:08.28,0:15:09.39,Default,MARI,0,0,0,,Lara...
+Dialogue: 0,0:15:14.30,0:15:17.09,Default,LARA,0,0,0,,Jo, jo!
+Dialogue: 0,0:15:17.87,0:15:19.94,Default,LARA,0,0,0,,Jam kaq e lumtur që u ktheva në jetë!
+Dialogue: 0,0:15:19.94,0:15:22.74,Default,LARA,0,0,0,,Jam kaq e lumtur që erdha përsëri në sipërfaqe!
+Dialogue: 0,0:15:22.74,0:15:26.82,Default,LARA,0,0,0,,Ende ndjej kështu!
+Dialogue: 0,0:15:27.21,0:15:30.47,Default,LARA,0,0,0,,Kjo jam unë! Kjo është ajo që jam!
+Dialogue: 0,0:15:30.84,0:15:33.49,Default,LARA,0,0,0,,Jam e ulët... dhe e mjerë...
+Dialogue: 0,0:15:33.80,0:15:36.22,Default,LARA,0,0,0,,budallacke... dhe barrë...
+Dialogue: 0,0:15:36.81,0:15:39.12,Default,LARA,0,0,0,,Jam një sirenë krejt budallacke!
+Dialogue: 0,0:15:39.77,0:15:41.46,Default,LARA,0,0,0,,Por çfarë pastaj?
+Dialogue: 0,0:15:41.84,0:15:43.60,Default,LARA,0,0,0,,Mos më shiko me përbuzje!
+Dialogue: 0,0:15:43.92,0:15:46.59,Italics,LARA,0,0,0,,Gënjeva kur thashë se\Nnuk më interesonte nëse zhdukesha.
+Dialogue: 0,0:15:47.26,0:15:50.62,Default,LARA,0,0,0,,Edhe tani që dukem kështu,
+Dialogue: 0,0:15:51.31,0:15:53.48,Default,LARA,0,0,0,,ende dua të jem në këtë botë!
+Dialogue: 0,0:15:55.39,0:15:57.64,Default,LARA,0,0,0,,Sepse kjo botë...
+Dialogue: 0,0:15:58.12,0:15:59.61,Default,LARA,0,0,0,,të ka ty.
+Dialogue: 0,0:16:01.15,0:16:02.52,Default,LARA,0,0,0,,Unë...
+Dialogue: 0,0:16:02.99,0:16:04.13,Default,LARA,0,0,0,,Unë...
+Dialogue: 0,0:16:04.76,0:16:05.99,Default,LARA,0,0,0,,Unë...
+Dialogue: 0,0:16:08.24,0:16:11.54,Default,LARA,0,0,0,,Nuk më duhet dashuria e vërtetë!
+Dialogue: 0,0:16:13.92,0:16:15.08,Default,LARA,0,0,0,,Gjithçka që dua...
+Dialogue: 0,0:16:18.64,0:16:20.00,Default,LARA,0,0,0,,Gjithçka që do të dua gjithmonë...
+Dialogue: 0,0:16:23.40,0:16:25.21,Default,LARA,0,0,0,,është të jem në një botë...
+Dialogue: 0,0:16:26.02,0:16:27.47,Default,LARA,0,0,0,,me ty!
+Dialogue: 0,0:17:15.61,0:17:19.93,Default,YOSHIYA,0,0,0,,Epo, mendoj se mund të pres\Nqë babai të më vrasë sot.
+Dialogue: 0,0:17:21.94,0:17:23.44,Default,YOSHIYA,0,0,0,,Çfarë po shikon?
+Dialogue: 0,0:17:23.71,0:17:26.70,Default,LUCA,0,0,0,,Mendova se sapo pashë qiellin të ndriçojë.
+Dialogue: 0,0:17:27.10,0:17:28.13,Default,YOSHIYA,0,0,0,,Çfarë?
+Dialogue: 0,0:17:36.25,0:17:39.04,Default,MARI,0,0,0,,Pra, a vdiqa?
+Dialogue: 0,0:17:39.55,0:17:40.43,Default,LARA,0,0,0,,Po.
+Dialogue: 0,0:17:41.03,0:17:42.29,Default,MARI,0,0,0,,Huh...
+Dialogue: 0,0:17:42.68,0:17:44.67,Default,LARA,0,0,0,,"Huh"? Kaq është?
+Dialogue: 0,0:17:45.34,0:17:50.36,Default,MARI,0,0,0,,Nëse mund të vdes e të kthehem në jetë,\Nvërtet duhet të jem më e forta, hë?
+Dialogue: 0,0:17:51.03,0:17:52.14,Default,LARA,0,0,0,,Po.
+Dialogue: 0,0:17:53.86,0:17:54.76,Default,LARA,0,0,0,,Mari...
+Dialogue: 0,0:17:56.58,0:17:59.13,Default,LARA,0,0,0,,Gjithë këtë kohë, mendoj se thjesht po...
+Dialogue: 0,0:18:00.24,0:18:02.17,Default,LARA,0,0,0,,kërkoja këtë...
+Dialogue: 0,0:18:03.60,0:18:06.29,Default,LARA,0,0,0,,Një botë ku doja të isha.
+Dialogue: 0,0:18:07.40,0:18:08.52,Default,LARA,0,0,0,,Kjo ishte e gjitha që doja.
+Dialogue: 0,0:18:14.41,0:18:16.97,Italics Top,ANNOUNCER,0,0,0,,Gjashtë muaj pas fenomenit të\Npazakontë në Liqenin Biwa,
+Dialogue: 0,0:18:15.42,0:18:21.09,Default,SIGN,0,0,0,,{\an8\fad(257,658)\fs23\fnTimes New Roman\shad0\bord0\b1\pos(320,264)}Gjashtë muaj më vonë
+Dialogue: 0,0:18:16.97,0:18:19.46,Italics Top,ANNOUNCER,0,0,0,,të dhënat e cilësisë së ujit janë\Nkthyer në nivele normale,
+Dialogue: 0,0:18:19.46,0:18:21.91,Italics Top,ANNOUNCER,0,0,0,,dhe shumimi i pazakontë\Ni algave mikroskopike
+Dialogue: 0,0:18:21.91,0:18:24.92,Italics Top,ANNOUNCER,0,0,0,,tani mezi dallohet.
+Dialogue: 0,0:18:25.20,0:18:28.44,Italics Top,ANNOUNCER,0,0,0,,Ndonëse Liqeni Biwa po kthehet\Ngradualisht në normalitet,
+Dialogue: 0,0:18:28.44,0:18:30.34,Italics Top,ANNOUNCER,0,0,0,,nuk mund të themi se "asgjë nuk ndodhi".
+Dialogue: 0,0:18:30.34,0:18:34.37,Default,LISA,0,0,0,,A arrite të gjesh dashurinë e vërtetë?
+Dialogue: 0,0:18:36.22,0:18:41.15,Default,LISA,0,0,0,,Drita që gjete është e ndryshme\Nnga princeshat e së kaluarës.
+Dialogue: 0,0:18:41.75,0:18:46.53,Default,LISA,0,0,0,,Por gjithsesi po u jep forcë\Nbabait dhe të gjithëve.
+Dialogue: 0,0:18:48.14,0:18:50.73,Default,LISA,0,0,0,,Mund të jetë pas një viti,\Nose dhjetë vjetësh,
+Dialogue: 0,0:18:51.15,0:18:53.47,Default,LISA,0,0,0,,por ata do të zgjohen një ditë.
+Dialogue: 0,0:18:55.35,0:18:56.57,Default,LISA,0,0,0,,Por edhe kur të zgjohen,
+Dialogue: 0,0:18:56.94,0:19:01.30,Default,LISA,0,0,0,,urrejtja e tyre nuk do të zhduket kurrë.
+Dialogue: 0,0:19:02.09,0:19:05.91,Default,LARA,0,0,0,,Edhe kështu, do të flas\Nme babanë dhe të gjithë,
+Dialogue: 0,0:19:05.91,0:19:08.33,Default,LARA,0,0,0,,sado herë të duhet,
+Dialogue: 0,0:19:09.18,0:19:11.96,Default,LARA,0,0,0,,për të ardhmen e njerëzve të detit dhe njerëzve.
+Dialogue: 0,0:19:12.38,0:19:16.46,Default,LARA,0,0,0,,Sepse jam e sigurt\Nse kjo është "drita" që gjeta.
+Dialogue: 0,0:19:20.71,0:19:23.14,Default,LISA,0,0,0,,Nuk mund t'ia ktheja gjithë këtë kohë.
+Dialogue: 0,0:19:24.76,0:19:28.51,Default,LISA,0,0,0,,E di, në fakt kisha frikë prej teje.
+Dialogue: 0,0:19:30.01,0:19:32.26,Default,LISA,0,0,0,,Frikë nga shikimi i ndryshimit tënd.
+Dialogue: 0,0:19:33.11,0:19:35.76,Default,LISA,0,0,0,,Por dua që ta mbash,
+Dialogue: 0,0:19:35.76,0:19:39.37,Default,LISA,0,0,0,,si Lara që je tani\Ndhe Lara që do të bëhesh.
+Dialogue: 0,0:19:41.98,0:19:43.20,Default,LARA,0,0,0,,Faleminderit.
+Dialogue: 0,0:19:51.90,0:19:54.87,Default,LUCA,0,0,0,,Gjithmonë kaq e papritur, Lara.
+Dialogue: 0,0:19:54.87,0:19:55.88,Default,LARA,0,0,0,,E papritur?
+Dialogue: 0,0:19:55.88,0:19:59.54,Default,LUCA,0,0,0,,Papritur shfaqesh dhe\Npapritur shkon diku tjetër.
+Dialogue: 0,0:19:59.93,0:20:01.23,Default,LARA,0,0,0,,Kjo është e vërtetë.
+Dialogue: 0,0:20:01.23,0:20:02.51,Default,LUCA,0,0,0,,Dhe ka edhe atë.
+Dialogue: 0,0:20:02.51,0:20:06.23,Default,LUCA,0,0,0,,Papritur do të jesh bashkë\Ndhe pastaj papritur do të ndahesh.
+Dialogue: 0,0:20:06.23,0:20:07.59,Default,LUCA,0,0,0,,Herë të panumërta.
+Dialogue: 0,0:20:07.59,0:20:08.92,Default,LARA,0,0,0,,Më fal.
+Dialogue: 0,0:20:09.40,0:20:11.73,Default,LUCA,0,0,0,,Vendosu në pozicionin tim, të lutem.
+Dialogue: 0,0:20:11.73,0:20:13.02,Default,LARA,0,0,0,,Vërtet më vjen keq.
+Dialogue: 0,0:20:14.14,0:20:16.78,Default,LUCA,0,0,0,,Pra, ku shkon tani?
+Dialogue: 0,0:20:17.67,0:20:19.02,Default,LARA,0,0,0,,Mendoj se...
+Dialogue: 0,0:20:19.80,0:20:23.64,Default,LARA,0,0,0,,një vend ku një dritë e re\Npo më pret.
+Dialogue: 0,0:20:25.64,0:20:26.41,Default,LUCA,0,0,0,,Lara!
+Dialogue: 0,0:20:27.02,0:20:29.73,Default,LUCA,0,0,0,,Më në fund përfundova pikturën tënde!
+Dialogue: 0,0:20:30.68,0:20:32.17,Default,LUCA,0,0,0,,Eja ta shohësh ndonjëherë.
+Dialogue: 0,0:20:34.72,0:20:37.17,Default,LARA,0,0,0,,Pra, nuk ka më ripërsëritje?
+Dialogue: 0,0:20:38.88,0:20:41.93,Default,LUCA,0,0,0,,Budallacke! Nuk do ta besosh\Nsi doli!
+Dialogue: 0,0:20:42.89,0:20:44.72,Default,LUCA,0,0,0,,Është kryevepra ime!
+Dialogue: 0,0:20:48.78,0:20:50.40,Default,MAKOTO,0,0,0,,Do të na mungosh.
+Dialogue: 0,0:20:50.40,0:20:52.40,Default,EMA,0,0,0,,Ende po bebëzesh?
+Dialogue: 0,0:20:52.40,0:20:54.07,Default,YOSHIYA,0,0,0,,Nuk jam.
+Dialogue: 0,0:20:54.07,0:20:56.35,Default,YOSHIYA,0,0,0,,Lara-chan, a do të të çoj\Nnë stacion?
+Dialogue: 0,0:20:56.35,0:20:59.95,Default,LARA,0,0,0,,Faleminderit, por do të bëj pazar\Nme Marin para se të nisem.
+Dialogue: 0,0:20:59.95,0:21:00.96,Default,YOSHIYA,0,0,0,,Çfarë?
+Dialogue: 0,0:21:00.96,0:21:02.82,Default,EMA,0,0,0,,Gjithsesi ke punë më pas.
+Dialogue: 0,0:21:03.22,0:21:04.57,Default,MAKOTO,0,0,0,,Mirupafshim për tani.
+Dialogue: 0,0:21:04.57,0:21:06.90,Default,EMA,0,0,0,,Duhet thjesht të kthehesh përsëri.
+Dialogue: 0,0:21:06.90,0:21:09.58,Default,YOSHIYA,0,0,0,,Po! Kthehu sa herë të duash, në rregull?
+Dialogue: 0,0:21:09.94,0:21:10.99,Default,YOSHIYA,0,0,0,,Lara-chan!
+Dialogue: 0,0:21:18.33,0:21:20.36,Default,MARI,0,0,0,,Tashmë kam uri.
+Dialogue: 0,0:21:20.36,0:21:22.16,Default,LARA,0,0,0,,Por hëngre kaq shumë.
+Dialogue: 0,0:21:22.16,0:21:24.76,Default,MARI,0,0,0,,Kohët e fundit shtova më shumë seri\Nnë rutinën e stërvitjes.
+Dialogue: 0,0:21:25.02,0:21:26.16,Default,LARA,0,0,0,,E kuptoj.
+Dialogue: 0,0:21:26.16,0:21:28.39,Default,MARI,0,0,0,,Do të stërvitem shumë edhe pas kësaj.
+Dialogue: 0,0:21:28.39,0:21:30.34,Default,LARA,0,0,0,,Kujdes trupin, në rregull?
+Dialogue: 0,0:21:30.34,0:21:31.52,Default,MARI,0,0,0,,Kjo është radha ime.
+Dialogue: 0,0:21:34.27,0:21:38.03,Today Bubble,SIGN,0,0,0,,Sot
+Dialogue: 0,0:21:34.27,0:21:38.03,Green Phone Bubble,SIGN,0,0,0,,Po ju kontaktojmë për të\Nkonfirmuar orën e mbërritjes\Npër lëvizjen e sotme.
+Dialogue: 0,0:21:34.27,0:21:38.03,Green Phone Bubble,SIGN,0,0,0,,{\pos(11,100)}Ende planifikoni të mbërrinin midis 15:00 dhe 16:00?
+Dialogue: 0,0:21:34.27,0:21:38.03,Pink Bubble Signs,SIGN,0,0,0,,{\fs16\pos(11,145)}Po, ky është plani.
+Dialogue: 0,0:21:34.81,0:21:38.03,Default,MARI,0,0,0,,Vërtet mund të jetosh vetëm?
+Dialogue: 0,0:21:34.58,0:21:35.73,Green Phone Bubble,SIGN,0,0,0,,{\c&H969592&\3c&HDEE0DB&\pos(11,190)}Th
+Dialogue: 0,0:21:35.73,0:21:36.85,Green Phone Bubble,SIGN,0,0,0,,{\c&H969592&\3c&HDEE0DB&\pos(11,190)}Than
+Dialogue: 0,0:21:36.85,0:21:37.65,Green Phone Bubble,SIGN,0,0,0,,{\c&H969592&\3c&HDEE0DB&\pos(11,190)}Thank y
+Dialogue: 0,0:21:37.65,0:21:38.03,Green Phone Bubble,SIGN,0,0,0,,{\c&H969592&\3c&HDEE0DB&\pos(11,190)}Thank you
+Dialogue: 0,0:21:38.03,0:21:39.08,Default,LARA,0,0,0,,Sigurisht që mundem.
+Dialogue: 0,0:21:39.08,0:21:40.26,Default,MARI,0,0,0,,Je e sigurt?
+Dialogue: 0,0:21:40.26,0:21:41.30,Default,LARA,0,0,0,,Jam e sigurt.
+Dialogue: 0,0:21:42.94,0:21:45.12,Default,MARI,0,0,0,,Do ta prishësh patjetër diçka.
+Dialogue: 0,0:21:42.01,0:21:46.16,Italics Top,TRAIN STATION ANNOUNCEMENT,0,0,0,,Treni lokal që niset në orën 10:50
+Dialogue: 0,0:21:45.12,0:21:46.16,Default,LARA,0,0,0,,Mendoj se po.
+Dialogue: 0,0:21:46.16,0:21:51.20,Italics Top,TRAIN STATION ANNOUNCEMENT,0,0,0,,me destinacion Kobe dhe Kakogawa\Ndo të niset nga Platforma 1.
+Dialogue: 0,0:21:49.16,0:21:51.20,Default,MARI,0,0,0,,Me gjasë do të kthehesh\Nmenjëherë, apo jo?
+Dialogue: 0,0:21:51.71,0:21:52.96,Default,LARA,0,0,0,,Jo.
+Dialogue: 0,0:21:51.71,0:21:56.41,Italics Top,TRAIN STATION ANNOUNCEMENT,0,0,0,,Për sigurinë tuaj,\Nju lutem qëndroni pas vijës së verdhë.
+Dialogue: 0,0:21:57.00,0:21:58.02,Default,MARI,0,0,0,,Por...
+Dialogue: 0,0:21:57.00,0:22:00.72,Italics Top,TRAIN STATION ANNOUNCEMENT,0,0,0,,Treni po mbërrin në platformën numër 1.
+Dialogue: 0,0:21:58.76,0:22:03.06,Default,MARI,0,0,0,,I the të gjitha ato gjëra të turpshme\Npër të jetuar me mua.
+Dialogue: 0,0:22:00.72,0:22:02.38,Italics Top,TRAIN STATION ANNOUNCEMENT,0,0,0,,Ju lutem kujdes.
+Dialogue: 0,0:22:03.47,0:22:05.48,Default,LARA,0,0,0,,E kisha seriozisht.
+Dialogue: 0,0:22:05.48,0:22:06.68,Default,MARI,0,0,0,,Atëherë pse po nisesh?
+Dialogue: 0,0:22:10.95,0:22:14.44,Default,MARI,0,0,0,,Do të më mungosh.
+Dialogue: 0,0:22:26.18,0:22:27.08,Default,LARA,0,0,0,,Mari...
+Dialogue: 0,0:22:33.72,0:22:37.15,Italics Top,TRAIN STATION ANNOUNCEMENT,0,0,0,,Treni lokal me destinacion\NKobe dhe Kakogawa
+Dialogue: 0,0:22:37.15,0:22:39.54,Italics Top,TRAIN STATION ANNOUNCEMENT,0,0,0,,tani do të niset nga Platforma 1.
+Dialogue: 0,0:22:41.14,0:22:44.60,Italics Top,TRAIN STATION ANNOUNCEMENT,0,0,0,,Dyert po mbyllen.\NJu lutem kujdes.
+Dialogue: 0,0:22:42.60,0:22:43.76,Default,LARA,0,0,0,,Jam mirë!
+Dialogue: 0,0:22:46.09,0:22:48.99,Default,MARI,0,0,0,,A të dhembin ende këmbët?
+Dialogue: 0,0:22:51.18,0:22:52.35,Default,LARA,0,0,0,,Po.
+Dialogue: 0,0:22:53.02,0:22:53.93,Default,LARA,0,0,0,,Por...
+Dialogue: 0,0:22:58.73,0:23:00.78,Default,LARA,0,0,0,,Këto plagë janë ajo që jam.
+Dialogue: 0,0:23:01.14,0:23:04.08,Default,LARA,0,0,0,,Prandaj nuk do të ndalem.
+Dialogue: 0,0:23:05.19,0:23:07.88,Default,LARA,0,0,0,,Do të vazhdoj të eci\Nme këto këmbët e mia.
+

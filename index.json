@@ -871,6 +871,20 @@
       "assFile": "ass/at-690005.sq.ass",
       "offset": 0,
       "sourceReleaseId": "690005"
+    },
+    {
+      "id": "at-691056",
+      "title": "Goodbye, Lara",
+      "episode": "12",
+      "malId": 58878,
+      "anilistId": 177637,
+      "slugs": [
+        "goodbye-lara-60394"
+      ],
+      "file": "files/at-691056.sq.vtt",
+      "assFile": "ass/at-691056.sq.ass",
+      "offset": 0,
+      "sourceReleaseId": "691056"
     }
   ]
 }
