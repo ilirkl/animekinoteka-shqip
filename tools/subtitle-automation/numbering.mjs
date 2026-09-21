@@ -200,7 +200,28 @@ function detectiveConan(parsed) {
   };
 }
 
-const RULES = [samuraiTroopers, onePiece, toukutsuOu, reZero, smokingBehindTheSupermarket, kaijuGirlCaramelise, bungoStrayDogsWan2, linkClickS3, honzukiS4, detectiveConan];
+// SubsPlease numbers the 100 Girlfriends releases continuously across seasons
+// ("Hyakkano - 25" is season 2's first episode), while Anikoto files each season
+// separately with 12 episodes apiece. Cumulative 25-36 therefore lands on season 3's
+// episodes 1-12. project.mjs re-checks the episode and MAL ID on every run.
+function hyakkanoS3(parsed) {
+  const episode = Number(parsed.episode);
+  if (parsed.title !== 'Hyakkano' ||
+      (parsed.season !== null && parsed.season !== 1) ||
+      !Number.isInteger(episode) || episode < 25 || episode > 36) return null;
+  return {
+    slug:'the-100-girlfriends-who-really-really-really-really-really-love-you-season-3-c0d2f',
+    title:'The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 3',
+    malId:62811,
+    episode:String(episode - 24),
+    sourceEpisode:String(episode),
+    sourceTitle:parsed.title,
+    part:3,
+    evidence:'https://anikototv.to/watch/the-100-girlfriends-who-really-really-really-really-really-love-you-season-3-c0d2f'
+  };
+}
+
+const RULES = [samuraiTroopers, onePiece, toukutsuOu, reZero, smokingBehindTheSupermarket, kaijuGirlCaramelise, bungoStrayDogsWan2, linkClickS3, honzukiS4, detectiveConan, hyakkanoS3];
 
 export function knownNumbering(parsed) {
   for (const rule of RULES) {
