@@ -899,6 +899,20 @@
       "assFile": "ass/at-691118.sq.ass",
       "offset": 0,
       "sourceReleaseId": "691118"
+    },
+    {
+      "id": "at-1399217",
+      "title": "BanG Dream! Yume∞Mita",
+      "episode": "1",
+      "malId": 62430,
+      "anilistId": 198376,
+      "slugs": [
+        "bang-dream-yumemita"
+      ],
+      "file": "files/at-1399217.sq.vtt",
+      "assFile": "ass/at-1399217.sq.ass",
+      "offset": 0,
+      "sourceReleaseId": "1399217"
     }
   ]
 }

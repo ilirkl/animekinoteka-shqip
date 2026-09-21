@@ -1,0 +1,379 @@
+﻿[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+
+[Aegisub Project Garbage]
+Last Style Storage: 3 Party
+Audio File: CR_BangDreamYumemi_S1.0E1.0_GYUSIM0001_380386_video_ja-jp_J9737611.mp4
+Video File: CR_BangDreamYumemi_S1.0E1.0_GYUSIM0001_380386_video_ja-jp_J9737611.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 1.000000
+Scroll Position: 327
+Active Line: 338
+Video Position: 33201
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Flashback,Roboto Medium,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback Italics,Roboto Medium,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,1,1,15,0
+Style: On Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: DefaultLow,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: B1,Arial,32,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,70,70,30,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:53.01,0:00:55.89,Default,,0,0,0,,Pse po vonohet kaq shumë menaxheri?
+Dialogue: 0,0:00:56.01,0:00:57.39,Default,,0,0,0,,Ja ku jam!
+Dialogue: 0,0:00:57.81,0:00:58.64,Default,,0,0,0,,Përshëndetje!
+Dialogue: 0,0:00:58.77,0:01:02.02,Default,,0,0,0,,Unë jam Arale Nakamachi, së shpejti do të bashkohem\Nme Akademinë Kanda Shiroyama!
+Dialogue: 0,0:01:02.15,0:01:05.94,Default,,0,0,0,,Faleminderit që më ftuat\Nnë këtë mbledhje të krijuesve.
+Dialogue: 0,0:01:06.07,0:01:08.86,Default,,0,0,0,,Jam vërtet e nderuar të jem këtu sot.
+Dialogue: 0,0:01:08.99,0:01:11.91,Default,,0,0,0,,Ndoshta ndonjëherë do të jem pak e bezdisshme,
+Dialogue: 0,0:01:12.03,0:01:14.78,Default,,0,0,0,,por shpresoj vërtet të shkojmë mirë!
+Dialogue: 0,0:01:15.12,0:01:17.33,Default,,0,0,0,,- A ngeci?\N- Qetësohu, Nakamachi-san.
+Dialogue: 0,0:01:17.45,0:01:19.41,Default,,0,0,0,,Merr një frymë të thellë.
+Dialogue: 0,0:01:19.54,0:01:21.67,Default,,0,0,0,,Po, le të marrim një frymë të thellë.
+Dialogue: 0,0:01:26.25,0:01:27.05,Default,,0,0,0,,Por pse?
+Dialogue: 0,0:01:27.34,0:01:29.92,Default,,0,0,0,,Oh, bukur! Kjo është totalisht MewType!
+Dialogue: 0,0:01:30.26,0:01:31.59,Default,,0,0,0,,- "Mew"?\N- Çfarë është kjo?
+Dialogue: 0,0:01:31.72,0:01:34.39,Default,,0,0,0,,Faji im. Duhet të kisha nisur me këtë.
+Dialogue: 0,0:01:34.55,0:01:37.97,Default,,0,0,0,,Duke filluar nga sot, ju quheni MewType!
+Dialogue: 0,0:01:38.97,0:01:42.48,Default,,0,0,0,,- "MewType"?\N- Një krijesë e re?
+Dialogue: 0,0:01:42.60,0:01:45.19,Default,,0,0,0,,Është emri i grupit tuaj, qartë!
+Dialogue: 0,0:01:45.31,0:01:46.57,Default,,0,0,0,,Një gru...
+Dialogue: 0,0:01:48.11,0:01:49.15,Default,,0,0,0,,Arale Nakamachi.
+Dialogue: 0,0:01:49.53,0:01:50.65,Default,,0,0,0,,Nonoka Miyanaga.
+Dialogue: 0,0:01:51.03,0:01:52.03,Default,,0,0,0,,Yuno Sengoku.
+Dialogue: 0,0:01:52.40,0:01:53.20,Default,,0,0,0,,Miyako Fuji.
+Dialogue: 0,0:01:53.41,0:01:55.16,Default,,0,0,0,,Hë?! M... edhe unë?
+Dialogue: 0,0:01:55.45,0:01:59.33,Default,,0,0,0,,Pikërisht!\NTë gjitha bashkë jeni MewType!
+Dialogue: 0,0:02:00.29,0:02:01.87,Default,,0,0,0,,Jam kaq e emocionuar.
+Dialogue: 0,0:02:02.00,0:02:05.71,Default,,0,0,0,,- Kjo është lajm për mua.\N- Ti the se do të bëja vetëm ilustrime.
+Dialogue: 0,0:02:05.83,0:02:08.30,Default,,0,0,0,,Aspak. Është shkruar në kontratën tënde.
+Dialogue: 0,0:02:08.59,0:02:15.43,On Top,Sign,0,0,0,,[Nënshkrimi] Anëtare e një grupi apo bendi
+Dialogue: 0,0:02:09.25,0:02:10.67,Default,,0,0,0,,Nuk mbaj mend.
+Dialogue: 0,0:02:10.80,0:02:14.34,Default,,0,0,0,,Mbaj mend që vizatova një vijë të kuqe\Nndërsa ta shpjegoja.
+Dialogue: 0,0:02:14.47,0:02:15.43,Default,,0,0,0,,Edhe për ty.
+Dialogue: 0,0:02:16.43,0:02:19.01,Default,,0,0,0,,Ishe pa gjumë në atë kohë...
+Dialogue: 0,0:02:19.18,0:02:20.77,Default,,0,0,0,,Kjo është çështje serioze!
+Dialogue: 0,0:02:21.02,0:02:25.60,Default,,0,0,0,,Uh... nuk mendoj se\Ntë jesh në grup është për mua...
+Dialogue: 0,0:02:26.61,0:02:29.61,Default,,0,0,0,,Jo, nuk mundem! Po më kthehen kujtimet!
+Dialogue: 0,0:02:29.73,0:02:33.28,Default,,0,0,0,,Oh, mos u shqetëso. Ky nuk është grup.
+Dialogue: 0,0:02:33.40,0:02:36.28,Default,,0,0,0,,Është bend. E sheh? Pa shqetësime.
+Dialogue: 0,0:02:36.41,0:02:39.45,Default,,0,0,0,,Oh, në rregull. Nëse është bend, atëherë...
+Dialogue: 0,0:02:39.58,0:02:42.83,Default,,0,0,0,,Hë?! Nuk është kjo!
+Dialogue: 0,0:02:42.95,0:02:45.58,Default,,0,0,0,,Po, pra nuk është grup, apo jo?
+Dialogue: 0,0:02:45.71,0:02:47.17,Default,,0,0,0,,Është e njëjta gjë.
+Dialogue: 0,0:02:47.67,0:02:50.05,Default,,0,0,0,,Gjithsesi do të punojmë si grup.
+Dialogue: 0,0:02:50.17,0:02:51.63,Default,,0,0,0,,Jam dakord me të.
+Dialogue: 0,0:02:52.38,0:02:54.22,Default,,0,0,0,,Kam mbaruar me bendet.
+Dialogue: 0,0:02:54.34,0:02:57.22,Default,,0,0,0,,Ka mjaft prej tyre\Naty jashtë tashmë.
+Dialogue: 0,0:02:58.51,0:02:59.30,Default,,0,0,0,,E frikshme.
+Dialogue: 0,0:02:59.43,0:03:03.06,Default,,0,0,0,,Hajde... Vërtet nuk e vlerëson\Nvlerën tënde, apo jo?
+Dialogue: 0,0:03:03.18,0:03:06.02,Default,,0,0,0,,Nuk ka rrugë që të humbim\Nme këto anëtare.
+Dialogue: 0,0:03:06.81,0:03:10.36,Default,,0,0,0,,Të gjithë përveç Fuji-san\Nkanë audiencë në kanalin e tyre.
+Dialogue: 0,0:03:10.48,0:03:12.78,Default,,0,0,0,,Kënga e Miyanaga-san\Nmadje arriti 100 milionë shikime.
+Dialogue: 0,0:03:12.90,0:03:13.99,Default,,0,0,0,,Sa shumë?!
+Dialogue: 0,0:03:15.86,0:03:20.33,Default,,0,0,0,,"Po ndjek lepujt..."
+Dialogue: 0,0:03:20.91,0:03:23.54,Default,,0,0,0,,Oh uau, është Usa Eater-chan!
+Dialogue: 0,0:03:23.66,0:03:27.33,Default,,0,0,0,,- Kjo je ti?\N- Isha pesë vjeç!
+Dialogue: 0,0:03:23.95,0:03:27.33,On Top,,0,0,0,,Shtatë, tetë zero... 100 milionë shikime?
+Dialogue: 0,0:03:28.75,0:03:32.13,Default,,0,0,0,,Ti je Usa Eater-chan\Nqë e ka parë gjithë njerëzimi!!
+Dialogue: 0,0:03:32.25,0:03:36.26,Default,,0,0,0,,Nuk mund të besoj se po takoj\Nnjë të famshme të vërtetë të internetit!
+Dialogue: 0,0:03:36.84,0:03:39.18,Default,,0,0,0,,Arale-chan, edhe ti poston video, apo jo?
+Dialogue: 0,0:03:41.43,0:03:45.18,Default,,0,0,0,,Dëgjova këngën që postove së fundmi.
+Dialogue: 0,0:03:45.56,0:03:50.44,Default,,0,0,0,,Dukesh kaq e lumtur\Nduke kënduar në atë video...
+Dialogue: 0,0:03:50.56,0:03:52.07,Default,,0,0,0,,Më pëlqen.
+Dialogue: 0,0:03:52.32,0:03:55.40,Default,,0,0,0,,- V-Vërtet?\N- Po. Më pëlqen!
+Dialogue: 0,0:03:57.20,0:04:02.12,Default,,0,0,0,,Këndimi im nuk është vërtet asgjë e veçantë...
+Dialogue: 0,0:04:02.74,0:04:06.29,Default,,0,0,0,,Më kanë thënë se zëri im\Nështë goxha i lartë në klasë, por...
+Dialogue: 0,0:04:06.41,0:04:11.04,Default,,0,0,0,,"Më pëlqen"? Kjo është të thuash tepër.\NNuk jam kaq e veçantë...
+Dialogue: 0,0:04:11.50,0:04:14.13,Default,,0,0,0,,Pra... Vërtet të pëlqen?
+Dialogue: 0,0:04:14.50,0:04:19.09,Default,,0,0,0,,Po! Absolutisht e dua këndimin tënd!
+Dialogue: 0,0:04:22.30,0:04:26.81,Default,,0,0,0,,Më mirë të përdorim forcat tona\Nsesa të formojmë një bend tani.
+Dialogue: 0,0:04:26.93,0:04:29.39,Default,,0,0,0,,Kam markën tënde për t'u kujdesur.
+Dialogue: 0,0:04:29.52,0:04:30.31,Default,,0,0,0,,Më falni.
+Dialogue: 0,0:04:30.85,0:04:33.52,Default,,0,0,0,,Nuk mund të nis thjesht një bend...
+Dialogue: 0,0:04:33.65,0:04:35.57,Default,,0,0,0,,Oh, mos u shqetëso.
+Dialogue: 0,0:04:36.57,0:04:38.70,Default,,0,0,0,,Kam gjetur kohë të mjaftueshme për stërvitje!
+Dialogue: 0,0:04:39.11,0:04:44.12,Default,,0,0,0,,Stërvitja e përbashkët është në këtë orar.\NSigurohu të stërvitesh edhe vetë.
+Dialogue: 0,0:04:42.41,0:04:45.20,Default,,0,0,0,,{\an8}Po luaj kitarë!
+Dialogue: 0,0:04:44.24,0:04:47.04,Default,,0,0,0,,Ndërsa ju vazhdoni të postoni në kanalet tuaja,
+Dialogue: 0,0:04:47.16,0:04:50.17,Default,,0,0,0,,ne do të stërvitemi shumë\Npara se të bëjmë një shfaqje live.
+Dialogue: 0,0:04:50.29,0:04:51.17,Default,,0,0,0,,Një shfaqje live?!
+Dialogue: 0,0:04:51.42,0:04:55.84,Default,,0,0,0,,Duam të paktën një këngë origjinale,\Nndaj le të punojmë për kompozimin.
+Dialogue: 0,0:04:56.21,0:04:59.88,Default,,0,0,0,,Sengoku-san mund të bëjë muzikën\Ndhe Nakamachi-san, tekstin.
+Dialogue: 0,0:05:02.22,0:05:04.35,Default,,0,0,0,,Le të përpiqemi të japim më të mirën!
+Dialogue: 0,0:05:04.47,0:05:06.52,Default,,0,0,0,,Jeee!
+Dialogue: 0,0:05:08.77,0:05:10.23,Default,Sign,0,0,0,,[Nënshkrimi] Jeni offline
+Dialogue: 0,0:05:13.90,0:05:16.36,Default,Sign,0,0,0,,[Nënshkrimi] A janë ëndrrat vërtet fuqi?
+Dialogue: 0,0:05:19.03,0:05:22.07,Default,,0,0,0,,Nuk mund të përballoj\Nnjë bend apo një shfaqje live!
+Dialogue: 0,0:05:22.49,0:05:26.70,Default,,0,0,0,,Nuk qëndroj dot përpara njerëzve,\Ne jo më të tregoj fytyrën!
+Dialogue: 0,0:05:27.20,0:05:30.12,Default,,0,0,0,,Mendoja se do të këndoja vetëm...
+Dialogue: 0,0:05:32.46,0:05:36.42,Default,,0,0,0,,Nesër është dita e parë e gjimnazit,\Npor ndjehem kaq e tensionuar.
+Dialogue: 0,0:05:43.72,0:05:44.64,Default,,0,0,0,,Nëse nuk këndoj,
+Dialogue: 0,0:05:44.93,0:05:47.26,Default,,0,0,0,,nuk do të më duhet të bashkohem me një bend!
+Dialogue: 0,0:05:44.93,0:05:47.26,On Top,Sign,0,0,0,,[Nënshkrimi] Mund të jem pak\N[Nënshkrimi] e bezdisshme ndonjëherë...
+Dialogue: 0,0:05:47.56,0:05:50.48,Default,,0,0,0,,Atëherë mund t'i anashkaloj shfaqjet\Ndhe të fsheh fytyrën!
+Dialogue: 0,0:05:50.60,0:05:52.14,Default,,0,0,0,,Mund të jem gjeni!
+Dialogue: 0,0:05:53.27,0:05:55.61,Default,,0,0,0,,Nuk do të këndoj për një kohë!
+Dialogue: 0,0:06:03.99,0:06:08.54,On Top,Lyric,0,0,0,,{\i1}[Teksti i këngës] Gati nis dhe zbulo gati nis dhe zbulo\N[Teksti i këngës] është vetëm një lloj i ri{\i0}
+Dialogue: 0,0:06:09.70,0:06:14.08,On Top,Lyric,0,0,0,,{\i1}[Teksti i këngës] Historia rrotullohet gjithmonë rreth nesh{\i0}
+Dialogue: 0,0:06:14.46,0:06:18.96,On Top,Lyric,0,0,0,,{\i1}[Teksti i këngës] Kjo mund të jetë e dhënë, por më lër ta përsëris{\i0}
+Dialogue: 0,0:06:19.46,0:06:24.38,On Top,Lyric,0,0,0,,{\i1}[Teksti i këngës] A mund t'i lexosh udhëzimet?\N[Teksti i këngës] Sado me kujdes t'i shkruajmë{\i0}
+Dialogue: 0,0:06:24.59,0:06:29.39,On Top,Lyric,0,0,0,,{\i1}[Teksti i këngës] Pse gjithmonë diçka na pengon?\N[Teksti i këngës] Por gjithsesi, do ta bëjmë të vrumbullojë!{\i0}
+Dialogue: 0,0:06:29.51,0:06:33.35,On Top,Lyric,0,0,0,,{\i1}[Teksti i këngës] Në një rrahje zemre, si një overdrive{\i0}
+Dialogue: 0,0:06:33.48,0:06:40.11,On Top,Lyric,0,0,0,,{\i1}[Teksti i këngës] Ne dëshirojmë të shtrembërojmë botën që shohim{\i0}
+Dialogue: 0,0:06:40.28,0:06:44.90,On Top,Lyric,0,0,0,,{\i1}[Teksti i këngës] Të shohësh tepër qartë e bën pafajësinë\N[Teksti i këngës] qesharake, çfarë shakaje!{\i0}
+Dialogue: 0,0:06:45.24,0:06:49.74,On Top,Lyric,0,0,0,,{\i1}[Teksti i këngës] Edhe përpjekjet e kota për guxim\N[Teksti i këngës] do të shpërblehen kur të vijë koha{\i0}
+Dialogue: 0,0:06:50.04,0:06:53.75,On Top,Lyric,0,0,0,,{\i1}[Teksti i këngës] Ky është skenari i mbijetesës sonë{\i0}
+Dialogue: 0,0:06:54.16,0:06:59.50,On Top,Lyric,0,0,0,,{\i1}[Teksti i këngës] Duke rishkruar përrallën\N[Teksti i këngës] Duke derdhur lot absurdë, në stilin e llojit të ri{\i0}
+Dialogue: 0,0:06:59.67,0:07:04.34,On Top,Lyric,0,0,0,,{\i1}[Teksti i këngës] Mund të shkojmë kudo, mundemi, ndaj mos u ndal tani{\i0}
+Dialogue: 0,0:07:04.47,0:07:08.72,On Top,Lyric,0,0,0,,{\i1}[Teksti i këngës] As anime, as reale,\N[Teksti i këngës] le të krijojmë kategorinë tonë{\i0}
+Dialogue: 0,0:07:08.85,0:07:12.06,On Top,Lyric,0,0,0,,{\i1}[Teksti i këngës] Jemi lodhur\N[Teksti i këngës] nga kjo botë e ndërlikuar e mërzitshme!{\i0}
+Dialogue: 0,0:07:12.18,0:07:15.44,On Top,Lyric,0,0,0,,{\i1}[Teksti i këngës] Lëreni tek ne, do t'i shkruajmë vetë ëndrrat tona{\i0}
+Dialogue: 0,0:07:15.56,0:07:18.81,On Top,Lyric,0,0,0,,{\i1}[Teksti i këngës] Gati nis dhe zbulo gati nis dhe zbulo\N[Teksti i këngës] është vetëm një lloj i ri, zgjedhja jonë{\i0}
+Dialogue: 0,0:07:18.94,0:07:20.52,On Top,Lyric,0,0,0,,{\i1}[Teksti i këngës] Duke ndjekur rrahjen e qëndrueshme{\i0}
+Dialogue: 0,0:07:20.65,0:07:25.61,On Top,Lyric,0,0,0,,{\i1}[Teksti i këngës] Gati nis dhe zbulo gati nis dhe zbulo\N[Teksti i këngës] është vetëm një lloj i ri{\i0}
+Dialogue: 0,0:07:56.43,0:07:57.52,Default,,0,0,0,,Hesht.
+Dialogue: 0,0:07:58.02,0:08:00.02,Default,,0,0,0,,Gjithçka që flet është për veten.
+Dialogue: 0,0:08:00.31,0:08:01.69,Default,,0,0,0,,A po dëgjon?
+Dialogue: 0,0:08:01.82,0:08:03.57,Default,,0,0,0,,- Egoiste.\N- Ti e kërkoje.
+Dialogue: 0,0:08:03.69,0:08:06.24,Default,,0,0,0,,- Lëndove njerëz.\N- Po ikën?
+Dialogue: 0,0:08:06.36,0:08:08.11,Default,,0,0,0,,Fat të mirë në jetën tjetër.
+Dialogue: 0,0:08:10.12,0:08:16.08,Default,,0,0,0,,"Ëndrrat janë fuqi!"
+Dialogue: 0,0:08:16.25,0:08:21.42,Default,,0,0,0,,"Ëndrrat janë fuqi!"
+Dialogue: 0,0:08:24.25,0:08:29.18,Default,,0,0,0,,Këtu në Akademinë Kanda Shiroyama,\Nne nderojmë mbi të gjitha dëshirat e studentëve tanë.
+Dialogue: 0,0:08:29.55,0:08:33.93,Default,,0,0,0,,Shpresojmë që ju nuk do ta humbni kurrë\Natë që vërtet dëshironi të bëni.
+Dialogue: 0,0:08:35.06,0:08:36.18,Default,,0,0,0,,Oh, është Magilulu!
+Dialogue: 0,0:08:37.06,0:08:38.44,Default,,0,0,0,,Nga filmi i fundit.
+Dialogue: 0,0:08:38.56,0:08:40.44,Default,,0,0,0,,Çfarë? Bënë ngjitëse?
+Dialogue: 0,0:08:42.31,0:08:44.48,Default,,0,0,0,,Po, më pëlqen Magilulu.
+Dialogue: 0,0:08:45.23,0:08:46.48,Default,,0,0,0,,Ke shije të mirë!
+Dialogue: 0,0:08:46.61,0:08:48.86,Default,,0,0,0,,U shit kaq shpejt!
+Dialogue: 0,0:08:48.99,0:08:51.03,Default,,0,0,0,,Ishte një ngjitëse me edicion të kufizuar!
+Dialogue: 0,0:08:51.16,0:08:54.24,Default,,0,0,0,,Familja ime u nda\Nnëpër Tokyo për t'i kërkuar.
+Dialogue: 0,0:08:54.37,0:08:56.70,Default,,0,0,0,,Arritëm të merrnim dy ngjitëse!
+Dialogue: 0,0:08:59.75,0:09:01.50,Default,,0,0,0,,Stacioni ynë është nga ajo anë.
+Dialogue: 0,0:09:01.62,0:09:02.96,Default,,0,0,0,,Marr metrosë.
+Dialogue: 0,0:09:03.08,0:09:05.25,Default,,0,0,0,,- Në rregull, atëherë.\N- Mirupafshim.
+Dialogue: 0,0:09:05.38,0:09:07.59,Default,,0,0,0,,- Mirupafshim!\N- Shihemi nesër.
+Dialogue: 0,0:09:12.01,0:09:13.93,Default,,0,0,0,,Tifozët e Magilulu janë një bekim!
+Dialogue: 0,0:09:14.05,0:09:18.60,Default,,0,0,0,,Duke gjykuar nga sot, mund t'ia dal\Ntë shkoj në shkollë në person.
+Dialogue: 0,0:09:19.89,0:09:21.60,Default,Sign,0,0,0,,[Nënshkrimi] Ora 17:00: Stërvitja e MewType
+Dialogue: 0,0:09:22.94,0:09:26.27,Default,,0,0,0,,Siç thashë më parë,\Ndo të fillojmë me videot tuaja.
+Dialogue: 0,0:09:26.40,0:09:29.24,Default,,0,0,0,,Ndonjë këngë që dëshironi të mbuloni,\NNakamachi-san?
+Dialogue: 0,0:09:29.44,0:09:31.32,Default,,0,0,0,,Kënga hapëse e Magilulu!
+Dialogue: 0,0:09:31.45,0:09:32.66,Default,,0,0,0,,- Nuk po këndoj!\N- Bukur!
+Dialogue: 0,0:09:32.78,0:09:35.91,Default,,0,0,0,,Do të luaj "Këngën e Nana-chan që dua"!
+Dialogue: 0,0:09:36.33,0:09:40.00,Default,,0,0,0,,- Kush është ajo?\N- Nanaka-chan! Motra ime e vogël!
+Dialogue: 0,0:09:40.12,0:09:45.54,Default,,0,0,0,,E drejtë. Tjetra është Fuji-san... por ti ke\Nnjë punë tjetër për përparësi këtë muaj.
+Dialogue: 0,0:09:45.67,0:09:48.42,Default,,0,0,0,,Sengoku-san po përqendrohet\Nedhe në shkrimin e muzikës.
+Dialogue: 0,0:09:48.55,0:09:49.34,Default,,0,0,0,,Për momentin.
+Dialogue: 0,0:09:49.63,0:09:52.38,Default,,0,0,0,,Pra, jemi vetëm ne të dyja. Mjaft e vetmuar, hë?
+Dialogue: 0,0:09:52.51,0:09:54.22,Default,,0,0,0,,Epo, mendoj...
+Dialogue: 0,0:09:54.34,0:09:56.89,Default,,0,0,0,,Pas videove solo,\Ndo të bësh një bashkëpunim.
+Dialogue: 0,0:09:57.01,0:10:00.93,Default,,0,0,0,,Jeee! Tingëllon shkëlqyeshëm!\NNjë bashkëpunim me këngën e Yuno-chan!
+Dialogue: 0,0:10:01.06,0:10:02.98,Default,,0,0,0,,Seriozisht, Miyanaga-san?!
+Dialogue: 0,0:10:03.35,0:10:06.48,Default,,0,0,0,,Kam një afat që po afrohet.\NNuk po kompozoj.
+Dialogue: 0,0:10:06.61,0:10:09.65,Default,,0,0,0,,Unë... edhe unë mund të mos mund të këndoj.
+Dialogue: 0,0:10:10.15,0:10:11.61,Default,,0,0,0,,Oh jo, nuk mundesh?
+Dialogue: 0,0:10:11.74,0:10:14.20,Default,,0,0,0,,Sa e mirë je me instrumentet?
+Dialogue: 0,0:10:14.32,0:10:17.83,Default,,0,0,0,,Le të shohim... Nëse është e re për mua,\Ndo të më duhet të stërvitem shumë.
+Dialogue: 0,0:10:17.95,0:10:23.29,Default,,0,0,0,,Për stërvitjen tonë të radhës,\Nkam një dorëshkrim për të dorëzuar, ndaj...
+Dialogue: 0,0:10:23.92,0:10:26.08,Default,,0,0,0,,"Një dorëshkrim"?!
+Dialogue: 0,0:10:26.38,0:10:28.17,Default,,0,0,0,,Fuji-san ka serinë e saj të mangës.
+Dialogue: 0,0:10:28.29,0:10:30.13,Default,,0,0,0,,Uau! Si quhet?
+Dialogue: 0,0:10:30.26,0:10:31.76,Default,,0,0,0,,Jam ende mjaft e re.
+Dialogue: 0,0:10:31.88,0:10:34.09,Default,,0,0,0,,Mund ta njoh pseudonimin tënd.
+Dialogue: 0,0:10:35.30,0:10:37.26,On Top,Sign,0,0,0,,[Nënshkrimi] Ngopja e Chupacabu\N[Nënshkrimi] Yako Fujimi
+Dialogue: 0,0:10:35.59,0:10:37.26,Default,,0,0,0,,Ja.
+Dialogue: 0,0:10:39.81,0:10:41.72,Default,,0,0,0,,- Ti je Yako Fujimi-sensei.\N- Po.
+Dialogue: 0,0:10:41.85,0:10:45.06,Default,,0,0,0,,Ti dikur vizatoje fan art\Ntë "Kululu Magjike Fizike".
+Dialogue: 0,0:10:45.52,0:10:49.90,Default,,0,0,0,,E kam ndjekur punën tënde\Nqë kur isha në klasën e gjashtë.
+Dialogue: 0,0:10:50.23,0:10:53.24,Default,,0,0,0,,Fuji-san merret me ilustrimet\Nedhe për MewType.
+Dialogue: 0,0:10:53.36,0:10:55.91,Default,,0,0,0,,Çfarë?! J-Jo! Më lër të shoh!
+Dialogue: 0,0:10:56.20,0:10:59.16,Default,,0,0,0,,Ja ku është. Një llogari e sapokrijuar.
+Dialogue: 0,0:10:59.45,0:11:02.87,Default,,0,0,0,,Dua ta përditësoj vazhdimisht,\Nndaj le të shkojmë në stërvitje.
+Dialogue: 0,0:11:03.25,0:11:04.62,Default,,0,0,0,,Jeee!
+Dialogue: 0,0:11:04.75,0:11:06.04,Default,,0,0,0,,Le të ndërrojmë katet.
+Dialogue: 0,0:11:15.51,0:11:16.59,Default,,0,0,0,,Një mikrofon!
+Dialogue: 0,0:11:16.80,0:11:18.05,Default,,0,0,0,,Nuk po këndoj.
+Dialogue: 0,0:11:24.73,0:11:26.73,Default,,0,0,0,,Lidhja është e mirë!
+Dialogue: 0,0:11:27.06,0:11:31.07,Default,,0,0,0,,Sengoku-san ka shumë këngë\Nqë mund t'i përdorim për stërvitje.
+Dialogue: 0,0:11:31.69,0:11:32.90,Default,,0,0,0,,Ke, apo jo?
+Dialogue: 0,0:11:33.28,0:11:34.82,Default,,0,0,0,,Prit.
+Dialogue: 0,0:11:43.29,0:11:46.04,Default,,0,0,0,,Është vetëm instrumentali.
+Dialogue: 0,0:11:46.16,0:11:48.29,Default,,0,0,0,,Nuk do të më duhet të këndoj.
+Dialogue: 0,0:11:51.21,0:11:53.09,Default,,0,0,0,,Kjo është e ndërlikuar.
+Dialogue: 0,0:11:53.21,0:11:55.76,Default,,0,0,0,,- Ja partitura.\N- Oh, faleminderit!
+Dialogue: 0,0:12:05.93,0:12:08.19,Default,,0,0,0,,Do ta mësoj në fund.
+Dialogue: 0,0:12:15.28,0:12:17.40,Default,,0,0,0,,Oh, kjo është kënga e Yuno-chan!
+Dialogue: 0,0:12:18.24,0:12:20.53,Default,,0,0,0,,Ajo e bëri këtë këngë!
+Dialogue: 0,0:12:21.57,0:12:22.66,Default,,0,0,0,,Nga e kuptove?
+Dialogue: 0,0:12:22.87,0:12:27.87,Default,,0,0,0,,Nana-chan më kërkoi t'i luaja\Nkëngët e bendit tënd më parë,
+Dialogue: 0,0:12:28.00,0:12:30.88,Default,,0,0,0,,dhe i stërvita\Nherë pas here.
+Dialogue: 0,0:12:31.25,0:12:36.71,Default,,0,0,0,,Këngët e tua i bëjnë të gjithë të lumtur,\Nndaj i luaj shpesh.
+Dialogue: 0,0:12:38.55,0:12:39.34,Default,,0,0,0,,E kuptoj.
+Dialogue: 0,0:12:43.47,0:12:46.10,Default,,0,0,0,,Hë? Pse atmosfera është kaq e rëndë?
+Dialogue: 0,0:12:46.47,0:12:50.56,Default,,0,0,0,,Në rregull! Jeni shumë zyrtarë.\NPse nuk përdorim pseudonime?
+Dialogue: 0,0:12:50.69,0:12:52.52,Default,,0,0,0,,Ide e shkëlqyer!
+Dialogue: 0,0:12:52.65,0:12:54.32,Default,,0,0,0,,Arale-chan, ti mund të jesh...
+Dialogue: 0,0:12:54.57,0:12:57.28,Default,,0,0,0,,Ara... Ale... le...
+Dialogue: 0,0:12:57.40,0:12:59.53,Default,,0,0,0,,Nuk ka nevojë të shqetësohesh për mua!
+Dialogue: 0,0:12:59.86,0:13:02.28,Default,,0,0,0,,Atëherë, unë do të jem Nono-chan!
+Dialogue: 0,0:13:02.41,0:13:03.20,Default,,0,0,0,,Në rregull...
+Dialogue: 0,0:13:03.32,0:13:05.41,Default,,0,0,0,,- Gati?\N- Çfarë?!
+Dialogue: 0,0:13:05.83,0:13:09.96,Default,,0,0,0,,Jo... Nono... No...
+Dialogue: 0,0:13:10.12,0:13:15.84,Default,,0,0,0,,Nono... Nono... Nonono...
+Dialogue: 0,0:13:20.30,0:13:21.09,Default,,0,0,0,,Hë?
+Dialogue: 0,0:13:21.34,0:13:23.22,Default,,0,0,0,,Arale-chan!
+Dialogue: 0,0:13:25.05,0:13:26.10,Default,,0,0,0,,Çfarë?
+Dialogue: 0,0:13:28.52,0:13:30.56,Default,,0,0,0,,Të paktën nuk po gjakosesh.
+Dialogue: 0,0:13:30.69,0:13:31.48,Default,,0,0,0,,Hm...
+Dialogue: 0,0:13:31.81,0:13:33.86,Default,,0,0,0,,Tani, le të fillojmë stërvitjen!
+Dialogue: 0,0:13:33.98,0:13:35.15,Default,,0,0,0,,Në rregull!
+Dialogue: 0,0:13:35.27,0:13:38.44,Default,,0,0,0,,Nakamachi-san, thjesht shiko\Ndhe lëre gjuhën të pushojë.
+Dialogue: 0,0:13:38.57,0:13:39.99,Default,,0,0,0,,Poo...
+Dialogue: 0,0:13:54.33,0:13:58.00,Default,,0,0,0,,Do të stërvitem dhe do të përmirësohem pak\Nderi në seancën tjetër.
+Dialogue: 0,0:13:58.21,0:14:00.59,Default,,0,0,0,,- Si dola?\N- Mesatare.
+Dialogue: 0,0:14:00.72,0:14:02.26,Default,,0,0,0,,Më lavdëroi!
+Dialogue: 0,0:14:02.51,0:14:03.84,Default,,0,0,0,,Nuk e bëra.
+Dialogue: 0,0:14:03.97,0:14:08.26,Default,,0,0,0,,Gëzohem që nuk më duhet të këndoj,\Npor jam disi e mërzitur...
+Dialogue: 0,0:14:09.02,0:14:11.39,Default,,0,0,0,,Pyes veten në çfarë bendi ishte Sengoku-san.
+Dialogue: 0,0:14:12.27,0:14:14.27,Default,,0,0,0,,"Yuno Sengoku..."
+Dialogue: 0,0:14:15.10,0:14:17.27,Default,,0,0,0,,U ndanë dy vjet më parë.
+Dialogue: 0,0:14:18.40,0:14:21.69,Default,,0,0,0,,Uau... shkroi kaq shumë këngë.
+Dialogue: 0,0:14:21.82,0:14:24.53,Default,,0,0,0,,Madje bëri këngën\Npër "Nobishimo-den"!
+Dialogue: 0,0:14:24.82,0:14:27.58,Default,,0,0,0,,Mbaj mend këtë lojë legjendare falas!
+Dialogue: 0,0:14:27.70,0:14:31.70,Default,,0,0,0,,Të parat ishin budallallëqe,\Npor kjo kishte një histori të errët.
+Dialogue: 0,0:14:31.83,0:14:35.04,Default,,0,0,0,,Qava gjatë saj\Nme miqtë e mi në klasën e gjashtë.
+Dialogue: 0,0:14:37.13,0:14:40.17,Default,,0,0,0,,A kjo këngë... tingëllon e ngjashme?
+Dialogue: 0,0:14:41.09,0:14:43.09,Default,,0,0,0,,Duhet të luajmë edhe "Kamome no yoru"!
+Dialogue: 0,0:14:43.67,0:14:48.22,Default,,0,0,0,,Është ajo që më vonë u bë\Nkënga tematike e "Hijiyori-den", apo jo?
+Dialogue: 0,0:14:48.35,0:14:51.85,Default,,0,0,0,,Është loja e dytë\Nnë trilogjinë tragjike!
+Dialogue: 0,0:14:51.97,0:14:54.52,Default,,0,0,0,,Është e lidhur me këngën e parë,\N"Kamome no yoru"!
+Dialogue: 0,0:14:54.69,0:14:58.40,Default,,0,0,0,,Nuk do të ketë kuptim\Nnëse nuk fillojmë me këtë këngë!
+Dialogue: 0,0:14:59.82,0:15:00.90,Default,,0,0,0,,Çfarë po thua?
+Dialogue: 0,0:15:10.66,0:15:14.66,Default,,0,0,0,,Sot, jeta ime ishte një katastrofë totale...
+Dialogue: 0,0:15:15.00,0:15:17.08,Default,,0,0,0,,Gabova përsëri!
+Dialogue: 0,0:15:17.21,0:15:21.88,Default,,0,0,0,,U emocionova tepër, nisa të përçart,\Ndhe pothuajse u përpoqa të këndoja.
+Dialogue: 0,0:15:23.09,0:15:28.05,Default,,0,0,0,,Gjërat shkuan mirë në shkollë, ndaj u\Nentuziazmova dhe bezdisa Yuno-san-chan-san!
+Dialogue: 0,0:15:28.18,0:15:29.55,Default,,0,0,0,,Gabova!
+Dialogue: 0,0:15:30.35,0:15:32.39,Default,,0,0,0,,Jam një katastrofë totale...
+Dialogue: 0,0:15:35.81,0:15:38.98,Default,,0,0,0,,Pyes veten nëse mund të jem\Nnjë katastrofë e vogël nesër.
+Dialogue: 0,0:15:39.44,0:15:42.73,Default,,0,0,0,,Rregullat e nesërme!\NNjë, pa biseda të pakujdesshme!
+Dialogue: 0,0:15:42.90,0:15:44.49,Default,,0,0,0,,Dy, pa këndim!
+Dialogue: 0,0:15:44.65,0:15:47.07,Default,,0,0,0,,Tre, pa folur e pa kënduar fare!
+Dialogue: 0,0:15:48.28,0:15:49.62,Default,,0,0,0,,Natën e mirë!
+Dialogue: 0,0:15:56.04,0:16:01.04,Default,,0,0,0,,Po bëj më të mirën në shkollë,\Nndaj ndoshta në fund do të jem mirë.
+Dialogue: 0,0:16:03.05,0:16:04.21,Default,,0,0,0,,Oh?
+Dialogue: 0,0:16:04.55,0:16:07.26,Default,,0,0,0,,Ritsu, shiko!
+Dialogue: 0,0:16:15.52,0:16:17.23,Default,,0,0,0,,Arale-chan.
+Dialogue: 0,0:16:18.10,0:16:19.56,Default,,0,0,0,,Ka kaluar kohë.
+Dialogue: 0,0:16:21.44,0:16:23.07,Default,,0,0,0,,Si ke qenë?
+Dialogue: 0,0:16:23.61,0:16:27.28,Default,,0,0,0,,Ju të dyja nuk jeni parë\Nprej një kohe, apo jo?
+Dialogue: 0,0:16:28.61,0:16:33.33,Default,,0,0,0,,Clematis? Ishe në të njëjtin grup,\Nndaj të paktën mund të thuash diçka.
+Dialogue: 0,0:16:36.00,0:16:37.96,Default,,0,0,0,,Ndryshove flokët.
+Dialogue: 0,0:16:38.12,0:16:42.54,Default,,0,0,0,,Çfarë turpi.\NIshe e lezetshme me bishtaleca.
+Dialogue: 0,0:16:43.34,0:16:46.01,Default,,0,0,0,,A është sepse u bashkove me një grup të ri?
+Dialogue: 0,0:16:47.26,0:16:48.51,Default,,0,0,0,,Si e...
+Dialogue: 0,0:16:48.63,0:16:53.64,Default,,0,0,0,,Si mund të mos i dija\Nlajmet e fundit të Arale-chan-it tim të dashur?
+Dialogue: 0,0:16:53.93,0:16:58.27,Default,,0,0,0,,Oh, e drejtë! Formuam edhe ne një grup të ri!
+Dialogue: 0,0:16:58.64,0:17:01.65,Default,,0,0,0,,Po mbajmë eventin tonë të parë\Npersonal së shpejti.
+Dialogue: 0,0:17:01.77,0:17:04.23,Default,,0,0,0,,Do të doja të vije edhe ti.
+Dialogue: 0,0:17:05.23,0:17:11.32,Default,,0,0,0,,Por nëse tifozët e tu të vjetër të shohin,\Ngjërat mund të ndërlikohen...
+Dialogue: 0,0:17:11.45,0:17:13.03,Default,,0,0,0,,Oh, Arale-chan!
+Dialogue: 0,0:17:13.32,0:17:15.79,Default,,0,0,0,,Jemi këtu. Këta janë miqtë e tu?
+Dialogue: 0,0:17:15.91,0:17:16.83,Default,,0,0,0,,Përshëndetje.
+Dialogue: 0,0:17:16.95,0:17:18.41,Default,,0,0,0,,- Përshëndetje.\N- Përshëndetje.
+Dialogue: 0,0:17:18.75,0:17:20.71,Default,,0,0,0,,Ju jeni miqtë e Arale-chan?
+Dialogue: 0,0:17:20.83,0:17:22.92,Default,,0,0,0,,- Po!\N- Shkojmë në të njëjtën shkollë.
+Dialogue: 0,0:17:24.17,0:17:25.63,Default,,0,0,0,,Arale-chan?
+Dialogue: 0,0:17:25.75,0:17:27.13,Default,,0,0,0,,Prit!
+Dialogue: 0,0:17:27.26,0:17:28.88,Default,,0,0,0,,Arale-chan!
+Dialogue: 0,0:17:43.02,0:17:44.44,Default,,0,0,0,,Ajo ndërroi shkollë.
+Dialogue: 0,0:17:45.23,0:17:51.07,Default,,0,0,0,,Kaloi atë provim të vështirë të shkollës së mesme\Ndhe duhej të vazhdonte universitetin.
+Dialogue: 0,0:17:52.41,0:17:54.95,Default,,0,0,0,,Ndoshta u ndje jashtë vendit në shkollë
+Dialogue: 0,0:17:55.74,0:17:59.50,Default,,0,0,0,,për shkakun tim.
+Dialogue: 0,0:18:01.37,0:18:04.08,Default,,0,0,0,,Kjo është e kaluara! Do të përqendrohem te tani!
+Dialogue: 0,0:18:06.25,0:18:13.97,Default,,0,0,0,,Magjike reale fizike\NMagilulu bukuri e mirë!
+Dialogue: 0,0:18:14.39,0:18:16.80,Default,,0,0,0,,Ëndrrat janë fuqi!
+Dialogue: 0,0:18:17.18,0:18:20.10,Default,,0,0,0,,Ëndrrat janë fuqi!
+Dialogue: 0,0:18:45.04,0:18:47.71,Default,,0,0,0,,Ta bëj këtë çdo mëngjes do të më vrasë.
+Dialogue: 0,0:18:48.13,0:18:51.46,Default,,0,0,0,,Ndoshta duhej të kisha marrë\Nkursin online.
+Dialogue: 0,0:18:51.67,0:18:55.22,Default,,0,0,0,,Por sikur të mos e kisha shtrënguar veten\Ntë gjeja një arsye,
+Dialogue: 0,0:18:55.34,0:18:57.89,Default,,0,0,0,,do të kisha mbetur në atë gjendje përgjithmonë.
+Dialogue: 0,0:18:58.30,0:19:01.89,Default,,0,0,0,,Do të më duhet të eci,\Npor ndoshta do të përdor një stacion tjetër.
+Dialogue: 0,0:19:02.64,0:19:05.10,On Top,Sign,0,0,0,,[Nënshkrimi] Buqeta e Zanave
+Dialogue: 0,0:19:03.27,0:19:05.10,Default,,0,0,0,,Eventi është caktuar, atëherë.
+Dialogue: 0,0:19:05.35,0:19:08.27,Default,,0,0,0,,Kohët e fundit, menaxheri është gjithmonë i zemëruar.
+Dialogue: 0,0:19:08.40,0:19:12.90,Default,,0,0,0,,Me sa duket jam shumë e ngadaltë në ripostimin\Ne përditësimeve, ose bëj shumë gabime shtypi.
+Dialogue: 0,0:19:13.03,0:19:15.49,Default,,0,0,0,,Jo, kjo është thjesht ti që je budallaqe.
+Dialogue: 0,0:19:15.91,0:19:17.62,Default,,0,0,0,,E di!
+Dialogue: 0,0:19:17.74,0:19:21.14,Default,,0,0,0,,- Thjesht kopjo dhe ngjit çdo emër të përveçëm.\N- Të për...?
+Dialogue: 0,0:19:21.87,0:19:26.33,Default,,0,0,0,,Ritsu, a nuk arriti transmetimi yt i kitarës\Nditën tjetër 1000 shikues live?
+Dialogue: 0,0:19:26.71,0:19:29.25,Default,,0,0,0,,Uau! Sapo luajte kitarë?
+Dialogue: 0,0:19:29.38,0:19:30.75,Default,,0,0,0,,Çfarë tjetër ka për të bërë?
+Dialogue: 0,0:19:31.13,0:19:35.51,Default,,0,0,0,,Nëse numrat janë të rëndësishëm,\Nmenaxheri duhet të na lërë të bëjmë tonën.
+Dialogue: 0,0:19:35.72,0:19:39.43,Default,,0,0,0,,Është bezdisëse që nuk mund të transmetojmë\Npa leje.
+Dialogue: 0,0:19:39.55,0:19:41.06,Default,,0,0,0,,Ritsu.
+Dialogue: 0,0:19:41.76,0:19:43.10,Default,,0,0,0,,Thuaj "aa".
+Dialogue: 0,0:19:43.31,0:19:45.02,Default,,0,0,0,,Ugh! Sa e lezetshme!
+Dialogue: 0,0:19:45.14,0:19:46.64,Default,,0,0,0,,Hajde, haje.
+Dialogue: 0,0:19:46.77,0:19:50.23,Default,,0,0,0,,Ritsu, ke qenë në depresion që\Nu takove me Arale-chan.
+Dialogue: 0,0:19:50.40,0:19:51.77,On Top,Sign,0,0,0,,[Nënshkrimi] Çift i nxehtë e i ftohtë në një takim
+Dialogue: 0,0:19:50.69,0:19:52.73,Default,,0,0,0,,Thjesht dua të të gëzoj.
+Dialogue: 0,0:19:51.90,0:19:52.73,On Top,Sign,0,0,0,,[Nënshkrimi] Meme e postuar!
+Dialogue: 0,0:19:53.44,0:19:58.86,Default,,0,0,0,,Nuk e di çfarë do të bëja\Npa ty, Ritsu.
+Dialogue: 0,0:20:01.66,0:20:06.62,On Top,Sign,0,0,0,,[Nënshkrimi] Kafeneja e bashkëpunimit Kululu Magjike Fizike
+Dialogue: 0,0:20:01.83,0:20:04.91,Default,,0,0,0,,- Ishte e mrekullueshme.\N- Po, ishte e mrekullueshme.
+Dialogue: 0,0:20:05.04,0:20:06.62,Default,,0,0,0,,Kaq e mirë.
+Dialogue: 0,0:20:07.29,0:20:09.04,Default,,0,0,0,,Po shkojmë në librari.
+Dialogue: 0,0:20:09.17,0:20:11.54,Default,,0,0,0,,- Mirupafshim.\N- Shihemi.
+Dialogue: 0,0:20:18.13,0:20:21.05,Default,,0,0,0,,Mendoj se duhet të jem i sigurt këtu rreth.
+Dialogue: 0,0:20:22.47,0:20:24.31,On Top,Sign,0,0,0,,[Nënshkrimi] Stacioni Akihabara
+Dialogue: 0,0:20:47.41,0:20:48.25,Default,,0,0,0,,Sa botë e vogël!
+Dialogue: 0,0:20:48.50,0:20:50.21,Default,,0,0,0,,Më vjen keq për dje.
+Dialogue: 0,0:20:50.33,0:20:52.59,Default,,0,0,0,,Kaq kohë, u habita.
+Dialogue: 0,0:20:52.71,0:20:55.34,Default,,0,0,0,,Shkolla jote është këtu rreth? Edhe e mia!
+Dialogue: 0,0:20:55.63,0:20:59.22,Default,,0,0,0,,Nuk jam mësuar të marr trenin,\Nndaj ora e pikut është brutale.
+Dialogue: 0,0:20:59.51,0:21:02.97,Default,,0,0,0,,Kur dikush të shtyn,\Nti shtyn atë përpara.
+Dialogue: 0,0:21:03.10,0:21:04.93,Default,,0,0,0,,Kjo është realiteti i trishtë i jetës.
+Dialogue: 0,0:21:05.06,0:21:07.60,Default,,0,0,0,,Akihabara është plot\Nme dyqanet e mia të preferuara,
+Dialogue: 0,0:21:07.73,0:21:09.64,Default,,0,0,0,,ndaj është argëtuese thjesht të jesh këtu.
+Dialogue: 0,0:21:10.06,0:21:12.15,Default,,0,0,0,,Sapo shkova në një kafene bashkëpunimi.
+Dialogue: 0,0:21:12.27,0:21:15.23,Default,,0,0,0,,Japin një ngjitëse\Npër çdo artikull në menu.
+Dialogue: 0,0:21:15.40,0:21:17.49,Default,,0,0,0,,Kjo është gjë premium!
+Dialogue: 0,0:21:17.61,0:21:19.74,Default,,0,0,0,,Por jam kaq i ngopur, sa mund të shpërthej.
+Dialogue: 0,0:21:19.86,0:21:23.16,Default,,0,0,0,,Vendi ishte i shijshëm vetë,\Nndaj e rekomandoj.
+Dialogue: 0,0:21:22.11,0:21:23.16,Default,,0,0,0,,{\an8}Është kaq e zhurmshme.
+Dialogue: 0,0:21:23.32,0:21:25.58,Default,,0,0,0,,Shpresoj të bëjë diell nesër! Mirupafshim!
+Dialogue: 0,0:21:28.33,0:21:30.08,Default,,0,0,0,,A po ndodh gjë?
+Dialogue: 0,0:21:35.00,0:21:37.05,Default,,0,0,0,,Je kaq e paarritshme tani.
+Dialogue: 0,0:21:55.94,0:22:03.66,Default,Lyric,0,0,0,,{\i1}[Teksti i këngës] Pse zogjtë fluturojnë nëpër qiell?\N[Teksti i këngës] Pse macet janë gjithmonë në gjumë?{\i0}
+Dialogue: 0,0:22:03.78,0:22:07.54,Default,Lyric,0,0,0,,{\i1}[Teksti i këngës] Si do të jetosh sot?{\i0}
+Dialogue: 0,0:22:07.70,0:22:15.46,Default,Lyric,0,0,0,,{\i1}[Teksti i këngës] Të gjitha, të gjitha, të gjitha\N[Teksti i këngës] Le t'i kërkojmë të gjitha{\i0}
+Dialogue: 0,0:22:19.67,0:22:27.30,Default,Lyric,0,0,0,,{\i1}[Teksti i këngës] Pse dielli i mëngjesit më puth lëkurën?\N[Teksti i këngës] Pse nata më lë të ndjehem keq?{\i0}
+Dialogue: 0,0:22:27.43,0:22:35.35,Default,Lyric,0,0,0,,{\i1}[Teksti i këngës] Sikur t'i ndanim pikëllimet tona përgjysmë\N[Teksti i këngës] A nuk do të ishte e mrekullueshme?{\i0}
+Dialogue: 0,0:22:35.73,0:22:43.36,Default,Lyric,0,0,0,,{\i1}[Teksti i këngës] E qeshura dhe shqetësimi ndërthuren\N[Teksti i këngës] Në një cep të kësaj bote të madhe{\i0}
+Dialogue: 0,0:22:43.61,0:22:51.95,Default,Lyric,0,0,0,,{\i1}[Teksti i këngës] Eja me ne\N[Teksti i këngës] Për të zbuluar mrekullitë e universit{\i0}
+Dialogue: 0,0:22:53.00,0:23:00.75,Default,Lyric,0,0,0,,{\i1}[Teksti i këngës] Çfarë historish do të ndajmë sot?\N[Teksti i këngës] Çfarë melodish do të këndojmë?{\i0}
+Dialogue: 0,0:23:00.88,0:23:04.59,Default,Lyric,0,0,0,,{\i1}[Teksti i këngës] Edhe lule të papara ende{\i0}
+Dialogue: 0,0:23:04.72,0:23:11.93,Default,Lyric,0,0,0,,{\i1}[Teksti i këngës] Të gjitha, të gjitha, të gjitha\N[Teksti i këngës] Le t'i kërkojmë të gjitha{\i0}
+Dialogue: 0,0:23:12.64,0:23:19.69,Default,Lyric,0,0,0,,{\i1}[Teksti i këngës] Të gjitha, të gjitha, të gjitha\N[Teksti i këngës] Le t'i kërkojmë të gjitha{\i0}
+Dialogue: 0,0:23:25.78,0:23:27.87,Default,,0,0,0,,Një bend është i pamundur për mua!
+Dialogue: 0,0:23:27.99,0:23:29.12,Default,,0,0,0,,Jo, nuk është!
+Dialogue: 0,0:23:29.24,0:23:31.74,Default,,0,0,0,,- Menaxher-san...\N- E di se mund ta bësh!
+Dialogue: 0,0:23:31.87,0:23:36.25,Default,,0,0,0,,Duhet të mund të japësh gjithçka!\NLe të bërtasim drejt perëndimit të diellit!
+Dialogue: 0,0:23:36.58,0:23:39.71,Default,,0,0,0,,Në rregull!\NEpisodi tjetër, "Puthja!"
+
