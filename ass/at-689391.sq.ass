@@ -1,0 +1,430 @@
+﻿[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+YCbCr Matrix: TV.601
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Top Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Overlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.32,0:00:04.94,Default,Rei,0,0,0,,Mendoj se është koha të filloni\Npërgatitjet për Comitia-n e radhës.
+Dialogue: 0,0:00:04.94,0:00:05.86,Default,Ai,0,0,0,,Sigurisht.
+Dialogue: 0,0:00:05.86,0:00:06.74,Default,Kokoro,0,0,0,,Në rregull.
+Dialogue: 0,0:00:07.01,0:00:09.57,Default,Hikaru,0,0,0,,Do të kem përsëri tavolinën time.
+Dialogue: 0,0:00:09.84,0:00:12.56,Default,Rei,0,0,0,,Këtë herë, dita pas eventit\Ndo të jetë ditë jave,
+Dialogue: 0,0:00:12.56,0:00:16.01,Default,Rei,0,0,0,,ndaj do të fluturojmë mbrapsht në ishull\Npo atë ditë.
+Dialogue: 0,0:00:17.39,0:00:18.73,Default,Sachi,0,0,0,,Ja, kjo është ajo për të cilën flasim, Tessie!
+Dialogue: 0,0:00:18.73,0:00:21.23,Default,Hikaru,0,0,0,,Gjithmonë kam dashur ta marr atë aeroplan.
+Dialogue: 0,0:00:21.23,0:00:24.34,Default,Rei,0,0,0,,Megjithatë, për shkak të orarit të fluturimit,
+Dialogue: 0,0:00:24.34,0:00:26.63,Default,Rei,0,0,0,,nuk do të mund të rrini\Nnë Comitia deri në fund.
+Dialogue: 0,0:00:28.83,0:00:29.68,Default,Rei,0,0,0,,Prandaj...
+Dialogue: 0,0:00:29.94,0:00:31.85,Default,Rei,0,0,0,,do të nisemi për në Tokyo dy ditë më parë
+Dialogue: 0,0:00:31.85,0:00:34.74,Default,Rei,0,0,0,,që t'ju japim mundësinë të kaloni një ditë të plotë\Nduke zgjeruar horizontet.
+Dialogue: 0,0:00:34.74,0:00:36.72,Default,Group,0,0,0,,Jeee!
+Dialogue: 0,0:00:36.72,0:00:40.04,Default,Rei,0,0,0,,Një spektër i gjerë përvojash\Ndo t'ju shërbejë mirë në krijimin e mangave.
+Dialogue: 0,0:00:40.04,0:00:43.88,Default,Rei,0,0,0,,Më thoni nëse ka\Nndokënd institucion kulturor që dëshironi të vizitoni.
+Dialogue: 0,0:00:43.88,0:00:45.26,Default,Ai,0,0,0,,Një librari të madhe!
+Dialogue: 0,0:00:45.26,0:00:46.49,Default,Rei,0,0,0,,Shumë mirë.
+Dialogue: 0,0:00:46.49,0:00:49.24,Default,Kokoro,0,0,0,,D-Do të d-doja të shkoja në një muze arti.
+Dialogue: 0,0:00:49.50,0:00:51.16,Default,Rei,0,0,0,,Tingëllon se do të ishte edukative.
+Dialogue: 0,0:00:51.16,0:00:52.20,Default,Sachi,0,0,0,,Oh, oh, oh!
+Dialogue: 0,0:00:52.20,0:00:54.65,Default,Sachi,0,0,0,,Pancakes në Harajuku!
+Dialogue: 0,0:00:54.65,0:00:57.36,Default,Hikaru,0,0,0,,Parku tematik "i mynxyrë" i preferuar i të gjithëve.
+Dialogue: 0,0:00:57.36,0:00:58.82,Default,Rei,0,0,0,,Jo për të dyja.
+Dialogue: 0,0:00:58.82,0:00:59.87,Default,Sachi,0,0,0,,Boo.
+Dialogue: 0,0:00:59.87,0:01:01.46,Default,Rei,0,0,0,,Në rregull, atëherë.
+Dialogue: 0,0:01:01.83,0:01:06.96,Default,Rei,0,0,0,,Vazhdoni dhe krijoni.\NNë nivel hobi si gjithmonë.
+Dialogue: 0,0:02:37.05,0:02:40.47,Default,Sign,0,0,0,,{\fad(300,0)\an7\fnGeorgia\fscx90\b1\bord2.5\fs15\shad0\3c&H0C00CD&\pos(36,138)}Episodi 11\N{\fs26\bord4\fscx100\fscy120}Ne të Dyja\N{\fs12\bord2.5\fscy100\fscx90\c&H10FBF4&}Partnerët që Plotësojnë Njëri-tjetrin\NJanë të Çmuar!
+Dialogue: 0,0:02:38.03,0:02:40.47,Default,Ai,0,0,0,,Çfarë lloj libri të bëjmë?
+Dialogue: 0,0:02:40.76,0:02:44.58,Default,Kokoro,0,0,0,,Duhet të mbledhim të gjitha\Nstripat e{\i1}Dark Fuwa{\i0}nga rrjetet sociale.
+Dialogue: 0,0:02:44.58,0:02:48.40,Default,Ai,0,0,0,,Oh, e drejtë. Kemi mjaftueshëm për një libër\Npa vizatuar asgjë të re.
+Dialogue: 0,0:02:52.53,0:02:55.16,Default,Ai,0,0,0,,Nëse je e gatshme, Fujimori-san...
+Dialogue: 0,0:02:55.16,0:02:58.07,Default,Ai,0,0,0,,Pse nuk provojmë të dyja\Ntë bëjmë nga një manga origjinale?
+Dialogue: 0,0:02:59.34,0:03:01.33,Default,Kokoro,0,0,0,,Një manga origjinale nga unë?
+Dialogue: 0,0:03:01.33,0:03:04.32,Flashback,Hana,0,0,0,,{\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&\t(30,220,\c&HEAEAEC&\3c&H494747&\4c&H454545&)}Je e zhgënjyer\Nqë nuk e bleva atë libër?
+Dialogue: 0,0:03:04.96,0:03:07.83,Flashback,Hana,0,0,0,,Besoj se të ndjesh keqardhje për njerëzit\Nthjesht shtyp kreativitetin.
+Dialogue: 0,0:03:08.91,0:03:13.85,Default,Ai,0,0,0,,Dua të hakmerrem për herën e kaluar\Nnë Comitia, ku manga ime u shkatërrua.
+Dialogue: 0,0:03:11.21,0:03:14.22,Default,Sign,0,0,0,,{\bord2.5\shad0\blur0.3\fs22\t(\fs23)\fax0.45\fscx90\fnArial Black\c&H50585D&\3c&HE6EDF2&\frz2.25\move(284,198,283,190)\t(2320,2975,\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&)}Macet e Fshatit Shkojnë në Tokyo
+Dialogue: 0,0:03:11.21,0:03:14.22,Default,Sign,0,0,0,,{\bord0\shad0\blur0.3\fs14\t(\fs14.8)\fax0.55\fscx90\fnArial Black\c&H50585D&\3c&HE6EDF2&\move(335,280,336,275)\frz1.133\t(2320,2975,\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&)}Yasumin — Klubi i Mangës i Shkollës South Oshima
+Dialogue: 0,0:03:14.81,0:03:18.72,Default,Ai,0,0,0,,Oh, jam e interesuar edhe të shoh\Nnjë origjinale nga ti, sigurisht.
+Dialogue: 0,0:03:21.43,0:03:22.60,Default,Kokoro,0,0,0,,Do ta provoj.
+Dialogue: 0,0:03:23.16,0:03:24.40,Default,Ai,0,0,0,,Gëzohem ta dëgjoj.
+Dialogue: 0,0:03:28.26,0:03:31.86,Italics,Kokoro\Italic,0,0,0,,Një manga origjinale?\NNuk më kishte shkuar kurrë në mendje.
+Dialogue: 0,0:03:32.24,0:03:36.75,Default,Pokota,0,0,0,,Kujtohet si Teshima-sensei vlerësoi\Npërdorimin tënd të efekteve zanore më parë?
+Dialogue: 0,0:03:36.75,0:03:40.62,Default,Ai,0,0,0,,Oh, po. Ta kesh atë në fokus\Nmund të ishte interesante.
+Dialogue: 0,0:03:43.02,0:03:45.87,Italics,Kokoro\Italic,0,0,0,,Duhet të filloj duke menduar\Nse çfarë dua të vizatoj.
+Dialogue: 0,0:03:46.20,0:03:50.44,Italics,Kokoro\Italic,0,0,0,,Pastaj mund të punoj mbrapsht\Ndhe të kuptoj nga ku të filloj.
+Dialogue: 0,0:03:52.55,0:03:55.19,Default,Ai,0,0,0,,Fillova të vizatoja pa menduar,\Ndhe tani jam bllokuar.
+Dialogue: 0,0:03:55.19,0:03:56.94,Default,Ai,0,0,0,,Ku shkoj nga këtu?
+Dialogue: 0,0:03:56.94,0:03:59.52,Italics,Kokoro\Italic,0,0,0,,Është më e lehtë t'i zgjidhësh gjërat\Nnëse vendos një fund.
+Dialogue: 0,0:03:59.52,0:04:02.30,Italics,Kokoro\Italic,0,0,0,,Metoda induktive,\Npër të cilën u vlerësua Yasumi-san.
+Dialogue: 0,0:04:03.66,0:04:07.61,Default,Pokota,0,0,0,,Por mos planifikimi i përfundimit\Ni shkon më shumë stilit tënd, Yasumi.
+Dialogue: 0,0:04:07.61,0:04:09.10,Default,Ai,0,0,0,,Kjo është e vërtetë.
+Dialogue: 0,0:04:09.10,0:04:11.39,Default,Ai,0,0,0,,Uh, metoda deduktive, apo jo?
+Dialogue: 0,0:04:11.39,0:04:12.06,Default,Pokota,0,0,0,,Po.
+Dialogue: 0,0:04:12.06,0:04:13.96,Default,Ai,0,0,0,,Oh, e gjeta!
+Dialogue: 0,0:04:15.60,0:04:19.28,Italics,Kokoro\Italic,0,0,0,,Kam kuptuar një fund,\Nndaj do të ndërtoj komplotin në fillim.
+Dialogue: 0,0:04:19.88,0:04:21.19,Italics,Kokoro\Italic,0,0,0,,Hm...
+Dialogue: 0,0:04:21.19,0:04:24.03,Italics,Kokoro\Italic,0,0,0,,Dua që fundi\Ntë jetë pjesa më emocionuese,
+Dialogue: 0,0:04:24.03,0:04:26.79,Italics,Kokoro\Italic,0,0,0,,ndaj ndoshta duhet\Nta zbut gjysmën e parë?
+Dialogue: 0,0:04:26.79,0:04:27.79,Default,Ai,0,0,0,,Bam!
+Dialogue: 0,0:04:28.12,0:04:28.90,Default,Kokoro,0,0,0,,Në rregull.
+Dialogue: 0,0:04:29.42,0:04:30.62,Default,Ai,0,0,0,,Boing!
+Dialogue: 0,0:04:30.62,0:04:32.44,Default,Kokoro,0,0,0,,Tani më në fund mund të filloj të vizatoj.
+Dialogue: 0,0:04:32.88,0:04:35.05,Default,Ai,0,0,0,,Ra-ta-ta-tat!
+Dialogue: 0,0:04:38.44,0:04:40.59,Default,Ai,0,0,0,,Mbarova!
+Dialogue: 0,0:04:45.85,0:04:50.03,Default,Pokota,0,0,0,,Është rrëmujë si gjithmonë,\Nme një fund të shpejtë.
+Dialogue: 0,0:04:51.28,0:04:53.86,Default,Ai,0,0,0,,Si të duash. Kjo ka hijeshinë e vet.
+Dialogue: 0,0:05:07.16,0:05:08.04,Default,Ai,0,0,0,,{\pos(480,342)}Akafuku.
+Dialogue: 0,0:05:08.04,0:05:09.60,Default,Ai,0,0,0,,{\pos(480,342)}Mbarova, ndaj hidhi një sy.
+Dialogue: 0,0:05:10.71,0:05:11.84,Italics,Kokoro\Italic,0,0,0,,{\pos(160,342)}E mbarova.
+Dialogue: 0,0:05:12.30,0:05:13.36,Italics,Kokoro\Italic,0,0,0,,{\pos(160,342)}Megjithatë...
+Dialogue: 0,0:05:14.23,0:05:17.55,Italics,Kokoro\Italic,0,0,0,,{\pos(160,342)}Gjithçka mund\Ntë jetë konsistente,
+Dialogue: 0,0:05:17.55,0:05:19.17,Italics,Kokoro\Italic,0,0,0,,{\pos(160,342)}por i mungon goditja.
+Dialogue: 0,0:05:20.55,0:05:21.75,Default,Sachi,0,0,0,,Sa budallaqe.
+Dialogue: 0,0:05:21.75,0:05:25.40,Default,Sachi,0,0,0,,Është e gjitha impuls si gjithmonë.\NNjë rrëmujë totale.
+Dialogue: 0,0:05:26.73,0:05:28.52,Italics,Kokoro\Italic,0,0,0,,{\pos(160,342)}Ajo që më mungon është...
+Dialogue: 0,0:05:28.83,0:05:31.44,Default,Ai,0,0,0,,{\pos(480,342)}Është argëtuese të vizatosh\Nme shpejtësi maksimale,
+Dialogue: 0,0:05:31.44,0:05:34.02,Default,Ai,0,0,0,,{\pos(480,342)}por historia\Nnuk lidhet kurrë.
+Dialogue: 0,0:05:34.02,0:05:36.56,Default,Kokoro,0,0,0,,{\pos(160,342)}Çfarë të bëj?
+Dialogue: 0,0:05:34.02,0:05:36.56,Default,Ai,0,0,0,,{\pos(480,342)}Çfarë të bëj?
+Dialogue: 0,0:05:37.94,0:05:40.82,Default,Ai,0,0,0,,{\pos(480,342)}Fujimori-san, më lër të shoh\Nstoryboard-in tënd.
+Dialogue: 0,0:05:37.94,0:05:40.82,Default,Kokoro,0,0,0,,{\pos(160,342)}Yasumi-san, më lër të shoh\Nstoryboard-in tënd.
+Dialogue: 0,0:05:42.19,0:05:44.23,Italics,Kokoro\Italic,0,0,0,,Një fillim që të tërheq.
+Dialogue: 0,0:05:44.23,0:05:46.36,Italics,Kokoro\Italic,0,0,0,,Personazhe që ndjehen të lirë.
+Dialogue: 0,0:05:46.36,0:05:48.62,Italics,Kokoro\Italic,0,0,0,,Energji që të bën të buzëqeshësh.
+Dialogue: 0,0:05:49.14,0:05:51.28,Italics,Kokoro\Italic,0,0,0,,Gjithçka që më mungonte.
+Dialogue: 0,0:05:52.26,0:05:54.30,Italics,Ai\Italic,0,0,0,,Komplot i kujdesshëm.
+Dialogue: 0,0:05:54.30,0:05:56.67,Italics,Ai\Italic,0,0,0,,Art i kompozuar me metodë.
+Dialogue: 0,0:05:56.67,0:05:59.10,Italics,Ai\Italic,0,0,0,,Kënaqësia që të lë\Npas leximit.
+Dialogue: 0,0:05:59.50,0:06:00.45,Italics,Ai\Italic,0,0,0,,Kjo është...
+Dialogue: 0,0:06:01.83,0:06:03.47,Default,Ai,0,0,0,,Manga e Kokoro-chan.
+Dialogue: 0,0:06:04.00,0:06:05.89,Default,Kokoro,0,0,0,,Manga e Ai-chan.
+Dialogue: 0,0:06:06.79,0:06:08.32,Default,Both,0,0,0,,Është e mahnitshme.
+Dialogue: 0,0:06:13.35,0:06:16.58,Default,Ai,0,0,0,,Do të doja të mund të mendoja\Nnjë komplot kaq të rregullt e të pastër si ky.
+Dialogue: 0,0:06:16.58,0:06:19.24,Default,Kokoro,0,0,0,,Sikur të mund të prodhoja\Nkëtë lloj impulsi.
+Dialogue: 0,0:06:19.24,0:06:21.78,Default,Hikaru,0,0,0,,Si ju duket kjo ide, atëherë?
+Dialogue: 0,0:06:22.36,0:06:23.12,Default,Group,0,0,0,,Hë?
+Dialogue: 0,0:06:23.65,0:06:26.66,Default,Sign,0,0,0,,{\fnArial\bord0\shad0\blur0.3\b1\fscx75\fay0.16\fs14\c&H505251&\pos(164,112)}Dhoma e\NFakultetit
+Dialogue: 0,0:06:25.38,0:06:26.66,Default,Rei,0,0,0,,Shumë mirë.
+Dialogue: 0,0:06:26.66,0:06:29.88,Default,Rei,0,0,0,,Më lër t'i shikoj storyboard-et tuaja\Npër Comitia-n.
+Dialogue: 0,0:06:39.14,0:06:42.17,Italics,Rei\Italic,0,0,0,,Një fillim energjik,\Nsiç pritet nga Yasumi-san.
+Dialogue: 0,0:06:44.94,0:06:47.19,Default,Sign,0,0,0,,{\an8\bord0\shad0\fs17\blur0.2\b1\c&H122829&\pos(402.5,196)}Qeveria\Nndaloi të gjitha\Ntingujt e konsideruar\Ntë panevojshëm...
+Dialogue: 0,0:06:47.27,0:06:50.17,Italics,Rei\Italic,0,0,0,,Zakoni i keq i Yasumi-san\Npo shfaqet përsëri.
+Dialogue: 0,0:06:49.44,0:06:52.43,Default,Sign,0,0,0,,{\an8\bord7\shad0\fs20\blur0.2\b1\c&H122829&\3c&HE1F1F3&\pos(538,294)}Dhe Toka u bë\Nnjë planet i qetë!!!
+Dialogue: 0,0:06:50.17,0:06:52.80,Italics,Rei\Italic,0,0,0,,Shkalla e historisë\Nështë rritur tepër.
+Dialogue: 0,0:06:54.65,0:06:56.96,Italics,Rei\Italic,0,0,0,,Duke filluar nga këtu, stili i artit ndryshon.
+Dialogue: 0,0:06:59.73,0:07:04.99,Italics,Rei\Italic,0,0,0,,Kaosi deri këtu ka shërbyer si\Nndërtim, dhe tani komploti po fokusohet.
+Dialogue: 0,0:07:11.86,0:07:13.79,Italics,Rei\Italic,0,0,0,,Përfundoi pastër.
+Dialogue: 0,0:07:16.06,0:07:19.33,Default,Rei,0,0,0,,Ajo strukturë historie ishte\Nmë kompleksja e tua deri tani, dhe u kënaqa.
+Dialogue: 0,0:07:20.42,0:07:22.80,Default,Group,0,0,0,,Ia dolëm!
+Dialogue: 0,0:07:22.80,0:07:24.55,Default,Rei,0,0,0,,Si e krijove?
+Dialogue: 0,0:07:25.36,0:07:26.78,Default,Group,0,0,0,,Është një manga bashkëpunimi.
+Dialogue: 0,0:07:27.38,0:07:31.26,Flashback,Hikaru,0,0,0,,{\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&\t(30,275,\c&HEAEAEC&\3c&H494747&\4c&H454545&)}Kombino gjysmën e parë emocionuese\Nme gjysmën e dytë që përfundon pastër.
+Dialogue: 0,0:07:31.26,0:07:34.56,Flashback,Hikaru,0,0,0,,Do të jetë si të marrësh më të mirën\Ne Ai-chan dhe Kokoro-chan.
+Dialogue: 0,0:07:34.94,0:07:37.34,Default,Ai,0,0,0,,Kjo ishte sugjerimi i Hikaru-chan.
+Dialogue: 0,0:07:37.34,0:07:38.65,Default,Rei,0,0,0,,E kuptoj.
+Dialogue: 0,0:07:39.02,0:07:41.32,Default,Rei,0,0,0,,Mendoj se krijon një balancë shumë të mirë.
+Dialogue: 0,0:07:43.00,0:07:45.66,Default,Ai,0,0,0,,Jip-jipiii!
+Dialogue: 0,0:07:46.23,0:07:48.74,Italics,Rei\Italic,0,0,0,,Ide të lira me ndikim.
+Dialogue: 0,0:07:48.74,0:07:51.39,Italics,Rei\Italic,0,0,0,,Një strukturë historie e rregullt e e pastër.
+Dialogue: 0,0:07:51.78,0:07:56.77,Italics,Rei\Italic,0,0,0,,Shkrimtarët e mëdhenj i zotërojnë të dyja\Nkëto cilësi kundërshtuese.
+Dialogue: 0,0:07:57.14,0:08:02.09,Italics,Rei\Italic,0,0,0,,Normalisht, pjesën që të mungon e fiton\Npërgjatë një kohe të gjatë.
+Dialogue: 0,0:08:03.43,0:08:05.94,Italics,Rei\Italic,0,0,0,,Por nëse ke një partner\Nqë të plotëson...
+Dialogue: 0,0:08:24.04,0:08:27.42,Default,Kokoro,0,0,0,,A je në rregull të mos bësh\Nnjë libër plotësisht origjinal për Comitia-n?
+Dialogue: 0,0:08:27.42,0:08:28.11,Default,Ai,0,0,0,,Po.
+Dialogue: 0,0:08:28.11,0:08:30.90,Default,Ai,0,0,0,,Një manga bashkëpunimi është më interesante.
+Dialogue: 0,0:08:30.90,0:08:32.24,Default,Ai,0,0,0,,Por...
+Dialogue: 0,0:08:32.24,0:08:35.04,Default,Ai,0,0,0,,Kokoro-chan, ti ndihmove\Nme storyboard-et,
+Dialogue: 0,0:08:35.04,0:08:37.15,Default,Ai,0,0,0,,që do të thotë më shumë punë për ty.
+Dialogue: 0,0:08:37.15,0:08:40.68,Default,Ai,0,0,0,,Gjysma e shkrimit. I gjithë arti.
+Dialogue: 0,0:08:43.78,0:08:46.50,Default,Kokoro,0,0,0,,Ai-chan, ti duhet të vizatosh një pjesë të artit.
+Dialogue: 0,0:08:49.84,0:08:55.22,Default,Ai,0,0,0,,Oh, e drejtë. Atëherë mund të jetë një bashkëpunim i vërtetë\Nmes meje dhe Kokoro-chan.
+Dialogue: 0,0:08:55.22,0:08:57.17,Default,Ai,0,0,0,,Por edhe kështu...
+Dialogue: 0,0:08:57.55,0:08:58.34,Default,Ai,0,0,0,,Hë?
+Dialogue: 0,0:08:59.39,0:09:05.36,Default,Ai,0,0,0,,Fujimori-san, kur fillova\Ntë të quaj "Kokoro-chan"?
+Dialogue: 0,0:09:06.32,0:09:07.65,Default,Kokoro,0,0,0,,Edhe unë po bëj të njëjtën gjë.
+Dialogue: 0,0:09:11.31,0:09:14.36,Default,Ai,0,0,0,,Pseudonimet e Hikaru-chan\Nna u ngjitën.
+Dialogue: 0,0:09:28.22,0:09:29.55,Default,Ai,0,0,0,,Kokoro-chan.
+Dialogue: 0,0:09:29.95,0:09:30.97,Default,Kokoro,0,0,0,,Ai-chan.
+Dialogue: 0,0:09:31.84,0:09:33.68,Default,Both,0,0,0,,Le t'i japim më të mirën bashkë.
+Dialogue: 0,0:09:33.68,0:09:35.99,Default,Sachi,0,0,0,,Më lër në argëtim.
+Dialogue: 0,0:09:35.99,0:09:37.43,Default,Hikaru,0,0,0,,Edhe mua.
+Dialogue: 0,0:09:38.81,0:09:41.13,Default,Ai,0,0,0,,Më trembe!
+Dialogue: 0,0:09:39.37,0:09:42.44,Top,Sachi,0,0,0,,Do të marrim akullore nga shtëpia ime?
+Dialogue: 0,0:09:44.56,0:09:45.95,Default,Sachi,0,0,0,,Është krejt në rregull.
+Dialogue: 0,0:09:45.95,0:09:47.44,Default,Ai,0,0,0,,Ai do të zemërohet vërtet me ty.
+Dialogue: 0,0:09:48.91,0:09:50.61,Default,Pokota,0,0,0,,Ndoshta...
+Dialogue: 0,0:09:51.83,0:09:53.26,Default,Pokota,0,0,0,,është koha.
+Dialogue: 0,0:09:59.63,0:10:02.95,Default,Sachi,0,0,0,,Tokyo nuk është kaq e frikshme\Nherën e dytë.
+Dialogue: 0,0:10:02.95,0:10:04.83,Default,Ai,0,0,0,,Jemi ende në traget.
+Dialogue: 0,0:10:05.26,0:10:08.25,Default,Sachi,0,0,0,,Oh, këtë e kam parë.
+Dialogue: 0,0:10:14.06,0:10:15.51,Default,Sachi,0,0,0,,A janë budallenj?
+Dialogue: 0,0:10:15.51,0:10:18.58,Default,Sachi,0,0,0,,A janë njerëzit e Tokyo-s budallenj?
+Dialogue: 0,0:10:18.58,0:10:21.06,Default,Hikaru,0,0,0,,Duket kështu\Nnëpër qytet në dimër.
+Dialogue: 0,0:10:21.06,0:10:23.05,Default,Sachi,0,0,0,,Fatura e energjisë duhet të jetë e çmendur.
+Dialogue: 0,0:10:26.34,0:10:30.84,Default,Sachi,0,0,0,,T-Tokyo është e mahnitshme!
+Dialogue: 0,0:10:32.57,0:10:35.78,Default,Sign,0,0,0,,{\fnArial\b1\an8\bord0\shad0\fs15\fax0.08\fscx90\blur0.2\c&H5B99A2&\move(563,292,563,255)}Meirinkan\NLibra
+Dialogue: 0,0:10:32.57,0:10:35.78,Default,Sign,0,0,0,,{\fnArial\b1\an8\bord1\shad0\fs12\fax0.07\fscx80\blur0.2\c&H83E1FB&\move(482.5,129,482.5,92)\3c&H56ABF0&}Isshindo\N{\c&HABE8F4&}Libra
+Dialogue: 0,0:10:33.40,0:10:35.78,Default,Sign,0,0,0,,{\fnArial\b1\an8\bord2\shad0\fs12\fax-0.07\fay0.005\fscx90\blur0.2\c&H5B99A2&\frz4.2\3c&HDEFEF9&\frx10\fry0\move(336.5,106.5,336.5,133.5)}Librari Miwa
+Dialogue: 0,0:10:33.40,0:10:35.78,Default,Sign,0,0,0,,{\b1\an8\bord0\shad0\fs10\fay0.01\fax-0.07\fscx90\blur0.2\c&HB7C5B9&\frz4.2\3c&HDEFEF9&\frx10\fry0\move(303.5,145,303.5,172)}Rakugo
+Dialogue: 0,0:10:33.40,0:10:35.78,Default,Sign,0,0,0,,{\b1\an8\bord0\shad0\fs10\fay0.01\fax-0.07\fscx90\blur0.2\c&HB7C5B9&\frz4.2\3c&HDEFEF9&\frx10\fry0\move(373,141,373,168)}Kafene
+Dialogue: 0,0:10:33.40,0:10:35.78,Default,Sign,0,0,0,,{\fnArial\b1\an8\bord2\shad0\fs11\fay0.01\fax-0.07\fscx90\blur0.2\c&H4991A8&\frz4.2\3c&HDEFEF9&\frx10\fry0\move(339,167.5,339,194.5)}Librari Azusa
+Dialogue: 0,0:10:33.40,0:10:35.78,Default,Sign,0,0,0,,{\fnArial\b1\an8\bord2\shad0\fs12\fay0.01\fax-0.07\fscx90\blur0.2\c&H307296&\frz4.2\3c&HDEFEF9&\frx10\fry0\move(340.5,198,340.5,225)}Librari Toriumi
+Dialogue: 0,0:10:33.40,0:10:35.78,Default,Sign,0,0,0,,{\fnArial\b1\an8\bord2\shad0\fs13\fay0.028\fax-0.07\fscx90\blur0.2\c&H3C6F98&\frz4.2\3c&HDEFEF9&\frx10\fry0\move(338.5,227.5,338.5,254.5)}Librari Yumeno
+Dialogue: 0,0:10:34.66,0:10:35.78,Default,Sign,0,0,0,,{\fnArial\b1\an8\bord0\shad0\fs8\fay-0.02\fax-0.07\fscx90\blur0.2\c&H256985&\frz4.2\3c&HDEFEF9&\frx10\fry0\move(68.5,76.5,68.5,64.5)}Prerje druri Ukiyo-e
+Dialogue: 0,0:10:34.66,0:10:35.78,Default,Sign,0,0,0,,{\fnArial\b1\an8\bord0\shad0\fs13\fay-0.02\fax-0.07\fscx90\blur0.2\c&H256985&\frz4.2\3c&HDEFEF9&\frx10\fry0\move(70,99,70,87)}Librari Hara
+Dialogue: 0,0:10:34.66,0:10:35.78,Default,Sign,0,0,0,,{\fnArial\b1\an8\bord0\shad0\fs7\fay0.03\fax-0.03\fscx90\blur0.4\c&H2C72C0&\frz4.2\3c&HDEFEF9&\frx10\fry0\move(49,302.5,49,290.5)}Libra Iijima
+Dialogue: 0,0:10:34.66,0:10:35.78,Default,Sign,0,0,0,,{\fnArial\b1\an8\bord0.5\shad1\fs10\fay-0.018\fax0.01\fscx80\blur0.2\c&HBCE5F5&\frz4.2\3c&H3B709C&\frx10\fry0\4c&H49769B&\move(157,140.5,157,128.5)}Kaligrafi\NLibra arti
+Dialogue: 0,0:10:34.66,0:10:35.78,Default,Sign,0,0,0,,{\fnArial\b1\an8\bord2\shad0\fs8\fay-0.02\fax-0.02\fscx90\blur0.2\c&H256985&\frz4.2\3c&HD1F2FB&\frx10\fry0\move(166.5,253.5,166.5,241.5)}Iijima\NLibra
+Dialogue: 0,0:10:34.66,0:10:35.78,Default,Sign,0,0,0,,{\fnArial\b1\an8\bord2\shad0\fs6\fay-0.02\fax-0.02\fscx80\blur0.2\c&H2D6EAA&\3c&H96D4EC&\frx10\fry0\move(198.5,105,198.5,93)\frz6.447}Histori\NSociologji
+Dialogue: 0,0:10:34.66,0:10:35.78,Default,Sign,0,0,0,,{\fnArial\b1\an8\bord2\shad0\fs7\fay-0.02\fax-0.02\fscx80\blur0.2\c&H2D6EAA&\3c&H96D4EC&\frx10\fry0\frz6.447\move(203,159,203,147)}Nankaido\NLibra
+Dialogue: 1,0:10:31.36,0:10:35.78,Default,Rei,0,0,0,,Meqë nesër do të zgjeroni horizontet\Nduke vizituar libraritë e të ngjashme,
+Dialogue: 0,0:10:35.78,0:10:38.66,Default,Rei,0,0,0,,kam rezervuar dhomat tona këtu për sonte.
+Dialogue: 0,0:10:35.78,0:10:38.66,Default,Sign,0,0,0,,{\fnGeorgia\bord3\shad0\fs20\fsp1\b1\blur0.2\pos(305,116)\3c&HCCDEE7&\c&H26546A&}Librari Yaguchi
+Dialogue: 0,0:10:35.78,0:10:38.66,Default,Sign,0,0,0,,{\bord1.5\shad0\b1\fnTimes New Roman\fs12\pos(162,162)\3c&H2A2527&\c&H876E70&}Film
+Dialogue: 0,0:10:35.78,0:10:38.66,Default,Sign,0,0,0,,{\bord1.5\shad0\b1\fnTimes New Roman\fs12\pos(245,162)\3c&H2A2527&\c&H876E70&}Teatër
+Dialogue: 0,0:10:35.78,0:10:38.66,Default,Sign,0,0,0,,{\bord1.5\shad0\b1\fnTimes New Roman\fs12\pos(328,162)\3c&H2A2527&\c&H876E70&}Skenarë
+Dialogue: 0,0:10:35.78,0:10:38.66,Default,Sign,0,0,0,,{\bord1.5\shad0\b1\fnTimes New Roman\fs12\pos(435,162)\3c&H2A2527&\c&H876E70&}Skripte
+Dialogue: 0,0:10:35.79,0:10:38.66,Top,Sachi,0,0,0,,Uau. Këtu nuk ka gjë tjetër veç librarive.
+Dialogue: 0,0:10:38.66,0:10:40.20,Default,Sign,0,0,0,,{\an8\fnArial\bord0\shad0\blur0.2\fs16\b1\fax-0.1\fay0.01\c&HEEDEC4&\frz10\pos(460,178)\frx4\fry350}Jimbocho
+Dialogue: 0,0:10:38.66,0:10:40.20,Default,Ai,0,0,0,,Çfarë?!
+Dialogue: 0,0:10:40.20,0:10:43.14,Default,Ai,0,0,0,,Edhe hoteli është plot me libra!
+Dialogue: 0,0:10:44.12,0:10:47.00,Default,Sachi,0,0,0,,Tokyo është e mahnitshme.
+Dialogue: 0,0:10:48.68,0:10:50.13,Default,Ai,0,0,0,,Oh, ajo vdiq.
+Dialogue: 0,0:10:50.13,0:10:51.98,Default,Sachi,0,0,0,,Natën e mirë, Tokyo.
+Dialogue: 0,0:10:51.98,0:10:52.79,Default,Ai,0,0,0,,Natën.
+Dialogue: 0,0:10:52.79,0:10:53.51,Default,Hikaru,0,0,0,,Dreq.
+Dialogue: 0,0:11:06.52,0:11:12.28,Default,Sign,0,0,0,,{\fad(350,0)\an1\blur0.2\b1\fnArial\bord0\fscx90\fs20\shad0\c&H484C38&\pos(140.5,63)}Mbylljet e Muzeut
+Dialogue: 0,0:11:12.28,0:11:13.78,Default,Sign,0,0,0,,{\an1\blur0.2\b1\fnArial\bord0\fscx90\fs20\shad0\c&H484C38&\pos(140.5,63)\clip(7,4,168.5,354.5)}Mbylljet e Muzeut
+Dialogue: 0,0:11:06.52,0:11:13.78,Default,Sign,0,0,0,,{\fad(350,0)\an1\blur0.2\b1\fnArial\bord0\fscx90\fs16\shad0\c&H484C38&\pos(14,228)}Ndërrimi i Ekspozitave
+Dialogue: 0,0:11:06.52,0:11:13.78,Default,Sign,0,0,0,,{\fad(350,0)\an1\blur0.2\b1\fnArial\bord0\fscx90\fs16\shad0\c&H484C38&\pos(15,282)}Fundi i Vitit/Viti i Ri
+Dialogue: 0,0:11:17.99,0:11:19.49,Default,Sign,0,0,0,,{\fnComic Sans MS\blur0.2\bord0\b1\fax0.05\fscx90\shad0\fs15\3c&H094C38&\c&H0CEAB9&\frz355\pos(438,160)}Sumatra Curry — Kyoeido
+Dialogue: 0,0:11:28.92,0:11:38.05,Default,Sign,0,0,0,,{\fnGeorgia\b1\blur0.2\bord1\shad0\1a&HFF&\fs14\fscx90\pos(502,185)\3c&H36384A&}Sancha
+Dialogue: 0,0:11:28.92,0:11:38.05,Default,Sign,0,0,0,,{\fnGeorgia\b1\blur0.2\bord1\shad0\1a&HFF&\fs14\fscx90\pos(580,185)\3c&H36384A&}Librari
+Dialogue: 0,0:11:31.17,0:11:38.05,Default,Sign,0,0,0,,{\fnGeorgia\blur0.2\bord0.5\fs14\b1\fsp4\shad1\pos(327,99)\3c&H4F5A6C&\c&HCDD9E4&}Libra Gyokueido
+Dialogue: 0,0:11:32.92,0:11:38.05,Default,Sign,0,0,0,,{\fnTimes New Roman\b1\blur0.2\shad0\fs9\bord0\an7\c&H6E4D8D&\pos(32,142)}Aishokan Nakagawa\NLibrari
+Dialogue: 0,0:11:36.02,0:11:38.05,Default,Ai,0,0,0,,Kaq shumë librari.
+Dialogue: 0,0:11:38.63,0:11:41.94,Default,Ai,0,0,0,,Por nuk e gjej librin e Sensei-t askund.
+Dialogue: 0,0:11:41.94,0:11:43.38,Default,Kokoro,0,0,0,,Ai-chan!
+Dialogue: 0,0:11:43.38,0:11:46.06,Default,Kokoro,0,0,0,,Gjeta një dyqan të madh materialesh arti,\Ndhe është i mahnitshëm!
+Dialogue: 0,0:11:48.31,0:11:50.98,Default,Kokoro,0,0,0,,Shisnin gjithfarë ngjyrash\Nqë nuk i kisha parë kurrë.
+Dialogue: 0,0:11:54.44,0:11:57.31,Default,Kokoro,0,0,0,,Gjeta gjithashtu\Nmangën e Teshima-sensei në shitje.
+Dialogue: 0,0:11:57.31,0:11:58.95,Default,Ai,0,0,0,,Çfarë?!
+Dialogue: 0,0:12:01.61,0:12:03.89,Default,Kokoro,0,0,0,,Jam mjaft e sigurt se ishte nga kjo anë.
+Dialogue: 0,0:12:07.91,0:12:08.79,Default,Ai,0,0,0,,Ky vend...
+Dialogue: 0,0:12:11.14,0:12:14.30,Default,Sign,0,0,0,,{\fad(925,0)\bord0.2\b1\fnGeorgia\fs24\xshad2\frz10.2\fax-0.2\fay-0.035\1c&HE6EDE8&\3c&H6B6872&\4c&H000000&\pos(322,192)}Shogakukan
+Dialogue: 0,0:12:11.51,0:12:14.30,Default,Ai,0,0,0,,Është kompania\Nqë botoi librin e Sensei-t.
+Dialogue: 0,0:12:16.26,0:12:20.86,Default,Ai,0,0,0,,Kaq shumë libra krijohen pikërisht këtu.
+Dialogue: 0,0:12:20.86,0:12:21.69,Default,Kokoro,0,0,0,,Po.
+Dialogue: 0,0:12:24.62,0:12:26.67,Default,Kokoro,0,0,0,,Jam mjaft e sigurt se libri i Sensei-t\Nishte atje.
+Dialogue: 0,0:12:32.47,0:12:33.59,Default,Man A,0,0,0,,Ashtu është.
+Dialogue: 0,0:12:33.59,0:12:34.31,Default,Man B,0,0,0,,Po.
+Dialogue: 0,0:12:34.31,0:12:35.74,Default,Man B,0,0,0,,Oh, e ke lexuar atë?
+Dialogue: 0,0:12:35.74,0:12:37.77,Default,Man A,0,0,0,,Po. Dëgjova se po ribotohet.
+Dialogue: 0,0:12:37.77,0:12:39.28,Default,Man B,0,0,0,,Kjo është mjaft e mahnitshme.
+Dialogue: 0,0:12:40.82,0:12:42.45,Default,Sign,0,0,0,,{\fnArial Black\fs25\bord3.2\shad0\blur0.2\fscx90\pos(320,96)\3c&H53697A&\c&H546B80&}Festa e Vlerësimit e Departamentit të Komikëve, Shogakukan
+Dialogue: 1,0:12:40.82,0:12:42.45,Default,Sign,0,0,0,,{\fnArial Black\fs25\bord2\shad0\blur0.2\fscx90\pos(320,96)\3c&HBDDAED&\c&H546B80&}Festa e Vlerësimit e Departamentit të Komikëve, Shogakukan
+Dialogue: 0,0:12:40.82,0:12:42.45,Default,Sign,0,0,0,,{\fnArial Black\fs30\bord0\shad0\blur0.2\fscx90\3c&HBDDAED&\c&H364265&\pos(341,269.5)}Kati 2, Dhoma Peacock
+Dialogue: 0,0:12:42.45,0:12:44.41,Default,Sign,0,0,0,,{\an8\blur0.2\b1\fnGeorgia\bord0\shad0\fax0.36\fs15\fscx90\c&H274A60&\frz39\pos(149.5,173)\frx22\fry0}Hoshino\N\h\h\hRei
+Dialogue: 0,0:12:42.45,0:12:44.41,Default,Sign,0,0,0,,{\an8\blur0.2\b1\fnGeorgia\bord0\shad0\fax0.38\fs15\fscx90\c&H274A60&\frz39\frx22\fry0\pos(162,113)}Muroi\N\h\h\hDaisuke
+Dialogue: 0,0:12:42.45,0:12:44.41,Default,Sign,0,0,0,,{\an8\blur0.2\fnGeorgia\bord0\shad0\fax0.38\fs15\fscx90\c&H274A60&\frz39\frx22\fry0\pos(281,113)}Fukuchi
+Dialogue: 0,0:12:42.45,0:12:44.41,Default,Sign,0,0,0,,{\an8\blur0.2\b1\fnGeorgia\bord0\shad0\fax0.49\fs18\fscx90\c&H274A60&\frz39\frx22\fry0\pos(290,52.5)}Mori
+Dialogue: 0,0:12:42.45,0:12:44.41,Default,Sign,0,0,0,,{\an8\blur0.2\b1\fnGeorgia\bord0\shad0\fax0.52\fs14\fscx90\c&H274A60&\frz39\frx22\fry0\pos(552,121)}Tonden\N\h\h\h\hMinoru
+Dialogue: 0,0:12:49.94,0:12:53.33,Flashback,Rei,0,0,0,,S-Sa shkëlqyeshëm.
+Dialogue: 0,0:12:50.67,0:12:52.08,Default,Sign,0,0,0,,{\fnArial Black\bord7.5\shad0\fs21\fax0.2\blur0.2\frx8\fry42\frz349.4\move(361,122,388.5,122)\c&H6585EF&\3c&H4F8CB9&}Festa e Vlerësimit e Departamentit të Komikëve, Shogakukan
+Dialogue: 0,0:12:50.67,0:12:52.08,Default,Sign,0,0,0,,{\fnArial Black\bord5.2\shad0\fs21\fax0.2\blur0.2\frx8\fry42\frz349.4\move(361,122,388.5,122)\c&H6585EF&\3c&H8CC9A6&}Festa e Vlerësimit e Departamentit të Komikëve, Shogakukan
+Dialogue: 1,0:12:50.67,0:12:52.08,Default,Sign,0,0,0,,{\fnArial Black\bord2.5\shad0\fs21\fax0.2\blur0.2\frx8\fry42\frz349.4\move(361,122,388.5,122)\c&H6585EF&\3c&HE6E6F3&}Festa e Vlerësimit e Departamentit të Komikëve, Shogakukan
+Dialogue: 0,0:12:54.13,0:12:55.51,Flashback,Crowd,0,0,0,,Oh, atje je.
+Dialogue: 0,0:12:55.51,0:12:58.55,Flashback,Rei,0,0,0,,Të gjithë këtu janë në industrinë e mangës?
+Dialogue: 0,0:12:58.55,0:12:59.85,Flashback,Nana,0,0,0,,Epo?
+Dialogue: 0,0:13:01.55,0:13:06.74,Flashback Italics,Rei\Italic,0,0,0,,Magma ime shteroi\Npas dy kapitujve të serializuar.
+Dialogue: 0,0:13:07.55,0:13:11.87,Flashback Italics,Rei\Italic,0,0,0,,Por të gjithë mangistët këtu ia dalin\Nnë baza javore ose mujore.
+Dialogue: 0,0:13:15.60,0:13:16.84,Flashback,Hana,0,0,0,,Teshima-san!
+Dialogue: 0,0:13:23.27,0:13:25.50,Flashback,Hana,0,0,0,,Serializimi yt i ri është më i miri.
+Dialogue: 0,0:13:27.58,0:13:29.66,Flashback,Miya,0,0,0,,Kapitulli i dytë ishte gjithashtu fantastik.
+Dialogue: 0,0:13:30.11,0:13:33.04,Flashback,Miya,0,0,0,,E kam dashur punën tënde\Nqë nga çmimi yt.
+Dialogue: 0,0:13:35.80,0:13:37.23,Flashback,Rei,0,0,0,,Hebichika-sensei!
+Dialogue: 0,0:13:38.68,0:13:41.49,Flashback,Hebichika,0,0,0,,Kush jeni ju?
+Dialogue: 0,0:13:42.88,0:13:45.48,Flashback,Hebichika,0,0,0,,Oh, Rei-chan.
+Dialogue: 0,0:13:45.48,0:13:47.47,Flashback,Hebichika,0,0,0,,Lexova serializimin tënd të ri.
+Dialogue: 0,0:13:49.03,0:13:50.75,Flashback,Hebichika,0,0,0,,Ende ke rrugë për të bërë.
+Dialogue: 0,0:13:52.19,0:13:54.42,Flashback,Miya,0,0,0,,Ky është Tonden Minoru-sensei.
+Dialogue: 0,0:13:56.07,0:13:58.54,Flashback,Minoru,0,0,0,,Më fal që humba atë afat.
+Dialogue: 0,0:13:58.54,0:14:00.65,Flashback,Rei,0,0,0,,Pra{\i1}ky{\i0}është ai?
+Dialogue: 0,0:14:50.79,0:14:54.12,Flashback Italics,Rei,0,0,0,,Gëzohem që u bëra mangiste.
+Dialogue: 0,0:15:02.39,0:15:05.07,Default,Nana,0,0,0,,Kjo sjell shumë kujtime.
+Dialogue: 0,0:15:07.84,0:15:10.35,Default,Sign,0,0,0,,{\an8\fnArial\bord0\shad0\blur0.2\fs16\b1\fax-0.1\fay0.01\c&HF2DDC3&\frz10\pos(460,178)\frx4\fry350}Jimbocho
+Dialogue: 0,0:15:09.29,0:15:11.31,Default,Kokoro,0,0,0,,Ishte e gjitha kaq e mahnitshme.
+Dialogue: 0,0:15:11.31,0:15:12.43,Default,Ai,0,0,0,,Po.
+Dialogue: 0,0:15:13.82,0:15:16.65,Default,Ai,0,0,0,,Kaq shumë libra.
+Dialogue: 0,0:15:16.65,0:15:18.96,Default,Ai,0,0,0,,Dhe gjetëm librin e Sensei-t.
+Dialogue: 0,0:15:19.98,0:15:21.32,Default,Sign,0,0,0,,{\fad(480,0)\an8\fnGeorgia\b1\blur0.2\bord0\fs18\fax0.2\shad0\c&H555759&\frz357\pos(175,92)}Libër i Përdorur në Shitje
+Dialogue: 0,0:15:19.98,0:15:21.32,Default,Sign,0,0,0,,{\fad(480,0)\an8\fnGeorgia\b1\blur0.2\bord0\fs18\fax0.2\shad0\c&H555759&\frz357\pos(387,103)}Libra Jimbo
+Dialogue: 0,0:15:19.98,0:15:21.32,Default,Sign,0,0,0,,{\fad(480,0)\an7\fnVerdana\blur0.2\bord0\fs18\fax0.2\shad0\c&H363636&\frz357\pos(94.5,233.5)}Manga të Dorës së Dytë
+Dialogue: 0,0:15:20.66,0:15:22.42,Flashback Italics,Ai,0,0,0,,Uau, sa shtrenjtë!
+Dialogue: 0,0:15:22.42,0:15:24.36,Default,Ai,0,0,0,,Jo se mund ta përballoja.
+Dialogue: 0,0:15:24.36,0:15:26.11,Default,Sign,0,0,0,,{\fnArial Black\an8\fs14\fscx90\fax0.98\fay0.02\blur0.2\bord0\shad0\c&H0A1C39&\pos(264,186)}Momo
+Dialogue: 0,0:15:24.87,0:15:27.77,Default,Kokoro,0,0,0,,Ky libër është ribotuar kaq shumë herë.
+Dialogue: 0,0:15:26.11,0:15:28.20,Default,Sign,0,0,0,,{\fnGeorgia\bord0\b1\fscx85\shad0\c&H1B3B46&\fs15\frz13.33\pos(524,112)}Botimi i parë\Ni shtypur
+Dialogue: 0,0:15:26.11,0:15:28.20,Default,Sign,0,0,0,,{\fnGeorgia\bord0\shad0\b1\fscx85\c&H1B3B46&\fs15\an8\frz13.33\pos(530,122)}Botimi i 80-të\Ni shtypur
+Dialogue: 0,0:15:28.20,0:15:31.70,Default,Kokoro,0,0,0,,Të shesësh një libër komercialisht\Nështë një arritje e pabesueshme, apo jo?
+Dialogue: 0,0:15:31.70,0:15:35.15,Default,Ai,0,0,0,,Duhet të shtypin librin e Sensei-t\Npo aq herë.
+Dialogue: 0,0:15:36.08,0:15:39.43,Default,Rei,0,0,0,,Comitia fillon nesër,\Nndaj flini herët.
+Dialogue: 0,0:15:39.43,0:15:41.09,Default,Group,0,0,0,,Në rregull!
+Dialogue: 0,0:15:45.70,0:15:48.18,Italics,Ai\Italic,0,0,0,,Ndoshta një ditë, ai do të jetë libri ynë.
+Dialogue: 0,0:15:48.74,0:15:50.11,Italics,Ai\Italic,0,0,0,,Sikur.
+Dialogue: 0,0:15:52.10,0:15:58.60,Default,Sign,0,0,0,,{\fad(1250,0)\bord2\fnVerdana\shad0\bord2.5\b1\fs50\pos(312,85)\3c&H93EBE6&}Manga Taisho
+Dialogue: 0,0:15:52.10,0:15:58.60,Default,Sign,0,0,0,,{\fad(1250,0)\bord1.5\fnVerdana\shad0\fscx90\an8\b1\fs18\3c&H45A0A9&\pos(409.5,276.5)}Zgjedhjet më të mira të 20XX nga lexuesit e mangave!!
+Dialogue: 0,0:15:52.73,0:15:54.99,Italics,Emcee,0,0,0,,Manga Taisho e këtij viti shkon për...
+Dialogue: 0,0:15:55.34,0:15:58.60,Italics,Emcee,0,0,0,,Akafuku Sou-sensei{\i0}Nekota & Nyanta{\i1}!{\i0}
+Dialogue: 0,0:15:59.10,0:16:02.18,Italics,Emcee,0,0,0,,Për të festuar, merr një tirazh shtesë\Nprej 50 kuintilionë kopjesh.
+Dialogue: 0,0:16:02.18,0:16:05.61,Italics,Emcee,0,0,0,,Plus, një çmim bonus prej 50 miliardë jenësh\Nnë bonuse librash.
+Dialogue: 0,0:16:06.61,0:16:12.87,Default,Ai,0,0,0,,Faleminderit shumë që lexuat mangën tonë!
+Dialogue: 0,0:16:28.68,0:16:30.05,Default,Sign,0,0,0,,{\fad(300,400)\an8\bord0\shad0\blur0.2\fscx90\fs22\t(300,700,\fs22.2)\fnArial Black\c&H153247&\frz30.27\move(390,224,391,225,300,700)}Vizato Këtë, Pastaj Vdis
+Dialogue: 0,0:16:33.22,0:16:34.60,Default,Sign,0,0,0,,{\bord0\shad0\b1\an8\fs12\fax-0.85\frz347.15\c&H746A62&\pos(292,225)}Çmimi i Ri i{\c&H998B7E&}Komikeve{\c&HA49689&}Shogakukan
+Dialogue: 0,0:16:33.22,0:16:34.60,Default,Sign,0,0,0,,{\bord0\shad0\b1\an8\fs11\fax-0.85\c&HDAD0C1&\pos(141,205)\frz344.9}Seinen{\c&H8C8277&}Kate{\c&H746A62&}goria\N{\c&HDAD0C1&}Mendim{\c&H8C8277&}i{\c&H746A62&}Nderuar\h\h\h\h
+Dialogue: 0,0:16:33.22,0:16:34.60,Default,Sign,0,0,0,,{\bord1\shad0\b1\an8\fs13\fax-0.85\frz346.4\c&HDBD1C0&\3c&HA8998B&\pos(211.5,272.5)}Hoshino{\3c&H83786C&\c&HA3988A&}Rei{\3c&H493F39&\c&H6C635A&}[Romancë me Rrahje Zemre]
+Dialogue: 0,0:16:33.22,0:16:34.60,Default,Sign,0,0,0,,{\bord1\shad0\b1\an8\fs13\fax-0.85\frz346.4\c&HDBD1C0&\3c&HA8998B&\pos(211.5,272.5)}Hoshino{\3c&H83786C&\c&HA3988A&}Rei{\3c&H493F39&\c&H6C635A&}[Romancë me Rrahje Zemre]
+Dialogue: 0,0:16:34.60,0:16:38.10,Default,Sign,0,0,0,,{\p1\an7\bord1\shad0\alpha&H40&\fscx250\fscy225\c&HEDECEA&\3c&H606564&\t(500,3475,0.9,\c&H57473A&\3c&H190D0B&)\pos(20,20)}m 0 0 l 100 0 100 100 0 100{\p0}
+Dialogue: 0,0:16:34.60,0:16:38.10,Default,Sign,0,0,0,,{\an8\fnVerdana\b1\bord0\shad0\blur0.3\fs16\fscx90\c&H505D5E&\t(500,3475,0.9,\c&H140E0A&)\pos(144,28)}Argëtohu\NBëj komedi!\NLëre mënjanë ankthin!\NMos kërko mëshirë!\NShtrij një dorë të mirë e miqësore!\NPa soditje të kërthizës, budalla!\NAbsolutisht pa moralizim!\NJi i sinqertë!\NJi i ndershëm!\NVizato si ta kesh me qejf\Nnë vend që ta bësh gjysmë, moron!\NVizato me gjakun tënd!\NVizato këtë, pastaj vdis!
+Dialogue: 0,0:16:39.89,0:16:42.23,Default,Sign,0,0,0,,{\an8\bord0\shad0\blur0.2\fscx90\fnArial Black\c&H153247&\frz12.53\pos(297.5,228)}Vizato Këtë, Pastaj Vdis
+Dialogue: 0,0:16:47.74,0:16:50.24,Default,Sign,0,0,0,,{\fad(500,500)\an8\bord0\shad0\blur0.2\fscx90\fs18\fnArial Black\c&H153247&\frz346.3\pos(307.5,213)\frx6\fry4}Vizato Këtë, Pastaj Vdis
+Dialogue: 0,0:16:50.67,0:16:53.99,Default,Sign,0,0,0,,{\fad(2000,400)\fnVerdana\bord0\b1\shad0\fs19\t(\fs20)\fscx90\blur0.3\frz348.2\move(278,178,285,175)\frx8\fry2\c&H0C1B35&}Jam fansi yt!
+Dialogue: 0,0:16:57.34,0:17:00.25,Default,Sign,0,0,0,,{\an8\fnArial\bord0\shad0\blur0.2\fs16\b1\fax-0.1\fay0.01\c&H000000&\t(30,1450,\c&H7C7C6F&)\frz10\pos(460,174)\frx4\fry350}Jimbocho
+Dialogue: 0,0:17:02.56,0:17:05.50,Default,Sachi,0,0,0,,Yasumin, të ndodhi gjë?
+Dialogue: 0,0:17:05.50,0:17:08.26,Default,Ai,0,0,0,,Oh, është thjesht një ëndërr.
+Dialogue: 0,0:17:08.67,0:17:09.92,Default,Hikaru,0,0,0,,Hej.
+Dialogue: 0,0:17:09.92,0:17:12.33,Default,Hikaru,0,0,0,,Duhet të nisemi herët sot, apo jo?
+Dialogue: 0,0:17:12.33,0:17:15.51,Default,Hikaru,0,0,0,,Do të jem i zënë,\Nndaj eja të më ndihmosh të shes në tavolinën time, Ai-chan.
+Dialogue: 0,0:17:15.51,0:17:17.43,Default,Ai,0,0,0,,Çfarë? Prit deri{\i1}tani{\i0}të pyesje?
+Dialogue: 0,0:17:20.85,0:17:23.23,Default,Group,0,0,0,,Në rregull!
+Dialogue: 0,0:17:23.23,0:17:23.44,Default,Sign,0,0,0,,{\fnArial Black\bord2\an8\fs26\t(\fs19)\fax1.3\fscx90\shad0\blur0.2\c&HCDD1D5&\frz19\move(335,290,330,270)\3c&H262828&}Dark Fuwa
+Dialogue: 0,0:17:23.44,0:17:23.77,Default,Sign,0,0,0,,{\fnArial Black\bord2\an8\fs19\t(\fs17)\fax1.3\fscx90\shad0\blur0.2\c&HCDD1D5&\frz19\move(330,270,330,258)\3c&H262828&}Dark Fuwa
+Dialogue: 0,0:17:23.77,0:17:24.23,Default,Sign,0,0,0,,{\fnArial Black\bord2\an8\fs17\t(\fs16)\fax1.3\fscx90\shad0\blur0.2\c&HCDD1D5&\frz19\move(330,258,330,255)\3c&H262828&}Dark Fuwa
+Dialogue: 0,0:17:24.23,0:17:27.36,Default,Sign,0,0,0,,{\bord0\shad0\blur0.3\fs16\fscx80\fnArial Black\c&H454F54&\frz11\fax-0.45\pos(359.5,251.5)\frx0\fry348}Përralla Macet, Macet,
+Dialogue: 0,0:17:24.23,0:17:27.36,Default,Sign,0,0,0,,{\bord0\shad0\blur0.3\fs15\fscx80\fnArial Black\c&H454F54&\frz11\fay0.089\fax-0.35\frx0\fry348\pos(362,317)}dhe Më Shumë Macet
+Dialogue: 1,0:17:25.52,0:17:27.36,Default,Ai,0,0,0,,Tani e kemi marrë dorën.
+Dialogue: 0,0:17:27.36,0:17:30.33,Default,Sachi,0,0,0,,Dhe posteri që sugjerova duket i mrekullueshëm.
+Dialogue: 0,0:17:30.33,0:17:31.24,Default,Ai,0,0,0,,Po, po.
+Dialogue: 0,0:17:31.24,0:17:33.92,Default,Ai,0,0,0,,Në rregull, po shkoj të ndihmoj Hikaru-chan.
+Dialogue: 0,0:17:33.92,0:17:34.38,Default,Kokoro,0,0,0,,Në rregull.
+Dialogue: 0,0:17:34.38,0:17:35.99,Default,Sachi,0,0,0,,Ne do të ruajmë fortesën këtu.
+Dialogue: 0,0:17:39.16,0:17:42.79,Default,Ai,0,0,0,,Koha të relaksohem dhe ta shijoj këtë\Nnë maksimum!
+Dialogue: 0,0:17:42.79,0:17:45.03,Top Italics,SFX,0,0,0,,Shtrirje.
+Dialogue: 0,0:17:45.03,0:17:47.47,Default,Ai,0,0,0,,Nuk është hapur ende,\Ndhe radha është tashmë gjigante.
+Dialogue: 0,0:17:47.47,0:17:50.45,Default,Hikaru,0,0,0,,Me gjasë janë të gjithë nga rrethet e tjera.
+Dialogue: 0,0:17:52.01,0:17:54.34,Top Italics,Announcement,0,0,0,,Është ora 11.
+Dialogue: 0,0:17:54.34,0:17:58.52,Top Italics,Announcement,0,0,0,,Comitia tani është zyrtarisht e hapur.
+Dialogue: 0,0:18:03.52,0:18:04.46,Default,Customer A,0,0,0,,Një kopje, të lutem.
+Dialogue: 0,0:18:04.46,0:18:05.99,Default,Ai,0,0,0,,F-Faleminderit shumë.
+Dialogue: 0,0:18:05.99,0:18:07.21,Default,Customer B,0,0,0,,A ka kufi?
+Dialogue: 0,0:18:07.21,0:18:08.02,Default,Ai,0,0,0,,Maksimumi dy kopje.
+Dialogue: 0,0:18:08.02,0:18:09.11,Default,Customer C,0,0,0,,Ja ku është karta ime e biznesit.
+Dialogue: 0,0:18:09.11,0:18:10.15,Default,Ai,0,0,0,,Faleminderit shumë.
+Dialogue: 0,0:18:10.15,0:18:11.34,Default,Customer D,0,0,0,,Të lutem lexo letrën time.
+Dialogue: 0,0:18:11.34,0:18:12.54,Default,Ai,0,0,0,,Faleminderit shumë.
+Dialogue: 0,0:18:12.54,0:18:13.28,Default,Customer E,0,0,0,,Një kopje, të lutem.
+Dialogue: 0,0:18:13.28,0:18:14.07,Default,Ai,0,0,0,,Faleminderit shumë.
+Dialogue: 0,0:18:14.07,0:18:14.75,Default,Customer F,0,0,0,,Ca meze për ty.
+Dialogue: 0,0:18:14.75,0:18:15.59,Default,Ai,0,0,0,,Faleminderit shumë.
+Dialogue: 0,0:18:15.59,0:18:16.34,Default,Customer G,0,0,0,,Do të marr dy.
+Dialogue: 0,0:18:16.34,0:18:17.53,Default,Ai,0,0,0,,Faleminderit shumë.
+Dialogue: 0,0:18:17.53,0:18:19.95,Default,Ai,0,0,0,,Hikaru-chan!\NKu t'i vë të gjitha këto kartëmonedha?
+Dialogue: 0,0:18:19.95,0:18:21.77,Default,Hikaru,0,0,0,,Thjesht futi në qesen e mbeturinave.
+Dialogue: 0,0:18:24.50,0:18:28.13,Default,Sign,0,0,0,,{\an8\bord0\shad0\b1\blur0.2\fs35\fnComic Sans MS\pos(328,262)\c&H32313E&}Të shitura
+Dialogue: 0,0:18:28.13,0:18:30.38,Default,Ai,0,0,0,,Zgjati vetëm një orë.
+Dialogue: 0,0:18:30.87,0:18:32.57,Default,Hikaru,0,0,0,,Punë e mirë.
+Dialogue: 0,0:18:39.15,0:18:39.26,Default,Sign,0,0,0,,{\an7\bord0\shad0\blur0.2\fs5\c&H7F8B2C&\frz38\pos(387.5,371)}Komik Mujor
+Dialogue: 0,0:18:39.26,0:18:40.01,Default,Sign,0,0,0,,{\an7\bord0\shad0\blur0.2\fs5\c&H7F8B2C&\frz38\pos(371.5,333)}Komik Mujor
+Dialogue: 0,0:18:40.01,0:18:40.14,Default,Sign,0,0,0,,{\an7\bord0\shad0\blur0.2\fs5\c&H7F8B2C&\frz38\pos(370,327)}Komik Mujor
+Dialogue: 0,0:18:40.14,0:18:40.27,Default,Sign,0,0,0,,{\an7\bord0\shad0\blur0.2\fs5\c&H7F8B2C&\frz38\pos(369,320.5)}Komik Mujor
+Dialogue: 0,0:18:40.27,0:18:40.39,Default,Sign,0,0,0,,{\an7\bord0\shad0\blur0.2\fs5\c&H7F8B2C&\frz38\pos(368,314)}Komik Mujor
+Dialogue: 0,0:18:40.39,0:18:42.60,Default,Sign,0,0,0,,{\an7\bord0\shad0\blur0.2\fs5\c&H7F8B2C&\frz38\pos(366,308)}Komik Mujor
+Dialogue: 0,0:18:39.15,0:18:39.26,Default,Sign,0,0,0,,{\an7\bord0\shad0\blur0.2\fnArial Black\fs12\c&H7F8B2C&\frz38\pos(388,373.5)}Amaze
+Dialogue: 0,0:18:39.26,0:18:40.01,Default,Sign,0,0,0,,{\an7\bord0\shad0\blur0.2\fnArial Black\fs12\c&H7F8B2C&\frz38\pos(372,335.5)}Amaze
+Dialogue: 0,0:18:40.01,0:18:40.14,Default,Sign,0,0,0,,{\an7\bord0\shad0\blur0.2\fnArial Black\fs12\c&H7F8B2C&\frz38\pos(370.5,329.5)}Amaze
+Dialogue: 0,0:18:40.14,0:18:40.27,Default,Sign,0,0,0,,{\an7\bord0\shad0\blur0.2\fnArial Black\fs12\c&H7F8B2C&\frz38\pos(369.5,323)}Amaze
+Dialogue: 0,0:18:40.27,0:18:40.39,Default,Sign,0,0,0,,{\an7\bord0\shad0\blur0.2\fnArial Black\fs12\c&H7F8B2C&\frz38\pos(368.5,316.5)}Amaze
+Dialogue: 0,0:18:40.39,0:18:42.60,Default,Sign,0,0,0,,{\an7\bord0\shad0\blur0.2\fnArial Black\fs12\c&H7F8B2C&\frz38\pos(366.5,310.5)}Amaze
+Dialogue: 0,0:18:39.15,0:18:39.26,Default,Sign,0,0,0,,{\an8\b1\bord0\shad0\blur0.2\fnTimes New Roman\fs7\c&HCCC9F4&\frz5.204\pos(445,314.5)}Mujor\NHana to\NOtome
+Dialogue: 0,0:18:39.26,0:18:40.01,Default,Sign,0,0,0,,{\an8\b1\bord0\shad0\blur0.2\fnTimes New Roman\fs7\c&HCCC9F4&\frz7\pos(428,273.5)}Mujor\NHana to\NOtome
+Dialogue: 0,0:18:40.01,0:18:40.14,Default,Sign,0,0,0,,{\an8\b1\bord0\shad0\blur0.2\fnTimes New Roman\fs7\c&HCCC9F4&\frz7.604\pos(426.5,266.5)}Mujor\NHana to\NOtome
+Dialogue: 0,0:18:40.14,0:18:40.27,Default,Sign,0,0,0,,{\an8\b1\bord0\shad0\blur0.2\fnTimes New Roman\fs7\c&HCCC9F4&\frz7.604\pos(425.5,260)}Mujor\NHana to\NOtome
+Dialogue: 0,0:18:40.27,0:18:40.39,Default,Sign,0,0,0,,{\an8\b1\bord0\shad0\blur0.2\fnTimes New Roman\fs7\c&HCCC9F4&\frz7.604\pos(424.5,253.5)}Mujor\NHana to\NOtome
+Dialogue: 0,0:18:40.39,0:18:42.60,Default,Sign,0,0,0,,{\an8\b1\bord0\shad0\blur0.2\fnTimes New Roman\fs7\c&HCCC9F4&\frz7.604\pos(422.5,247.5)}Mujor\NHana to\NOtome
+Dialogue: 0,0:18:33.38,0:18:36.69,Default,Ai,0,0,0,,Këto janë nga një sërë botuesish.
+Dialogue: 1,0:18:40.28,0:18:42.60,Default,Hikaru,0,0,0,,Nuk jam e interesuar për momentin.
+Dialogue: 0,0:18:42.60,0:18:44.15,Default,Ai,0,0,0,,Çfarë?
+Dialogue: 0,0:18:44.15,0:18:46.98,Default,Hikaru,0,0,0,,Ai-chan, do të të falënderoj për këtë më vonë.
+Dialogue: 0,0:18:48.54,0:18:50.86,Default,Pokota,0,0,0,,Hikaru-chan vërtet është e mahnitshme.
+Dialogue: 0,0:18:50.86,0:18:54.51,Default,Ai,0,0,0,,Sikur të isha unë, do të kërceja nga gëzimi.
+Dialogue: 0,0:18:56.48,0:18:58.27,Default,Pokota,0,0,0,,Yasumi, shiko.
+Dialogue: 0,0:19:00.42,0:19:04.39,Default,Sign,0,0,0,,{\fad(1000,250)\fnArial Black\fs20\fscx90\fax-0.08\shad0\blur0.2\3c&HECF3F5&\c&H6C7A81&\frz3.656\move(312.5,17,312.5,39)}Zyra Editoriale e Mangës në Vend
+Dialogue: 0,0:19:00.42,0:19:04.39,Default,Sign,0,0,0,,{\fad(1000,250)\fnArial Black\fs20\fscx90\fax-0.08\shad0\blur0.2\3c&HECF3F5&\c&H6C7A81&\frz3.656\move(313,31,313,53)}Sporteli i Pranimit të Dorëzimeve
+Dialogue: 0,0:19:00.89,0:19:04.24,Default,Ai,0,0,0,,"Zyra Editoriale e Mangës në Vend"?
+Dialogue: 0,0:19:04.18,0:19:06.88,Default,Sign,0,0,0,,{\fad(450,0)\i1\bord1.2\shad0\an8\fnImpact\3c&H7169D9&\c&H3D32A0&\frz359\pos(430,80)}Gessan
+Dialogue: 0,0:19:04.24,0:19:06.88,Default,Ai,0,0,0,,Oh, është ai redaktori nga hera e kaluar.
+Dialogue: 0,0:19:06.88,0:19:09.34,Default,Pokota,0,0,0,,Do ta provosh fatin përsëri me të?
+Dialogue: 0,0:19:09.34,0:19:11.37,Default,Ai,0,0,0,,Kjo është tepër e frikshme.
+Dialogue: 0,0:19:11.37,0:19:14.88,Default,Ai,0,0,0,,Përveç kësaj, duhet të kthehem në stendën tonë\Ndhe të ndihmoj të shes librat.
+Dialogue: 0,0:19:14.88,0:19:14.92,Default,Sign,0,0,0,,{\an8\bord0\shad0\b1\blur0.2\fs38\fay0.045\fnComic Sans MS\pos(326,268)\c&H32313E&}Të shitura
+Dialogue: 0,0:19:14.92,0:19:15.01,Default,Sign,0,0,0,,{\an8\bord0\shad0\b1\blur0.2\fs26\t(\fs24.5)\fay0.045\fnComic Sans MS\c&H32313E&\move(342,246,352,240)}Të shitura
+Dialogue: 0,0:19:15.01,0:19:15.18,Default,Sign,0,0,0,,{\an8\bord0\shad0\b1\blur0.2\fs24.5\t(\fs23)\fay0.045\fnComic Sans MS\c&H32313E&\move(352,240,353,237)}Të shitura
+Dialogue: 0,0:19:15.18,0:19:15.47,Default,Sign,0,0,0,,{\an8\bord0\shad0\b1\blur0.2\fs23\t(\fs22)\fay0.045\fnComic Sans MS\c&H32313E&\move(353,237,353,237)}Të shitura
+Dialogue: 0,0:19:15.47,0:19:16.38,Default,Sign,0,0,0,,{\an8\bord0\shad0\b1\blur0.2\fs22\t(\fs21.5)\fay0.045\fnComic Sans MS\c&H32313E&\move(353,237,354,236)}Të shitura
+Dialogue: 0,0:19:15.27,0:19:17.66,Default,Ai,0,0,0,,Çfarë?! I shitët të gjitha?
+Dialogue: 0,0:19:17.66,0:19:21.65,Default,Kokoro,0,0,0,,Duket se Hikaru-chan na reklamoi\Nnë llogarinë e saj sociale.
+Dialogue: 0,0:19:21.65,0:19:24.45,Default,Kokoro,0,0,0,,Akafuku-san tashmë ka shkuar\Ntë eksplorojë ambientin.
+Dialogue: 0,0:19:22.78,0:19:27.40,Default,Sign,0,0,0,,{\fad(500,0)\an7\bord0\shad0\b1\fscx90\fs15\pos(334,116)\fax-0.02\frz352.2\c&HBAB8B9&\frx2\fry354}Kjo manga është më e mira\NStenda Fu-16B\NKlubi i Mangës i Shkollës\NSouth Oshima\N{\i1}Kënga e Planetit{\i0}\N@ Comitia
+Dialogue: 0,0:19:24.83,0:19:27.40,Default,Ai,0,0,0,,Kjo është ajo që ajo quajti "falënderim"?
+Dialogue: 0,0:19:27.40,0:19:31.68,Default,Kokoro,0,0,0,,Oh, por disa njerëz na njihnin\Nedhe nga postimet tona.
+Dialogue: 0,0:19:31.68,0:19:32.99,Default,Ai,0,0,0,,Vërtet?
+Dialogue: 0,0:19:32.99,0:19:35.77,Default,Kokoro,0,0,0,,Ndonëse asnjë prej tyre nuk bleu një kopje.
+Dialogue: 0,0:19:38.78,0:19:41.24,Default,Ai,0,0,0,,Mendoj se është mirë që shitëm gjithçka.
+Dialogue: 0,0:19:43.54,0:19:47.26,Default,Ai,0,0,0,,Por doja të dija si do të kishim dalë\Nvetëm ne.
+Dialogue: 0,0:19:47.75,0:19:49.69,Default,Urara,0,0,0,,T-Të shitura?!
+Dialogue: 0,0:19:50.17,0:19:52.03,Default,Ai,0,0,0,,Oh, Loup Garou-san.
+Dialogue: 0,0:19:52.72,0:19:55.14,Default,Urara,0,0,0,,T-Të shitura. T-T-Të shitura...
+Dialogue: 0,0:19:58.82,0:20:00.73,Default,Urara,0,0,0,,Mos mendo se ke fituar ende!
+Dialogue: 0,0:20:04.91,0:20:06.60,Default,Sign,0,0,0,,{\i1\bord1.2\shad0\an8\fnImpact\c&HFFFFFF&\3c&HFFFFFF&\t(30,290,0.6,\3c&H7169D9&\c&H3D32A0&)\frz359\pos(430,80)}Gessan
+Dialogue: 0,0:20:11.14,0:20:15.17,Default,Pokota,0,0,0,,Yasumi, çfarë do të bënte\Nnjë protagonist mange këtu?
+Dialogue: 0,0:20:18.88,0:20:22.24,Default,Pokota,0,0,0,,Hej, Yasumi. Po dëgjon?
+Dialogue: 0,0:20:25.66,0:20:26.92,Default,Ai,0,0,0,,Kokoro-chan.
+Dialogue: 0,0:20:28.46,0:20:31.83,Default,Ai,0,0,0,,Çfarë do të bënte një protagonist mange këtu?
+Dialogue: 0,0:20:31.83,0:20:32.85,Default,Kokoro,0,0,0,,Çfarë?
+Dialogue: 0,0:20:33.42,0:20:34.92,Default,Sign,0,0,0,,{\fnArial Black\fs25\fscx90\fax-0.08\shad0\blur0.2\3c&HEFF4F4&\c&H616769&\frz3.656\pos(312.5,68.5)}Zyra Editoriale e Mangës në Vend
+Dialogue: 0,0:20:33.42,0:20:34.92,Default,Sign,0,0,0,,{\fnArial Black\fs25\fscx90\fax-0.08\shad0\blur0.2\3c&HEFF4F4&\c&H616769&\frz3.656\pos(313,84.5)}Sporteli i Pranimit të Dorëzimeve
+Dialogue: 0,0:20:39.55,0:20:42.24,Top,Editor,0,0,0,,Oh, ke një sens të mrekullueshëm për këtë.
+Dialogue: 0,0:20:42.24,0:20:43.60,Top,Manga Artist,0,0,0,,Vërtet e mendon?
+Dialogue: 0,0:20:45.23,0:20:46.01,Default,Ai,0,0,0,,Më falni.
+Dialogue: 0,0:20:46.01,0:20:50.17,Top,Editor,0,0,0,,E gjeta novatore dhe e lexova me kënaqësi.
+Dialogue: 0,0:20:56.51,0:21:00.05,Default,Ai,0,0,0,,A mund të lexoni mangën tonë, ju lutem?
+Dialogue: 0,0:21:01.66,0:21:03.77,Default,Tanba,0,0,0,,Prit, unë jam përgjegjës për dorëzimet e...
+Dialogue: 0,0:21:04.08,0:21:05.07,Default,Hana,0,0,0,,Tanba-kun.
+Dialogue: 0,0:21:05.07,0:21:05.64,Default,Tanba,0,0,0,,Hë?
+Dialogue: 0,0:21:05.64,0:21:06.33,Default,Hana,0,0,0,,Është në rregull.
+Dialogue: 0,0:21:20.44,0:21:21.90,Default,Hana,0,0,0,,Do të kënaqem t'i hedh një sy.
+Dialogue: 0,0:21:22.80,0:21:24.26,Default,Sign,0,0,0,,{\fnArial\b1\bord0\shad0\an8\blur0.2\fs16\move(324,220,324,404)\c&HE6ECED&}Akafuku Sou\NKlubi i Mangës i Shkollës South Oshima 03
+Dialogue: 0,0:21:22.80,0:21:25.31,Default,Sign,0,0,0,,{\fnArial Black\b1\bord3\shad0\an8\blur0.2\fs46\c&HE6ECED&\3c&H2D2D2D&\move(404.5,103.5,404.5,417.5)}Fshuuuu
+Dialogue: 0,0:21:25.85,0:21:26.76,Default,Sign,0,0,0,,{\fnImpact\bord2\shad0\fs50\move(320,-10,320,50)\3c&H464D4E&\c&HEAEFF3&}Kënga e Planetit
+Dialogue: 0,0:21:26.76,0:21:27.10,Default,Sign,0,0,0,,{\fnImpact\bord2\shad0\fs50\move(320,50,320,66)\3c&H464D4E&\c&HEAEFF3&}Kënga e Planetit
+Dialogue: 0,0:21:27.10,0:21:27.47,Default,Sign,0,0,0,,{\fnImpact\bord2\shad0\fs50\move(320,66,320,74)\3c&H464D4E&\c&HEAEFF3&}Kënga e Planetit
+Dialogue: 0,0:21:27.47,0:21:30.06,Default,Sign,0,0,0,,{\fnImpact\bord2\shad0\fs50\pos(320,74)\3c&H464D4E&\c&HEAEFF3&}Kënga e Planetit
+Dialogue: 0,0:21:35.40,0:21:38.40,Default,CREDITS,0,0,0,,{\fad(300,300)\an7\bord1\shad0.5\blur0.3\b1\fscx95\fnArial\fs16\3c&H856CD7&\4c&H856CD7&\pos(13,10)}Përktheu: John K.\NKohëmatja: Andy Ellis\NRedaktimi: SMR\NKontrolli i cilësisë: Ashley Barboza\NKontrolli final: Michelle Tymon
+

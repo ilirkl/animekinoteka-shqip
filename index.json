@@ -927,6 +927,20 @@
       "assFile": "ass/at-689419.sq.ass",
       "offset": 0,
       "sourceReleaseId": "689419"
+    },
+    {
+      "id": "at-689391",
+      "title": "Draw This, Then Die!",
+      "episode": "11",
+      "malId": 61280,
+      "anilistId": 188525,
+      "slugs": [
+        "draw-this-then-die-5xdt"
+      ],
+      "file": "files/at-689391.sq.vtt",
+      "assFile": "ass/at-689391.sq.ass",
+      "offset": 0,
+      "sourceReleaseId": "689391"
     }
   ]
 }
