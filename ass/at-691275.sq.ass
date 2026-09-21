@@ -1,0 +1,379 @@
+﻿[Script Info]
+Title: [Erai-raws] Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,10,10,18,0
+Style: italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,0
+Style: italicstop,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,10,10,18,0
+Style: flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: sign_generic,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.69,0:00:04.73,Default,Maverick,0,0,0,,Zoti Colt, jam kaq e nderuar\Nt'ju kem këtu sot.
+Dialogue: 0,0:00:04.73,0:00:06.74,Default,Colt,0,0,0,,Nuk ishte gjë, vërtet.
+Dialogue: 0,0:00:06.99,0:00:12.11,Default,Maverick,0,0,0,,Të dhënia e një magazine si kjo\Nnë territorin e Shtëpisë Lampton
+Dialogue: 0,0:00:12.11,0:00:15.79,Default,Maverick,0,0,0,,i dha Firma Tregtare Elizabeth\Nnjë shpërthim entuziazmi.
+Dialogue: 0,0:00:15.79,0:00:17.24,Default,Colt,0,0,0,,Jam kaq e lumtur ta dëgjoj.
+Dialogue: 0,0:00:17.24,0:00:18.99,Default,Maverick,0,0,0,,Tani, nëse mund të diskutojmë—
+Dialogue: 0,0:00:18.99,0:00:22.61,Default,Colt,0,0,0,,Para kësaj, ka dikë\Nqë dua t'ju prezantoj.
+Dialogue: 0,0:00:22.61,0:00:24.48,Default,Maverick,0,0,0,,Mua?
+Dialogue: 0,0:00:24.48,0:00:25.62,Default,Colt,0,0,0,,Hyr.
+Dialogue: 0,0:00:27.82,0:00:31.27,Default,Maverick,0,0,0,,Z-Zoti Belit! Çfarë po bëni këtu?
+Dialogue: 0,0:00:31.27,0:00:34.18,Default,Belit,0,0,0,,Ka kaluar kohë, Zoti Maverick.
+Dialogue: 0,0:00:34.18,0:00:40.01,Default,Colt,0,0,0,,Ai më tha se po komplotonit\Npër t'i ngritur një kurth Funnel.
+Dialogue: 0,0:00:40.01,0:00:42.40,Default,Maverick,0,0,0,,Unë? Një kurth?
+Dialogue: 0,0:00:42.40,0:00:44.11,Default,Maverick,0,0,0,,Çfarë marrëzie!
+Dialogue: 0,0:00:44.11,0:00:47.34,Default,Barl,0,0,0,,Lëre aktrimin. Ne dimë gjithçka.
+Dialogue: 0,0:00:47.59,0:00:49.66,Default,Maverick,0,0,0,,Me siguri ka pasur\Nndonjë keqkuptim.
+Dialogue: 0,0:00:49.66,0:00:52.82,Default,Maverick,0,0,0,,Sot do t'ju prezantoja\Nme pronarin tonë...
+Dialogue: 0,0:00:53.29,0:00:55.17,Default,Colt,0,0,0,,Pronarin tuaj...
+Dialogue: 0,0:00:55.17,0:00:57.54,Default,Colt,0,0,0,,Ellie Leis e Firmës Tregtare\NTraitre, apo jo?
+Dialogue: 0,0:00:57.54,0:00:59.86,Default,Maverick,0,0,0,,S-Si e dinit—
+Dialogue: 0,0:00:59.86,0:01:03.75,Default,Colt,0,0,0,,E dimë se mbështetësi juaj është një\Ntregtar nga një kompani perandorake.
+Dialogue: 0,0:01:03.75,0:01:05.89,Default,Colt,0,0,0,,Tani, silleni këtu.
+Dialogue: 0,0:01:10.34,0:01:11.74,Default,Barl,0,0,0,,Je i sigurt për këtë?
+Dialogue: 0,0:01:11.74,0:01:13.93,Default,Barl,0,0,0,,Ndoshta do të sjellë roje.
+Dialogue: 0,0:01:13.93,0:01:17.21,Default,Colt,0,0,0,,Atëherë do t'i kapim në një luftë.
+Dialogue: 0,0:01:17.47,0:01:20.98,Default,Colt,0,0,0,,Kemi sjellë njëqind\Nroje tona.
+Dialogue: 0,0:01:20.98,0:01:24.71,Default,Colt,0,0,0,,Ata ndoshta tashmë\Ni kanë zhdukur njerëzit e tyre.
+Dialogue: 0,0:01:29.93,0:01:31.35,Default,Colt,0,0,0,,Ja ku jemi.
+Dialogue: 0,0:01:32.93,0:01:34.61,Default,Ellie,0,0,0,,Më falni.
+Dialogue: 0,0:01:37.53,0:01:40.24,Default,Ellie,0,0,0,,Unë jam pronarja e Firmës\NTregtare Elizabeth...
+Dialogue: 0,0:01:41.11,0:01:43.49,Default,Ellie,0,0,0,,Ellie Leis.
+Dialogue: 0,0:01:53.88,0:01:56.80,sign_generic,Sign,0,0,0,,{\an8\fs24\b1\fnGeorgia\3c&HFFFFFF&\c&H0C03CC&\pos(320,20)}Udhëzuesi i Zonjës{\c&H382B5C&}së{\c&H49C846&}Tërbuar{\c&H382B5C&}për{\c&H0996F6&}Hakmarrje\N{\fs14\c&H382B5C&}Si e Shtypa Atdheun Tim me Grimoiret e Mi të Fuqishëm
+Dialogue: 1,0:03:17.55,0:03:22.51,sign_generic,Sign,0,0,0,,{\fad(489,439)\iclip(1,307,640,318)\bord0.75\fnGeorgia\an5\fs12\c&HDFD3B9&\3c&H787878&\b1\pos(242.381,306.667)}Episodi
+Dialogue: 1,0:03:17.55,0:03:22.51,sign_generic,Sign,0,0,0,,{\fad(489,439)\clip(1,307,640,318)\bord0.75\fnGeorgia\an5\fs12\c&HF29C83&\3c&H787878&\b1\pos(242.381,306.667)}Episodi
+Dialogue: 0,0:03:17.55,0:03:22.51,sign_generic,Sign,0,0,0,,{\fad(489,439)\iclip(1,307,640,318)\bord1\blur1.5\fnGeorgia\an5\fs12\c&HF0F0F0&\3c&HC4B9B1&\b1\pos(242.381,306.667)}Episodi
+Dialogue: 0,0:03:17.55,0:03:22.51,sign_generic,Sign,0,0,0,,{\fad(489,439)\clip(1,307,640,318)\bord1\blur1.5\fnGeorgia\an5\fs12\c&HF0F0F0&\3c&HC4B9B1&\b1\pos(242.381,306.667)}Episodi
+Dialogue: 1,0:03:17.55,0:03:22.51,sign_generic,Sign,0,0,0,,{\fad(489,439)\iclip(1,307,640,318)\bord0.75\fnGeorgia\an4\fs12\c&HDFD3B9&\3c&H787878&\b1\pos(292.667,306.667)}Hakmarrja e Zonjës së Tërbuar Nuk Mbaron Kurrë
+Dialogue: 1,0:03:17.55,0:03:22.51,sign_generic,Sign,0,0,0,,{\fad(489,439)\clip(1,307,640,318)\bord0.75\fnGeorgia\an4\fs12\c&HF29C83&\3c&H787878&\b1\pos(292.667,306.667)}Hakmarrja e Zonjës së Tërbuar Nuk Mbaron Kurrë
+Dialogue: 0,0:03:17.55,0:03:22.51,sign_generic,Sign,0,0,0,,{\fad(489,439)\iclip(1,307,640,318)\bord1\blur1.5\fnGeorgia\an4\fs12\c&HF0F0F0&\3c&HC4B9B1&\b1\pos(292.667,306.667)}Hakmarrja e Zonjës së Tërbuar Nuk Mbaron Kurrë
+Dialogue: 0,0:03:17.55,0:03:22.51,sign_generic,Sign,0,0,0,,{\fad(489,439)\clip(1,307,640,318)\bord1\blur1.5\fnGeorgia\an4\fs12\c&HF0F0F0&\3c&HC4B9B1&\b1\pos(292.667,306.667)}Hakmarrja e Zonjës së Tërbuar Nuk Mbaron Kurrë
+Dialogue: 0,0:03:17.61,0:03:20.71,italicstop,Colt,0,0,0,,Prit. A e njoh këtë grua?
+Dialogue: 0,0:03:20.99,0:03:23.79,top,Ellie,0,0,0,,Ka diçka, Zoti Colt?
+Dialogue: 0,0:03:23.79,0:03:26.39,Default,Ellie,0,0,0,,Shpresoj se babai im është mirë.
+Dialogue: 0,0:03:27.73,0:03:30.86,italics,Colt,0,0,0,,Elizabeth Leiston?!
+Dialogue: 0,0:03:31.97,0:03:35.44,Default,Colt,0,0,0,,K-Ka kaluar mjaft kohë,\NZonja Elizabeth.
+Dialogue: 0,0:03:35.44,0:03:36.82,Default,Ellie,0,0,0,,Vërtet.
+Dialogue: 0,0:03:36.82,0:03:39.45,Default,Ellie,0,0,0,,Sapo kisha dalë nga mbretëria
+Dialogue: 0,0:03:39.45,0:03:42.55,Default,Ellie,0,0,0,,kur mësova se kompania ime\Nishte mbushur me parazitë,
+Dialogue: 0,0:03:42.55,0:03:44.36,Default,Ellie,0,0,0,,ndaj desha ta kontrolloja.
+Dialogue: 0,0:03:44.36,0:03:46.19,Default,Colt,0,0,0,,P-Prit një çast!
+Dialogue: 0,0:03:46.19,0:03:49.88,Default,Colt,0,0,0,,Unë... e mbajta Funnelin në këmbë!
+Dialogue: 0,0:03:49.88,0:03:53.12,Default,Ellie,0,0,0,,Vërtet? E mbajte?
+Dialogue: 0,0:03:53.36,0:03:58.08,Default,Colt,0,0,0,,Për fat të keq, nuk mund të përballesha\Nme të gjitha kërkesat e Lartësisë së Tij.
+Dialogue: 0,0:03:58.08,0:04:04.59,Default,Colt,0,0,0,,Por është falë përpjekjeve të mia\Ntë zellshme që kompania vazhdon!
+Dialogue: 0,0:04:04.88,0:04:05.89,Default,Ellie,0,0,0,,Dhe?
+Dialogue: 0,0:04:06.97,0:04:08.02,italics,Colt,0,0,0,,Nuk ka dobi.
+Dialogue: 0,0:04:08.02,0:04:11.45,italics,Colt,0,0,0,,Justifikimet dhe fjalët e mëshirshme\Nnuk bëjnë punë me të!
+Dialogue: 0,0:04:11.79,0:04:13.05,italics,Colt,0,0,0,,Në atë rast...
+Dialogue: 0,0:04:13.41,0:04:15.70,Default,Colt,0,0,0,,Kam frikë, Zonja Elizabeth,
+Dialogue: 0,0:04:15.70,0:04:19.75,Default,Colt,0,0,0,,se ju jeni aktualisht në kërkim për\Ntradhti të lartë në mbretëri.
+Dialogue: 0,0:04:20.08,0:04:21.15,Default,Ellie,0,0,0,,Në të vërtetë.
+Dialogue: 0,0:04:21.15,0:04:24.89,Default,Colt,0,0,0,,Babai im ka një marrëdhënie të mirë\Nme Mbretin Bulat.
+Dialogue: 0,0:04:24.89,0:04:27.99,Default,Colt,0,0,0,,Ndoshta mund ta bëj atë\Ntë ndërhyjë për ju—
+Dialogue: 0,0:04:27.99,0:04:28.66,Default,Ellie,0,0,0,,Nuk ka nevojë.
+Dialogue: 0,0:04:32.63,0:04:35.09,Default,Misha,0,0,0,,Përfunduam rojet në zonë.
+Dialogue: 0,0:04:35.89,0:04:37.44,Default,Ellie,0,0,0,,Punë e mirë.
+Dialogue: 0,0:04:37.44,0:04:41.48,Default,Misha,0,0,0,,I kapëm të gjithë dhe i vendosëm\Nnën kujdestarinë e ushtarëve të Zotit Belit.
+Dialogue: 0,0:04:41.48,0:04:42.72,Default,Colt,0,0,0,,Belit?!
+Dialogue: 0,0:04:43.32,0:04:45.57,Default,Belit,0,0,0,,Falni prezantimin e vonuar.
+Dialogue: 0,0:04:45.57,0:04:49.59,Default,Belit,0,0,0,,Kjo është Ellie Leis, pronarja\Ne Firmës Tregtare Biot.
+Dialogue: 0,0:04:49.59,0:04:51.28,Default,Colt,0,0,0,,Ç-Çfarë?
+Dialogue: 0,0:04:51.28,0:04:54.23,Default,Colt,0,0,0,,Thatë se Biot ishte një\Ndyqan i vjetër i njohur...
+Dialogue: 0,0:04:54.23,0:04:56.86,Default,Ellie,0,0,0,,Dhe e bleva të gjithë e të plotë.
+Dialogue: 0,0:04:56.86,0:04:58.73,Default,Ellie,0,0,0,,Bashkë me historinë e tij.
+Dialogue: 0,0:04:58.73,0:05:01.10,Default,Colt,0,0,0,,P-Për çfarë qëllimi?!
+Dialogue: 0,0:05:01.46,0:05:04.73,Default,Ellie,0,0,0,,Më lër t'ju jap\Nnjë informacion të vlefshëm.
+Dialogue: 0,0:05:06.28,0:05:12.75,Default,Ellie,0,0,0,,Kalorësit e Kontit Lebrick po kapin\Noperacionin tuaj të arit të falsifikuar.
+Dialogue: 0,0:05:12.75,0:05:13.95,Default,Colt,0,0,0,,E pamundur!
+Dialogue: 0,0:05:13.95,0:05:15.88,Default,Colt,0,0,0,,Ata nuk kanë juridiksion\Nbrenda mbretërisë!
+Dialogue: 0,0:05:16.14,0:05:18.75,Default,Ellie,0,0,0,,O Zot, sa pas kohe ju.
+Dialogue: 0,0:05:19.06,0:05:24.01,Default,Ellie,0,0,0,,Një marrëveshje tregtare e nënshkruar së fundmi\Nmes perandorisë dhe mbretërisë.
+Dialogue: 0,0:05:24.38,0:05:26.01,Default,Ellie,0,0,0,,Një artikull shtojcë thotë,
+Dialogue: 0,0:05:26.01,0:05:28.64,Default,Ellie,0,0,0,,"në rast se zbulohet\Nfalsifikim monedhe,
+Dialogue: 0,0:05:28.64,0:05:33.40,Default,Ellie,0,0,0,,kombi viktimë do të ketë privilegje\Nkontrolli dhe arrestimi në tjetrin,
+Dialogue: 0,0:05:33.40,0:05:36.23,Default,Ellie,0,0,0,,vetëm në lidhje me\Nincidentin në fjalë."
+Dialogue: 0,0:05:36.23,0:05:38.60,Default,Colt,0,0,0,,N-Nuk mund të jetë...
+Dialogue: 0,0:05:38.60,0:05:41.59,Default,Ellie,0,0,0,,U shpall vetëm disa ditë më parë.
+Dialogue: 0,0:05:41.59,0:05:45.87,Default,Ellie,0,0,0,,Jam e sigurt se Gilda e Tregtarëve\Ne njoftoi për të gjitha firmat.
+Dialogue: 0,0:05:46.15,0:05:50.95,Default,Ellie,0,0,0,,I kërkova ambasadorit të perandorisë,\NKontit Lebrick, ta propozojë idenë.
+Dialogue: 0,0:05:50.95,0:05:54.04,Default,Ellie,0,0,0,,E bëmë marrëveshjen të favorshme\Npër mbretërinë,
+Dialogue: 0,0:05:54.04,0:05:56.46,Default,Ellie,0,0,0,,dhe Friede pranoi me kënaqësi.
+Dialogue: 0,0:05:56.46,0:05:59.51,Default,Colt,0,0,0,,P-Princi Friede e bëri këtë?
+Dialogue: 0,0:05:59.80,0:06:01.50,Default,Ellie,0,0,0,,Budalla, apo jo?
+Dialogue: 0,0:06:01.50,0:06:04.53,Default,Ellie,0,0,0,,Pavarësisht se drejtonte një operacion falsifikimi,
+Dialogue: 0,0:06:04.53,0:06:09.37,Default,Ellie,0,0,0,,ai nënshkruai një marrëveshje që i jepte\Nperandorisë të drejtat ta hetonte.
+Dialogue: 0,0:06:09.63,0:06:12.15,Default,Colt,0,0,0,,Kur i vure sytë mua për herë të parë?
+Dialogue: 0,0:06:12.15,0:06:15.20,Default,Ellie,0,0,0,,Ti? Ti je një krimb; shumë\Nnën vëmendjen time.
+Dialogue: 0,0:06:15.20,0:06:17.06,Default,Ellie,0,0,0,,Mund të të shtyp kur të dua.
+Dialogue: 0,0:06:18.14,0:06:21.75,Default,Ellie,0,0,0,,Por duke e ditur se Friede ishte\Npas operacionit tënd,
+Dialogue: 0,0:06:21.75,0:06:25.26,Default,Ellie,0,0,0,,mendova se do të ishte një shans i mirë\Npër të hequr ty dhe babanë tënd,
+Dialogue: 0,0:06:25.26,0:06:27.40,Default,Ellie,0,0,0,,që më goditi pas shpine.
+Dialogue: 0,0:06:27.80,0:06:30.33,Default,Colt,0,0,0,,Unë... nën vëmendjen tënde?
+Dialogue: 0,0:06:30.77,0:06:33.28,Default,Colt,0,0,0,,Barl! Vraje atë grua!
+Dialogue: 0,0:06:33.60,0:06:36.67,Default,Colt,0,0,0,,Bëje të pendohet për arrogancën ndaj meje!
+Dialogue: 0,0:06:36.67,0:06:38.66,Default,Colt,0,0,0,,Elizabeth!
+Dialogue: 0,0:06:38.66,0:06:40.52,Default,Barl,0,0,0,,E dëgjove burrin.
+Dialogue: 0,0:06:40.52,0:06:42.24,Default,Barl,0,0,0,,Çfarë dëshiron të bësh, zonja?
+Dialogue: 0,0:06:42.24,0:06:43.90,Default,Ellie,0,0,0,,Nuk më lë zgjedhje.
+Dialogue: 0,0:06:44.69,0:06:46.17,Default,Colt,0,0,0,,Mos u mundo të lypësh për jetën—
+Dialogue: 0,0:06:46.17,0:06:50.72,Default,Ellie,0,0,0,,Epo atëherë, duket se puna\Nqë të caktova ka mbaruar.
+Dialogue: 0,0:06:51.44,0:06:53.79,Default,Barl,0,0,0,,Sa keq, paguante mirë!
+Dialogue: 0,0:06:57.51,0:06:59.92,Default,Colt,0,0,0,,T-Ti i poshtër! Më tradhtove?!
+Dialogue: 0,0:06:59.92,0:07:02.23,Default,Barl,0,0,0,,Kjo është një akuzë e keqe.
+Dialogue: 0,0:07:02.57,0:07:07.53,Default,Barl,0,0,0,,Isha në kryeqytetin mbretëror duke mbledhur informacion\Npër zonjushën që nga fillimi.
+Dialogue: 0,0:07:07.53,0:07:09.02,Default,Colt,0,0,0,,Ç-Çfarë?!
+Dialogue: 0,0:07:09.36,0:07:13.03,Default,Barl,0,0,0,,Vlerësoj ofertën tënde të punës,\Nsepse pagove shumë...
+Dialogue: 0,0:07:13.03,0:07:14.98,Default,Barl,0,0,0,,Por jo aq sa zonjusha.
+Dialogue: 0,0:07:14.98,0:07:17.37,Default,Mireille,0,0,0,,Barl, duhet ta thërrisje Zonja Ellie.
+Dialogue: 0,0:07:17.37,0:07:21.29,Default,Barl,0,0,0,,Më fal, Mireille. Nuk u rrita mirë.
+Dialogue: 0,0:07:21.29,0:07:22.39,Default,Official,0,0,0,,Më falni.
+Dialogue: 0,0:07:23.32,0:07:24.83,Default,Ellie,0,0,0,,Faleminderit për ndihmën.
+Dialogue: 0,0:07:24.83,0:07:27.26,Default,Ellie,0,0,0,,Një zyrtar dhe kalorës nga perandoria.
+Dialogue: 0,0:07:27.26,0:07:29.02,Default,Ellie,0,0,0,,Ata kanë ardhur për ty.
+Dialogue: 0,0:07:29.02,0:07:29.99,Default,Colt,0,0,0,,J-Jo!
+Dialogue: 0,0:07:29.99,0:07:31.89,Default,Colt,0,0,0,,Ishte Lartësia e Tij që urdhëroi—
+Dialogue: 0,0:07:31.89,0:07:36.44,Default,Official,0,0,0,,Colt Lampton, për falsifikim ari perandorak\Ndhe poshtërim të Familjes Perandorake,
+Dialogue: 0,0:07:36.44,0:07:38.27,Default,Official,0,0,0,,po ju arrestoj.
+Dialogue: 0,0:07:49.74,0:07:51.83,Default,Mireille,0,0,0,,Gjithçka mbaroi tani.
+Dialogue: 0,0:07:51.83,0:07:54.15,Default,Ellie,0,0,0,,Po, le të kthehemi në shtëpi.
+Dialogue: 0,0:07:54.43,0:07:56.08,Default,Lunoa,0,0,0,,Do ta sjell karrocën!
+Dialogue: 0,0:08:00.19,0:08:01.28,Default,Ellie,0,0,0,,Barl.
+Dialogue: 0,0:08:01.28,0:08:02.76,Default,Barl,0,0,0,,Po?
+Dialogue: 0,0:08:02.76,0:08:04.19,Default,Ellie,0,0,0,,Koha për punën tënde të radhës.
+Dialogue: 0,0:08:07.75,0:08:08.97,Default,Ellie,0,0,0,,Çfarë është kjo?
+Dialogue: 0,0:08:09.23,0:08:12.22,Default,Lucas,0,0,0,,I konfiskova në\Npunëtorinë e falsifikimit.
+Dialogue: 0,0:08:12.22,0:08:16.75,Default,Lucas,0,0,0,,Provojnë se rrethi i prerjes së arit perandorak\Nfilloi me urdhër të Friede.
+Dialogue: 0,0:08:17.43,0:08:23.09,Default,Ellie,0,0,0,,Dyshoj se do ta dorëzojnë princin\Nperandorisë për ndëshkim.
+Dialogue: 0,0:08:23.43,0:08:28.37,Default,Ellie,0,0,0,,Por ndoshta mund të kërkojmë një\Nshpërblim të konsiderueshëm në vend të kësaj.
+Dialogue: 0,0:08:29.13,0:08:31.11,Default,Lucas,0,0,0,,Firma Tregtare Funnel do të...
+Dialogue: 0,0:08:31.46,0:08:33.43,Default,Ellie,0,0,0,,Shpërbëhet, po.
+Dialogue: 0,0:08:33.43,0:08:35.54,Default,Lucas,0,0,0,,Kjo ishte kompania që ti themelove.
+Dialogue: 0,0:08:35.54,0:08:37.00,Default,Lucas,0,0,0,,A nuk pendohesh që duhet ta bësh këtë?
+Dialogue: 0,0:08:37.00,0:08:38.86,Default,Ellie,0,0,0,,Aspak.
+Dialogue: 0,0:08:39.20,0:08:42.88,Default,Ellie,0,0,0,,Ky incident ishte thjesht\Npërgatitja, gjithsesi.
+Dialogue: 0,0:08:43.57,0:08:45.05,Default,Lucas,0,0,0,,Përgatitja?
+Dialogue: 0,0:08:45.46,0:08:48.01,Default,Ellie,0,0,0,,A nuk ta thashë?
+Dialogue: 0,0:08:48.01,0:08:51.18,Default,Ellie,0,0,0,,Do ta shtyp mbretërinë.
+Dialogue: 0,0:08:52.87,0:08:55.88,Default,Bulat,0,0,0,,Çfarë po thotë perandoria tani?
+Dialogue: 0,0:08:56.20,0:08:58.50,Default,Rosaria,0,0,0,,Ata duan që t'u dorëzojmë\Nnjerëzit e përfshirë
+Dialogue: 0,0:08:58.50,0:09:01.64,Default,Rosaria,0,0,0,,në rrethin e falsifikimit, me\Nnjë kërkim falje dhe kompensim.
+Dialogue: 0,0:09:01.92,0:09:06.02,Default,Bulet,0,0,0,,Natyrisht nuk mund t'u dorëzojmë\Nprincin e kurorës.
+Dialogue: 0,0:09:06.29,0:09:09.87,Default,Rosaria,0,0,0,,Atëherë do të kërkojnë\Nmë shumë në dëmshpërblim.
+Dialogue: 0,0:09:09.87,0:09:13.02,Default,Sieg,0,0,0,,Shqyrtova marrëveshjen e nënshkruar\Nnga princi ditën tjetër,
+Dialogue: 0,0:09:13.27,0:09:16.45,Default,Sieg,0,0,0,,dhe mendoj se është në fakt\Nmjaft e keqe për mbretërinë.
+Dialogue: 0,0:09:19.42,0:09:21.65,Default,Friede,0,0,0,,Baba, më thirre?
+Dialogue: 0,0:09:21.97,0:09:24.69,Default,Sieg,0,0,0,,Lartësia Juaj, kërkojini Zonjës Sylvia—
+Dialogue: 0,0:09:24.69,0:09:26.17,Default,Bulat,0,0,0,,Jo, në rregull është.
+Dialogue: 0,0:09:27.00,0:09:30.81,Default,Bulat,0,0,0,,Friede, e kupton çfarë ke bërë?
+Dialogue: 0,0:09:30.81,0:09:32.29,Default,Friede,0,0,0,,Çfarë është ajo?
+Dialogue: 0,0:09:33.08,0:09:35.84,Default,Bulat,0,0,0,,Falsifikimi i monedhës perandorake.
+Dialogue: 0,0:09:35.84,0:09:37.35,Default,Friede,0,0,0,,Falsifikim?
+Dialogue: 0,0:09:37.35,0:09:39.42,Default,Friede,0,0,0,,Kam frikë se nuk di asgjë për këtë çështje.
+Dialogue: 0,0:09:39.68,0:09:43.30,Default,Bulat,0,0,0,,Perandoria ka prova të konsiderueshme.
+Dialogue: 0,0:09:43.30,0:09:44.77,Default,Bulat,0,0,0,,Nuk mund të bësh sikur nuk e di.
+Dialogue: 0,0:09:45.90,0:09:48.76,Default,Bulat,0,0,0,,Këtë herë thjesht ke shkuar shumë larg.
+Dialogue: 0,0:09:48.76,0:09:50.50,Default,Bulat,0,0,0,,Nuk mund të të mbuloj.
+Dialogue: 0,0:09:51.22,0:09:53.70,Default,Bulat,0,0,0,,Kam marrë vendimin tim.
+Dialogue: 0,0:09:53.70,0:09:54.91,Default,Friede,0,0,0,,Baba?
+Dialogue: 0,0:09:55.37,0:09:59.08,Default,Bulat,0,0,0,,Po të heq të gjithë\Nautoritetin si princ i kurorës.
+Dialogue: 0,0:10:01.75,0:10:05.23,Default,Bulat,0,0,0,,Nga kjo pikë e tutje,\Nnuk je gjë tjetër veç një figurë.
+Dialogue: 0,0:10:05.23,0:10:08.85,Default,Bulat,0,0,0,,Çdo gjë që dëshiron të bësh\Ndo të duhet të kalojë nga Rosaria.
+Dialogue: 0,0:10:08.85,0:10:10.11,Default,Friede,0,0,0,,Kjo është absurde!
+Dialogue: 0,0:10:10.11,0:10:13.48,Default,Bulat,0,0,0,,Të kam dhënë më shumë se mjaft shanse.
+Dialogue: 0,0:10:13.48,0:10:15.13,Default,Friede,0,0,0,,Nuk mund të ma bësh këtë!
+Dialogue: 0,0:10:15.13,0:10:16.06,Default,Friede,0,0,0,,Unë—
+Dialogue: 0,0:10:16.06,0:10:17.60,Default,Bulat,0,0,0,,Mblidhni ministrat.
+Dialogue: 0,0:10:17.60,0:10:21.14,Default,Bulat,0,0,0,,Duhet të diskutojmë negociatat me\Nperandorinë dhe planet tona përpara.
+Dialogue: 0,0:10:21.40,0:10:23.85,Default,Bulat,0,0,0,,Sieg, Zonja Rosaria, ejani me mua.
+Dialogue: 0,0:10:25.42,0:10:26.66,Default,Friede,0,0,0,,Baba!
+Dialogue: 0,0:10:26.66,0:10:27.98,Default,Friede,0,0,0,,Të lutem, më lër të bashkohem—
+Dialogue: 0,0:10:27.98,0:10:30.02,Default,Bulat,0,0,0,,Nuk je i nevojshëm.
+Dialogue: 0,0:10:30.89,0:10:33.10,Default,Friede,0,0,0,,Të më heqësh autoritetin?
+Dialogue: 0,0:10:33.10,0:10:34.22,Default,Friede,0,0,0,,Një figurë?
+Dialogue: 0,0:10:34.81,0:10:35.95,Default,Friede,0,0,0,,Unë?
+Dialogue: 0,0:10:38.70,0:10:39.76,Default,Sylvia,0,0,0,,Lartësia Juaj...
+Dialogue: 0,0:10:40.88,0:10:44.13,Default,Friede,0,0,0,,Jam thjesht... një figurë?
+Dialogue: 0,0:10:49.39,0:10:54.88,Default,Mireille,0,0,0,,Zonja Ellie, kemi lajm se Barl ka\Nhyrë në territorin e Baronit Lockit.
+Dialogue: 0,0:10:55.20,0:11:00.10,Default,Ellie,0,0,0,,Friede do të zhvishet nga autoriteti\Npër incidentin e falsifikimit.
+Dialogue: 0,0:11:01.42,0:11:02.84,Default,Ellie,0,0,0,,Që do të thotë...
+Dialogue: 0,0:11:04.04,0:11:06.18,Default,Lampton,0,0,0,,Çfarë the?
+Dialogue: 0,0:11:06.18,0:11:07.72,Default,Rosaria,0,0,0,,A belbëzova?
+Dialogue: 0,0:11:07.99,0:11:12.28,Default,Rosaria,0,0,0,,Jeni zyrtarisht i hequr nga\Npozicioni i ministrit të financave.
+Dialogue: 0,0:11:12.28,0:11:13.51,Default,Lampton,0,0,0,,Kjo është absurde!
+Dialogue: 0,0:11:13.51,0:11:15.98,Default,Lampton,0,0,0,,A nuk e kupton gjithçka\Nqë kam bërë për familjen mbretërore—
+Dialogue: 0,0:11:15.98,0:11:19.15,Default,Rosaria,0,0,0,,Djali yt është përgjegjës për të gjithë këtë.
+Dialogue: 0,0:11:19.15,0:11:23.60,Default,Lampton,0,0,0,,I kam prerë lidhjet me atë budallan,\Ndhe kam paguar më se mjaft—
+Dialogue: 0,0:11:23.60,0:11:27.41,Default,Rosaria,0,0,0,,Ishe në dijeni të operacionit\Ndhe nuk the asgjë.
+Dialogue: 0,0:11:27.41,0:11:31.98,Default,Rosaria,0,0,0,,Do të zhvishesh nga fisnikëria,\Ndhe me gjasë do të burgosesh.
+Dialogue: 0,0:11:31.98,0:11:35.01,Default,Rosaria,0,0,0,,Sugjeroj t'i rregullosh punët e tua.
+Dialogue: 0,0:11:44.86,0:11:47.80,Default,Sylvia,0,0,0,,Zoti Friede, keni pirë mjaft.
+Dialogue: 0,0:11:47.80,0:11:49.08,Default,Friede,0,0,0,,Mbyllu!
+Dialogue: 0,0:11:49.08,0:11:51.64,Default,Friede,0,0,0,,Mbyllu dhe derdh më shumë verë!
+Dialogue: 0,0:11:51.64,0:11:55.60,Default,Friede,0,0,0,,Të gjithë këtu më shohin\Nme përçmim mua, princin e kurorës!
+Dialogue: 0,0:11:56.22,0:11:57.86,Default,Sylvia,0,0,0,,Sigurisht që po!
+Dialogue: 0,0:11:57.86,0:12:02.26,Default,Sylvia,0,0,0,,Ti je ai që gjithmonë ka dhënë\Ngjithçka për mbretërinë tënde!
+Dialogue: 0,0:12:02.64,0:12:03.79,Default,Friede,0,0,0,,Dreq!
+Dialogue: 0,0:12:11.12,0:12:12.88,Default,Sylvia,0,0,0,,Zoti Friede, ku po shkoni?!
+Dialogue: 0,0:12:12.88,0:12:14.18,Default,Friede,0,0,0,,Më lër i qetë!
+Dialogue: 0,0:12:16.60,0:12:20.13,Default,Friede,0,0,0,,Gjithsesi jam thjesht një figurë!
+Dialogue: 0,0:12:22.58,0:12:24.10,Default,Sylvia,0,0,0,,Çfarë po ndodh?
+Dialogue: 0,0:12:25.31,0:12:27.56,Default,Sylvia,0,0,0,,Kjo po shkon shumë keq...
+Dialogue: 0,0:12:28.32,0:12:30.47,flashback,Lockit,0,0,0,,Pra ti je Sylvia, hë?
+Dialogue: 0,0:12:30.47,0:12:32.97,flashback,Lockit,0,0,0,,Një vajzë e pëlqyeshme.
+Dialogue: 0,0:12:33.25,0:12:35.50,flashback,Baroness,0,0,0,,Duket si një fshatare injorante.
+Dialogue: 0,0:12:35.50,0:12:37.26,flashback,Baroness,0,0,0,,Sa e pisët dhe e neveritshme!
+Dialogue: 0,0:12:37.51,0:12:40.94,flashback,Half-Brother,0,0,0,,Pse të merresh me një të mjerë si ajo?
+Dialogue: 0,0:12:40.94,0:12:42.99,flashback,Half-Sister,0,0,0,,Shiko fustanin e saj të vjetër!
+Dialogue: 0,0:12:42.99,0:12:46.00,flashback,Half-Sister,0,0,0,,Nuk do të më shihnin kurrë\Nnë publik kështu!
+Dialogue: 0,0:12:48.59,0:12:50.58,flashback,Friede,0,0,0,,Dëgjoni, të gjithë!
+Dialogue: 0,0:12:51.07,0:12:53.03,flashback,Friede,0,0,0,,Deklaroj me këtë
+Dialogue: 0,0:12:53.03,0:12:58.46,flashback,Friede,0,0,0,,se tani jam i fejuar\Nme Zonjën Sylvia Lockit!
+Dialogue: 0,0:12:59.20,0:13:00.80,flashback,Lockit,0,0,0,,Bravo, Sylvia!
+Dialogue: 0,0:13:00.80,0:13:02.94,flashback,Lockit,0,0,0,,Kjo është vajza ime!
+Dialogue: 0,0:13:02.94,0:13:05.46,flashback,Baroness,0,0,0,,Vërtet e rrita mirë!
+Dialogue: 0,0:13:05.70,0:13:08.60,flashback,Half-Brother,0,0,0,,Sylvia, jam kaq krenar për\Nty si vëllai yt!
+Dialogue: 0,0:13:08.60,0:13:10.81,flashback,Half-Sister,0,0,0,,Dukesh e bukur, Motra!
+Dialogue: 0,0:13:12.54,0:13:16.09,Default,Sylvia,0,0,0,,Më në fund ia dola kundër tyre...
+Dialogue: 0,0:13:16.92,0:13:19.96,Default,Sylvia,0,0,0,,Nuk do ta lejoj ai ta prishë tani!
+Dialogue: 1,0:13:25.82,0:13:30.24,sign_generic,sign,0,0,0,,{\fnGeorgia\b1\bord0.75\fs24\pos(320,308)\fad(480,0)}Baronata e Lockit
+Dialogue: 0,0:13:25.82,0:13:30.24,sign_generic,sign,0,0,0,,{\fnGeorgia\b1\bord1\blur2\fs24\pos(320,308)\fad(480,0)\3c&H626262&}Baronata e Lockit
+Dialogue: 0,0:13:26.41,0:13:30.23,top,Barl,0,0,0,,Duket se qytetarët janë\Nnë prag të shpërthimit.
+Dialogue: 0,0:13:30.59,0:13:33.91,Default,Subordinate 1,0,0,0,,Po, Baroni Lockit tashmë kishte\Nvënë taksa të larta mbi zotërimin e tij
+Dialogue: 0,0:13:33.91,0:13:37.00,Default,Subordinate 1,0,0,0,,dhe i detyronte njerëzit\Ntë bënin punë të rënda,
+Dialogue: 0,0:13:37.00,0:13:39.46,Default,Subordinate 1,0,0,0,,ndërsa familja e tij jetonte\Nnë gji të luksit.
+Dialogue: 0,0:13:39.46,0:13:42.86,Default,Subordinate 1,0,0,0,,Vajza e tij, që shkoi në oborr,\Nështë e fejuar me princin e kurorës
+Dialogue: 0,0:13:42.86,0:13:45.12,Default,Subordinate 1,0,0,0,,dhe kjo vetëm sa e ka rënduar.
+Dialogue: 0,0:13:45.12,0:13:48.27,Default,Subordinate 2,0,0,0,,Gjithashtu nuk siguron mbrojtje\Ndhe përvetëson fonde për vete...
+Dialogue: 0,0:13:48.27,0:13:51.01,Default,Subordinate 2,0,0,0,,I gjithë vendi është një fuçi\Nbaruti gati të shpërthejë.
+Dialogue: 0,0:13:51.23,0:13:55.26,Default,Subordinate 1,0,0,0,,Grupi që kërkon shansin e duhur\Npër të udhëhequr një rebelim
+Dialogue: 0,0:13:53.37,0:13:55.02,top,Townsman A,0,0,0,,Hajdut i ndyrë!
+Dialogue: 0,0:13:55.26,0:13:57.71,Default,Subordinate 1,0,0,0,,po mbledh armë në atë magazinë.
+Dialogue: 0,0:13:58.52,0:14:01.33,Default,Barl,0,0,0,,Kohë e shkëlqyer. Armatimi?
+Dialogue: 0,0:14:01.33,0:14:02.72,Default,Subordinate 2,0,0,0,,Gjithçka në rregull.
+Dialogue: 0,0:14:04.39,0:14:08.25,Default,Subordinate 1,0,0,0,,Mban stemën e Shtëpisë Lockit.
+Dialogue: 0,0:14:11.04,0:14:12.54,Default,Resistance 1,0,0,0,,Ushtarë të Shtëpisë Lockit?!
+Dialogue: 0,0:14:12.84,0:14:15.12,Default,Resistance 2,0,0,0,,E pamundur! Si e dinin se ishim këtu?
+Dialogue: 0,0:14:18.26,0:14:21.30,Default,Resistance 1,0,0,0,,Dreq! Nuk kemi as shansin\Ntë shpjegohemi?!
+Dialogue: 0,0:14:21.57,0:14:23.33,Default,Barl,0,0,0,,Vritini të gjithë!
+Dialogue: 0,0:14:23.33,0:14:27.27,Default,Barl,0,0,0,,Urdhri i Baronit Lockit ishte\Ntë mos ikte askush!
+Dialogue: 0,0:14:27.27,0:14:29.43,Default,Barl,0,0,0,,Vritini të gjithë rebelët!
+Dialogue: 0,0:14:38.69,0:14:42.41,Default,Citizens,0,0,0,,Tirani i baronit nuk do të\Ntolerohet më!
+Dialogue: 0,0:14:42.41,0:14:45.17,Default,Citizens,0,0,0,,Vriteni baronin!
+Dialogue: 0,0:14:45.54,0:14:49.57,Default,Citizens,0,0,0,,Tirani i baronit nuk do të\Ntolerohet më!
+Dialogue: 0,0:14:49.57,0:14:52.31,Default,Citizens,0,0,0,,Vriteni baronin!
+Dialogue: 0,0:14:53.31,0:14:54.70,Default,Lunoa,0,0,0,,Direktorja Ellie!
+Dialogue: 0,0:14:54.70,0:14:57.83,Default,Lunoa,0,0,0,,Mostrat e parfumit të re\Njanë gati.
+Dialogue: 0,0:14:58.09,0:15:00.37,Default,Ellie,0,0,0,,Le t'i provojmë, atëherë!
+Dialogue: 0,0:15:02.49,0:15:05.08,Default,Subordinate 1,0,0,0,,Zemërimi i nënshtetasve është në kulm.
+Dialogue: 0,0:15:05.08,0:15:08.02,Default,Subordinate 1,0,0,0,,Kanë formuar një turmë që shkon\Ndrejt rezidencës së baronit.
+Dialogue: 0,0:15:08.54,0:15:09.75,Default,Barl,0,0,0,,Koha për të lëvizur.
+Dialogue: 0,0:15:10.09,0:15:12.34,Default,Citizens,0,0,0,,Vriteni baronin!
+Dialogue: 0,0:15:12.34,0:15:15.91,Default,Citizens,0,0,0,,Tirani i baronit nuk do të\Ntolerohet më!
+Dialogue: 0,0:15:15.91,0:15:18.59,Default,Citizens,0,0,0,,Vriteni baronin!
+Dialogue: 0,0:15:18.59,0:15:22.24,top,Citizens,0,0,0,,Tirani i baronit nuk do të\Ntolerohet më!
+Dialogue: 0,0:15:19.85,0:15:21.84,Default,Guard,0,0,0,,Tërhiquni! Tërhiquni!
+Dialogue: 0,0:15:24.68,0:15:27.92,Default,Barl,0,0,0,,Vëni zjarrin rezidencës dhe rrethinave.
+Dialogue: 0,0:15:27.92,0:15:31.74,Default,Barl,0,0,0,,Kur të vijë koha e duhur,\Nhapni portën për t'i lënë njerëzit të hyjnë.
+Dialogue: 0,0:15:31.74,0:15:32.74,Default,Subordinates,0,0,0,,Zotëri!
+Dialogue: 0,0:16:17.40,0:16:19.44,Default,Lockit,0,0,0,,Prit! Dëshironi para, apo jo?
+Dialogue: 0,0:16:19.44,0:16:21.07,Default,Lockit,0,0,0,,Do t'ju jap sa të doni!
+Dialogue: 0,0:16:21.39,0:16:24.74,Default,Lockit,0,0,0,,Qëndroni larg! Unë jam babai\Ni mbretëreshës së ardhshme!
+Dialogue: 0,0:16:25.07,0:16:26.63,Default,Lockit,0,0,0,,Më fal!
+Dialogue: 0,0:16:26.63,0:16:28.89,Default,Lockit,0,0,0,,Nuk do t'ju detyroj më të punoni!
+Dialogue: 0,0:16:28.89,0:16:31.16,Default,Lockit,0,0,0,,Do t'i ul taksat! Të lutem!
+Dialogue: 0,0:16:32.47,0:16:35.75,Default,Barl,0,0,0,,Më fal, por unë nuk jam nënshtetas i juaj.
+Dialogue: 0,0:16:35.75,0:16:38.35,Default,Barl,0,0,0,,Më thanë thjesht të të vras.
+Dialogue: 0,0:16:38.79,0:16:40.46,Default,Lockit,0,0,0,,K-Kush?!
+Dialogue: 0,0:16:41.53,0:16:43.55,Default,Barl,0,0,0,,Elizabeth Leiston.
+Dialogue: 0,0:16:44.06,0:16:45.77,Default,Lockit,0,0,0,,Z-Zonja Elizabeth?!
+Dialogue: 0,0:16:46.28,0:16:49.40,Default,Lockit,0,0,0,,Është e zemëruar që Sylvia i vodhi të fejuarin?
+Dialogue: 0,0:16:49.40,0:16:50.47,Default,Lockit,0,0,0,,E ke gabim!
+Dialogue: 0,0:16:50.47,0:16:54.73,Default,Lockit,0,0,0,,Nuk e urdhërova kurrë atë budallen\Ne bijës të luante me zemrën e princit!
+Dialogue: 0,0:16:54.73,0:16:56.27,Default,Lockit,0,0,0,,Nuk është faji im!
+Dialogue: 0,0:16:56.27,0:16:57.86,Default,Barl,0,0,0,,Mjaft fjalë.
+Dialogue: 0,0:17:04.95,0:17:06.58,Default,Ellie,0,0,0,,Gjithçka në rregull.
+Dialogue: 0,0:17:06.58,0:17:08.35,Default,Ellie,0,0,0,,E bërë mrekullisht.
+Dialogue: 0,0:17:09.25,0:17:10.89,Default,Citizens,0,0,0,,Ia dolëm!
+Dialogue: 0,0:17:10.89,0:17:12.33,Default,Citizens,0,0,0,,Rezidenca e tij po digjet!
+Dialogue: 0,0:17:12.33,0:17:14.95,Default,Citizens,0,0,0,,Po! Fituam!
+Dialogue: 0,0:17:14.95,0:17:16.79,Default,Citizens,0,0,0,,Le ta djegim edhe këtë!
+Dialogue: 0,0:17:21.62,0:17:25.09,Default,Barl,0,0,0,,Duket se zonjusha\Nështë goxha e çmendur gjithashtu.
+Dialogue: 0,0:17:29.69,0:17:34.81,italics,Sylvia,0,0,0,,Mendoj se do të ishte më mirë të martohesha\Nme ndonjë burrë të pasur në një vend të largët
+Dialogue: 0,0:17:34.81,0:17:38.10,italics,Sylvia,0,0,0,,sesa të qëndroja me\Nkëtë princ të paaftë.
+Dialogue: 0,0:17:38.82,0:17:41.98,italics,Sylvia,0,0,0,,Do të kthehem në\NBaronatën e Lockit pas disa ditësh.
+Dialogue: 0,0:17:41.98,0:17:44.06,italics,Sylvia,0,0,0,,Do të të tregoj më shumë atëherë.
+Dialogue: 0,0:17:45.68,0:17:46.76,Default,Sylvia,0,0,0,,Hyr.
+Dialogue: 0,0:17:48.65,0:17:51.71,Default,Maid,0,0,0,,Zonja Sylvia, një mesazh urgjent.
+Dialogue: 0,0:17:52.13,0:17:53.45,Default,Sylvia,0,0,0,,Urgjent?
+Dialogue: 0,0:18:05.72,0:18:07.53,Default,Sylvia,0,0,0,,Baronata e Lockit...
+Dialogue: 0,0:18:08.10,0:18:09.48,Default,Sylvia,0,0,0,,Jo...
+Dialogue: 0,0:18:09.91,0:18:14.49,Default,Sylvia,0,0,0,,Por atëherë... ku do të shkoj?
+Dialogue: 0,0:18:14.96,0:18:17.54,Default,Sylvia,0,0,0,,Nuk kam ku të shkoj.
+Dialogue: 0,0:18:18.09,0:18:20.90,Default,Sylvia,0,0,0,,Duhet të qëndroj... këtu?
+Dialogue: 0,0:18:21.46,0:18:23.69,Default,Sylvia,0,0,0,,Jo... jo...
+Dialogue: 0,0:18:24.00,0:18:27.49,Default,Sylvia,0,0,0,,Jo!
+Dialogue: 0,0:18:33.91,0:18:35.60,Default,Sylvia,0,0,0,,Ky është ferr.
+Dialogue: 0,0:18:37.16,0:18:40.55,Default,Mireille,0,0,0,,Me këtë përfundon raporti i Barl.
+Dialogue: 0,0:18:40.55,0:18:44.05,Default,Mireille,0,0,0,,Deri sa mbërriti letra, ai ishte\Ntashmë kthyer në kryeqytetin perandorak.
+Dialogue: 0,0:18:44.41,0:18:47.09,Default,Ellie,0,0,0,,Përgatit pagesën e premtuar.
+Dialogue: 0,0:18:47.09,0:18:48.46,Default,Mireille,0,0,0,,Sigurisht.
+Dialogue: 0,0:18:49.09,0:18:54.02,Default,Mireille,0,0,0,,Shumica besojnë se kaosi në\NBaronatën e Lockit lindi nga zemërimi i popullit;
+Dialogue: 0,0:18:54.02,0:18:59.07,Default,Mireille,0,0,0,,por disa besojnë se Mbretëria e Bashkuar\Ne Bishave e shkaktoi,
+Dialogue: 0,0:18:59.07,0:19:01.19,Default,Mireille,0,0,0,,duke e bërë të duket si çështje e brendshme.
+Dialogue: 0,0:19:02.63,0:19:05.42,Default,Ellie,0,0,0,,Po fillon mirë, të paktën.
+Dialogue: 0,0:19:07.24,0:19:09.29,Default,Barl,0,0,0,,Hej, Mireille.
+Dialogue: 0,0:19:09.71,0:19:12.30,Default,Barl,0,0,0,,Je i sigurt se kështu dëshiron t'i bësh gjërat?
+Dialogue: 0,0:19:12.58,0:19:14.30,Default,Mireille,0,0,0,,A ke problem me këtë?
+Dialogue: 0,0:19:14.30,0:19:16.07,Default,Barl,0,0,0,,Jo, asnjë problem këtu.
+Dialogue: 0,0:19:16.07,0:19:20.54,Default,Barl,0,0,0,,Si ti, isha në prag të vdekjes
+Dialogue: 0,0:19:20.81,0:19:23.47,Default,Barl,0,0,0,,kur zonjusha më shpëtoi.
+Dialogue: 0,0:19:23.47,0:19:27.58,Default,Barl,0,0,0,,Do të bëj çfarë të kërkojë.\NDo të vras këdo që ajo të kërkojë.
+Dialogue: 0,0:19:28.58,0:19:29.93,Default,Barl,0,0,0,,Por...
+Dialogue: 0,0:19:29.93,0:19:31.04,Default,Mireille,0,0,0,,Por?
+Dialogue: 0,0:19:31.56,0:19:36.26,Default,Barl,0,0,0,,Nëse kjo vazhdon shumë gjatë,\Nshpirti i saj do të thyhet.
+Dialogue: 0,0:19:37.00,0:19:40.92,Default,Barl,0,0,0,,Ajo ofron një dorë të mirë\Npër njerëzit në nevojë,
+Dialogue: 0,0:19:40.92,0:19:44.96,Default,Barl,0,0,0,,por kur vjen puna për hakmarrje,\Nnuk i intereson sa njerëz vdesin.
+Dialogue: 0,0:19:45.58,0:19:50.11,Default,Barl,0,0,0,,Nuk e kupton as vetë se\Nkëto dy gjëra nuk përputhen!
+Dialogue: 0,0:19:53.54,0:19:57.13,Default,Mireille,0,0,0,,E kam vënë re kontradiktën edhe unë.
+Dialogue: 0,0:19:57.72,0:20:00.59,Default,Mireille,0,0,0,,Por pasi hakmarrja e saj\Nkundër mbretërisë të mbarojë...
+Dialogue: 0,0:20:02.38,0:20:04.83,Default,Barl,0,0,0,,Nëse ajo digjet gjatë procesit?
+Dialogue: 0,0:20:06.36,0:20:10.25,Default,Barl,0,0,0,,Nëse faji që ka mbytur nën\Nnevojën për hakmarrje ngre kokën?
+Dialogue: 0,0:20:11.46,0:20:15.33,Default,Barl,0,0,0,,A do të jetë dikush atje ta mbështesë?
+Dialogue: 0,0:20:20.65,0:20:24.23,Default,Mireille,0,0,0,,Unë isha ai që e shtyva drejt hakmarrjes.
+Dialogue: 0,0:20:24.60,0:20:27.82,Default,Mireille,0,0,0,,Ndoshta nuk është vendi im ta them...
+Dialogue: 0,0:20:29.02,0:20:31.91,Default,Mireille,0,0,0,,Por, më shumë se çdo gjë tjetër,\Ndua që Zonja Ellie...
+Dialogue: 0,0:20:32.29,0:20:33.77,Default,Mireille,0,0,0,,të jetë e lumtur.
+Dialogue: 0,0:20:40.33,0:20:42.38,italics,Ellie,0,0,0,,Friede ka humbur pushtetin.
+Dialogue: 0,0:20:42.38,0:20:45.36,italics,Ellie,0,0,0,,Sylvia ka humbur atdheun e saj.
+Dialogue: 0,0:20:45.36,0:20:47.81,italics,Ellie,0,0,0,,Robert është i vdekur.
+Dialogue: 0,0:20:49.39,0:20:52.27,italics,Ellie,0,0,0,,Mendoj se po e kupton\Ntani...
+Dialogue: 0,0:20:53.38,0:20:57.40,italics,Rosaria,0,0,0,,Ndalo së përfshirë nënshtetasit\Ne pafajshëm të mbretërisë sonë në këtë.
+Dialogue: 0,0:20:58.31,0:21:03.11,italics,Rosaria,0,0,0,,Të vrasësh sa më shumë njerëz\Npër të arritur objektivin tënd...
+Dialogue: 0,0:21:03.11,0:21:08.31,italics,Rosaria,0,0,0,,Kjo është pikërisht ajo që bëjnë fisnikët\Negoistë që urren kaq shumë.
+Dialogue: 0,0:21:09.19,0:21:11.55,italics,Rosaria,0,0,0,,Nëse nuk ndalon këtu e tani,
+Dialogue: 0,0:21:11.55,0:21:14.29,italics,Rosaria,0,0,0,,ti je ajo që do të\Nvuash për këtë.
+Dialogue: 0,0:21:15.54,0:21:20.18,italics,Rosaria,0,0,0,,Pasi gjithçka të jetë thënë e bërë,\Ndo të duhet të shlyesh me jetën tënde.
+Dialogue: 0,0:21:20.78,0:21:24.66,italics,Rosaria,0,0,0,,Duke të njohur, jam i sigurt\Nse e ke marrë parasysh.
+Dialogue: 0,0:21:26.16,0:21:30.02,italics,Rosaria,0,0,0,,Je shumë i mirë për të qenë i keq.
+Dialogue: 0,0:21:35.44,0:21:39.50,Default,Lunoa,0,0,0,,Direktorja Ellie! Përgatitëm\Nide për kosmetikë të re!
+Dialogue: 0,0:21:39.50,0:21:42.31,Default,Mireille,0,0,0,,Të gjitha më duken shumë praktike.
+Dialogue: 0,0:21:42.31,0:21:44.78,Default,Misha,0,0,0,,Le të mendojmë edhe slogane!
+Dialogue: 0,0:21:44.78,0:21:46.01,Default,Ellie,0,0,0,,Sigurisht.
+Dialogue: 0,0:21:46.95,0:21:50.11,Default,Ellie,0,0,0,,Duket se do të jemi të zënë\Nnë vazhdim!
+Dialogue: 0,0:23:28.20,0:23:32.73,Default,Ellie,0,0,0,,Incidenti i falsifikimit do të ketë\Nshpërbërë besimin në familjen mbretërore.
+Dialogue: 0,0:23:32.73,0:23:35.48,Default,Ellie,0,0,0,,Mbretëria po bëhet\Ngjithnjë e më e izoluar.
+Dialogue: 0,0:23:37.03,0:23:39.72,Default,Ellie,0,0,0,,Por ka ende shumë për të ardhur...
+Dialogue: 0,0:23:41.00,0:23:43.40,Default,Ellie,0,0,0,,e hakmarrjes sime.
+

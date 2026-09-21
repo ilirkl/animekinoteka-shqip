@@ -1050,6 +1050,20 @@
       "assFile": "ass/at-691224.sq.ass",
       "offset": 0,
       "sourceReleaseId": "691224"
+    },
+    {
+      "id": "at-691275",
+      "title": "Buchigire Reijou wa Houfuku wo Chikaimashita.: Madousho no Chikara de Sokoku wo Tataki Tsubushimasu",
+      "episode": "12",
+      "malId": 62289,
+      "anilistId": 199408,
+      "slugs": [
+        "buchigire-reijou-wa-houfuku-wo-chikaimashita-madousho-no-chikara-de-sokoku-wo-tataki-tsubushimasu"
+      ],
+      "file": "files/at-691275.sq.vtt",
+      "assFile": "ass/at-691275.sq.ass",
+      "offset": 0,
+      "sourceReleaseId": "691275"
     }
   ]
 }
