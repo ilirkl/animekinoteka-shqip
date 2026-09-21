@@ -1004,6 +1004,20 @@
       "assFile": "ass/at-691245.sq.ass",
       "offset": 0,
       "sourceReleaseId": "691245"
+    },
+    {
+      "id": "at-691197",
+      "title": "Love Unseen Beneath the Clear Night Sky",
+      "episode": "12",
+      "malId": 62936,
+      "anilistId": 202269,
+      "slugs": [
+        "love-unseen-beneath-the-clear-night-sky-dfe0a"
+      ],
+      "file": "files/at-691197.sq.vtt",
+      "assFile": "ass/at-691197.sq.ass",
+      "offset": 0,
+      "sourceReleaseId": "691197"
     }
   ]
 }
