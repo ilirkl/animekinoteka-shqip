@@ -1,0 +1,490 @@
+﻿[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+YCbCr Matrix: TV.601
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Default - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Overlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback_Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Title,Arial,24,&H00000000,&H000000FF,&H5FFFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,18,18,70,0
+Style: Ep_Title,Arial,14,&H00171620,&H000000FF,&H00E8E8E8,&H00DBFAFE,-1,0,0,0,100,100,0,0,1,1.8,0,1,32,18,18,1
+Style: Sign,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,10,10,18,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.45,0:00:02.82,Italics,Isao,0,0,0,,Ito-chan! Gen-kun!
+Dialogue: 0,0:00:00.00,0:00:07.73,Sign,Sign,0,0,0,,{\fs9\fscx90\fnTimes New Roman\bord2\3c&HB5CFE2&\c&H575C66&\frz17.48\pos(313.428,102.285)}Shtëpi \Ne sigurt
+Dialogue: 0,0:00:02.82,0:00:04.91,Italics,Saho,0,0,0,,Faleminderit shumë për dhuratat!
+Dialogue: 0,0:00:04.91,0:00:07.73,Italics,Ito(M),0,0,0,,Të lutem, m'i fal mëkatet.
+Dialogue: 0,0:00:08.01,0:00:12.74,Italics,Ito(M),0,0,0,,Tani do të të them një gënjeshtër të madhe.
+Dialogue: 0,0:00:05.29,0:00:07.73,Default - Top,Isao,0,0,0,,{\i1}Si shkoi ekskursioni i shkollës?{\i0}
+Dialogue: 0,0:00:12.74,0:00:14.62,Default,Ito,0,0,0,,Ekskursioni ishte shumë argëtues.
+Dialogue: 0,0:00:14.62,0:00:16.91,Default,Ito,0,0,0,,Dhe nuk patëm asnjë incident.
+Dialogue: 0,0:00:16.91,0:00:18.56,Default,Gen,0,0,0,,Për çfarë po flet?
+Dialogue: 0,0:00:18.56,0:00:19.83,Default,Gen,0,0,0,,Ne patë{\i1}m një inc{\i0}ident.
+Dialogue: 0,0:00:20.66,0:00:22.13,Italics,Isao,0,0,0,,Çfarë? Çfarë?!
+Dialogue: 0,0:00:22.13,0:00:23.58,Italics,Isao,0,0,0,,Çfarë lloj incidenti?!
+Dialogue: 0,0:00:23.58,0:00:26.14,Default,Gen,0,0,0,,Yukitomo bëri që të na ndiqte një tufë drerësh.
+Dialogue: 0,0:00:26.14,0:00:27.23,Italics,Isao,0,0,0,,Drerë, thua?!
+Dialogue: 0,0:00:27.23,0:00:28.42,Italics,Isao,0,0,0,,Nuk je lënduar, apo jo?!
+Dialogue: 0,0:00:28.77,0:00:30.67,Italics,Isao,0,0,0,,Hej, je mirë?!
+Dialogue: 0,0:00:30.67,0:00:31.81,Default - Top,Isao,0,0,0,,{\i1}A ju gjakosën?{\i0}
+Dialogue: 0,0:00:31.03,0:00:32.76,Italics,Ito(M),0,0,0,,Nuk më besohet...
+Dialogue: 0,0:00:32.76,0:00:36.41,Italics,Ito(M),0,0,0,,Vërtet p{\i0}o e shij{\i1}on këtë?
+Dialogue: 0,0:00:42.18,0:00:45.64,Title,Sign,0,0,0,,{\fad(238,230)\blur1}Ju {\c&H7432D8&}lut{\c&H000000&}em {\c&H7432D8&}më f{\c&H000000&}al{\c&H7432D8&}ni{\c&H000000&}, vë{\c&H7432D8&}ll{\c&H000000&}ezë{\c&H7432D8&}ri{\c&H000000&}t e {\c&H7432D8&}mi t{\c&HAF4072&}ë v{\c&H7432D8&}egj{\c&H000000&}ël
+Dialogue: 0,0:02:08.69,0:02:11.06,Default,Gen,0,0,0,,Ti shqetësohesh tepër për çdo gjë.
+Dialogue: 0,0:02:11.06,0:02:12.29,Default,Gen,0,0,0,,Mblidhe veten.
+Dialogue: 0,0:02:12.29,0:02:13.26,Default,Gen,0,0,0,,Ti je motra më e madhe.
+Dialogue: 0,0:02:15.82,0:02:20.45,Ep_Title,Sign,0,0,0,,{\blur1\3c&HE8E8E8&\3a&H58&\fsp0.6\2a&HFF&\ko5}E{\ko5}p{\ko5}i{\ko5}s{\ko5}o{\ko5}d{\ko5}i 1{\ko5}2{\ko5}: {\ko5}L{\ko5}e {\ko5}t{\ko5}ë {\ko5}b{\ko5}i{\ko5}e{\ko5}n {\ko5}k{\ko5}u{\ko5}j{\c&HA27492&\ko5}t{\ko5}im{\c&H171620&\ko5}e{\ko5}t {\ko5}t{\c&H7339DD&\ko5}o{\c&H171620&\ko5}n{\ko5}a
+Dialogue: 0,0:02:13.26,0:02:15.82,Default,Ito,0,0,0,,Vetëm sepse e the në një m\Nënyrë aq keqkuptuese!
+Dialogue: 0,0:02:15.82,0:02:17.10,Default - Top,Ito,0,0,0,,Po e bën me qëllim, apo jo?
+Dialogue: 0,0:02:17.10,0:02:19.32,Default - Top,Ito,0,0,0,,Po përpiqesh qëllimis\Nht të më mbash në ankth!
+Dialogue: 0,0:02:19.32,0:02:20.45,Default - Top,Gen,0,0,0,,Më zbulove.
+Dialogue: 0,0:02:20.45,0:02:23.15,Default,Gen,0,0,0,,S'e përmbaj dot veten, se\Npse dua vëmendjen tënde.
+Dialogue: 0,0:02:23.15,0:02:25.45,Default,Gen,0,0,0,,Me sa duket, qenkam si\Nscon apo diçka e tillë.
+Dialogue: 0,0:02:26.16,0:02:28.21,Flashback,Ito,0,0,0,,Ti... siscon!
+Dialogue: 0,0:02:28.78,0:02:30.20,Italics,Ito(M),0,0,0,,Me sa duket, ende është i zemëruar për atë...
+Dialogue: 0,0:02:30.96,0:02:32.33,Default,Ito,0,0,0,,E kuptoj.
+Dialogue: 0,0:02:32.33,0:02:35.46,Default,Ito,0,0,0,,Mesa duket, pa dashje të bë\Nra të ndiheshe i vetmuar.
+Dialogue: 0,0:02:35.46,0:02:36.92,Default,Ito,0,0,0,,Motërza jote të kërkon falje, në rregull?
+Dialogue: 0,0:02:38.05,0:02:40.59,Default,Gen,0,0,0,,Mos u mbaj me të madh, brocon.
+Dialogue: 0,0:02:40.59,0:02:43.31,Default,Ito,0,0,0,,Ti, siscon, s'ke të dre\Njtë të më quash brocon.
+Dialogue: 0,0:02:43.31,0:02:45.68,Default,Ito,0,0,0,,Veç kësaj, kjo e imja quh\Net dashuri për familjen.
+Dialogue: 0,0:02:45.87,0:02:49.41,Default,Ito,0,0,0,,Sidoqoftë, \Ndua që të mos {\i1}flasësh më ku{\i0}rrë për atë.
+Dialogue: 0,0:02:49.41,0:02:52.35,Default,Ito,0,0,0,,A nuk ishe ti që the se me\Ns nesh s'ndodhi asgjë?
+Dialogue: 0,0:02:52.35,0:02:54.64,Default,Gen,0,0,0,,Vërtet s'di të bësh shaka, apo jo?
+Dialogue: 0,0:02:54.64,0:02:56.53,Default,Ito,0,0,0,,Shakatë duhet të jenë qesharake!
+Dialogue: 0,0:02:56.53,0:02:58.15,Default,Ito,0,0,0,,Bëje prapë dhe s'ka darkë!
+Dialogue: 0,0:03:00.15,0:03:03.26,Italics,Ito(M),0,0,0,,S'e mendoja se ishte tipi që do ta \Nçonte kaq larg një shaka të keqe.
+Dialogue: 0,0:03:03.26,0:03:04.35,Italics,Ito(M),0,0,0,,Çfarë fëmije!
+Dialogue: 0,0:03:06.81,0:03:08.16,Default,Girl,0,0,0,,Je më i keqi!
+Dialogue: 0,0:03:08.16,0:03:10.06,Default,Girl,0,0,0,,Derr tradhtar!
+Dialogue: 0,0:03:10.06,0:03:11.08,Default,Udagawa,0,0,0,,Çfarë?
+Dialogue: 0,0:03:11.08,0:03:14.59,Sign,Sign,0,0,0,,{\bord2\fs15\c&H305467&\3c&H6FA2BB&\t(2738,3030,\fsp-1)\pos(406,18)}Kafe me {\c&H7FAAC3&\3c&H3C5667&}qumësht
+Dialogue: 0,0:03:11.34,0:03:13.77,Default,Udagawa,0,0,0,,Por edhe ti po bën të njëjtën gjë.
+Dialogue: 0,0:03:14.59,0:03:17.50,Default,Udagawa,0,0,0,,Oh, mua s'më prish punë, e di?
+Dialogue: 0,0:03:17.50,0:03:20.14,Default,Udagawa,0,0,0,,Por ende s'i ke shkëputur far\Ne lidhjet me ish-in, apo jo?
+Dialogue: 0,0:03:21.34,0:03:22.97,Default,Udagawa,0,0,0,,Pra, çfarë do të bësh?
+Dialogue: 0,0:03:22.97,0:03:26.43,Default,Udagawa,0,0,0,,Mua më mjafton të jem djali i leverdishëm për ty.
+Dialogue: 0,0:03:27.06,0:03:28.63,Default,Girl,0,0,0,,Je fundërrinë!
+Dialogue: 0,0:03:29.46,0:03:30.19,Default,Udagawa,0,0,0,,Hë?
+Dialogue: 0,0:03:30.19,0:03:31.56,Default,Udagawa,0,0,0,,Pa shiko, Vëllai i Vogël-kun!
+Dialogue: 0,0:03:31.56,0:03:32.94,Default,Udagawa,0,0,0,,Kemi kohë pa u parë!
+Dialogue: 0,0:03:32.94,0:03:34.08,Default,Gen,0,0,0,,Ç'kemi.
+Dialogue: 0,0:03:34.49,0:03:36.12,Default,Udagawa,0,0,0,,Si është motra jote e madhe?
+Dialogue: 0,0:03:36.12,0:03:37.73,Default,Udagawa,0,0,0,,Po del me ndokënd?
+Dialogue: 0,0:03:37.73,0:03:39.44,Default,Gen,0,0,0,,S'është puna jote.
+Dialogue: 0,0:03:39.69,0:03:42.95,Default,Udagawa,0,0,0,,Me sa duket, s'do të dalë me \Naskënd sa kohë je ti pranë.
+Dialogue: 0,0:03:42.95,0:03:43.70,Default,Udagawa,0,0,0,,Apo jo,
+Dialogue: 0,0:03:43.92,0:03:45.46,Default,Udagawa,0,0,0,,Princi Siscon?
+Dialogue: 0,0:03:48.79,0:03:51.17,Default,Gen,0,0,0,,Kë po quan siscon?
+Dialogue: 0,0:03:51.17,0:03:52.70,Default,Udagawa,0,0,0,,Ups. U zemërove tani?
+Dialogue: 0,0:03:52.70,0:03:54.82,Default,Udagawa,0,0,0,,Por unë vetëm të vërtetën thashë.
+Dialogue: 0,0:03:54.82,0:03:55.86,Default,Gen,0,0,0,,Cila pjesë?
+Dialogue: 0,0:03:55.86,0:03:57.46,Default,Gen,0,0,0,,Ku ishte e vërteta në gjithë atë?!
+Dialogue: 0,0:03:57.46,0:04:01.42,Default,Udagawa,0,0,0,,Duket se acarohesh shumë sa her\Në përmend motrën tënde të madhe.
+Dialogue: 0,0:04:01.42,0:04:03.86,Default,Gen,0,0,0,,Po, sepse qartazi s'm\Nund të të zihet besë.
+Dialogue: 0,0:04:03.86,0:04:05.13,Default,Udagawa,0,0,0,,Au, au, au.
+Dialogue: 0,0:04:05.13,0:04:08.14,Default,Udagawa,0,0,0,,Është pak e çuditshme të rris\Nh ngjitur me të në këtë moshë.
+Dialogue: 0,0:04:08.14,0:04:10.56,Default,Udagawa,0,0,0,,Nuk mendon se edhe ajo do të \Nfillojë të mendojë kështu?
+Dialogue: 0,0:04:10.78,0:04:11.87,Default,Udagawa,0,0,0,,Si: «Uf, shpif.»
+Dialogue: 0,0:04:14.87,0:04:15.66,Default,Udagawa,0,0,0,,Çfarë ke?
+Dialogue: 0,0:04:21.22,0:04:22.09,Default,Gen,0,0,0,,Vërtet?
+Dialogue: 0,0:04:22.54,0:04:23.37,Default,Gen,0,0,0,,Shpif...?
+Dialogue: 0,0:04:25.32,0:04:26.84,Default,Udagawa,0,0,0,,Dukesh shumë i tronditur nga kjo.
+Dialogue: 0,0:04:26.84,0:04:29.64,Default,Udagawa,0,0,0,,Jam këtu nëse do të flasësh.
+Dialogue: 0,0:04:35.10,0:04:36.78,Default,Gen,0,0,0,,Atëherë ma plotëso këtë tekë.
+Dialogue: 0,0:04:36.78,0:04:39.34,Default,Gen,0,0,0,,Si duhet të sillet një vëlla i \Nvogël që të mos duket shpifës?
+Dialogue: 0,0:04:39.84,0:04:45.45,Default,Gen,0,0,0,,Çfarë bëjnë vallë 17-vjeçarët \Nqë shoqëria i quan «normalë»?
+Dialogue: 0,0:04:49.93,0:04:51.19,Default,All,0,0,0,,Një takim në grup?
+Dialogue: 0,0:04:51.19,0:04:53.92,Default,Gen,0,0,0,,Po. Më ftuan, prandaj do të shkoj.
+Dialogue: 0,0:04:54.49,0:04:56.18,Default,Gen,0,0,0,,Është kaq befasuese?
+Dialogue: 0,0:04:56.18,0:04:59.42,Default,Raku,0,0,0,,E di për çfarë shërbejnë takimet në grup?
+Dialogue: 0,0:04:59.42,0:05:00.81,Default,Gen,0,0,0,,E di.
+Dialogue: 0,0:05:00.81,0:05:03.28,Default,Gen,0,0,0,,Thjesht mblidheni dhe f\Nestoni a diçka e tillë.
+Dialogue: 0,0:05:03.28,0:05:05.22,Italics,Ito(M),0,0,0,,Ç'koncept i mjegullt që ka...
+Dialogue: 0,0:05:05.22,0:05:08.09,Italics,Raku(M),0,0,0,,Pse pranoi të shkon\Nte kur vetëm kaq di?
+Dialogue: 0,0:05:08.51,0:05:11.79,Default,Gen,0,0,0,,Domethënë, jam një 17-vjeçar normal, apo jo?
+Dialogue: 0,0:05:11.79,0:05:14.59,Default,Gen,0,0,0,,Do të ishte krejt normale t\Në kisha të dashur e të tjera,
+Dialogue: 0,0:05:14.59,0:05:16.96,Default,Gen,0,0,0,,dhe është krejt normale \Nta mendoj këtë, apo jo?
+Dialogue: 0,0:05:19.38,0:05:19.92,Sign,Sign,0,0,0,,{\fnTimes New Roman\bord0\c&H100F10&\pos(320,83.714)}Diskutim në vazhdim
+Dialogue: 0,0:05:20.37,0:05:21.31,Default,Raku,0,0,0,,Nee-san?
+Dialogue: 0,0:05:21.86,0:05:22.45,Default,Ito,0,0,0,,Po.
+Dialogue: 0,0:05:22.88,0:05:25.05,Default,Raku,0,0,0,,Do ta pyes troç.
+Dialogue: 0,0:05:25.40,0:05:27.30,Default,Raku,0,0,0,,Ndodhi diçka në ekskurs\Nionin e shkollës, apo jo?
+Dialogue: 0,0:05:27.30,0:05:29.39,Default,Ito,0,0,0,,Jo, nuk ndodhi asgjë e veçantë!
+Dialogue: 0,0:05:29.39,0:05:31.64,Default,Raku,0,0,0,,E kuptova. Pra, ndodhi diçka.
+Dialogue: 0,0:05:31.64,0:05:32.33,Default,Ito,0,0,0,,Si?!
+Dialogue: 0,0:05:32.73,0:05:35.89,Default,Raku,0,0,0,,Ai s'do të ndryshont\Ne papritur pa arsye.
+Dialogue: 0,0:05:35.89,0:05:38.52,Default,Raku,0,0,0,,Për më tepër, atmosfera mes jush k\Na qenë e çuditshme që kur u kthyet.
+Dialogue: 0,0:05:38.52,0:05:41.79,Default,Ito,0,0,0,,Domethënë, s'do të thosha \Nmedoemos se ndodhi diçka.
+Dialogue: 0,0:05:41.79,0:05:43.56,Default,Ito,0,0,0,,Ishte thjesht një aksident.
+Dialogue: 0,0:05:43.56,0:05:45.03,Default,Raku,0,0,0,,Ç'do të thuash me aksident?
+Dialogue: 0,0:05:45.26,0:05:46.78,Default,Raku,0,0,0,,Sikur u puthët?
+Dialogue: 0,0:05:48.54,0:05:52.03,Default,Raku,0,0,0,,Po bëj shaka, kjo do të ishte tepër e çmendur...
+Dialogue: 0,0:05:55.21,0:05:57.47,Default,Raku,0,0,0,,Prit, vërtet? E ke seriozisht?
+Dialogue: 0,0:05:57.47,0:05:59.11,Default,Raku,0,0,0,,Si mund të ndodhte diçka e tillë?
+Dialogue: 0,0:06:00.17,0:06:01.67,Sign,Sign,0,0,0,,{\fnTimes New Roman\bord0\c&H100F10&\pos(320,49.714)}Diskutim në vazhdim
+Dialogue: 0,0:06:02.21,0:06:03.86,Default,Raku,0,0,0,,E kuptoj.
+Dialogue: 0,0:06:04.38,0:06:06.63,Default,Ito,0,0,0,,Është faji im, apo jo?
+Dialogue: 0,0:06:06.63,0:06:09.63,Default,Ito,0,0,0,,Jam unë ajo që s'arrij \Ntë mendoj kthjellët.
+Dialogue: 0,0:06:09.63,0:06:12.11,Default,Raku,0,0,0,,Pak a shumë, ndoshta.
+Dialogue: 0,0:06:12.11,0:06:16.09,Italics,Ito(M),0,0,0,,Prapëseprapë, është shumë e çuditshme \Nqë papritur vrapoi në një takim në grup.
+Dialogue: 0,0:06:16.09,0:06:18.35,Italics,Ito(M),0,0,0,,Ndoshta fjalët e mia ishin tepër të ashpra.
+Dialogue: 0,0:06:19.29,0:06:20.27,Default,Raku,0,0,0,,Dhe?
+Dialogue: 0,0:06:20.27,0:06:21.86,Default,Raku,0,0,0,,Çfarë do të bësh?
+Dialogue: 0,0:06:21.86,0:06:23.58,Default,Ito,0,0,0,,Nuk do të bëj asgjë.
+Dialogue: 0,0:06:23.58,0:06:25.86,Default,Ito,0,0,0,,Nuk është se kam ndonj\Në të drejtë ta ndaloj.
+Dialogue: 0,0:06:25.86,0:06:28.86,Default,Ito,0,0,0,,Gjithashtu kam vendosur ta m\Nbikëqyr si motra e tij e madhe.
+Dialogue: 0,0:06:29.24,0:06:31.79,Default,Ito,0,0,0,,Edhe po t'i thosha çf\Narë mendoj për këtë,
+Dialogue: 0,0:06:31.79,0:06:34.09,Default,Ito,0,0,0,,ai thjesht do të mendonte se jam nj\Në motër bezdisëse dhe shpifëse.
+Dialogue: 0,0:06:34.09,0:06:35.17,Default,Raku,0,0,0,,Po, po.
+Dialogue: 0,0:06:35.17,0:06:37.98,Default,Ito,0,0,0,,Për më tepër, ndoshta ka \Nmiq që duhet t'i takojë.
+Dialogue: 0,0:06:37.98,0:06:41.29,Italics,Raku(M),0,0,0,,Ajo shprehje nuk po \Ne bën shumë bindëse.
+Dialogue: 0,0:06:41.77,0:06:44.00,Default,Raku,0,0,0,,Epo, s'mendoj se duhet t\Në shqetësohesh aq shumë.
+Dialogue: 0,0:06:44.49,0:06:47.38,Default,Raku,0,0,0,,Duket bukur, por ti e d\Ni si është nga brenda.
+Dialogue: 0,0:06:47.73,0:06:51.18,Sign,Sign,0,0,0,,{\fnComic Sans MS\fs14\frz13.87\pos(81.142,19.429)\3c&HF9FBF6&\c&H424542&\2a&HFF&\ko2.2}D{\ko2.2}j{\ko2.2}a{\ko2.2}l{\ko2.2}ë {\ko2.2}q{\ko2.2}ë {\ko2.2}n{\ko2.2}u{\c&H2A15EF&\ko2.2}k {\ko2.2}k{\c&H424542&} {\ko2.2}a {\ko2.2}a{\ko2.2}s{\ko2.2}p{\ko2.2}a{\ko2.2}k {\ko2.2}p{\ko2.2}ë{\ko2.2}rv{\ko2.2}o{\ko2.2}\N {\ko2.2}j{\ko2.2}ë {\ko2.2}m{\ko2.2}e {\ko2.2}s{\ko2.2}e{\ko2.2}k{\ko2.2}s{\ko2.2}i{\ko2.2}n {\ko2.2}e {\ko2.2}k{\ko2.2}u{\ko2.2}n{\ko2.2}d{\ko2.2}ë{\ko2.2}r{\ko2.2}t
+Dialogue: 0,0:06:47.80,0:06:51.18,Default,Raku,0,0,0,,Mendon se do të arrinte gjë me një v\Najzë normale që në takimin e parë?
+Dialogue: 0,0:06:51.34,0:06:53.13,Default,Ito,0,0,0,,Po. S'e përfytyroj dot.
+Dialogue: 0,0:06:51.53,0:06:53.76,Sign,Sign,0,0,0,,{\fnComic Sans MS\fs14\3c&HF9FBF6&\c&H424542&\frz347.5\pos(555.142,17.714)\2a&HFF&\ko2.6}D{\ko2.6}j{\ko2.6}a{\ko2.6}l{\ko2.6}ë {\ko2.6}q{\ko2.6}ë {\ko2.6}l{\ko2.6}ë p{\ko2.6}ë{\ko2.6}r{\ko2.6}\N{\ko2.6}s{\c&H2A15EF&\ko2.6}h{\ko2.6}t{\ko2.6}y{\ko2.6}p{\ko2.6}j{\ko2.6}e {\c&H424542&} {\ko2.6}t{\ko2.6}ë {\ko2.6}p{\ko2.6}a{\ko2.6}r{\ko2.6}ë {\ko2.6}të {\ko2.6}v{\ko2.6}r{\ko2.6}e{\ko2.6}n{\ko2.6}j{\ko2.6}t{\ko2.6}u{\ko2.6}r
+Dialogue: 0,0:06:53.76,0:06:56.70,Default,Raku,0,0,0,,S'ka mundësi të gjejë të dashur \Nnga një takim i thjeshtë në grup.
+Dialogue: 0,0:06:56.70,0:06:58.96,Default,Raku,0,0,0,,Do të vija bast gjithë menunë \Ne një restoranti familjar.
+Dialogue: 0,0:06:58.96,0:07:02.03,Default,Ito,0,0,0,,S'kishe pse ta shaje k\Naq rëndë vëllanë tënd.
+Dialogue: 0,0:07:02.77,0:07:04.30,Default,Yukitomo,0,0,0,,Më falni që ju lashë të prisnit!
+Dialogue: 0,0:07:04.30,0:07:05.38,Default,Yukitomo,0,0,0,,Çfarë po ndodh?
+Dialogue: 0,0:07:05.38,0:07:07.28,Default,Yukitomo,0,0,0,,Pse deshe të më takoje kaq papritur?
+Dialogue: 0,0:07:07.55,0:07:09.70,Default,Yukitomo,0,0,0,,Të kisha munguar aq shumë?
+Dialogue: 0,0:07:09.70,0:07:10.48,Default,Gen,0,0,0,,Jo.
+Dialogue: 0,0:07:10.48,0:07:13.12,Default,Gen,0,0,0,,Më thanë të ftoja edhe një person.
+Dialogue: 0,0:07:13.12,0:07:14.18,Default,Yukitomo,0,0,0,,Ç'do të thotë kjo?
+Dialogue: 0,0:07:14.18,0:07:15.64,Default,Udagawa,0,0,0,,Nuk ke dëgjuar?
+Dialogue: 0,0:07:15.64,0:07:17.13,Default,Udagawa,0,0,0,,Për takimin në grup.
+Dialogue: 0,0:07:18.50,0:07:20.54,Default,Yukitomo,0,0,0,,Ti je vërtet një...
+Dialogue: 0,0:07:20.54,0:07:22.41,Default,Yukitomo,0,0,0,,Duhej ta kishe thënë këtë para se—
+Dialogue: 0,0:07:22.41,0:07:23.87,Default,Udagawa,0,0,0,,Oh, erdhën!
+Dialogue: 0,0:07:25.04,0:07:27.61,Default,Yuki,0,0,0,,Uda-pon, sa kohë ka kaluar!
+Dialogue: 0,0:07:27.61,0:07:28.95,Default,Yuki,0,0,0,,Gëzohem që ju njoh!
+Dialogue: 0,0:07:28.95,0:07:30.30,Default,Yuki,0,0,0,,Unë jam Yukipero.
+Dialogue: 0,0:07:30.30,0:07:31.45,Default,Anmiki,0,0,0,,Unë jam Anmiki.
+Dialogue: 0,0:07:31.45,0:07:33.01,Default,Miyu,0,0,0,,Dhe unë jam Miyumiyu!
+Dialogue: 0,0:07:33.01,0:07:34.80,Default,Udagawa,0,0,0,,Sa kohë ka kaluar!
+Dialogue: 0,0:07:34.80,0:07:37.51,Default,Udagawa,0,0,0,,Hajde, prezantohuni.
+Dialogue: 0,0:07:39.98,0:07:41.29,Default,Gen,0,0,0,,Të duket supi.
+Dialogue: 0,0:07:41.91,0:07:44.55,Default,Yukipero,0,0,0,,Oh, a nuk je ti princi nga \Nfestivali kulturor?!
+Dialogue: 0,0:07:44.55,0:07:46.78,Default,Anmiki,0,0,0,,Edhe princat vijnë në takime në grup?!
+Dialogue: 0,0:07:47.58,0:07:48.90,Default,,0,0,0,,O Zot!
+Dialogue: 0,0:07:48.90,0:07:50.22,Italics,Ito(M),0,0,0,,Prit pak.
+Dialogue: 0,0:07:50.22,0:07:51.92,Default,Gen,0,0,0,,Epo, është hera ime e parë.
+Dialogue: 0,0:07:51.92,0:07:53.35,Default,Anmiki,0,0,0,,S'ka mundësi, hera e parë?
+Dialogue: 0,0:07:53.35,0:07:54.56,Default,Yukipero,0,0,0,,Çfarë debutimi i rëndësishëm.
+Dialogue: 0,0:07:54.56,0:07:56.32,Default,Yukipero,0,0,0,,Je i sigurt se mund të bashkohemi ne?
+Dialogue: 0,0:07:56.32,0:07:57.88,Italics,Ito(M),0,0,0,,Prit, prit, prit!
+Dialogue: 0,0:07:57.88,0:08:01.98,Italics,Ito(M),0,0,0,,Këto vajza këtu janë gjëja më e l\Nargët nga vajzat e zakonshme.
+Dialogue: 0,0:08:01.98,0:08:03.62,Default,Udagawa,0,0,0,,Mirë, të lëvizim.
+Dialogue: 0,0:08:03.62,0:08:06.34,Default,Yukipero,0,0,0,,Në rregull! Do ta marr at\Në princ me vete në shtëpi,
+Dialogue: 0,0:08:06.34,0:08:08.33,Default,Yukipero,0,0,0,,edhe sikur të jetë gjëja e fundit që bëj!
+Dialogue: 0,0:08:08.33,0:08:10.25,Italics,Ito(M),0,0,0,,Vendosmëria e saj është mbresëlënëse!
+Dialogue: 0,0:08:11.18,0:08:14.26,Default,Gen,0,0,0,,Pse duhet të shkoj diku me ty?
+Dialogue: 0,0:08:14.69,0:08:16.19,Italics,Ito(M),0,0,0,,Të lutem, mos iu përgjigj fjalë për fjalë!
+Dialogue: 0,0:08:16.19,0:08:18.22,Default,Yukitomo,0,0,0,,Um, a jam unë vërtet i nevojshëm?
+Dialogue: 0,0:08:18.22,0:08:18.77,Default,Yukitomo,0,0,0,,Jam?
+Dialogue: 0,0:08:18.77,0:08:19.95,Italics,Ito(M),0,0,0,,Por më vjen mirë.
+Dialogue: 0,0:08:19.95,0:08:23.77,Italics,Ito(M),0,0,0,,Nuk doja që ai të ishte tipi që \Nndikohet lehtë nga vajzat.
+Dialogue: 0,0:08:24.09,0:08:25.52,Italics,Ito(M),0,0,0,,Sidoqoftë, paç fat,
+Dialogue: 0,0:08:25.81,0:08:27.25,Italics,Ito(M),0,0,0,,vëllai im i vogël.
+Dialogue: 0,0:08:30.09,0:08:33.70,Default,Anmiki,0,0,0,,Ua, vërtet ke familje të madhe.
+Dialogue: 0,0:08:34.61,0:08:38.25,Default,Yukipero,0,0,0,,Po të ishe vëllai im i madh, do të \Ndashurohesha patjetër me ty!
+Dialogue: 0,0:08:42.65,0:08:44.25,Italics,Ito(M),0,0,0,,Kisha etje.
+Dialogue: 0,0:08:44.91,0:08:48.43,Italics,Ito(M),0,0,0,,Blerjet më lodhën dhe rastësi\Nsht më duhej diçka freskuese.
+Dialogue: 0,0:08:49.53,0:08:52.17,Italics,Ito(M),0,0,0,,Rastisi që ata erdhën në të nj\Nëjtin restorant ku hyra unë.
+Dialogue: 0,0:08:52.95,0:08:54.63,Italics,Ito(M),0,0,0,,Vetëm kaq është.
+Dialogue: 0,0:08:54.63,0:08:58.64,Italics,Ito(M),0,0,0,,S'kam asnjë problem nëse di\Nkush e merr Genin në shtëpi.
+Dialogue: 0,0:08:58.64,0:09:02.23,Default,Yumiyumi,0,0,0,,Sa më shumë të shoh, Princ, aq më \Ntepër kuptoj se je tamam tipi im.
+Dialogue: 0,0:09:02.23,0:09:04.43,Default,Yumiyumi,0,0,0,,Ndoshta do të dashu\Nrohem vërtet me ty!
+Dialogue: 0,0:09:04.43,0:09:05.94,Italics,Ito(M),0,0,0,,Më fal?!
+Dialogue: 0,0:09:06.24,0:09:08.87,Italics,Ito(M),0,0,0,,Nuk dua që anët e tij të mira t'\Ni kufizojnë vetëm te pamja!
+Dialogue: 0,0:09:08.87,0:09:12.15,Italics,Ito(M),0,0,0,,Nuk dua të flasin sikur e ve\Ntmja gjë që ka është pamja!
+Dialogue: 0,0:09:13.27,0:09:16.32,Default,Gen,0,0,0,,Mjaft e guximshme t'ia thuas\Nh këtë dikujt që sapo e takove.
+Dialogue: 0,0:09:16.32,0:09:19.05,Default,Yumiyumi,0,0,0,,Oh jo, sapo mora një kompliment?
+Dialogue: 0,0:09:19.05,0:09:21.44,Default,Yukipero,0,0,0,,S'është e drejtë, dua edhe unë komplimente!
+Dialogue: 0,0:09:21.44,0:09:22.33,Default,Gen,0,0,0,,Hej.
+Dialogue: 0,0:09:23.03,0:09:24.81,Default,Gen,0,0,0,,Ke diçka këtu.
+Dialogue: 0,0:09:27.50,0:09:29.75,Default,Gen,0,0,0,,Më fal. Zakon i keq.
+Dialogue: 0,0:09:32.53,0:09:33.59,Default,Yukipero,0,0,0,,U dashurova!
+Dialogue: 0,0:09:35.70,0:09:40.10,Italics,Ito(M),0,0,0,,Mos më thuaj që vëllai ynë i vogël ësh\Ntë vërtet shumë i zoti në këto takime?
+Dialogue: 0,0:09:40.77,0:09:44.60,Default,Udagawa,0,0,0,,Vëllai yt i vogël është rimishërimi i nd\Nonjë prezantuesi legjendar apo çfarë?
+Dialogue: 0,0:09:45.88,0:09:47.01,Default,Ito,0,0,0,,Ke ngatërruar person.
+Dialogue: 0,0:09:47.94,0:09:51.30,Default,Udagawa,0,0,0,,Hej, hej, meqë je tashmë këtu\N, pse nuk bashkohesh edhe ti?
+Dialogue: 0,0:09:51.30,0:09:52.22,Default,Ito,0,0,0,,Jo, faleminderit.
+Dialogue: 0,0:09:52.22,0:09:53.63,Default,Ito,0,0,0,,Po kthehem nga blerjet.
+Dialogue: 0,0:09:53.63,0:09:54.91,Default,Udagawa,0,0,0,,Të gjitha gënjeshtra.
+Dialogue: 0,0:09:54.91,0:09:57.40,Default,Udagawa,0,0,0,,E di se gati po shpër\Ntheje nga meraku.
+Dialogue: 0,0:09:57.73,0:09:59.86,Default,Udagawa,0,0,0,,The se vetëm do ta mbikëqyrje,
+Dialogue: 0,0:09:59.86,0:10:01.53,Default,Udagawa,0,0,0,,por ja ku je tani.
+Dialogue: 0,0:10:01.85,0:10:05.69,Default,Udagawa,0,0,0,,Dukesh sikur po pla\Ns nga xhelozia tani.
+Dialogue: 0,0:10:06.45,0:10:09.76,Default,Udagawa,0,0,0,,Përfytyro sikur ai ta shihte fytyrën tënde tani.
+Dialogue: 0,0:10:10.07,0:10:12.26,Default,Ito,0,0,0,,Pse po sillesh kaq keq me mua?
+Dialogue: 0,0:10:12.71,0:10:14.78,Default,Ito,0,0,0,,E di tashmë.
+Dialogue: 0,0:10:14.78,0:10:16.98,Default,Ito,0,0,0,,Që jam plot kundërthënie.
+Dialogue: 0,0:10:16.98,0:10:18.87,Default,Ito,0,0,0,,Por ç'rëndësi ka?
+Dialogue: 0,0:10:18.87,0:10:21.85,Default,Ito,0,0,0,,Nuk është se ëndërroj të bëhem e \Ndashura e tij apo diçka e tillë.
+Dialogue: 0,0:10:23.21,0:10:26.73,Italics,Ito(M),0,0,0,,Vërtet s'duhet të dashurohe\Nsh me vëllanë tënd më të vogël.
+Dialogue: 0,0:10:27.08,0:10:29.33,Italics,Ito(M),0,0,0,,Do të arrish në një pikë ku s'do të m\Nund të vazhdosh as të pretendosh
+Dialogue: 0,0:10:29.33,0:10:31.19,Italics,Ito(M),0,0,0,,se je «motra më e madhe».
+Dialogue: 0,0:10:31.74,0:10:35.34,Default,Ito,0,0,0,,A kërkoj tepër që të më lejohet të b\Nëhem xheloze si një vajzë normale,
+Dialogue: 0,0:10:35.34,0:10:37.19,Default,Ito,0,0,0,,të paktën aty ku ai s'mund ta marrë vesh?
+Dialogue: 0,0:10:39.60,0:10:41.67,Italics,Ito(M),0,0,0,,Gjithçka më bën të lëkundem e të bërtas,
+Dialogue: 0,0:10:41.67,0:10:44.34,Italics,Ito(M),0,0,0,,unë jam ajo që po sillet si fëmijë.
+Dialogue: 0,0:10:45.58,0:10:48.32,Default,Udagawa,0,0,0,,Um, mirë, më fal.
+Dialogue: 0,0:10:48.32,0:10:51.13,Default,Udagawa,0,0,0,,Nuk kisha ndër mend të silles\Nha keq me ty apo diçka e tillë.
+Dialogue: 0,0:10:51.13,0:10:53.74,Default,Udagawa,0,0,0,,Thjesht u gëzova shumë që të pashë, kaq.
+Dialogue: 0,0:10:54.50,0:10:55.37,Default,Ito,0,0,0,,Më fal?
+Dialogue: 0,0:11:00.41,0:11:01.65,Default,Udagawa,0,0,0,,Ah, dreq.
+Dialogue: 0,0:11:01.65,0:11:04.51,Default,Udagawa,0,0,0,,Kisha shumë turp të të a\Nfrohesha normalisht.
+Dialogue: 0,0:11:04.51,0:11:05.68,Default,Udagawa,0,0,0,,{\i1}Unë, e k{\i0}upton?!
+Dialogue: 0,0:11:06.81,0:11:09.05,Default,Udagawa,0,0,0,,E gjithë arsyeja pse e ftova \Nvëllanë tënd të vogël ishte
+Dialogue: 0,0:11:09.05,0:11:12.69,Default,Udagawa,0,0,0,,sepse shpresoja që në fund ne të t\Nakoheshim diku gjatë rrugës...
+Dialogue: 0,0:11:13.35,0:11:16.19,Default,Gen,0,0,0,,Hej, e dija që po kurdisje diçka.
+Dialogue: 0,0:11:16.19,0:11:17.50,Default,Gen,0,0,0,,Ti, mi i poshtër.
+Dialogue: 0,0:11:18.57,0:11:22.20,Default,Gen,0,0,0,,Ishe aq i dobishëm sa di\Nçka m'u duk e dyshimtë.
+Dialogue: 0,0:11:22.20,0:11:24.92,Default,Udagawa,0,0,0,,Çfarë do të thuash vallë?
+Dialogue: 0,0:11:24.92,0:11:26.66,Default,Gen,0,0,0,,Mos u përpiq të më gënjesh.
+Dialogue: 0,0:11:26.66,0:11:28.96,Default,Gen,0,0,0,,E di që s'e ke harrua\Nr atë që të thashë.
+Dialogue: 0,0:11:28.96,0:11:30.54,Default,Udagawa,0,0,0,,Më the diçka?
+Dialogue: 0,0:11:34.08,0:11:36.35,Default,Gen,0,0,0,,Atëherë mbaje mend këtë herë.
+Dialogue: 0,0:11:36.35,0:11:39.94,Default,Gen,0,0,0,,Mendohu mirë para se ta sorol\Nlatësh për argëtimin tënd.
+Dialogue: 0,0:11:41.06,0:11:41.80,Default,Gen,0,0,0,,Hej.
+Dialogue: 0,0:11:41.80,0:11:42.87,Default,Gen,0,0,0,,Po shkojmë në shtëpi.
+Dialogue: 0,0:11:42.87,0:11:45.33,Default,Ito,0,0,0,,Um, ishe në mes të takimit në grup.
+Dialogue: 0,0:11:46.64,0:11:48.81,Default,Gen,0,0,0,,Gjithsesi, u thashë se po largohesha.
+Dialogue: 0,0:11:49.11,0:11:51.81,Default,Gen,0,0,0,,Përveç kësaj, fakti që na shiko\Nn ti është shumë shpërqendrues.
+Dialogue: 0,0:11:52.08,0:11:53.32,Italics,Ito(M),0,0,0,,Më vuri re.
+Dialogue: 0,0:11:53.85,0:11:54.99,Default,Gen,0,0,0,,Ore.
+Dialogue: 0,0:11:54.99,0:11:58.39,Default,Gen,0,0,0,,Edhe një i verbër do të të vinte re d\Nuke i ndjekur me një rrepë daikon.
+Dialogue: 0,0:11:59.25,0:12:01.06,Default,Ito,0,0,0,,Vërtet nuk po të shikoja.
+Dialogue: 0,0:12:01.84,0:12:04.90,Default,Ito,0,0,0,,Thjesht rastisi që të pashë \Ngjatë kthimit nga blerjet.
+Dialogue: 0,0:12:06.68,0:12:09.08,Default,Ito,0,0,0,,Vërtet pashë andej vetëm një a dy herë.
+Dialogue: 0,0:12:09.08,0:12:12.18,Default,Ito,0,0,0,,Shqetësohesha nëse arrite t\Në prezantoheshe e të tjera.
+Dialogue: 0,0:12:12.52,0:12:15.89,Default,Ito,0,0,0,,Domethënë, nuk dukesh si\Nkur flet shpesh me vajza,
+Dialogue: 0,0:12:15.89,0:12:19.24,Default,Ito,0,0,0,,prandaj mendova se ndoshta mu\Nnd të të ndihmoja po të ngecje.
+Dialogue: 0,0:12:27.37,0:12:30.56,Default,Gen,0,0,0,,Seriozisht, sa shumë më do?
+Dialogue: 0,0:12:31.79,0:12:34.89,Italics,Ito(M),0,0,0,,Pse duket kaq i vetëkënaqur dhe i sigurt?
+Dialogue: 0,0:12:41.17,0:12:44.72,Italics,Ito(M),0,0,0,,Dhe ja ku jam, duke vuajtur, \Nvuajtur e vuajtur përsëri.
+Dialogue: 0,0:12:44.72,0:12:47.39,Italics,Ito(M),0,0,0,,Më duket se kam vuajtur \Nsa për një jetë të tërë.
+Dialogue: 0,0:12:52.20,0:12:54.57,Default,Ito,0,0,0,,Hej. Nëse gjithses\Ni do të ikje në mes,
+Dialogue: 0,0:12:54.57,0:12:56.63,Default,Ito,0,0,0,,pse shkove fare në takimin në grup?
+Dialogue: 0,0:12:56.63,0:12:57.71,Default,Gen,0,0,0,,Mos u përziej.
+Dialogue: 0,0:12:57.71,0:12:59.06,Default,Gen,0,0,0,,Thjesht më erdhi.
+Dialogue: 0,0:13:02.20,0:13:03.22,Default,Ito,0,0,0,,Pra, um...
+Dialogue: 0,0:13:03.22,0:13:05.22,Default,Gen,0,0,0,,Çfarë?!
+Dialogue: 0,0:13:05.68,0:13:07.92,Default,Ito,0,0,0,,Vetëm që të mos ketë keqkuptime,
+Dialogue: 0,0:13:07.92,0:13:11.06,Default,Ito,0,0,0,,dua ta dish se s'kam nd\Nër mend të të pengoj.
+Dialogue: 0,0:13:11.72,0:13:16.05,Default,Ito,0,0,0,,Nëse pe ndonjë mundësi mes \Nkandidateve që takove sot,
+Dialogue: 0,0:13:16.05,0:13:17.48,Default,Ito,0,0,0,,do të të mbështes.
+Dialogue: 0,0:13:17.48,0:13:18.69,Default,Gen,0,0,0,,Mos.
+Dialogue: 0,0:13:19.19,0:13:23.47,Default,Gen,0,0,0,,Sidoqoftë, sot vetëm ma ripohoi se \Najo lloj dashurie s'është për mua.
+Dialogue: 0,0:13:23.97,0:13:25.53,Default,Gen,0,0,0,,Pikë së pari, s'e kuptoj pse
+Dialogue: 0,0:13:25.53,0:13:28.53,Default,Gen,0,0,0,,duhet ta detyrosh veten të ndie\Nsh diçka për dikë që sapo takove.
+Dialogue: 0,0:13:28.97,0:13:32.27,Default,Gen,0,0,0,,Do të vendos vetë si ndih\Nem për dikë, kur të dua.
+Dialogue: 0,0:13:33.23,0:13:34.47,Default,Ito,0,0,0,,E kuptoj.
+Dialogue: 0,0:13:34.47,0:13:37.03,Default,Ito,0,0,0,,Kjo është një përgjigje tama\Nm si e jotja. Çfarë lehtësimi.
+Dialogue: 0,0:13:37.76,0:13:38.81,Default,Ito,0,0,0,,Më fal.
+Dialogue: 0,0:13:38.81,0:13:40.00,Default,Ito,0,0,0,,Sepse pu—
+Dialogue: 0,0:13:40.85,0:13:44.51,Default,Ito,0,0,0,,Domethënë, aksidenti, më ka \Nmunduar gjatë gjithë kohës.
+Dialogue: 0,0:13:44.76,0:13:46.49,Default,Ito,0,0,0,,Me sa duket, u mundove
+Dialogue: 0,0:13:46.49,0:13:49.65,Default,Ito,0,0,0,,të shkoje në një takim në grup vetëm që gjëra\Nt të mos ndiheshin kaq të sikletshme këtu.
+Dialogue: 0,0:13:50.19,0:13:51.45,Default,Ito,0,0,0,,Pra, domethënë...
+Dialogue: 0,0:13:52.65,0:13:55.27,Default,Ito,0,0,0,,S'duhet ta teprosh, ose më saktë...
+Dialogue: 0,0:13:56.17,0:13:59.61,Default,Ito,0,0,0,,Nuk dua që papritur të si\Nllesh ndryshe nga vetja.
+Dialogue: 0,0:14:00.42,0:14:06.61,Default,Ito,0,0,0,,Dua të vazhdosh të jesh Gen\Ni që njoh. Kështu ndihem.
+Dialogue: 0,0:14:09.62,0:14:11.18,Default,Ito,0,0,0,,Hej, çfarë po bën?!
+Dialogue: 0,0:14:11.18,0:14:12.88,Default,Ito,0,0,0,,Ajo është për darkën tonë sonte!
+Dialogue: 0,0:14:12.88,0:14:14.36,Default,Gen,0,0,0,,Më rrëshqiti dora.
+Dialogue: 0,0:14:14.36,0:14:17.63,Default,Ito,0,0,0,,Ah. Mirë, sigurohu ta la\Nsh para se ta përdorësh.
+Dialogue: 0,0:14:18.84,0:14:21.32,Default,Gen,0,0,0,,{\fs18}Sepse fillove të thoshe gj\Nëra të çuditshme nga hiçi.
+Dialogue: 0,0:14:21.32,0:14:22.44,Default,Ito,0,0,0,,Çfarë ishte ajo?
+Dialogue: 0,0:14:22.44,0:14:23.71,Default,Ito,0,0,0,,The gjë?
+Dialogue: 0,0:14:33.97,0:14:37.35,Default,Gen,0,0,0,,Hej, mos u përqendro vetëm te g\Njërat atje. Ndihmo edhe këtu!
+Dialogue: 0,0:14:37.60,0:14:39.10,Default,Ito,0,0,0,,Po vij!
+Dialogue: 0,0:14:39.10,0:14:42.71,Default,Gen,0,0,0,,Nëse nuk nxiton, do të \Nkthehen mami dhe babi.
+Dialogue: 0,0:14:42.71,0:14:45.12,Default,Gen,0,0,0,,Kemi ende gjëra për të bërë.
+Dialogue: 0,0:14:45.12,0:14:46.73,Default,Ito,0,0,0,,Vërtet?
+Dialogue: 0,0:14:46.73,0:14:48.97,Default,Ito,0,0,0,,Po e bëjmë këtë që javën e kaluar.
+Dialogue: 0,0:14:48.97,0:14:51.48,Default,Gen,0,0,0,,O bëje siç duhet, o mos e bëj fare.
+Dialogue: 0,0:14:51.48,0:14:53.82,Default,Gen,0,0,0,,Kjo ndodh vetëm një herë në vit.
+Dialogue: 0,0:14:55.44,0:14:56.87,Default,Gen,0,0,0,,Ajo duket shtrembër.
+Dialogue: 0,0:14:57.14,0:14:58.10,Default,Gen,0,0,0,,Bëje përsëri.
+Dialogue: 0,0:14:59.61,0:15:04.48,Italics,Ito(M),0,0,0,,Megjithatë, është e çuditshme që të \Ngjithë janë kaq të dhënë pas kësaj.
+Dialogue: 0,0:15:04.48,0:15:05.43,Default,Gen,0,0,0,,Gabim.
+Dialogue: 0,0:15:05.43,0:15:06.38,Default,Gen,0,0,0,,Jo atje.
+Dialogue: 0,0:15:06.38,0:15:08.63,Default,Ito,0,0,0,,Atëherë ku duhet?!
+Dialogue: 0,0:15:08.63,0:15:10.56,Default,Gen,0,0,0,,Vëre më lart!
+Dialogue: 0,0:15:15.39,0:15:16.27,Default,Rui,0,0,0,,Hej, atje!
+Dialogue: 0,0:15:16.27,0:15:17.93,Default,Rui,0,0,0,,Mos bëni gjithë ato ledhatime!
+Dialogue: 0,0:15:17.93,0:15:20.12,Default,Ito,0,0,0,,Nuk po ledhatoheshim!
+Dialogue: 0,0:15:20.12,0:15:21.54,Default,Rui,0,0,0,,Fytyrën e ke shumë të kuqe.
+Dialogue: 0,0:15:23.86,0:15:25.63,Default,Shu,0,0,0,,Prindërit u kthyen!
+Dialogue: 0,0:15:27.69,0:15:30.43,Default,Isao,0,0,0,,Gëzuar Krishtlindjen, fëmijë!
+Dialogue: 0,0:15:30.43,0:15:33.20,Default,Isao,0,0,0,,Le të ngremë një dolli për këto dhje\Ntë ditë të mrekullueshme pushimi!
+Dialogue: 0,0:15:33.20,0:15:35.71,Default,All,0,0,0,,Gëzuar Krishtlindjen!
+Dialogue: 0,0:15:36.20,0:15:38.62,Default,Raku,0,0,0,,Jam i habitur që arrite të m\Nerrje dhjetë ditë pushim.
+Dialogue: 0,0:15:38.62,0:15:41.04,Default,Saho,0,0,0,,U përpoq vërtet shumë, apo jo, Isao-san?
+Dialogue: 0,0:15:41.04,0:15:45.09,Default,Isao,0,0,0,,Vazhdova të punoja gjatë festave, që \Ntë kisha ditë shtesë në fund të vitit.
+Dialogue: 0,0:15:45.09,0:15:47.09,Default,Shu,0,0,0,,Faleminderit.
+Dialogue: 0,0:15:48.09,0:15:50.20,Default,Isao,0,0,0,,Vërtet duhet t'ju falënderoj të gjithëve.
+Dialogue: 0,0:15:50.75,0:15:54.13,Default,Isao,0,0,0,,E di që këtë vit ju k\Nam kërkuar shumë.
+Dialogue: 0,0:15:54.59,0:15:57.66,Default,Isao,0,0,0,,E megjithatë, si gjithmo\Nnë më pritni kaq ngrohtë.
+Dialogue: 0,0:15:57.66,0:16:01.10,Default,Isao,0,0,0,,Vërtet jam babai më me fat në botë.
+Dialogue: 0,0:16:01.54,0:16:03.10,Default,Rui,0,0,0,,Sigurisht!
+Dialogue: 0,0:16:03.50,0:16:07.15,Default,Rui,0,0,0,,Duhet të sillemi mirë me ty, që Sant\Na-san të na sjellë dhurata të mira.
+Dialogue: 0,0:16:07.15,0:16:07.89,Default,Raku,0,0,0,,Shh!
+Dialogue: 0,0:16:08.86,0:16:09.76,Default,Isao,0,0,0,,Çfarë?
+Dialogue: 0,0:16:09.76,0:16:13.19,Default,Raku,0,0,0,,Sidoqoftë, mjaft me b\Nisedat serioze tani.
+Dialogue: 0,0:16:13.19,0:16:14.61,Default,Gen,0,0,0,,Të hamë.
+Dialogue: 0,0:16:14.89,0:16:16.30,Default,Gen,0,0,0,,Kam uri.
+Dialogue: 0,0:16:16.30,0:16:16.87,Default,Raku,0,0,0,,Hej.
+Dialogue: 0,0:16:17.15,0:16:19.37,Default,Raku,0,0,0,,E more atë nga pjata ime.
+Dialogue: 0,0:16:19.37,0:16:22.81,Italics,Ito(M),0,0,0,,Oh, pra gjithë ai entuzi\Nazëm ishte për dhuratat.
+Dialogue: 0,0:16:20.22,0:16:21.33,Default - Top,Gen,0,0,0,,Nuk e mora.
+Dialogue: 0,0:16:21.33,0:16:22.15,Default - Top,Raku,0,0,0,,Patjetër që e more.
+Dialogue: 0,0:16:22.15,0:16:23.20,Default - Top,Gen,0,0,0,,Nuk e mora!
+Dialogue: 0,0:16:23.20,0:16:24.75,Default,Rui,0,0,0,,Më shumë mish!
+Dialogue: 0,0:16:23.20,0:16:25.70,Default - Top,Raku,0,0,0,,Atëherë ku është imi?
+Dialogue: 0,0:16:24.75,0:16:26.49,Default,Isao,0,0,0,,Ha edhe perimet.
+Dialogue: 0,0:16:26.49,0:16:27.32,Default,Rui,0,0,0,,Jo!
+Dialogue: 0,0:16:28.46,0:16:31.55,Italics,Ito(M),0,0,0,,Mesa duket, kështu janë Krisht\Nlindjet me një familje të madhe.
+Dialogue: 0,0:16:31.55,0:16:32.79,Italics,Ito(M),0,0,0,,Është vërtet gjallëri.
+Dialogue: 0,0:16:29.35,0:16:32.79,Default - Top,Isao,0,0,0,,Rui-kun! Duhet t'i hash perimet!
+Dialogue: 0,0:16:32.79,0:16:33.45,Default - Top,Rui,0,0,0,,Jo!
+Dialogue: 0,0:16:33.45,0:16:36.59,Default,Saho,0,0,0,,Ito-chan, Ito-chan, shiko!
+Dialogue: 0,0:16:36.59,0:16:38.42,Default,Saho,0,0,0,,Një gaforre gjigante!
+Dialogue: 0,0:16:41.15,0:16:42.11,Default,Saho,0,0,0,,Oh, nuk të pëlqen?
+Dialogue: 0,0:16:42.11,0:16:44.25,Default,Ito,0,0,0,,Mos më tremb kështu!
+Dialogue: 0,0:16:44.85,0:16:46.27,Default,Saho,0,0,0,,Më fal!
+Dialogue: 0,0:16:46.27,0:16:48.86,Default,Saho,0,0,0,,Ndoshta u lëshova pak tepër.
+Dialogue: 0,0:16:48.86,0:16:54.63,Default,Saho,0,0,0,,Por jam shumë e lumtur që Krishtli\Nndja jote është kaq plot gjallëri.
+Dialogue: 0,0:16:55.50,0:16:59.90,Default,Saho,0,0,0,,Për shumë kohë, mund të të jepja vetë\Nm Krishtlindje ku ishim ne të dyja.
+Dialogue: 0,0:17:02.76,0:17:04.04,Default,Ito,0,0,0,,Çfarë po thua?
+Dialogue: 0,0:17:04.44,0:17:06.61,Default,Ito,0,0,0,,Edhe vetëm ne të dyja argëtoheshim.
+Dialogue: 0,0:17:06.61,0:17:10.55,Default,Ito,0,0,0,,Dhe edhe pse ishe e zënë me punë, gjith\Nmonë nxitoje të ktheheshe në shtëpi.
+Dialogue: 0,0:17:10.55,0:17:13.30,Default,Saho,0,0,0,,V-Vërtet? Kështu mendoje?
+Dialogue: 0,0:17:14.65,0:17:17.97,Italics,Ito(M),0,0,0,,Edhe pse do të gënjeja po të th\Nosha se s'më shqetësoi kurrë.
+Dialogue: 0,0:17:22.51,0:17:25.19,Flashback,Ito,0,0,0,,Mami. Çfarë po bën?
+Dialogue: 0,0:17:25.19,0:17:26.65,Flashback,Saho,0,0,0,,Jo, unë nuk jam ajo!
+Dialogue: 0,0:17:27.48,0:17:29.38,Flashback,Saho,0,0,0,,Unë jam Santa-san!
+Dialogue: 0,0:17:29.76,0:17:32.73,Flashback,Ito,0,0,0,,Mund të m'i japësh dh\Nuratat normalisht.
+Dialogue: 0,0:17:33.50,0:17:35.85,Italics,Ito(M),0,0,0,,Por kishte diçka tjetër që më \Nshqetësonte edhe më shumë.
+Dialogue: 0,0:17:36.16,0:17:40.59,Italics,Ito(M),0,0,0,,Edhe për sa kohë do t'i duhej mam\Nit tim të luftonte krejt e vetme?
+Dialogue: 0,0:17:43.25,0:17:44.60,Default,Ito,0,0,0,,Më bëri të lumtur
+Dialogue: 0,0:17:44.60,0:17:49.61,Default,Ito,0,0,0,,që u ktheve në shtëpi shumë më e l\Numtur se gjithë ato herë më parë.
+Dialogue: 0,0:17:52.50,0:17:54.45,Default,Saho,0,0,0,,Ito-chan!
+Dialogue: 0,0:17:54.45,0:17:55.44,Default,Ito,0,0,0,,Në rregull, në rregull.
+Dialogue: 0,0:17:55.44,0:17:57.21,Default,Ito,0,0,0,,Hajde, të shkojmë të hamë.
+Dialogue: 0,0:17:59.07,0:18:02.85,Italics,Ito(M),0,0,0,,Tashmë, edhe të gjitha at\No janë kujtime të bukura.
+Dialogue: 0,0:18:07.06,0:18:09.71,Default,Rui,0,0,0,,Pra, çfarë bëjmë tani?
+Dialogue: 0,0:18:09.71,0:18:13.22,Default,Ito,0,0,0,,Doni të shohim një film? Është n\Një që dua ta shoh me të gjithë ju.
+Dialogue: 0,0:18:13.22,0:18:14.62,Default,Gen,0,0,0,,Ndal.
+Dialogue: 0,0:18:14.62,0:18:17.35,Default,Gen,0,0,0,,E di se do të të zë\Nrë gjumi në mes.
+Dialogue: 0,0:18:17.35,0:18:18.86,Default,Gen,0,0,0,,Dhe sapo hëngre shumë, prandaj...
+Dialogue: 0,0:18:19.15,0:18:20.02,Default,Gen,0,0,0,,Vetëm do të shëndosheshe.
+Dialogue: 0,0:18:20.62,0:18:21.61,Default,Ito,0,0,0,,Jo, s'do të shëndoshesha!
+Dialogue: 0,0:18:21.61,0:18:22.97,Default,Ito,0,0,0,,Sot lëviza shumë!
+Dialogue: 0,0:18:22.97,0:18:24.46,Default,Gen,0,0,0,,Të preka në tel?
+Dialogue: 0,0:18:24.46,0:18:26.16,Default,Ito,0,0,0,,Mjafton të rri zgjuar, apo jo?!
+Dialogue: 0,0:18:26.16,0:18:28.52,Default,Rui,0,0,0,,Në rregull! E vetmja mënyrë për \Nta zgjidhur këtë është me sumo!
+Dialogue: 0,0:18:28.52,0:18:31.52,Default,Isao,0,0,0,,Ju lutem, mos u grindni!
+Dialogue: 0,0:18:32.33,0:18:34.65,Default,Saho,0,0,0,,Sa mirë që u kthyem.
+Dialogue: 0,0:18:40.74,0:18:42.20,Sign,Sign,0,0,0,,{\fad(129,0)\bord2\fnArial Black\pos(484.285,26.286)\c&H4D91B8&\3c&HFCFBF8&}Përpj{\c&H4B7BB2&}ekje p\N{\c&H4567AC&}ër ta h{\c&H3E4FA1&}utuar
+Dialogue: 0,0:18:41.01,0:18:44.01,Italics,Ito(M),0,0,0,,Nuk më besohet që nata ime e Krishtli\Nndjes përfundoi me mundje sumo...
+Dialogue: 0,0:18:42.32,0:18:43.91,Sign,Sign,0,0,0,,{\fad(134,500)\bord2\fnArial Black\3c&HFCFBF8&\c&HB8824F&\frz20.86\pos(247.142,187.714)}Hed{\c&HB0924A&}hje \N {\c&HA5994B&}nën k{\c&H99A747&}rah
+Dialogue: 0,0:18:44.56,0:18:46.88,Italics,Ito(M),0,0,0,,Ma ktheni Krishtlindjen!
+Dialogue: 0,0:18:48.33,0:18:51.47,Italics,Ito(M),0,0,0,,Por ishte argëtuese, ndaj s'ka gjë.
+Dialogue: 0,0:18:53.07,0:18:56.79,Italics,Ito(M),0,0,0,,Më duket sikur ende e dëgjo\Nj të qeshurën e të gjithëve.
+Dialogue: 0,0:18:57.82,0:19:00.71,Italics,Ito(M),0,0,0,,Kjo është hera e parë që doja që n\Një natë të mos mbaronte kurrë.
+Dialogue: 0,0:19:13.45,0:19:14.75,Default,Gen,0,0,0,,Çfarë po bën?
+Dialogue: 0,0:19:15.16,0:19:16.96,Default,Ito,0,0,0,,Oh, qenke ti.
+Dialogue: 0,0:19:17.67,0:19:20.05,Default,Gen,0,0,0,,A mund të mos endesh fshehurazi me atë gjë?
+Dialogue: 0,0:19:20.05,0:19:20.62,Default,Gen,0,0,0,,Është e frikshme.
+Dialogue: 0,0:19:20.62,0:19:21.40,Default,Ito,0,0,0,,Kush flet!
+Dialogue: 0,0:19:21.40,0:19:24.51,Default,Ito,0,0,0,,U tremba kur dëgjova se i\Nshte dikush në ballkon.
+Dialogue: 0,0:19:24.51,0:19:26.56,Default,Gen,0,0,0,,Atëherë thirr dikë.
+Dialogue: 0,0:19:26.56,0:19:28.22,Default,Ito,0,0,0,,Por të gjithë po flenë.
+Dialogue: 0,0:19:28.83,0:19:32.18,Default,Ito,0,0,0,,Sidoqoftë, vazhdon të bësh gjëra pështjelluese.
+Dialogue: 0,0:19:33.02,0:19:34.79,Default,Ito,0,0,0,,Çfarë po bën në të vërtetë?
+Dialogue: 0,0:19:35.96,0:19:37.59,Default,Gen,0,0,0,,S'ka rëndësi.
+Dialogue: 0,0:19:37.59,0:19:38.87,Default,Gen,0,0,0,,Kthehu në shtrat.
+Dialogue: 0,0:19:38.87,0:19:39.99,Default,Gen,0,0,0,,Do të ftohesh.
+Dialogue: 0,0:19:40.24,0:19:41.86,Default,Ito,0,0,0,,Edhe ti mund të ftohesh.
+Dialogue: 0,0:19:42.99,0:19:46.49,Default,Ito,0,0,0,,Mos më thuaj... po p\Nret Santa-sanin?!
+Dialogue: 0,0:19:46.95,0:19:48.23,Default,Gen,0,0,0,,Sikur.
+Dialogue: 0,0:19:50.10,0:19:53.88,Default,Gen,0,0,0,,Po mendoja pak për mamanë time.
+Dialogue: 0,0:19:55.11,0:19:59.84,Default,Gen,0,0,0,,Nuk e përmenda, p\Nor nesër, më 25,
+Dialogue: 0,0:20:01.49,0:20:03.09,Default,Gen,0,0,0,,është përvjetori i vdekjes së saj.
+Dialogue: 0,0:20:04.66,0:20:09.07,Default,Gen,0,0,0,,Të prisja Santa-sanin do të kishte qen\Në një Krishtlindje shumë më e këndshme.
+Dialogue: 0,0:20:13.42,0:20:14.32,Default,Ito,0,0,0,,Më fal.
+Dialogue: 0,0:20:15.36,0:20:20.36,Default,Ito,0,0,0,,Sot po argëtohesha aq shumë s\Na ende më kishte marrë vala.
+Dialogue: 0,0:20:20.71,0:20:22.18,Default,Gen,0,0,0,,Mos kërko falje.
+Dialogue: 0,0:20:22.81,0:20:25.69,Default,Gen,0,0,0,,Edhe unë po mendoja s\Ne duhej të ta thosha,
+Dialogue: 0,0:20:25.69,0:20:27.73,Default,Gen,0,0,0,,por mendova se mund t\Në priste deri nesër.
+Dialogue: 0,0:20:29.15,0:20:30.09,Default,Ito,0,0,0,,Pse?
+Dialogue: 0,0:20:30.44,0:20:32.96,Default,Gen,0,0,0,,Mamaja më bëri t'i premtoja.
+Dialogue: 0,0:20:33.25,0:20:35.47,Default,Gen,0,0,0,,Tha se s'kishte gjë ta vizi\Ntonim varrin e saj çdo vit,
+Dialogue: 0,0:20:35.47,0:20:39.08,Default,Gen,0,0,0,,por nëse shkojmë të gjithë të trisht\Nuar, do t'ia prishnim atmosferën.
+Dialogue: 0,0:20:39.08,0:20:41.31,Default,Gen,0,0,0,,Prandaj duhet të festojmë sa më \Nshumë natën e Krishtlindjes.
+Dialogue: 0,0:20:41.83,0:20:46.89,Italics,Ito(M),0,0,0,,Mesa duket, kjo është arsyeja e vërtetë pse Kr\Nishtlindja është kaq e veçantë për të gjithë.
+Dialogue: 0,0:20:48.23,0:20:52.15,Default,Gen,0,0,0,,Domethënë, a mund të «festosh \Nsa më shumë» pasi dëgjon këtë?
+Dialogue: 0,0:20:53.98,0:20:54.76,Default,Ito,0,0,0,,Po...
+Dialogue: 0,0:20:55.45,0:20:58.53,Italics,Ito(M),0,0,0,,Unë vetëm po argëtohesha,
+Dialogue: 0,0:20:58.53,0:21:01.90,Italics,Ito(M),0,0,0,,por ata po përgatiteshin të shk\Nonin të takonin mamanë e tyre.
+Dialogue: 0,0:21:03.69,0:21:05.36,Default,Ito,0,0,0,,Ke të drejtë.
+Dialogue: 0,0:21:07.91,0:21:09.86,Default,Gen,0,0,0,,Hej, mos qaj.
+Dialogue: 0,0:21:09.86,0:21:12.49,Default,Gen,0,0,0,,Nëse zgjohen të tjerët, do t\Në mendojnë se të bëra diçka.
+Dialogue: 0,0:21:12.49,0:21:14.51,Default,Ito,0,0,0,,Nuk po qaj.
+Dialogue: 0,0:21:14.51,0:21:16.66,Default,Gen,0,0,0,,Po qan. Shumë madje.
+Dialogue: 0,0:21:18.16,0:21:20.56,Default,Ito,0,0,0,,Jo. Kjo ndodh thjesht kur...
+Dialogue: 0,0:21:21.66,0:21:24.10,Default,Ito,0,0,0,,sytë fillojnë të rrjedhin, si hunda.
+Dialogue: 0,0:21:26.24,0:21:28.66,Default,Gen,0,0,0,,Çfarë motre e madhe e pashpresë.
+Dialogue: 0,0:21:29.62,0:21:35.28,Italics,Ito(M),0,0,0,,Këta lot i derdh për atë që \Ns'dija rreth të tjerëve.
+Dialogue: 0,0:21:38.94,0:21:41.43,Default,Gen,0,0,0,,Ç'dobi ka që qan ti?
+Dialogue: 0,0:21:42.37,0:21:45.42,Italics,Ito(M),0,0,0,,Të gjithë kemi përshkuar shtigje të ndryshme,
+Dialogue: 0,0:21:45.85,0:21:49.85,Italics,Ito(M),0,0,0,,prandaj ndonjëherë ndryshimet në a\Ntë që shohim mund të na befasojnë...
+Dialogue: 0,0:22:00.41,0:22:02.46,Default,Rui,0,0,0,,Oh, borë!
+Dialogue: 0,0:22:02.46,0:22:04.30,Default,Rui,0,0,0,,Urra!
+Dialogue: 0,0:22:04.30,0:22:06.70,Default,Rui,0,0,0,,Janë Krishtlindje të bardha!
+Dialogue: 0,0:22:07.94,0:22:09.47,Italics,Ito(M),0,0,0,,Por tani, në këtë çast...
+Dialogue: 0,0:22:10.55,0:22:12.97,Italics,Ito(M),0,0,0,,Po shohim të njëjtën gjë.
+Dialogue: 0,0:22:15.21,0:22:18.89,Italics,Ito(M),0,0,0,,Prandaj të përpiqemi të krijojmë s\Na më shumë kujtime të përbashkëta.
+Dialogue: 0,0:22:23.66,0:22:24.97,Default,Isao,0,0,0,,Pra, Saho-san.
+Dialogue: 0,0:22:25.51,0:22:27.11,Default,Saho,0,0,0,,Po, Isao-san?
+Dialogue: 0,0:22:27.44,0:22:29.44,Default,Isao,0,0,0,,Kjo s'është tepër për ty, apo jo?
+Dialogue: 0,0:22:29.44,0:22:32.77,Default,Isao,0,0,0,,Që po vjen me ne për të vizituar \Nvarrin e gruas sime të ndjerë.
+Dialogue: 0,0:22:32.77,0:22:34.99,Default,Saho,0,0,0,,Ende shqetësohesh për këtë?
+Dialogue: 0,0:22:35.33,0:22:39.78,Default,Saho,0,0,0,,Jam këtu sepse dua të jem pje\Nsë e jetës së të gjithëve ju.
+Dialogue: 0,0:22:39.78,0:22:42.30,Default,Saho,0,0,0,,Po të më linit jashtë, vetëm d\No të më bënit të ndihesha keq.
+Dialogue: 0,0:22:42.30,0:22:43.23,Default,Isao,0,0,0,,Më fal.
+Dialogue: 0,0:22:43.64,0:22:45.10,Default,Isao,0,0,0,,Nuk ishte ky qëllimi im.
+Dialogue: 0,0:22:45.10,0:22:48.64,Default,Saho,0,0,0,,Jam me fat që më pritën në një f\Namilje kaq të mrekullueshme.
+Dialogue: 0,0:22:48.64,0:22:50.68,Default,Saho,0,0,0,,Duhet ta tregoj siç duhet mirënjohjen time,
+Dialogue: 0,0:22:50.68,0:22:52.14,Default,Saho,0,0,0,,përndryshe do të përballem me zemërimin e perëndive.
+Dialogue: 0,0:22:53.10,0:22:55.48,Default,Saho,0,0,0,,Prandaj, të lutem, më lejo të vij me ju.
+Dialogue: 0,0:22:58.96,0:23:01.86,Default,Isao,0,0,0,,Edhe unë duhet të të falënderoj, Saho-san.
+Dialogue: 0,0:23:04.27,0:23:08.03,Italics,Ito(M),0,0,0,,Atë ditë, bora u grumbullua shumë shpejt.
+Dialogue: 0,0:23:31.39,0:23:33.52,Italics,Ito(M),0,0,0,,Gjurmët tona ishin të gjitha të përziera,
+Dialogue: 0,0:23:33.52,0:23:37.48,Italics,Ito(M),0,0,0,,si provë se shtigjet tona t\Nashmë ishin ndërthurur.
+Dialogue: 0,0:23:38.33,0:23:40.13,Italics,Ito(M),0,0,0,,Dhe s'mund të mos uroja
+Dialogue: 0,0:23:40.13,0:23:45.13,Italics,Ito(M),0,0,0,,që edhe më shumë gëzim të vi\Nnte drejt familjes Narita.
+Dialogue: 0,0:23:08.44,0:23:11.82,Sign,Sign,0,0,0,,{\fad(271,347)\an7\fs15\bord1\blur1\shad1\c&H000000&\4c&HFFFFFF&\3c&HFFFFFF&\3a&H60&\4a&H6D&}Përkthimi: Jun Nozaki
+Dialogue: 0,0:23:13.49,0:23:17.29,Sign,Sign,0,0,0,,{\fad(271,347)\an9\fs15\bord1\blur1\shad1\c&H000000&\4c&HFFFFFF&\3c&HFFFFFF&\3a&H60&\4a&H6D&}Koha: Andy Ellis; Redaktimi \Ndhe faqosja: Elisabeth Crist
+Dialogue: 0,0:23:26.00,0:23:29.72,Sign,Sign,0,0,0,,{\fad(271,347)\an9\fs15\fscx90\bord1\blur1\shad1\c&H000000&\4c&HFFFFFF&\3c&HFFFFFF&\3a&H60&\4a&H6D&}Kontrolli i cilësisë: Gabriella Alabanza\N; Kontrolli i përkthimit: Michelle Tymon
+
