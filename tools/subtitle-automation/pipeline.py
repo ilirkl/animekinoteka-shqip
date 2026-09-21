@@ -42,6 +42,10 @@ def fetch(url):
             check(newurl)
             return super().redirect_request(req, fp, code, msg, headers, newurl)
     check(url)
+    # Attachment filenames arrive unescaped from the feed; encode the path so
+    # characters like spaces and brackets survive into the HTTP request.
+    parts = urllib.parse.urlsplit(url)
+    url = parts._replace(path=urllib.parse.quote(parts.path)).geturl()
     request = urllib.request.Request(url, headers={'User-Agent': 'SubtitlePipeline/1.0'})
     with urllib.request.build_opener(Redirect).open(request, timeout=40) as response:
         data = response.read(LIMIT + 1)
