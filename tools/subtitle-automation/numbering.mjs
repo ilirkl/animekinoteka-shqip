@@ -275,7 +275,26 @@ function azurLaneNi(parsed) {
   };
 }
 
-const RULES = [samuraiTroopers, onePiece, toukutsuOu, reZero, smokingBehindTheSupermarket, kaijuGirlCaramelise, bungoStrayDogsWan2, linkClickS3, honzukiS4, detectiveConan, hyakkanoS3, mushokuTenseiIII, magilumiereS2, azurLaneNi];
+// Disambiguation only: the release title "Mao" is a single token that also appears in
+// unrelated candidates once romaji vowel collapse turns "Maou" into "mao", tying the search
+// at score 1. The exact title match is the ongoing TV series.
+function mao(parsed) {
+  const episode = Number(parsed.episode);
+  if (parsed.title !== 'Mao' ||
+      (parsed.season !== null && parsed.season !== 1) ||
+      !Number.isInteger(episode) || episode < 1) return null;
+  return {
+    slug:'mao-fv7yd',
+    title:'Mao',
+    malId:62048,
+    episode:String(episode),
+    sourceEpisode:String(episode),
+    sourceTitle:parsed.title,
+    evidence:'https://anikototv.to/watch/mao-fv7yd'
+  };
+}
+
+const RULES = [samuraiTroopers, onePiece, toukutsuOu, reZero, smokingBehindTheSupermarket, kaijuGirlCaramelise, bungoStrayDogsWan2, linkClickS3, honzukiS4, detectiveConan, hyakkanoS3, mushokuTenseiIII, magilumiereS2, azurLaneNi, mao];
 
 export function knownNumbering(parsed) {
   for (const rule of RULES) {
