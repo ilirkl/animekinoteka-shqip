@@ -941,6 +941,24 @@
       "assFile": "ass/at-689391.sq.ass",
       "offset": 0,
       "sourceReleaseId": "689391"
+    },
+    {
+      "id": "at-689869",
+      "title": "Magilumiere Magical Girls Inc. Season 2",
+      "episode": "11",
+      "malId": 60552,
+      "anilistId": 185692,
+      "slugs": [
+        "kabushikigaisha-magi-lumiere-2nd-season-69ca1"
+      ],
+      "file": "files/at-689869.sq.vtt",
+      "assFile": "ass/at-689869.sq.ass",
+      "offset": 0,
+      "sourceReleaseId": "689869",
+      "sourceEpisode": "11",
+      "sourceTitle": "Kabushikigaisha Magilumiere 2nd Season",
+      "part": 2,
+      "numberingEvidence": "https://anikototv.to/watch/kabushikigaisha-magi-lumiere-2nd-season-69ca1"
     }
   ]
 }

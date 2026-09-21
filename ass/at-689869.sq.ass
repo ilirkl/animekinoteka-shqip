@@ -1,0 +1,308 @@
+﻿[Script Info]
+Title: [Erai-raws] en-us
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+Video Zoom Percent: 1
+Scroll Position: 0
+Active Line: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,45,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,10,10,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.25,0:00:04.79,Default,,0,0,0,,A është kthyer presidenti ende?\NËshtë urgjencë!
+Dialogue: 0,0:00:04.88,0:00:06.17,Default,,0,0,0,,Duhet ta shoh!
+Dialogue: 0,0:00:06.63,0:00:08.88,Default,,0,0,0,,Mbledhja e tij sapo filloi...
+Dialogue: 0,0:00:09.30,0:00:12.51,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Stafi ynë po punon për këtë...{\c}{\fn\i0}
+Dialogue: 0,0:00:12.84,0:00:13.72,Default,,0,0,0,,Më falni!
+Dialogue: 0,0:00:14.30,0:00:17.18,Default,,0,0,0,,Kryetari Kamakura\Ni Shoqatës së Energjisë mori telefon.
+Dialogue: 0,0:00:17.64,0:00:19.93,Default,,0,0,0,,Po kërkon drejtpërdrejt Krahët tanë!
+Dialogue: 0,0:00:22.35,0:00:24.27,Default,,0,0,0,,Më falni. Kthehem menjëherë.
+Dialogue: 0,0:00:24.90,0:00:26.65,Default,,0,0,0,,Çfarë kuptimi ka kjo?
+Dialogue: 0,0:00:26.81,0:00:29.32,Default,,0,0,0,,Dëshironi shfarosje\Nnë vend të izolimit?
+Dialogue: 0,0:00:29.73,0:00:32.61,Default,,0,0,0,,Një lloj i ri Kaii u shfaq në Takeshiba.
+Dialogue: 0,0:00:33.15,0:00:37.16,Default,,0,0,0,,Është qartësisht një mutacion i fuqishëm,\Ndhe dua që ju ta trajtoni.
+Dialogue: 0,0:00:37.41,0:00:39.20,Default,,0,0,0,,Sipas rregullores së magjisë, Krahët—
+Dialogue: 0,0:00:39.29,0:00:41.79,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Ajo rrëzoi{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnTrebuchet MS}helikopterin e rojes bregdetare.{\c}{\fn\i0}
+Dialogue: 0,0:00:41.87,0:00:43.87,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Koha nuk është në anën tonë.{\c}{\fn\i0}
+Dialogue: 0,0:00:45.12,0:00:48.29,Default,,0,0,0,,Kompania juaj e ka testuar\Nvazhdimisht këtë Pajisje Magjike, apo jo?
+Dialogue: 0,0:00:48.42,0:00:49.46,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Por gjithsesi...{\c}{\fn\i0}
+Dialogue: 0,0:00:50.13,0:00:53.05,Default,,0,0,0,,Ka një kompani\Nqë po përgjigjet në vendndodhje ndërsa flasim.
+Dialogue: 0,0:00:53.38,0:00:55.38,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Dhe është Magilumiere.{\c}{\fn\i0}
+Dialogue: 0,0:02:27.69,0:02:29.94,Default,,0,0,0,,{\an8}EPISODI 11\NNJË PUNË NGA E CILA MUND TË HIqESH NUK KA VLERË
+Dialogue: 0,0:02:30.94,0:02:33.15,Default,,0,0,0,,Dreq, ky tip dredhon si i çmendur.
+Dialogue: 0,0:02:33.27,0:02:35.82,Default,,0,0,0,,Uau, pra... I zjarrtë, hë!
+Dialogue: 0,0:02:36.40,0:02:39.03,Default,,0,0,0,,Për më tepër, i kanë dalë krahë më të vegjël.
+Dialogue: 0,0:02:39.36,0:02:40.66,Default,,0,0,0,,Telashe, vërtet...
+Dialogue: 0,0:02:41.28,0:02:43.33,Default,,0,0,0,,A jeni të gjithë gati?
+Dialogue: 0,0:02:43.66,0:02:45.08,Default,,0,0,0,,-Po!\N-Po, zonjë!
+Dialogue: 0,0:02:49.04,0:02:50.08,Default,,0,0,0,,Hi-jah!
+Dialogue: 0,0:02:50.17,0:02:51.75,Default,,0,0,0,,Hajde, qëndro i qetë!
+Dialogue: 0,0:02:52.38,0:02:56.21,Default,,0,0,0,,Nuk e imagjinoja përdorimin e magjive lidhëse\Npër të frenuar Kaii-n kështu.
+Dialogue: 0,0:02:56.46,0:02:57.42,Default,,0,0,0,,Përveç...
+Dialogue: 0,0:02:57.72,0:02:58.67,Default,,0,0,0,,Dërgim!
+Dialogue: 0,0:03:00.72,0:03:02.93,Default,,0,0,0,,Ekzekuto funksionin!
+Dialogue: 0,0:03:06.56,0:03:09.77,Default,,0,0,0,,Një sulm elektrizues\Nqë gatoi Kana e vogël!
+Dialogue: 0,0:03:23.74,0:03:26.24,Default,,0,0,0,,Sinjali i Kaii-t u zhduk.
+Dialogue: 0,0:03:27.20,0:03:28.20,Default,,0,0,0,,Funksionoi...
+Dialogue: 0,0:03:28.62,0:03:29.50,Default,,0,0,0,,Vërtet.
+Dialogue: 0,0:03:31.29,0:03:32.17,Default,,0,0,0,,Megjithatë...
+Dialogue: 0,0:03:34.13,0:03:37.59,Default,,0,0,0,,Duhet ta përsëritim këtë proces\Npër çdo Kaii?
+Dialogue: 0,0:03:38.34,0:03:39.76,Default,,0,0,0,,Nuk ka rrugë tjetër.
+Dialogue: 0,0:03:39.84,0:03:41.22,Default,,0,0,0,,Duhet t'i bllokojmë!
+Dialogue: 0,0:03:41.55,0:03:43.89,Default,,0,0,0,,Do t'i kapim me një goditje. Copë tortë!
+Dialogue: 0,0:03:45.55,0:03:46.47,Default,,0,0,0,,Le ta bëjmë.
+Dialogue: 0,0:03:46.85,0:03:50.68,Default,,0,0,0,,Para se të shfaqen kompanitë aleate\Ntë fraksionit të deregulimit.
+Dialogue: 0,0:03:52.77,0:03:54.98,Default,,0,0,0,,Po kontrolloj nisjen\Npër mjedis jashtë laboratorit.
+Dialogue: 0,0:03:55.06,0:03:56.44,Default,,0,0,0,,Po korrigjoj devijimin.
+Dialogue: 0,0:03:57.02,0:03:59.15,Default,,0,0,0,,Shenjat jetësore të kontrolluara. Asgjë e parregullt.
+Dialogue: 0,0:03:59.61,0:04:02.28,Default,,0,0,0,,Përditësova rregullimet finale.
+Dialogue: 0,0:04:02.49,0:04:06.74,Default,,0,0,0,,Dëgjo mirë, Znj. Tsuchiba.\NKy mision i thyen plotësisht rregullat.
+Dialogue: 0,0:04:07.16,0:04:09.95,Default,,0,0,0,,Pajisja kërkon\Nleje të veçantë për t'u përdorur.
+Dialogue: 0,0:04:11.29,0:04:16.13,Default,,0,0,0,,Prandaj, ju lutem aksesoni\NKrahët vetëm me fuqi 100% ose më pak.
+Dialogue: 0,0:04:16.50,0:04:20.55,Default,,0,0,0,,Mund të garantojmë sigurinë\Nvetëm deri në 100%. Çdo gjë përtej—
+Dialogue: 0,0:04:20.67,0:04:23.05,Default,,0,0,0,,Ju lutem përgatitni Vajzën Magjike\Npër vendosje.
+Dialogue: 0,0:04:24.47,0:04:27.10,Default,,0,0,0,,...mund të shkaktojë\Nefekte anësore të dëmshme në trup.
+Dialogue: 0,0:04:27.43,0:04:28.64,Default,,0,0,0,,Jam plotësisht në dijeni.
+Dialogue: 0,0:04:32.02,0:04:33.39,Default,,0,0,0,,Protokolli: ndezur.
+Dialogue: 0,0:04:35.77,0:04:37.40,Default,,0,0,0,,Çelësi i modalitetit: të gjithë ndezur.
+Dialogue: 0,0:04:38.07,0:04:40.03,Default,,0,0,0,,Gama e aksesit: YY.
+Dialogue: 0,0:04:40.61,0:04:41.74,Default,,0,0,0,,Redakto: hapur.
+Dialogue: 0,0:04:42.19,0:04:44.36,Default,,0,0,0,,Modalitetet N deri R: brenda.
+Dialogue: 0,0:04:44.78,0:04:46.03,Default,,0,0,0,,Modaliteti A: fikur.
+Dialogue: 0,0:05:14.23,0:05:16.90,Default,,0,0,0,,Mei Tsuchiba, po vendosem tani.
+Dialogue: 0,0:05:21.36,0:05:24.99,Default,,0,0,0,,Mund ta mbajmë deri në 100%.
+Dialogue: 0,0:05:26.07,0:05:27.32,Default,,0,0,0,,Le të jemi gati.
+Dialogue: 0,0:05:33.25,0:05:36.04,Default,,0,0,0,,Po, more! I rrëzuam 14 prej tyre!
+Dialogue: 0,0:05:36.29,0:05:37.67,Default,,0,0,0,,Uau, o dreq...
+Dialogue: 0,0:05:37.79,0:05:39.29,Default,,0,0,0,,Lëviz ato duar, Yamimori.
+Dialogue: 0,0:05:43.30,0:05:44.88,Default,,0,0,0,,Numri i tyre është pakësuar.
+Dialogue: 0,0:05:45.01,0:05:47.47,Default,,0,0,0,,-Me këtë ritëm, mund t'ia dalim...\N-Mos!
+Dialogue: 0,0:05:48.84,0:05:50.22,Default,,0,0,0,,Shiko atje.
+Dialogue: 0,0:06:04.36,0:06:06.36,Default,,0,0,0,,-Po vjen!\N-Është kaq afër!
+Dialogue: 0,0:06:07.24,0:06:08.61,Default,,0,0,0,,U përhap kaq larg?
+Dialogue: 0,0:06:08.95,0:06:10.16,Default,,0,0,0,,Shpërthim i përhapur.
+Dialogue: 0,0:06:10.53,0:06:12.45,Default,,0,0,0,,Por nuk janë aq shumë.
+Dialogue: 0,0:06:12.53,0:06:14.16,Default,,0,0,0,,Mund t'ia dalim plotësisht.
+Dialogue: 0,0:06:14.87,0:06:16.21,Default,,0,0,0,,Unë do të marr këtë.
+Dialogue: 0,0:06:16.54,0:06:18.21,Default,,0,0,0,,Në rregull, po llogarisim mbi ty!
+Dialogue: 0,0:06:37.43,0:06:38.69,Default,,0,0,0,,Znj. Tsuchiba!
+Dialogue: 0,0:06:40.56,0:06:41.61,Default,,0,0,0,,Siç pritej.
+Dialogue: 0,0:06:42.36,0:06:45.78,Default,,0,0,0,,Kompanitë që përpiqen të lehtësojnë rregullat\Npo lëvizin.
+Dialogue: 0,0:06:46.82,0:06:50.66,Default,,0,0,0,,Nuk na duhet ndihmë.\NRri larg punëve tona, grua!
+Dialogue: 0,0:06:51.16,0:06:54.16,Default,,0,0,0,,Aksesim i Krahëve: 80% fuqi.
+Dialogue: 0,0:07:08.30,0:07:09.13,Default,,0,0,0,,Zjarr.
+Dialogue: 0,0:07:31.95,0:07:32.78,Default,,0,0,0,,Ringarko.
+Dialogue: 0,0:07:44.63,0:07:45.96,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Sulmet e tij janë të shpejta...{\c}{\fn\i0}
+Dialogue: 0,0:07:53.39,0:07:54.60,Default,,0,0,0,,Ngre në 90%.
+Dialogue: 0,0:07:56.01,0:07:56.93,Default,,0,0,0,,Shef!
+Dialogue: 0,0:07:57.47,0:07:58.56,Default,,0,0,0,,Po e shikojmë.
+Dialogue: 0,0:07:59.98,0:08:01.39,Default,,0,0,0,,Çfarë rrëmuje...
+Dialogue: 0,0:08:03.56,0:08:08.32,Default,,0,0,0,,Nivelet e Kaii-t në secilin prej atyre krahëve\Nmund të krahasohen me Klasën C tonë më parë.
+Dialogue: 0,0:08:08.90,0:08:13.28,Default,,0,0,0,,Por edhe ajo Klasa C\Nmori muaj për të arritur këtë madhësi!
+Dialogue: 0,0:08:13.74,0:08:15.70,Default,,0,0,0,,Ky është gjigant që në fillim.
+Dialogue: 0,0:08:16.03,0:08:17.24,Default,,0,0,0,,Nuk është normale.
+Dialogue: 0,0:08:17.87,0:08:18.70,Default,,0,0,0,,Zjarr.
+Dialogue: 0,0:08:26.92,0:08:28.17,Default,,0,0,0,,Po luajmë pis.
+Dialogue: 0,0:08:28.59,0:08:29.46,Default,,0,0,0,,Ringarko.
+Dialogue: 0,0:08:32.42,0:08:33.30,Default,,0,0,0,,Zjarr.
+Dialogue: 0,0:08:41.89,0:08:44.56,Default,,0,0,0,,Ajo do që ne të largohemi, hë?
+Dialogue: 0,0:08:47.23,0:08:49.15,Default,,0,0,0,,Shef, a do të thotë kjo...
+Dialogue: 0,0:08:49.36,0:08:50.19,Default,,0,0,0,,Po.
+Dialogue: 0,0:08:50.69,0:08:51.74,Default,,0,0,0,,Pikërisht.
+Dialogue: 0,0:08:53.28,0:08:54.49,Default,,0,0,0,,Vëmendje, të gjithë.
+Dialogue: 0,0:08:54.95,0:08:58.49,Default,,0,0,0,,Që tani, po e ndryshojmë\Nobjektivin e misionit në Planin B.
+Dialogue: 0,0:08:58.95,0:09:00.08,Default,,0,0,0,,Plani B...
+Dialogue: 0,0:09:00.91,0:09:02.45,Default,,0,0,0,,Supozoj se nuk kemi zgjidhje.
+Dialogue: 0,0:09:03.50,0:09:06.63,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Mos lejo që fraksioni i deregulimit{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnTrebuchet MS}ta monopolizojë këtë operacion.{\c}{\fn\i0}
+Dialogue: 0,0:09:07.63,0:09:10.42,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Përfundojeni shfarosjen{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnTrebuchet MS}si përpjekje bashkëpunuese!{\c}{\fn\i0}
+Dialogue: 0,0:09:10.84,0:09:11.84,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Urdhëro!{\c}{\fn\i0}
+Dialogue: 0,0:09:14.59,0:09:16.64,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Fraksioni i deregulimit punësoi AST.{\c}{\fn\i0}
+Dialogue: 0,0:09:18.47,0:09:20.39,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Po punonin bashkë gjithë kohën.{\c}{\fn\i0}
+Dialogue: 0,0:09:21.06,0:09:23.27,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Pyes veten nëse Znj. Tsuchiba e di.{\c}{\fn\i0}
+Dialogue: 0,0:09:29.90,0:09:33.15,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}A e dinte ajo që{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnTrebuchet MS}fraksioni i deregulimit e kurdisi këtë?{\c}{\fn\i0}
+Dialogue: 0,0:09:34.03,0:09:36.95,Default,,0,0,0,,KOUJI SHIGEMOTO, PRESIDENT & CEO\NKAZUO NIKOYAMA, INXHINIER
+Dialogue: 0,0:09:37.86,0:09:41.54,Default,,0,0,0,,{\an8\i1\c&Hffffff&\fnTrebuchet MS}Aktualisht, dy kompani Vajzash Magjike{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnTrebuchet MS}po merren me shfarosjen,{\c}{\fn\i0}
+Dialogue: 0,0:09:41.66,0:09:45.21,Default,,0,0,0,,{\an8\i1\c&Hffffff&\fnTrebuchet MS}dhe popullsia e Kaii-t{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnTrebuchet MS}duket se po ulet vazhdimisht.{\c}{\fn\i0}
+Dialogue: 0,0:09:45.96,0:09:49.46,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Industria jonë aktuale e Vajzave Magjike{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnTrebuchet MS}është e aftë ta trajtojë këtë.{\c}{\fn\i0}
+Dialogue: 0,0:09:49.58,0:09:52.00,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Kjo është padyshim qetësuese për ne,{\c}{\fn\i0}
+Dialogue: 0,0:09:52.21,0:09:55.34,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}por gjithsesi mendoj{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnTrebuchet MS}se duhet të jemi të kujdesshëm ndaj mutacionit të Kaii-t.{\c}{\fn\i0}
+Dialogue: 0,0:09:56.17,0:09:58.80,Default,,0,0,0,,Do të kem problem me këtë.
+Dialogue: 0,0:09:59.59,0:10:02.06,Default,,0,0,0,,Ai Shigemoto është tepër këmbëngulës.
+Dialogue: 0,0:10:02.47,0:10:04.73,Default,,0,0,0,,Çfarë lëvizjeje e pahijshme.
+Dialogue: 0,0:10:06.69,0:10:08.48,Default,,0,0,0,,Duhet të filloj punën...
+Dialogue: 0,0:10:08.56,0:10:10.44,Default,,0,0,0,,për herë të parë pas 15 vitesh...
+Dialogue: 0,0:10:11.15,0:10:12.94,Default,,0,0,0,,A ka dështuar plani ynë?
+Dialogue: 0,0:10:13.48,0:10:15.86,Default,,0,0,0,,Magilumiere nuk po tërhiqet.
+Dialogue: 0,0:10:16.53,0:10:17.36,Default,,0,0,0,,Jo.
+Dialogue: 0,0:10:17.65,0:10:19.16,Default,,0,0,0,,Duhet të jemi ende mirë.
+Dialogue: 0,0:10:19.66,0:10:21.45,Default,,0,0,0,,Kemi strategji rezervë.
+Dialogue: 0,0:10:22.20,0:10:26.62,Default,,0,0,0,,Edhe kështu, ai zgjodhi\Nta përballet me këtë Kaii pa urdhër pune,
+Dialogue: 0,0:10:27.21,0:10:30.79,Default,,0,0,0,,që e bën të qartë\Nse mori informacion paraprakisht.
+Dialogue: 0,0:10:31.46,0:10:34.71,Default,,0,0,0,,Ai njeri është vërtet i pamenduar.
+Dialogue: 0,0:10:35.63,0:10:38.51,Default,,0,0,0,,Duhet t'i kuptojë\Nrreziqet që po merr...
+Dialogue: 0,0:10:39.22,0:10:40.59,Default,,0,0,0,,Si të duash, në rregull është.
+Dialogue: 0,0:10:41.93,0:10:45.68,Default,,0,0,0,,Edhe në këto rrethana,\N80% e skemës sonë është ende e realizueshme.
+Dialogue: 0,0:10:46.10,0:10:47.27,Default,,0,0,0,,Vazhdoni siç është planifikuar.
+Dialogue: 0,0:10:47.68,0:10:48.52,Default,,0,0,0,,Po, zotëri.
+Dialogue: 0,0:10:48.98,0:10:49.98,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Hë?{\c}{\fn\i0}
+Dialogue: 0,0:10:50.56,0:10:53.65,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Çfarë ka?{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnTrebuchet MS}Ndodhi gjë në vendngjarje?{\c}{\fn\i0}
+Dialogue: 0,0:10:54.11,0:10:57.65,Default,,0,0,0,,{\an8\i1\c&Hffffff&\fnTrebuchet MS}Po, sapo tani,{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnTrebuchet MS}pati një lloj drite blu...{\c}{\fn\i0}
+Dialogue: 0,0:10:58.07,0:11:00.07,Default,,0,0,0,,{\an8\i1\c&Hffffff&\fnTrebuchet MS}Mund të gabohem, por...{\c}{\fn\i0}
+Dialogue: 0,0:11:03.66,0:11:07.08,Default,,0,0,0,,KAMAKURA
+Dialogue: 0,0:11:13.00,0:11:14.50,Default,,0,0,0,,Manao...
+Dialogue: 0,0:11:29.23,0:11:31.73,Default,,0,0,0,,Edhe dy Kaii këtu!
+Dialogue: 0,0:11:31.85,0:11:33.27,Default,,0,0,0,,E kemi nën kontroll, pa problem!
+Dialogue: 0,0:11:33.73,0:11:36.73,Default,,0,0,0,,Kërkova zonën\Nbrenda një rrezeje 50-metra.
+Dialogue: 0,0:11:37.11,0:11:39.32,Default,,0,0,0,,Nuk po marr sinjale të reja.
+Dialogue: 0,0:11:42.24,0:11:43.49,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Znj. Tsuchiba...{\c}{\fn\i0}
+Dialogue: 0,0:11:44.74,0:11:47.24,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Dje, po qeshte{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnTrebuchet MS}me mua në atë stol.{\c}{\fn\i0}
+Dialogue: 0,0:11:47.33,0:11:50.00,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Sot, jemi rivalë{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnTrebuchet MS}në të njëjtën fushëbetejë.{\c}{\fn\i0}
+Dialogue: 0,0:11:51.87,0:11:52.79,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}E megjithatë...{\c}{\fn\i0}
+Dialogue: 0,0:11:53.29,0:11:54.67,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Nuk më pengon.{\c}{\fn\i0}
+Dialogue: 0,0:11:55.25,0:11:57.30,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Disi, kjo ndihet inkurajuese.{\c}{\fn\i0}
+Dialogue: 0,0:12:11.44,0:12:13.10,Default,,0,0,0,,Çfarë ishte ajo?
+Dialogue: 0,0:12:13.60,0:12:14.56,Default,,0,0,0,,Një magji?
+Dialogue: 0,0:12:21.99,0:12:24.36,Default,,0,0,0,,Aktiviteti i fuqisë magjike po rritet!
+Dialogue: 0,0:12:37.79,0:12:41.30,Default,,0,0,0,,Kaii-t që menduam se ishin zhdukur\Ntani janë plotësisht të restauruar.
+Dialogue: 0,0:12:42.13,0:12:44.72,Default,,0,0,0,,Kjo po shkon përtej\Nthjesht prodhimit të rezultateve tani...
+Dialogue: 0,0:12:50.31,0:12:51.35,Default,,0,0,0,,Po analizoj Kaii-n.
+Dialogue: 0,0:12:51.68,0:12:53.19,Default,,0,0,0,,E njëjta bazë si më parë.
+Dialogue: 0,0:12:53.60,0:12:55.15,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Modelet e sulmit të panjohura.{\c}{\fn\i0}
+Dialogue: 0,0:12:55.23,0:12:57.73,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Po përmirësoj kodet mbrojtëse të BROOM-it{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnTrebuchet MS}për të gjithë anëtarët!{\c}{\fn\i0}
+Dialogue: 0,0:12:58.27,0:13:00.44,Default,,0,0,0,,Mbani distancën. Kthehuni në tokë të fortë!
+Dialogue: 0,0:13:09.91,0:13:11.66,Default,,0,0,0,,Znj. Koshigaya! Znj. Makino!
+Dialogue: 0,0:13:12.04,0:13:13.25,Default,,0,0,0,,S'ka gjë.
+Dialogue: 0,0:13:13.37,0:13:14.71,Default,,0,0,0,,Mbrojtjet tona ishin ngritur.
+Dialogue: 0,0:13:14.79,0:13:18.00,Default,,0,0,0,,Rënia nga lëkundja kur isha tre vjeçe\Ndhembi shumë më tepër.
+Dialogue: 0,0:13:18.42,0:13:20.09,Default,,0,0,0,,Le të riorganizohemi për momentin.
+Dialogue: 0,0:13:20.59,0:13:21.46,Default,,0,0,0,,Po, le ta bëjmë.
+Dialogue: 0,0:13:22.30,0:13:23.30,Default,,0,0,0,,E drejtë...
+Dialogue: 0,0:13:25.68,0:13:26.76,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Znj. Tsuchiba...{\c}{\fn\i0}
+Dialogue: 0,0:13:37.52,0:13:38.86,Default,,0,0,0,,Po zgjeroj gamën e fuqisë.
+Dialogue: 0,0:13:40.94,0:13:44.40,Default,,0,0,0,,E dija. Madje po shkon për\Nformën që refuzuam në testim!
+Dialogue: 0,0:13:44.78,0:13:47.36,Default,,0,0,0,,Por fuqia e saj është ende nën 100%.
+Dialogue: 0,0:13:47.99,0:13:50.16,Default,,0,0,0,,Po i ndjek rregullat në mënyrën e vet.
+Dialogue: 0,0:13:50.66,0:13:53.20,Default,,0,0,0,,Shef, le ta ndalojmë tashmë!
+Dialogue: 0,0:13:56.79,0:13:58.33,Default,,0,0,0,,THIRRJE URGJENCE
+Dialogue: 0,0:14:01.84,0:14:04.34,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Znj. Tsuchiba, kam udhëzime për ju.{\c}{\fn\i0}
+Dialogue: 0,0:14:06.13,0:14:09.72,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Ju lutem punoni me Magilumiere{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnTrebuchet MS}për ta përfunduar këtë operacion.{\c}{\fn\i0}
+Dialogue: 0,0:14:10.76,0:14:13.93,Default,,0,0,0,,A është urdhër nga presidenti?
+Dialogue: 0,0:14:14.52,0:14:17.60,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Jo, është sugjerim nga ekipi i Kërkim-Zhvillimit.{\c}{\fn\i0}
+Dialogue: 0,0:14:18.10,0:14:20.90,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Ngarkesa e tepërt fizike{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnTrebuchet MS}nuk është zgjidhje e mençur.{\c}{\fn\i0}
+Dialogue: 0,0:14:21.11,0:14:23.57,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Bashkëpunimi do të stabilizojë edhe fuqinë.{\c}{\fn\i0}
+Dialogue: 0,0:14:23.78,0:14:24.82,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Pra, të lutem...{\c}{\fn\i0}
+Dialogue: 0,0:14:26.49,0:14:31.53,Default,,0,0,0,,Këta Krahë u zhvilluan për të mundësuar\Nshfarosjen e Kaii-t me sulme të thjeshta.
+Dialogue: 0,0:14:32.03,0:14:36.62,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Bashkëpunimi do të kundërshtonte përdorimin{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnTrebuchet MS}e synuar të Krahëve dhe do të ndikonte suksesin.{\c}{\fn\i0}
+Dialogue: 0,0:14:37.12,0:14:38.21,Default,,0,0,0,,Znj. Tsuchiba!
+Dialogue: 0,0:14:38.58,0:14:41.88,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Thjesht dorëzohu tashmë.{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnTrebuchet MS}Nuk ka gjë tjetër që mund të bëjmë!{\c}{\fn\i0}
+Dialogue: 0,0:14:46.01,0:14:49.18,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Ju lutem jepini përparësi sigurisë{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnTrebuchet MS}dhe punoni me Magilumiere—{\c}{\fn\i0}
+Dialogue: 0,0:14:49.34,0:14:52.51,Default,,0,0,0,,Një punë nga e cila mund të hiqesh nuk ka vlerë.
+Dialogue: 0,0:14:56.14,0:14:57.68,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Më fal, Mei.{\c}{\fn\i0}
+Dialogue: 0,0:14:58.06,0:15:01.02,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Nuk mund t'i përballojmë{\c}{\fn\i0}\N{\i1\c&Hffffff&\fnTrebuchet MS}atë shkop Barley Spice për ditëlindjen tënde.{\c}{\fn\i0}
+Dialogue: 0,0:15:01.48,0:15:02.31,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Nuk ka problem.{\c}{\fn\i0}
+Dialogue: 0,0:15:02.77,0:15:04.57,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Kam tashmë një.{\c}{\fn\i0}
+Dialogue: 0,0:15:04.77,0:15:05.65,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Mei...{\c}{\fn\i0}
+Dialogue: 0,0:15:08.19,0:15:10.24,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Eja këtu, Mei.{\c}{\fn\i0}
+Dialogue: 0,0:15:10.86,0:15:12.53,Default,,0,0,0,,{\an8\i1\c&Hffffff&\fnTrebuchet MS}Thuaji lamtumirë dyqanit tonë.{\c}{\fn\i0}
+Dialogue: 0,0:15:12.62,0:15:13.70,Default,,0,0,0,,{\an8}TSUCHIBA SWEETS\NMBYLLUR
+Dialogue: 0,0:15:17.54,0:15:19.58,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Znj. Tsuchiba, përgjigju.{\c}{\fn\i0}
+Dialogue: 0,0:15:19.66,0:15:20.62,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Znj. Tsuchiba!{\c}{\fn\i0}
+Dialogue: 0,0:15:21.29,0:15:23.17,Default,,0,0,0,,Fuqia në 200%.
+Dialogue: 0,0:15:26.09,0:15:27.05,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Znj. Tsuchiba!{\c}{\fn\i0}
+Dialogue: 0,0:15:27.38,0:15:29.38,Default,,0,0,0,,Nuk e kemi miratuar atë procedurë!
+Dialogue: 0,0:15:29.88,0:15:32.84,Default,,0,0,0,,Ajo fuqi e vë trupin tënd në rrezik!
+Dialogue: 0,0:15:33.01,0:15:34.26,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Hm, më falni!{\c}{\fn\i0}
+Dialogue: 0,0:15:35.22,0:15:37.06,Default,,0,0,0,,A mund ta përsërisni, ju lutem?
+Dialogue: 0,0:15:39.02,0:15:40.77,Default,,0,0,0,,Protokolli: çaktivizuar.
+Dialogue: 0,0:15:50.36,0:15:52.66,Default,,0,0,0,,Çfarë është ajo, një ekran?
+Dialogue: 0,0:15:53.07,0:15:54.45,Default,,0,0,0,,Sa shqetësuese...
+Dialogue: 0,0:15:54.74,0:15:58.24,Default,,0,0,0,,Le të shkojmë, le të shkojmë.\NNuk mund të rri këtu pa bërë asgjë.
+Dialogue: 0,0:15:59.58,0:16:00.46,Default,,0,0,0,,Kana?
+Dialogue: 0,0:16:01.92,0:16:03.79,Default,,0,0,0,,Më vjen keq, të gjithë.
+Dialogue: 0,0:16:04.29,0:16:06.50,Default,,0,0,0,,Për momentin po shkoj vetëm.
+Dialogue: 0,0:16:10.67,0:16:12.13,Default,,0,0,0,,Vetëm?
+Dialogue: 0,0:16:12.59,0:16:14.76,Default,,0,0,0,,Znj. Sakuragi, çfarë po bëni...
+Dialogue: 0,0:16:24.60,0:16:25.98,Default,,0,0,0,,Rregullim i gamës...
+Dialogue: 0,0:16:29.69,0:16:31.44,Default,,0,0,0,,Zvogëlo fuqinë, të lutem!
+Dialogue: 0,0:16:34.99,0:16:37.58,Default,,0,0,0,,Po më shkel linjën e zjarrit.
+Dialogue: 0,0:16:37.95,0:16:39.08,Default,,0,0,0,,Të lutem, lëviz.
+Dialogue: 0,0:16:39.20,0:16:40.58,Default,,0,0,0,,Nuk po lëviz!
+Dialogue: 0,0:16:40.91,0:16:44.87,Default,,0,0,0,,Nuk largohem nga ky pozicion\Nderisa të zvogëlosh fuqinë—
+Dialogue: 0,0:16:46.38,0:16:49.17,Default,,0,0,0,,Edhe ti je në rrezen e sulmit të Kaii-t.
+Dialogue: 0,0:16:49.75,0:16:51.59,Default,,0,0,0,,Pse refuzon të lëvizësh?
+Dialogue: 0,0:16:52.34,0:16:56.68,Default,,0,0,0,,Gjatë shfarosjeve të Kaii-t, sugjeroj\Ntë përmbahesh nga sjellje tepër e rrezikshme.
+Dialogue: 0,0:16:57.10,0:16:59.64,Default,,0,0,0,,Ti je ajo që po vepron rrezikshëm!
+Dialogue: 0,0:17:01.60,0:17:04.98,Default,,0,0,0,,Ky nivel fuqie\Nnuk është konfirmuar i sigurt.
+Dialogue: 0,0:17:05.06,0:17:07.31,Default,,0,0,0,,Madje mund të kapemi në shpërthim!
+Dialogue: 0,0:17:09.65,0:17:11.40,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Kompania juaj duhet të qëndrojë jashtë kësaj.{\c}{\fn\i0}
+Dialogue: 0,0:17:11.90,0:17:12.94,Default,,0,0,0,,Shef...
+Dialogue: 0,0:17:16.16,0:17:18.62,Default,,0,0,0,,Pse po përpiqesh ta bësh këtë vetëm?
+Dialogue: 0,0:17:18.70,0:17:20.83,Default,,0,0,0,,Edhe ti mund të mbështetesh tek ne!
+Dialogue: 0,0:17:21.08,0:17:22.62,Default,,0,0,0,,Po rirregulloj fuqinë.
+Dialogue: 0,0:17:22.95,0:17:24.16,Default,,0,0,0,,Znj. Tsuchiba...
+Dialogue: 0,0:17:24.96,0:17:27.58,Default,,0,0,0,,Biseda juaj më kushtoi 30 sekonda.
+Dialogue: 0,0:17:29.25,0:17:32.84,Default,,0,0,0,,Duhet ta rris fuqinë në 250%.
+Dialogue: 0,0:17:43.06,0:17:46.94,Default,,0,0,0,,Barley Spice\Nnuk do të bënte kurrë diçka të tillë!
+Dialogue: 0,0:17:49.77,0:17:51.15,Default,,0,0,0,,Barley Spice...
+Dialogue: 0,0:17:52.53,0:17:54.03,Default,,0,0,0,,nuk është as e vërtetë.
+Dialogue: 0,0:18:02.54,0:18:03.41,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Mei.{\c}{\fn\i0}
+Dialogue: 0,0:18:03.87,0:18:06.75,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Vërtet po e hedh poshtë shkopin tënd?{\c}{\fn\i0}
+Dialogue: 0,0:18:07.33,0:18:08.17,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Po.{\c}{\fn\i0}
+Dialogue: 0,0:18:09.17,0:18:11.17,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Sepse Barley Spice nuk është e vërtetë.{\c}{\fn\i0}
+Dialogue: 0,0:18:12.38,0:18:14.59,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Nuk më duhet diçka që nuk më shpëton.{\c}{\fn\i0}
+Dialogue: 0,0:18:14.67,0:18:15.51,Default,,0,0,0,,{\an8}MATH
+Dialogue: 0,0:18:15.59,0:18:20.39,Default,,0,0,0,,Ngatërrimi i fiksionit me punën reale\Nushqen optimizëm të rremë, që është i rrezikshëm.
+Dialogue: 0,0:18:20.93,0:18:21.89,Default,,0,0,0,,Lëviz.
+Dialogue: 0,0:18:23.43,0:18:27.44,Default,,0,0,0,,Unë nuk jam... Ne nuk jemi personazhe fiktive!
+Dialogue: 0,0:18:27.94,0:18:29.40,Default,,0,0,0,,Ky është realitet!
+Dialogue: 0,0:18:29.48,0:18:31.69,Default,,0,0,0,,Prandaj erdha të të ndaloj!
+Dialogue: 0,0:18:34.23,0:18:36.49,Default,,0,0,0,,Dërgo procesverbalin e mbledhjes së sotme.
+Dialogue: 0,0:18:36.99,0:18:38.07,Default,,0,0,0,,Po, zotëri.
+Dialogue: 0,0:18:38.70,0:18:40.87,Default,,0,0,0,,Gjithashtu, për darkën e grupit nesër,
+Dialogue: 0,0:18:40.99,0:18:45.04,Default,,0,0,0,,Do të doja ta riplanifikoja\Ndhe të fusja këtë mbledhje në vend të saj.
+Dialogue: 0,0:18:45.45,0:18:46.50,Default,,0,0,0,,Vazhdo.
+Dialogue: 0,0:18:46.83,0:18:49.75,Default,,0,0,0,,Atëherë mbledhja e radhës\Ndo të jetë të enjten e ardhshme në—
+Dialogue: 0,0:18:49.87,0:18:51.42,Default,,0,0,0,,Do ta njoftoj presidentin!
+Dialogue: 0,0:18:52.84,0:18:54.21,Default,,0,0,0,,Të duhet gjë?
+Dialogue: 0,0:18:55.51,0:18:57.63,Default,,0,0,0,,Znj. Tsuchiba nuk po përgjigjet...
+Dialogue: 0,0:18:58.42,0:19:00.97,Default,,0,0,0,,Vajza Magjike e një kompanie tjetër\Ne ka kufjen e saj.
+Dialogue: 0,0:19:02.18,0:19:03.43,Default,,0,0,0,,Më lër të flas me të.
+Dialogue: 0,0:19:03.76,0:19:06.47,Default,,0,0,0,,Na vjen keq. I kërkuam Znj. Tsuchiba të—
+Dialogue: 0,0:19:06.60,0:19:09.64,Default,,0,0,0,,Më lër të flas me të. Urdhër i presidentit.
+Dialogue: 0,0:19:12.56,0:19:14.36,Default,,0,0,0,,Zbrit, Sakuragi.
+Dialogue: 0,0:19:14.86,0:19:16.07,Default,,0,0,0,,Nuk do ta bëj!
+Dialogue: 0,0:19:17.24,0:19:19.99,Default,,0,0,0,,Ta vësh veten në rrezik\Npa lejuar askënd të ndihmojë?
+Dialogue: 0,0:19:20.49,0:19:23.49,Default,,0,0,0,,A ia vlen kjo punë kaq larg?
+Dialogue: 0,0:19:24.91,0:19:27.58,Default,,0,0,0,,Kur punonjësit ekzistojnë\Nvetëm për hir të kompanisë,
+Dialogue: 0,0:19:27.66,0:19:29.00,Default,,0,0,0,,kjo është vlera jonë.
+Dialogue: 0,0:19:29.50,0:19:31.67,Default,,0,0,0,,Të lutem, më lër ta kryej punën time.
+Dialogue: 0,0:19:36.42,0:19:39.38,Default,,0,0,0,,Nëse puna është vendi i vetëm\Nku gjen vlerë...
+Dialogue: 0,0:19:42.43,0:19:47.43,Default,,0,0,0,,a do të thotë që nuk e vlerëson veten\Nduke qeshur me mua gjatë drekës fundjavën tjetër?!
+Dialogue: 0,0:19:51.39,0:19:54.06,Default,,0,0,0,,Eh, kjo është krejt e palidhur!
+Dialogue: 0,0:19:54.56,0:19:55.77,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Tsuchiba.{\c}{\fn\i0}
+Dialogue: 0,0:19:56.73,0:19:58.23,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Përgjigju, të lutem.{\c}{\fn\i0}
+Dialogue: 0,0:19:59.90,0:20:00.95,Default,,0,0,0,,Flet Koga.
+Dialogue: 0,0:20:03.99,0:20:05.24,Default,,0,0,0,,Znj. Tsuchiba...
+Dialogue: 0,0:20:06.08,0:20:09.00,Default,,0,0,0,,Thirrje nga kompania ime? Do t'i përgjigjem.
+Dialogue: 0,0:20:09.29,0:20:12.17,Default,,0,0,0,,Mos e bëj këtë, Znj. Tsuchiba.\NDuhet të rimendosh!
+Dialogue: 0,0:20:12.29,0:20:15.46,Default,,0,0,0,,Flet Tsuchiba.\NKërkoj falje për vonesën e shfarosjes.
+Dialogue: 0,0:20:15.88,0:20:17.21,Default,,0,0,0,,-Do të nxitoj...\N{\i1\c&Hffffff&\fnTrebuchet MS}-Tsuchiba.{\c}{\fn\i0}
+Dialogue: 0,0:20:17.46,0:20:18.34,Default,,0,0,0,,Flet Koga.
+Dialogue: 0,0:20:18.71,0:20:21.88,Default,,0,0,0,,Në lidhje me detyrën tënde aktuale,\Npo të kërkoj të ndërpresësh menjëherë
+Dialogue: 0,0:20:21.97,0:20:23.30,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}misionin.{\c}{\fn\i0}
+Dialogue: 0,0:20:25.93,0:20:27.60,Default,,0,0,0,,Të ndërpres misionin? Pse?
+Dialogue: 0,0:20:28.39,0:20:30.18,Default,,0,0,0,,A kam bërë ndonjë gabim?
+Dialogue: 0,0:20:30.60,0:20:31.85,Default,,0,0,0,,{\i1\c&Hffffff&\fnTrebuchet MS}Të ndërpres?{\c}{\fn\i0}
+Dialogue: 0,0:20:32.39,0:20:33.65,Default,,0,0,0,,Nuk bëre asgjë të gabuar.
+Dialogue: 0,0:20:33.73,0:20:34.60,Default,,0,0,0,,Vetëm se...
+Dialogue: 0,0:20:35.31,0:20:37.69,Default,,0,0,0,,të shpëtojmë jetën është prioriteti ynë kryesor.
+Dialogue: 0,0:20:50.62,0:20:51.83,Default,,0,0,0,,E kuptoj.
+Dialogue: 0,0:22:45.03,0:22:47.86,Default,,0,0,0,,HERËN TJETËR: EPISODI 12\NGËZIM QË U BËRA VAJZË MAGJIKE
+Dialogue: 0,0:22:47.95,0:22:49.95,Default,,0,0,0,,Përktheu: Logan Lampkins
+
