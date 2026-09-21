@@ -1,0 +1,322 @@
+﻿[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 8
+YCbCr Matrix: TV.601
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback_Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Narration,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Italics - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback_Italics - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Sign_Basic,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Show_Title,Times New Roman,24,&H00000000,&H000000FF,&H00FFFFFF,&H64000000,-1,0,0,0,100,100,0,0,1,1,0,2,10,10,18,1
+Style: Ep_Title,Georgia,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,140,0,0,1,0,0,2,10,10,60,1
+Style: Subtitles,Trebuchet MS,22,&H00E6EBE1,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,10,10,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.48,0:00:04.48,Show_Title,Text; series title,0,0,0,,{\fad(500,0)\an5\c&H121519&\be.25\fs60\fscx60\pos(550,38)\bord.5}III
+Dialogue: 1,0:00:00.48,0:00:04.48,Show_Title,Text; series title,0,0,0,,{\fad(500,0)\an5\be.25\bord.5\i1\fscy140\fs20\pos(550,38)}M{\c&H031C23&}u{\c&H063846&}s{\c&H0A556A&}h{\c&H0D718D&}o{\c&H108DB0&}k{\c&H13A9D3&}u{\c&H13A9D3&} {\c&H108DB0&}T{\c&H0D718D&}e{\c&H0A556A&}n{\c&H063846&}s{\c&H031C23&}e{\c&H000000&}i
+Dialogue: 1,0:00:00.48,0:00:04.48,Show_Title,Text; series title,0,0,0,,{\fad(500,0)\an8\fnTimes New Roman\b1\c&H13D0F3&\shad0\bord.25\be.25\fs8\i1\pos(520,60)}Job{\c&H000000&}less {\c&H13D0F3&}Rein{\c&H000000&}carnation
+Dialogue: 0,0:00:02.74,0:00:03.49,Main,Passersby,0,0,0,,Çfarë?
+Dialogue: 0,0:00:03.49,0:00:04.49,Main,Passersby,0,0,0,,Ishte e sëmurë?
+Dialogue: 0,0:00:04.49,0:00:05.59,Main,Passersby,0,0,0,,E shkreta.
+Dialogue: 0,0:00:06.58,0:00:07.50,Main - Top,Passersby,0,0,0,,Çfarë është kjo rrëmujë?
+Dialogue: 0,0:00:08.21,0:00:10.10,Main - Top,Passersby,0,0,0,,Ndoshta më mirë të mos e prekim.
+Dialogue: 0,0:00:11.53,0:00:13.46,Main,Sylphiette,0,0,0,,Një mace e vdekur e çuditshme?
+Dialogue: 0,0:00:13.46,0:00:15.91,Main - Top,Rudeus,0,0,0,,Po. Më bëri të dridhem.
+Dialogue: 0,0:00:15.91,0:00:17.82,Main - Top,Aisha,0,0,0,,Pashë një të tillë edhe unë.
+Dialogue: 0,0:00:18.51,0:00:22.88,Main,Aisha,0,0,0,,Nuk ishte mace, por gjeta\Nnjë mi të çuditshëm të ngordhur pas shtëpisë.
+Dialogue: 0,0:00:22.88,0:00:25.48,Main - Top,Roxy,0,0,0,,Mos vallë është ndonjë sëmundje që po qarkullon?
+Dialogue: 0,0:00:25.48,0:00:27.33,Main - Top,Rudeus,0,0,0,,E mundur.
+Dialogue: 0,0:00:27.33,0:00:31.05,Main - Top,Rudeus,0,0,0,,Të gjithë sigurohuni të lani duart\Ndhe të shpëlani gojën për siguri.
+Dialogue: 0,0:00:31.05,0:00:32.31,Main,Roxy,0,0,0,,Dakord.
+Dialogue: 0,0:00:31.05,0:00:31.85,Main,Sylphiette,0,0,0,,Sigurisht.
+Dialogue: 0,0:00:31.05,0:00:32.31,Main - Top,Norn,0,0,0,,Shumë mirë.
+Dialogue: 0,0:00:32.31,0:00:33.30,Main,Cliff,0,0,0,,Rudeus.
+Dialogue: 0,0:00:37.48,0:00:40.02,Main - Top,Cliff,0,0,0,,Lise është shtatzënë.
+Dialogue: 0,0:00:41.41,0:00:43.39,Main - Top,Sylphiette,0,0,0,,Urime, gjyshe!
+Dialogue: 0,0:00:41.41,0:00:43.03,Main - Top,Rudeus; Roxy; Norn,0,0,0,,Urime!
+Dialogue: 0,0:00:43.39,0:00:45.16,Main - Top,Elinalise,0,0,0,,Faleminderit.
+Dialogue: 0,0:00:45.56,0:00:47.07,Italics,Previous Incarnation {M},0,0,0,,Një fëmijë, hë?
+Dialogue: 0,0:00:47.07,0:00:50.35,Italics,Previous Incarnation {M},0,0,0,,Do të doja të kisha një\Nme Roxy shumë shpejt.
+Dialogue: 0,0:00:50.35,0:00:52.66,Italics,Previous Incarnation {M},0,0,0,,Pyes veten si ndjehet ajo për këtë.
+Dialogue: 0,0:00:45.16,0:00:49.89,Main - Top,Elinalise,0,0,0,,Ishte e lezetshme sa i tronditur u bë Cliff\Nkur i thashë lajmin. Ai—
+Dialogue: 0,0:00:49.89,0:00:52.01,Main - Top,Cliff,0,0,0,,Lise, mos ua thuaj atyre!
+Dialogue: 0,0:00:53.10,0:00:55.20,Italics,Previous Incarnation {M},0,0,0,,Shpresoj të ndjejë të njëjtën gjë.
+Dialogue: 0,0:00:52.86,0:00:56.84,Main - Top,Elinalise,0,0,0,,Ma lër mua.\NE di si të kesh një fëmijë të shëndetshëm.
+Dialogue: 0,0:01:01.65,0:01:03.19,Main,Rudeus,0,0,0,,Çfarë ishte ai zhurmë?
+Dialogue: 0,0:01:04.43,0:01:05.78,Main,Rudeus,0,0,0,,Roxy!
+Dialogue: 0,0:01:09.65,0:01:12.43,Main,Rudeus,0,0,0,,Shërimi i avancuar i detoksifikimit nuk ka efekt.
+Dialogue: 0,0:01:12.43,0:01:14.32,Main,Rudeus,0,0,0,,A mund të na thuash ndonjë gjë?
+Dialogue: 0,0:01:16.67,0:01:18.13,Main,Cliff,0,0,0,,Është sëmundja e gurëzimit.
+Dialogue: 0,0:01:19.35,0:01:20.48,Main,Cliff,0,0,0,,Më falni.
+Dialogue: 0,0:01:25.03,0:01:28.91,Main,Cliff,0,0,0,,Është serioze.\NVetëm shërimi i klasit të Zotit është ilaçi.
+Dialogue: 0,0:01:36.50,0:01:38.74,Main,Rudeus,0,0,0,,Si, më fal?
+Dialogue: 0,0:01:38.74,0:01:43.64,Main,Cliff,0,0,0,,Një tekst i shenjtë në Milis përmban\Nmagjinë e shërimit të klasit të Zotit.
+Dialogue: 0,0:01:43.91,0:01:47.01,Main,Cliff,0,0,0,,Është e vetmja gjë që mund të shpëtojë Roxy.
+Dialogue: 0,0:01:47.49,0:01:50.07,Main,Cliff,0,0,0,,E di ku ruhet.
+Dialogue: 0,0:01:50.69,0:01:53.60,Main,Cliff,0,0,0,,Pra, më lër t'ju çoj atje, Rudeus.
+Dialogue: 0,0:01:54.11,0:01:56.55,Main,Zanoba,0,0,0,,Natyrisht, do t'ju shoqëroj edhe unë.
+Dialogue: 0,0:01:59.83,0:02:03.01,Main,Rudeus,0,0,0,,Faleminderit të dyve shumë.
+Dialogue: 0,0:02:04.34,0:02:05.77,Main,Millisian A,0,0,0,,Të huaj!
+Dialogue: 0,0:02:05.77,0:02:07.20,Main,Millisian A,0,0,0,,Morën librin e shenjtë!
+Dialogue: 0,0:02:12.15,0:02:16.66,Italics,Previous Incarnation {M},0,0,0,,Ushtarët e Milisit na zunë pritë\Nte rrënojat e teleportuesit.
+Dialogue: 0,0:02:20.05,0:02:24.41,Italics,Previous Incarnation {M},0,0,0,,Vrava një person për herë të parë.
+Dialogue: 0,0:03:01.91,0:03:04.91,Main,Eris,0,0,0,,K-Ka kaluar kohë, Rudeus!
+Dialogue: 0,0:03:04.91,0:03:08.29,Main,Rudeus,0,0,0,,Ghislaine dhe... Eris?
+Dialogue: 0,0:03:08.29,0:03:10.53,Italics,Previous Incarnation {M},0,0,0,,Çfarë po bëjnë ata këtu?
+Dialogue: 0,0:03:10.53,0:03:13.67,Main,Eris,0,0,0,,Hm... Dëgjova për ty në shkollë!
+Dialogue: 0,0:03:13.67,0:03:16.85,Main,Eris,0,0,0,,Plagosët një Mbret Demon,\Nu bëre shef i studentëve,
+Dialogue: 0,0:03:16.85,0:03:18.72,Main,Eris,0,0,0,,dhe vrave një hidër me një dorë të vetme!
+Dialogue: 0,0:03:18.72,0:03:20.90,Main,Eris,0,0,0,,Dhe sakrifikove dorën e majtë
+Dialogue: 0,0:03:20.90,0:03:23.61,Main,Eris,0,0,0,,për të mundur një nga\NShtatë Fuqitë dhe, hm...
+Dialogue: 0,0:03:23.61,0:03:25.07,Main,Rudeus,0,0,0,,Çfarë do?
+Dialogue: 0,0:03:27.83,0:03:29.90,Main,Eris,0,0,0,,Jam bërë më e fortë!
+Dialogue: 0,0:03:30.27,0:03:33.66,Main,Eris,0,0,0,,Ndoshta ke shkuar edhe\Nmë larg se unë,
+Dialogue: 0,0:03:33.66,0:03:37.00,Main,Eris,0,0,0,,por jam ende mjaft e fortë\Ntë qëndroj pranë teje si e barabartë!
+Dialogue: 0,0:03:37.33,0:03:39.59,Main,Eris,0,0,0,,Pra, hm...
+Dialogue: 0,0:03:39.59,0:03:41.38,Main,Eris,0,0,0,,le të martohemi!
+Dialogue: 0,0:03:44.44,0:03:46.60,Main,Rudeus,0,0,0,,Për çfarë po flet?
+Dialogue: 0,0:03:47.25,0:03:49.35,Main,Rudeus,0,0,0,,Mos më thuaj këto marrëzira!
+Dialogue: 0,0:03:49.35,0:03:52.21,Main,Rudeus,0,0,0,,A e ke idenë\Nsa kam vuajtur?!
+Dialogue: 0,0:03:53.98,0:03:56.32,Main,Rudeus,0,0,0,,Kam tashmë dy gra.
+Dialogue: 0,0:03:56.85,0:03:58.56,Main,Rudeus,0,0,0,,Nuk mund të gjej kohë për ty.
+Dialogue: 0,0:04:05.50,0:04:07.33,Main,Zanoba,0,0,0,,Vërtet ishte për të mirën tënde?
+Dialogue: 0,0:04:07.33,0:04:08.85,Main,Rudeus,0,0,0,,Duhet të mendoj për Roxin tani.
+Dialogue: 0,0:04:09.25,0:04:11.05,Italics,Previous Incarnation {M},0,0,0,,Pse tani, pas gjithë kësaj kohe?
+Dialogue: 0,0:04:57.58,0:05:01.40,Italics,Previous Incarnation {M},0,0,0,,Roxy është zhdukur. Roxy, pikërisht ajo.
+Dialogue: 0,0:05:11.62,0:05:15.74,Main,Sylphiette,0,0,0,,Rudy, nuk do të të them të gëzohesh.
+Dialogue: 0,0:05:15.74,0:05:19.90,Main,Sylphiette,0,0,0,,Por do të doja të përballeshe me mua\Ndhe pjesën tjetër të familjes.
+Dialogue: 0,0:05:20.51,0:05:23.43,Main,Sylphiette,0,0,0,,Të gjithë na mungon Roxy.
+Dialogue: 0,0:05:23.43,0:05:27.28,Main,Sylphiette,0,0,0,,Por të të shohim kështu\Nnuk do ta lumturonte atë.
+Dialogue: 0,0:05:32.29,0:05:34.00,Main,Sylphiette,0,0,0,,Nëse do t'i largojë mendimet,
+Dialogue: 0,0:05:35.41,0:05:38.17,Main,Sylphiette,0,0,0,,mund ta përdorësh trupin tim si të duash.
+Dialogue: 0,0:05:39.73,0:05:42.62,Main,Rudeus,0,0,0,,Mendon se mund të fle me ty\Nkur e thua kështu?!
+Dialogue: 0,0:05:45.24,0:05:46.41,Main,Sylphiette,0,0,0,,Më fal.
+Dialogue: 0,0:05:51.89,0:05:56.94,Italics,Previous Incarnation {M},0,0,0,,E di se do të jem tepër i vrazhdë me\NSylphien nëse fle me të tani.
+Dialogue: 0,0:05:57.28,0:06:01.73,Italics,Previous Incarnation {M},0,0,0,,Do ta përdorja si zëvendësuese të Roxit,\Nsi dikë për të nxjerrë zemërimin.
+Dialogue: 0,0:06:15.52,0:06:18.06,Main,Rudeus,0,0,0,,Të kam parë shumë kohët e fundit.
+Dialogue: 0,0:06:18.69,0:06:22.40,Main,Rudeus,0,0,0,,Si do të më propozosh sot?
+Dialogue: 0,0:06:25.66,0:06:27.54,Main,Rudeus,0,0,0,,Për çfarë dreqin ishte ajo?!
+Dialogue: 0,0:06:33.16,0:06:37.54,Italics,Previous Incarnation {M},0,0,0,,Askush nuk e kupton si ndjehem, gjithsesi.
+Dialogue: 0,0:06:38.43,0:06:40.09,Main,Prostitute A,0,0,0,,Ejani përsëri.
+Dialogue: 0,0:07:07.82,0:07:09.11,Main,Rudeus,0,0,0,,Do të kthehem.
+Dialogue: 0,0:07:15.33,0:07:17.06,Main,Rudeus,0,0,0,,Sylphie...
+Dialogue: 0,0:07:17.94,0:07:20.42,Main,Sylphiette,0,0,0,,Pse nuk jam e mjaftueshme?!
+Dialogue: 0,0:07:20.86,0:07:22.05,Main,Rudeus,0,0,0,,Sylphie!
+Dialogue: 0,0:07:25.43,0:07:28.80,Italics,Previous Incarnation {M},0,0,0,,Disa ditë më vonë, Sylphie iku.
+Dialogue: 0,0:07:29.29,0:07:34.29,Italics,Previous Incarnation {M},0,0,0,,Lilia më tha ta ndiqja,\Npor a kam fare të drejtë?
+Dialogue: 0,0:07:35.21,0:07:38.30,Italics,Previous Incarnation {M},0,0,0,,Sikur Elinalise të ishte këtu tani.
+Dialogue: 0,0:07:47.70,0:07:52.61,Italics,Previous Incarnation {M},0,0,0,,Dëgjova se Sylphie iku\Nnë Asura me Arielin.
+Dialogue: 0,0:07:53.02,0:07:55.27,Italics,Previous Incarnation {M},0,0,0,,Duhet ta arrij nëse nxitoj.
+Dialogue: 0,0:07:58.74,0:08:00.42,Italics,Previous Incarnation {M},0,0,0,,Do të kërkoj falje me të vërtetë.
+Dialogue: 0,0:08:00.90,0:08:04.15,Italics,Previous Incarnation {M},0,0,0,,Do të kthehemi bashkë në shtëpi dhe\Ndo të fillojmë nga e para me të gjithë.
+Dialogue: 0,0:08:07.50,0:08:11.52,Italics,Previous Incarnation {M},0,0,0,,Nuk e mendoja kurrë se do të\Nfutesha fshehurazi përtej kufirit të Asurës.
+Dialogue: 0,0:08:11.52,0:08:13.95,Main,Triss,0,0,0,,Në rregull, po shkoj të organizoj transportin.
+Dialogue: 0,0:08:13.95,0:08:15.31,Main,Triss,0,0,0,,Qëndro këtu.
+Dialogue: 0,0:08:16.23,0:08:18.98,Italics,Previous Incarnation {M},0,0,0,,Gëzohem që gjeta një bandite për ndihmë,
+Dialogue: 0,0:08:18.98,0:08:22.72,Italics,Previous Incarnation {M},0,0,0,,por a do t'i japë Sylphies\Npërshtypjen e gabuar nëse e marr me vete?
+Dialogue: 0,0:08:15.68,0:08:18.25,Main - Top,Triss,0,0,0,,Dhe mos u afro pa kujdes.
+Dialogue: 0,0:08:18.74,0:08:19.87,Main - Top,Triss,0,0,0,,E kuptove?
+Dialogue: 0,0:08:28.58,0:08:30.20,Main,Rudeus,0,0,0,,Çfarë po bën ajo këtu?
+Dialogue: 0,0:08:30.20,0:08:33.26,Italics,Previous Incarnation {M},0,0,0,,Në fakt, Asura është atdheu i saj.
+Dialogue: 0,0:08:33.26,0:08:35.28,Italics,Previous Incarnation {M},0,0,0,,Pse të mos ishte këtu?
+Dialogue: 0,0:08:37.81,0:08:44.14,Italics,Previous Incarnation {M},0,0,0,,Banditja, Triss, më tha se\NMbreti i Asurës është i sëmurë dhe nuk do të jetojë gjatë.
+Dialogue: 0,0:08:44.54,0:08:49.25,Italics,Previous Incarnation {M},0,0,0,,Ariel duhet të jetë nxituar në shtëpi\Npër t'u bashkuar në mosmarrëveshjen e trashëgimisë.
+Dialogue: 0,0:08:49.81,0:08:52.88,Main,Asuran A,0,0,0,,A është e vërtetë se Princesha Ariel\Nfilloi një kryengritje të armatosur?
+Dialogue: 0,0:08:52.88,0:08:55.57,Main,Asuran B,0,0,0,,Po. Dëgjova se e kapën, megjithatë.
+Dialogue: 0,0:08:55.85,0:08:58.34,Main,Asuran B,0,0,0,,Fjala në rrugë është se\Ndo ta ekzekutojnë së shpejti.
+Dialogue: 0,0:09:08.73,0:09:10.36,Main,Asuran C,0,0,0,,Rebelë të mallkuar!
+Dialogue: 0,0:09:10.82,0:09:13.53,Main,Asuran D,0,0,0,,Kush të kërkoi të nxisje\Ntelashe në kryeqytet?!
+Dialogue: 0,0:09:13.53,0:09:15.53,Main,Asuran C,0,0,0,,Qen të paturp!
+Dialogue: 0,0:09:32.48,0:09:33.75,Main,Rudeus,0,0,0,,Sylphie!
+Dialogue: 0,0:09:33.95,0:09:35.50,Main,Rudeus,0,0,0,,Sylphie!
+Dialogue: 0,0:09:37.14,0:09:40.15,Main,Rudeus,0,0,0,,Jo... Sylphie...
+Dialogue: 0,0:09:42.20,0:09:43.89,Main,Asuran C,0,0,0,,Kush je ti?
+Dialogue: 0,0:09:43.89,0:09:46.34,Main,Asuran C,0,0,0,,A je një prej tyre?!
+Dialogue: 0,0:09:53.86,0:09:58.12,Main,Rudeus,0,0,0,,Mos guxo ta dhunosh Sylphien!
+Dialogue: 0,0:10:01.85,0:10:03.70,Italics,Previous Incarnation {M},0,0,0,,Nuk më intereson më.
+Dialogue: 0,0:10:04.01,0:10:06.54,Italics,Previous Incarnation {M},0,0,0,,Një vend si ky meriton të rrëzohet.
+Dialogue: 0,0:10:07.13,0:10:09.96,Italics,Previous Incarnation {M},0,0,0,,Gjithçka duhet të zhduket.
+Dialogue: 0,0:10:24.69,0:10:28.20,Main,Rudeus,0,0,0,,Më ke ngacmuar gjithë ditën.
+Dialogue: 0,0:10:28.61,0:10:31.67,Main,Rudeus,0,0,0,,Mund të heshtësh?\NPo ma prish pijen.
+Dialogue: 0,0:10:31.67,0:10:33.49,Main,Lilia,0,0,0,,Jo, nuk do të hesht.
+Dialogue: 0,0:10:33.81,0:10:36.99,Main,Lilia,0,0,0,,Kaloni çdo ditë duke pirë,\Nduke shpenzuar e pa fituar kurrë.
+Dialogue: 0,0:10:37.55,0:10:40.49,Main,Lilia,0,0,0,,Më keq, sollët një prostitutë\Nnë shtëpi dje.
+Dialogue: 0,0:10:40.49,0:10:45.64,Main,Rudeus,0,0,0,,Unë jam zotëria i shtëpisë.\NMund të bëj çfarë të dua.
+Dialogue: 0,0:10:46.08,0:10:49.62,Main,Rudeus,0,0,0,,Nëse do para, pse nuk\Nfiton ca me trupin tënd?
+Dialogue: 0,0:10:50.06,0:10:54.12,Main,Lilia,0,0,0,,Kjo gjendje është\Nndikim i keq për zonjushën Lucie.
+Dialogue: 0,0:10:54.12,0:10:56.35,Main,Lilia,0,0,0,,Familja jonë do të shpërbëhet.
+Dialogue: 0,0:10:56.79,0:11:01.13,Main,Rudeus,0,0,0,,{\i1}Familja{\i0}jonë? Kjo është{\i1}shtëpia{\i0}ime.
+Dialogue: 0,0:11:01.13,0:11:05.02,Main,Rudeus,0,0,0,,E bleva për të jetuar i lumtur me Sylphien.
+Dialogue: 0,0:11:05.49,0:11:08.02,Main,Rudeus,0,0,0,,Ti je thjesht një parasite,
+Dialogue: 0,0:11:08.02,0:11:10.83,Main,Rudeus,0,0,0,,ndaj ndalo së sillesh si nëna ime!
+Dialogue: 0,0:12:47.21,0:12:53.60,Italics,Previous Incarnation {M},0,0,0,,Pse nuk arrita të rregullohesha\Npas vdekjes së Roxit?
+Dialogue: 0,0:12:59.90,0:13:02.34,Main,Aisha,0,0,0,,Vëllai i madh! Mirë se u ktheve.
+Dialogue: 0,0:13:02.34,0:13:05.16,Main,Aisha,0,0,0,,Darka është pothuajse gati.\NNuk do të vonojë.
+Dialogue: 0,0:13:10.00,0:13:11.02,Main,Man-God,0,0,0,,Përshëndetje!
+Dialogue: 0,0:13:12.05,0:13:13.31,Main,Previous Incarnation,0,0,0,,Ti?
+Dialogue: 0,0:13:13.80,0:13:19.07,Main,Previous Incarnation,0,0,0,,Më shpërfillje kur të duhesha.\NÇfarë do tani?
+Dialogue: 0,0:13:19.07,0:13:21.70,Main,Man-God,0,0,0,,Thjesht mendova të them lamtumirën.
+Dialogue: 0,0:13:21.91,0:13:24.53,Main,Previous Incarnation,0,0,0,,Lamtumirë? Çfarë do të thuash?
+Dialogue: 0,0:13:24.53,0:13:26.27,Main,Man-God,0,0,0,,Atë që tingëllon.
+Dialogue: 0,0:13:26.27,0:13:28.99,Main,Man-God,0,0,0,,Kam mbaruar me ty.
+Dialogue: 0,0:13:28.99,0:13:30.01,Main,Previous Incarnation,0,0,0,,Hë?
+Dialogue: 0,0:13:30.47,0:13:33.99,Main,Man-God,0,0,0,,U takuam gjatë\Nteleportimit masiv, të kujtohet?
+Dialogue: 0,0:13:34.60,0:13:37.15,Main,Man-God,0,0,0,,O Zot, sa më shokuar.
+Dialogue: 0,0:13:37.15,0:13:39.93,Main,Man-God,0,0,0,,E ardhmja ndryshoi papritur nga hiçi.
+Dialogue: 0,0:13:39.93,0:13:46.17,Main,Man-God,0,0,0,,Dhe bekimi im nuk funksionon tek ti,\Nndaj fitoja besimin tënd me shumë mundim.
+Dialogue: 0,0:13:46.40,0:13:50.48,Main,Man-God,0,0,0,,Por në fund,\Ntë binda të më bësh një favore.
+Dialogue: 0,0:13:50.48,0:13:52.59,Main,Man-God,0,0,0,,Gjithë ai mund u shpërblye.
+Dialogue: 0,0:13:52.59,0:13:53.77,Main,Previous Incarnation,0,0,0,,Një favore?
+Dialogue: 0,0:13:54.29,0:13:57.10,Main,Previous Incarnation,0,0,0,,Do të thuash kontrollimin e bodrumit tim?
+Dialogue: 0,0:13:57.10,0:13:58.28,Main,Man-God,0,0,0,,Po, pikërisht.
+Dialogue: 0,0:13:58.28,0:14:01.55,Main,Man-God,0,0,0,,Me ndihmën tënde, arrita të vras Roxin.
+Dialogue: 0,0:14:04.27,0:14:05.48,Main,Previous Incarnation,0,0,0,,Hë?
+Dialogue: 0,0:14:05.48,0:14:08.12,Main,Previous Incarnation,0,0,0,,Për çfarë po flet?
+Dialogue: 0,0:14:08.12,0:14:10.39,Main,Previous Incarnation,0,0,0,,Nëse ishte shaka, nuk qe qesharake.
+Dialogue: 0,0:14:13.89,0:14:15.04,Main,Previous Incarnation,0,0,0,,Ti...
+Dialogue: 0,0:14:15.99,0:14:18.64,Main,Previous Incarnation,0,0,0,,{\i1}Ti{\i0}e vrave Roxin?
+Dialogue: 0,0:14:18.64,0:14:20.82,Main,Man-God,0,0,0,,Teknikisht, jo.
+Dialogue: 0,0:14:21.23,0:14:23.63,Main,Man-God,0,0,0,,Nuk mund të ndërhyj drejtpërdrejt.
+Dialogue: 0,0:14:23.99,0:14:28.38,Main,Man-God,0,0,0,,Dhashë këshilla, dhe ti bëre punën,\Nsi gjithmonë.
+Dialogue: 0,0:14:29.25,0:14:30.85,Main,Man-God,0,0,0,,Në atë kuptim,
+Dialogue: 0,0:14:31.09,0:14:32.39,Main,Man-God,0,0,0,,ndoshta{\i1}ti{\i0}je ai
+Dialogue: 0,0:14:33.23,0:14:34.56,Main,Man-God,0,0,0,,që e vrau atë.
+Dialogue: 0,0:14:34.56,0:14:36.60,Main,Previous Incarnation,0,0,0,,Ti e vrave?!
+Dialogue: 0,0:14:36.86,0:14:38.08,Main,Previous Incarnation,0,0,0,,Ti!
+Dialogue: 0,0:14:40.06,0:14:41.48,Main,Previous Incarnation,0,0,0,,Ti...
+Dialogue: 0,0:14:45.65,0:14:47.03,Main,Man-God,0,0,0,,Shiko fytyrën tënde!
+Dialogue: 0,0:14:47.03,0:14:49.27,Main,Man-God,0,0,0,,Kjo është fytyra që doja të shihja!
+Dialogue: 0,0:14:48.56,0:14:51.78,Main - Top,Previous Incarnation,0,0,0,,Çfarë të bëri Roxy ty?
+Dialogue: 0,0:14:51.78,0:14:53.82,Main,Previous Incarnation,0,0,0,,Kam kaluar nëpër ferr që atëherë!
+Dialogue: 0,0:14:53.82,0:14:56.65,Main,Previous Incarnation,0,0,0,,Unë... I humba të gjithë!
+Dialogue: 0,0:14:57.27,0:14:59.54,Main,Man-God,0,0,0,,Ky është problemi yt.
+Dialogue: 0,0:14:59.54,0:15:03.14,Main,Man-God,0,0,0,,Farat e kësaj i ke pasur\Nbrenda gjithë kohës.
+Dialogue: 0,0:15:03.14,0:15:06.24,Main,Man-God,0,0,0,,Mos ia hidh fajin gjithçkaje mua.
+Dialogue: 0,0:15:06.75,0:15:11.89,Main,Man-God,0,0,0,,Duhet ta pranoj, megjithatë, u kënaqa\Nshumë duke të parë të shpërbëheshe.
+Dialogue: 0,0:15:11.89,0:15:13.69,Main,Previous Incarnation,0,0,0,,Do ta paguash!
+Dialogue: 0,0:15:14.48,0:15:18.61,Main,Man-God,0,0,0,,Oh, po. Një gjë e fundit para se të shkoj.
+Dialogue: 0,0:15:19.06,0:15:24.11,Main,Man-God,0,0,0,,A e dije se Roxy ishte shtatzënë?
+Dialogue: 0,0:15:25.14,0:15:30.74,Main,Man-God,0,0,0,,Sepse je kaq budalla,\Ngjithçka shkoi pikërisht si doja!
+Dialogue: 0,0:15:33.73,0:15:36.35,Main,Man-God,0,0,0,,Epo, mirupafshim.
+Dialogue: 0,0:15:38.34,0:15:39.42,Main,Previous Incarnation,0,0,0,,Hej.
+Dialogue: 0,0:15:39.42,0:15:42.17,Main,Previous Incarnation,0,0,0,,Hej! Nuk kam mbaruar së foluri me ty!
+Dialogue: 0,0:15:42.17,0:15:43.38,Main,Previous Incarnation,0,0,0,,Njeriu-Zot!
+Dialogue: 0,0:15:43.59,0:15:45.38,Main,Previous Incarnation,0,0,0,,Njeriu-Zot!
+Dialogue: 0,0:16:02.34,0:16:06.32,Italics,Previous Incarnation {M},0,0,0,,Mos e ëndërrova vërtet atë?
+Dialogue: 0,0:16:06.63,0:16:10.47,Italics,Previous Incarnation {M},0,0,0,,Të dhënat për Njeriun-Zot ishin\Nkaq të pakta, sa duhej të pyesja veten.
+Dialogue: 0,0:16:11.28,0:16:12.20,Italics,Previous Incarnation {M},0,0,0,,Jo.
+Dialogue: 0,0:16:12.20,0:16:14.32,Italics,Previous Incarnation {M},0,0,0,,Dora e tij në shpatullën time.
+Dialogue: 0,0:16:14.32,0:16:15.50,Italics,Previous Incarnation {M},0,0,0,,E qeshura e tij.
+Dialogue: 0,0:16:15.79,0:16:17.36,Italics,Previous Incarnation {M},0,0,0,,Ato ishin të vërteta.
+Dialogue: 0,0:16:17.86,0:16:20.60,Italics,Previous Incarnation {M},0,0,0,,Sido që të jetë,
+Dialogue: 0,0:16:20.60,0:16:24.55,Italics,Previous Incarnation {M},0,0,0,,do të mësoj gjithçka për\Natë copë mut dhe do ta vras.
+Dialogue: 0,0:16:28.76,0:16:29.70,Main,Rudeus,0,0,0,,Hej.
+Dialogue: 0,0:16:31.27,0:16:35.85,Main,Rudeus,0,0,0,,A të kujton gjë fjala "Njeriu-Zot"?
+Dialogue: 0,0:16:38.53,0:16:40.52,Italics,Previous Incarnation {M},0,0,0,,Një rrugë tjetër pa krye.
+Dialogue: 0,0:16:40.97,0:16:44.18,Italics,Previous Incarnation {M},0,0,0,,Duhet të ketë dikë që di.
+Dialogue: 0,0:16:48.24,0:16:52.45,Main,Rudeus,0,0,0,,Hajde.\NMë trego për Njeriun-Zot tashmë,
+Dialogue: 0,0:16:52.77,0:16:53.95,Main,Rudeus,0,0,0,,Eris.
+Dialogue: 0,0:16:55.95,0:16:57.31,Main,Rudeus,0,0,0,,Çfarë dreqin...
+Dialogue: 0,0:16:57.31,0:16:58.29,Main,Rudeus,0,0,0,,është ai shikim?!
+Dialogue: 0,0:17:05.89,0:17:07.65,Main,Rudeus,0,0,0,,Thuaj diçka tashmë.
+Dialogue: 0,0:17:07.65,0:17:09.80,Main,Rudeus,0,0,0,,Zakonisht je më llafazane.
+Dialogue: 0,0:17:10.46,0:17:16.84,Italics,Previous Incarnation {M},0,0,0,,Ajo po më pengon pa pushim\Nqë kur vdiq Sylphie.
+Dialogue: 0,0:17:16.84,0:17:20.23,Italics,Previous Incarnation {M},0,0,0,,Ajo di diçka. Duhet.
+Dialogue: 0,0:17:23.52,0:17:30.28,Italics,Previous Incarnation {M},0,0,0,,Do të doja të pyesja Perugiusin, por ai do të jetë\Nproblem nëse është në anën e Njeriut-Zot.
+Dialogue: 0,0:17:30.28,0:17:32.61,Italics,Previous Incarnation {M},0,0,0,,Duhet të kujdesem.
+Dialogue: 0,0:17:34.91,0:17:36.16,Main,Neighbors,0,0,0,,O, i dashur.
+Dialogue: 0,0:17:36.16,0:17:37.45,Main,Neighbors,0,0,0,,Sa tmerr.
+Dialogue: 0,0:17:38.37,0:17:39.36,Main,Neighbors,0,0,0,,O Zot.
+Dialogue: 0,0:17:39.90,0:17:41.12,Main,Neighbor A,0,0,0,,Z. Greyrat!
+Dialogue: 0,0:17:44.36,0:17:45.42,Main,Rudeus,0,0,0,,Aisha...
+Dialogue: 0,0:17:45.68,0:17:46.92,Main,Rudeus,0,0,0,,Aisha!
+Dialogue: 0,0:17:51.60,0:17:52.83,Main,Rudeus,0,0,0,,Zanoba...
+Dialogue: 0,0:18:20.27,0:18:24.57,Italics,Previous Incarnation {M},0,0,0,,Aisha dhe Zanoba ende më trajtonin\Nnjësoj, megjithë gjithçka.
+Dialogue: 0,0:18:25.17,0:18:29.18,Italics,Previous Incarnation {M},0,0,0,,Pse nuk isha aty për ata\Nkur kishte rëndësi?
+Dialogue: 0,0:18:30.18,0:18:32.16,Italics,Previous Incarnation {M},0,0,0,,Jo, nuk ka mbaruar ende.
+Dialogue: 0,0:18:32.16,0:18:33.99,Italics,Previous Incarnation {M},0,0,0,,Kam ende opsione.
+Dialogue: 0,0:18:34.43,0:18:38.13,Italics,Previous Incarnation {M},0,0,0,,Demonët e pavdekshëm jetojnë me shekuj.\NAta duhet ta njohin Njeriun-Zot.
+Dialogue: 0,0:18:38.57,0:18:40.67,Italics,Previous Incarnation {M},0,0,0,,Nuk kam humbur ende.
+Dialogue: 0,0:18:48.77,0:18:51.73,Subtitles,Atoferatofe {Demon-God},0,0,0,,Kampion! Ke vëmendjen time!
+Dialogue: 0,0:18:56.99,0:18:59.15,Subtitles,Atoferatofe {Demon-God},0,0,0,,Kjo nuk do të më mashtrojë!
+Dialogue: 0,0:19:02.85,0:19:03.99,Italics,Previous Incarnation {M},0,0,0,,E kam nën kontroll.
+Dialogue: 0,0:19:03.99,0:19:06.15,Italics,Previous Incarnation {M},0,0,0,,Nëse vazhdoj presionin—
+Dialogue: 0,0:19:07.27,0:19:10.09,Subtitles,Moore {Demon-God},0,0,0,,Shpirti i ujit,
+Dialogue: 0,0:19:10.09,0:19:12.45,Subtitles,Moore {Demon-God},0,0,0,,më jep forcë.
+Dialogue: 0,0:19:12.45,0:19:14.76,Subtitles,Moore {Demon-God},0,0,0,,Mjegull e Thellë!
+Dialogue: 0,0:19:18.64,0:19:19.85,Italics,Rudeus,0,0,0,,Ku shkoi Atofe?!
+Dialogue: 0,0:19:21.02,0:19:22.39,Subtitles,Atoferatofe {Demon-God},0,0,0,,Të kam në dorë tani!
+Dialogue: 0,0:19:28.25,0:19:29.44,Main,Rudeus,0,0,0,,Eris...
+Dialogue: 0,0:19:39.49,0:19:42.79,Subtitles,Atoferatofe {Demon-God},0,0,0,,N-Nuk mund ta nxjerr!
+Dialogue: 0,0:19:46.06,0:19:48.21,Subtitles,Atoferatofe {Demon-God},0,0,0,,Moore!
+Dialogue: 0,0:19:48.21,0:19:50.73,Subtitles,Atoferatofe {Demon-God},0,0,0,,Gjeji!
+Dialogue: 0,0:19:57.00,0:20:00.03,Main,Rudeus,0,0,0,,Eris, pse...
+Dialogue: 0,0:20:01.40,0:20:05.12,Main,Ghislaine,0,0,0,,Zonja thjesht dëshironte\Ntë ishte pranë teje.
+Dialogue: 0,0:20:06.96,0:20:10.66,Main,Ghislaine,0,0,0,,Zonja Eris nuk kishte ndryshuar\Nshumë që nga ditët e vjetra.
+Dialogue: 0,0:20:11.24,0:20:13.86,Main,Ghislaine,0,0,0,,Ajo ka punuar shumë\Npër ty gjithë këtë kohë.
+Dialogue: 0,0:20:14.76,0:20:18.71,Main,Ghislaine,0,0,0,,Kishte besim se do ta kuptoje\Ndhe do ta pranoje një ditë.
+Dialogue: 0,0:20:20.05,0:20:21.01,Main,Ghislaine,0,0,0,,Por...
+Dialogue: 0,0:20:21.37,0:20:23.70,Main,Ghislaine,0,0,0,,ti je ndryshuar plotësisht.
+Dialogue: 0,0:20:24.26,0:20:25.46,Main,Rudeus,0,0,0,,Jo...
+Dialogue: 0,0:20:26.14,0:20:29.10,Main,Rudeus,0,0,0,,Pra gjithë këtë kohë, ajo...
+Dialogue: 0,0:20:29.86,0:20:34.89,Main,Rudeus,0,0,0,,ajo... ajo gjithmonë ka menduar për...
+Dialogue: 0,0:20:36.72,0:20:40.99,Main,Rudeus,0,0,0,,Si mund ta dija këtë?
+Dialogue: 0,0:20:51.01,0:20:54.27,Italics,Previous Incarnation {M},0,0,0,,Në fund, të gjithë u zhdukën.
+Dialogue: 0,0:20:54.86,0:20:57.08,Italics,Previous Incarnation {M},0,0,0,,Nuk munda të mbroja askënd.
+Dialogue: 0,0:20:58.10,0:20:59.86,Italics,Previous Incarnation {M},0,0,0,,Faji i Njeriut-Zot është.
+Dialogue: 0,0:21:00.16,0:21:03.91,Italics,Previous Incarnation {M},0,0,0,,Duhet të vras të paktën Njeriun-Zot.
+Dialogue: 0,0:21:07.92,0:21:10.80,Main,Oldeus,0,0,0,,Më në fund. Më në fund, e kuptova.
+Dialogue: 0,0:21:11.33,0:21:16.02,Italics,Previous Incarnation {M},0,0,0,,Kjo botë fillimisht ishte e përbërë\Nnga gjashtë botë të veçanta.
+Dialogue: 0,0:21:16.02,0:21:21.55,Italics,Previous Incarnation {M},0,0,0,,U lidhën duke formuar gjashtë anë.\NSi një zar, në thelb.
+Dialogue: 0,0:21:22.17,0:21:27.52,Italics,Previous Incarnation {M},0,0,0,,Dhe brenda saj, në një vend të quajtur\NBota e Asgjës, është Njeriu-Zot.
+Dialogue: 0,0:21:27.52,0:21:30.32,Italics,Previous Incarnation {M},0,0,0,,Artet e fshehta të dragoit do të më çojnë atje.
+Dialogue: 0,0:21:31.36,0:21:35.80,Italics,Previous Incarnation {M},0,0,0,,Por cilat janë\N"pesë thesaret" që më duhen për këtë?
+Dialogue: 0,0:21:38.83,0:21:45.18,Italics,Previous Incarnation {M},0,0,0,,Sipas Perugiusit, nuk do të\Nshfaqen të gjitha edhe për disa dekada.
+Dialogue: 0,0:21:45.18,0:21:48.98,Italics,Previous Incarnation {M},0,0,0,,Por dyshoj se do të arrij\Ntë jetoj kaq gjatë.
+Dialogue: 0,0:21:49.86,0:21:52.09,Main,Oldeus,0,0,0,,Jam i lodhur.
+Dialogue: 0,0:21:52.71,0:21:56.52,Italics,Previous Incarnation {M},0,0,0,,As inati im ndaj Njeriut-Zot\Nnuk ndjehet aq i fortë si më parë.
+Dialogue: 0,0:21:56.98,0:22:00.99,Italics,Previous Incarnation {M},0,0,0,,Për çfarë, dhe për kë, po e bëja këtë?
+Dialogue: 0,0:22:10.75,0:22:12.08,Italics,Previous Incarnation {M},0,0,0,,Do të shkoj në të kaluarën.
+Dialogue: 0,0:22:12.40,0:22:16.22,Italics,Previous Incarnation {M},0,0,0,,Magjia e thirrjes dhe magjia\Nnga muri i dragoit.
+Dialogue: 0,0:22:16.22,0:22:19.15,Italics,Previous Incarnation {M},0,0,0,,Nëse i ndryshoj dhe\Ni bashkoj,
+Dialogue: 0,0:22:19.15,0:22:21.35,Italics,Previous Incarnation {M},0,0,0,,duhet të mund të teleportohem në të kaluarën.
+Dialogue: 0,0:22:24.25,0:22:26.30,Italics,Previous Incarnation {M},0,0,0,,Por shumë gjëra më shqetësojnë ende.
+Dialogue: 0,0:22:26.79,0:22:30.79,Italics,Previous Incarnation {M},0,0,0,,A do ta besojë vetja ime e kaluar veten e ardhshme?
+Dialogue: 0,0:22:31.19,0:22:33.83,Italics,Previous Incarnation {M},0,0,0,,Nuk jam as i sigurt se mund t'ia dal.
+Dialogue: 0,0:22:33.83,0:22:35.58,Sign_Basic,Sign,0,0,0,,{\fnTimes New Roman\b1\c&H163676&\bord0\shad0\fs20\pos(328,154)\frz351.6}Ditar
+Dialogue: 0,0:22:33.83,0:22:35.58,Sign_Basic,Sign,0,0,0,,{\fnTimes New Roman\b1\c&H163676&\bord0\shad0\fs10\pos(323.333,177.333)\frz351.5}Rudeus Greyrat
+Dialogue: 0,0:22:36.04,0:22:41.96,Italics,Previous Incarnation {M},0,0,0,,Por nëse ia dal, ndoshta mund\Nt'ia kaloj Njeriut-Zot.
+Dialogue: 0,0:22:47.75,0:22:51.35,Main - Top,Rudeus {ep 12},0,0,0,,Më vjen keq. Ke thënë mjaft.\NMos u përpiq të flasësh.
+Dialogue: 0,0:22:51.68,0:22:55.26,Main - Top,Oldeus {ep 12},0,0,0,,Pendimet e tua...
+Dialogue: 0,0:22:55.61,0:22:59.19,Main - Top,Oldeus {ep 12},0,0,0,,i shërbejnë Njeriut-Zot...
+Dialogue: 0,0:22:59.56,0:23:02.70,Main - Top,Oldeus {ep 12},0,0,0,,Pse kështu?
+Dialogue: 0,0:23:02.70,0:23:04.74,Main - Top,Oldeus {ep 12},0,0,0,,Duhet të them...
+Dialogue: 0,0:23:04.74,0:23:07.70,Main - Top,Oldeus {ep 12},0,0,0,,Jam në të kaluarën, ndaj...
+Dialogue: 0,0:23:08.16,0:23:11.33,Main - Top,Oldeus {ep 12},0,0,0,,Dua... të paktën një shikim...
+Dialogue: 0,0:22:56.43,0:23:03.10,Italics,Previous Incarnation {M},0,0,0,,Bodrumi, Nanahoshi,\NEris dhe Njeriu-Zot.
+Dialogue: 0,0:23:03.99,0:23:06.59,Italics,Previous Incarnation {M},0,0,0,,A arrita t'ia përcjell\Natë që më duhej?
+Dialogue: 0,0:23:07.70,0:23:11.98,Italics,Previous Incarnation {M},0,0,0,,Sikur të mund të shihja Sylphien\Ndhe Roxin edhe një herë.
+Dialogue: 0,0:23:15.86,0:23:20.01,Main,Oldeus {ep 12},0,0,0,,O, Sylphie, Roxy.
+Dialogue: 0,0:23:21.01,0:23:22.84,Main,Oldeus {ep 12},0,0,0,,Dreqin.
+Dialogue: 0,0:23:23.97,0:23:29.37,Main,Oldeus {ep 12},0,0,0,,Je ende kaq e lezetshme sa gjithmonë.
+Dialogue: 0,0:23:31.97,0:23:34.98,Ep_Title,Sign; title,0,0,0,,{\b1\shad2}Episodi 13\NDitari
+Dialogue: 0,0:23:34.98,0:23:39.94,Ep_Title,Sign,0,0,0,,{\fs12\fscy\c&H050E3E&\pos(320,260)}Herën tjetër\N{\fs20\1a&HFF&\t(406,2274,1 \1a&H00&)}Vendosmëria
+

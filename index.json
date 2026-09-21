@@ -784,6 +784,20 @@
       "sourceTitle": "Hyakkano",
       "part": 3,
       "numberingEvidence": "https://anikototv.to/watch/the-100-girlfriends-who-really-really-really-really-really-love-you-season-3-c0d2f"
+    },
+    {
+      "id": "at-691028",
+      "title": "Mushoku Tensei: Jobless Reincarnation Season 3",
+      "episode": "13",
+      "malId": 59193,
+      "anilistId": null,
+      "slugs": [
+        "mushoku-tensei-jobless-reincarnation-season-3"
+      ],
+      "file": "files/at-691028.sq.vtt",
+      "assFile": "ass/at-691028.sq.ass",
+      "offset": 0,
+      "sourceReleaseId": "691028"
     }
   ]
 }
