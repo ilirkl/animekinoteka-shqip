@@ -334,7 +334,28 @@ function gaikotsuKishiII(parsed) {
   };
 }
 
-const RULES = [samuraiTroopers, onePiece, toukutsuOu, reZero, smokingBehindTheSupermarket, kaijuGirlCaramelise, bungoStrayDogsWan2, linkClickS3, honzukiS4, detectiveConan, hyakkanoS3, mushokuTenseiIII, magilumiereS2, azurLaneNi, mao, dukesSon, gaikotsuKishiII];
+// Erai-raws spells the season out as "Season 3", which parseFilename does not treat as
+// a season marker; without this pin the search resolves to the first season's title
+// ("Grand Blue Dreaming", jp "Grand Blue") against a season-null parse. Note prepare()
+// strips ":" from filenames, so the pinned title has no colon (it has none anyway).
+function grandBlueS3(parsed) {
+  const episode = Number(parsed.episode);
+  if (parsed.title !== 'Grand Blue Season 3' ||
+      (parsed.season !== null && parsed.season !== 1) ||
+      !Number.isInteger(episode) || episode < 1) return null;
+  return {
+    slug:'grand-blue-season-3',
+    title:'Grand Blue Season 3',
+    malId:62542,
+    episode:String(episode),
+    sourceEpisode:String(episode),
+    sourceTitle:parsed.title,
+    part:3,
+    evidence:'https://anikototv.to/watch/grand-blue-season-3'
+  };
+}
+
+const RULES = [samuraiTroopers, onePiece, toukutsuOu, reZero, smokingBehindTheSupermarket, kaijuGirlCaramelise, bungoStrayDogsWan2, linkClickS3, honzukiS4, detectiveConan, hyakkanoS3, mushokuTenseiIII, magilumiereS2, azurLaneNi, mao, dukesSon, gaikotsuKishiII, grandBlueS3];
 
 export function knownNumbering(parsed) {
   for (const rule of RULES) {

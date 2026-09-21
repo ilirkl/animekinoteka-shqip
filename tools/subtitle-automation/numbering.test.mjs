@@ -124,6 +124,20 @@ test('the Gaikotsu Kishi-sama pin cannot capture season 1 or spelling variants',
   assert.equal(knownNumbering({...gaikotsuII,season:2}),null);
 });
 
+const grandBlueS3 = {title:'Grand Blue Season 3',season:null,episode:'12'};
+test('Grand Blue Season 3 pins the third season despite the season-less parse',()=>{
+  const result=knownNumbering(grandBlueS3);
+  assert.equal(result.slug,'grand-blue-season-3');
+  assert.equal(result.malId,62542);
+  assert.equal(result.episode,'12');
+  assert.equal(result.part,3);
+});
+test('the Grand Blue season 3 pin cannot capture other spellings',()=>{
+  assert.equal(knownNumbering({...grandBlueS3,title:'Grand Blue'}),null);
+  assert.equal(knownNumbering({...grandBlueS3,title:'Grand Blue Dreaming'}),null);
+  assert.equal(knownNumbering({...grandBlueS3,season:2}),null);
+});
+
 test('rules stay independent of one another',()=>{
   assert.equal(knownNumbering({title:'One Piece',season:null,episode:'23'}),null);
   assert.equal(knownNumbering({...source,episode:'1178'}),null);
