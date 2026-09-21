@@ -221,7 +221,61 @@ function hyakkanoS3(parsed) {
   };
 }
 
-const RULES = [samuraiTroopers, onePiece, toukutsuOu, reZero, smokingBehindTheSupermarket, kaijuGirlCaramelise, bungoStrayDogsWan2, linkClickS3, honzukiS4, detectiveConan, hyakkanoS3];
+// Erai-raws spells the season inside the title, in forms parseFilename's trailing "S<number>"
+// rule cannot see ("III", "2nd Season", "- Ni"). Each rule pins one such title form to the
+// Anikoto entry project.mjs then verifies episode and MAL ID against.
+function mushokuTenseiIII(parsed) {
+  const episode = Number(parsed.episode);
+  if (parsed.title !== 'Mushoku Tensei III: Isekai Ittara Honki Dasu' ||
+      (parsed.season !== null && parsed.season !== 1) ||
+      !Number.isInteger(episode) || episode < 1) return null;
+  return {
+    slug:'mushoku-tensei-jobless-reincarnation-season-3',
+    title:'Mushoku Tensei: Jobless Reincarnation Season 3',
+    malId:59193,
+    episode:String(episode),
+    sourceEpisode:String(episode),
+    sourceTitle:parsed.title,
+    part:3,
+    evidence:'https://anikototv.to/watch/mushoku-tensei-jobless-reincarnation-season-3'
+  };
+}
+
+function magilumiereS2(parsed) {
+  const episode = Number(parsed.episode);
+  if (parsed.title !== 'Kabushikigaisha Magilumiere 2nd Season' ||
+      (parsed.season !== null && parsed.season !== 1) ||
+      !Number.isInteger(episode) || episode < 1) return null;
+  return {
+    slug:'kabushikigaisha-magi-lumiere-2nd-season-69ca1',
+    title:'Magilumiere Magical Girls Inc. Season 2',
+    malId:60552,
+    episode:String(episode),
+    sourceEpisode:String(episode),
+    sourceTitle:parsed.title,
+    part:2,
+    evidence:'https://anikototv.to/watch/kabushikigaisha-magi-lumiere-2nd-season-69ca1'
+  };
+}
+
+function azurLaneNi(parsed) {
+  const episode = Number(parsed.episode);
+  if (parsed.title !== 'Azur Lane: Bisoku Zenshin - Ni' ||
+      (parsed.season !== null && parsed.season !== 1) ||
+      !Number.isInteger(episode) || episode < 1) return null;
+  return {
+    slug:'azur-lane-slow-ahead-season-2-ac697',
+    title:'Anime AzurLane: Slow Ahead! Season 2',
+    malId:56613,
+    episode:String(episode),
+    sourceEpisode:String(episode),
+    sourceTitle:parsed.title,
+    part:2,
+    evidence:'https://anikototv.to/watch/azur-lane-slow-ahead-season-2-ac697'
+  };
+}
+
+const RULES = [samuraiTroopers, onePiece, toukutsuOu, reZero, smokingBehindTheSupermarket, kaijuGirlCaramelise, bungoStrayDogsWan2, linkClickS3, honzukiS4, detectiveConan, hyakkanoS3, mushokuTenseiIII, magilumiereS2, azurLaneNi];
 
 export function knownNumbering(parsed) {
   for (const rule of RULES) {
