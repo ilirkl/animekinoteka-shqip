@@ -32,7 +32,7 @@ def write(path, value):
     temp.replace(path)
 
 def fetch(url):
-    allowed = {'feed.animetosho.xyz', 'storage.animetosho.xyz'}
+    allowed = {'animetosho.xyz', 'feed.animetosho.xyz', 'storage.animetosho.xyz'}
     def check(value):
         p = urllib.parse.urlparse(value)
         if p.scheme != 'https' or p.hostname not in allowed or p.username or p.password:
