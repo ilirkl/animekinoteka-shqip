@@ -1036,6 +1036,20 @@
       "sourceTitle": "Gaikotsu Kishi-sama Tadaima Isekai e Odekake-chuu II",
       "part": 2,
       "numberingEvidence": "https://anikototv.to/watch/skeleton-knight-in-another-world-season-2"
+    },
+    {
+      "id": "at-691224",
+      "title": "The Insipid Prince's Furtive Grab for The Throne",
+      "episode": "12",
+      "malId": 56736,
+      "anilistId": 169582,
+      "slugs": [
+        "the-insipid-prince-s-furtive-grab-for-the-throne-46638"
+      ],
+      "file": "files/at-691224.sq.vtt",
+      "assFile": "ass/at-691224.sq.ass",
+      "offset": 0,
+      "sourceReleaseId": "691224"
     }
   ]
 }

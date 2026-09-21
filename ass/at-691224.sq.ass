@@ -1,0 +1,426 @@
+﻿[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 8
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback_Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Narration,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Italics - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback_Italics - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Sign_Basic,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.94,Sign_Basic,Sign,0,0,0,,{\pos(320,205)}DUKATI I MADH I ALBATRO,\NDEGA E GILDËS SË AVENTURIERËVE
+Dialogue: 0,0:00:00.77,0:00:02.93,Main - Top,Eva,0,0,0,,Ju lutem, ju lutem!
+Dialogue: 0,0:00:02.93,0:00:06.64,Main - Top,Eva,0,0,0,,Shpëtojeni Albatron dhe popullin e tij
+Dialogue: 0,0:00:06.64,0:00:10.34,Main - Top,Eva,0,0,0,,nga fatkeqësia e shkaktuar\Nnga dragoi i detit Leviatano!
+Dialogue: 0,0:00:02.94,0:00:06.65,Sign_Basic,Sign,0,0,0,,DHOMA E KOMUNIKIMIT
+Dialogue: 0,0:00:10.61,0:00:13.49,Sign_Basic,Sign,0,0,0,,{\pos(320,200)}KRYEQYTETI PERANDORAK\NDEGA KRYESORE E GILDËS SË AVENTURIERËVE
+Dialogue: 0,0:00:10.61,0:00:12.39,Main - Top,Eva,0,0,0,,Ju lutem, mposhteni dragon!
+Dialogue: 0,0:00:12.39,0:00:13.49,Main - Top,Adventurers,0,0,0,,A nuk ka ndonjë gjë që mund të bëjmë?
+Dialogue: 0,0:00:13.49,0:00:15.44,Main,Adventurers,0,0,0,,Edhe nëse nisemi tani,\Nnuk do të arrijmë në kohë!
+Dialogue: 0,0:00:15.44,0:00:20.40,Main,Adventurers,0,0,0,,Çfarë mund të bënim kundër\Nnjë përbindëshi të klasit SS, gjithsesi?
+Dialogue: 0,0:00:20.82,0:00:22.92,Main,Eva,0,0,0,,Ju lutem... Ju lutem!
+Dialogue: 0,0:00:22.92,0:00:27.22,Main,Silver,0,0,0,,Jam Silver, një aventurier i klasit SS\Ni degës së Kryeqytetit Perandorak.
+Dialogue: 0,0:00:27.82,0:00:30.38,Main,Silver,0,0,0,,Kam ardhur ta mposht\Ndragonin e detit Leviatano
+Dialogue: 0,0:00:30.38,0:00:32.97,Main,Silver,0,0,0,,me kërkesë të Dukatit të Albatros.
+Dialogue: 0,0:00:33.22,0:00:34.38,Main,Adventurers,0,0,0,,Është Silver!
+Dialogue: 0,0:00:34.38,0:00:35.85,Main,Adventurers,0,0,0,,Pikërisht siç prisja nga një i klasit SS!
+Dialogue: 0,0:00:35.85,0:00:36.93,Main,Adventurers,0,0,0,,Do ta bëjë!
+Dialogue: 0,0:00:38.76,0:00:40.47,Main,Silver,0,0,0,,Punë e mirë.
+Dialogue: 0,0:00:42.14,0:00:43.63,Main,Eva,0,0,0,,Faleminderit!
+Dialogue: 0,0:00:45.26,0:00:48.30,Main,Trau,0,0,0,,Oh, jemi tashmë në jug?
+Dialogue: 0,0:00:48.30,0:00:51.65,Main,Trau,0,0,0,,Teleportimi është i mahnitshëm, hë, Silver?
+Dialogue: 0,0:00:51.93,0:00:53.64,Main,Silver,0,0,0,,Mos rri aty duke u mahnitur.
+Dialogue: 0,0:00:53.64,0:00:56.03,Main,Silver,0,0,0,,Shko jepi asaj leje\Ntë përdorë Shpatën e Shenjtë,
+Dialogue: 0,0:00:56.26,0:00:57.59,Main,Silver,0,0,0,,Princi i Katërt.
+Dialogue: 0,0:02:29.00,0:02:33.38,Sign_Basic,Sign,0,0,0,,{\pos(370,284)\an1}EPISODI 12: BETEJA FINALE!\NLEVIATANO
+Dialogue: 0,0:02:31.21,0:02:33.37,Main - Top,Trau,0,0,0,,Vërtet është i madh.
+Dialogue: 0,0:02:33.37,0:02:35.07,Main - Top,Trau,0,0,0,,Vërtet mund ta mposhtësh?
+Dialogue: 0,0:02:35.07,0:02:37.18,Main,Silver,0,0,0,,Nuk do të ishte e lehtë ta bëje vetëm.
+Dialogue: 0,0:02:37.18,0:02:39.08,Main,Silver,0,0,0,,Vërtet është i madh.
+Dialogue: 0,0:02:39.32,0:02:41.55,Main,Eva,0,0,0,,Është shumë më i madh nga sa thonë legjendat...
+Dialogue: 0,0:02:44.35,0:02:47.24,Main,Trau,0,0,0,,Me këtë ritëm, ata do të\Nshfarosen para se të vonohet.
+Dialogue: 0,0:02:47.24,0:02:48.96,Main,Silver,0,0,0,,Pikërisht. Duhet të nxitojmë.
+Dialogue: 0,0:02:48.96,0:02:50.93,Main,Julio,0,0,0,,Këtu, Leviatano!
+Dialogue: 0,0:02:51.16,0:02:52.26,Main,Eva,0,0,0,,Julio!
+Dialogue: 0,0:02:54.81,0:02:56.80,Main,Julio,0,0,0,,D-Do të luftoj me ty!
+Dialogue: 0,0:02:56.80,0:02:59.69,Main,Julio,0,0,0,,Do të të vulos përsëri me këtë staf!
+Dialogue: 0,0:03:02.66,0:03:05.81,Main,Leviatano,0,0,0,,Mjeti i urryer që më vuri në gjumë?
+Dialogue: 0,0:03:05.81,0:03:07.74,Main,Leviatano,0,0,0,,Fëmijë i pamenduar!
+Dialogue: 0,0:03:07.74,0:03:11.88,Main,Leviatano,0,0,0,,Duartrokas guximin tënd, prandaj\Ndo të vdesësh pa vuajtje!
+Dialogue: 0,0:03:13.13,0:03:14.17,Main,Donato,0,0,0,,Julio!
+Dialogue: 0,0:03:15.04,0:03:16.14,Main,Julio,0,0,0,,Më falni...
+Dialogue: 0,0:03:16.14,0:03:18.91,Main,Julio,0,0,0,,Baba, Mama, Motra!
+Dialogue: 0,0:03:19.31,0:03:21.39,Main,Silver,0,0,0,,Do të duhet t'u kërkosh ndjesë\Natyre personalisht.
+Dialogue: 0,0:03:21.68,0:03:22.79,Main,Silver,0,0,0,,Egida!
+Dialogue: 0,0:03:25.63,0:03:26.72,Main,Eva,0,0,0,,Julio!
+Dialogue: 0,0:03:28.60,0:03:29.41,Main,Julio,0,0,0,,Motra...
+Dialogue: 0,0:03:29.41,0:03:31.40,Main,Eva,0,0,0,,Jam kaq e lumtur... jam kaq e lumtur...
+Dialogue: 0,0:03:31.40,0:03:33.03,Main,Eva,0,0,0,,Mendova se kishte mbaruar për ty.
+Dialogue: 0,0:03:33.41,0:03:35.34,Main,Eva,0,0,0,,Në rregull është... Ai është këtu.
+Dialogue: 0,0:03:37.50,0:03:39.72,Main,Trau,0,0,0,,A mund ta marr hua këtë?
+Dialogue: 0,0:03:39.72,0:03:40.91,Main,Julio,0,0,0,,N-Në rregull...
+Dialogue: 0,0:03:40.91,0:03:44.64,Main,Trau,0,0,0,,Princi Julio, kjo ishte shumë fisnike nga ana jote.
+Dialogue: 0,0:03:44.64,0:03:49.74,Main,Trau,0,0,0,,Gatishmëria e guximshme për të sakrifikuar\Nveten për flotën dhe popullin tënd...
+Dialogue: 0,0:03:49.74,0:03:55.15,Main,Trau,0,0,0,,I vetmi burrë që kam njohur që ishte\Nkaq i guximshëm ishte vëllai im i ndjerë.
+Dialogue: 0,0:03:55.71,0:03:59.58,Main,Trau,0,0,0,,Prandaj, për këtë çast,\Ndo të përpiqem të jem si ti.
+Dialogue: 0,0:03:59.58,0:04:01.60,Main,Trau,0,0,0,,Një princ për të cilin populli mund të krenohet!
+Dialogue: 0,0:04:03.60,0:04:06.60,Main,Trau,0,0,0,,Më dëgjoni, të gjithë në Albatro!
+Dialogue: 0,0:04:06.60,0:04:09.02,Main,Trau,0,0,0,,Jam princi i katërt i Perandorisë!
+Dialogue: 0,0:04:09.23,0:04:13.52,Main,Trau,0,0,0,,Kam ardhur këtu në emër\Ntë babait tim, Perandorit!
+Dialogue: 0,0:04:13.94,0:04:17.48,Main,Trau,0,0,0,,A ka kalorës mes jush\Ntë guximshëm? A jeni të fortë?
+Dialogue: 0,0:04:17.48,0:04:19.15,Main,Trau,0,0,0,,A jeni krenarë?
+Dialogue: 0,0:04:19.36,0:04:22.54,Main,Trau,0,0,0,,A dëshiron ndonjëri prej jush kalorësve\Ntë shpëtojë njerëzit që vuajnë?!
+Dialogue: 0,0:04:24.72,0:04:26.41,Main,Elna,0,0,0,,Jam këtu, Princi!
+Dialogue: 0,0:04:26.71,0:04:29.74,Main,Elna,0,0,0,,Ky kalorës ka ardhur në\Npërgjigje të thirrjes tënde!
+Dialogue: 0,0:04:29.74,0:04:31.12,Main,Trau,0,0,0,,Më jep emrin tënd!
+Dialogue: 0,0:04:31.12,0:04:35.57,Main,Elna,0,0,0,,Kapiteni i Kompanisë së Tretë të Kalorësve\Ntë Gardës Perandorake,
+Dialogue: 0,0:04:35.57,0:04:37.83,Main,Elna,0,0,0,,Elna Von Amsberg!
+Dialogue: 0,0:04:38.06,0:04:39.17,Main,Trau,0,0,0,,Shumë mirë!
+Dialogue: 0,0:04:39.17,0:04:41.96,Main,Trau,0,0,0,,Si përfaqësues i Johannes\NReks Adler, Perandorit,
+Dialogue: 0,0:04:41.96,0:04:44.43,Main,Trau,0,0,0,,Unë, Traugott Reks Adler, të urdhëroj!
+Dialogue: 0,0:04:44.43,0:04:46.75,Main,Trau,0,0,0,,Merr Shpatën e Shenjtë, hero!
+Dialogue: 0,0:04:54.60,0:04:56.55,Main,Elna,0,0,0,,Ke falënderimet e mia, Princ.
+Dialogue: 0,0:04:56.55,0:04:59.09,Main,Trau,0,0,0,,Nuk ka nevojë të më falënderosh, Zonja Elna.
+Dialogue: 0,0:04:59.09,0:05:01.64,Main,Trau,0,0,0,,Ky është detyra e një princi.
+Dialogue: 0,0:05:01.64,0:05:05.30,Main,Elna,0,0,0,,Më mirë mos më pengo\Nnë rrugë, aventurier i maskuar.
+Dialogue: 0,0:05:05.30,0:05:08.01,Main,Silver,0,0,0,,Kjo është rreshti im, hero djaloshare.
+Dialogue: 0,0:05:08.53,0:05:10.57,Main,Elna,0,0,0,,Sigurisht që nuk do të të ngadalësoj!
+Dialogue: 0,0:05:10.57,0:05:11.53,Main,Elna,0,0,0,,Pra, cili është plani?
+Dialogue: 0,0:05:11.53,0:05:13.74,Main,Silver,0,0,0,,Le të fillojmë duke parë çfarë mund të bësh.
+Dialogue: 0,0:05:13.74,0:05:15.57,Main,Silver,0,0,0,,Si mund të ndihmoj?
+Dialogue: 0,0:05:15.57,0:05:17.21,Main,Elna,0,0,0,,Tërhiqe vëmendjen e tij.
+Dialogue: 0,0:05:17.21,0:05:18.63,Main,Elna,0,0,0,,Unë do ta vras.
+Dialogue: 0,0:05:18.63,0:05:20.46,Main,Silver,0,0,0,,Pra unë jam karremi?
+Dialogue: 0,0:05:20.46,0:05:21.75,Main,Silver,0,0,0,,Kjo është pikërisht si ti.
+Dialogue: 0,0:05:23.51,0:05:25.42,Main,Silver,0,0,0,,Të gjitha anijet, tërhiquni!
+Dialogue: 0,0:05:25.78,0:05:27.98,Main,Silver,0,0,0,,Lëreni pjesën tjetër mua dhe heroit!
+Dialogue: 0,0:05:28.56,0:05:30.82,Main,Donato,0,0,0,,Gilda e aventurierëve dërgoi dikë?
+Dialogue: 0,0:05:30.82,0:05:32.22,Main,Donato,0,0,0,,Tërhiquni! Tërhiquni!
+Dialogue: 0,0:05:32.63,0:05:36.13,Main,Leonard,0,0,0,,Të gjitha anijet, tërhiquni! Largohuni nga këtu!
+Dialogue: 0,0:05:36.13,0:05:38.97,Main,Leonard,0,0,0,,Silver... Elna... Llogaris tek ju.
+Dialogue: 0,0:05:39.93,0:05:44.70,Main,Silver,0,0,0,,Pse një dragua krenar\Nzgjedh të luftojë njerëzit?
+Dialogue: 0,0:05:44.70,0:05:47.48,Main,Leviatano,0,0,0,,U detyrova të bie në një gjumë të padëshiruar.
+Dialogue: 0,0:05:47.48,0:05:49.93,Main,Leviatano,0,0,0,,Nëse nuk hakmerrem për këtë poshtërim,
+Dialogue: 0,0:05:49.93,0:05:52.09,Main,Leviatano,0,0,0,,kjo do të lëndonte krenarinë time si dragua.
+Dialogue: 0,0:05:52.09,0:05:56.24,Main,Leviatano,0,0,0,,Jam një dragua,\Nsuprem mbi të gjitha qeniet e tjera!
+Dialogue: 0,0:05:56.24,0:05:58.91,Main,Leviatano,0,0,0,,Nuk do të lejoj njerëzit të më poshtërojnë!
+Dialogue: 0,0:05:59.14,0:06:00.41,Main,Arnold,0,0,0,,Krenaria, hë?
+Dialogue: 0,0:06:00.41,0:06:01.67,Main,Silver,0,0,0,,Sa budallallëk.
+Dialogue: 0,0:06:01.67,0:06:03.12,Main,Silver,0,0,0,,A është më e rëndësishme se jeta jote?
+Dialogue: 0,0:06:03.12,0:06:06.82,Main,Leviatano,0,0,0,,Duket se mendon\Nse mund të më mposhtësh!
+Dialogue: 0,0:06:06.82,0:06:08.01,Main,Silver,0,0,0,,Mundem.
+Dialogue: 0,0:06:08.01,0:06:09.82,Main,Silver,0,0,0,,Mos e nënvlerëso njerëzimin.
+Dialogue: 0,0:06:10.58,0:06:12.42,Main,Leviatano,0,0,0,,Po e them përsëri.
+Dialogue: 0,0:06:12.42,0:06:15.76,Main,Leviatano,0,0,0,,Nuk do të lejoj njerëzit të më poshtërojnë!
+Dialogue: 0,0:06:15.76,0:06:17.97,Main,Silver,0,0,0,,Dhe po e them përsëri.
+Dialogue: 0,0:06:18.40,0:06:20.18,Main,Silver,0,0,0,,Mos e nënvlerëso njerëzimin.
+Dialogue: 0,0:06:20.41,0:06:22.76,Main,Silver,0,0,0,,Mos mendo se numrat mund të më mposhtin.
+Dialogue: 0,0:06:23.03,0:06:24.37,Main,Leviatano,0,0,0,,Vdis, njeri!
+Dialogue: 0,0:06:27.15,0:06:29.47,Main,Leviatano,0,0,0,,Djalosh i vogël.
+Dialogue: 0,0:06:36.11,0:06:37.61,Main,Silver,0,0,0,,Sulmi i tij përfundimtar, hë?
+Dialogue: 0,0:06:41.28,0:06:42.29,Main,Silver,0,0,0,,Seriozisht?
+Dialogue: 0,0:06:51.79,0:06:53.70,Main,Silver,0,0,0,,Dreq.
+Dialogue: 0,0:06:53.70,0:06:56.52,Main,Silver,0,0,0,,Nuk mund të luftoj në mbrojtje kështu...
+Dialogue: 0,0:06:56.52,0:06:57.87,Main,Elna,0,0,0,,Të mbajta duke pritur, apo jo?
+Dialogue: 0,0:07:00.74,0:07:02.57,Main,Silver,0,0,0,,Vërtet ashtu.
+Dialogue: 0,0:07:02.57,0:07:03.85,Main,Silver,0,0,0,,Nxito.
+Dialogue: 0,0:07:03.85,0:07:05.91,Main,Elna,0,0,0,,Mbyllu, karrem.
+Dialogue: 0,0:07:05.91,0:07:08.82,Main,Elna,0,0,0,,Dragoi i detit Leviatano! Përgatitu të vdesësh!
+Dialogue: 0,0:07:10.74,0:07:12.08,Main,Leviatano,0,0,0,,Vajzë e vogël!
+Dialogue: 0,0:07:13.29,0:07:15.77,Main,Leviatano,0,0,0,,Mos mendo se mund të më mundësh!
+Dialogue: 0,0:07:26.76,0:07:28.72,Main,Silver,0,0,0,,Tani është shansi yt! Mbaroje!
+Dialogue: 0,0:07:33.34,0:07:34.93,Main,Elna,0,0,0,,Nuk mundem!
+Dialogue: 0,0:07:35.24,0:07:37.81,Main,Silver,0,0,0,,E dija se do të ishe e padobishme në ujë të hapur.
+Dialogue: 0,0:07:37.81,0:07:39.12,Main,Elna,0,0,0,,Mbyllu!
+Dialogue: 0,0:07:39.12,0:07:41.48,Main,Elna,0,0,0,,Kam frikë, dhe kaq është!
+Dialogue: 0,0:07:41.82,0:07:43.43,Main,Silver,0,0,0,,Do të ndërrojmë detyrat?
+Dialogue: 0,0:07:43.43,0:07:44.72,Main,Elna,0,0,0,,Mos u bë budalla.
+Dialogue: 0,0:07:44.72,0:07:47.12,Main,Elna,0,0,0,,Ti je karremi, jo unë.
+Dialogue: 0,0:07:47.12,0:07:49.36,Main,Elna,0,0,0,,Nuk e ndryshoj atë...
+Dialogue: 0,0:07:49.94,0:07:51.15,Main,Elna,0,0,0,,Silver?
+Dialogue: 0,0:07:51.15,0:07:55.10,Main,Elna,0,0,0,,Nga e dinte se\Nkisha frikë nga uji?
+Dialogue: 0,0:07:59.51,0:08:00.88,Main,Silver,0,0,0,,A je kurioze?
+Dialogue: 0,0:08:00.88,0:08:02.36,Main,Elna,0,0,0,,Sigurisht që jam.
+Dialogue: 0,0:08:02.36,0:08:03.62,Main,Elna,0,0,0,,Kush të tha?
+Dialogue: 0,0:08:04.79,0:08:07.87,Main,Silver,0,0,0,,Shiko. Leviatano po bën diçka.
+Dialogue: 0,0:08:07.87,0:08:10.06,Main,Elna,0,0,0,,Do të flasim për këtë më vonë.
+Dialogue: 0,0:08:10.06,0:08:11.98,Main,Silver,0,0,0,,Kjo ishte e ngushtë...
+Dialogue: 0,0:08:11.98,0:08:14.39,Main,Silver,0,0,0,,U shpërqendrova.
+Dialogue: 0,0:08:16.17,0:08:17.83,Main,Leviatano,0,0,0,,Mallkimi...
+Dialogue: 0,0:08:17.83,0:08:21.42,Main,Leviatano,0,0,0,,Ajo vajza është pasardhësja e\Nasaj që vrau mbretin demon?
+Dialogue: 0,0:08:21.42,0:08:24.07,Main,Leviatano,0,0,0,,Mallkuar qoftë ajo shpatë...
+Dialogue: 0,0:08:24.41,0:08:28.77,Main,Leviatano,0,0,0,,Do të paguash për plagosjen time!
+Dialogue: 0,0:08:28.77,0:08:32.38,Main,Silver,0,0,0,,Kjo nuk është shumë e drejtë,\Nduke marrë parasysh se ti na sulmove i pari.
+Dialogue: 0,0:08:32.38,0:08:33.89,Main,Silver,0,0,0,,Pikërisht siç prisja nga një dragua.
+Dialogue: 0,0:08:34.59,0:08:36.98,Main,Silver,0,0,0,,Por kjo do t'i japë fund.
+Dialogue: 0,0:08:42.77,0:08:45.13,Main,Silver,0,0,0,,Hero, mund të luftosh tani, apo jo?
+Dialogue: 0,0:08:47.83,0:08:51.74,Main,Elna,0,0,0,,Shpata e shenjtë, çliro fuqinë tënde...
+Dialogue: 0,0:08:52.48,0:08:55.73,Main,Elna,0,0,0,,dhe asgjëso armikun tim!
+Dialogue: 0,0:09:00.14,0:09:01.24,Main,Leonard,0,0,0,,Elna...
+Dialogue: 0,0:09:02.14,0:09:03.72,Main,Carlo,0,0,0,,A është ai heroi?
+Dialogue: 0,0:09:05.43,0:09:09.69,Main,Trau,0,0,0,,Ajo dritë... është aq e ndritshme sa dielli!
+Dialogue: 0,0:09:18.17,0:09:19.71,Main,Elna,0,0,0,,Shpërthimi i Dritës!
+Dialogue: 0,0:09:37.63,0:09:39.68,Main,Elna,0,0,0,,Hej, më lër të shkoj!
+Dialogue: 0,0:09:39.68,0:09:41.77,Main,Silver,0,0,0,,Mund të thuash të paktën faleminderit.
+Dialogue: 0,0:09:41.77,0:09:43.87,Main,Elna,0,0,0,,Nuk kam pse të falënderoj për asgjë!
+Dialogue: 0,0:09:43.87,0:09:46.34,Main,Elna,0,0,0,,Kjo ndodhi vetëm sepse\Nbarriera jote ishte shumë e dobët!
+Dialogue: 0,0:09:46.55,0:09:48.10,Main,Silver,0,0,0,,Epo, më fal që ishte e dobët.
+Dialogue: 0,0:09:48.61,0:09:52.57,Main,Elna,0,0,0,,Më thuaj kush të tha\Npër frikën time nga uji.
+Dialogue: 0,0:09:53.03,0:09:55.23,Main,Silver,0,0,0,,Më kanë thënë të mos e them...
+Dialogue: 0,0:09:55.23,0:09:56.97,Main,Elna,0,0,0,,Thjesht ma thuaj!
+Dialogue: 0,0:09:57.66,0:09:59.45,Main,Silver,0,0,0,,Princi Arnold.
+Dialogue: 0,0:09:59.45,0:10:01.93,Main,Elna,0,0,0,,Arn të të tha?
+Dialogue: 0,0:10:01.93,0:10:05.64,Main,Elna,0,0,0,,Arnold nuk i beson askujt.\NDuhet ta dish atë.
+Dialogue: 0,0:10:05.64,0:10:08.28,Main,Elna,0,0,0,,Nëse po gënjen,\Nnuk do të të tregoj mëshirë.
+Dialogue: 0,0:10:08.28,0:10:10.17,Main,Silver,0,0,0,,Si do të më besosh?
+Dialogue: 0,0:10:10.44,0:10:14.88,Main,Elna,0,0,0,,Çfarë tha Arn kur\Ntë tregoi dobësinë time?
+Dialogue: 0,0:10:17.37,0:10:22.03,Main,Silver,0,0,0,,"Mikesha e fëmijërisë është e zorshme,\Npor sigurohu që është e sigurt," tha.
+Dialogue: 0,0:10:22.39,0:10:25.63,Main,Silver,0,0,0,,Ai, në mënyrën e vet,\Nshqetësohej për frikën tënde nga uji.
+Dialogue: 0,0:10:26.75,0:10:28.78,Main,Elna,0,0,0,,Gjithmonë është kaq merakli.
+Dialogue: 0,0:10:28.78,0:10:31.22,Main,Elna,0,0,0,,Aman... Arn, budalla.
+Dialogue: 0,0:10:32.93,0:10:35.14,Main,Silver,0,0,0,,Duhet ta rikuperosh kufomën e tij.
+Dialogue: 0,0:10:35.14,0:10:37.40,Main,Silver,0,0,0,,Trupi i një dragua shitet shtrenjtë.
+Dialogue: 0,0:10:37.40,0:10:39.48,Main,Silver,0,0,0,,Sidomos një dragua i klasit SS.
+Dialogue: 0,0:10:39.75,0:10:42.19,Main,Silver,0,0,0,,Duhet të jetë më se e mjaftueshme\Npër të rindërtuar qytetin.
+Dialogue: 0,0:10:42.40,0:10:46.41,Main,Elna,0,0,0,,Oh? Isha i sigurt se do të thoshe\Nse është e jotja sepse ti e vrave.
+Dialogue: 0,0:10:46.41,0:10:47.65,Main,Elna,0,0,0,,Por nuk do të thuash\Natë, apo jo?
+Dialogue: 0,0:10:47.65,0:10:51.86,Main,Silver,0,0,0,,Normalisht do ta thosha,\Npor ky është një rast i veçantë.
+Dialogue: 0,0:10:52.20,0:10:54.59,Main,Silver,0,0,0,,Paratë duhet të shkojnë për\Nkombin që ai dëmtoi.
+Dialogue: 0,0:10:56.12,0:10:57.94,Main,Elna,0,0,0,,Ndryshova mendjen për ty, pak.
+Dialogue: 0,0:10:57.94,0:11:00.36,Main,Elna,0,0,0,,Ti mendon për gjëra të tilla, hë?
+Dialogue: 0,0:11:00.36,0:11:04.94,Main,Silver,0,0,0,,Nuk jam si një hero i caktuar që\Nthjesht duhet të tundë shpatën rreth e qark.
+Dialogue: 0,0:11:05.92,0:11:07.71,Main,Silver,0,0,0,,Tani, po shkoj.
+Dialogue: 0,0:11:07.71,0:11:11.06,Main,Silver,0,0,0,,Duhet ta çoj Princin Traugott në shtëpi.
+Dialogue: 0,0:11:11.06,0:11:14.77,Main,Elna,0,0,0,,Prit! Çfarë është marrëdhënia jote me Arnin?
+Dialogue: 0,0:11:15.50,0:11:17.52,Main,Silver,0,0,0,,Po punojmë bashkë.
+Dialogue: 0,0:11:17.78,0:11:20.87,Main,Silver,0,0,0,,Të dy punojmë për të realizuar\Ntë njëjtin plan.
+Dialogue: 0,0:11:20.87,0:11:22.74,Main,Silver,0,0,0,,Pyete atë nëse do të dish më shumë.
+Dialogue: 0,0:11:23.15,0:11:25.60,Main,Silver,0,0,0,,Varet nga ti nëse\Nmund ta bësh të tregojë.
+Dialogue: 0,0:11:26.48,0:11:30.12,Main,Elna,0,0,0,,Hej! Aventurier i maskuar!
+Dialogue: 0,0:11:31.50,0:11:36.03,Main,Traugott,0,0,0,,Zonja Eva, do të doja t'ju\Nfus në romanin tim.
+Dialogue: 0,0:11:36.03,0:11:37.72,Main,Eva,0,0,0,,Ehm, epo...
+Dialogue: 0,0:11:37.72,0:11:39.68,Main,Julio,0,0,0,,Ehm, Princi Traugott...
+Dialogue: 0,0:11:39.68,0:11:44.46,Main,Traugott,0,0,0,,Do ta ndihmonte punën time nëse\Ndo të më thërrisje "Vëllai i Madh".
+Dialogue: 0,0:11:44.46,0:11:46.29,Main,Silver,0,0,0,,Në rregull. Do të kthehem më vonë.
+Dialogue: 0,0:11:50.97,0:11:52.64,Main,Arnold,0,0,0,,Dhe kaq.
+Dialogue: 0,0:11:53.51,0:11:55.44,Main,Arnold,0,0,0,,Jam i lodhur...
+Dialogue: 0,0:11:56.68,0:12:00.90,Main,Arnold,0,0,0,,Mendoj se harrova t'i them Leos\Ndiçka të rëndësishme, por...
+Dialogue: 0,0:12:01.24,0:12:03.15,Main,Arnold,0,0,0,,Jam i sigurt se është në rregull.
+Dialogue: 0,0:12:06.25,0:12:09.79,Main,Arnold,0,0,0,,Dreq! Dreq! Dreq!
+Dialogue: 0,0:12:09.79,0:12:13.37,Main,Arnold,0,0,0,,Nuk mund të besoj se harrova t'i them\Ndiçka kaq të rëndësishme!
+Dialogue: 0,0:12:13.99,0:12:15.10,Main,Arnold,0,0,0,,Marc!
+Dialogue: 0,0:12:16.05,0:12:17.96,Main,Marc,0,0,0,,Oh, Princi Arnold!
+Dialogue: 0,0:12:17.96,0:12:19.80,Main,Marc,0,0,0,,Pse kaq nxitim?
+Dialogue: 0,0:12:19.80,0:12:21.21,Main,Arnold,0,0,0,,A e ke parë Leon?
+Dialogue: 0,0:12:21.21,0:12:23.23,Main,Marc,0,0,0,,Princi Leo? Oh, ai është...
+Dialogue: 0,0:12:27.76,0:12:30.30,Main,Leonard,0,0,0,,A është shumë e rëndë, Princesha Eva?
+Dialogue: 0,0:12:30.30,0:12:32.18,Main,Eva,0,0,0,,Jam shumë mirë!
+Dialogue: 0,0:12:32.18,0:12:35.01,Main,Eva,0,0,0,,Ti vërtet je një burrë\Ni mirë, Princi Leonard.
+Dialogue: 0,0:12:35.24,0:12:37.09,Main,Leonard,0,0,0,,Jo vërtet.
+Dialogue: 0,0:12:37.09,0:12:38.86,Main,Leonard,0,0,0,,Ju lutem mos u mundoni shumë.
+Dialogue: 0,0:12:39.12,0:12:40.03,Main,Eva,0,0,0,,Faleminderit.
+Dialogue: 0,0:12:40.39,0:12:42.21,Main,Eva,0,0,0,,Ehm... Princ...
+Dialogue: 0,0:12:42.21,0:12:44.89,Main,Eva,0,0,0,,Kam përgatitur çaj dhe kek.
+Dialogue: 0,0:12:44.89,0:12:47.57,Main,Eva,0,0,0,,Ehm... Do të bashkoheshit me mua më vonë?
+Dialogue: 0,0:12:47.57,0:12:48.92,Main,Leonard,0,0,0,,Faleminderit.
+Dialogue: 0,0:12:48.92,0:12:51.17,Main,Leonard,0,0,0,,Do të marr pak kur të pushojmë të gjithë.
+Dialogue: 0,0:12:51.17,0:12:52.03,Main,Eva,0,0,0,,Në rregull!
+Dialogue: 0,0:12:52.69,0:12:57.47,Main,Marc,0,0,0,,I thashë Princit Leonard për Princeshën Eva.
+Dialogue: 0,0:12:57.47,0:12:58.93,Main,Arnold,0,0,0,,Oh, ia the?
+Dialogue: 0,0:12:58.93,0:13:01.40,Main,Arnold,0,0,0,,Ti vërtet je i mirë në punën tënde. Faleminderit.
+Dialogue: 0,0:13:01.76,0:13:04.14,Main,Julio,0,0,0,,Motra! Princi Leonard!
+Dialogue: 0,0:13:04.14,0:13:05.36,Main - Top,Julio,0,0,0,,Prit!
+Dialogue: 0,0:13:04.41,0:13:06.08,Main,Arnold,0,0,0,,Leo e ka të vështirë.
+Dialogue: 0,0:13:06.08,0:13:08.34,Main,Arnold,0,0,0,,Të dy, vëllai dhe motra, e pëlqejnë shumë.
+Dialogue: 0,0:13:08.34,0:13:12.91,Main,Leonard,0,0,0,,Nëse më kujtohet mirë, faji është yti.
+Dialogue: 0,0:13:14.39,0:13:16.67,Main,Arnold,0,0,0,,Në rregull, po kthehem\Nnë anije të fle.
+Dialogue: 0,0:13:16.67,0:13:18.35,Main,Marc,0,0,0,,Nuk do të ndihmosh?
+Dialogue: 0,0:13:18.35,0:13:19.82,Main,Arnold,0,0,0,,Ti mund t'ia dalësh.
+Dialogue: 0,0:13:21.48,0:13:24.21,Main,Marc,0,0,0,,Ai po bën një punë të mahnitshme\Nduke fshehur aftësitë e tij...
+Dialogue: 0,0:13:24.21,0:13:26.48,Main,Marc,0,0,0,,Edhe pse i ka ato...
+Dialogue: 0,0:13:30.45,0:13:32.41,Sign_Basic,Sign,0,0,0,,DY JAVË MË VONË, KRYEQYTETI PERANDORAK WIRTH
+Dialogue: 0,0:13:32.70,0:13:35.12,Main,Leonard,0,0,0,,Pas mposhtjes së\Ndragoit të detit Leviatano,
+Dialogue: 0,0:13:35.12,0:13:39.68,Main,Leonard,0,0,0,,Albatro dhe Rondine ripohuan\Ndëshirën e tyre për armëpushim
+Dialogue: 0,0:13:39.68,0:13:43.09,Main,Leonard,0,0,0,,dhe u vendosën për kufijtë\Nmes vendeve të tyre.
+Dialogue: 0,0:13:43.87,0:13:47.18,Main,Leonard,0,0,0,,Besoj se jugu do të\Njetë në paqe, për një kohë.
+Dialogue: 0,0:13:47.51,0:13:53.62,Main,Leonard,0,0,0,,Dhe Dukati i Albatros dëshiron të\Nhapë zyrtarisht marrëdhënie me vendin tonë.
+Dialogue: 0,0:13:55.09,0:13:57.08,Flashback,Eva,0,0,0,,A do të shihemi përsëri?
+Dialogue: 0,0:13:57.08,0:13:59.22,Flashback,Julio,0,0,0,,Princi Leonard...
+Dialogue: 0,0:13:59.22,0:14:03.03,Flashback,Leonard,0,0,0,,Sigurisht, Princesha Eva, Princi Julio.
+Dialogue: 0,0:14:03.03,0:14:04.55,Flashback,Both,0,0,0,,Më mirë premto!
+Dialogue: 0,0:14:04.55,0:14:06.31,Flashback,Leonard,0,0,0,,Po, premtoj.
+Dialogue: 0,0:14:06.31,0:14:12.07,Main,Leonard,0,0,0,,Kur u larguam, patëm një\Nlamtumirë madhështore dhe shumë dhurata.
+Dialogue: 0,0:14:13.78,0:14:16.40,Main,Johannes,0,0,0,,Punë e mirë, Leonard.
+Dialogue: 0,0:14:16.40,0:14:18.67,Main,Johannes,0,0,0,,Puna ishte shumë më\Ne vështirë nga sa prisja
+Dialogue: 0,0:14:18.67,0:14:22.03,Main,Johannes,0,0,0,,kur të emërova\NAmbasador i Jashtëzakonshëm.
+Dialogue: 0,0:14:22.03,0:14:26.59,Main,Johannes,0,0,0,,Por i zbate detyrat e tua shkëlqyeshëm.
+Dialogue: 0,0:14:26.59,0:14:28.04,Main,Leonard,0,0,0,,Faleminderit.
+Dialogue: 0,0:14:29.30,0:14:32.26,Main,Johannes,0,0,0,,Mund të diskutojmë\Nshpërblimin tënd në një datë më vonë.
+Dialogue: 0,0:14:32.26,0:14:34.43,Main,Johannes,0,0,0,,Edhe ndihmësi yt ka falënderimet e mia.
+Dialogue: 0,0:14:34.74,0:14:36.68,Main,Johannes,0,0,0,,Ndonjë mendim për udhëtimin tënd?
+Dialogue: 0,0:14:36.68,0:14:38.20,Main,Arnold,0,0,0,,Jam vërtet i lodhur!
+Dialogue: 0,0:14:38.20,0:14:40.56,Main,Arnold,0,0,0,,Nuk dua kurrë të bëj një punë të tillë përsëri.
+Dialogue: 0,0:14:40.83,0:14:42.40,Main,Johannes,0,0,0,,Kuptoj, kuptoj.
+Dialogue: 0,0:14:42.40,0:14:44.11,Main,Johannes,0,0,0,,Pikërisht atë që prisja të thoshe.
+Dialogue: 0,0:14:47.80,0:14:50.69,Main,Sebas,0,0,0,,Detyra jote si Ambasador i Jashtëzakonshëm\Nka mbaruar.
+Dialogue: 0,0:14:50.69,0:14:52.88,Main,Sebas,0,0,0,,Për momentin, gjërat janë të qeta.
+Dialogue: 0,0:14:52.88,0:14:56.16,Main,Arnold,0,0,0,,Po. Po marrim më shumë njerëz\Nnë anën tonë, gjithashtu.
+Dialogue: 0,0:14:56.56,0:15:00.82,Main,Arnold,0,0,0,,Por ata të tre nuk do ta\Nlënë këtë thjesht kështu.
+Dialogue: 0,0:15:00.82,0:15:04.16,Main,Arnold,0,0,0,,Ata do të na sulmojnë më ashpër\Nse kurrë më parë.
+Dialogue: 0,0:15:04.16,0:15:05.34,Main,Leonard,0,0,0,,Po.
+Dialogue: 0,0:15:05.34,0:15:07.70,Main,Leonard,0,0,0,,Nuk mund të çlodhemi. Duhet të vazhdojmë.
+Dialogue: 0,0:15:08.06,0:15:10.50,Main,Leonard,0,0,0,,Vëlla, faleminderit për gjithçka që ke bërë.
+Dialogue: 0,0:15:10.50,0:15:12.21,Main,Arnold,0,0,0,,Për çfarë bëhet fjalë?
+Dialogue: 0,0:15:12.45,0:15:15.19,Main,Leonard,0,0,0,,Kuptova se nuk të kam\Nfalënderuar si duhet ndonjëherë.
+Dialogue: 0,0:15:15.19,0:15:16.97,Main,Arnold,0,0,0,,Nuk më duhen falënderime.
+Dialogue: 0,0:15:16.97,0:15:20.01,Main,Arnold,0,0,0,,Të bëj ty perandor më ndihmon edhe mua.
+Dialogue: 0,0:15:20.57,0:15:22.26,Main,Leonard,0,0,0,,Kjo është pikërisht si ti, Vëlla.
+Dialogue: 0,0:15:22.26,0:15:23.61,Main,Leonard,0,0,0,,Por do ta them gjithsesi.
+Dialogue: 0,0:15:23.61,0:15:25.74,Main,Leonard,0,0,0,,Faleminderit. Dhe le të\Nvazhdojmë të punojmë bashkë.
+Dialogue: 0,0:15:25.74,0:15:27.34,Main,Arnold,0,0,0,,P-Po...
+Dialogue: 0,0:15:32.97,0:15:35.37,Main,Leonard,0,0,0,,Duket se ajo do të flasë me ty.
+Dialogue: 0,0:15:35.37,0:15:37.14,Main,Leonard,0,0,0,,Po shkoj.
+Dialogue: 0,0:15:37.14,0:15:38.36,Main,Leonard,0,0,0,,Marie, le të shkojmë.
+Dialogue: 0,0:15:38.36,0:15:39.45,Main,Arnold,0,0,0,,Hej!
+Dialogue: 0,0:15:39.45,0:15:42.17,Main,Sebas,0,0,0,,Do të kthehem edhe unë në dhomën tënde.
+Dialogue: 0,0:15:42.17,0:15:43.75,Main,Arnold,0,0,0,,Hej! Sebas!
+Dialogue: 0,0:15:43.75,0:15:46.86,Main,Elna,0,0,0,,Arn, a ke një çast?
+Dialogue: 0,0:15:47.83,0:15:49.29,Main,Arnold,0,0,0,,Po...
+Dialogue: 0,0:15:54.32,0:15:56.05,Main,Elna,0,0,0,,A ke ndonjë gjë për të më thënë?
+Dialogue: 0,0:15:56.05,0:16:01.68,Main,Arnold,0,0,0,,Ehm, nëse je i zemëruar që i thashë\NSilver për ty, më fal.
+Dialogue: 0,0:16:01.68,0:16:04.66,Main,Arnold,0,0,0,,Por... Jemi miq që nga\Nfëmijëria. Je shumë i rëndësishëm.
+Dialogue: 0,0:16:04.66,0:16:06.32,Main,Arnold,0,0,0,,Të paktën më lër të shqetësohem për ty.
+Dialogue: 0,0:16:06.32,0:16:08.47,Main,Elna,0,0,0,,Çfarë? Kjo nuk është e drejtë.
+Dialogue: 0,0:16:08.47,0:16:11.10,Main,Elna,0,0,0,,Tani nëse zemërohem me ty, dukem i vogël.
+Dialogue: 0,0:16:11.35,0:16:13.56,Main,Arnold,0,0,0,,Epo, ti je i vogël.
+Dialogue: 0,0:16:13.56,0:16:16.79,Main,Elna,0,0,0,,Edhe një fjalë dhe të pres gjuhën.
+Dialogue: 0,0:16:16.79,0:16:19.11,Main,Arnold,0,0,0,,Mirë, po mbyllem.
+Dialogue: 0,0:16:19.44,0:16:22.93,Main,Elna,0,0,0,,Silver tha se po punon me ty.
+Dialogue: 0,0:16:22.93,0:16:24.74,Main,Elna,0,0,0,,Çfarë po përpiqeni të bëni bashkë?
+Dialogue: 0,0:16:27.73,0:16:32.68,Main,Arnold,0,0,0,,Unë dhe Silver kemi një qëllim\Ntë përbashkët: ta bëjmë Leon perandor.
+Dialogue: 0,0:16:32.68,0:16:34.54,Main,Arnold,0,0,0,,Të dy komplotojmë për ta realizuar këtë.
+Dialogue: 0,0:16:34.88,0:16:37.37,Main,Elna,0,0,0,,Që ti të mund të mbijetosh?
+Dialogue: 0,0:16:37.37,0:16:41.89,Main,Elna,0,0,0,,Vërtet mendon se vëllezërit e tu\Ndhe motra do të përpiqen të të vrasin?
+Dialogue: 0,0:16:41.89,0:16:44.89,Main,Arnold,0,0,0,,Ata patjetër do të vrasin mua dhe Leon.
+Dialogue: 0,0:16:45.42,0:16:47.53,Main,Arnold,0,0,0,,Dhe ata rreth nesh, gjithashtu.
+Dialogue: 0,0:16:49.57,0:16:53.80,Main,Arnold,0,0,0,,Prandaj po e bëj Leon perandor,\Nsido që të duhet.
+Dialogue: 0,0:16:53.80,0:16:56.70,Main,Arnold,0,0,0,,Kujto çfarë të thashë gjatë festivalit?\NNuk duhet të përfshihesh.
+Dialogue: 0,0:16:56.70,0:16:59.14,Main,Arnold,0,0,0,,Nëse përfshihesh më shumë me ne,
+Dialogue: 0,0:16:59.14,0:17:02.82,Main,Arnold,0,0,0,,ata do të shohin jo vetëm ty,\Npor familjen Amsberg si armiq.
+Dialogue: 0,0:17:03.18,0:17:04.54,Main,Arnold,0,0,0,,A je në rregull me këtë?
+Dialogue: 0,0:17:04.54,0:17:07.46,Main,Elna,0,0,0,,Familja e Arkidukës Suprem\Nnuk përfshihet në politikë.
+Dialogue: 0,0:17:07.46,0:17:08.70,Main,Elna,0,0,0,,Por...
+Dialogue: 0,0:17:08.70,0:17:10.65,Main,Elna,0,0,0,,Kam marrë një vendim vetë.
+Dialogue: 0,0:17:10.99,0:17:15.17,Main,Elna,0,0,0,,Diçka që gjithmonë i kam thënë\Nvetes se nuk do ta kthej mbrapsht.
+Dialogue: 0,0:17:15.56,0:17:16.79,Main,Arnold,0,0,0,,Dhe çfarë është ajo?
+Dialogue: 0,0:17:17.25,0:17:19.39,Main,Elna,0,0,0,,Nuk do të të braktis kurrë.
+Dialogue: 0,0:17:19.39,0:17:21.48,Main,Elna,0,0,0,,Këtë betim e dhashë kur isha fëmijë.
+Dialogue: 0,0:17:23.71,0:17:29.60,Main,Elna,0,0,0,,Nëse vërtet do që Leo\Ntë bëhet perandor, do të të ndihmoj.
+Dialogue: 0,0:17:29.60,0:17:32.82,Main,Elna,0,0,0,,E vë betimin tim mbi çdo gjë tjetër.
+Dialogue: 0,0:17:33.95,0:17:36.24,Main,Arnold,0,0,0,,Atëherë nuk je\Nndonjë kalorës perandorak.
+Dialogue: 0,0:17:36.24,0:17:38.47,Main,Arnold,0,0,0,,As trashëgimtar i arkidukës suprem.
+Dialogue: 0,0:17:38.47,0:17:39.45,Main,Arnold,0,0,0,,Je i sigurt për këtë?
+Dialogue: 0,0:17:39.45,0:17:41.41,Main,Elna,0,0,0,,Jam kokëfortë.
+Dialogue: 0,0:17:41.41,0:17:42.99,Main,Elna,0,0,0,,E di shumë mirë, apo jo?
+Dialogue: 0,0:17:43.58,0:17:45.78,Main,Elna,0,0,0,,Uau, ndjehem më mirë.
+Dialogue: 0,0:17:45.78,0:17:47.71,Main,Elna,0,0,0,,Tani, le të punojmë.
+Dialogue: 0,0:17:47.71,0:17:52.44,Main,Elna,0,0,0,,Oh, dhe tani që jam zyrtarisht\Nnë anën tënde, pa më shumë sekrete!
+Dialogue: 0,0:17:52.44,0:17:55.80,Main,Elna,0,0,0,,Nëse ka më shumë që nuk po\Nmë thua, thuaje tani.
+Dialogue: 0,0:17:55.80,0:17:57.37,Main,Elna,0,0,0,,Thuaje tani, dhe do të të fal.
+Dialogue: 0,0:17:58.47,0:18:02.78,Main,Arnold,0,0,0,,Epo, të dërgova perla kur u bashkua\Nme Kalorësit Perandorakë, apo jo?
+Dialogue: 0,0:18:02.78,0:18:06.37,Main,Elna,0,0,0,,Shkove rreth e qark\Nduke i kërkuar ato, apo jo?
+Dialogue: 0,0:18:06.37,0:18:09.31,Main,Arnold,0,0,0,,Ndjehesha dembel,\Nndaj i bleva Leos...
+Dialogue: 0,0:18:09.31,0:18:10.64,Main,Elna,0,0,0,,Ti je i neveritshëm!
+Dialogue: 0,0:18:12.37,0:18:14.48,Main,Arnold,0,0,0,,The se do të më falje...
+Dialogue: 0,0:18:14.48,0:18:16.31,Main,Elna,0,0,0,,Nuk do të të fal kurrë për këtë!
+Dialogue: 0,0:18:17.91,0:18:18.93,Main,Arnold,0,0,0,,Uh.
+Dialogue: 0,0:18:21.73,0:18:23.45,Main,Lynphia,0,0,0,,Princi Arnold.
+Dialogue: 0,0:18:23.91,0:18:25.87,Main,Lynphia,0,0,0,,Zonja Finne të pret.
+Dialogue: 0,0:18:25.87,0:18:28.56,Main,Sebas,0,0,0,,Të ka përgatitur çaj të shijshëm.
+Dialogue: 0,0:18:28.56,0:18:29.42,Main,Arnold,0,0,0,,Faleminderit.
+Dialogue: 0,0:18:30.45,0:18:34.08,Main,Arnold,0,0,0,,Lynphia, faleminderit që mbrojti Finne.
+Dialogue: 0,0:18:34.51,0:18:35.80,Main,Lynphia,0,0,0,,Jo...
+Dialogue: 0,0:18:35.80,0:18:37.99,Main,Arnold,0,0,0,,E mbajte premtimin tënd.
+Dialogue: 0,0:18:38.38,0:18:40.01,Main,Arnold,0,0,0,,Do të mbaj edhe unë timin.
+Dialogue: 0,0:18:40.01,0:18:43.10,Main,Arnold,0,0,0,,Do të bëj çfarë të duhet\Npër të mbrojtur fshatin tënd.
+Dialogue: 0,0:18:43.70,0:18:47.34,Main,Lynphia,0,0,0,,Faleminderit, Princi Arnold.
+Dialogue: 0,0:18:51.27,0:18:52.49,Main,Arnold,0,0,0,,Kjo është kaq e mirë.
+Dialogue: 0,0:18:52.49,0:18:53.97,Main,Arnold,0,0,0,,Vërtet jam në shtëpi, hë?
+Dialogue: 0,0:18:54.80,0:18:56.35,Main,Finne,0,0,0,,Mirë se u ktheve.
+Dialogue: 0,0:18:56.35,0:18:58.07,Main,Arnold,0,0,0,,Dukesh i lumtur.
+Dialogue: 0,0:18:58.07,0:19:01.95,Main,Finne,0,0,0,,Jam. Ti u ktheve!
+Dialogue: 0,0:19:01.95,0:19:03.93,Main,Arnold,0,0,0,,Sigurisht që u ktheva.
+Dialogue: 0,0:19:03.93,0:19:05.69,Main,Arnold,0,0,0,,Kjo është dhoma ime.
+Dialogue: 0,0:19:05.69,0:19:09.54,Main,Finne,0,0,0,,Po, këtu kthehesh gjithmonë.
+Dialogue: 0,0:19:09.54,0:19:13.73,Main,Finne,0,0,0,,Nuk mund të të mbroj si Elna.
+Dialogue: 0,0:19:14.16,0:19:17.48,Main,Finne,0,0,0,,Nuk jam aq e zgjuar sa Lynphia.
+Dialogue: 0,0:19:19.07,0:19:20.43,Main,Finne,0,0,0,,Pra...
+Dialogue: 0,0:19:20.73,0:19:24.11,Main,Finne,0,0,0,,Do të bëj gjërat që mund të bëj!
+Dialogue: 0,0:19:24.37,0:19:27.62,Main,Finne,0,0,0,,Ky është vendi ku\Nmund të jesh vetvetja.
+Dialogue: 0,0:19:27.62,0:19:30.19,Main,Finne,0,0,0,,Jo princi pa talent e i shpifur,
+Dialogue: 0,0:19:30.19,0:19:32.79,Main,Finne,0,0,0,,as aventurieri më i madh i mbretërisë.
+Dialogue: 0,0:19:32.79,0:19:35.22,Main,Finne,0,0,0,,Mund të kthehesh thjesht në veten tënde.
+Dialogue: 0,0:19:35.22,0:19:37.54,Main,Finne,0,0,0,,Prandaj jam këtu.
+Dialogue: 0,0:19:37.54,0:19:39.98,Main,Finne,0,0,0,,Jam këtu për të qenë pranë teje\Nkur je thjesht ti.
+Dialogue: 0,0:19:41.24,0:19:45.53,Main,Finne,0,0,0,,Do të bëj çmos ta bëj këtë\Nnjë vend ku mund të çlodhesh.
+Dialogue: 0,0:19:45.53,0:19:49.61,Main,Finne,0,0,0,,Do të them "Fat të mbarë!" dhe "Mirë se u ktheve!"
+Dialogue: 0,0:19:50.01,0:19:51.47,Main,Arnold,0,0,0,,Të lutem bëje.
+Dialogue: 0,0:19:51.47,0:19:53.50,Main,Arnold,0,0,0,,Vetëm kjo është një ndihmë e madhe për mua.
+Dialogue: 0,0:19:53.50,0:19:55.28,Main,Finne,0,0,0,,Unë jam një zog.
+Dialogue: 0,0:19:55.28,0:19:58.28,Main,Finne,0,0,0,,Dhe këtu, ti do të jesh\Ndega mbi të cilën çlodhem.
+Dialogue: 0,0:19:58.96,0:20:02.19,Main,Finne,0,0,0,,Nuk mund të çlodhem nëse nuk je këtu...
+Dialogue: 0,0:20:02.19,0:20:04.92,Main,Finne,0,0,0,,Prandaj të lutem kthehu i sigurt.
+Dialogue: 0,0:20:05.42,0:20:07.84,Main,Finne,0,0,0,,Që tani e tutje... kthehu gjithmonë këtu.
+Dialogue: 0,0:20:08.14,0:20:11.66,Main,Arnold,0,0,0,,Po. Patjetër do të kthehem.
+Dialogue: 0,0:20:11.66,0:20:14.35,Main,Arnold,0,0,0,,Nëse thua se të duhet Arnoldi i thjeshtë,
+Dialogue: 0,0:20:14.35,0:20:16.75,Main,Arnold,0,0,0,,nuk mund të qëndroj larg, apo jo?
+Dialogue: 0,0:20:18.07,0:20:24.61,Main,Finne,0,0,0,,A do të vijë ndonjë ditë kur ti\Ntë mund të jesh vetvetja jashtë kësaj dhome?
+Dialogue: 0,0:20:25.36,0:20:26.40,Main,Arnold,0,0,0,,Nuk e di.
+Dialogue: 0,0:20:26.78,0:20:29.56,Main,Arnold,0,0,0,,Por të kam ty.
+Dialogue: 0,0:20:29.56,0:20:34.30,Main,Arnold,0,0,0,,Për sa kohë e ndan sekretin tim,\Ngjithçka do të jetë në rregull.
+Dialogue: 0,0:20:34.56,0:20:40.17,Main,Finne,0,0,0,,Por dua që e gjithë perandoria\Ntë të vlerësojë për atë që je një ditë.
+Dialogue: 0,0:20:42.80,0:20:44.68,Main,Arnold,0,0,0,,Ti, Leo, Elna...
+Dialogue: 0,0:20:45.02,0:20:48.57,Main,Arnold,0,0,0,,Për sa kohë njerëzit që më interesojnë\Njanë të gjithë pranë meje dhe buzëqeshin,
+Dialogue: 0,0:20:48.57,0:20:49.51,Main,Arnold,0,0,0,,kaq mjafton për mua.
+Dialogue: 0,0:20:49.51,0:20:52.46,Main,Arnold,0,0,0,,Thjesht dua ta shikoj atë\Nndërsa dembelosem gjithë ditën.
+Dialogue: 0,0:20:52.86,0:20:54.86,Main,Arnold,0,0,0,,Prandaj po punoj kaq shumë tani.
+Dialogue: 0,0:20:55.51,0:20:57.04,Main,Arnold,0,0,0,,Nuk do të lejoj që askush të vdesë.
+Dialogue: 0,0:20:57.36,0:20:59.24,Main,Arnold,0,0,0,,Pavarësisht kundër kujt duhet të luftoj.
+Dialogue: 0,0:20:59.56,0:21:02.11,Main,Finne,0,0,0,,Kam besim te ti.
+Dialogue: 0,0:21:02.11,0:21:04.82,Main,Finne,0,0,0,,Jam i sigurt se edhe Leo dhe Elna kanë.
+Dialogue: 0,0:21:05.23,0:21:07.66,Main,Finne,0,0,0,,Pra, le të bëjmë të gjithë çmos bashkë!
+Dialogue: 0,0:21:07.66,0:21:10.14,Main,Finne,0,0,0,,Nuk je vetëm!
+Dialogue: 0,0:21:10.59,0:21:11.74,Main,Arnold,0,0,0,,Faleminderit.
+Dialogue: 0,0:21:14.71,0:21:17.35,Main,Finne,0,0,0,,D-Do të shkoj të sjell edhe pak meze!
+Dialogue: 0,0:21:20.71,0:21:23.19,Main,Zandra,0,0,0,,Leonard dhe Arnold...
+Dialogue: 0,0:21:23.19,0:21:26.71,Main,Zandra,0,0,0,,Jam ngopur me ata binjakë.
+Dialogue: 0,0:21:26.71,0:21:30.49,Main,Zandra,0,0,0,,Mendoj se është koha që ata të zhduken!
+Dialogue: 0,0:21:32.26,0:21:35.16,Main,Gordon,0,0,0,,Në fund, forca është e vetmja që ka rëndësi.
+Dialogue: 0,0:21:35.16,0:21:37.47,Main,Gordon,0,0,0,,Do të përdor fuqinë time për të\Npërkulur gjithçka sipas dëshirës sime.
+Dialogue: 0,0:21:37.75,0:21:40.01,Main,Gordon,0,0,0,,Nuk do të tregoj mëshirë,\Nas ndaj vëllezërve të mi.
+Dialogue: 0,0:21:40.01,0:21:43.45,Main,Gordon,0,0,0,,Do ta fitoj këtë betejë dhe do të bëhem perandor!
+Dialogue: 0,0:21:45.23,0:21:49.31,Main,Erik,0,0,0,,Jam i lumtur t'i lë\Ntë tjerët të shkatërrohen vetë.
+Dialogue: 0,0:21:49.31,0:21:51.95,Main,Erik,0,0,0,,Pyes veten kush do të jetë\Nai që do të më mbetet për t'u përballur.
+Dialogue: 0,0:21:52.32,0:21:56.05,Main,Erik,0,0,0,,Epo, nuk ka rëndësi kush është.
+Dialogue: 0,0:21:57.12,0:22:00.12,Main,Arnold,0,0,0,,Jam vërtet i rraskapitur këtë herë...
+Dialogue: 0,0:22:00.12,0:22:03.33,Main,Arnold,0,0,0,,por nuk ka kohë për çlodhje.
+Dialogue: 0,0:22:03.78,0:22:06.54,Main,Arnold,0,0,0,,Do të bëj një sy gjumë të shkurtër, dhe pastaj...
+Dialogue: 0,0:22:06.95,0:22:08.76,Main,Arnold,0,0,0,,Është koha për më shumë aktivitete të fshehta!
+
