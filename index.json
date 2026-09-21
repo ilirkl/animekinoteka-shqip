@@ -1078,6 +1078,20 @@
       "assFile": "ass/at-691264.sq.ass",
       "offset": 0,
       "sourceReleaseId": "691264"
+    },
+    {
+      "id": "at-691292",
+      "title": "Oh Boy, Was I Wrong About Her",
+      "episode": "12",
+      "malId": 56735,
+      "anilistId": 169583,
+      "slugs": [
+        "oh-boy-was-i-wrong-about-her-eb482"
+      ],
+      "file": "files/at-691292.sq.vtt",
+      "assFile": "ass/at-691292.sq.ass",
+      "offset": 0,
+      "sourceReleaseId": "691292"
     }
   ]
 }
