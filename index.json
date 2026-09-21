@@ -1018,6 +1018,24 @@
       "assFile": "ass/at-691197.sq.ass",
       "offset": 0,
       "sourceReleaseId": "691197"
+    },
+    {
+      "id": "at-691219",
+      "title": "Skeleton Knight in Another World Season 2",
+      "episode": "12",
+      "malId": 60522,
+      "anilistId": 185542,
+      "slugs": [
+        "skeleton-knight-in-another-world-season-2"
+      ],
+      "file": "files/at-691219.sq.vtt",
+      "assFile": "ass/at-691219.sq.ass",
+      "offset": 0,
+      "sourceReleaseId": "691219",
+      "sourceEpisode": "12",
+      "sourceTitle": "Gaikotsu Kishi-sama Tadaima Isekai e Odekake-chuu II",
+      "part": 2,
+      "numberingEvidence": "https://anikototv.to/watch/skeleton-knight-in-another-world-season-2"
     }
   ]
 }

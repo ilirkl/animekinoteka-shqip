@@ -1,0 +1,352 @@
+﻿[Script Info]
+Title: [Erai-raws]
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Main - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: Sign_Basic,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: sign_18391_180_Episode_1,Times New Roman,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,110,110,0,0,1,0,0,8,10,10,115,1
+Style: sign_18391_181_The_Wandering_Kn,Times New Roman,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,110,110,0,0,1,0,0,2,10,10,115,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:05.49,0:00:08.81,Main,Charros,0,0,0,,Më prishët argëtimin!
+Dialogue: 0,0:00:11.25,0:00:13.83,Main,Charros,0,0,0,,Do ta paguash.
+Dialogue: 0,0:00:13.83,0:00:18.81,Main,Charros,0,0,0,,Sepse do t'ju ha\Nabsolutisht të gjithëve!
+Dialogue: 0,0:00:24.33,0:00:28.36,Main,Arc,0,0,0,,Duket se kam rënë në një betejë me bos.
+Dialogue: 0,0:00:43.37,0:00:45.49,Main,Charros,0,0,0,,Mish... mish...
+Dialogue: 0,0:00:45.49,0:00:47.74,Main,Charros,0,0,0,,Mish... mish...
+Dialogue: 0,0:00:47.74,0:00:51.74,Main,Charros,0,0,0,,Kaq shumë mish për mua! Koha të hamë!
+Dialogue: 0,0:01:04.97,0:01:07.38,Main,Charros,0,0,0,,Magji teleportimi me rreze të shkurtër?!
+Dialogue: 0,0:01:07.38,0:01:08.83,Main,Charros,0,0,0,,Kush je ti, gjithsesi?!
+Dialogue: 0,0:01:08.83,0:01:12.69,Main,Arc,0,0,0,,Nuk do të toleroj asnjë\Nkekësi të mëtejshme prej teje!
+Dialogue: 0,0:01:13.22,0:01:15.69,Main,Charros,0,0,0,,Më duket se nuk ka rëndësi.
+Dialogue: 0,0:01:15.69,0:01:18.60,Main,Charros,0,0,0,,Mos u fut në rrugën time!
+Dialogue: 0,0:01:56.01,0:01:58.63,Main,Arc,0,0,0,,Shfaqu, kujdestar i përjetësisë!
+Dialogue: 0,0:01:58.63,0:02:01.76,Main,Arc,0,0,0,,Thirrje e Avancuar: Aion!
+Dialogue: 0,0:02:01.76,0:02:04.01,Main,Arc,0,0,0,,Koha t'i japim fund shpejt kësaj!
+Dialogue: 0,0:02:53.37,0:02:54.73,Main,Charros,0,0,0,,Ti i vogli budalla...!
+Dialogue: 0,0:02:54.73,0:02:57.64,Main,Arc,0,0,0,,Jeni tmerrësisht i shpejtë, për gjithë atë masë.
+Dialogue: 0,0:02:57.64,0:03:01.31,Main,Charros,0,0,0,,Mënyra si fluturon rreth e qark është kaq bezdisëse!
+Dialogue: 0,0:03:01.31,0:03:03.29,Main,Arc,0,0,0,,Prerja e Wyvern-it!
+Dialogue: 0,0:03:03.29,0:03:04.23,Main,Charros,0,0,0,,Au!
+Dialogue: 0,0:03:04.23,0:03:07.22,Main,Charros,0,0,0,,Si guxon?!
+Dialogue: 0,0:03:08.28,0:03:10.08,Main,Arc,0,0,0,,Edhe më shumë rigjenerim?
+Dialogue: 0,0:03:10.08,0:03:12.10,Main,Arc,0,0,0,,Kjo mund të rezultojë më e vështirë nga sa mendoja.
+Dialogue: 0,0:03:12.10,0:03:13.12,Main,Ariane,0,0,0,,Arc!
+Dialogue: 0,0:03:13.12,0:03:14.10,Main,Chiyome,0,0,0,,Zotëri Arc!
+Dialogue: 0,0:03:14.79,0:03:16.70,Main,Arc,0,0,0,,Zonja Ariane! I sollët të gjithë.
+Dialogue: 0,0:03:16.96,0:03:19.45,Main,Danka,0,0,0,,A është këtu ku e gjithë ajo mana\Nqë ndjeva po vjen?!
+Dialogue: 0,0:03:19.69,0:03:22.33,Main,Ariane,0,0,0,,Arc, çfarë në botë\Nështë kjo neveri?
+Dialogue: 0,0:03:22.86,0:03:26.96,Main,Arc,0,0,0,,Me sa duket është edhe një nga\Nato shtatë të Kishës Hilk.
+Dialogue: 0,0:03:26.96,0:03:28.41,Main,Charros,0,0,0,,Emri im është Charros Acedia Industria
+Dialogue: 0,0:03:28.41,0:03:31.21,Main,Charros,0,0,0,,dhe jam një nga\Nshtatë kardinalët e Kishës së Shenjtë Hilk!
+Dialogue: 0,0:03:31.21,0:03:35.24,Main,Charros,0,0,0,,Jam një personazh i madh! Jam një nga\Nkardinalët e besimit Hilk,
+Dialogue: 0,0:03:35.24,0:03:37.72,Main,Charros,0,0,0,,që do ta çojë botën drejt shpëtimit!
+Dialogue: 0,0:03:38.81,0:03:42.99,Main,Charros,0,0,0,,Zakonisht nuk më pëlqen të ha elfë\Ndhe bishanjerëz; kanë shije të neveritshme!
+Dialogue: 0,0:03:42.99,0:03:46.82,Main,Charros,0,0,0,,Por e urrej shpërdorimin, ndaj më mirë\Nt'ju gëlltis të gjithëve, gjithsesi!
+Dialogue: 0,0:03:46.82,0:03:48.11,Main,Ariane,0,0,0,,Përsëri?
+Dialogue: 0,0:03:48.48,0:03:53.53,Main,Charros,0,0,0,,Ti dukesh e butë, megjithatë!\NPikërisht ajo që më duhej!
+Dialogue: 0,0:03:53.53,0:03:55.88,Main,Ariane,0,0,0,,Mbaji ata sy të vegjël larg meje.
+Dialogue: 0,0:03:55.88,0:04:00.11,Main,Charros,0,0,0,,Edhe kaq me vullnet të fortë!\NPikërisht si më pëlqejnë...
+Dialogue: 0,0:04:00.11,0:04:02.66,Main,Charros,0,0,0,,Marr vajza si ti dhe\Ni lëpij, i thith,
+Dialogue: 0,0:04:02.66,0:04:04.25,Main,Charros,0,0,0,,dhe i përtyp copë-copë...
+Dialogue: 0,0:04:04.25,0:04:08.42,Main,Charros,0,0,0,,Shijimi i tyre gjatë gjithë kohës\Ne bën një vakt të shkëlqyer!
+Dialogue: 0,0:04:08.42,0:04:10.69,Main,Guard 1,0,0,0,,A ka edhe një gjigant tjetër këtu?!
+Dialogue: 0,0:04:11.76,0:04:12.68,Main,Guard 2,0,0,0,,Çfarë në botë?!
+Dialogue: 0,0:04:14.00,0:04:15.40,Main,Guard 3,0,0,0,,Çfarë është kjo?!
+Dialogue: 0,0:04:15.40,0:04:17.30,Main,Arc,0,0,0,,Prerja e Wyvern-it!
+Dialogue: 0,0:04:18.23,0:04:20.16,Main,Arc,0,0,0,,Zotëri Danka, kujdesu për banorët e qytetit!
+Dialogue: 0,0:04:20.16,0:04:21.03,Main,Danka,0,0,0,,Po merrem!
+Dialogue: 0,0:04:21.03,0:04:22.74,Main,Ariane,0,0,0,,Chiyome, Tsubone, ndihmojeni!
+Dialogue: 0,0:04:23.13,0:04:24.26,Main,Chiyome,0,0,0,,A do të jesh mirë?
+Dialogue: 0,0:04:24.26,0:04:24.82,Main,Ariane,0,0,0,,Po.
+Dialogue: 0,0:04:24.82,0:04:27.91,Main,Ariane,0,0,0,,Unë dhe Arc mund ta përballojmë këtë të çmendur.
+Dialogue: 0,0:04:27.91,0:04:28.79,Main,Chiyome,0,0,0,,Kuptova.
+Dialogue: 0,0:04:28.79,0:04:29.93,Main,Tsubone,0,0,0,,Llogarisim tek ju.
+Dialogue: 0,0:04:30.90,0:04:34.53,Main,Ariane,0,0,0,,Arc, le ta rrëzojmë këtë pisllëk tashmë!
+Dialogue: 0,0:04:36.78,0:04:39.59,Main,Charros,0,0,0,,Mendoni se të dy mund\Ntë më mundni vetëm?
+Dialogue: 0,0:04:39.59,0:04:43.84,Main,Charros,0,0,0,,Doja të haja femrën e para,\Npor nëse jeni kaq miq të mirë...
+Dialogue: 0,0:04:43.84,0:04:46.50,Main,Charros,0,0,0,,Do t'ju gëlltis të dy përnjëherë!
+Dialogue: 0,0:04:46.75,0:04:48.10,Main,Arc,0,0,0,,Wyvern—uau!
+Dialogue: 0,0:04:58.57,0:05:00.69,Main,Arc,0,0,0,,Prerja e Wyvern-it!
+Dialogue: 0,0:05:03.10,0:05:04.60,Main,Charros,0,0,0,,Është e kotë!
+Dialogue: 0,0:05:04.60,0:05:05.98,Main,Ariane,0,0,0,,Ai vazhdon të rikrijohet!
+Dialogue: 0,0:05:05.98,0:05:09.60,Main,Arc,0,0,0,,Duhet ta mbarojmë shpejt,\Npa i dhënë kohë të shërohet!
+Dialogue: 0,0:05:09.60,0:05:11.36,Main,Ariane,0,0,0,,Oh, kaq ishte?!
+Dialogue: 0,0:05:11.95,0:05:16.11,Main,Ariane,0,0,0,,Prush i ndezur, dëgjo thirrjen time.\NKonsumo gjithçka në hi!
+Dialogue: 0,0:05:18.44,0:05:21.24,Main,Arc,0,0,0,,Aftësia e Kalorësit të Shenjtë, Gjykimi!
+Dialogue: 0,0:05:23.39,0:05:24.43,Sign_Basic,Sign,0,0,0,,{\fad(575,0)\an5\fscy90\fnTimes New Roman\b1\blur1\fs40\bord2\shad3\4a&HFF&\3c&H8ECECD&\c&HFAFBFF&\4c&H222F35&\frx12\fry348\t(643,724,1 \c&H8BD9DE&\3c&HD9EAF4&)\frz344.7\pos(141.334,177.333)}J\Nu\Nd\Ng\Nm\Ne\Nn\Nt
+Dialogue: 0,0:05:25.38,0:05:26.34,Main,Ariane,0,0,0,,E zëmë!
+Dialogue: 0,0:05:26.34,0:05:29.25,Main,Arc,0,0,0,,Zonja Ariane, i mbani mend ata\Nflamuj për të cilët fola?
+Dialogue: 0,0:05:38.53,0:05:41.64,Main,Charros,0,0,0,,Ju të pacipë, të vrazhdë, të mjerë të vegjël...!
+Dialogue: 0,0:05:41.64,0:05:45.40,Main,Charros,0,0,0,,Ju jeni thjesht mish!\NNuk jeni gjë tjetër veç ushqimi im!
+Dialogue: 0,0:05:46.41,0:05:48.41,Main,Charros,0,0,0,,Do t'ju vras!
+Dialogue: 0,0:05:48.66,0:05:49.91,Main,Ariane,0,0,0,,Nuk mund të jetë!
+Dialogue: 0,0:05:50.17,0:05:52.65,Main,Guards 3,0,0,0,,Evakuohuni në kodrën në perëndim!
+Dialogue: 0,0:05:52.65,0:05:54.56,Main,Guard 4,0,0,0,,Mos ndaloni! Vazhdoni të lëvizni!
+Dialogue: 0,0:05:59.99,0:06:01.26,Main,Tsubone,0,0,0,,Ato gjëra arrijnë deri këtu?
+Dialogue: 0,0:06:01.26,0:06:02.24,Main,Danka,0,0,0,,Ndaleni!
+Dialogue: 0,0:06:19.47,0:06:22.72,Main,Arc,0,0,0,,I çmenduri po gëlltit edhe gjigantët!
+Dialogue: 0,0:06:23.10,0:06:25.88,Main,Charros,0,0,0,,Qoftë ky qytet,\Nkontinenti, apo e gjithë bota,
+Dialogue: 0,0:06:25.88,0:06:31.63,Main,Charros,0,0,0,,Do ta ha çdo\Ncopëz të fundit të saj!
+Dialogue: 0,0:06:43.74,0:06:45.45,Main,Guard 1,0,0,0,,Hej, shiko!
+Dialogue: 0,0:06:45.45,0:06:47.16,Main,Guard 2,0,0,0,,Çfarë është në botë?!
+Dialogue: 0,0:06:58.34,0:07:00.09,Main,Ayn,0,0,0,,Çfarë dreqin...?
+Dialogue: 0,0:07:02.26,0:07:04.30,Main,Charros,0,0,0,,Ende jam i uritur!
+Dialogue: 0,0:07:04.30,0:07:07.48,Main,Charros,0,0,0,,Dhe nuk do të mbaroj derisa\Ne gjithë bota të jetë në barkun tim!
+Dialogue: 0,0:07:08.97,0:07:10.88,Main,Arc,0,0,0,,Qëndro larg, Zonja Ariane.
+Dialogue: 0,0:07:16.34,0:07:18.16,Main,Charros,0,0,0,,Ti insekt i mallkuar!
+Dialogue: 0,0:07:26.73,0:07:27.41,Main,Ariane,0,0,0,,Arc!
+Dialogue: 0,0:07:30.42,0:07:34.30,Main,Charros,0,0,0,,E sheh çfarë ndodh\Nkur një insekt më kundërshton?!
+Dialogue: 0,0:07:34.68,0:07:38.86,Main,Ariane,0,0,0,,I thërras flakët të\Nbjerë shi mbi armiqtë tanë!
+Dialogue: 0,0:07:40.29,0:07:41.63,Main,Charros,0,0,0,,Nuk ka kuptim!
+Dialogue: 0,0:07:41.63,0:07:45.73,Main,Ariane,0,0,0,,Prush i ndezur, dëgjo thirrjen time.\NKonsumo gjithçka në hi!
+Dialogue: 0,0:07:48.84,0:07:51.18,Main,Charros,0,0,0,,Nuk dhemb fare!
+Dialogue: 0,0:07:53.78,0:07:55.14,Italics,Arc,0,0,0,,Ulja vigjilencën.
+Dialogue: 0,0:07:55.14,0:07:58.59,Italics,Arc,0,0,0,,Sulmi i tij po më dobëson...\Nduhet të jetë një lloj dobësimi!
+Dialogue: 0,0:07:59.89,0:08:01.76,Italics,Arc,0,0,0,,Çfarë ishte ai zë?
+Dialogue: 0,0:08:03.07,0:08:04.97,Main,Mouth 1,0,0,0,,Dhemb, dhemb.
+Dialogue: 0,0:08:03.52,0:08:04.97,Main - Top,Mouth 2,0,0,0,,Është kaq e nxehtë.
+Dialogue: 0,0:08:05.98,0:08:07.59,Main,Mouth 3,0,0,0,,Kam kaq ftohtë.
+Dialogue: 0,0:08:04.97,0:08:06.99,Main - Top,Mouth 4,0,0,0,,Mami... ku je?
+Dialogue: 0,0:08:07.89,0:08:10.95,Italics,Arc,0,0,0,,A janë këta njerëzit që ai gëlltiti?
+Dialogue: 0,0:08:10.95,0:08:11.94,Main,Mouth 5,0,0,0,,Më ndihmo.
+Dialogue: 0,0:08:11.94,0:08:13.04,Main,Mouth 6,0,0,0,,Dhemb.
+Dialogue: 0,0:08:13.04,0:08:14.47,Main,Mouth 7,0,0,0,,Nuk mund të marr frymë.
+Dialogue: 0,0:08:14.47,0:08:18.36,Italics,Arc,0,0,0,,Pra nuk i hëngri thjesht,\Npor konsumoi shpirtrat e tyre?!
+Dialogue: 0,0:08:22.23,0:08:28.48,Main,Charros,0,0,0,,Ndjehesh e frustruar? Epo, mbaroi tani.\NDo ta gëlltis atë fytyrë të lezetshme!
+Dialogue: 0,0:08:31.40,0:08:33.74,Main,Ariane,0,0,0,,Po, mbaroi. Për ty.
+Dialogue: 0,0:08:38.36,0:08:40.08,Main,Charros,0,0,0,,Ç-Çfarë?!
+Dialogue: 0,0:08:42.07,0:08:44.25,Main,Ariane,0,0,0,,Mos më bëj të pres kështu, Arc!
+Dialogue: 0,0:08:44.25,0:08:47.49,Main,Arc,0,0,0,,Zonja Ariane, vlerësoj që\Nfitove kohën që më duhej.
+Dialogue: 0,0:08:47.49,0:08:49.49,Main,Charros,0,0,0,,Je ende gjallë?!
+Dialogue: 0,0:08:49.49,0:08:52.70,Main,Arc,0,0,0,,Shfaqu, kujdestar i përjetësisë!
+Dialogue: 0,0:08:52.70,0:08:55.95,Main,Arc,0,0,0,,Thirrje Mjeshtërore: Aion!
+Dialogue: 0,0:08:57.45,0:09:01.65,Italics,Arc,0,0,0,,Aion është një bishë e thirrur që mund të\Nmbajë statusin e thirrësit
+Dialogue: 0,0:09:01.65,0:09:02.70,Italics,Arc,0,0,0,,për sa kohë është i pranishëm.
+Dialogue: 0,0:09:02.70,0:09:05.55,Italics,Arc,0,0,0,,Efektet përfshijnë mosmarrjen e dëmit,
+Dialogue: 0,0:09:05.55,0:09:07.12,Italics,Arc,0,0,0,,dhe moshpenzimin e manas\Ngjatë hedhjes së magjive.
+Dialogue: 0,0:09:07.12,0:09:09.27,Italics,Arc,0,0,0,,Por zgjat vetëm tre minuta!
+Dialogue: 0,0:09:09.77,0:09:12.28,Main,Arc,0,0,0,,Koha t'i japim fund shpejt kësaj!
+Dialogue: 0,0:09:12.28,0:09:14.77,Main,Charros,0,0,0,,Ti insekt i vrazhdë e i pacipë!
+Dialogue: 0,0:09:14.77,0:09:18.62,Main,Charros,0,0,0,,Vdis nga Korrozioni i Kaosit tim!
+Dialogue: 0,0:09:18.79,0:09:19.87,Sign_Basic,Sign,0,0,0,,{\fad(375,0)\an8\fnTimes New Roman\b1\c&HAF31AD&\3c&H46071E&\4c&HBE101E&\shad2}Korrozioni i Kaosit
+Dialogue: 0,0:09:21.94,0:09:24.38,Main,Charros,0,0,0,,Do të shkrihesh në llucë!
+Dialogue: 0,0:09:26.73,0:09:27.92,Main,Arc,0,0,0,,Është e kotë.
+Dialogue: 0,0:09:27.92,0:09:29.59,Main,Charros,0,0,0,,M-Mos u bëj i fortë!
+Dialogue: 0,0:09:29.59,0:09:31.63,Main,Charros,0,0,0,,Merr edhe pak!
+Dialogue: 0,0:09:34.37,0:09:37.87,Main,Charros,0,0,0,,Ai e shpërtheu Korrozionin tim të Kaosit?!
+Dialogue: 0,0:09:38.22,0:09:40.52,Main,Arc,0,0,0,,Nuk do të lësh as hi pas.
+Dialogue: 0,0:09:40.52,0:09:42.38,Main,Arc,0,0,0,,Aftësia e Kalorësit të Shenjtë,
+Dialogue: 0,0:09:43.00,0:09:44.92,Main,Arc,0,0,0,,Vula e Shenjtë!
+Dialogue: 0,0:09:45.00,0:09:46.02,Sign_Basic,Sign,0,0,0,,{\fad(275,0)\pos(230,224)\frz14.1\fnTimes New Roman\b1\fs30\c&HB47B40&\3c&HFFFED3&\4c&HDB8F5D&\shad2}Vula e Shenjtë
+Dialogue: 0,0:09:46.41,0:09:48.94,Main,Arc,0,0,0,,Aftësia e klasës së avancuar të magjit,
+Dialogue: 0,0:09:48.94,0:09:50.52,Main,Arc,0,0,0,,Nepërka e Flakës!
+Dialogue: 0,0:09:49.44,0:09:50.51,Sign_Basic,Sign,0,0,0,,{\fad(225,0)\fnTimes New Roman\b1\fs30\shad0\c&H0C54FE&\3c&H252129&\frz338.6\pos(468.333,155.667)}F{\c&H1566FD&}l{\c&H1E78FC&}a{\c&H278BFC&}m{\c&H309DFB&}e{\c&H39AFFA&} {\c&H309DFB&}V{\c&H278BFC&}i{\c&H1E78FC&}p{\c&H1566FD&}e{\c&H0C54FE&}r
+Dialogue: 0,0:09:52.51,0:09:54.65,Main,Arc,0,0,0,,Aftësia e Kalorësit të Shenjtë,
+Dialogue: 0,0:09:54.65,0:09:57.53,Main,Arc,0,0,0,,Shpata e Rrezes së Shenjtë!
+Dialogue: 0,0:09:58.74,0:09:59.79,Sign_Basic,sign,0,0,0,,{\fad(325,0)\an8\fnTimes New Roman\b1\c&HC1C63A&\fs30\bord0\xshad-2\yshad-2\4c&HFEFDE4&\pos(370,20)}Shpata e Rrezes së Shenjtë
+Dialogue: 0,0:10:01.18,0:10:04.40,Main,Charros,0,0,0,,Nuk... shërohem... mjaft shpejt!
+Dialogue: 0,0:10:04.40,0:10:07.66,Main,Arc,0,0,0,,Të paralajmërova se nuk do të\Nlë as hi pas.
+Dialogue: 0,0:10:07.66,0:10:10.21,Main,Arc,0,0,0,,Aftësia e klasës mjeshtërore të priftit,
+Dialogue: 1,0:10:10.21,0:10:11.74,Main,Arc,0,0,0,,Ardhja e Kryqit!
+Dialogue: 0,0:10:10.48,0:10:14.17,Sign_Basic,Sign,0,0,0,,{\fnTimes New Roman\b1\an5\frz10.18\pos(116.666,185.334)\3c&H6DA8C5&\4c&H4F8591&\c&HC6E9F7&\fscy20\t(5,546,1 \fscy100)\t(548,754,1 \3c&H2C6373&)}C\Nr\No\Ns\Ns\N\NA\Nd\Nv\Ne\Nn\Nt
+Dialogue: 0,0:10:22.65,0:10:23.59,Main,Mouths,0,0,0,,Faleminderit.
+Dialogue: 0,0:10:24.09,0:10:25.78,Main,Mouths,0,0,0,,Tani mund të vdesim.
+Dialogue: 0,0:10:25.78,0:10:27.46,Main,Mouths,0,0,0,,Më në fund mund të vdesim!
+Dialogue: 0,0:10:27.46,0:10:28.92,Main,Mouths,0,0,0,,Faleminderit.
+Dialogue: 0,0:10:29.43,0:10:31.69,Main,Charros,0,0,0,,Jo... unë...
+Dialogue: 0,0:10:32.68,0:10:37.93,Main,Charros,0,0,0,,Doja të vazhdoja...\Ntë haja shumë njerëz të tjerë!
+Dialogue: 0,0:10:39.04,0:10:45.34,Main,Charros,0,0,0,,Kjo nuk duhet lejuar! Jam një\Nnga Shtatë Kardinalët, dreq!
+Dialogue: 0,0:10:47.01,0:10:50.07,Main,Charros,0,0,0,,Të humbas nga ndonjë kalorës... kështu?
+Dialogue: 0,0:10:51.08,0:10:54.53,Main,Charros,0,0,0,,Kush je ti...?!
+Dialogue: 0,0:10:55.70,0:10:58.86,Main,Arc,0,0,0,,Edhe pse urrej ta ndaj\Nemrin tim me të tillë si ti,
+Dialogue: 0,0:10:58.86,0:11:00.91,Main,Arc,0,0,0,,po e them duke e ditur se do ta çosh\Nnë varr me vete.
+Dialogue: 0,0:11:02.32,0:11:05.46,Main,Arc,0,0,0,,Emri im është Arc Lalatoya.
+Dialogue: 0,0:11:12.18,0:11:14.37,Main,Arc,0,0,0,,Dhe jam një kalorës i thjeshtë elf.
+Dialogue: 0,0:11:15.69,0:11:19.70,Main,Ariane,0,0,0,,Koha e ngrënies për ty ka mbaruar... përgjithmonë.
+Dialogue: 0,0:11:21.37,0:11:24.09,Main,Arc,0,0,0,,Ah, Ponta.\NA është mirë djali nga më parë?
+Dialogue: 0,0:11:25.34,0:11:27.35,Main,Arc,0,0,0,,Kuptoj. Mirë që e di.
+Dialogue: 0,0:11:32.46,0:11:36.94,Main,Arc,0,0,0,,Le të prehen në paqe të gjitha shpirtrat\Nqë mbaheshin robër.
+Dialogue: 0,0:11:55.10,0:11:57.06,Main,Danka,0,0,0,,A mbaroi tani?
+Dialogue: 0,0:11:57.53,0:11:58.22,Main,Ariane,0,0,0,,Po.
+Dialogue: 0,0:11:58.60,0:11:59.92,Main,Arc,0,0,0,,Dhe vëllai yt?
+Dialogue: 0,0:11:59.92,0:12:02.72,Main,Chiyome,0,0,0,,Arrita t'i them lamtumirë, po.
+Dialogue: 0,0:12:03.61,0:12:04.57,Main,Arc,0,0,0,,Kuptoj.
+Dialogue: 0,0:12:06.02,0:12:09.45,Main,Arc,0,0,0,,Epo, në atë rast, mendoj se\Ngjithçka u rregullua.
+Dialogue: 0,0:12:14.47,0:12:19.33,Main,Sekt,0,0,0,,Duket se qyteti i Tajiento është sulmuar\Nnga gjigantë dhe të pavdekur.
+Dialogue: 0,0:12:20.20,0:12:22.79,Main,Yuriarna,0,0,0,,Tajiento? A nuk është ai...?
+Dialogue: 0,0:12:22.79,0:12:28.12,Main,Sekt,0,0,0,,Po. I vetmi qytet në kontinentin jugor\Nme një degë të Kishës Hilk.
+Dialogue: 0,0:12:28.93,0:12:30.96,Main,Yuriarna,0,0,0,,Çfarë ndodhi me të?
+Dialogue: 0,0:12:31.36,0:12:35.72,Main,Sekt,0,0,0,,Falë reagimit të aftë të rojeve,\Nkriza u shmang.
+Dialogue: 0,0:12:36.42,0:12:42.22,Main,Yuriarna,0,0,0,,Kuptoj. Gjithsesi, jam i impresionuar\Nqë arritën të përballonin diçka të tillë.
+Dialogue: 0,0:12:42.68,0:12:45.00,Main,Sekt,0,0,0,,Nuk kam konfirmim për këtë,
+Dialogue: 0,0:12:45.00,0:12:48.94,Main,Sekt,0,0,0,,por ka zëra se\Nnjë grup bishanjerëzish, elfësh,
+Dialogue: 0,0:12:48.94,0:12:52.86,Main,Sekt,0,0,0,,dhe një kalorës me armaturë argjendi\Nu panë gjatë betejës.
+Dialogue: 0,0:12:54.17,0:12:59.13,Main,Sekt,0,0,0,,Por me gjithë kaosin,\Nnuk dihet nëse është e vërtetë.
+Dialogue: 0,0:12:59.93,0:13:02.24,Main,Yuriarna,0,0,0,,Një kalorës... me argjend?
+Dialogue: 0,0:13:11.20,0:13:12.72,Main,Sekt,0,0,0,,Diçka nuk shkon, Yuriarna?
+Dialogue: 0,0:13:13.05,0:13:16.09,Main,Yuriarna,0,0,0,,Oh, jo, asgjë.
+Dialogue: 0,0:13:21.71,0:13:24.22,Main,Domitianus,0,0,0,,Kuptoj. Pra Tajiento u sulmua.
+Dialogue: 0,0:13:24.22,0:13:24.93,Main,Velmoas,0,0,0,,Po, zotëri.
+Dialogue: 0,0:13:25.26,0:13:28.48,Main,Domitianus,0,0,0,,Duket se Mbretëria e Shenjtë Hilk\Npo bën lëvizjen e saj.
+Dialogue: 0,0:13:28.70,0:13:30.26,Main,Velmoas,0,0,0,,Si do të përgjigjemi?
+Dialogue: 0,0:13:30.99,0:13:32.92,Main,Domitianus,0,0,0,,Le ta bëjnë si të duan.
+Dialogue: 0,0:13:33.99,0:13:37.54,Main,Domitianus,0,0,0,,Ndërsa ata mbjellin kaos\Nnë gjithë botën...
+Dialogue: 0,0:13:37.99,0:13:41.99,Main,Domitianus,0,0,0,,ne do të jemi të zënë me planet tona.
+Dialogue: 0,0:13:42.25,0:13:43.98,Main,Domitianus,0,0,0,,Dhe të lirë ta zbatojmë pa pengesa.
+Dialogue: 0,0:13:45.00,0:13:50.02,sign_18391_180_Episode_1,Sign,0,0,0,,Episodi 12
+Dialogue: 0,0:13:45.00,0:13:50.02,sign_18391_181_The_Wandering_Kn,Sign,0,0,0,,{\pos(320,270)}Ndëshkimi Hyjnor! Skeleti\NZbaton Drejtësi që Shfaros të Keqen!
+Dialogue: 0,0:14:05.75,0:14:08.28,Main,Chiyome,0,0,0,,Ky vend ka pamjen\Nmë të mirë në fshat.
+Dialogue: 0,0:14:08.89,0:14:11.46,Main,Chiyome,0,0,0,,Jam i sigurt se do të mund të shohësh
+Dialogue: 0,0:14:11.46,0:14:15.30,Main,Chiyome,0,0,0,,të gjithë duke jetuar të lumtur në\Nfshatin e ri nga këtu.
+Dialogue: 0,0:14:16.04,0:14:18.55,Main,Tsubone,0,0,0,,Chiyome! Koha të nisemi.
+Dialogue: 0,0:14:18.55,0:14:19.62,Main,Chiyome,0,0,0,,Në rregull.
+Dialogue: 0,0:14:20.50,0:14:22.56,Main,Chiyome,0,0,0,,Do të udhëtoj përsëri.
+Dialogue: 0,0:14:23.01,0:14:27.52,Main,Chiyome,0,0,0,,Kujdesu për të gjithë\Nndërsa jam larg, Sasuke.
+Dialogue: 0,0:14:41.30,0:14:42.94,Main,Ariane,0,0,0,,D-Dëgjo, Arc.
+Dialogue: 0,0:14:42.94,0:14:44.76,Main,Arc,0,0,0,,Çfarë është, Zonja Ariane?
+Dialogue: 0,0:14:44.76,0:14:47.72,Main,Ariane,0,0,0,,Epo, thjesht... ehm...
+Dialogue: 0,0:14:49.73,0:14:52.20,Main,Ariane,0,0,0,,Pra, çfarë po bën?
+Dialogue: 0,0:14:52.20,0:14:55.17,Main,Arc,0,0,0,,Pica! Një pjatë nga vendlindja ime.
+Dialogue: 0,0:14:55.17,0:14:58.42,Main,Arc,0,0,0,,Kemi mjaft domate që\Nblemë në kontinent, gjithsesi.
+Dialogue: 0,0:14:59.04,0:15:00.14,Main,Ariane,0,0,0,,K-Kuptoj...
+Dialogue: 0,0:15:00.14,0:15:02.43,Main,Arc,0,0,0,,Shpresoj vetëm t'ju pëlqejë të gjithëve!
+Dialogue: 0,0:15:03.15,0:15:04.18,Main,Ariane,0,0,0,,Edhe unë.
+Dialogue: 0,0:15:06.22,0:15:07.32,Main,Ariane,0,0,0,,Arc!
+Dialogue: 0,0:15:08.50,0:15:10.56,Main,Ariane,0,0,0,,Të jem e sinqertë, unë...
+Dialogue: 0,0:15:11.58,0:15:14.18,Main,Arc,0,0,0,,Oh, nuk është gjë tjetër veç një Zog Pëshpëritës!
+Dialogue: 0,0:15:16.56,0:15:20.08,Italics,Danka,0,0,0,,Klani i Tigrit dhe bishanjerëz të tjerë\Nqë u liruan në Tajiento
+Dialogue: 0,0:15:20.08,0:15:22.69,Italics,Danka,0,0,0,,mbërritën të sigurt në\NMbretërinë Fobnach.
+Dialogue: 0,0:15:22.69,0:15:25.10,Main,Arc,0,0,0,,Mirë që e di.
+Dialogue: 0,0:15:25.10,0:15:27.81,Italics,Danka,0,0,0,,Do të hetoj edhe pak\Nnga kjo anë.
+Dialogue: 0,0:15:27.81,0:15:31.20,Italics,Danka,0,0,0,,Ayn më kërkoi t'ju\Nfalënderoj të dyve.
+Dialogue: 0,0:15:31.72,0:15:35.46,Italics,Danka,0,0,0,,Dhe ke edhe falënderimet e mia. Vlerësoj\Nbashkëpunimin tuaj me këtë mision.
+Dialogue: 0,0:15:36.66,0:15:41.21,Italics,Arc,0,0,0,,Elfët që u liruan nga Tajiento\Nu kthyen në fshatrat e tyre.
+Dialogue: 0,0:15:41.81,0:15:48.21,Italics,Arc,0,0,0,,Të tjerët u pranuan nga mbretëria\Ne themeluar nga bishanjerëzit, Fobnach,
+Dialogue: 0,0:15:48.44,0:15:51.64,Italics,Arc,0,0,0,,dhe i përcollëm një pjesë të rrugës deri atje.
+Dialogue: 0,0:15:51.64,0:15:54.30,Italics,Arc,0,0,0,,Si shenjë falënderimi...
+Dialogue: 0,0:15:57.46,0:16:00.23,Main,Ariane,0,0,0,,A ishte ide e mirë ta pranonim?
+Dialogue: 0,0:16:00.23,0:16:04.25,Main,Arc,0,0,0,,Isha lidhur disi\Nme Shiden, gjithsesi!
+Dialogue: 0,0:16:11.61,0:16:14.39,Main,Arc,0,0,0,,Durim, Ponta. Pothuajse gati.
+Dialogue: 0,0:16:15.06,0:16:17.50,Main,Ariane,0,0,0,,E di, Arc... e vërteta është...
+Dialogue: 0,0:16:17.97,0:16:20.00,Main,Dillan,0,0,0,,Oh, sa erë e këndshme.
+Dialogue: 0,0:16:21.27,0:16:22.65,Main,Arc,0,0,0,,Zotëri Dillan!
+Dialogue: 0,0:16:22.65,0:16:24.75,Main,Dillan,0,0,0,,Mirë se u kthyet, ju të dy.
+Dialogue: 0,0:16:25.31,0:16:27.06,Main,Dillan,0,0,0,,Solla të ftuarit tuaj.
+Dialogue: 0,0:16:27.06,0:16:28.34,Main,Ariane,0,0,0,,Chiyome!
+Dialogue: 0,0:16:27.06,0:16:28.34,Main,Arc,0,0,0,,Zonja Tsubone!
+Dialogue: 0,0:16:28.34,0:16:29.75,Main,Chiyome,0,0,0,,Mirë t'ju shoh përsëri.
+Dialogue: 0,0:16:29.75,0:16:31.80,Main,Tsubone,0,0,0,,Ka kaluar kohë, ju të dy.
+Dialogue: 0,0:16:31.80,0:16:37.06,Main,Dillan,0,0,0,,Po takohesha me klanin Jinshin\Ndhe i takova ata të dy.
+Dialogue: 0,0:16:37.06,0:16:38.47,Main,Arc,0,0,0,,Kuptoj.
+Dialogue: 0,0:16:38.47,0:16:42.06,Main,Arc,0,0,0,,Pra, Zonja Chiyome, çfarë ndodhi\Nkur u kthyet në fshat?
+Dialogue: 0,0:16:42.35,0:16:46.15,Main,Chiyome,0,0,0,,Epo, i shpjegova\NMjeshtrit Hanzo çfarë kishte ndodhur,
+Dialogue: 0,0:16:46.15,0:16:47.85,Main,Chiyome,0,0,0,,dhe e varrosa vëllain tim.
+Dialogue: 0,0:16:48.57,0:16:52.82,Main,Arc,0,0,0,,Kuptoj. Keni ngushëllimet e mia,\Nedhe një herë.
+Dialogue: 0,0:16:52.82,0:16:55.19,Main,Dillan,0,0,0,,Pra, a është Glenys këtu?
+Dialogue: 0,0:16:55.19,0:16:57.71,Main,Ariane,0,0,0,,Mendoj se duhet të vijë në çdo moment.
+Dialogue: 0,0:16:58.06,0:17:00.39,Main,Glenys,0,0,0,,Oh, diçka mban erë të mrekullueshme.
+Dialogue: 0,0:17:00.39,0:17:02.13,Main,Ariane,0,0,0,,Kur përmend ujkun...
+Dialogue: 0,0:17:02.58,0:17:05.02,Main,Glenys,0,0,0,,Mirë se u ktheve, i dashur.
+Dialogue: 0,0:17:05.02,0:17:06.38,Main,Glenys,0,0,0,,Sollët të ftuar?
+Dialogue: 0,0:17:06.75,0:17:08.86,Main,Ariane,0,0,0,,Ata janë nga klani Jinshin...
+Dialogue: 0,0:17:08.86,0:17:10.67,Main,Chiyome,0,0,0,,Kënaqësi t'ju njoh.
+Dialogue: 0,0:17:10.67,0:17:12.89,Main,Chiyome,0,0,0,,Emri im është Chiyome,\Ndhe jam një nga Gjashtë Ninxhat.
+Dialogue: 0,0:17:12.89,0:17:14.67,Main,Tsubone,0,0,0,,Jam Tsubone, po ashtu.
+Dialogue: 0,0:17:14.67,0:17:16.64,Main,Tsubone,0,0,0,,Kaq kënaqësi t'ju njoh.
+Dialogue: 0,0:17:16.64,0:17:20.89,Main,Glenys,0,0,0,,Oh, kam dëgjuar gjithçka për ju të dyja.\NNdjehuni si në shtëpi.
+Dialogue: 0,0:17:21.68,0:17:23.72,Main,Arc,0,0,0,,Dhe pica është pothuajse gati!
+Dialogue: 0,0:17:26.31,0:17:30.32,Main,Glenys,0,0,0,,Duhet të pyes, i dashur, meqë u ktheve\Nkaq papritur në shtëpi... ndodhi diçka?
+Dialogue: 0,0:17:30.32,0:17:34.95,Main,Dillan,0,0,0,,Po, në fakt. Kishte një kërkesë\Npër ndihmë nga fshati Drant.
+Dialogue: 0,0:17:35.26,0:17:40.42,Main,Dillan,0,0,0,,Plaku i Madh urdhëroi që ti dhe unë\Nta merreshim vetë me këtë.
+Dialogue: 0,0:17:40.42,0:17:42.00,Main,Glenys,0,0,0,,Ne të dy?
+Dialogue: 0,0:17:42.00,0:17:44.41,Main,Ariane,0,0,0,,Çfarë ndodhi në Drant?
+Dialogue: 0,0:17:44.78,0:17:49.02,Main,Dillan,0,0,0,,Epo, me sa duket\Nu sulmuan nga të pavdekur.
+Dialogue: 0,0:17:49.02,0:17:49.91,Main,Arc,0,0,0,,O Zot!
+Dialogue: 0,0:17:49.91,0:17:53.43,Main,Dillan,0,0,0,,Madje një forcë e organizuar.
+Dialogue: 0,0:17:53.65,0:17:55.30,Main,Arc,0,0,0,,Të pavdekur të organizuar...
+Dialogue: 0,0:17:56.43,0:17:59.33,Main,Ariane,0,0,0,,Ndjej se Kisha Hilk\Nmund të jetë pas kësaj.
+Dialogue: 0,0:17:59.69,0:18:02.12,Main,Arc,0,0,0,,Ka shumë gjasa.
+Dialogue: 0,0:18:02.55,0:18:07.41,Main,Arc,0,0,0,,Zonja Chiyome, Zonja Tsubone, mendoj se\Nvizita juaj në Lalatoya ka lidhje?
+Dialogue: 0,0:18:07.41,0:18:11.38,Main,Chiyome,0,0,0,,Po. Në fakt erdhëm t'ju bëjmë\Nnjë kërkesë, Zotëri Arc.
+Dialogue: 0,0:18:11.38,0:18:12.33,Main,Arc,0,0,0,,Mua?
+Dialogue: 0,0:18:12.70,0:18:13.93,Main,Tsubone,0,0,0,,Falë Sasuke,
+Dialogue: 0,0:18:13.93,0:18:17.51,Main,Tsubone,0,0,0,,tani e dimë se është Kisha Hilk\Najo që ka rrëmbyer të ngjashmit tanë.
+Dialogue: 0,0:18:17.51,0:18:21.10,Main,Tsubone,0,0,0,,Mund të ketë të tjerë ende robër\Nnë vendlindjen e tyre,
+Dialogue: 0,0:18:21.10,0:18:22.34,Main,Tsubone,0,0,0,,Mbretëria e Shenjtë Hilk.
+Dialogue: 0,0:18:22.82,0:18:26.08,Main,Chiyomoe,0,0,0,,Prandaj shpresonim të kërkonim ndihmën tuaj...
+Dialogue: 0,0:18:27.37,0:18:31.41,Main,Arc,0,0,0,,Nuk kam asnjë hezitim të ndihmoj,\Npor Zotëri Dillan,
+Dialogue: 0,0:18:31.41,0:18:34.89,Main,Arc,0,0,0,,tani jam i lidhur me Lalatoya...
+Dialogue: 0,0:18:34.89,0:18:37.60,Main,Arc,0,0,0,,A është në rregull të udhëtoj me ta?
+Dialogue: 0,0:18:37.88,0:18:40.43,Main,Dillan,0,0,0,,Mbretëria e Shenjtë Hilk ka qenë\Nnjë temë interesi
+Dialogue: 0,0:18:40.43,0:18:43.19,Main,Dillan,0,0,0,,që kemi dashur ta hetojmë.
+Dialogue: 0,0:18:43.19,0:18:47.36,Main,Dillan,0,0,0,,Bashkimi me klanin Jinshin\Ntingëllon si mënyra e duhur për këtë.
+Dialogue: 0,0:18:47.59,0:18:49.48,Main,Arc,0,0,0,,Dhe kështu qëndron puna!
+Dialogue: 0,0:18:49.48,0:18:54.25,Main,Arc,0,0,0,,Ndihma ime është e juaja,\NZonja Chiyome, Zonja Tsubone.
+Dialogue: 0,0:18:55.36,0:18:57.02,Main,Chiyome,0,0,0,,Faleminderit shumë.
+Dialogue: 0,0:18:57.02,0:18:58.20,Main,Tsubone,0,0,0,,Jemi të lumtur që do të jesh me ne.
+Dialogue: 0,0:18:58.20,0:19:01.68,Main,Ariane,0,0,0,,Tani, prit një çast!\NNuk kam besim se Arc ia del vetëm!
+Dialogue: 0,0:19:01.68,0:19:06.09,Main,Ariane,0,0,0,,Do të vij edhe unë. As unë\Nnuk jam e kënaqur me Kishën Hilk.
+Dialogue: 0,0:19:07.44,0:19:10.55,Main,Arc,0,0,0,,Sa i lumtur që do të isha\Ntë bashkoheshe me ne...
+Dialogue: 0,0:19:10.84,0:19:12.30,Main,Ariane,0,0,0,,Çfarë?
+Dialogue: 0,0:19:12.30,0:19:17.79,Main,Arc,0,0,0,,A nuk je e lidhur me\Nkryeqytetin e pyllit, Maple?
+Dialogue: 0,0:19:18.43,0:19:20.35,Main,Arc,0,0,0,,A është në rregull të bësh një pushim
+Dialogue: 0,0:19:20.35,0:19:23.31,Main,Arc,0,0,0,,nga detyrat atje për të\Nndihmuar në një çështje të Lalatoyas?
+Dialogue: 0,0:19:25.12,0:19:27.37,Main,Ariane,0,0,0,,Qesharake që e përmende...
+Dialogue: 0,0:19:27.89,0:19:30.90,Main,Glenys,0,0,0,,Oh, nuk i ke thënë ende?
+Dialogue: 0,0:19:31.83,0:19:36.43,Main,Glenys,0,0,0,,Ajo në fakt kërkoi transferim\Nsapo mbërriti në fshat.
+Dialogue: 0,0:19:36.43,0:19:38.18,Main,Glenys,0,0,0,,Dhe u miratua!
+Dialogue: 0,0:19:38.18,0:19:42.66,Main,Glenys,0,0,0,,Që do të thotë se Ariane tani\Nështë e lidhur me Lalatoya.
+Dialogue: 0,0:19:42.66,0:19:44.91,Main,Arc,0,0,0,,Kuptoj!
+Dialogue: 0,0:19:45.89,0:19:50.68,Main,Tsubone,0,0,0,,Nuk mendoj se e bëre transferimin për\Ntë qenë me Arcin, apo jo, Ariane?
+Dialogue: 0,0:19:50.68,0:19:52.35,Main,Ariane,0,0,0,,S-Sigurisht që jo!
+Dialogue: 0,0:19:52.35,0:19:55.48,Main,Ariane,0,0,0,,Shqetësohesha se çfarë telashe\Nmund të shkaktonte po lihej vetëm!
+Dialogue: 0,0:19:55.48,0:19:56.63,Main,Tsubone,0,0,0,,Po, po, sigurisht!
+Dialogue: 0,0:19:56.99,0:19:58.15,Main,Chiyome,0,0,0,,Është dashuri!
+Dialogue: 0,0:19:58.73,0:20:02.05,Main,Ariane,0,0,0,,Arsyeja pse nuk i thashë askujt është\Nse nuk doja këtë reagim!
+Dialogue: 0,0:20:02.05,0:20:04.89,Main,Tsubone,0,0,0,,Por, prit, në atë rast...
+Dialogue: 0,0:20:06.08,0:20:09.82,Main,Arc,0,0,0,,Pra, mund të vazhdoj\Ntë udhëtoj me Zonjën Ariane!
+Dialogue: 0,0:20:09.82,0:20:11.40,Main,Arc,0,0,0,,Çfarë lehtësimi!
+Dialogue: 0,0:20:12.06,0:20:13.70,Main,Tsubone,0,0,0,,Arc Lalatoya.
+Dialogue: 0,0:20:13.70,0:20:15.94,Main,Tsubone,0,0,0,,Ariane Glenys Lalatoya.
+Dialogue: 0,0:20:16.73,0:20:19.32,Main,Tsubone,0,0,0,,Emra që përputhen... si të jeni të martuar!
+Dialogue: 0,0:20:19.32,0:20:20.49,Main,Chiyome,0,0,0,,Si kështu?
+Dialogue: 0,0:20:20.49,0:20:23.64,Main,Tsubone,0,0,0,,Nuk e dinit? Tek njerëzit,
+Dialogue: 0,0:20:23.64,0:20:29.49,Main,Tsubone,0,0,0,,ndarja e një pjese të emrit tënd është\Nshenjë se je familje... ose i martuar!
+Dialogue: 0,0:20:29.49,0:20:31.81,Main,Chiyome,0,0,0,,Çfarë strategjie e shkëlqyer, Zonja Ariane!
+Dialogue: 0,0:20:31.81,0:20:33.35,Main,Ariane,0,0,0,,N-Nuk është ashtu!
+Dialogue: 0,0:20:33.35,0:20:36.05,Main,Ariane,0,0,0,,Nuk jemi ashtu! Betohem!
+Dialogue: 0,0:20:38.05,0:20:40.41,Main,Arc,0,0,0,,Duket se nuk do të kemi\Npër t'u shqetësuar në udhëtimin tonë të radhës!
+Dialogue: 0,0:20:48.71,0:20:51.19,Main,Arc,0,0,0,,Dhe kështu, në emër të udhëtimit tonë të ri...
+Dialogue: 0,0:20:51.19,0:20:54.83,Main,Tsubone,0,0,0,,Dhe duke festuar të ardhmen\Ne çiftit tonë, Arc dhe Ariane...
+Dialogue: 0,0:20:54.83,0:20:56.19,Main,Ariane,0,0,0,,Çfarë çifti?!
+Dialogue: 0,0:20:56.19,0:20:57.76,Main,All,0,0,0,,Gëzuar!
+Dialogue: 0,0:20:57.76,0:20:59.11,Main,Ariane,0,0,0,,Uh!
+Dialogue: 0,0:21:07.45,0:21:10.30,Main,Tsubone,0,0,0,,Ja ku është, Zonja Lalatoya.\NEdhe një pije.
+Dialogue: 0,0:21:10.30,0:21:13.20,Main,Chiyome,0,0,0,,Kujdes të mos e teprosh, Zonja Lalatoya.
+Dialogue: 0,0:21:13.20,0:21:15.71,Main,Ariane,0,0,0,,A mund të mos e bëni këtë, ju të dy?!
+Dialogue: 0,0:21:17.48,0:21:19.61,Italics,Arc,0,0,0,,Përshëndetje. Jam unë, Arc.
+Dialogue: 0,0:21:19.61,0:21:23.22,Italics,Arc,0,0,0,,Dhe kështu, u nisa\Npër një udhëtim tjetër.
+Dialogue: 0,0:21:24.00,0:21:25.28,Italics,Arc,0,0,0,,Plani im ishte të
+Dialogue: 0,0:21:25.28,0:21:28.49,Italics,Arc,0,0,0,,mbaja profil të ulët pasi u gjenda\Nnë këtë botë fantazi, por...
+Dialogue: 0,0:21:28.93,0:21:31.44,Italics,Arc,0,0,0,,duket se kjo nuk është\Nnë planet, ende.
+Dialogue: 0,0:23:07.17,0:23:09.82,Main,Thanatos,0,0,0,,Dhe Kardinali Charros u rrëzua?
+Dialogue: 0,0:23:09.82,0:23:12.95,Main,Parulumo,0,0,0,,Kundërshtari i tij ishte një kalorës me armaturë argjendi.
+Dialogue: 0,0:23:15.85,0:23:18.86,Main,Thanatos,0,0,0,,Një kalorës argjendi... Magjepsëse.
+Dialogue: 0,0:23:19.64,0:23:22.46,Main,Thanatos,0,0,0,,Gjithsesi, nuk do të ndikojë në planet tona.
+Dialogue: 0,0:23:23.80,0:23:28.74,Main,Parulumo,0,0,0,,Sigurisht. Gjërat po ecin\Nshpejt në Mbretërinë Nohzan.
+Dialogue: 0,0:23:33.85,0:23:37.51,Main,Thanatos,0,0,0,,Ka kaluar... kaq shumë kohë.
+Dialogue: 0,0:23:40.74,0:23:43.19,Main,Thanatos,0,0,0,,Dhe tani është koha që ngjarja të fillojë.
+Dialogue: 0,0:23:44.99,0:23:50.25,Main,Sign,0,0,0,,{\an8\fs18\b1\c&H8F01BD&\3c&HD0EBF4&\bord4\shad0}Faleminderit që ndoqët!\NUdhëtimi i Pontës dhe Arkut vazhdon!
+
