@@ -1,0 +1,165 @@
+﻿[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: DefaultTop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: DefaultOverlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: italicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashback italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: flashbackitalicstop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: overlaptop,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,0
+Style: overlap italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,0
+Style: sign_64_2_SLOW_AHEAD_,Trebuchet MS,35,&H00A778E7,&H000000FF,&H00FFFFFF,&H00767E79,-1,0,0,0,100,100,0,0,1,4,2,8,30,30,20,1
+Style: sign_246_3_Episode_1_______,Trebuchet MS,9,&H00FFFFFF,&H000000FF,&H00C76BBE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,1,40,30,45,1
+Style: sign_TrebuchetMS,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_Verdana,Verdana,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.00,0:00:04.98,sign_Verdana,Text,0,0,0,,{\c&H5A424F&\3c&HE4DC7B&\shad0\fad(2460,1)\fs40\pos(315,147)\fsp6}Azur Lane
+Dialogue: 0,0:00:00.00,0:00:04.98,sign_Verdana,Text,0,0,0,,{\c&H5A424F&\3c&H1E1E17&\bord4\shad0\fad(2460,1)\fs40\pos(315,147)\blur1\fsp6}Azur Lane
+Dialogue: 0,0:00:02.65,0:00:04.98,sign_64_2_SLOW_AHEAD_,Text,0,0,0,,{\t(1,1690,\fs34)\move(320,305,313,228,0,19)}SL{\c&H9E9DE8&}O{\c&H9F8FCC&}W {\c&H9658E1&}A{\c&HAEA4F4&}H{\c&HB69BD2&}E{\c&HAFACE2&}AD{\c&H9057EE&}! 2!!
+Dialogue: 0,0:00:00.79,0:00:04.53,italics,Javelin & Z23 & Ayanami & Laffey,0,0,0,,Azur Lane: Slow Ahead! 2.
+Dialogue: 0,0:00:06.80,0:00:09.11,main,Akashi,0,0,0,,Më në fund u përfundua, nya!
+Dialogue: 0,0:00:09.20,0:00:13.58,sign_246_3_Episode_1_______,Text,0,0,0,,{\blur2\fad(476,899)\fscx80\pos(334,315)}Episodi 12{\fs19\fscx76}Edhe nesër ndoshta do të jetë argëtuese.
+Dialogue: 0,0:00:09.42,0:00:10.54,top,Laffey,0,0,0,,Meowofficerë...?
+Dialogue: 0,0:00:10.54,0:00:12.53,top,Ayanami,0,0,0,,Çfarë është puna me këta Meowofficerë?
+Dialogue: 0,0:00:14.11,0:00:17.18,main,Akashi,0,0,0,,Në fakt i kam përditësuar\Nkëta Meowofficerë, nya!
+Dialogue: 0,0:00:18.48,0:00:20.74,main,Javelin,0,0,0,,Pra, çfarë ndryshoi?
+Dialogue: 0,0:00:20.74,0:00:23.82,main,Akashi,0,0,0,,Vetëm prit e shiko kur të zgjohen, nya!
+Dialogue: 0,0:00:23.82,0:00:26.59,main,Z23,0,0,0,,Pse kam një ndjenjë\Nvërtet të keqe për këtë?
+Dialogue: 0,0:00:26.59,0:00:30.09,main,Akashi,0,0,0,,Tani, Meowofficerë! Zgjohuni, nya!
+Dialogue: 0,0:00:45.22,0:00:48.37,main,Javelin,0,0,0,,Hej Akashi, a je e sigurt se nuk ka\Nasgjë të gabuar me ta?!
+Dialogue: 0,0:00:48.37,0:00:50.85,main,Ayanami,0,0,0,,Nuk i kam parë kurrë Meowofficerët\Ntë sillen kështu.
+Dialogue: 0,0:00:50.85,0:00:52.82,main,Akashi,0,0,0,,Hm, kjo është e çuditshme, nya.
+Dialogue: 0,0:00:52.82,0:00:54.08,main,Z23,0,0,0,,Nuk mund të shoh!
+Dialogue: 0,0:00:56.13,0:00:58.16,main,Laffey,0,0,0,,Nuk... dhemb.
+Dialogue: 0,0:01:01.37,0:01:03.60,main,Z23,0,0,0,,A po përpiqen të dalin?
+Dialogue: 0,0:01:03.60,0:01:07.05,main,Javelin,0,0,0,,Mos u shqetëso, Niimi. Meowofficerët\Nnuk mund t'i hapin dyert vetë—
+Dialogue: 0,0:01:07.44,0:01:08.84,main,Laffey,0,0,0,,Dëshironi të dilni?
+Dialogue: 0,0:01:11.26,0:01:13.59,main,Javelin & Z23,0,0,0,,Pse e hape?!
+Dialogue: 0,0:01:13.59,0:01:15.18,main,Laffey,0,0,0,,Dukeshin se donin të dilnin...
+Dialogue: 0,0:01:16.09,0:01:18.51,main,Akashi,0,0,0,,K-Kjo mund të jetë telashe...
+Dialogue: 0,0:01:18.51,0:01:21.06,main,Ayanami,0,0,0,,Çfarë u ndodhi Meowofficerëve?
+Dialogue: 0,0:01:21.06,0:01:22.58,main,Akashi,0,0,0,,Hmm...
+Dialogue: 0,0:01:22.58,0:01:25.61,main,Akashi,0,0,0,,Mund ta kem prishur paksa\Nrregullimin e tyre, nya!
+Dialogue: 0,0:01:25.61,0:01:28.23,main,Z23,0,0,0,,Ndjenja e keqe u vërtetua.
+Dialogue: 0,0:01:29.96,0:01:32.09,main,Ayanami,0,0,0,,Ai zhurma, janë Meowofficerët?
+Dialogue: 0,0:01:32.09,0:01:33.95,main,Z23,0,0,0,,Duhet t'i ndalojmë!
+Dialogue: 0,0:01:33.95,0:01:35.16,main,Javelin,0,0,0,,Le të shkojmë!
+Dialogue: 0,0:01:37.85,0:01:40.45,main,Javelin,0,0,0,,Ku fillojmë t'i kërkojmë ata?
+Dialogue: 0,0:01:40.80,0:01:43.12,main,Royal Fortune,0,0,0,,Hej, djema!
+Dialogue: 0,0:01:43.12,0:01:47.71,main,Javelin,0,0,0,,Oh, Royal Fortune! A ke parë\Nndonjë Meowofficer këtu rreth?
+Dialogue: 0,0:01:47.71,0:01:50.52,main,Royal Fortune,0,0,0,,Meowofficer? Më e rëndësishme...
+Dialogue: 0,0:01:50.52,0:01:53.38,main,Royal Fortune,0,0,0,,A ka diçka të gabuar me lëngun tim?!
+Dialogue: 0,0:01:54.20,0:01:55.88,main,Laffey,0,0,0,,Kaq shumë alkool në frymën e saj...
+Dialogue: 0,0:01:55.88,0:01:58.73,main,Z23,0,0,0,,Vërtet po pi në këtë orë?
+Dialogue: 0,0:01:59.75,0:02:02.85,main,Royal Fortune,0,0,0,,Epo, ai Meowofficer ma solli këtë...
+Dialogue: 0,0:02:03.96,0:02:05.27,main,Javelin,0,0,0,,Është pikërisht ai!
+Dialogue: 0,0:02:05.62,0:02:09.23,main,Z23,0,0,0,,Royal Fortune!\NAi Meowofficer ta bëri këtë!
+Dialogue: 0,0:02:09.23,0:02:13.24,main,Royal Fortune,0,0,0,,Vërtet? Kjo është shumë mirë!
+Dialogue: 0,0:02:11.87,0:02:13.24,main,Z23,0,0,0,,Uau, sa e fortë!
+Dialogue: 0,0:02:13.49,0:02:15.17,main,Z23,0,0,0,,Ndihmë!
+Dialogue: 0,0:02:15.17,0:02:16.28,main,Laffey,0,0,0,,Të kapa.
+Dialogue: 0,0:02:16.28,0:02:18.61,main,Golden Hind,0,0,0,,Oh, çfarë ka?
+Dialogue: 0,0:02:19.39,0:02:20.97,main,Javelin,0,0,0,,Oh, Golden Hind.
+Dialogue: 0,0:02:20.97,0:02:22.87,main,Javelin,0,0,0,,A pe ndonjë Meowofficer këtu rreth?
+Dialogue: 0,0:02:23.28,0:02:26.95,main,Golden Hind,0,0,0,,Meowofficer? E ke fjalën për këtë?
+Dialogue: 0,0:02:28.44,0:02:31.59,main,Golden Hind,0,0,0,,Mendova se mund të ishte thesar,\Nndaj e kapa, por...
+Dialogue: 0,0:02:31.59,0:02:33.90,main,Javelin,0,0,0,,Jo, nuk është thesar...
+Dialogue: 0,0:02:33.90,0:02:36.21,main,Ayanami,0,0,0,,Po punojmë bashkë t'i rikuperojmë ata.
+Dialogue: 0,0:02:36.21,0:02:37.85,main,Golden Hind,0,0,0,,Oh, vërtet?
+Dialogue: 0,0:02:37.85,0:02:39.57,main,Golden Hind,0,0,0,,Epo, është i juaji.
+Dialogue: 0,0:02:40.76,0:02:42.89,main,Z23,0,0,0,,Të lutem, lëshoje!
+Dialogue: 0,0:02:42.89,0:02:44.75,main,Royal Fortune,0,0,0,,Për mua është koha e gjumit.
+Dialogue: 0,0:02:44.75,0:02:47.60,main,Golden Hind,0,0,0,,Po po, le të flemë atje.
+Dialogue: 0,0:02:48.11,0:02:50.19,main,Royal Fortune,0,0,0,,Ky do të jetë një dremitje epike...
+Dialogue: 0,0:02:50.46,0:02:52.30,main,Golden Hind,0,0,0,,Shihemi!
+Dialogue: 0,0:02:53.43,0:02:54.35,main,Laffey,0,0,0,,Bye-bye.
+Dialogue: 0,0:02:54.35,0:02:56.95,main,Ayanami,0,0,0,,Epo, këta janë dy, mendoj?
+Dialogue: 0,0:03:01.66,0:03:03.87,main,Implacable,0,0,0,,Oh, duket i shijshëm...
+Dialogue: 0,0:03:04.17,0:03:06.87,main,Implacable,0,0,0,,Duket se kafeteria më në fund\Npo e merr seriozisht këtë.
+Dialogue: 0,0:03:15.90,0:03:17.05,main,Ayanami,0,0,0,,Atje!
+Dialogue: 0,0:03:17.05,0:03:19.35,main,Z23,0,0,0,,Ai është i Implacable!
+Dialogue: 0,0:03:21.43,0:03:22.85,main,Javelin,0,0,0,,Prit! Ai është—
+Dialogue: 0,0:03:24.71,0:03:26.27,main,Javelin,0,0,0,,E dija!
+Dialogue: 0,0:03:26.27,0:03:28.68,main,Z23,0,0,0,,A është ai Super Pikanti?
+Dialogue: 0,0:03:28.68,0:03:31.00,main,Javelin,0,0,0,,Gëzohem që Meowofficer\Nnuk bëri shumë dëm.
+Dialogue: 0,0:03:29.94,0:03:33.03,top,Ayanami,0,0,0,,Në fakt, është Meowofficer\Nai që u dëmtua?
+Dialogue: 0,0:03:34.53,0:03:37.03,main,Implacable,0,0,0,,Mmm, i shijshëm.
+Dialogue: 0,0:03:37.03,0:03:40.14,main,Ayanami,0,0,0,,A je e sigurt se është në rregull\Ntë hash diçka kaq pikante?
+Dialogue: 0,0:03:40.14,0:03:41.78,main,Implacable,0,0,0,,Jam krejt mirë.
+Dialogue: 0,0:03:41.78,0:03:43.54,main,Z23,0,0,0,,Kjo është e pabesueshme.
+Dialogue: 0,0:03:43.54,0:03:48.00,main,Z23,0,0,0,,Kaq shumë sfidues u mundën nga\NSeria Super Pikante në kafeteri.
+Dialogue: 0,0:03:50.50,0:03:54.62,main,Implacable,0,0,0,,Por u djersita pak.\NNdoshta do të zhvishem pak.
+Dialogue: 0,0:03:54.62,0:03:56.86,main,Z23,0,0,0,,Mos u zhvis në kafeteri!
+Dialogue: 0,0:03:56.86,0:03:58.51,main,Laffey,0,0,0,,Le të vazhdojmë.
+Dialogue: 0,0:04:00.12,0:04:02.01,main,Javelin,0,0,0,,A shikon gjë, Ayanami?
+Dialogue: 0,0:04:02.31,0:04:03.77,main,Ayanami,0,0,0,,Jo.
+Dialogue: 0,0:04:03.77,0:04:05.20,main,Laffey,0,0,0,,As këtu.
+Dialogue: 0,0:04:05.20,0:04:07.98,main,Z23,0,0,0,,Nuk ka rrugë që ata të ishin atje...
+Dialogue: 0,0:04:07.98,0:04:10.52,main,Javelin,0,0,0,,Hmm... Ku mund të jenë?
+Dialogue: 0,0:04:12.51,0:04:13.77,main,Javelin,0,0,0,,Ky zë!
+Dialogue: 0,0:04:13.77,0:04:17.14,main,Bremerton,0,0,0,,Hej! Ndal!
+Dialogue: 0,0:04:18.14,0:04:20.99,main,Bremerton,0,0,0,,Mos e përdor kështu!
+Dialogue: 0,0:04:20.99,0:04:22.43,main,Javelin,0,0,0,,Bremerton!
+Dialogue: 0,0:04:22.43,0:04:23.55,main,Z23,0,0,0,,A je mirë?!
+Dialogue: 0,0:04:23.55,0:04:26.25,main,Bremerton,0,0,0,,Hej, a e dini të gjithë\Nçfarë ka ky?!
+Dialogue: 0,0:04:26.25,0:04:28.29,main,Ayanami,0,0,0,,Qëndro e qetë!
+Dialogue: 0,0:04:32.00,0:04:34.74,main,Bremerton,0,0,0,,Çfarë ka me të?
+Dialogue: 0,0:04:34.74,0:04:37.86,main,Z23,0,0,0,,Më fal. Është faji i Akashit.
+Dialogue: 0,0:04:37.86,0:04:39.26,main,Laffey,0,0,0,,Kaq i butë...
+Dialogue: 0,0:04:40.88,0:04:42.39,main,Javelin,0,0,0,,Ndal aty!
+Dialogue: 0,0:04:44.27,0:04:45.74,main,Ayanami,0,0,0,,Bllokim!
+Dialogue: 0,0:04:45.74,0:04:46.81,main,Z23,0,0,0,,Ndal!
+Dialogue: 0,0:04:51.19,0:04:52.65,main,Z23,0,0,0,,Große!
+Dialogue: 0,0:04:52.97,0:04:55.46,main,Javelin,0,0,0,,Të lutem, largoje nga ai Meowofficer!
+Dialogue: 0,0:04:55.46,0:04:57.40,main,Große,0,0,0,,Oh, çfarë ka?
+Dialogue: 0,0:05:00.33,0:05:01.20,main,Z23,0,0,0,,Kujdes!
+Dialogue: 0,0:05:01.20,0:05:03.92,main,Große,0,0,0,,Pa, pa.
+Dialogue: 0,0:05:06.07,0:05:07.58,main,Ayanami,0,0,0,,Fjeti...
+Dialogue: 0,0:05:07.58,0:05:09.71,main,Laffey,0,0,0,,Edhe unë, edhe unë!
+Dialogue: 0,0:05:11.75,0:05:14.84,main,Große,0,0,0,,Nuk e di çfarë po ndodh,\Npor fat të mirë.
+Dialogue: 0,0:05:14.84,0:05:15.94,main,Javelin,0,0,0,,Po!
+Dialogue: 0,0:05:15.94,0:05:17.94,main,Z23,0,0,0,,Vetëm edhe disa!
+Dialogue: 0,0:05:17.94,0:05:19.31,main,Ayanami,0,0,0,,Le të shkojmë!
+Dialogue: 0,0:05:34.88,0:05:37.80,main,Z23,0,0,0,,Më në fund i kapëm të gjithë.
+Dialogue: 0,0:05:37.80,0:05:39.23,main,Ayanami,0,0,0,,Ishte punë e vështirë.
+Dialogue: 0,0:05:39.54,0:05:42.28,main,Javelin,0,0,0,,Uau, çfarë sprove!
+Dialogue: 0,0:05:42.28,0:05:45.20,main,Ayanami,0,0,0,,Akashi duhet të qortohet\Nnga komandanti.
+Dialogue: 0,0:05:45.46,0:05:50.70,main,Z23,0,0,0,,Po, le t'ia raportojmë këtë komandantit\Ndhe ta bëjmë Akashin të reflektojë.
+Dialogue: 0,0:05:50.70,0:05:51.68,main,Laffey,0,0,0,,Por...
+Dialogue: 0,0:05:53.00,0:05:57.71,main,Laffey,0,0,0,,U argëtova shumë duke punuar bashkë\Nme të gjithë sot.
+Dialogue: 0,0:05:57.71,0:06:01.84,main,Z23,0,0,0,,Ke të drejtë. Të jesh bashkë është argëtuese.
+Dialogue: 0,0:06:01.84,0:06:04.97,main,Ayanami,0,0,0,,Edhe nesër ndoshta do të jetë argëtuese.
+Dialogue: 0,0:06:05.38,0:06:07.60,main,Javelin,0,0,0,,Po, ke të drejtë!
+Dialogue: 0,0:06:07.60,0:06:10.34,main,Javelin,0,0,0,,Nuk mund të pres deri nesër!
+Dialogue: 0,0:06:10.34,0:06:13.11,main,Laffey,0,0,0,,Në atë rast,\Nmë zgjoni kur të jetë nesër...
+Dialogue: 0,0:06:13.87,0:06:16.15,main,Javelin,0,0,0,,Mos flej këtu!
+Dialogue: 0,0:06:20.29,0:06:22.32,main,Akashi,0,0,0,,Pas përmirësimeve të panumërta,
+Dialogue: 0,0:06:22.32,0:06:25.95,main,Akashi,0,0,0,,Më në fund ndërtova Meowofficerin e ri\Ntë përsosur, suprem, kundër rrëmujës, nya!
+Dialogue: 0,0:06:26.34,0:06:28.59,main,Akashi,0,0,0,,Gabimi ishte se\Ni prodhova në masë, nya!
+Dialogue: 0,0:06:28.59,0:06:30.70,main,Akashi,0,0,0,,Prandaj i mblodha\Ntë gjithë në një, nya!
+Dialogue: 0,0:06:30.70,0:06:33.71,main,Akashi,0,0,0,,Tani, Meowofficer! Zgjohu, nya!
+Dialogue: 0,0:06:39.07,0:06:42.08,main,Akashi,0,0,0,,Prit! Hej! Ku po shkon, nya?!
+Dialogue: 0,0:06:45.63,0:06:47.97,main,Ayanami; Laffey; Z23; Javelin,0,0,0,,Akashi...!
+Dialogue: 0,0:06:47.97,0:06:51.32,main,Ayanami; Laffey; Z23; Javelin,0,0,0,,Mjafton kaq!
+Dialogue: 0,0:06:52.33,0:06:54.98,main,Akashi,0,0,0,,Nuk do ta bëj më, nya!
+Dialogue: 0,0:08:24.94,0:08:29.95,sign_246_3_Episode_1_______,Text,0,0,0,,{\blur2\fs14\fscx93\pos(408,321)}Ilustrimi i kartës fundore:     Yui Yagihara
+

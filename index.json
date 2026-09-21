@@ -885,6 +885,20 @@
       "assFile": "ass/at-691056.sq.ass",
       "offset": 0,
       "sourceReleaseId": "691056"
+    },
+    {
+      "id": "at-691118",
+      "title": "Anime AzurLane: Slow Ahead! Season 2",
+      "episode": "12",
+      "malId": 56613,
+      "anilistId": 169080,
+      "slugs": [
+        "azur-lane-slow-ahead-season-2-ac697"
+      ],
+      "file": "files/at-691118.sq.vtt",
+      "assFile": "ass/at-691118.sq.ass",
+      "offset": 0,
+      "sourceReleaseId": "691118"
     }
   ]
 }
