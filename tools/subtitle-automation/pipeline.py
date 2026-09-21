@@ -313,6 +313,7 @@ def main():
                 filename = re.sub(r'[<>:"/\\|?*]', '', f"{item['title']} - {item['episode']}.sq.ass")
                 match = node('match', filename)
                 if match.get('duplicate'):
+                    item.pop('error', None)
                     item.update(status='duplicate', match=match); save()
                     print(json.dumps(item)); return
                 # A batch-expanded item is keyed by its file ID, so fetch its parent torrent.
