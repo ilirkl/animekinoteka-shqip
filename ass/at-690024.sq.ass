@@ -1,0 +1,416 @@
+﻿[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback_Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Narration,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Italics - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback_Italics - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Sign_Basic,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Onscreen Text,Times New Roman,22,&H0031362F,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,110,110,0,0,1,1.75,0,2,10,10,90,1
+Style: Show_Title,Georgia,30,&H00793AE1,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,10,10,0,1
+Style: title bottom,Georgia,20,&H00793AE1,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,10,10,35,1
+Style: sign_1598_10_Crossing,Trebuchet MS,10,&H00272D57,&H000000FF,&H0039E7F8,&H00000000,-1,0,0,0,120,120,0,348,1,2,0,2,448,151,306,1
+Style: sign_1799_12_B_Come_Tast_E,Trebuchet MS,13,&H0092262E,&H000000FF,&H00FFFFFC,&H00000000,-1,0,0,0,120,120,0,12,1,2,0,2,187,361,143,1
+Style: sign_1741_11_Reminiscing_Lunch,Times New Roman,11,&H006D7578,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,110,110,0,180,1,1,0,2,277,277,18,1
+Style: sign_2067_19_Hngh,Trebuchet MS,25,&H00BB85F6,&H000000FF,&H00F9F2F9,&H00000000,-1,0,0,0,120,120,0,0,1,3,0,8,118,460,30,1
+Style: sign_15474_154_badump_badump,Arial,21,&H006F5BF2,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,115,115,0,0,1,2,1,2,523,31,135,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:16.22,0:00:17.12,Main,SHIZUKAMUM,0,0,0,,Shizuka?
+Dialogue: 0,0:00:17.97,0:00:19.37,Main - Top,SHIZUKAMUM,0,0,0,,Kush është ky me ty?
+Dialogue: 0,0:00:22.18,0:00:24.20,Main - Top,RENTARO,0,0,0,,Ju duhet të jeni nëna e Shizuka-chan, apo jo?
+Dialogue: 0,0:00:24.69,0:00:26.72,Main - Top,RENTARO,0,0,0,,Kam diçka që\Ndëshiroj të diskutoj me ju.
+Dialogue: 0,0:00:34.18,0:00:38.50,Main,RENTARO,0,0,0,,Emri im është Aijo Rentaro,\Ndhe unë po dal me vajzën tuaj.
+Dialogue: 0,0:00:38.50,0:00:39.60,Main,RENTARO,0,0,0,,Më vjen keq që hyra pa—
+Dialogue: 0,0:00:39.60,0:00:42.77,Main,SHIZUKAMUM,0,0,0,,Ah, e kuptoj. Tani gjithçka ka kuptim.
+Dialogue: 0,0:00:44.36,0:00:46.23,Main,SHIZUKAMUM,0,0,0,,Më dukej e çuditshme.
+Dialogue: 0,0:00:46.23,0:00:48.89,Main,SHIZUKAMUM,0,0,0,,Ajo interesohej vetëm për libra.
+Dialogue: 0,0:00:48.89,0:00:51.91,Main,SHIZUKAMUM,0,0,0,,Nuk mund ta kishte menduar vetë përdorimin\Ne një aplikacioni tekst-në-fjalim.
+Dialogue: 0,0:00:52.97,0:00:54.78,Main,SHIZUKAMUM,0,0,0,,Pra kjo ishte vepra jote.
+Dialogue: 0,0:01:00.09,0:01:02.92,Main,SHIZUKAMUM,0,0,0,,Të kërkoj të dalësh\Npërgjithmonë nga jeta e Shizukës.
+Dialogue: 0,0:01:03.79,0:01:04.54,Main,RENTARO,0,0,0,,Por zonjë...
+Dialogue: 0,0:01:04.54,0:01:06.80,Main,SHIZUKAMUM,0,0,0,,Duhet të jetë ndjerë mirë për ty.
+Dialogue: 0,0:01:07.21,0:01:13.05,Main,SHIZUKAMUM,0,0,0,,Të luash kalorësin në armor të shndritshëm,\Nduke shpëtuar një vajzë të pafuqishme nga mëshira.
+Dialogue: 0,0:01:13.38,0:01:17.52,Main,SHIZUKAMUM,0,0,0,,Por më duhet të ndalosh së përdoruri atë\Npër të ushqyer egon tënde.
+Dialogue: 0,0:01:17.52,0:01:18.31,Main,RENTARO,0,0,0,,Nuk e kam pasur kurrë qëllim.
+Dialogue: 0,0:01:18.31,0:01:22.85,Main,SHIZUKAMUM,0,0,0,,A ke parë ndonjëherë një të rritur duke folur\Nekskluzivisht përmes një aplikacioni TTS?
+Dialogue: 0,0:01:24.45,0:01:29.13,Main,SHIZUKAMUM,0,0,0,,Kjo është ajo që kompleksi yt i shpëtimtarit\Ndo ta kthejë Shizukën.
+Dialogue: 0,0:01:31.86,0:01:35.09,Flashback,SHIZUKAMUM,0,0,0,,Pse nuk mund të flasësh si fëmijët e tjerë?!
+Dialogue: 0,0:01:35.09,0:01:37.24,Flashback,SHIZUKAMUM,0,0,0,,Hajde, fol!
+Dialogue: 0,0:01:37.24,0:01:40.87,Flashback,SHIZUKAMUM,0,0,0,,Nuk do të mund të flasësh kurrë\Nnëse vazhdon të kapërdish atë libër budalla!
+Dialogue: 0,0:01:40.87,0:01:45.13,Flashback,SHIZUKA,0,0,0,,M-Më fal...
+Dialogue: 0,0:01:46.64,0:01:49.38,Flashback_Italics,SHIZUKAMUM,0,0,0,,Duhet ta rregulloj para se të jetë vonë.
+Dialogue: 0,0:01:49.98,0:01:52.65,Flashback_Italics,SHIZUKAMUM,0,0,0,,Shizuka është tashmë në shkollë të mesme.
+Dialogue: 0,0:01:53.01,0:01:57.39,Flashback_Italics,SHIZUKAMUM,0,0,0,,Ajo nuk mund të rritet\Nnë një të rritur të vetëmjaftueshëm kështu.
+Dialogue: 0,0:01:57.39,0:01:59.89,Flashback_Italics,SHIZUKAMUM,0,0,0,,Po sikur diçka të më ndodhë mua?
+Dialogue: 0,0:02:00.30,0:02:02.82,Flashback_Italics,SHIZUKAMUM,0,0,0,,Si do të mbijetojë atëherë?
+Dialogue: 0,0:02:03.14,0:02:05.52,Flashback - Top,SHIZUKAMUM,0,0,0,,Hajde, thuaj diçka!
+Dialogue: 0,0:02:05.52,0:02:06.43,Flashback - Top,SHIZUKAMUM,0,0,0,,Fol!
+Dialogue: 0,0:02:06.77,0:02:08.41,Flashback - Top,SHIZUKAMUM,0,0,0,,Fol tashmë!
+Dialogue: 0,0:02:03.46,0:02:06.02,Flashback_Italics,SHIZUKAMUM,0,0,0,,Ajo nuk po përmirësohet sepse\Nnuk po e shtyj mjaftueshëm.
+Dialogue: 0,0:02:06.77,0:02:10.87,Flashback_Italics,SHIZUKAMUM,0,0,0,,Po të kisha vepruar si duhet,\Najo ndoshta tashmë do të ishte mirë.
+Dialogue: 0,0:02:10.87,0:02:12.66,Flashback,SHIZUKAMUM,0,0,0,,Pse je kaq e çuditshme?!
+Dialogue: 0,0:02:12.66,0:02:15.66,Flashback_Italics,SHIZUKAMUM,0,0,0,,"Pse"? Kjo është e qartë.
+Dialogue: 0,0:02:15.66,0:02:17.49,Flashback_Italics,SHIZUKAMUM,0,0,0,,Shizuka doli kështu...
+Dialogue: 0,0:02:18.25,0:02:20.90,Flashback_Italics,SHIZUKAMUM,0,0,0,,e gjitha për shkakun tim.
+Dialogue: 0,0:02:22.65,0:02:24.04,Main,SHIZUKAMUM,0,0,0,,E gjitha që bëre ti...
+Dialogue: 0,0:02:24.43,0:02:27.40,Main,SHIZUKAMUM,0,0,0,,ishte t'i hiqje Shizukës\Nmundësitë për t'u përmirësuar.
+Dialogue: 0,0:02:27.79,0:02:33.30,Main,SHIZUKAMUM,0,0,0,,Vërtet mendon se të jetosh kështu\Nnuk do t'i sjellë dhimbje të pathëna një ditë?
+Dialogue: 0,0:02:34.26,0:02:35.18,Main,RENTARO,0,0,0,,Por...
+Dialogue: 0,0:02:35.60,0:02:37.78,Main,RENTARO,0,0,0,,Shizuka-chan është duke vuajtur{\i1}tani.{\i0}
+Dialogue: 0,0:02:39.03,0:02:42.89,Main,RENTARO,0,0,0,,Qëllimi nuk është ta bësh të vuajë tani\Npër ta shpëtuar nga vuajtja e ardhshme.
+Dialogue: 0,0:02:43.14,0:02:48.02,Main,RENTARO,0,0,0,,Ajo që dua për të është një jetë\Npa vuajtje përgjithmonë!
+Dialogue: 0,0:02:49.47,0:02:52.78,Main,SHIZUKAMUM,0,0,0,,Dëgjo veten, duke folur sikur\Ne njeh botën.
+Dialogue: 0,0:02:53.17,0:02:58.78,Main,SHIZUKAMUM,0,0,0,,Fakti që hedh fjalën "përgjithmonë"\Nprovon se nuk di asgjë për realitetin.
+Dialogue: 0,0:02:59.11,0:03:03.79,Main,SHIZUKAMUM,0,0,0,,Sapo të hysh në botën reale dhe\Ntë shohësh sa e madhe është, do ta kuptosh...
+Dialogue: 0,0:03:04.39,0:03:07.54,Main,SHIZUKAMUM,0,0,0,,Se ka peshq të panumërt në det,
+Dialogue: 0,0:03:07.89,0:03:12.22,Main,SHIZUKAMUM,0,0,0,,dhe se nuk ka arsye\Nqë Shizuka të jetë e vetmja për ty.
+Dialogue: 0,0:03:13.22,0:03:16.38,Italics,SHIZUKAMUM,0,0,0,,Sapo ta kuptosh këtë, me siguri\Ndo ta hedhësh poshtë një ditë.
+Dialogue: 0,0:03:16.38,0:03:19.44,Italics,SHIZUKAMUM,0,0,0,,Atëherë le të jetë sot.
+Dialogue: 0,0:03:19.80,0:03:20.89,Main,SHIZUKAMUM,0,0,0,,Shizuka.
+Dialogue: 0,0:03:21.53,0:03:23.18,Main,SHIZUKAMUM,0,0,0,,Ti e kupton këtë, apo jo?
+Dialogue: 0,0:03:23.90,0:03:28.56,Main,SHIZUKAMUM,0,0,0,,Vërtet beson se\Nai do të të dojë përgjithmonë?
+Dialogue: 0,0:03:30.78,0:03:32.82,Main,RENTARO,0,0,0,,Do! Përgjithmonë e përgjithmonë!
+Dialogue: 0,0:03:37.49,0:03:39.57,Main,SHIZUKAMUM,0,0,0,,Siç thashë,\Nideja jote e "përgjithmonë" nuk është—
+Dialogue: 0,0:03:39.57,0:03:43.22,Main,RENTARO,0,0,0,,Po, ndoshta jam i paditur\Npër rrugët e botës!
+Dialogue: 0,0:03:43.22,0:03:46.46,Main,RENTARO,0,0,0,,Por di shumë\Npër Shizuka-chan!
+Dialogue: 0,0:03:46.77,0:03:49.62,Main,RENTARO,0,0,0,,E di se i do librat dhe di\Nmë shumë për ta se kushdo!
+Dialogue: 0,0:03:49.62,0:03:52.59,Main,RENTARO,0,0,0,,E di se është një shpirt i mirë\Nqë mendon gjithmonë për të tjerët!
+Dialogue: 0,0:03:52.59,0:03:56.26,Main,RENTARO,0,0,0,,E di se zemra e saj e artë ka qenë\Nburim force për shumë njerëz!
+Dialogue: 0,0:03:56.26,0:03:59.22,Main,RENTARO,0,0,0,,Dhe e di se mund të jetë shumë e guximshme\Npër njerëzit që kujdeset!
+Dialogue: 0,0:03:59.55,0:04:03.35,Main,RENTARO,0,0,0,,Edhe sikur të ketë vështirësi në të folur!\NKujt i intereson kjo?!
+Dialogue: 0,0:04:03.74,0:04:06.86,Main,RENTARO,0,0,0,,E dua Shizuka-chan për atë që është!
+Dialogue: 0,0:04:06.86,0:04:09.23,Main,RENTARO,0,0,0,,Nuk më duhet të jetë si kushdo tjetër!
+Dialogue: 0,0:04:09.23,0:04:12.71,Main,SHIZUKAMUM,0,0,0,,Kjo është vetëm ajo që beson ti.\NJo kushdo tjetër.
+Dialogue: 0,0:04:12.71,0:04:15.80,Main,RENTARO,0,0,0,,Nëse do të flasësh kështu, ti thua\Nse ajo duhet të jetë si të gjithë të tjerët?
+Dialogue: 0,0:04:15.80,0:04:18.57,Main,RENTARO,0,0,0,,Kjo është vetëm ajo që{\i1}ti{\i0}beson.\NJo Shizuka-chan.
+Dialogue: 0,0:04:19.11,0:04:22.27,Main,RENTARO,0,0,0,,Ajo mund ta gjejë buzëqeshjen dhe të argëtohet,
+Dialogue: 0,0:04:22.27,0:04:24.83,Main,RENTARO,0,0,0,,madje mes njerëzve\Nqë nuk i ngjajnë aspak.
+Dialogue: 0,0:04:24.83,0:04:29.20,Main,RENTARO,0,0,0,,A të tha se dëshironte\Ntë ishte si njerëzit e tjerë?
+Dialogue: 0,0:04:29.20,0:04:32.73,Main,RENTARO,0,0,0,,A ta ka kërkuar ndonjëherë këtë?
+Dialogue: 0,0:04:33.85,0:04:36.52,Flashback,SHIZUKA,0,0,0,,Mami... Mami...
+Dialogue: 0,0:04:36.52,0:04:39.48,Flashback,SHIZUKA,0,0,0,,M-M-Mami!
+Dialogue: 0,0:04:40.03,0:04:42.83,Flashback,SHIZUKA,0,0,0,,M-M-Mami.
+Dialogue: 0,0:04:44.08,0:04:47.47,Main,SHIZUKA,0,0,0,,M... M-Mami...
+Dialogue: 0,0:04:47.77,0:04:49.98,Main,SHIZUKA,0,0,0,,Unë... Unë...
+Dialogue: 0,0:04:50.48,0:04:55.31,Main,SHIZUKA,0,0,0,,M-Mund të l-lexoj libra që i d-dua...
+Dialogue: 0,0:04:55.73,0:05:03.24,Main,SHIZUKA,0,0,0,,G-Gjeta shumë m-miqtë që i d-dua...
+Dialogue: 0,0:05:03.24,0:05:11.25,Main,SHIZUKA,0,0,0,,D-Dhe madje n-njoha Rentaro-kun\Nqë më d-do kaq sh-shumë!
+Dialogue: 0,0:05:11.71,0:05:14.75,Main,SHIZUKA,0,0,0,,Unë... Unë...
+Dialogue: 0,0:05:15.03,0:05:22.85,Main,SHIZUKA,0,0,0,,J-Jam kaq e lumtur... që linda ashtu si jam.
+Dialogue: 0,0:05:23.53,0:05:25.93,Main,SHIZUKA,0,0,0,,F-Faleminderit.
+Dialogue: 0,0:05:28.10,0:05:30.02,Italics,SHIZUKAMUM,0,0,0,,Ai ka të drejtë.
+Dialogue: 0,0:05:30.02,0:05:34.56,Italics,SHIZUKAMUM,0,0,0,,Isha tepër e zënë duke shikuar\Ntë ardhmen, botën reale,
+Dialogue: 0,0:05:34.56,0:05:36.48,Italics,SHIZUKAMUM,0,0,0,,kur duhej të shikoja Shizukën.
+Dialogue: 0,0:05:36.48,0:05:39.83,Italics,SHIZUKAMUM,0,0,0,,Pse... Pse e bëra?
+Dialogue: 0,0:05:40.78,0:05:42.01,Main,SHIZUKAMUM,0,0,0,,...
+Dialogue: 0,0:05:42.94,0:05:44.66,Main,SHIZUKAMUM,0,0,0,,Të lutem, largo.
+Dialogue: 0,0:05:44.66,0:05:46.91,Italics,RENTARO,0,0,0,,Kam thënë gjithçka që erdha të them.
+Dialogue: 0,0:05:47.68,0:05:50.76,Italics,RENTARO,0,0,0,,Dhe e dija se nuk do të arrinim\Nnë një përfundim menjëherë.
+Dialogue: 0,0:05:51.93,0:05:56.97,Italics,RENTARO,0,0,0,,Sepse jam i sigurt se ka qenë një betejë\Ne gjatë dhe e vështirë edhe për të.
+Dialogue: 0,0:05:52.50,0:05:56.25,Sign_Basic,SIGN,0,0,0,,{\an8\pos(28,194)\fad(2125,0)\fnTimes New Roman\fs18\c&H57452E&\bord0\shad0}Yoshimoto
+Dialogue: 0,0:06:19.34,0:06:24.91,Italics,SHIZUKA,0,0,0,,Gjithmonë e kam ditur se mami po tregohej\Ne ashpër me mua për të mirën time.
+Dialogue: 0,0:06:25.51,0:06:30.56,Italics,SHIZUKA,0,0,0,,Por isha frikacake.\NIsha tepër e dëshpëruar të mbroja veten.
+Dialogue: 0,0:06:30.91,0:06:35.17,Italics,SHIZUKA,0,0,0,,Gjithçka që bëja ishte të ikja e të fshihesha prej saj.
+Dialogue: 0,0:06:39.88,0:06:44.76,Italics,SHIZUKA,0,0,0,,Dhe ndoshta ajo mendon\Nse e urrej për këtë.
+Dialogue: 0,0:06:45.33,0:06:50.07,Italics,SHIZUKA,0,0,0,,Sepse nuk u përpoqa kurrë ta shikoja\Nnë sy dhe t'i thosha si ndjehesha.
+Dialogue: 0,0:06:55.08,0:06:58.02,Italics,SHIZUKA,0,0,0,,"Mirëmëngjes, nënë."
+Dialogue: 0,0:07:03.80,0:07:04.93,Main,SHIZUKAMUM,0,0,0,,Mirëmëngjes.
+Dialogue: 0,0:07:08.43,0:07:13.45,Italics,SHIZUKA,0,0,0,,"Omletat e sotme\Njanë mjaft të ëmbla. Shumë të shijshme."
+Dialogue: 0,0:07:14.38,0:07:18.29,Main,SHIZUKAMUJM,0,0,0,,Epo, gjithmonë t'i kanë pëlqyer\Nomletat e ëmbla.
+Dialogue: 0,0:07:19.03,0:07:23.14,Italics,SHIZUKA,0,0,0,,"Po. Më pëlqen mënyra si i bën omletat."
+Dialogue: 0,0:07:23.14,0:07:26.80,Italics,SHIZUKA,0,0,0,,"A mund të më mësosh një ditë?"
+Dialogue: 0,0:07:27.40,0:07:32.67,Main,SHIZUKAMUM,0,0,0,,Mendoj se duhet.\NJe gjimnaziste tani.
+Dialogue: 0,0:07:38.32,0:07:42.82,Italics,SHIZUKA,0,0,0,,"Kam ty për të falënderuar\Nqë më rritje me kujdes."
+Dialogue: 0,0:07:53.66,0:07:55.83,Main,SHIZUKAMUM,0,0,0,,Shizuka...
+Dialogue: 0,0:07:56.99,0:07:59.33,Main,SHIZUKAMUM,0,0,0,,Pra kështu flet.
+Dialogue: 0,0:08:02.54,0:08:03.56,Italics,SHIZUKA,0,0,0,,"Saktë."
+Dialogue: 0,0:08:11.49,0:08:12.73,Main,RENTARO,0,0,0,,Shizuka-chan!
+Dialogue: 0,0:08:14.11,0:08:16.77,Main,RENTARO,0,0,0,,E more telefonin mbrapsht?
+Dialogue: 0,0:08:16.77,0:08:17.85,Main,NANO,0,0,0,,Mirë është ta shohim.
+Dialogue: 0,0:08:18.13,0:08:22.43,Main,SHIZUKA,0,0,0,,D-D-Dje... M-Më vërtet...
+Dialogue: 0,0:08:22.43,0:08:25.36,Main,RENTARO,0,0,0,,Është në rregull. Ne gjithmonë e dimë\Nse çfarë po përpiqesh të thuash.
+Dialogue: 0,0:08:28.80,0:08:31.22,Main,NANO,0,0,0,,Nëse dëshiron t'i përcjellësh\Nato ndjenja me gojën tënde,
+Dialogue: 0,0:08:31.22,0:08:33.66,Main,NANO,0,0,0,,ka një mënyrë më efikase për ta bërë.
+Dialogue: 0,0:08:55.96,0:08:57.02,Main,RENTARO,0,0,0,,Në rregull.
+Dialogue: 0,0:09:04.25,0:09:05.27,Main,RENTARO,0,0,0,,Naddy-sensei.
+Dialogue: 0,0:09:05.62,0:09:07.08,Main,RENTARO,0,0,0,,Më falni një moment.
+Dialogue: 0,0:09:09.78,0:09:12.91,sign_2067_19_Hngh,SIGN,0,0,0,,{\pos(58,195)\q2\frz358\shad1}dridhje♥\Ndridhje♥
+Dialogue: 0,0:09:09.78,0:09:12.88,Main,NADDY,0,0,0,,Oo, ekstazë e ëmbël.
+Dialogue: 0,0:09:13.88,0:09:15.82,Main,NADDY,0,0,0,,A iku një kaçurrel nga ahuri?
+Dialogue: 0,0:09:15.82,0:09:17.04,Main,RENTARO,0,0,0,,Pak.
+Dialogue: 0,0:09:17.48,0:09:21.46,Main,NADDY,0,0,0,,Flokët e mi të artë janë të destinuar\Npër një rrjedhë të pafundme zbardhjeje,
+Dialogue: 0,0:09:21.46,0:09:25.29,Main,NADDY,0,0,0,,një flotë shkatërruesish që synojnë\Nkutikulat e mia. Çfarë zonje e parë jam.
+Dialogue: 0,0:09:25.61,0:09:28.07,Main,RENTARO,0,0,0,,Mos u shqetëso për këtë.
+Dialogue: 0,0:09:28.07,0:09:33.24,Main,RENTARO,0,0,0,,Do t'i kreh flokët sa herë të duash nëse më ndihmon\Ntë shoh flokët e tu të bukur "amerikanë".
+Dialogue: 0,0:09:37.46,0:09:41.18,Main,MIMIMI,0,0,0,,Nga ana tjetër,\Ntek ti nuk ka as edhe një fije të shprishur.
+Dialogue: 0,0:09:41.18,0:09:46.72,Main,RENTARO,0,0,0,,Duhet të dukem në lartësinë e duhur nëse do të\Neci pranë teje, Mimimi-senpai.
+Dialogue: 0,0:09:46.72,0:09:48.07,Main,MIMIMI,0,0,0,,Rentaro-kun...
+Dialogue: 0,0:09:48.30,0:09:50.82,Main,MIMIMI,0,0,0,,Mund ta thuash përsëri!
+Dialogue: 0,0:09:48.95,0:09:50.82,Main - Top,MIMIMI,0,0,0,,Mm, vërtet!
+Dialogue: 0,0:09:49.07,0:09:50.82,Sign_Basic,SIGN,0,0,0,,{\an1\move(166,114,-320,100)\b1\c&H53DDFC&\3c&HFFFFFF\bord3\shad2\fs40\4c&H51FFFB&\clip(m 202 131 l 0 132 0 0 255 0 233 75)}Mm, vërtet
+Dialogue: 0,0:09:52.32,0:09:56.58,Main,KUSURI,0,0,0,,Do të jetë në rregull! Le të shkojmë, gjyshe, hë?
+Dialogue: 0,0:09:56.58,0:09:59.46,Main,YAKU,0,0,0,,Mos u kujdes për mua. Do të eci rreth e qark.
+Dialogue: 0,0:09:59.46,0:10:00.28,Main,RENTARO,0,0,0,,Çfarë ka?
+Dialogue: 0,0:10:00.28,0:10:01.83,Main,KUSURI,0,0,0,,Rentaro!
+Dialogue: 0,0:10:01.83,0:10:06.31,Main,YAKU,0,0,0,,Nuk mund të kaloj\Npranë atyre kuajve metalikë.
+Dialogue: 0,0:10:06.31,0:10:08.34,Main,KURUMI,0,0,0,,Nga cila epokë ke ardhur?
+Dialogue: 0,0:10:09.68,0:10:10.58,Main,RENTARO,0,0,0,,Atëherë...
+Dialogue: 0,0:10:11.34,0:10:13.09,Main,RENTARO,0,0,0,,Lart, lart dhe larg.
+Dialogue: 0,0:10:12.04,0:10:13.47,Main,YAKU,0,0,0,,Është një zog! Është një aeroplan!
+Dialogue: 0,0:10:13.47,0:10:16.85,Main,YAKU,0,0,0,,O, ndjehem përsëri si një fëmijë i vogël.
+Dialogue: 0,0:10:17.17,0:10:18.54,Main,YAKU,0,0,0,,O Zot i madh.
+Dialogue: 0,0:10:21.73,0:10:23.49,Main,YAMAME,0,0,0,,Për Zotin! Zjarr!
+Dialogue: 0,0:10:23.49,0:10:24.98,Main,CHIYO,0,0,0,,Në mes të rrugës?!
+Dialogue: 0,0:10:25.37,0:10:27.23,Main,RENTARO,0,0,0,,E kam nën kontroll, Yamame-chan.
+Dialogue: 0,0:10:27.94,0:10:28.98,Main,YAMAME,0,0,0,,Çfarë, një armë?
+Dialogue: 0,0:10:29.38,0:10:32.86,Main,YAMAME,0,0,0,,Rentaro-san... Duhatet janë gjallë gjithashtu!
+Dialogue: 0,0:10:33.12,0:10:35.80,Main,RENTARO,0,0,0,,Jo, është vetëm një pistoletë uji.
+Dialogue: 0,0:10:36.78,0:10:39.49,Main,RENTARO,0,0,0,,Nëse ajo flakë fillon të përhapet,
+Dialogue: 0,0:10:39.49,0:10:41.68,Main,RENTARO,0,0,0,,do ta shuaj menjëherë.
+Dialogue: 0,0:10:43.93,0:10:45.37,Main,YAMAME,0,0,0,,Për Zotin...
+Dialogue: 0,0:10:45.37,0:10:47.63,sign_15474_154_badump_badump,SIGN,0,0,0,,tump\Ntump
+Dialogue: 0,0:10:47.63,0:10:51.13,sign_15474_154_badump_badump,SIGN,0,0,0,,{\an5\pos(601.333,61.334)\fs14}tump tump
+Dialogue: 0,0:10:47.63,0:10:51.13,sign_15474_154_badump_badump,SIGN,0,0,0,,{\pos(442.666,113.333)\fs14}tump
+Dialogue: 0,0:10:47.88,0:10:50.58,Main,YAKU,0,0,0,,O, faleminderit, Rentaro.
+Dialogue: 0,0:10:51.46,0:10:53.13,Main,RENTARO,0,0,0,,A do të hipësh edhe ti, Kishika-senpai?
+Dialogue: 0,0:10:53.13,0:10:56.24,Main,KISHIKA,0,0,0,,Çfarë? J-Jo, kjo do të ishte e çuditshme.
+Dialogue: 0,0:10:56.24,0:10:58.01,Main,KISHIKA,0,0,0,,Nuk mund të bëj një junior të më mbajë.
+Dialogue: 0,0:10:58.01,0:11:01.14,Main,RENTARO,0,0,0,,Asgjë e çuditshme.\NJam i dashuri yt.
+Dialogue: 0,0:11:01.14,0:11:04.14,Main,KISHIKA,0,0,0,,V-Vërtet mendon? Ndoshta ke të drejtë!
+Dialogue: 0,0:11:04.14,0:11:06.52,Main,KISHIKA,0,0,0,,Babi!
+Dialogue: 0,0:11:06.52,0:11:08.00,Main,KARANE,0,0,0,,E bëri të çuditshme.
+Dialogue: 0,0:11:08.00,0:11:09.52,Main,KURUMI,0,0,0,,Çfarë lloj çifti janë ata?
+Dialogue: 0,0:11:06.82,0:11:13.19,Main - Top,KISHIKA,0,0,0,,Babi! Babi!
+Dialogue: 0,0:11:10.53,0:11:12.44,Main,KARANE,0,0,0,,Sa lehtë kënaqet.
+Dialogue: 0,0:11:17.53,0:11:19.02,Main,MEME,0,0,0,,Rentaro-kun!
+Dialogue: 0,0:11:19.02,0:11:21.54,Italics,MEME,0,0,0,,Gjithmonë harroj mbrojtjen e postit të ulët,\Npor ai më mbulon.
+Dialogue: 0,0:11:26.92,0:11:32.40,Italics,HAKARI,0,0,0,,Polaroidët e sotëm janë dyfish\Nmë seksi se zakonisht, Rentaro-kun!
+Dialogue: 0,0:11:33.99,0:11:35.44,Italics,HAKARI,0,0,0,,Një zarf?
+Dialogue: 0,0:11:36.11,0:11:39.75,Italics,RENTARO,0,0,0,,Faleminderit për fotot më\Njoshëse në botë.
+Dialogue: 0,0:11:39.75,0:11:41.94,Italics,RENTARO,0,0,0,,Nuk e di nëse këto mund të krahasohen...
+Dialogue: 0,0:11:42.39,0:11:44.56,Main,HAKARI,0,0,0,,Polaroidë seksi reverse uno!
+Dialogue: 0,0:11:45.06,0:11:46.83,Main,HAKARI,0,0,0,,Bwah! Trashëgimi familjare!
+Dialogue: 0,0:11:46.83,0:11:49.31,Main,RENTARO,0,0,0,,Hakari? Hakari!
+Dialogue: 0,0:11:49.56,0:11:55.82,Sign_Basic,SIGN,0,0,0,,{\an7\pos(438,18)\fs14\c&H736E70&\3c&HFAF9FB&\shad0}Mos lejo që\Nëndërrimi për tu ngrohur\Nme Rentaro-kun\Ntë ndikojë në notat e tua
+Dialogue: 0,0:11:53.02,0:11:55.82,Sign_Basic,SIGN,0,0,0,,{\an7\pos(362,184)\fs14\c&H736E70&\3c&HFAF9FB&\shad0}Tani që kam\Npolaroidët seksi\Ntë Rentaro-kun,\Njam e pathyeshme
+Dialogue: 0,0:11:54.92,0:11:55.82,Italics,HAHARI,0,0,0,,Hë?
+Dialogue: 0,0:11:55.82,0:11:58.28,Italics,HAHARI,0,0,0,,Çfarë është kjo? E dua!
+Dialogue: 0,0:11:58.28,0:11:59.47,Main,MEI,0,0,0,,Hahari-sama.
+Dialogue: 0,0:12:00.17,0:12:02.83,Main,MEI,0,0,0,,E gjeta këtë zarf të nderuar\Nnë dollapin tuaj të shenjtë të këpucëve.
+Dialogue: 0,0:12:02.83,0:12:06.29,Main,HAHARI,0,0,0,,A janë ato të Rentaro-chan...
+Dialogue: 0,0:12:06.29,0:12:08.78,Main,HAHARI,0,0,0,,Foto surprizë bebesh?!
+Dialogue: 0,0:12:08.78,0:12:11.80,Italics,RENTARO,0,0,0,,Mendova se mund t'i pëlqenin\Nmë shumë këto, Hahari-san.
+Dialogue: 0,0:12:10.54,0:12:12.29,Main - Top,HAHARI,0,0,0,,Ababwah!
+Dialogue: 0,0:12:12.79,0:12:13.97,Main,HAHARI,0,0,0,,Trashëgimi familjare!
+Dialogue: 0,0:12:13.97,0:12:16.55,Main,MEI,0,0,0,,Hahari-sama? Hahari-sama?!
+Dialogue: 0,0:12:16.55,0:12:19.80,Sign_Basic,SIGN,0,0,0,,{\pos(377,90.667)\frx20\fry336\fay-.36\fnArial\b1\c&H795E73&\fax.15\yshad-1\xshad1.5\bord0}Biblioteka
+Dialogue: 0,0:12:17.34,0:12:19.80,Main,KARANE,0,0,0,,Lexova librin që rekomandove, Shizuka.
+Dialogue: 0,0:12:19.80,0:12:21.74,Main,KARANE,0,0,0,,Ishte vërtet i mirë.
+Dialogue: 0,0:12:21.74,0:12:23.86,Main,NANO,0,0,0,,Të dhëna të reja të fituara.
+Dialogue: 0,0:12:23.86,0:12:26.68,Main,RENTARO,0,0,0,,Edhe unë. Ishte lexim argëtues, faleminderit.
+Dialogue: 0,0:12:27.32,0:12:29.19,Italics,SHIZUKA,0,0,0,,"Ah, faleminderit."
+Dialogue: 0,0:12:29.66,0:12:33.30,Main,KARANE,0,0,0,,Mendova se duhet të rekomandoja\Ndiçka në këmbim, por...
+Dialogue: 0,0:12:33.30,0:12:37.60,Main,NANO,0,0,0,,Yoshimoto Shizuka lexon shumë, shumë\Nmë shumë se njeriu mesatar.
+Dialogue: 0,0:12:38.83,0:12:41.52,Main,RENTARO,0,0,0,,Me gjasë ke lexuar\Ngjithçka që do të rekomandonim.
+Dialogue: 0,0:12:41.52,0:12:42.70,Main,RENTARO,0,0,0,,Prandaj...
+Dialogue: 0,0:12:43.02,0:12:45.05,Main,RENTARO,0,0,0,,Provova të shkruaj një vetë.
+Dialogue: 0,0:12:42.95,0:12:47.45,Sign_Basic,SIGN,0,0,0,,{\an5\pos(324.667,232)\fad(125,0)\b1\fs18\frx20\bord0\shad0\c&H051826&}Princesha Zanash\Ndhe Princi i Luleve
+Dialogue: 0,0:12:45.05,0:12:47.45,Italics,SHIZUKA,0,0,0,,"Si një kuti biskotash shtëpiake."
+Dialogue: 0,0:12:50.02,0:12:52.51,Italics,SHIZUKA,0,0,0,,"Nuk pres me padurim ta lexoj këtë libër."
+Dialogue: 0,0:12:52.51,0:12:55.06,Main,RENTARO,0,0,0,,Shpresoj t'i përmbushë pritshmëritë e tua.
+Dialogue: 0,0:12:55.06,0:12:56.90,Italics,KARANE,0,0,0,,Duhet ta huazoj më vonë.
+Dialogue: 0,0:12:56.90,0:12:58.72,Italics,NANO,0,0,0,,Duhet ta huazoj më vonë.
+Dialogue: 0,0:12:58.72,0:13:01.97,Main,KARANE,0,0,0,,Pra, pse erdhe këtu, Nano?
+Dialogue: 0,0:13:01.97,0:13:05.92,Main,NANO,0,0,0,,Erdha të shoh nëse biblioteka kishte\Nlibra të rinj ushtrimesh, por jo.
+Dialogue: 0,0:13:05.92,0:13:06.97,Main,KARANE,0,0,0,,Hë...
+Dialogue: 0,0:13:07.44,0:13:09.86,Main,NANO,0,0,0,,I kam zgjidhur të gjithë këtu.
+Dialogue: 0,0:13:09.86,0:13:12.74,Main,KARANE,0,0,0,,Nuk ke të drejtë të komentosh\Nsa lexon Shizuka.
+Dialogue: 0,0:13:12.74,0:13:15.22,Main,RENTARO,0,0,0,,O, provova të bëja një nga ato gjithashtu.
+Dialogue: 0,0:13:15.73,0:13:19.69,Sign_Basic,SIGN,0,0,0,,{\fad(950,0)\fnArial\b1\fs12\frz355\c&H000000&\bord0\shad0}Libri i Ushtrimeve\NDemonik
+Dialogue: 0,0:13:16.22,0:13:17.82,Main - Top,NANO,0,0,0,,Një libër ushtrimesh i bërë me dorë.
+Dialogue: 0,0:13:17.82,0:13:19.69,Main - Top,KARANE,0,0,0,,Çfarë je, një shtëpi botuese e ecjes?!
+Dialogue: 0,0:13:22.83,0:13:24.12,Main,NANO,0,0,0,,Faleminderit.
+Dialogue: 0,0:13:26.42,0:13:27.20,Main,KARANE,0,0,0,,Hmph!
+Dialogue: 0,0:13:29.58,0:13:33.55,Main,RENTARO,0,0,0,,Më vjen keq. Nuk më the kurrë se çfarë\Nkërkoje në një libër.
+Dialogue: 0,0:13:33.58,0:13:33.83,Sign_Basic,SIGN,0,0,0,,{\pos(140,46)\b1\fnArial\c&H9EB9EF&\3c&HECF5FA&}hmph
+Dialogue: 0,0:13:33.55,0:13:34.54,Main,KARANE,0,0,0,,Si të duash!
+Dialogue: 0,0:13:34.54,0:13:38.15,Main,RENTARO,0,0,0,,Munda të shkruaj vetëm një enciklopedi\Ntë gjitha gjërave që dua tek ti.
+Dialogue: 0,0:13:36.96,0:13:39.97,Sign_Basic,SIGN,0,0,0,,{\pos(288,284.667)\fad(250,0)\fnArial\b1\c&H000000&\bord0\shad0\frz1.238\frx6\fry348}Enciklopedia e\NGjithçkaje që Dua\Npër Karane\N1
+Dialogue: 0,0:13:38.15,0:13:39.97,Main - Top,KARANE,0,0,0,,Zoti i Letrave të Dashurisë!
+Dialogue: 0,0:13:40.22,0:13:42.63,Main,RENTARO,0,0,0,,Nuk munda t'i fus të gjitha, ndaj po\Npunoj në volumin e dytë.
+Dialogue: 0,0:13:42.63,0:13:44.09,Main,KARANE,0,0,0,,Është një seri e vazhdueshme?!
+Dialogue: 0,0:13:44.09,0:13:45.21,Main,KARANE,0,0,0,,Hmph!
+Dialogue: 0,0:13:45.21,0:13:48.27,Main,KARANE,0,0,0,,Nuk është se do të\Nmësoj përmendsh çdo fjalë të saj,
+Dialogue: 0,0:13:48.27,0:13:50.18,Main,KARANE,0,0,0,,por do ta lexoj si favore, në rregull?!
+Dialogue: 0,0:13:50.65,0:13:54.71,Italics,KARANE,0,0,0,,Jam kaq e lumtur! E dua atë\Nkaq shumë, sa mund të vdes!
+Dialogue: 0,0:13:56.82,0:14:01.07,Main,NADDY,0,0,0,,A e pa ndokush{\i1}Princesha e\NMononoke{\i0}në TV të premten e kaluar?
+Dialogue: 0,0:14:01.38,0:14:04.88,Main,IKU,0,0,0,,Pyes veten sa e dhimbshme\Ndo të ishte të prekje atë llumin.
+Dialogue: 0,0:14:04.88,0:14:08.33,Main,HAKARI,0,0,0,,Jam e fiksuar pas puthjes dramatike\Ntë kalimit të ushqimit!
+Dialogue: 0,0:14:08.33,0:14:13.96,Sign_Basic,SIGN,0,0,0,,{\pos(141.333,144.667)\frz293.1\fnArial\b1\c&HEFC0E6&\3c&HFCFCFE&\4c&HAEB5B0&}krrrrr
+Dialogue: 0,0:14:10.33,0:14:13.96,Sign_Basic,SIGN,0,0,0,,{\pos(622,200)\fs10\c&H31426C&\3c&HBEE7F6&\bord1\shad0\b1}Mish\NDem\Ni Thatë
+Dialogue: 0,0:14:10.18,0:14:13.47,Main,RENTARO,0,0,0,,Kurumi, të solla mish demi të thatë gjigant.
+Dialogue: 0,0:14:14.52,0:14:17.84,Italics,KURUMI,0,0,0,,E kuptoi se do të më mungonte\Nsepse filmi u transmetua në TV?
+Dialogue: 0,0:14:19.97,0:14:22.34,Italics,KURUMI,0,0,0,,Faleminderit, Rentaro-senpai!
+Dialogue: 0,0:14:22.34,0:14:24.47,Main,KURUMI,0,0,0,,Mmm!
+Dialogue: 0,0:14:37.55,0:14:41.61,Main,RENTARO,0,0,0,,Mei-san, do të ndihmoj,\Nndaj pusho pak.
+Dialogue: 0,0:14:41.90,0:14:43.78,Main,MEI,0,0,0,,Dëshira jote është urdhri im.
+Dialogue: 0,0:14:43.78,0:14:46.11,Main,RENTARO,0,0,0,,Nuk ka pse të jetë.
+Dialogue: 0,0:14:49.18,0:14:52.37,Main,MEI,0,0,0,,Oh... Nuk e meritoj këtë.
+Dialogue: 0,0:14:52.63,0:14:55.18,Main,MEI,0,0,0,,Por si shërbyese, kjo është detyra ime.
+Dialogue: 0,0:14:55.18,0:14:56.88,Main,RENTARO,0,0,0,,Përsëri, nuk ka pse të jetë.
+Dialogue: 0,0:14:58.88,0:15:02.79,Main,YAKU,0,0,0,,Nuk kam pasur kurrë një masazh\Nkaq të gjallërues shpatullash.
+Dialogue: 0,0:15:02.79,0:15:04.13,Main,KUSURI,0,0,0,,Gjyshe!
+Dialogue: 0,0:15:04.13,0:15:08.39,Main,KUSURI,0,0,0,,Ti the se Kusuri bënte masazhet\Nmë të mira të shpatullave në botë, hë!
+Dialogue: 0,0:15:08.70,0:15:12.02,Main,YAKU,0,0,0,,S-Sigurisht, masazhet e tua\Njanë gjithashtu hyjnore.
+Dialogue: 0,0:15:12.02,0:15:16.02,Main,KUSURI,0,0,0,,"Gjithashtu"? Sa e keqe! Kjo është MTR!
+Dialogue: 0,0:15:15.12,0:15:16.02,Main,YAKU,0,0,0,,Kusuri?
+Dialogue: 0,0:15:16.31,0:15:20.15,Main,YAKU,0,0,0,,Prit, Kusuri! Çfarë do të thotë "MTR"?!
+Dialogue: 0,0:15:22.35,0:15:26.05,Main,MOMIJI,0,0,0,,Mei-san punon gjithmonë.\NAjo meriton shërim.
+Dialogue: 0,0:15:26.05,0:15:29.11,Main,MEI,0,0,0,,Oo, nuk e meritoj\Nnjë masazh kaq madhështor.
+Dialogue: 0,0:15:29.11,0:15:30.40,Main,RENTARO,0,0,0,,E dini...
+Dialogue: 0,0:15:31.06,0:15:34.29,Main,RENTARO,0,0,0,,Kjo vlen edhe për ty, Momiji-chan.\NTi masazhosh gjithmonë të tjerët.
+Dialogue: 0,0:15:34.57,0:15:38.79,Main,MOMIJI,0,0,0,,Oo, të punohesh kështu\Npo më bën të skuqem pak.
+Dialogue: 0,0:15:41.48,0:15:43.05,Main,CHIYO,0,0,0,,Faleminderit që bëre pazarin me mua.
+Dialogue: 0,0:15:43.32,0:15:45.45,Main,CHIYO,0,0,0,,Gjithmonë po më ndihmon.
+Dialogue: 0,0:15:45.45,0:15:49.71,Main,RENTARO,0,0,0,,Jo, faleminderit që më lejove\Ntë eci me ty, Chiyo-chan.
+Dialogue: 0,0:15:50.39,0:15:52.97,Main,OLD LADY,0,0,0,,O, pazari me vëllain tënd?
+Dialogue: 0,0:15:52.97,0:15:56.18,Main,OLD LADY,0,0,0,,Të lumtë që ndihmon\Nkur je kaq e re, vajzë.
+Dialogue: 0,0:15:57.63,0:16:00.56,Italics,CHIYO,0,0,0,,Dukemi si motra e vëlla.\NJemi edhe kushërinj.
+Dialogue: 0,0:16:00.88,0:16:01.56,Main,RENTARO,0,0,0,,Jo.
+Dialogue: 0,0:16:02.90,0:16:04.31,Main,RENTARO,0,0,0,,Ajo është e dashura ime.
+Dialogue: 0,0:16:04.75,0:16:05.74,Main,OLD LADY,0,0,0,,Oh!
+Dialogue: 0,0:16:05.74,0:16:09.20,Main,OLD LADY,0,0,0,,Më falni! Sytë po më lodhen!
+Dialogue: 0,0:16:11.03,0:16:12.53,Sign_Basic,SIGN,0,0,0,,{\pos(249.333,142.667)\frx334\fry60\fnArial\b1\fax.2\c&H15184C&\3c&H4567B0&\shad0\frz45.65}Laboratori i Kimisë
+Dialogue: 0,0:16:12.53,0:16:18.29,Main,KUSURI,0,0,0,,Kusuri prishi ilaçin Byakugan dhe\Nbëri ilaçin e syve Nobita!
+Dialogue: 0,0:16:18.29,0:16:21.91,Main,KUSURI,0,0,0,,Enët u kthyen në treshe! Dhemb!
+Dialogue: 0,0:16:22.47,0:16:24.91,Main,KUSURI,0,0,0,,Nuk mund të shoh me sytë Nobita!
+Dialogue: 0,0:16:24.91,0:16:26.67,Main,KUSURI,0,0,0,,Mbaroi! Do të vdes!
+Dialogue: 0,0:16:26.92,0:16:28.93,Main,RENTARO,0,0,0,,E gjeta Ilaçin e Kthimit!
+Dialogue: 0,0:16:28.93,0:16:30.61,Main,RENTARO,0,0,0,,Kusuri-senpai!
+Dialogue: 0,0:16:30.61,0:16:32.68,Main,KUSURI,0,0,0,,Hej, ajo goja!
+Dialogue: 0,0:16:34.79,0:16:36.20,Main,KUSURI,0,0,0,,Prit, aty duhej të shkonte.
+Dialogue: 0,0:16:42.03,0:16:44.44,Main,KUSURI,0,0,0,,Rentaro, më shpëtove, hë hë.
+Dialogue: 0,0:16:46.76,0:16:50.20,Main,KUSURI,0,0,0,,Faleminderit.\NKy është i dashuri i Kusurit, pa dyshim.
+Dialogue: 0,0:17:06.21,0:17:09.22,Main,RENTARO,0,0,0,,Në rregull... 1 000 trokitje, të gjitha mbaruan.
+Dialogue: 0,0:17:09.67,0:17:12.72,Main,IKU,0,0,0,,Një seancë tjetër vuajtjeje...
+Dialogue: 0,0:17:17.77,0:17:19.06,Main,RENTARO,0,0,0,,Më fal.
+Dialogue: 0,0:17:19.06,0:17:22.98,Main,IKU,0,0,0,,Është vonë. Nuk ke pse\Ntë më shoqërosh në shtëpi.
+Dialogue: 0,0:17:23.26,0:17:28.10,Main,RENTARO,0,0,0,,Hej, po të shoqëroj sepse është vonë.\NNuk mund të të lë në errësirë.
+Dialogue: 0,0:17:29.59,0:17:31.49,Main,IKU,0,0,0,,Dakord, faleminderit.
+Dialogue: 0,0:17:35.20,0:17:38.54,Narration,NARRATOR,0,0,0,,U puthën pas\Nnjë shtylle elektrike rrugës.
+Dialogue: 0,0:17:40.62,0:17:41.75,Main,RENTARO,0,0,0,,Uf.
+Dialogue: 0,0:17:42.16,0:17:45.25,Main,RENTARO,0,0,0,,Një ditë tjetër plot gëzim.
+Dialogue: 0,0:17:46.86,0:17:48.21,Main,GOD,0,0,0,,'Sup?
+Dialogue: 0,0:17:49.01,0:17:50.68,Main,RENTARO,0,0,0,,Iik!
+Dialogue: 0,0:17:50.68,0:17:52.09,Main,RENTARO,0,0,0,,Largohu, shpirt i lig!
+Dialogue: 0,0:17:49.09,0:17:52.09,Sign_Basic,SIGN,0,0,0,,{\an5\pos(84,180)\fad(175,0)\frz-90\c&H3D3022&\b1\fs20\bord2\shad0\3c&H211A0E&}Faltorja e Super Njohjes
+Dialogue: 0,0:17:52.09,0:17:58.22,Sign_Basic,SIGN,0,0,0,,{\an8\fnTimes New Roman\b1\c&H394134&\3c&H9FB59D&\shad0}Largohuni, Shpirtrat e Lig
+Dialogue: 0,0:17:52.09,0:17:55.59,Main,GOD,0,0,0,,Kush përpiqet të ekzorcizojë\Nnjë hyjni kaq të dashur si kjo?!
+Dialogue: 0,0:17:55.59,0:17:58.22,Main,RENTARO,0,0,0,,Çfarë lloj zoti shfaqet kështu?!
+Dialogue: 0,0:17:59.19,0:18:04.10,Main,GOD,0,0,0,,Arritëm episodin final ndërsa\Nunë prisja më shumë kohë ekrani.
+Dialogue: 0,0:18:04.44,0:18:07.83,Main,GOD,0,0,0,,Mund të vije të më shihje\Nndonjëherë, o mosmirënjohës.
+Dialogue: 0,0:18:07.83,0:18:09.63,Main,RENTARO,0,0,0,,Ti shfaqesh më shumë se në mangë.
+Dialogue: 0,0:18:09.63,0:18:12.39,Main,RENTARO,0,0,0,,Mos u përpiq të marrësh më shumë kohë ekrani\Nnga të dashurat e mia.
+Dialogue: 0,0:18:13.83,0:18:14.86,Main,GOD,0,0,0,,Por gjithsesi...
+Dialogue: 0,0:18:15.22,0:18:16.99,Main,GOD,0,0,0,,Ke shtatëmbëdhjetë të dashura.
+Dialogue: 0,0:18:16.99,0:18:22.46,Main,GOD,0,0,0,,Dhe po i bën të gjitha të lumtura.\NPo bën punë të shkëlqyer.
+Dialogue: 0,0:18:22.74,0:18:24.21,Main,RENTARO,0,0,0,,Mos u bëj qesharak.
+Dialogue: 0,0:18:24.21,0:18:29.45,Main,RENTARO,0,0,0,,Nuk po i bëj unë të lumtura.\NAto po më bëjnë mua të lumtur.
+Dialogue: 0,0:18:29.45,0:18:30.84,Main,RENTARO,0,0,0,,Do t'ia shkelësh bythën?
+Dialogue: 0,0:18:31.38,0:18:36.18,Main,GOD,0,0,0,,Kjo nuk do të kishte qenë e mundur nëse\Ndo të ishe tinëzar dhe i pabesë ndaj tyre.
+Dialogue: 0,0:18:36.18,0:18:41.08,Main,GOD,0,0,0,,Në fillim, mendova se ishe i çmendur\Nqë u kërkove të dyjave të dilnin me ty njëherësh.
+Dialogue: 0,0:18:41.08,0:18:43.37,Main,RENTARO,0,0,0,,Faji i kujt është ky?\NDo ta djeg faltoren tënde?
+Dialogue: 0,0:18:43.98,0:18:45.24,Main,GOD,0,0,0,,Sidoqoftë,
+Dialogue: 0,0:18:45.24,0:18:49.98,Main,GOD,0,0,0,,duket se more zgjedhjen e duhur\Nduke u besuar ndershmërisë dhe besnikërisë tënde.
+Dialogue: 0,0:18:49.98,0:18:53.88,Main,RENTARO,0,0,0,,Dhe mendoj se është e drejtë të vdesësh\Npër vënien e jetëve të tyre në rrezik.
+Dialogue: 0,0:18:53.88,0:18:56.43,Main,GOD,0,0,0,,Pse po më flet kështu?!
+Dialogue: 0,0:18:56.43,0:18:59.74,Main,GOD,0,0,0,,Do të më bësh të qaj!\NKjo është tepër nxehtësi!
+Dialogue: 0,0:19:00.06,0:19:05.64,Main,GOD,0,0,0,,Pra, pse nuk do t'u tregosh\Npër situatën e shpirtërave binjakë?
+Dialogue: 0,0:19:05.64,0:19:09.88,Main,GOD,0,0,0,,Do të ishte më e lehtë nëse do ta dinin\Nse përndryshe do të vdisnin.
+Dialogue: 0,0:19:11.11,0:19:12.68,Main,RENTARO,0,0,0,,Epo...
+Dialogue: 0,0:19:15.16,0:19:18.21,Main,RENTARO,0,0,0,,Ndoshta është vetëm egoja ime, por...
+Dialogue: 0,0:19:19.43,0:19:23.66,Main,RENTARO,0,0,0,,I dua të gjitha, dhe nuk dua që ato\Ntë jenë me mua për të shpëtuar jetën.
+Dialogue: 0,0:19:23.66,0:19:27.65,Main,RENTARO,0,0,0,,Dua që ato ta duan këtë marrëdhënie\Nsepse kjo i bën të lumtura.
+Dialogue: 0,0:19:28.84,0:19:31.96,Main,RENTARO,0,0,0,,Askush nuk duhet të detyrohet\Ntë dojë për të mbijetuar.
+Dialogue: 0,0:19:32.34,0:19:36.53,Main,RENTARO,0,0,0,,Kjo nuk do të ishte ndryshe nga\Ntë jesh i vdekur nga brenda dhe i mjerë.
+Dialogue: 0,0:19:43.32,0:19:46.79,Main,GOD,0,0,0,,Mund të mos më besosh,\Npor kam qenë i konfliktuar.
+Dialogue: 0,0:19:47.33,0:19:53.55,Main,GOD,0,0,0,,Frikësohesha se kisha shkatërruar\Njetët e të gjitha atyre vajzave.
+Dialogue: 0,0:19:55.59,0:19:58.01,Main,GOD,0,0,0,,Të kam mirënjohje, Rentaro.
+Dialogue: 0,0:19:58.51,0:20:04.66,Main,GOD,0,0,0,,Faleminderit që u shpëtove jetët\Ndhe u solle gëzim.
+Dialogue: 0,0:20:05.77,0:20:08.66,Main,GOD,0,0,0,,Jam kaq i lumtur që Balus ndodhi\Nkur po plotësoja dokumentet e tua!
+Dialogue: 0,0:20:08.66,0:20:10.63,Main,RENTARO,0,0,0,,Ndjehesh keq për këtë apo jo?!
+Dialogue: 0,0:20:11.02,0:20:14.77,Main,GOD,0,0,0,,Të kam ngarkuar edhe ty\Nme një barrë të madhe.
+Dialogue: 0,0:20:14.77,0:20:17.03,Main,GOD,0,0,0,,Më vjen keq! E them me të vërtetë!
+Dialogue: 0,0:20:17.64,0:20:21.53,Main,RENTARO,0,0,0,,Nuk mund të të fal kurrë\Npër vënien e jetëve të tyre në rrezik.
+Dialogue: 0,0:20:22.40,0:20:25.54,Main,RENTARO,0,0,0,,Nuk do të mundja kurrë të thosha\Nse jam mirënjohës për atë që bëre...
+Dialogue: 0,0:20:25.79,0:20:27.04,Main,REJECTIONS,0,0,0,,Më vjen keq!
+Dialogue: 0,0:20:27.04,0:20:28.54,Main,REJECTIONS,0,0,0,,Më vjen keq.
+Dialogue: 0,0:20:28.80,0:20:30.04,Main,REJECTIONS,0,0,0,,Më vjen keq.
+Dialogue: 0,0:20:30.47,0:20:41.43,Main,REJECTIONS,0,0,0,,Më vjen keq.
+Dialogue: 0,0:21:01.97,0:21:03.07,Main,RENTARO,0,0,0,,Por unë...
+Dialogue: 0,0:21:03.74,0:21:06.24,Main,RENTARO,0,0,0,,I kam të gjitha me vete tani,
+Dialogue: 0,0:21:07.92,0:21:10.91,Main,RENTARO,0,0,0,,dhe jam më i lumturi\Nqë kam qenë ndonjëherë në jetën time.
+Dialogue: 0,0:21:12.01,0:21:15.61,Main,GOD,0,0,0,,Rentaro, ti...
+Dialogue: 0,0:21:16.09,0:21:17.89,Main,GOD,0,0,0,,Po përpiqesh të më joshësh edhe mua?
+Dialogue: 0,0:21:17.89,0:21:19.59,Main,RENTARO,0,0,0,,Do ta bëj Balus faltoren tënde!
+Dialogue: 0,0:21:21.24,0:21:22.84,Main,RENTARO,0,0,0,,H-Hë?
+Dialogue: 0,0:21:23.10,0:21:24.87,Main,RENTARO,0,0,0,,Papritmas po më vjen gjumë.
+Dialogue: 0,0:21:25.95,0:21:29.28,Main,GOD,0,0,0,,Është e rëndësishme të marrësh\Npushim kur të mundesh.
+Dialogue: 0,0:21:29.98,0:21:30.98,Main,RENTARO,0,0,0,,Çfarë po...
+Dialogue: 0,0:21:30.98,0:21:35.22,Main,GOD,0,0,0,,Partnerët duhet të mbështesin\Nnjëri-tjetrin. Nuk shkon vetëm nga një anë.
+Dialogue: 0,0:21:40.70,0:21:41.55,Main,HAHARI,0,0,0,,Rentaro-chan!
+Dialogue: 0,0:21:41.55,0:21:42.33,Main,HAKARI,0,0,0,,Rentaro-kun!
+Dialogue: 0,0:21:42.33,0:21:43.45,Main,YAMAME,0,0,0,,Rentaro-san!
+Dialogue: 0,0:21:43.49,0:21:47.20,Sign_Basic,Credits,0,0,0,,{\an9\fad(450,0)\fnArial\b1\fs16\shad0}Përktheu: Sriram Gurunathan\NKohëmatja: Krzysztof Kunc\NRedaktimi: Zachary Carlysle\NKontrolli i cilësisë: Salem Alabanza\NKontrolli final i cilësisë: Sho Stifler
+Dialogue: 0,0:21:43.81,0:21:45.10,Main,RENTARO,0,0,0,,Hahari-san?
+Dialogue: 0,0:21:45.10,0:21:47.20,Main,RENTARO,0,0,0,,Hakari? Yamame-chan?
+Dialogue: 0,0:21:47.53,0:21:49.50,Main,RENTARO,0,0,0,,Prit, çfarë po ndodh këtu?
+Dialogue: 0,0:21:50.66,0:21:54.82,Main,IKU,0,0,0,,Të ndoqa sepse u shqetësova\Npër sjelljen tënde kur më shoqërove.
+Dialogue: 0,0:21:54.82,0:21:56.99,Main,IKU,0,0,0,,Dhe pastaj të gjeta\Ntë rrëzuar në faltore.
+Dialogue: 0,0:21:56.99,0:21:59.26,Main,HAHARI,0,0,0,,Thirra menjëherë një mjek.
+Dialogue: 0,0:22:00.69,0:22:02.20,Flashback,DOCTOR,0,0,0,,Epo...
+Dialogue: 0,0:22:03.24,0:22:05.47,Flashback,DOCTOR,0,0,0,,Është thjesht mungesë gjumi.
+Dialogue: 0,0:22:06.97,0:22:09.54,Main,KARANE,0,0,0,,Uf. Po punon tepër.
+Dialogue: 0,0:22:09.54,0:22:11.64,Main,NANO,0,0,0,,Mos e zvogëlo kaq shumë gjumin.
+Dialogue: 0,0:22:11.64,0:22:14.62,Main,MEI,0,0,0,,Ndaj menduam se duhet\Nta shfrytëzojmë rastin të ta shpërblejmë.
+Dialogue: 0,0:22:14.62,0:22:17.03,Main,KUSURI,0,0,0,,Po të bëjmë jastëk prehri, Rentaro!
+Dialogue: 0,0:22:17.03,0:22:20.90,Main,YAKU,0,0,0,,Dhe meqë do të të dhembte\Ntë zgjidhje vetëm njërën prej nesh...
+Dialogue: 0,0:22:20.90,0:22:23.70,Main,CHIYO,0,0,0,,...vendosëm të përdorim të gjitha prehërit tona.
+Dialogue: 0,0:22:23.70,0:22:25.24,Main,NADDY,0,0,0,,Kujdes universal me prehër!
+Dialogue: 0,0:22:25.71,0:22:29.41,Main,RENTARO,0,0,0,,Jo... Nuk e kam menduar kurrë si punë.
+Dialogue: 0,0:22:29.91,0:22:32.66,Main,RENTARO,0,0,0,,Isha i lumtur të bëja gjithçka\Nqë mundja për ju të gjitha.
+Dialogue: 0,0:22:34.79,0:22:37.47,Main,RENTARO,0,0,0,,Por gjithsesi kjo më bën të lumtur.
+Dialogue: 0,0:22:37.47,0:22:40.13,Main,RENTARO,0,0,0,,Pikërisht tani,
+Dialogue: 0,0:22:40.13,0:22:42.56,Main,RENTARO,0,0,0,,zemra ime është e mbushur\Nderi në grykë me lumturi!
+Dialogue: 0,0:22:43.32,0:22:46.30,Main,HAKARI,0,0,0,,E-Edhe unë, Rentaro-kun!
+Dialogue: 0,0:22:46.30,0:22:47.84,Main,KISHIKA,0,0,0,,Edhe unë, Rentaro!
+Dialogue: 0,0:22:47.84,0:22:49.85,Italics,SHIZUKA,0,0,0,,"Ndjesia është më shumë se reciproke."
+Dialogue: 0,0:22:49.85,0:22:51.52,Main,MEME,0,0,0,,E-E-Edhe unë!
+Dialogue: 0,0:22:51.85,0:22:54.88,Main,MIMIMI,0,0,0,,Merr pak pushim\Ndhe gjumë bukurie, Rentaro-kun.
+Dialogue: 0,0:22:54.88,0:22:57.48,Main,YAMAME,0,0,0,,Po. Rritu i madh e i fortë.
+Dialogue: 0,0:22:57.82,0:22:59.25,Main,MOMIJI,0,0,0,,Meriton relaksim.
+Dialogue: 0,0:22:59.25,0:23:01.70,Main,KURUMI,0,0,0,,Hajde të hash me mua kur të zgjohesh.
+Dialogue: 0,0:23:04.92,0:23:06.18,Main,IKU,0,0,0,,Është në gjumë.
+Dialogue: 0,0:23:09.24,0:23:11.66,Main,KUSURI,0,0,0,,Po e shijon këtë, hë.
+Dialogue: 0,0:23:13.04,0:23:15.92,Main,HAHARI,0,0,0,,Pyes veten për çfarë po ëndërron.
+Dialogue: 0,0:23:16.70,0:23:18.17,Main - Top,RENTARO,0,0,0,,Faleminderit...
+Dialogue: 0,0:23:18.89,0:23:22.49,Main - Top,RENTARO,0,0,0,,Mm... Edhe unë...
+

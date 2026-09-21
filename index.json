@@ -1,7 +1,7 @@
 {
   "version": 1,
   "language": "sq",
-  "updated": "2026-09-20",
+  "updated": "2026-09-21",
   "entries": [
     {
       "id": "liar-game-24",
@@ -766,6 +766,24 @@
       "assFile": "ass/at-689973.sq.ass",
       "offset": 0,
       "sourceReleaseId": "689973"
+    },
+    {
+      "id": "at-690024",
+      "title": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 3",
+      "episode": "12",
+      "malId": 62811,
+      "anilistId": 200637,
+      "slugs": [
+        "the-100-girlfriends-who-really-really-really-really-really-love-you-season-3-c0d2f"
+      ],
+      "file": "files/at-690024.sq.vtt",
+      "assFile": "ass/at-690024.sq.ass",
+      "offset": 0,
+      "sourceReleaseId": "690024",
+      "sourceEpisode": "36",
+      "sourceTitle": "Hyakkano",
+      "part": 3,
+      "numberingEvidence": "https://anikototv.to/watch/the-100-girlfriends-who-really-really-really-really-really-love-you-season-3-c0d2f"
     }
   ]
 }
