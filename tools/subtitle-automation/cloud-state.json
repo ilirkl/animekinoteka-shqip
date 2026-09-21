@@ -1,18 +1,5 @@
 {
   "version": 1,
-  "updated": "2026-09-21T05:21:01Z",
-  "pending": [
-    {
-      "sourceReleaseId": "689419",
-      "sourceTitle": "Nige Jouzu no Wakagimi S2",
-      "sourceEpisode": "10",
-      "status": "queued"
-    },
-    {
-      "sourceReleaseId": "689391",
-      "sourceTitle": "Kore Kaite Shine",
-      "sourceEpisode": "11",
-      "status": "queued"
-    }
-  ]
+  "updated": "2026-09-21T05:39:36Z",
+  "pending": []
 }
