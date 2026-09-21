@@ -110,6 +110,20 @@ test("the Duke's Son pin is confined to the exact title",()=>{
   assert.equal(knownNumbering({...dukesSon,season:2}),null);
 });
 
+const gaikotsuII = {title:'Gaikotsu Kishi-sama Tadaima Isekai e Odekake-chuu II',season:null,episode:'12'};
+test('Gaikotsu Kishi-sama II pins the second season',()=>{
+  const result=knownNumbering(gaikotsuII);
+  assert.equal(result.slug,'skeleton-knight-in-another-world-season-2');
+  assert.equal(result.malId,60522);
+  assert.equal(result.episode,'12');
+  assert.equal(result.part,2);
+});
+test('the Gaikotsu Kishi-sama pin cannot capture season 1 or spelling variants',()=>{
+  assert.equal(knownNumbering({...gaikotsuII,title:'Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu'}),null);
+  assert.equal(knownNumbering({...gaikotsuII,title:'Gaikotsu Kishi-sama Tadaima Isekai e Odekake-chuu'}),null);
+  assert.equal(knownNumbering({...gaikotsuII,season:2}),null);
+});
+
 test('rules stay independent of one another',()=>{
   assert.equal(knownNumbering({title:'One Piece',season:null,episode:'23'}),null);
   assert.equal(knownNumbering({...source,episode:'1178'}),null);

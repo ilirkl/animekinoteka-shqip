@@ -314,7 +314,27 @@ function dukesSon(parsed) {
   };
 }
 
-const RULES = [samuraiTroopers, onePiece, toukutsuOu, reZero, smokingBehindTheSupermarket, kaijuGirlCaramelise, bungoStrayDogsWan2, linkClickS3, honzukiS4, detectiveConan, hyakkanoS3, mushokuTenseiIII, magilumiereS2, azurLaneNi, mao, dukesSon];
+// Erai-raws spells the second season "II" inside the title, which parseFilename
+// cannot see; without this pin the search resolves to season 1. Note prepare()
+// strips ":" from filenames, so the pinned title has no colon.
+function gaikotsuKishiII(parsed) {
+  const episode = Number(parsed.episode);
+  if (parsed.title !== 'Gaikotsu Kishi-sama Tadaima Isekai e Odekake-chuu II' ||
+      (parsed.season !== null && parsed.season !== 1) ||
+      !Number.isInteger(episode) || episode < 1) return null;
+  return {
+    slug:'skeleton-knight-in-another-world-season-2',
+    title:'Skeleton Knight in Another World Season 2',
+    malId:60522,
+    episode:String(episode),
+    sourceEpisode:String(episode),
+    sourceTitle:parsed.title,
+    part:2,
+    evidence:'https://anikototv.to/watch/skeleton-knight-in-another-world-season-2'
+  };
+}
+
+const RULES = [samuraiTroopers, onePiece, toukutsuOu, reZero, smokingBehindTheSupermarket, kaijuGirlCaramelise, bungoStrayDogsWan2, linkClickS3, honzukiS4, detectiveConan, hyakkanoS3, mushokuTenseiIII, magilumiereS2, azurLaneNi, mao, dukesSon, gaikotsuKishiII];
 
 export function knownNumbering(parsed) {
   for (const rule of RULES) {
