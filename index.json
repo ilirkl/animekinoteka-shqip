@@ -1092,6 +1092,20 @@
       "assFile": "ass/at-691292.sq.ass",
       "offset": 0,
       "sourceReleaseId": "691292"
+    },
+    {
+      "id": "at-691347",
+      "title": "Liar Game",
+      "episode": "25",
+      "malId": 62331,
+      "anilistId": 197754,
+      "slugs": [
+        "liar-game-kcq5v"
+      ],
+      "file": "files/at-691347.sq.vtt",
+      "assFile": "ass/at-691347.sq.ass",
+      "offset": 0,
+      "sourceReleaseId": "691347"
     }
   ]
 }
