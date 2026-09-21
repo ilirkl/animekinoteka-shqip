@@ -1,0 +1,303 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+LayoutResX: 1280
+LayoutResY: 720
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Q0,Swis721 BT,48,&HC3F5F9,&HC3F5F9,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Q1,Arial,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Q2,Freehand471 BT,63,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Q3,Freehand471 BT,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Q4,Arial,33,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:13.33,0:00:17.00,Q0,,0,0,0,,Për shfaqjen time që vjen\Nku do të ndaj të njëjtën skenë me Inuon,
+Dialogue: 0,0:00:17.67,0:00:20.08,Q0,,0,0,0,,do të doja leje të vesh maskën time të parë.
+Dialogue: 0,0:00:20.33,0:00:21.88,Q0,,0,0,0,,Roli i tij i parë me maskë...
+Dialogue: 0,0:00:24.13,0:00:27.75,Q0,,0,0,0,,Maskat janë kulmi i lutjeve\Nqë kanë kaluar dorë më dorë.
+Dialogue: 0,0:00:27.75,0:00:31.04,Q0,,0,0,0,,Ato mishërojnë vetë lutjet\Ne paraardhësve tanë.
+Dialogue: 0,0:00:31.04,0:00:35.21,Q0,,0,0,0,,Skenat, kostumet, rekuizitat,\Ninstruktorët, nxënësit.
+Dialogue: 0,0:00:35.21,0:00:38.04,Q0,,0,0,0,,I gjithë Sarugaku ekziston për të kultivuar lule.
+Dialogue: 0,0:00:51.17,0:00:52.38,Q0,,0,0,0,,Oniyasha.
+Dialogue: 0,0:00:52.38,0:00:55.00,Q0,,0,0,0,,Jo, Saburo Motokiyo Kanze.
+Dialogue: 0,0:00:55.00,0:00:57.50,Q0,,0,0,0,,Me rastin e shfaqjes tënde\Nnë të njëjtën ditë me Inuon,
+Dialogue: 0,0:00:57.50,0:00:59.33,Q0,,0,0,0,,të jap leje të veshësh një maskë.
+Dialogue: 0,0:01:01.08,0:01:02.67,Q0,,0,0,0,,Jepu asaj.
+Dialogue: 0,0:01:02.67,0:01:04.96,Q0,,0,0,0,,Herët a vonë, një lule do të çelë.
+Dialogue: 0,0:01:04.96,0:01:07.71,Q0,,0,0,0,,Nuk duhet të jesh ti\Nai që arrin deri atje.
+Dialogue: 0,0:01:07.71,0:01:10.54,Q0,,0,0,0,,Mund të kesh kufij.
+Dialogue: 0,0:01:10.54,0:01:13.50,Q0,,0,0,0,,Por njerëzit janë pa kufij.
+Dialogue: 0,0:01:16.67,0:01:23.54,Q1,,0,0,0,,{\pos(844.8,57.6)}{\an7}Mars 1379
+Dialogue: 0,0:01:16.67,0:01:23.54,Q1,,0,0,0,,{\pos(793.6,93.6)}{\an7}Pallati i Luleve
+Dialogue: 0,0:01:17.38,0:01:19.96,Q0,,0,0,0,,Ndërtesa kryesore është mjaft e bukur.
+Dialogue: 0,0:01:19.96,0:01:23.54,Q0,,0,0,0,,Tashmë e shoh se do t'i shkojë\Nemrit "Pallati i Luleve".
+Dialogue: 0,0:01:23.88,0:01:26.29,Q0,,0,0,0,,Dhe festa do të ndodhë së shpejti!
+Dialogue: 0,0:01:26.29,0:01:29.63,Q0,,0,0,0,,Do të jetë kulmi i madhështisë,\Nplot me lule qershie!
+Dialogue: 0,0:01:43.08,0:01:44.17,Q0,,0,0,0,,Kan?
+Dialogue: 0,0:01:44.17,0:01:46.00,Q0,,0,0,0,,Ku po shkon?
+Dialogue: 0,0:01:47.08,0:01:50.50,Q0,,0,0,0,,Të vazhdosh në këtë rrugë\Ndo të të çojë vetëm në izolim.
+Dialogue: 0,0:02:06.21,0:02:09.33,Q0,,0,0,0,,Edhe kështu, po shkoj.
+Dialogue: 0,0:02:32.46,0:02:33.75,Q0,,0,0,0,,Touta.
+Dialogue: 0,0:02:33.75,0:02:36.08,Q0,,0,0,0,,Hajde, koha të përgatitemi tani.
+Dialogue: 0,0:02:39.63,0:02:40.71,Q0,,0,0,0,,Hijiri.
+Dialogue: 0,0:02:41.21,0:02:42.83,Q0,,0,0,0,,Do ta marr unë?
+Dialogue: 0,0:02:42.83,0:02:46.04,Q0,,0,0,0,,Jo, Zotëria Fuga është përgjegjësia ime.
+Dialogue: 0,0:02:47.29,0:02:49.58,Q0,,0,0,0,,Dëshironi t'i përdorni këmbët tuaja, zotëri?
+Dialogue: 0,0:02:50.13,0:02:53.96,Q0,,0,0,0,,Gjithmonë i shikonim ata\Nduke u shfaqur bashkë, apo jo?
+Dialogue: 0,0:02:53.96,0:02:55.42,Q0,,0,0,0,,Është e vërtetë.
+Dialogue: 0,0:02:56.83,0:02:58.17,Q0,,0,0,0,,Fëmijë!
+Dialogue: 0,0:02:58.42,0:03:00.21,Q0,,0,0,0,,Qetësi!
+Dialogue: 0,0:03:01.29,0:03:02.92,Q0,,0,0,0,,Ah! Shiko ku ecën!
+Dialogue: 0,0:03:03.29,0:03:04.46,Q0,,0,0,0,,E sheh!
+Dialogue: 0,0:03:04.46,0:03:05.46,Q0,,0,0,0,,Au!
+Dialogue: 0,0:03:05.46,0:03:06.88,Q0,,0,0,0,,Kërko ndjesë, Kisanta!
+Dialogue: 0,0:03:06.88,0:03:09.54,Q0,,0,0,0,,Uh, mbyllu dhe mos më prek!
+Dialogue: 0,0:03:09.54,0:03:10.79,Q0,,0,0,0,,Sa bezdisshëm.
+Dialogue: 0,0:03:15.83,0:03:19.33,Q0,,0,0,0,,Do të zgjohesh keq kur\Nnjerëzit të mos të përkëdhelin më, djalosh i vogël.
+Dialogue: 0,0:03:27.25,0:03:31.92,Q0,,0,0,0,,Kam pritur me padurim këtë,\NFujiwaka i dashur...
+Dialogue: 0,0:03:31.92,0:03:34.08,Q0,,0,0,0,,Ah, sa elegante.
+Dialogue: 0,0:03:34.38,0:03:35.71,Q0,,0,0,0,,Nijo.
+Dialogue: 0,0:03:35.71,0:03:36.71,Q0,,0,0,0,,Hm?
+Dialogue: 0,0:03:36.71,0:03:40.54,Q0,,0,0,0,,Nuk mund të të falënderoj mjaftueshëm për\Nmbështetjen bujare gjatë gjithë këtyre viteve.
+Dialogue: 0,0:03:40.79,0:03:41.79,Q0,,0,0,0,,Hm?
+Dialogue: 0,0:03:42.46,0:03:46.42,Q0,,0,0,0,,Kam mundur të shkoj në vende ku kurrë\Nnuk do të kisha arritur vetëm.
+Dialogue: 0,0:03:47.38,0:03:48.92,Q0,,0,0,0,,Fujiwaka?
+Dialogue: 0,0:03:49.25,0:03:51.83,Q0,,0,0,0,,A do ta shohim më në fund Inuon?!
+Dialogue: 0,0:03:52.29,0:03:54.21,Q0,,0,0,0,,Ka kaq shumë emocion.
+Dialogue: 0,0:03:54.21,0:03:55.79,Q0,,0,0,0,,Lulja më e lartë...
+Dialogue: 0,0:03:56.08,0:03:59.00,Q0,,0,0,0,,le ta shohim duke e bërë atë të çelë, Inuo.
+Dialogue: 0,0:04:04.13,0:04:07.04,Q0,,0,0,0,,Të qëndrosh në një skenë kaq madhështore...
+Dialogue: 0,0:04:11.58,0:04:13.42,Q0,,0,0,0,,më mbush me mirënjohje.
+Dialogue: 0,0:06:14.33,0:06:16.00,Q0,,0,0,0,,Inuo!
+Dialogue: 0,0:06:16.00,0:06:19.38,Q0,,0,0,0,,Inuo! Inuo! Inuo!
+Dialogue: 0,0:06:19.88,0:06:22.46,Q0,,0,0,0,,Prania e tij thjesht të tërheq vëmendjen.
+Dialogue: 0,0:06:22.46,0:06:24.50,Q0,,0,0,0,,Pothuajse e pabesueshme.
+Dialogue: 0,0:06:24.50,0:06:28.75,Q0,,0,0,0,,Turma po çmendet\Ndhe ka vetëm një njeri në skenë.
+Dialogue: 0,0:06:28.75,0:06:31.46,Q0,,0,0,0,,Inuo është ai.
+Dialogue: 0,0:06:32.54,0:06:35.13,Q0,,0,0,0,,Një lule më e fortë se çdo tjetër.
+Dialogue: 0,0:06:35.13,0:06:38.96,Q0,,0,0,0,,Ti je pikërisht ai\Nqë kam kërkuar.
+Dialogue: 0,0:06:47.46,0:06:53.29,Q0,,0,0,0,,Askush tjetër nuk duhet të jetë\Nnë skenë tani përveç meje.
+Dialogue: 0,0:07:00.42,0:07:02.79,Q0,,0,0,0,,Turma vazhdon të obsesionohet me Inuon.
+Dialogue: 0,0:07:02.79,0:07:04.71,Q0,,0,0,0,,Çfarë do të bëjë Oni?
+Dialogue: 0,0:07:04.71,0:07:07.79,Q0,,0,0,0,,Është e vështirë ta kalosh atë.
+Dialogue: 0,0:07:08.75,0:07:09.96,Q0,,0,0,0,,Hej, shiko.
+Dialogue: 0,0:07:19.38,0:07:20.67,Q0,,0,0,0,,Ishiya...
+Dialogue: 0,0:07:21.04,0:07:22.54,Q0,,0,0,0,,Mund ta bësh.
+Dialogue: 0,0:07:22.92,0:07:25.54,Q0,,0,0,0,,Pse koristët po qëndrojnë ende në këmbë?
+Dialogue: 0,0:07:25.54,0:07:28.58,Q0,,0,0,0,,A është një vajzë që po luan fyellin?
+Dialogue: 0,0:07:39.79,0:07:43.67,Q0,,0,0,0,,Faleminderit që erdhët sot, të gjithë.
+Dialogue: 0,0:07:44.96,0:07:50.25,Q0,,0,0,0,,Unë jetoj pranë portës së\NTempullit Ungo në Higashiyama.
+Dialogue: 0,0:07:50.25,0:07:58.25,Q0,,0,0,0,,Një predikues i njohur është ftuar\Ntë vizitojë dhe të mbledhë donacione për tempullin.
+Dialogue: 0,0:08:02.88,0:08:05.33,Q0,,0,0,0,,Sot është dita e tij e fundit.
+Dialogue: 0,0:08:05.33,0:08:08.96,Q0,,0,0,0,,Tani atëherë, le të nxitojmë ta nxjerrim atë.
+Dialogue: 0,0:08:21.75,0:08:22.96,Q0,,0,0,0,,Oh uau...
+Dialogue: 0,0:08:22.96,0:08:25.08,Q0,,0,0,0,,Herën e parë që vesh një maskë!
+Dialogue: 0,0:08:25.08,0:08:26.38,Q0,,0,0,0,,Oni!
+Dialogue: 0,0:08:26.38,0:08:30.42,Q0,,0,0,0,,Ai ka zgjedhur të shfaqë veprën më të çmuar\Ntë babait të tij Kanami!
+Dialogue: 0,0:08:30.42,0:08:34.46,Q0,,0,0,0,,Ju prezantoj predikuesin e\Nligjit të Budës, Jinen Koji!
+Dialogue: 0,0:08:36.29,0:08:41.21,Q0,,0,0,0,,Një diell mbrëmjeje i kuq të errët,\Ni mbuluar nga retë.
+Dialogue: 0,0:08:41.21,0:08:44.92,Q0,,0,0,0,,E kuqja zhduket në një çast,
+Dialogue: 0,0:08:42.54,0:08:49.42,Q1,,0,0,0,,{\pos(768,64.8)}{\an7}"Jinen-Koji"
+Dialogue: 0,0:08:44.92,0:08:49.42,Q0,,0,0,0,,dhe drita e hënës na ndriçon.
+Dialogue: 0,0:08:50.38,0:08:54.33,Q0,,0,0,0,,Tani, do ta mbaj predikimin.
+Dialogue: 0,0:08:55.33,0:08:57.83,Q0,,0,0,0,,Çfarë vizitore e vogël e këndshme.
+Dialogue: 0,0:08:58.58,0:09:01.92,Q0,,0,0,0,,Ky fëmijë ka një sutra\Ntë vajtimit me vete.
+Dialogue: 0,0:09:02.75,0:09:04.75,Q0,,0,0,0,,Eja fëmijë, nga këtu.
+Dialogue: 0,0:09:05.63,0:09:09.46,Q0,,0,0,0,,Dua që të gjithë të jeni pjesë e\Nshfaqjes sime në Pallatin e Luleve!
+Dialogue: 0,0:09:11.79,0:09:13.63,Q0,,0,0,0,,Uh, jeni serioz?
+Dialogue: 0,0:09:15.42,0:09:18.08,Q0,,0,0,0,,Por unë jam grua...
+Dialogue: 0,0:09:18.33,0:09:19.50,Q0,,0,0,0,,dhe Ishiya...
+Dialogue: 0,0:09:21.75,0:09:25.42,Q0,,0,0,0,,Dhe ky fëmijë nuk është pjesë e\NTrupës Kanze.
+Dialogue: 0,0:09:28.63,0:09:32.25,Q0,,0,0,0,,"Me këtë kimono që këmbeva,
+Dialogue: 0,0:09:33.46,0:09:38.83,Q0,,0,0,0,,dëshiroj t'i bëj një ofertë Budës."
+Dialogue: 0,0:09:40.50,0:09:44.25,Q0,,0,0,0,,Kjo vajzë e varfër dha aq pak sa kishte
+Dialogue: 0,0:09:44.25,0:09:49.25,Q0,,0,0,0,,për të përgatitur këtë kimono si ofertë,
+Dialogue: 0,0:09:49.25,0:09:53.25,Q0,,0,0,0,,jo për të kërkuar lutje për jetën e saj të përtejme,
+Dialogue: 0,0:09:53.25,0:09:58.96,Q0,,0,0,0,,por lutje për shpirtrat e\Nprindërve të saj të ndjerë?
+Dialogue: 0,0:10:00.04,0:10:03.04,Q0,,0,0,0,,Arti i shfaqjes është gjithmonë i papërfunduar.
+Dialogue: 0,0:10:03.50,0:10:06.42,Q0,,0,0,0,,Për të mbrojtur zanatin tonë\Ndhe për t'u siguruar që zgjat,
+Dialogue: 0,0:10:06.42,0:10:07.96,Q0,,0,0,0,,duhet të bëjmë ndryshime.
+Dialogue: 0,0:10:08.67,0:10:11.08,Q0,,0,0,0,,Prandaj dua që ju të më ndihmoni.
+Dialogue: 0,0:10:14.46,0:10:16.00,Q0,,0,0,0,,Ja ku është!
+Dialogue: 0,0:10:16.00,0:10:18.13,Q0,,0,0,0,,Vajza që blemë në kryeqytet!
+Dialogue: 0,0:10:18.13,0:10:21.21,Q0,,0,0,0,,Ku ka qenë gjithë këtë kohë?\NSilleni këtu.
+Dialogue: 0,0:10:22.04,0:10:23.46,Q0,,0,0,0,,Po merrem.
+Dialogue: 0,0:10:23.92,0:10:27.25,Q0,,0,0,0,,Do të lidh vallet e Trupës Kanze\Nme të ardhmen.
+Dialogue: 0,0:10:27.46,0:10:29.71,Q0,,0,0,0,,Ajo po vjen me ne!
+Dialogue: 0,0:10:30.67,0:10:31.58,Q0,,0,0,0,,Prit!
+Dialogue: 0,0:10:32.54,0:10:35.13,Q0,,0,0,0,,Ky fëmijë ishte i yni i pari!
+Dialogue: 0,0:10:35.13,0:10:39.88,Q0,,0,0,0,,Për ta bërë këtë,\Nduhet të provoj forma të ndryshme.
+Dialogue: 0,0:10:40.29,0:10:42.88,Q0,,0,0,0,,Dua ta ruaj Sarugakun.
+Dialogue: 0,0:10:42.88,0:10:46.75,Q0,,0,0,0,,Që të ekzistojë në një botë kaq larg\Nsa nuk mund ta shohim!
+Dialogue: 0,0:10:47.25,0:10:48.33,Q0,,0,0,0,,Chiharu.
+Dialogue: 0,0:10:48.67,0:10:51.13,Q0,,0,0,0,,Ehm... mirë, p-po...
+Dialogue: 0,0:10:51.13,0:10:52.17,Q0,,0,0,0,,Nuk mund të pres!
+Dialogue: 0,0:10:52.17,0:10:53.17,Q0,,0,0,0,,Çfarë?
+Dialogue: 0,0:10:53.17,0:10:54.83,Q0,,0,0,0,,Nuk mund të pres të jem në skenë.
+Dialogue: 0,0:10:54.83,0:10:56.00,Q0,,0,0,0,,Eh?
+Dialogue: 0,0:10:56.29,0:10:58.29,Q0,,0,0,0,,Oh... Zot!
+Dialogue: 0,0:10:58.29,0:11:00.96,Q0,,0,0,0,,Në rregull, do ta bëj! Mirë!
+Dialogue: 0,0:11:02.83,0:11:06.46,Q0,,0,0,0,,E kuptova që ajo vajzë duhet të ketë\Nndonjë vështirësi,
+Dialogue: 0,0:11:06.46,0:11:10.13,Q0,,0,0,0,,por të jesh në arrati nga trafikantët\Nështë më keq nga sa imagjinoja.
+Dialogue: 0,0:11:10.46,0:11:15.13,Q0,,0,0,0,,Ajo duhet të jetë këmbyer\Nnë shkëmbim të këtij kimonoja.
+Dialogue: 0,0:11:15.67,0:11:23.17,Q0,,0,0,0,,Ishte e gatshme të paguante çmimin më të lartë\Npër të ngushëlluar shpirtrat e prindërve të saj.
+Dialogue: 0,0:11:23.92,0:11:26.13,Q0,,0,0,0,,Të shkoj ta marr?
+Dialogue: 0,0:11:26.13,0:11:28.88,Q0,,0,0,0,,Unë do të shkoj.
+Dialogue: 0,0:11:28.88,0:11:33.96,Q0,,0,0,0,,Do të bëj çmos ta kthej në shtëpi.
+Dialogue: 0,0:11:33.96,0:11:38.42,Q0,,0,0,0,,Por kjo do të shkatërrojë predikimin tuaj.
+Dialogue: 0,0:11:38.92,0:11:41.13,Q0,,0,0,0,,Kjo është dita e fundit.
+Dialogue: 0,0:11:41.79,0:11:48.13,Q0,,0,0,0,,Edhe unë jam i gatshëm të bëj sakrifica\Npër të ecur përpara.
+Dialogue: 0,0:11:48.13,0:11:51.88,Q0,,0,0,0,,Nëse nuk mund të shpëtojnë një vajzë të re,
+Dialogue: 0,0:11:51.88,0:11:56.50,Q0,,0,0,0,,atëherë ligjet e Budës nuk janë për mua!
+Dialogue: 0,0:11:57.00,0:11:59.00,Q0,,0,0,0,,Bravo, Jinen Koji!
+Dialogue: 0,0:11:59.00,0:12:00.63,Q0,,0,0,0,,Shpëtoje fëmijën!
+Dialogue: 0,0:12:00.63,0:12:01.75,Q0,,0,0,0,,Nxito!
+Dialogue: 0,0:12:02.33,0:12:03.71,Q0,,0,0,0,,A po më duket?
+Dialogue: 0,0:12:03.71,0:12:06.33,Q0,,0,0,0,,Për çfarë bëhet fjalë?
+Dialogue: 0,0:12:06.33,0:12:07.83,Q0,,0,0,0,,A e vëren edhe ti?
+Dialogue: 0,0:12:07.83,0:12:08.75,Q0,,0,0,0,,Po.
+Dialogue: 0,0:12:09.58,0:12:11.71,Q0,,0,0,0,,Lëvizjet e tij janë të ngadalta.
+Dialogue: 0,0:12:12.33,0:12:14.13,Q0,,0,0,0,,Ato nuk janë të ngadalta.
+Dialogue: 0,0:12:14.79,0:12:16.25,Q0,,0,0,0,,Dëshiron ta shkurtosh atë?
+Dialogue: 0,0:12:16.25,0:12:19.17,Q0,,0,0,0,,Sarugaku nuk është ende i përfunduar.
+Dialogue: 0,0:12:19.17,0:12:21.38,Q0,,0,0,0,,Është ende në mes të ndërtimit.
+Dialogue: 0,0:12:22.25,0:12:26.04,Q0,,0,0,0,,Çfarë mund të mbetet dhe\Nçfarë mund të hiqet?
+Dialogue: 0,0:12:26.04,0:12:27.83,Q0,,0,0,0,,Këtë dua ta vë në provë.
+Dialogue: 0,0:12:27.83,0:12:31.54,Q0,,0,0,0,,Vallet tona, traditat tona,\Nmadje edhe veten time!
+Dialogue: 0,0:12:32.58,0:12:33.79,Q0,,0,0,0,,O Zot.
+Dialogue: 0,0:12:33.79,0:12:35.92,Q0,,0,0,0,,Ti dhe ai buzëqeshja jote bezdisëse...
+Dialogue: 0,0:12:38.63,0:12:45.71,Q0,,0,0,0,,Predikimi i sotëm ka mbaruar tani.
+Dialogue: 0,0:12:45.71,0:12:54.58,Q0,,0,0,0,,Dëshiroj të përhap ngrohtësi, qetësi,
+Dialogue: 0,0:12:54.58,0:13:02.00,Q0,,0,0,0,,dhe paqe për të gjitha krijesat e gjalla.
+Dialogue: 0,0:13:02.67,0:13:08.79,Q0,,0,0,0,,Për të gjithë ata që kanë humbur jetën,
+Dialogue: 0,0:13:08.79,0:13:15.46,Q0,,0,0,0,,lutet shpirtrat e tyre të prehen në paqe.
+Dialogue: 0,0:13:25.08,0:13:26.63,Q0,,0,0,0,,Çfarë po bëjnë?
+Dialogue: 0,0:13:26.63,0:13:28.08,Q0,,0,0,0,,Ata thjesht qëndrojnë aty!
+Dialogue: 0,0:13:28.08,0:13:30.67,Q0,,0,0,0,,Seriozisht, askush nuk lëviz kaq ngadalë.
+Dialogue: 0,0:13:31.13,0:13:34.25,Q0,,0,0,0,,Çfarë po ndodh, Jinen Koji?!
+Dialogue: 0,0:13:38.29,0:13:40.33,Q0,,0,0,0,,Çfarë ndryshimi i çuditshëm ritmi.
+Dialogue: 0,0:13:41.58,0:13:45.00,Q0,,0,0,0,,Kjo është si asgjë\Nqë kam parë më parë.
+Dialogue: 0,0:13:45.00,0:13:46.46,Q0,,0,0,0,,Thjesht e çuditshme.
+Dialogue: 0,0:13:46.46,0:13:48.46,Q0,,0,0,0,,Cili është qëllimi i gjithë kësaj?
+Dialogue: 0,0:13:50.08,0:13:51.92,Q0,,0,0,0,,Po buzëqesh.
+Dialogue: 0,0:13:52.92,0:13:56.25,Q0,,0,0,0,,Mendova se diçka ishte gabim.\NKe dhimbje rritjeje?
+Dialogue: 0,0:13:56.25,0:13:58.33,Q0,,0,0,0,,Ke lodhur trupin tënd.
+Dialogue: 0,0:13:58.33,0:13:59.96,Q0,,0,0,0,,Megjithatë mund të qëndroj në këmbë.
+Dialogue: 0,0:13:59.96,0:14:01.42,Q0,,0,0,0,,Duket se të dhemb...
+Dialogue: 0,0:14:01.42,0:14:02.75,Q0,,0,0,0,,Mos u detyro.
+Dialogue: 0,0:14:02.75,0:14:04.33,Q0,,0,0,0,,Nuk do të.
+Dialogue: 0,0:14:04.33,0:14:07.54,Q0,,0,0,0,,Kufijtë e trupit tim janë arsyeja\Npse jam i lirë të provoj qasje të re.
+Dialogue: 0,0:14:09.04,0:14:11.25,Q0,,0,0,0,,Gjërat nuk kanë nevojë të shkojnë si planifikuar,
+Dialogue: 0,0:14:11.25,0:14:13.29,Q0,,0,0,0,,për sa kohë të mund të shkurtojmë\Ndhe ta mbajmë vallën gjallë.
+Dialogue: 0,0:14:13.79,0:14:16.13,Q0,,0,0,0,,Edhe nëse është ritmi ose këndimi.
+Dialogue: 0,0:14:16.88,0:14:19.04,Q0,,0,0,0,,Ju lutem qëndroni me mua deri në fund.
+Dialogue: 0,0:14:19.33,0:14:20.54,Q0,,0,0,0,,Në rregull.
+Dialogue: 0,0:14:21.08,0:14:23.71,Q0,,0,0,0,,Askush atje nuk do të heqë dorë nga ti.
+Dialogue: 0,0:14:24.25,0:14:25.46,Q0,,0,0,0,,Hajde!
+Dialogue: 0,0:14:25.46,0:14:28.00,Q0,,0,0,0,,Rremë shpejt! Duhet të dalim nga këtu!
+Dialogue: 0,0:14:32.46,0:14:33.96,Q0,,0,0,0,,Më në fund erdhi!
+Dialogue: 0,0:14:33.96,0:14:35.13,Q0,,0,0,0,,Nxito!
+Dialogue: 0,0:14:35.13,0:14:36.67,Q0,,0,0,0,,Varka tashmë ka ikur!
+Dialogue: 0,0:14:36.67,0:14:38.17,Q0,,0,0,0,,Çfarë po bën?!
+Dialogue: 0,0:14:38.42,0:14:40.83,Q0,,0,0,0,,Një ditë, do të vdes.
+Dialogue: 0,0:14:41.71,0:14:46.33,Q0,,0,0,0,,Që do të thotë çdo stil valle\Nqë është unik për mua nuk do të vazhdohet.
+Dialogue: 0,0:14:47.13,0:14:50.50,Q0,,0,0,0,,Kështu unë heq fytyrën time, trupin tim,
+Dialogue: 0,0:14:50.50,0:14:52.50,Q0,,0,0,0,,dhe vetë ndjenjën e vetes.
+Dialogue: 0,0:14:53.54,0:14:55.38,Q0,,0,0,0,,Atëherë mund të vazhdojë.
+Dialogue: 0,0:14:55.88,0:14:59.71,Q0,,0,0,0,,Dhe do ta ndryshoj botën\Npërmes asaj lidhjeje.
+Dialogue: 0,0:15:00.21,0:15:02.83,Q0,,0,0,0,,Nuk mund ta bësh atë, në asnjë mënyrë.
+Dialogue: 0,0:15:04.25,0:15:07.42,Q0,,0,0,0,,Nuk mund të shpëtove asnjeri, apo jo?
+Dialogue: 0,0:15:07.42,0:15:10.63,Q0,,0,0,0,,Nuk mund ta ndryshosh botën, në asnjë mënyrë.
+Dialogue: 0,0:15:11.00,0:15:12.67,Q0,,0,0,0,,Unë mund ta ndryshoj botën.
+Dialogue: 0,0:15:12.67,0:15:14.75,Q0,,0,0,0,,Gjithmonë flet marrëzira.
+Dialogue: 0,0:15:14.75,0:15:16.17,Q0,,0,0,0,,Ah, hajde, Kogane!
+Dialogue: 0,0:15:19.42,0:15:22.13,Q0,,0,0,0,,E di se të pëlqejnë marrëzirat e mia!
+Dialogue: 0,0:15:25.54,0:15:26.88,Q0,,0,0,0,,Dukesh qesharak.
+Dialogue: 0,0:15:27.75,0:15:29.33,Q0,,0,0,0,,Hajde!
+Dialogue: 0,0:15:29.33,0:15:31.75,Q0,,0,0,0,,Do ta gjejmë atë lepurin që flet!
+Dialogue: 0,0:15:31.75,0:15:33.75,Q0,,0,0,0,,Ti je kaq budalla.
+Dialogue: 0,0:15:38.75,0:15:42.92,Q0,,0,0,0,,A mund të kem një çast?
+Dialogue: 0,0:15:42.92,0:15:46.29,Q0,,0,0,0,,Kjo varkë nuk është për pasagjerë, e dini?
+Dialogue: 0,0:15:46.29,0:15:49.75,Q0,,0,0,0,,Është një varkë me pedale njerëzore, apo jo?
+Dialogue: 0,0:15:49.75,0:15:52.13,Q0,,0,0,0,,Po përpiqesh të na prishësh\Nreputacionin apo diçka?!
+Dialogue: 0,0:15:52.13,0:15:55.46,Q0,,0,0,0,,Më keqkuptuat.
+Dialogue: 0,0:15:55.46,0:16:01.42,Q0,,0,0,0,,Thjesht po komentoja\Npërdorimin e rremave për të vozitur.
+Dialogue: 0,0:16:01.42,0:16:03.25,Q0,,0,0,0,,Ai po ngadalësohet përsëri?
+Dialogue: 0,0:16:03.75,0:16:06.54,Q0,,0,0,0,,Më ka mjaftuar! Po shkoj në shtëpi!
+Dialogue: 0,0:16:06.54,0:16:09.00,Q0,,0,0,0,,E vërtetë, ai është i ngadaltë...
+Dialogue: 0,0:16:10.17,0:16:12.96,Q0,,0,0,0,,Po përpiqeni të na fajësoni për diçka?
+Dialogue: 0,0:16:13.25,0:16:16.17,Q0,,0,0,0,,Jo, aspak.
+Dialogue: 0,0:16:17.04,0:16:23.79,Q0,,0,0,0,,Dua ta kthej këtë kimono.
+Dialogue: 0,0:16:24.04,0:16:26.67,Q0,,0,0,0,,Sa më shumë forcë të mbajë dikush,
+Dialogue: 0,0:16:26.67,0:16:29.17,Q0,,0,0,0,,aq më shumë ajo derdhet pa dashje.
+Dialogue: 0,0:16:33.33,0:16:35.04,Q0,,0,0,0,,Sa më modest...
+Dialogue: 0,0:16:38.75,0:16:40.75,Q0,,0,0,0,,aq më i fuqishëm.
+Dialogue: 0,0:16:41.58,0:16:42.83,Q0,,0,0,0,,Oniyasha.
+Dialogue: 0,0:16:43.42,0:16:47.13,Q0,,0,0,0,,I vetmi që mund\Ntë vallëzojë si Inuo është Inuo.
+Dialogue: 0,0:16:47.13,0:16:49.83,Q0,,0,0,0,,Pasi ai të ikë, ikën edhe valia e tij.
+Dialogue: 0,0:16:49.83,0:16:54.42,Q0,,0,0,0,,Megjithatë, Fujiwaka po përpiqet të vallëzojë\Nduke e krasitur veten nga ajo.
+Dialogue: 0,0:16:54.67,0:16:58.79,Q0,,0,0,0,,Kam kthyer kimono.
+Dialogue: 0,0:16:59.33,0:17:08.04,Q0,,0,0,0,,Dhe tani, ti do ta kthesh këtë vajzë\Naty ku i takon.
+Dialogue: 0,0:17:08.50,0:17:09.63,Q0,,0,0,0,,Kjo është mirë...
+Dialogue: 0,0:17:09.63,0:17:13.21,Q0,,0,0,0,,Ti hoqe dorë nga gjithçka\Npër këtë shfaqje.
+Dialogue: 0,0:17:13.21,0:17:14.96,Q0,,0,0,0,,Për Jinen Koji.
+Dialogue: 0,0:17:15.71,0:17:18.83,Q0,,0,0,0,,Dhe duke e bërë këtë, ajo që shfaqet...
+Dialogue: 0,0:17:18.83,0:17:20.46,Q0,,0,0,0,,është askush.
+Dialogue: 0,0:17:19.13,0:17:20.00,Q2,,0,0,0,,{\pos(588.8,86.4)}{\an7}NOH
+Dialogue: 0,0:17:26.04,0:17:28.42,Q0,,0,0,0,,Valia e tij do të vazhdojë.
+Dialogue: 0,0:17:28.42,0:17:32.33,Q0,,0,0,0,,E endur nëpër kohë ndërsa\Nzërat këndojnë dhe muzika luan.
+Dialogue: 0,0:17:32.33,0:17:36.33,Q0,,0,0,0,,Pastaj, diku në botë,\Nvalia fillon përsëri.
+Dialogue: 0,0:17:36.71,0:17:40.63,Q0,,0,0,0,,Një drejtim tjetër nga ne,\Npor ende e njëjta rrugë.
+Dialogue: 0,0:17:40.83,0:17:41.46,Q2,,0,0,0,,{\pos(563.2,86.4)}{\an7}MIRË
+Dialogue: 0,0:17:44.29,0:17:48.13,Q0,,0,0,0,,Ka ende më shumë në botë,\Nedhe përtej atij vendi?
+Dialogue: 0,0:17:49.17,0:17:51.83,Q0,,0,0,0,,Kam dëgjuar se je një kërcimtar i mirë.
+Dialogue: 0,0:17:51.83,0:17:54.42,Q0,,0,0,0,,Hajde, le të të shohim duke kërcyer!
+Dialogue: 0,0:17:54.67,0:18:01.04,Q0,,0,0,0,,Nuk di asnjë valle.
+Dialogue: 0,0:18:01.04,0:18:04.04,Q0,,0,0,0,,Nëse na impresionon,\Nmund ta çosh vajzën në shtëpi.
+Dialogue: 0,0:18:04.04,0:18:07.38,Q0,,0,0,0,,Nëse mund të kërcesh fare, domethënë.
+Dialogue: 0,0:18:08.88,0:18:10.88,Q0,,0,0,0,,Mund ta dëgjoj dhembjen.
+Dialogue: 0,0:18:13.67,0:18:20.79,Q0,,0,0,0,,Thjesht do të ndjek zërin\Nqë jehon thellë në trupin tim.
+Dialogue: 0,0:19:10.13,0:19:14.67,Q0,,0,0,0,,Ah, Fujiwaka im ka...
+Dialogue: 0,0:19:15.00,0:19:17.13,Q0,,0,0,0,,u bë era.
+Dialogue: 0,0:19:17.96,0:19:21.79,Q0,,0,0,0,,Ai po vallëzon, i mbështjellë nga bota.
+Dialogue: 0,0:19:45.50,0:19:50.00,Q0,,0,0,0,,Ku do të shkosh, Oniyasha i dashur?
+Dialogue: 0,0:19:54.25,0:19:57.75,Q0,,0,0,0,,A është kjo lulja jote?
+Dialogue: 0,0:19:58.33,0:20:02.17,Q0,,0,0,0,,Dreq. Ti thjesht duhej të më hidhje\Nkëtë marrëzi në fytyrë.
+Dialogue: 0,0:20:13.38,0:20:15.25,Q0,,0,0,0,,Epo, sinqerisht...
+Dialogue: 0,0:20:15.96,0:20:19.42,Q0,,0,0,0,,Më pëlqen më shumë vallja e Inuos, megjithatë.
+Dialogue: 0,0:20:19.42,0:20:20.63,Q0,,0,0,0,,Gah...
+Dialogue: 0,0:20:20.63,0:20:23.42,Q0,,0,0,0,,Vallja e tij është më e lehtë për t'u kuptuar.
+Dialogue: 0,0:20:24.54,0:20:27.67,Q0,,0,0,0,,E jotja është e vështirë për t'u kuptuar.
+Dialogue: 0,0:20:27.67,0:20:29.50,Q0,,0,0,0,,Madje i bën njerëzit të largohen.
+Dialogue: 0,0:20:29.50,0:20:31.50,Q0,,0,0,0,,Vërejtje e ashpër.
+Dialogue: 0,0:20:32.08,0:20:34.08,Q0,,0,0,0,,Por kjo pjesë është e rëndësishme.
+Dialogue: 0,0:20:34.58,0:20:36.88,Q0,,0,0,0,,Një valle duhet ta kapë audiencën,
+Dialogue: 0,0:20:36.88,0:20:39.13,Q0,,0,0,0,,t'i mbajë në vendet e tyre,
+Dialogue: 0,0:20:39.13,0:20:41.88,Q0,,0,0,0,,t'i pengojë të shpërqendrohen
+Dialogue: 0,0:20:41.88,0:20:44.08,Q0,,0,0,0,,ose edhe të ankohen.
+Dialogue: 0,0:20:44.46,0:20:48.38,Q0,,0,0,0,,A është ajo bota që dëshiron\Ntë krijosh, Yoshimitsu?
+Dialogue: 0,0:20:49.13,0:20:51.75,Q0,,0,0,0,,Lulja që dëshiron të çelësh?
+Dialogue: 0,0:20:53.63,0:20:55.83,Q0,,0,0,0,,Ndoshta është kjo.
+Dialogue: 0,0:20:59.04,0:21:01.67,Q0,,0,0,0,,Për çfarë po qesh, i vogli?
+Dialogue: 0,0:21:02.38,0:21:04.58,Q0,,0,0,0,,Ndjej të njëjtën gjë.
+Dialogue: 0,0:21:06.79,0:21:11.83,Q0,,0,0,0,,Duhet ta çojmë këtë lule\Nnë vende përtej këtu.
+Dialogue: 0,0:21:12.71,0:21:14.92,Q0,,0,0,0,,Që të arrijë te shumë njerëz.
+Dialogue: 0,0:21:20.17,0:21:22.92,Q0,,0,0,0,,Përhape gjithnjë e më shumë.
+Dialogue: 0,0:21:24.79,0:21:27.63,Q0,,0,0,0,,Sa më gjerë.
+Dialogue: 0,0:21:29.29,0:21:30.92,Q0,,0,0,0,,Duke e përcjellë,
+Dialogue: 0,0:21:31.96,0:21:33.67,Q0,,0,0,0,,pa e derdhur.
+Dialogue: 0,0:21:38.75,0:21:40.75,Q0,,0,0,0,,Mund ta bëjmë këtë lule të çelë...
+Dialogue: 0,0:21:42.75,0:21:44.75,Q0,,0,0,0,,kudo në botë!
+Dialogue: 0,0:21:55.33,0:21:59.71,Q0,,0,0,0,,Ti vërtet je një djalë i çuditshëm.
+Dialogue: 0,0:22:00.88,0:22:02.92,Q0,,0,0,0,,Tingëllon argëtuese!
+Dialogue: 0,0:22:02.92,0:22:05.79,Q3,,0,0,0,,{\pos(985.6,316.8)}{\an7}Fund
+Dialogue: 0,0:22:02.92,0:22:05.79,Q2,,0,0,0,,{\pos(563.2,540)}{\an7}Noh
+Dialogue: 0,0:23:35.96,0:23:40.83,Q4,,0,0,0,,{\pos(870.4,626.4)}{\an7}Kazuto Mihara / Kodansha
+
