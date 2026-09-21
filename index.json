@@ -1064,6 +1064,20 @@
       "assFile": "ass/at-691275.sq.ass",
       "offset": 0,
       "sourceReleaseId": "691275"
+    },
+    {
+      "id": "at-691264",
+      "title": "The Forsaken Saintess and Her Foodie Roadtrip in Another World",
+      "episode": "12",
+      "malId": 63752,
+      "anilistId": 209504,
+      "slugs": [
+        "the-forsaken-saintess-and-her-foodie-roadtrip-in-another-world-3cd1a"
+      ],
+      "file": "files/at-691264.sq.vtt",
+      "assFile": "ass/at-691264.sq.ass",
+      "offset": 0,
+      "sourceReleaseId": "691264"
     }
   ]
 }

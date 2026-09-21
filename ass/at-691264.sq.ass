@@ -1,0 +1,405 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+LayoutResX: 1280
+LayoutResY: 720
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Q0,Swis721 BT,48,&HC3F5F9,&HC3F5F9,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Q1,Tempus Sans ITC,33,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Q2,Calibri Light,48,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Q3,Calibri Light,33,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Q4,Calibri Light,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Q5,Calibri Light,33,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+Style: Q6,Calibri Light,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.58,0:00:04.46,Q0,,0,0,0,,Një dungeon i fshehtë, hë.
+Dialogue: 0,0:00:05.17,0:00:09.92,Q0,,0,0,0,,Misioni tjetër që po ndërmarrim për\NLartësinë e Tij është pushtimi i këtij dungeon?
+Dialogue: 0,0:00:10.38,0:00:11.96,Q0,,0,0,0,,Sipas Noah,
+Dialogue: 0,0:00:12.17,0:00:15.67,Q0,,0,0,0,,në thellësitë më të mëdha ndodhet një sferë që\Ndo ta bëjë Shenjtorezën më të fortë,
+Dialogue: 0,0:00:15.67,0:00:18.50,Q0,,0,0,0,,dhe me sa duket puna jonë është ta arrijmë e parët.
+Dialogue: 0,0:00:19.71,0:00:24.00,Q0,,0,0,0,,Dhe i vetmi që mund të pengojë\Nkthesën përfundimtare është dikush nga një botë tjetër.
+Dialogue: 0,0:00:24.63,0:00:28.88,Q0,,0,0,0,,Me fjalë të tjera, ose ti si anëtar\Ni klasës Outlander, ose Shenjtorja.
+Dialogue: 0,0:00:29.21,0:00:31.67,Q0,,0,0,0,,Tani, sa për natyrën e dungeonit...
+Dialogue: 0,0:00:32.00,0:00:33.38,Q0,,0,0,0,,Zbulimi përfundoi.
+Dialogue: 0,0:00:33.63,0:00:36.46,Q0,,0,0,0,,Është i madh. Ose ndoshta duhet të them, i thellë.
+Dialogue: 0,0:00:37.00,0:00:39.50,Q0,,0,0,0,,Gjithashtu, po kap disa vibra të çuditshme...
+Dialogue: 0,0:00:39.75,0:00:44.88,Q0,,0,0,0,,Pra edhe informacioni për këtë ishte i saktë. Bast se\Nna presin një mori përbindëshash.
+Dialogue: 0,0:00:45.42,0:00:46.04,Q0,,0,0,0,,Rin.
+Dialogue: 0,0:00:46.04,0:00:47.08,Q0,,0,0,0,,P-Po?
+Dialogue: 0,0:00:47.42,0:00:51.29,Q0,,0,0,0,,Nëse vëllai im e la vendimin\Npër ta pranuar këtë mision tek ty,
+Dialogue: 0,0:00:51.79,0:00:54.38,Q0,,0,0,0,,atëherë ndoshta është më i rrezikshmi deri tani.
+Dialogue: 0,0:00:55.13,0:00:57.79,Q0,,0,0,0,,Duke e ditur këtë, do të na shoqërosh gjithsesi?
+Dialogue: 0,0:00:58.88,0:01:03.13,Q0,,0,0,0,,Gjithashtu, në lojë, është dungeoni\Nku Vil dhe miqtë e tij humbin jetën.
+Dialogue: 0,0:01:03.67,0:01:07.21,Q0,,0,0,0,,E vërteta është se ata katër nuk janë\Ndashuri apo diçka e tillë.
+Dialogue: 0,0:01:07.21,0:01:11.17,Q0,,0,0,0,,Ata nuk janë gjë tjetër veç NPC pa emra\Nqë janë krijuar për t'u dhënë jetë ngjarjeve të Shenjtores.
+Dialogue: 0,0:01:12.83,0:01:14.63,Q0,,0,0,0,,Kjo shkon pa thënë!
+Dialogue: 0,0:01:14.92,0:01:17.58,Q0,,0,0,0,,Jam anëtare e Smorgasbord, njësoj si ju!
+Dialogue: 0,0:01:17.71,0:01:21.29,Q0,,0,0,0,,Nëse aftësia ime Campy mund të ndihmojë,\Ndo ta përdor derisa të më bien rrotat!
+Dialogue: 0,0:01:21.58,0:01:22.88,Q0,,0,0,0,,Kjo është qëndrimi i duhur!
+Dialogue: 0,0:01:22.88,0:01:24.13,Q0,,0,0,0,,Të lexoj të qartë!
+Dialogue: 0,0:01:24.42,0:01:26.83,Q0,,0,0,0,,Atëherë nuk do të hezitojmë të mbështetemi tek ti.
+Dialogue: 0,0:01:27.25,0:01:30.71,Q0,,0,0,0,,Pa bërë asgjë tepër të rrezikshme, sigurisht!
+Dialogue: 0,0:01:30.71,0:01:32.13,Q0,,0,0,0,,Do të të mbajmë të sigurt.
+Dialogue: 0,0:01:32.50,0:01:35.33,Q0,,0,0,0,,Edhe ne! Goditi me pssht-pssht!
+Dialogue: 0,0:01:35.33,0:01:37.92,Q0,,0,0,0,,Pssht! Pssht-pssht-pssht! Pssht!
+Dialogue: 0,0:01:37.92,0:01:39.58,Q0,,0,0,0,,Silleni, lojë otome!
+Dialogue: 0,0:01:43.75,0:01:45.17,Q0,,0,0,0,,Për hir të miqve të mi...
+Dialogue: 0,0:01:45.38,0:01:47.17,Q0,,0,0,0,,do të digjesh në flakë!
+Dialogue: 0,0:01:53.00,0:01:57.92,Q1,,0,0,0,,{\pos(102.4,619.2)}{\an7}Episodi 12: Otsu-curry-sama! Por Aventura Vazhdon, Pa Pushim!
+Dialogue: 0,0:01:53.08,0:01:54.54,Q0,,0,0,0,,Ky është një dungeon?
+Dialogue: 0,0:01:54.83,0:01:57.50,Q0,,0,0,0,,Por nuk ka dyer apo korridore...
+Dialogue: 0,0:01:58.38,0:01:59.96,Q0,,0,0,0,,Dungeonet vijnë në të gjitha format.
+Dialogue: 0,0:02:00.25,0:02:04.38,Q0,,0,0,0,,Përveç tipit labirint, herë pas here\Nhasim një tip arratisjeje si ky.
+Dialogue: 0,0:02:05.21,0:02:08.92,Q0,,0,0,0,,Dhe nëse ndjek modelin e zakonshëm, duhet të\Nzgjidhim enigma, çaktivizojmë kurthe,
+Dialogue: 0,0:02:08.92,0:02:09.67,Q0,,0,0,0,,Erdhën!
+Dialogue: 0,0:02:09.67,0:02:15.29,Q0,,0,0,0,,ose të mposhtim të gjithë armiqtë në mënyrë që\Ntë shfaqet hyrja për në katin tjetër.
+Dialogue: 0,0:02:17.83,0:02:20.13,Q0,,0,0,0,,Ato i njoh! Janë fantazi klasike—
+Dialogue: 0,0:02:20.13,0:02:22.79,Q2,,0,0,0,,{\pos(345.6,187.2)}{\an7}Mandragora  E rritur           E ngrënshme
+Dialogue: 0,0:02:20.13,0:02:22.79,Q3,,0,0,0,,{\pos(294.4,302.4)}{\an7}Bimë magjike të përdorura si materiale alkimike ose për qëllime
+Dialogue: 0,0:02:20.13,0:02:22.79,Q3,,0,0,0,,{\pos(320,352.8)}{\an7}mjekësore. Të rejat varrosen në tokë dhe nxjerrin një
+Dialogue: 0,0:02:20.13,0:02:22.79,Q3,,0,0,0,,{\pos(320,403.2)}{\an7}klithmë të mprehtë kur shkulen. Të rriturat bredhin lirshëm mbi
+Dialogue: 0,0:02:20.13,0:02:22.79,Q3,,0,0,0,,{\pos(320,453.6)}{\an7}sipërfaqe. Kur dëmtohen, nxjerrin një klithmë të tmerrshme
+Dialogue: 0,0:02:20.13,0:02:22.79,Q3,,0,0,0,,{\pos(358.4,504)}{\an7}që i rrëzon pa ndjenja ata që e dëgjojnë.
+Dialogue: 0,0:02:20.75,0:02:22.79,Q0,,0,0,0,,Të rriturat?! Mund të ecin rreth e qark?!
+Dialogue: 0,0:02:22.92,0:02:24.54,Q0,,0,0,0,,Oh shiko, një grup mirëseardhjeje.
+Dialogue: 0,0:02:24.54,0:02:27.46,Q0,,0,0,0,,Por nëse e vret, do të bërtasë shumë me zë të lartë dhe—
+Dialogue: 0,0:02:28.17,0:02:28.92,Q0,,0,0,0,,Hë?
+Dialogue: 0,0:02:29.13,0:02:34.08,Q0,,0,0,0,,Një barrierë e thjeshtë kundër zërit. Lë gjithçka\Ntë kalojë përveç klithmave të mandragorës.
+Dialogue: 0,0:02:34.58,0:02:36.00,Q0,,0,0,0,,Punë e mirë, Xenon.
+Dialogue: 0,0:02:40.58,0:02:43.00,Q0,,0,0,0,,Mirë. Le ta mbyllim shpejt!
+Dialogue: 0,0:02:43.21,0:02:44.79,Q0,,0,0,0,,Qëndro e fshehur, Rin-chan.
+Dialogue: 0,0:02:44.79,0:02:45.71,Q0,,0,0,0,,N-Në rregull!
+Dialogue: 0,0:02:50.92,0:02:52.50,Q0,,0,0,0,,Uau, kaq shumë...
+Dialogue: 0,0:02:52.50,0:02:54.21,Q0,,0,0,0,,A jeni të gjithë mirë?
+Dialogue: 0,0:02:54.21,0:02:55.33,Q0,,0,0,0,,Copë torte.
+Dialogue: 0,0:02:55.33,0:02:58.00,Q0,,0,0,0,,Kishte shumë, por ishin të dobët.
+Dialogue: 0,0:02:58.46,0:03:00.79,Q0,,0,0,0,,Rin. A mund t'i hamë këto?
+Dialogue: 0,0:03:01.21,0:03:06.08,Q0,,0,0,0,,Uh... teknikisht po, por nuk\Nmendoj se do të kenë shije shumë të mirë.
+Dialogue: 0,0:03:06.63,0:03:07.58,Q0,,0,0,0,,Sa keq.
+Dialogue: 0,0:03:07.58,0:03:11.67,Q0,,0,0,0,,Për sa kohë ti i bëje,\Nas perimet nuk ishin aq keq...
+Dialogue: 0,0:03:12.29,0:03:16.38,Q0,,0,0,0,,Gjithë ai luftim për një drop pa shije\Nduhet të jetë zhgënjyese.
+Dialogue: 0,0:03:16.38,0:03:17.63,Q0,,0,0,0,,Më vjen keq për të...
+Dialogue: 0,0:03:18.33,0:03:19.50,Q0,,0,0,0,,Vijnë të tjera.
+Dialogue: 0,0:03:19.96,0:03:20.96,Q0,,0,0,0,,Erdhën!
+Dialogue: 0,0:03:21.92,0:03:24.50,Q0,,0,0,0,,Kaq shpejt. Sapo mposhtëm të tjerët.
+Dialogue: 0,0:03:24.75,0:03:26.88,Q0,,0,0,0,,Aria, ku është hyrja për në katin tjetër?
+Dialogue: 0,0:03:27.13,0:03:29.17,Q0,,0,0,0,,Nuk do ta di pa kërkuar.
+Dialogue: 0,0:03:29.42,0:03:30.92,Q0,,0,0,0,,Në rregull, po ta lëmë ty.
+Dialogue: 0,0:03:31.42,0:03:32.88,Q0,,0,0,0,,Nuk do t'i prekësh gishtin e dashurit tim Aria!
+Dialogue: 0,0:03:32.88,0:03:33.83,Q0,,0,0,0,,Eja kundër meje, të sfidoj!
+Dialogue: 0,0:03:41.25,0:03:43.71,Q0,,0,0,0,,Prit një çast, po sikur të jetë në fakt një nga ato?
+Dialogue: 0,0:03:43.83,0:03:48.63,Q0,,0,0,0,,Ky dungeon i fshehtë... Po sikur të bëjë më shumë\Nsesa thjesht të shpërthejë një mori përbindëshash?
+Dialogue: 0,0:03:49.17,0:03:50.96,Q0,,0,0,0,,Po sikur t'i shpërthejë pa fund?
+Dialogue: 0,0:03:50.96,0:03:51.92,Q0,,0,0,0,,Kokurr!
+Dialogue: 0,0:03:52.42,0:03:54.04,Q0,,0,0,0,,Për momentin janë në rregull,
+Dialogue: 0,0:03:54.42,0:03:58.29,Q0,,0,0,0,,por nëse vazhdojnë të lodhen kështu,\Natëherë kur të arrijnë në katin më të ulët...
+Dialogue: 0,0:03:59.08,0:04:03.29,Q0,,0,0,0,,Gjithashtu, në lojë, është dungeoni ku Vil dhe\Nmiqtë e tij humbin jetën.
+Dialogue: 0,0:04:16.67,0:04:17.58,Q0,,0,0,0,,Këtu.
+Dialogue: 0,0:04:19.92,0:04:22.46,Q0,,0,0,0,,Gjeta hyrjen. Aty.
+Dialogue: 0,0:04:22.92,0:04:23.71,Q0,,0,0,0,,Uh!
+Dialogue: 0,0:04:23.71,0:04:25.25,Q0,,0,0,0,,Në rregull, le të lëvizim—
+Dialogue: 0,0:04:26.08,0:04:28.58,Q0,,0,0,0,,Çfarë?! Nuk ishte shumë e shpejtë kjo?!
+Dialogue: 0,0:04:28.58,0:04:31.00,Q0,,0,0,0,,Një pushim i shkurtër do ishte mirë...
+Dialogue: 0,0:04:34.04,0:04:35.04,Q0,,0,0,0,,Hajde, ekip!
+Dialogue: 0,0:04:35.50,0:04:37.25,Q0,,0,0,0,,Po e kalojmë shkurt! Hipni brenda!
+Dialogue: 0,0:04:38.92,0:04:39.88,Q0,,0,0,0,,Faleminderit, Rin.
+Dialogue: 0,0:04:39.88,0:04:42.04,Q0,,0,0,0,,Në rregull, të gjithë mbahuni fort!
+Dialogue: 0,0:04:42.21,0:04:45.79,Q0,,0,0,0,,Më mirë lidhni rripat, sepse jetojmë\Njetën tonë çerek milje përnjëherë!
+Dialogue: 0,0:04:46.21,0:04:50.38,Q0,,0,0,0,,Nuk ka rëndësi nëse ky dungeon është po aq i egër\Ndhe ndëshkues sa ai në lojë.
+Dialogue: 0,0:04:50.96,0:04:54.92,Q0,,0,0,0,,Sido që të jetë, nuk do të lejoj as edhe një\Nnga miqtë e mi të dashur të vdesë!
+Dialogue: 0,0:04:56.46,0:05:00.92,Q0,,0,0,0,,Shaka! Dola pak nga roli me\Natë seriozitetin për një çast!
+Dialogue: 0,0:05:01.29,0:05:02.83,Q0,,0,0,0,,Më falni për pritjen!
+Dialogue: 0,0:05:02.83,0:05:07.17,Q0,,0,0,0,,Ja ku është oyakodon me zog mjegulle dhe\Nsupë miso me derr pylli dhe perime!
+Dialogue: 0,0:05:07.54,0:05:08.67,Q0,,0,0,0,,Uuu!
+Dialogue: 0,0:05:08.79,0:05:11.79,Q0,,0,0,0,,Vezët janë kremoze dhe me ngjyrë vërtet të bukur!
+Dialogue: 0,0:05:12.08,0:05:14.21,Q0,,0,0,0,,Po shkëlqejnë! Madje rrezatojnë!
+Dialogue: 0,0:05:14.21,0:05:16.96,Q0,,0,0,0,,Dhe supa është plot mish dhe perime!
+Dialogue: 0,0:05:16.96,0:05:19.75,Q0,,0,0,0,,Do të thosha ka më shumë shtesa\Nsesa supë.
+Dialogue: 0,0:05:19.75,0:05:21.04,Q0,,0,0,0,,Hajdeni, filloni—
+Dialogue: 0,0:05:21.04,0:05:23.13,Q0,,0,0,0,,Hej! Po ushqimi ynë?
+Dialogue: 0,0:05:23.13,0:05:24.33,Q0,,0,0,0,,Ups, harrova.
+Dialogue: 0,0:05:24.79,0:05:26.08,Q0,,0,0,0,,Faji im, Gomamiso.
+Dialogue: 0,0:05:26.33,0:05:28.79,Q0,,0,0,0,,Jo, në asnjë mënyrë! Nuk je i shfajësuar ende!
+Dialogue: 0,0:05:28.79,0:05:31.71,Q0,,0,0,0,,Kemi standarde!\NNa detyrohesh një kërkim falje të jetës!
+Dialogue: 0,0:05:31.92,0:05:33.58,Q0,,0,0,0,,Thashë se më fal!
+Dialogue: 0,0:05:33.88,0:05:38.21,Q0,,0,0,0,,"Oyako", ose "prind dhe fëmijë".\NE përshtatshme për një pjatë me mish dhe vezë zogu mjegulle.
+Dialogue: 0,0:05:40.67,0:05:44.13,Q0,,0,0,0,,Vezët janë të buta, të lëmuara dhe të mëndafshta...
+Dialogue: 0,0:05:44.13,0:05:45.67,Q0,,0,0,0,,Mund t'i pi!
+Dialogue: 0,0:05:46.50,0:05:49.13,Q0,,0,0,0,,Dhe kanë një shije kaq të pasur!
+Dialogue: 0,0:05:49.13,0:05:53.13,Q0,,0,0,0,,Balancojnë mishin e lehtë të kalitur,\Nduke e bërë freskuese dhe të lehtë për t'u ngrënë.
+Dialogue: 0,0:05:54.50,0:05:59.83,Q0,,0,0,0,,Supa ka një shije delikate! Dhe orizi thithi\Nsupën, ndaj është i butë e i shijshëm gjithashtu!
+Dialogue: 0,0:06:01.63,0:06:05.33,Q0,,0,0,0,,Perimet e trasha po plasin\Nnga shija! Është e mrekullueshme!
+Dialogue: 0,0:06:05.33,0:06:10.42,Q0,,0,0,0,,Misoja përputhet në mënyrë të përsosur me derrin e pyllit!\NËshtë e pasur, por jo tepër!
+Dialogue: 0,0:06:10.83,0:06:14.79,Q0,,0,0,0,,Ndjehuni të lirë të shtoni pak djegësi duke spërkatur\Nkëtë përzierje erëzash shichimi sipër!
+Dialogue: 0,0:06:14.79,0:06:16.96,Q0,,0,0,0,,I jep një shije krejt të re!
+Dialogue: 0,0:06:20.38,0:06:24.67,Q0,,0,0,0,,Hedhja e kësaj "shichimi" sipër e përmirëson\Nshijen në mënyrën më të shijshme!
+Dialogue: 0,0:06:31.13,0:06:32.42,Q0,,0,0,0,,Nuk e di për ty...
+Dialogue: 0,0:06:32.42,0:06:34.63,Q0,,0,0,0,,por unë do të thosha se ky dungeon është djallëzor.
+Dialogue: 0,0:06:34.79,0:06:39.63,Q0,,0,0,0,,Po, pa dyshim. Përbindësha pa fund?\NMë jep një pushim!
+Dialogue: 0,0:06:39.96,0:06:45.33,Q0,,0,0,0,,Ishin të gjithë të dobët, por të detyrohesh\Nt'i luftosh në cikël nuk ishte bëmë e lehtë.
+Dialogue: 0,0:06:45.71,0:06:51.63,Q0,,0,0,0,,Shumë prej përbindëshave ishin edhe aberacione.\NPothuajse mbaroi mana për shkak të kësaj.
+Dialogue: 0,0:06:51.92,0:06:53.83,Q0,,0,0,0,,Gjithçka këtu është e tmerrshme.
+Dialogue: 0,0:06:54.58,0:07:00.04,Q0,,0,0,0,,Nuk është çudi që vëllai im e konsideroi këtë dungeon\Nproblem. Isha pak shumë optimist...
+Dialogue: 0,0:07:00.46,0:07:05.50,Q0,,0,0,0,,Të gërryejë qëndrueshmërinë, vullnetin,\Ndhe burimet tona derisa të thyhemi në mes...
+Dialogue: 0,0:07:05.88,0:07:08.00,Q0,,0,0,0,,Vetëm mendimi i kësaj është i tmerrshëm.
+Dialogue: 0,0:07:09.29,0:07:11.92,Q0,,0,0,0,,Llogarisnim në dropet e sendeve\Npër të rimbushur furnizimet,
+Dialogue: 0,0:07:11.92,0:07:14.42,Q0,,0,0,0,,por nuk patëm as kohë t'i mblidhnim.
+Dialogue: 0,0:07:15.50,0:07:16.63,Q0,,0,0,0,,Kjo nuk është mirë...
+Dialogue: 0,0:07:18.88,0:07:19.96,Q0,,0,0,0,,Megjithatë...
+Dialogue: 0,0:07:21.21,0:07:26.25,Q0,,0,0,0,,Nuk e di sa herë e kam thënë tani,\Npor aftësia jote është vërtet e veçantë, Rin.
+Dialogue: 0,0:07:27.46,0:07:28.96,Q0,,0,0,0,,Sigurisht që është!
+Dialogue: 0,0:07:29.21,0:07:32.79,Q0,,0,0,0,,Fakti që mund të çlodhemi dhe\Ntë rimbushemi me qetësi pikërisht para këtyre përbindëshave
+Dialogue: 0,0:07:32.79,0:07:35.08,Q0,,0,0,0,,dhe ata as nuk e kuptojnë se jemi këtu?
+Dialogue: 0,0:07:35.54,0:07:38.75,Q0,,0,0,0,,Në një farë mënyre, aftësia jote është edhe\Nmë djallëzore se dungeoni!
+Dialogue: 0,0:07:38.88,0:07:42.88,Q0,,0,0,0,,Rin, aftësia jote? Campy? Është e mahnitshme! E dua!
+Dialogue: 0,0:07:42.88,0:07:44.46,Q0,,0,0,0,,Mallkuar qofsh, Rin-chan!
+Dialogue: 0,0:07:44.88,0:07:46.13,Q0,,0,0,0,,Por këtë herë do ta lejoj.
+Dialogue: 0,0:07:47.13,0:07:50.58,Q0,,0,0,0,,Edhe ne! Edhe ne jemi të mahnitshëm,\Nndaj mos hezito të na përqafosh!
+Dialogue: 0,0:07:50.88,0:07:55.50,Q0,,0,0,0,,Oh, hajde, Rin... Ku shkoi\Nai qëndrimi pa marrëzi nga më parë?
+Dialogue: 0,0:07:56.21,0:07:58.17,Q0,,0,0,0,,Nuk mund të humbas atë që nuk kam.
+Dialogue: 0,0:08:00.71,0:08:02.50,Q0,,0,0,0,,Në rregull, le të rifillojmë misionin!
+Dialogue: 0,0:08:02.50,0:08:04.17,Q0,,0,0,0,,Qëndroni vigjilentë atje, ekip!
+Dialogue: 0,0:08:04.17,0:08:05.33,Q0,,0,0,0,,Urdhri!
+Dialogue: 0,0:08:21.88,0:08:23.13,Q0,,0,0,0,,M-Më fal...
+Dialogue: 0,0:08:23.13,0:08:27.17,Q0,,0,0,0,,Ngadalësova totalisht në zonat\Nqë ishin shumë të ngushta për të thirrur Campy...
+Dialogue: 0,0:08:28.08,0:08:31.46,Q0,,0,0,0,,Mos u shqetëso. Bëre mjaft për të na ndihmuar.
+Dialogue: 0,0:08:31.75,0:08:35.79,Q0,,0,0,0,,Ka të drejtë! Falë teje, arritëm\Nderi këtu pa as edhe një gërvishtje!
+Dialogue: 0,0:08:40.63,0:08:42.79,Q0,,0,0,0,,Vibrat ndjehen ndryshe papritur...
+Dialogue: 0,0:08:43.21,0:08:44.00,Q0,,0,0,0,,Po.
+Dialogue: 0,0:08:44.63,0:08:47.83,Q0,,0,0,0,,Dyshoj se kjo është pjesa më e thellë e dungeonit.
+Dialogue: 0,0:08:56.00,0:08:58.00,Q0,,0,0,0,,Duket se forca brutale nuk do të funksionojë.
+Dialogue: 0,0:09:03.46,0:09:05.46,Q0,,0,0,0,,Mana gjithashtu nuk mund të depërtojë.
+Dialogue: 0,0:09:06.04,0:09:07.33,Q0,,0,0,0,,Me fjalë të tjera...
+Dialogue: 0,0:09:07.33,0:09:11.21,Q0,,0,0,0,,ka të ngjarë të jetë një mekanizëm që mund të çaktivizohet\Nvetëm nga dikush nga një botë tjetër.
+Dialogue: 0,0:09:15.88,0:09:17.04,Q0,,0,0,0,,Do t'i jap një provë.
+Dialogue: 0,0:09:23.79,0:09:25.29,Q0,,0,0,0,,Uau!
+Dialogue: 0,0:09:34.17,0:09:36.50,Q0,,0,0,0,,Uau, është i madh!
+Dialogue: 0,0:09:37.00,0:09:40.13,Q0,,0,0,0,,Nuk po zbuloj asnjë kurth apo pajisje këtu.
+Dialogue: 0,0:09:40.13,0:09:46.00,Q0,,0,0,0,,Sipas informacionit, duhet të ketë\Nnjë përbindësh që ruan sferën... por është bosh.
+Dialogue: 0,0:09:46.50,0:09:47.38,Q0,,0,0,0,,Që do të thotë...
+Dialogue: 0,0:09:48.21,0:09:50.83,Q0,,0,0,0,,me gjasë duhet të dyshojmë për këtë altar.
+Dialogue: 0,0:09:51.17,0:09:54.29,Q0,,0,0,0,,Shiko. A nuk duket sikur\Ndiçka është djegur këtu?
+Dialogue: 0,0:09:54.58,0:09:55.38,Q0,,0,0,0,,Vërtet...
+Dialogue: 0,0:09:55.38,0:09:58.25,Q0,,0,0,0,,Funksionon ndryshe për zotin që adhuroj,
+Dialogue: 0,0:09:58.42,0:10:03.38,Q0,,0,0,0,,por dikur ishte zakon të digjesh oferta\Nsakrifikuese dhe t'i kushtoje hyjnive.
+Dialogue: 0,0:10:03.79,0:10:04.71,Q0,,0,0,0,,Prit.
+Dialogue: 0,0:10:05.71,0:10:07.00,Q0,,0,0,0,,Hidhi një sy kësaj.
+Dialogue: 0,0:10:07.00,0:10:09.33,Q0,,0,0,0,,Një dizajn? Ose një lloj shkrimi?
+Dialogue: 0,0:10:09.71,0:10:12.46,Q0,,0,0,0,,Gjuhë arkaike që thotë, "Ofro një dhuratë."
+Dialogue: 0,0:10:12.92,0:10:15.71,Q0,,0,0,0,,Dhuratë? Çfarë do të thotë saktësisht?
+Dialogue: 0,0:10:16.04,0:10:18.63,Q0,,0,0,0,,Besoj se zakonisht është një dele ose lopë.
+Dialogue: 0,0:10:19.00,0:10:19.96,Q0,,0,0,0,,Mish?!
+Dialogue: 0,0:10:19.96,0:10:22.25,Q0,,0,0,0,,Rin-chan, a të ka mbetur ndonjë mish?
+Dialogue: 0,0:10:22.25,0:10:26.04,Q0,,0,0,0,,Më falni, të gjithë. Pothuajse i mbaruam\Ntë gjitha gjatë rrugës këtu.
+Dialogue: 0,0:10:26.33,0:10:29.29,Q0,,0,0,0,,Kam furnizim pa fund orizi dhe mielli, por...
+Dialogue: 0,0:10:35.83,0:10:37.46,Q0,,0,0,0,,Qëndro mbrapa, Rin.
+Dialogue: 0,0:10:43.67,0:10:45.25,Q0,,0,0,0,,Asgjë nuk po ndodh...
+Dialogue: 0,0:10:45.25,0:10:48.58,Q0,,0,0,0,,Isha i sigurt se do të\Nthirrte bosin e dungeonit këtu.
+Dialogue: 0,0:10:48.75,0:10:51.08,Q0,,0,0,0,,Ndoshta shkojmë tek ai në vend të kësaj?
+Dialogue: 0,0:10:51.46,0:10:53.13,Q0,,0,0,0,,Mirë, le t'i sulmojmë!
+Dialogue: 0,0:10:53.46,0:10:59.04,Q0,,0,0,0,,Epo, Noah tha se rruga do të\Nhapej pasi të mposhtnim bosin e dungeonit.
+Dialogue: 0,0:10:59.25,0:11:05.25,Q0,,0,0,0,,Po... Pra në thelb, thjesht duhet të dalim\Nfitimtarë si gjithmonë.
+Dialogue: 0,0:11:05.54,0:11:07.67,Q0,,0,0,0,,Atëherë, ta rrahim sa të bëhet pulë?
+Dialogue: 0,0:11:07.75,0:11:10.25,Q0,,0,0,0,,Kjo është ajo që bën Smorgasbord!
+Dialogue: 0,0:11:10.25,0:11:12.50,Q0,,0,0,0,,Ne hidhemi me kokë!
+Dialogue: 0,0:11:12.71,0:11:15.29,Q0,,0,0,0,,Forca mbi mendjen është një ndryshim i këndshëm!
+Dialogue: 0,0:11:15.29,0:11:18.04,Q0,,0,0,0,,Prapëseprapë, kjo është thjesht ajo që ata janë!
+Dialogue: 0,0:11:18.04,0:11:19.33,Q0,,0,0,0,,Po ti, Rin?
+Dialogue: 0,0:11:20.54,0:11:22.29,Q0,,0,0,0,,...Nuk ka kuptim të pyes.
+Dialogue: 0,0:11:22.29,0:11:24.33,Q0,,0,0,0,,Po vjen me ne, apo jo?
+Dialogue: 0,0:11:24.33,0:11:26.96,Q0,,0,0,0,,Sigurisht! Mos më lër jashtë kësaj.
+Dialogue: 0,0:11:26.96,0:11:28.75,Q0,,0,0,0,,Dua të jem atje gjithashtu!
+Dialogue: 0,0:11:28.96,0:11:31.04,Q0,,0,0,0,,Bashkë me Rin. Sigurisht.
+Dialogue: 0,0:11:32.17,0:11:38.17,Q0,,0,0,0,,Të mos dish çfarë të pret është një ndjenjë e çuditshme.\NËshtë shqetësuese dhe emocionuese në të njëjtën kohë.
+Dialogue: 0,0:11:38.54,0:11:39.75,Q0,,0,0,0,,E di, apo jo?
+Dialogue: 0,0:11:39.75,0:11:43.79,Q0,,0,0,0,,Ai çasti kur je gati të shkosh diku të re?\NTë bën zemrën të rrahë shpejt!
+Dialogue: 0,0:11:44.17,0:11:46.58,Q0,,0,0,0,,Për këtë është të jesh aventurier!
+Dialogue: 0,0:11:47.04,0:11:48.29,Q0,,0,0,0,,Një aventurier...
+Dialogue: 0,0:11:48.71,0:11:50.92,Q0,,0,0,0,,Edhe ne! Edhe ne jemi 'venturierë!
+Dialogue: 0,0:11:50.92,0:11:51.83,Q0,,0,0,0,,Sigurisht që jeni.
+Dialogue: 0,0:11:51.83,0:11:53.33,Q0,,0,0,0,,Të gjithë gati për të lëvizur?
+Dialogue: 0,0:11:53.67,0:11:54.42,Q0,,0,0,0,,Gati!
+Dialogue: 0,0:12:12.46,0:12:14.08,Q0,,0,0,0,,G-Gomamiso?!
+Dialogue: 0,0:12:14.42,0:12:17.25,Q0,,0,0,0,,Aman. Nuk mund të shkëputesh kështu!
+Dialogue: 0,0:12:17.25,0:12:18.38,Q0,,0,0,0,,Qëndro i përqendruar!
+Dialogue: 0,0:12:18.38,0:12:20.08,Q0,,0,0,0,,Fshihu brenda Campy, Rin!
+Dialogue: 0,0:12:20.33,0:12:21.08,Q0,,0,0,0,,Po e bëj!
+Dialogue: 0,0:12:28.88,0:12:30.63,Q0,,0,0,0,,O Zot, një dragua...
+Dialogue: 0,0:12:33.79,0:12:38.79,Q0,,0,0,0,,Sikur të ishim plagosur rëndë,\Nai shpërthim zjarri do të na kishte rrëzuar plotësisht.
+Dialogue: 0,0:12:39.13,0:12:44.21,Q0,,0,0,0,,Për fat të keq për ty, Rin-chan u sigurua\Nqë trupat, mendjet dhe mana jonë të jenë në formë të përsosur!
+Dialogue: 0,0:12:44.54,0:12:50.08,Q0,,0,0,0,,Rin është kuzhiniere e dashur e Smorgasbord. Të trembësh atë\Nme sulmin tënd të fshehtë ishte lëvizja e gabuar.
+Dialogue: 0,0:12:50.08,0:12:51.92,Q0,,0,0,0,,Do ta paguash me jetë.
+Dialogue: 0,0:12:51.92,0:12:53.54,Q0,,0,0,0,,Edhe ne jemi të zemëruar tani!
+Dialogue: 0,0:13:04.92,0:13:07.29,Q0,,0,0,0,,Faleminderit, Gomamiso. Të kam borxh.
+Dialogue: 0,0:13:08.67,0:13:11.42,Q0,,0,0,0,,Jemi gjuetarë profesionistë, e dini!
+Dialogue: 0,0:13:11.88,0:13:16.54,Q0,,0,0,0,,Nuk është në të njëjtin nivel me dragoin mirazh\Nnë Merlowa, por është çmendurisht i fortë.
+Dialogue: 0,0:13:16.96,0:13:18.00,Q0,,0,0,0,,Estee gard!
+Dialogue: 0,0:13:21.33,0:13:22.25,Q0,,0,0,0,,Aria!
+Dialogue: 0,0:13:23.75,0:13:25.25,Q0,,0,0,0,,A je mirë, Aria?
+Dialogue: 0,0:13:25.63,0:13:28.58,Q0,,0,0,0,,Eddy... Po, faleminderit.
+Dialogue: 0,0:13:28.79,0:13:30.79,Q0,,0,0,0,,Nuk është as koha as vendi!
+Dialogue: 0,0:13:32.75,0:13:34.00,Q0,,0,0,0,,Myrrhila veil!
+Dialogue: 0,0:13:40.29,0:13:42.54,Q0,,0,0,0,,Ata atje po luftojnë me një dragua...
+Dialogue: 0,0:13:44.71,0:13:47.46,Q0,,0,0,0,,Duhet të ketë diçka që mund të bëj...
+Dialogue: 0,0:13:48.21,0:13:51.42,Q4,,0,0,0,,{\pos(140.8,223.2)}{\an7}Drahweyrm           E ngrënshme : Shumë e shijshme
+Dialogue: 0,0:13:48.21,0:13:51.42,Q5,,0,0,0,,{\pos(102.4,331.2)}{\an7}Një lloj dragua toke. Luspërat e tij janë të forta si çeliku, dhe
+Dialogue: 0,0:13:48.21,0:13:51.42,Q5,,0,0,0,,{\pos(115.2,381.6)}{\an7}frymëmarrja e tij mund të helmojë ose të paralizojë prenë.
+Dialogue: 0,0:13:48.21,0:13:51.42,Q5,,0,0,0,,{\pos(102.4,432)}{\an7}Nga natyra, janë jashtëzakonisht agresivë dhe të prirur për luftë.
+Dialogue: 0,0:13:48.21,0:13:51.42,Q5,,0,0,0,,{\pos(102.4,482.4)}{\an7}Mishi i drahweyrm është i pasur në shije dhe shumë i shijshëm.
+Dialogue: 0,0:13:49.21,0:13:50.67,Q0,,0,0,0,,"Shumë i shijshëm"...
+Dialogue: 0,0:13:51.42,0:13:52.75,Q0,,0,0,0,,Shumë i shijshëm!
+Dialogue: 0,0:13:54.21,0:13:55.33,Q0,,0,0,0,,Hej, ju djema!
+Dialogue: 0,0:13:56.42,0:13:57.88,Q0,,0,0,0,,Rin?! Është shumë e rrezikshme! Kthehu brenda—
+Dialogue: 0,0:13:57.88,0:14:01.00,Q0,,0,0,0,,Aftësia ime Survival thotë se ai dragua\Nka shije vërtet, vërtet të mirë!
+Dialogue: 0,0:14:02.75,0:14:04.63,Q0,,0,0,0,,Në rregull, koha të përqendrohemi.
+Dialogue: 0,0:14:06.38,0:14:09.75,Q0,,0,0,0,,Do të hamë dragua për darkë!
+Dialogue: 0,0:14:10.08,0:14:11.63,Q0,,0,0,0,,Uuuu!
+Dialogue: 0,0:14:13.33,0:14:15.25,Q0,,0,0,0,,Në rregull, ja ku shkojmë!
+Dialogue: 0,0:14:21.71,0:14:22.88,Q0,,0,0,0,,Horizontalisht!
+Dialogue: 0,0:14:30.92,0:14:34.08,Q0,,0,0,0,,Ato këmbët e tua... duken mjaft të shijshme për t'u ngrënë!
+Dialogue: 0,0:14:36.00,0:14:39.96,Q0,,0,0,0,,Uh... Grupi im nuk bën shaka, apo jo?!
+Dialogue: 0,0:14:44.17,0:14:47.71,Q0,,0,0,0,,Më beso, nuk është personale.\NDuhet të shkosh, përndryshe nuk mund të hamë—
+Dialogue: 0,0:14:47.71,0:14:49.88,Q0,,0,0,0,,...përndryshe nuk mund të ecim përpara.
+Dialogue: 0,0:14:51.63,0:14:52.50,Q0,,0,0,0,,VIL!
+Dialogue: 0,0:14:54.63,0:14:58.13,Q0,,0,0,0,,Më fal, shok. Kemi arsyet tona\Npër të mos dashur të humbasim.
+Dialogue: 0,0:15:02.88,0:15:07.38,Q0,,0,0,0,,Një fitore për miqësinë tonë\Ndhe punën në ekip si Smorgasbord!
+Dialogue: 0,0:15:07.67,0:15:08.96,Q0,,0,0,0,,Po!
+Dialogue: 0,0:15:09.96,0:15:12.71,Q0,,0,0,0,,A nuk është më shumë fitore për orekset tuaja?
+Dialogue: 0,0:15:24.67,0:15:26.88,Q0,,0,0,0,,Rin, mendon se do të thotë...?
+Dialogue: 0,0:15:27.67,0:15:32.88,Q0,,0,0,0,,Nuk jam eksperte, por duket se duhet\Ntë ofrojmë mishin e drahweyrm.
+Dialogue: 0,0:15:33.33,0:15:34.29,Q0,,0,0,0,,Mishin?
+Dialogue: 0,0:15:34.50,0:15:36.42,Q0,,0,0,0,,Por u munduam shumë për atë mish...
+Dialogue: 0,0:15:36.42,0:15:40.21,Q0,,0,0,0,,Në atë rast, duhet t'i ofrosh\Nvetes tonë të lavdishme në vend të kësaj!
+Dialogue: 0,0:15:41.21,0:15:45.88,Q0,,0,0,0,,Po, me të vërtetë do të ishte mirë\Ntë mos ndaheshim nga e gjitha...
+Dialogue: 0,0:15:46.17,0:15:48.58,Q0,,0,0,0,,E-Epo, si të provojmë?
+Dialogue: 0,0:15:51.04,0:15:52.54,Q0,,0,0,0,,Le të fillojmë me një nga këto.
+Dialogue: 0,0:16:01.63,0:16:03.38,Q0,,0,0,0,,Duket se kishim të drejtë!
+Dialogue: 0,0:16:04.83,0:16:08.38,Q0,,0,0,0,,Nuk kemi zgjedhje. Vazhdojmë të shtojmë\Nderisa të kemi ndonjë reagim.
+Dialogue: 0,0:16:09.33,0:16:11.92,Q0,,0,0,0,,Shpresoj të paktën të na lërë pjesët e shijshme...
+Dialogue: 0,0:16:12.25,0:16:16.04,Q4,,0,0,0,,{\pos(140.8,309.6)}{\an7}Drahweyrm Kërci i përparmë     E ngrënshme : E shijshme
+Dialogue: 0,0:16:12.25,0:16:16.04,Q5,,0,0,0,,{\pos(102.4,424.8)}{\an7}Fijet e muskujve dhe tendinat janë të forta, duke rezultuar në një
+Dialogue: 0,0:16:12.25,0:16:16.04,Q5,,0,0,0,,{\pos(102.4,482.4)}{\an7}prerje të trashë e të fortë. Megjithatë, bëhet aq e butë sa shkëputet
+Dialogue: 0,0:16:12.25,0:16:16.04,Q5,,0,0,0,,{\pos(128,532.8)}{\an7}nga kocka kur zihet ngadalë.
+Dialogue: 0,0:16:12.25,0:16:13.25,Q0,,0,0,0,,Hmm...
+Dialogue: 0,0:16:13.25,0:16:16.83,Q0,,0,0,0,,Thotë se kërci i përparmë shkëputet\Nnga kocka po e zjeve ngadalë,
+Dialogue: 0,0:16:16.04,0:16:20.25,Q6,,0,0,0,,{\pos(640,331.2)}{\an7}Drahweyrm   Bisht    E ngrënshme : E shijshme
+Dialogue: 0,0:16:16.04,0:16:20.25,Q5,,0,0,0,,{\pos(576,439.2)}{\an7}Kjo prerje përmban shumë kocka, por është gjithashtu plot
+Dialogue: 0,0:16:16.04,0:16:20.25,Q5,,0,0,0,,{\pos(550.4,489.6)}{\an7}palcë. Zierja si supë nxjerr shijen e saj të pasur e të këndshme.
+Dialogue: 0,0:16:16.83,0:16:20.25,Q0,,0,0,0,,por bishti ka një shije të pasur e të këndshme\Nnëse e kthen në supë.
+Dialogue: 0,0:16:20.25,0:16:22.67,Q0,,0,0,0,,UAAAH! VENDIME!
+Dialogue: 0,0:16:26.46,0:16:28.50,Q0,,0,0,0,,Duket se ky është zemra e drahweyrm.
+Dialogue: 0,0:16:28.75,0:16:30.96,Q0,,0,0,0,,Zgjedhja ime e preferuar për një ritual sakrifice.
+Dialogue: 0,0:16:31.29,0:16:32.29,Q0,,0,0,0,,Bëja shaka.
+Dialogue: 0,0:16:49.08,0:16:51.04,Q0,,0,0,0,,Çfarë është kjo dritë verbuese?
+Dialogue: 0,0:16:51.04,0:16:51.63,Q0,,0,0,0,,Hë?
+Dialogue: 0,0:16:55.25,0:16:57.13,Q0,,0,0,0,,Vil, është ai...?
+Dialogue: 0,0:16:57.42,0:17:00.71,Q0,,0,0,0,,Po, duhet të jetë gjëja\Npër të cilën fliste vëllai im.
+Dialogue: 0,0:17:00.92,0:17:03.46,Q0,,0,0,0,,Sfera që do ta bëjë Shenjtorezën më të fortë?
+Dialogue: 0,0:17:03.92,0:17:05.96,Q0,,0,0,0,,Mishi u zhduk...
+Dialogue: 0,0:17:05.96,0:17:08.79,Q0,,0,0,0,,Jo, të lutem mos u duk kaq e trishtuar, Aria!
+Dialogue: 0,0:17:08.79,0:17:10.25,Q0,,0,0,0,,Kemi ende ca mish!
+Dialogue: 0,0:17:10.75,0:17:11.42,Q0,,0,0,0,,Rin?
+Dialogue: 0,0:17:11.42,0:17:12.42,Q0,,0,0,0,,Po e bëj.
+Dialogue: 0,0:17:14.96,0:17:18.13,Q0,,0,0,0,,Në lojë, kjo është ajo që Vil dhe të tjerët...
+Dialogue: 0,0:17:19.88,0:17:21.04,Q0,,0,0,0,,Çfarë ka, Rin?
+Dialogue: 0,0:17:21.50,0:17:23.17,Q0,,0,0,0,,Jo, asgjë.
+Dialogue: 0,0:17:30.96,0:17:33.29,Q0,,0,0,0,,Sfera u sigurua!
+Dialogue: 0,0:17:36.79,0:17:39.17,Q0,,0,0,0,,Rin, më lejo të shpreh mirënjohjen time edhe një herë.
+Dialogue: 0,0:17:39.58,0:17:43.42,Q0,,0,0,0,,Punë e shkëlqyer përfundimi i misionit pa\Nhumbur as edhe një anëtar të grupit.
+Dialogue: 0,0:17:43.75,0:17:46.21,Q0,,0,0,0,,E gjithë ajo "dungeon që shpërthen\Npërbindësha pa fund"
+Dialogue: 0,0:17:46.21,0:17:49.21,Q0,,0,0,0,,vërtet theksoi sa zemërkeq duhet\Ntë jetë zhvilluesi.
+Dialogue: 0,0:17:49.21,0:17:50.88,Q0,,0,0,0,,Ah, fjalë të ashpra.
+Dialogue: 0,0:17:51.63,0:17:53.75,Q0,,0,0,0,,Por... tani Vil—
+Dialogue: 0,0:17:54.33,0:17:57.46,Q0,,0,0,0,,vëllai im i vogël dhe miqtë e tij nuk duhet\Ntë shënohen më për vdekje.
+Dialogue: 0,0:17:58.50,0:17:59.50,Q0,,0,0,0,,Faleminderit...
+Dialogue: 0,0:17:59.96,0:18:01.63,Q0,,0,0,0,,Faleminderit shumë.
+Dialogue: 0,0:18:02.25,0:18:06.75,Q0,,0,0,0,,Nuk mund të ndaloja kurrë së shqetësuari. Duke mos ditur kurrë\Nse kur do të vinte ai ditë e fatit...
+Dialogue: 0,0:18:07.67,0:18:10.25,Q0,,0,0,0,,Por edhe kjo mbaron sot!
+Dialogue: 0,0:18:12.04,0:18:14.50,Q0,,0,0,0,,Ndjej të njëjtën gjë si ti.
+Dialogue: 0,0:18:15.21,0:18:20.00,Q0,,0,0,0,,Nuk ka rëndësi nëse ky vend është botë\Nvideo-lojë apo jo. Vil dhe të tjerët janë gjallë.
+Dialogue: 0,0:18:20.00,0:18:21.67,Q0,,0,0,0,,Ata nuk janë thjesht NPC.
+Dialogue: 0,0:18:22.13,0:18:24.92,Q0,,0,0,0,,Ata janë miqtë e mi më të dashur!
+Dialogue: 0,0:18:26.58,0:18:28.88,Q0,,0,0,0,,Ke të drejtë. E vlerësoj sinqerisht.
+Dialogue: 0,0:18:30.75,0:18:33.04,Q0,,0,0,0,,Marr se keni mbaruar me raportin e misionit?
+Dialogue: 0,0:18:33.92,0:18:34.96,Q0,,0,0,0,,Mbaruam.
+Dialogue: 0,0:18:34.96,0:18:36.96,Q0,,0,0,0,,Hej, pse kaq zymtësi?
+Dialogue: 0,0:18:37.29,0:18:39.17,Q0,,0,0,0,,Nuk të shkon, Vëlla i Madh.
+Dialogue: 0,0:18:40.17,0:18:42.29,Q0,,0,0,0,,Ndoshta nuk duket, por jam një mbret.
+Dialogue: 0,0:18:42.71,0:18:45.29,Q0,,0,0,0,,Më e rëndësishmja, të lutem eja të shtosh\Nprekjet e fundit, Rin!
+Dialogue: 0,0:18:45.63,0:18:48.00,Q0,,0,0,0,,Unë dhe të tjerët mezi po durojmë!
+Dialogue: 0,0:18:48.00,0:18:50.50,Q0,,0,0,0,,Oh, në rregull! Epo, me këtë rast...
+Dialogue: 0,0:18:50.50,0:18:52.42,Q0,,0,0,0,,Do të doje të bashkoheshe me ne, Noah?
+Dialogue: 0,0:18:52.79,0:18:53.50,Q0,,0,0,0,,Hë?
+Dialogue: 0,0:18:56.38,0:19:00.50,Q0,,0,0,0,,Pra kjo është aftësia e famshme që e bëri\Ntë mundur pushtimin e dungeonit.
+Dialogue: 0,0:19:01.04,0:19:04.79,Q0,,0,0,0,,Vil tha se mund ta huazoja këtë oborr\Npasi është i rezervuar për familjen mbretërore,
+Dialogue: 0,0:19:04.79,0:19:08.33,Q0,,0,0,0,,ndaj mendova se mund të\Ntë ftoja edhe ty në festë!
+Dialogue: 0,0:19:08.92,0:19:10.79,Q0,,0,0,0,,Epo, nuk më pengon aspak, por...
+Dialogue: 0,0:19:12.21,0:19:14.71,Q0,,0,0,0,,Ehm, më fal për atë. Është thjesht...
+Dialogue: 0,0:19:15.38,0:19:17.46,Q0,,0,0,0,,Oh, e kuptoj plotësisht!
+Dialogue: 0,0:19:17.46,0:19:19.83,Q0,,0,0,0,,Ai aroma të vret, apo jo?
+Dialogue: 0,0:19:21.04,0:19:23.67,Q0,,0,0,0,,R-Rin? A është gati?
+Dialogue: 0,0:19:23.67,0:19:28.13,Q0,,0,0,0,,Çfarë është kjo aromë?! Është kaq dehëse,\Nndjej sikur po më tërheq ndërsa flasim!
+Dialogue: 0,0:19:28.33,0:19:30.46,Q0,,0,0,0,,Nuk po përdor magji magjepsjeje, apo jo?!
+Dialogue: 0,0:19:30.83,0:19:33.58,Q0,,0,0,0,,Do të hiqja dorë nga besimi im sikur të mund të kisha—
+Dialogue: 0,0:19:33.58,0:19:35.42,Q0,,0,0,0,,Jo, qëndro i fortë, Xenon!
+Dialogue: 0,0:19:35.42,0:19:38.25,Q0,,0,0,0,,Dua pak! Nuk më intereson edhe nëse më djeg grykën!\NMë lër ta provoj!
+Dialogue: 0,0:19:38.67,0:19:43.38,Q0,,0,0,0,,Jemi një mace e mirë që di të presë\Nme durim! Por jemi gati të bëhemi mace e keqe!
+Dialogue: 0,0:19:43.67,0:19:47.25,Q0,,0,0,0,,E dija se kari do të ishte armë sekrete\Nkundër të ardhurve nga bota tjetër!
+Dialogue: 0,0:19:47.67,0:19:52.17,Q0,,0,0,0,,Plus, u sigurova ta gatuaja kërcin e\Npërparmë të drahweyrm derisa u shpërbë!
+Dialogue: 0,0:19:52.96,0:19:56.21,Q0,,0,0,0,,E the ditën tjetër, apo jo?\NSe kishe dëshirë për kari.
+Dialogue: 0,0:19:57.00,0:20:01.04,Q0,,0,0,0,,Mendova se meritoje një shpërblim\Npër gjithë punën e palodhur, Noah.
+Dialogue: 0,0:20:01.63,0:20:03.92,Q0,,0,0,0,,Rin... Faleminderit!
+Dialogue: 0,0:20:04.54,0:20:05.38,Q0,,0,0,0,,Në rregull!
+Dialogue: 0,0:20:05.38,0:20:08.17,Q0,,0,0,0,,Le ta nisim këtë festë kari nga bota tjetër!
+Dialogue: 0,0:20:08.96,0:20:11.96,Q0,,0,0,0,,Ah, kjo është ajo! Shija e përsosur!
+Dialogue: 0,0:20:12.17,0:20:13.50,Q0,,0,0,0,,E di, apo jo?!
+Dialogue: 0,0:20:15.63,0:20:18.75,Q0,,0,0,0,,Jam i lumtur që solla ca\Nrue kari në udhëtimin tim!
+Dialogue: 0,0:20:18.92,0:20:22.50,Q0,,0,0,0,,Është paksa djegëse, por... nuk mund të ndalem!
+Dialogue: 0,0:20:22.96,0:20:25.96,Q0,,0,0,0,,Kjo shije e pasur e shijshme erdhi nga\Nnjë lëng me bazë dragua?!
+Dialogue: 0,0:20:25.96,0:20:28.46,Q0,,0,0,0,,Tani i shoh dragonjtë me sy krejt të tjerë!
+Dialogue: 0,0:20:28.83,0:20:34.83,Q0,,0,0,0,,Rueja është e varur në vetvete, por ngrënia\Nme oriz e çon në një nivel krejt tjetër!
+Dialogue: 0,0:20:35.29,0:20:39.79,Q0,,0,0,0,,Copat e mëdha të mishit dhe perimeve\Nbashkë me lëngun e pasur dhe orizin!
+Dialogue: 0,0:20:39.79,0:20:41.58,Q0,,0,0,0,,Formojnë festën më të mirë!
+Dialogue: 0,0:20:41.71,0:20:43.96,Q0,,0,0,0,,Do të notojmë në kari!
+Dialogue: 0,0:20:43.96,0:20:45.13,Q0,,0,0,0,,JO!
+Dialogue: 0,0:20:45.79,0:20:49.92,Q0,,0,0,0,,Me këtë, batica është\Nkthyer kryesisht në favorin tonë.
+Dialogue: 0,0:20:49.92,0:20:51.71,Q0,,0,0,0,,E ke fjalën me Shenjtorezën?
+Dialogue: 0,0:20:52.08,0:20:54.71,Q0,,0,0,0,,Por nuk ka nevojë të shqetësohesh më, Rin.
+Dialogue: 0,0:20:55.13,0:20:57.00,Q0,,0,0,0,,Përveç kësaj, nëse shkon në aventura me Smorgasbord,
+Dialogue: 0,0:20:57.00,0:20:59.71,Q0,,0,0,0,,jam e sigurt se do ta thyesh lojën\Nvetë!
+Dialogue: 0,0:21:00.54,0:21:01.71,Q0,,0,0,0,,Nuk mund ta mohoj atë...
+Dialogue: 0,0:21:01.71,0:21:05.83,Q0,,0,0,0,,Çfarë ka, Rin? A po të ngarkon vëllai im\Nme ndonjë detyrë tjetër të pamundur?
+Dialogue: 0,0:21:05.83,0:21:07.33,Q0,,0,0,0,,Çfarë mund të duash të thuash?
+Dialogue: 0,0:21:07.50,0:21:09.04,Q0,,0,0,0,,Faleminderit për darkën!
+Dialogue: 0,0:21:10.08,0:21:12.21,Q0,,0,0,0,,Je i sigurt që nuk të tha asgjë?
+Dialogue: 0,0:21:12.21,0:21:17.38,Q0,,0,0,0,,"Je i mirëpritur të vazhdosh të shkosh në aventura\Nme grupin tënd." Kjo është e gjitha që tha.
+Dialogue: 0,0:21:17.38,0:21:18.79,Q0,,0,0,0,,Kjo është mirë, mendoj.
+Dialogue: 0,0:21:19.13,0:21:24.08,Q0,,0,0,0,,Uh, gjithsesi... kam ndjenjën se mund të tërhiqemi\Nnë edhe më shumë probleme me Shenjtorezën...
+Dialogue: 0,0:21:24.38,0:21:27.29,Q0,,0,0,0,,Hajde, ti je viktimë në këtë, mba mend?
+Dialogue: 0,0:21:27.29,0:21:29.29,Q0,,0,0,0,,Premtojmë se nuk ka asgjë për të ndjerë faj!
+Dialogue: 0,0:21:29.46,0:21:33.54,Q0,,0,0,0,,Edhe nëse tërhiqemi në të,\Ndo ta zgjidhim bashkë.
+Dialogue: 0,0:21:33.54,0:21:35.63,Q0,,0,0,0,,Kjo do të thotë të jesh grup.
+Dialogue: 0,0:21:35.96,0:21:38.79,Q0,,0,0,0,,A urren të jesh me ne, Rin?
+Dialogue: 0,0:21:38.79,0:21:39.71,Q0,,0,0,0,,Jo, në asnjë mënyrë!
+Dialogue: 0,0:21:40.00,0:21:44.75,Q0,,0,0,0,,Ka ende kaq shumë vende ku dua të udhëtoj\Nme ju! Kaq shumë ushqime që duhet t'i hamë!
+Dialogue: 0,0:21:44.75,0:21:46.75,Q0,,0,0,0,,Dua ta shfrytëzoj maksimalisht këtë!
+Dialogue: 0,0:21:47.00,0:21:50.83,Q0,,0,0,0,,Atëherë kjo u vendos. Nuk do të\Ntë lëshojmë kaq shpejt.
+Dialogue: 0,0:21:50.83,0:21:53.29,Q0,,0,0,0,,Besoj se zoti im do të pajtohej me këtë.
+Dialogue: 0,0:21:53.29,0:21:54.75,Q0,,0,0,0,,Bashkë përgjithmonë!
+Dialogue: 0,0:21:54.75,0:21:56.71,Q0,,0,0,0,,Por Aria nuk jepet!
+Dialogue: 0,0:21:57.00,0:21:58.08,Q0,,0,0,0,,Ju djema...
+Dialogue: 0,0:21:58.38,0:22:01.92,Q0,,0,0,0,,Hej, më mirë mos na lër pas! E kuptove?
+Dialogue: 0,0:22:01.92,0:22:03.00,Q0,,0,0,0,,Gomamiso...
+Dialogue: 0,0:22:03.25,0:22:08.75,Q0,,0,0,0,,Në fakt, ndoshta do të jemi një bezdi\Npër ty, por... do të vish me ne, Rin?
+Dialogue: 0,0:22:09.75,0:22:10.67,Q0,,0,0,0,,Sigurisht!
+Dialogue: 0,0:22:11.71,0:22:14.67,Q0,,0,0,0,,Aventurat e Smorgasbord sapo kanë filluar!
+Dialogue: 0,0:22:15.00,0:22:16.58,Q0,,0,0,0,,PO!
+
