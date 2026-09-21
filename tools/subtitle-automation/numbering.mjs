@@ -226,7 +226,7 @@ function hyakkanoS3(parsed) {
 // Anikoto entry project.mjs then verifies episode and MAL ID against.
 function mushokuTenseiIII(parsed) {
   const episode = Number(parsed.episode);
-  if (parsed.title !== 'Mushoku Tensei III: Isekai Ittara Honki Dasu' ||
+  if (parsed.title !== 'Mushoku Tensei III Isekai Ittara Honki Dasu' ||
       (parsed.season !== null && parsed.season !== 1) ||
       !Number.isInteger(episode) || episode < 1) return null;
   return {
@@ -260,7 +260,7 @@ function magilumiereS2(parsed) {
 
 function azurLaneNi(parsed) {
   const episode = Number(parsed.episode);
-  if (parsed.title !== 'Azur Lane: Bisoku Zenshin - Ni' ||
+  if (parsed.title !== 'Azur Lane Bisoku Zenshin - Ni' ||
       (parsed.season !== null && parsed.season !== 1) ||
       !Number.isInteger(episode) || episode < 1) return null;
   return {
@@ -294,7 +294,27 @@ function mao(parsed) {
   };
 }
 
-const RULES = [samuraiTroopers, onePiece, toukutsuOu, reZero, smokingBehindTheSupermarket, kaijuGirlCaramelise, bungoStrayDogsWan2, linkClickS3, honzukiS4, detectiveConan, hyakkanoS3, mushokuTenseiIII, magilumiereS2, azurLaneNi, mao];
+// The release name and the Anikoto title share no word: the tracker files it under
+// its English title, and the romaji release scores 0.29 against every candidate, so
+// the search can never reach it. Note that prepare() strips ":" from filenames before
+// matching, so the pinned title must be spelled without it.
+function dukesSon(parsed) {
+  const episode = Number(parsed.episode);
+  if (parsed.title !== 'Kimi wo Aisuru Ki wa Nai to Itta Jiki Koushaku-sama ga Nazeka Dekiai Shitekimasu' ||
+      (parsed.season !== null && parsed.season !== 1) ||
+      !Number.isInteger(episode) || episode < 1) return null;
+  return {
+    slug:'kimi-wo-aisuru-ki-wa-nai-to-itta-jiki-koushaku-sama-ga-nazeka-dekiai-shitekimasu-ac995',
+    title:'The Duke\u2019s Son Claims He Won\u2019t Love Me Yet Showers Me with Adoration',
+    malId:63537,
+    episode:String(episode),
+    sourceEpisode:String(episode),
+    sourceTitle:parsed.title,
+    evidence:'https://anikototv.to/watch/kimi-wo-aisuru-ki-wa-nai-to-itta-jiki-koushaku-sama-ga-nazeka-dekiai-shitekimasu-ac995'
+  };
+}
+
+const RULES = [samuraiTroopers, onePiece, toukutsuOu, reZero, smokingBehindTheSupermarket, kaijuGirlCaramelise, bungoStrayDogsWan2, linkClickS3, honzukiS4, detectiveConan, hyakkanoS3, mushokuTenseiIII, magilumiereS2, azurLaneNi, mao, dukesSon];
 
 export function knownNumbering(parsed) {
   for (const rule of RULES) {

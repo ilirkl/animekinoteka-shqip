@@ -68,6 +68,48 @@ test('the Link Click pin is confined to season 3',()=>{
   assert.equal(knownNumbering({...linkClick,title:'Link Click: Bridon Arc'}),null);
 });
 
+// Erai-raws spells these seasons inside the title in forms the trailing "S<number>"
+// rule cannot see. prepare() strips ":" from filenames, so the pinned spellings have
+// no colon - this is the exact text parseFilename() yields for the release.
+const mushokuIII = {title:'Mushoku Tensei III Isekai Ittara Honki Dasu',season:null,episode:'13'};
+test('Mushoku Tensei III pins season 3',()=>{
+  const result=knownNumbering(mushokuIII);
+  assert.equal(result.slug,'mushoku-tensei-jobless-reincarnation-season-3');
+  assert.equal(result.malId,59193);
+  assert.equal(result.episode,'13');
+  assert.equal(result.part,3);
+});
+test('the Mushoku Tensei III pin is confined to the exact roman-numeral title',()=>{
+  assert.equal(knownNumbering({...mushokuIII,title:'Mushoku Tensei: Isekai Ittara Honki Dasu'}),null);
+  assert.equal(knownNumbering({...mushokuIII,season:2}),null);
+  assert.equal(knownNumbering({...mushokuIII,episode:'13.5'}),null);
+});
+
+const azurLaneNi = {title:'Azur Lane Bisoku Zenshin - Ni',season:null,episode:'12'};
+test('Azur Lane - Ni pins the second season',()=>{
+  const result=knownNumbering(azurLaneNi);
+  assert.equal(result.slug,'azur-lane-slow-ahead-season-2-ac697');
+  assert.equal(result.malId,56613);
+  assert.equal(result.episode,'12');
+  assert.equal(result.part,2);
+});
+test('the Azur Lane - Ni pin cannot swallow the first season',()=>{
+  assert.equal(knownNumbering({...azurLaneNi,title:'Azur Lane Bisoku Zenshin'}),null);
+  assert.equal(knownNumbering({...azurLaneNi,season:2}),null);
+});
+
+const dukesSon = {title:'Kimi wo Aisuru Ki wa Nai to Itta Jiki Koushaku-sama ga Nazeka Dekiai Shitekimasu',season:null,episode:'12'};
+test("Duke's Son pins the English-titled Anikoto entry",()=>{
+  const result=knownNumbering(dukesSon);
+  assert.equal(result.slug,'kimi-wo-aisuru-ki-wa-nai-to-itta-jiki-koushaku-sama-ga-nazeka-dekiai-shitekimasu-ac995');
+  assert.equal(result.malId,63537);
+  assert.equal(result.episode,'12');
+});
+test("the Duke's Son pin is confined to the exact title",()=>{
+  assert.equal(knownNumbering({...dukesSon,title:'Kimiai'}),null);
+  assert.equal(knownNumbering({...dukesSon,season:2}),null);
+});
+
 test('rules stay independent of one another',()=>{
   assert.equal(knownNumbering({title:'One Piece',season:null,episode:'23'}),null);
   assert.equal(knownNumbering({...source,episode:'1178'}),null);
