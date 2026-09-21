@@ -1,0 +1,394 @@
+﻿[Script Info]
+Title: [Erai-raws] en
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+Video Zoom Percent: 1
+Scroll Position: 0
+Active Line: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,45,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,10,10,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:25.81,0:00:30.44,Default,,0,0,0,,{\an8}KATSURAGI
+Dialogue: 0,0:00:26.48,0:00:27.69,Default,,0,0,0,,Rreth pesë ditë më parë,
+Dialogue: 0,0:00:27.90,0:00:30.28,Default,,0,0,0,,vajza ime Shoko\Nu rrëzua në shkollë.
+Dialogue: 0,0:00:31.11,0:00:34.07,Default,,0,0,0,,Mjeku tha\Nse nuk ka asgjë të keqe me të.
+Dialogue: 0,0:00:34.82,0:00:37.87,Default,,0,0,0,,{\an8}NËNA E SHOKOS
+Dialogue: 0,0:00:34.95,0:00:37.16,Default,,0,0,0,,Por ajo nuk është zgjuar asnjë herë, dhe...
+Dialogue: 0,0:00:37.66,0:00:39.41,Default,,0,0,0,,ka vuajtur\Nkështu që atëherë.
+Dialogue: 0,0:00:40.08,0:00:43.16,Default,,0,0,0,,{\an8}SHOKO KATSURAGI
+Dialogue: 0,0:00:40.83,0:00:43.54,Default,,0,0,0,,Jo! Më ndihmo...
+Dialogue: 0,0:00:44.25,0:00:46.79,Default,,0,0,0,,{\an8}MAO                            NANOKA KIBA
+Dialogue: 0,0:00:44.50,0:00:45.83,Default,,0,0,0,,{\i1}Duket se është në dhimbje...{\i0}
+Dialogue: 0,0:00:46.54,0:00:47.42,Default,,0,0,0,,Shoko...
+Dialogue: 0,0:00:48.63,0:00:50.92,Default,,0,0,0,,{\i1}Nuk është e pushtuar nga ndonjë shpirt.{\i0}
+Dialogue: 0,0:00:52.26,0:00:53.38,Default,,0,0,0,,{\i1}Ky është një lloj mallkimi.{\i0}
+Dialogue: 0,0:00:54.01,0:00:56.84,Default,,0,0,0,,{\an8}SHPEJT, SHPEJT, SIÇ URDHËRON LIGJI
+Dialogue: 0,0:01:06.02,0:01:06.90,Default,,0,0,0,,Shoko!
+Dialogue: 0,0:01:07.73,0:01:08.56,Default,,0,0,0,,{\i1}U zgjua?!{\i0}
+Dialogue: 0,0:01:08.86,0:01:11.23,Default,,0,0,0,,M-Më dhemb! Më djeg!
+Dialogue: 0,0:01:11.82,0:01:12.82,Default,,0,0,0,,Fytyra ime!
+Dialogue: 0,0:01:12.94,0:01:13.99,Default,,0,0,0,,Çfarë po...?
+Dialogue: 0,0:01:14.65,0:01:15.99,Default,,0,0,0,,Po përcaktoj vendndodhjen...
+Dialogue: 0,0:01:17.16,0:01:18.95,Default,,0,0,0,,ku mblidhen hiri i\Ntalismanit.
+Dialogue: 0,0:01:27.17,0:01:28.58,Default,,0,0,0,,Diçka është në ballin e saj...
+Dialogue: 0,0:01:35.05,0:01:35.92,Default,,0,0,0,,Një gjilpërë?!
+Dialogue: 0,0:03:09.43,0:03:12.98,Default,,0,0,0,,{\an8}GHOULËT DHE RAKSHASAT
+Dialogue: 0,0:03:16.94,0:03:19.24,Default,,0,0,0,,Po bëje makthe\Ngjithë kohën, apo jo?
+Dialogue: 0,0:03:20.40,0:03:21.91,Default,,0,0,0,,P-Po...
+Dialogue: 0,0:03:22.53,0:03:25.33,Default,,0,0,0,,Në ëndrrat e mia,\Nvritesha herë pas here...
+Dialogue: 0,0:03:26.37,0:03:29.08,Default,,0,0,0,,A e ke idenë\Nsi ndodhi kjo?
+Dialogue: 0,0:03:30.54,0:03:33.17,Default,,0,0,0,,Ka një studente të çuditshme më të vogël...
+Dialogue: 0,0:03:34.75,0:03:36.63,Default,,0,0,0,,Ajo pretendonte se mund të mallkonte njerëzit.
+Dialogue: 0,0:03:37.38,0:03:40.55,Default,,0,0,0,,Nëse kishte dikë që urren,\Nthoshte se do ta mallkonte për ty.
+Dialogue: 0,0:03:42.68,0:03:47.10,Default,,0,0,0,,Disa nga studentet më të vogla\Nishin të interesuara për gjëra të tilla.
+Dialogue: 0,0:03:47.89,0:03:51.73,Default,,0,0,0,,Mblidheshin për të bërë\Ndiçka si një ritual mallkimi.
+Dialogue: 0,0:03:52.89,0:03:55.27,Default,,0,0,0,,Ndaj i paralajmërova.
+Dialogue: 0,0:03:56.06,0:03:58.02,Default,,0,0,0,,U thashë se mallkimet nuk ekzistojnë...
+Dialogue: 0,0:03:58.48,0:04:00.90,Default,,0,0,0,,dhe se nuk duhet\Ntë bënin gjëra të tilla.
+Dialogue: 0,0:04:01.82,0:04:03.78,Default,,0,0,0,,{\i1}U mallkua vetëm se i paralajmëroi?{\i0}
+Dialogue: 0,0:04:04.74,0:04:06.45,Default,,0,0,0,,{\i1}Kjo është në fakt disi e frikshme.{\i0}
+Dialogue: 0,0:04:07.33,0:04:09.95,Default,,0,0,0,,{\i1}Kjo vajzë vërtet ishte e mallkuar.{\i0}
+Dialogue: 0,0:04:10.95,0:04:12.79,Default,,0,0,0,,{\i1}Nuk mund ta injorojmë thjesht këtë.{\i0}
+Dialogue: 0,0:04:14.75,0:04:15.79,Default,,0,0,0,,Hosho...
+Dialogue: 0,0:04:15.96,0:04:17.75,Default,,0,0,0,,{\an8}ERIKO
+Dialogue: 0,0:04:16.29,0:04:17.63,Default,,0,0,0,,Ke një minutë?
+Dialogue: 0,0:04:17.96,0:04:21.01,Default,,0,0,0,,{\an8}KAGARI HOSHO
+Dialogue: 0,0:04:19.09,0:04:21.01,Default,,0,0,0,,Sigurisht. Çfarë ka?
+Dialogue: 0,0:04:26.55,0:04:30.14,Default,,0,0,0,,Hosho, çfarë i bëre Katsuragit?
+Dialogue: 0,0:04:30.85,0:04:33.19,Default,,0,0,0,,Ajo mungon\Nnga shkolla pesë ditë tani.
+Dialogue: 0,0:04:34.06,0:04:37.11,Default,,0,0,0,,Katsuragi? Kush është ajo?
+Dialogue: 0,0:04:37.81,0:04:41.15,Default,,0,0,0,,Shoko Katsuragi të paralajmëroi,\Napo jo?
+Dialogue: 0,0:04:41.82,0:04:43.90,Default,,0,0,0,,Të tha të ndalosh së luajturi\Nato lojëra budallallëqe.
+Dialogue: 0,0:04:45.32,0:04:46.24,Default,,0,0,0,,Ah, e drejtë...
+Dialogue: 0,0:04:47.03,0:04:49.03,Default,,0,0,0,,{\i1}Nuk ekzistojnë gjëra të tilla si mallkimet.{\i0}
+Dialogue: 0,0:04:50.33,0:04:53.29,Default,,0,0,0,,Epo... ajo nuk më besonte...
+Dialogue: 0,0:04:54.66,0:04:56.71,Default,,0,0,0,,Pra e pranon\Nse i bëre diçka asaj?
+Dialogue: 0,0:04:57.25,0:04:58.84,Default,,0,0,0,,Çfarë vajze e çuditshme.
+Dialogue: 0,0:05:01.51,0:05:03.80,Default,,0,0,0,,Rri këtu brenda për një kohë dhe\Nmendo për atë që bëre.
+Dialogue: 0,0:05:10.72,0:05:11.68,Default,,0,0,0,,E pabesueshme...
+Dialogue: 0,0:05:12.31,0:05:14.27,Default,,0,0,0,,E kyçën derën nga jashtë.
+Dialogue: 0,0:05:15.73,0:05:16.90,Default,,0,0,0,,Sa fëminore...
+Dialogue: 0,0:05:17.31,0:05:18.44,Default,,0,0,0,,dhe budallaqe mund të jenë?
+Dialogue: 0,0:05:23.57,0:05:24.74,Default,,0,0,0,,Ju të dy...
+Dialogue: 0,0:05:25.70,0:05:27.11,Default,,0,0,0,,I kam mësuar përmendsh fytyrat tuaja.
+Dialogue: 0,0:05:32.16,0:05:35.29,Default,,0,0,0,,Me sa duket, dy studente të larta\Njanë mallkuar.
+Dialogue: 0,0:05:36.00,0:05:38.12,Default,,0,0,0,,A është e vërtetë që Hosho i mallkoi?
+Dialogue: 0,0:05:38.67,0:05:39.54,Default,,0,0,0,,Po...
+Dialogue: 0,0:05:39.67,0:05:41.34,Default,,0,0,0,,Dikush i dëgjoi duke thënë
+Dialogue: 0,0:05:41.46,0:05:44.67,Default,,0,0,0,,se do të\Ni jepnin Hosho një mësim.
+Dialogue: 0,0:05:48.30,0:05:49.34,Default,,0,0,0,,O Zot i madh...
+Dialogue: 0,0:05:50.55,0:05:51.47,Default,,0,0,0,,Nanoka...
+Dialogue: 0,0:05:51.89,0:05:54.47,Default,,0,0,0,,Rruga më e shpejtë është\Nqë ti të shkosh të hetohesh.
+Dialogue: 0,0:05:55.14,0:05:57.85,Default,,0,0,0,,{\an8}OTOYA
+Dialogue: 0,0:05:55.39,0:05:57.44,Default,,0,0,0,,E bija e Znj. Katsuragi është\Ntepër e frikësuar
+Dialogue: 0,0:05:57.69,0:05:59.31,Default,,0,0,0,,të kthehet në shkollë pasi u mallkua.
+Dialogue: 0,0:06:00.27,0:06:02.36,Default,,0,0,0,,Arritëm\Ntë huazojmë një uniformë për ty.
+Dialogue: 0,0:06:03.28,0:06:05.69,Default,,0,0,0,,Kur të mbarojmë,\Ndo të të trajtoj me mitsumame.
+Dialogue: 0,0:06:06.32,0:06:07.20,Default,,0,0,0,,Hej!
+Dialogue: 0,0:06:07.28,0:06:10.45,Default,,0,0,0,,Nuk po planifikon ta kombinosh atë me\Nfestën time të gjimnazit, apo jo?!
+Dialogue: 0,0:06:11.28,0:06:13.74,Default,,0,0,0,,Erdha direkt këtu\Npas shkolle sot, e di!
+Dialogue: 0,0:06:16.12,0:06:17.29,Default,,0,0,0,,{\i1}Të gjithë duken...{\i0}
+Dialogue: 0,0:06:18.21,0:06:20.29,Default,,0,0,0,,{\i1}disi të shqetësuar.{\i0}
+Dialogue: 0,0:06:25.67,0:06:27.76,Default,,0,0,0,,{\i1}Hë?! Ajo vajza...{\i0}
+Dialogue: 0,0:06:28.05,0:06:30.84,Default,,0,0,0,,{\an8}HAKUBI
+Dialogue: 0,0:06:28.34,0:06:30.68,Default,,0,0,0,,{\i1}Jam e sigurt se ajo është ajo{\i0}\N{\i1}që ishte me Hakubin...{\i0}
+Dialogue: 0,0:06:32.35,0:06:35.68,Default,,0,0,0,,Mjeshtër Mao, a do të jetë mirë\NZnj. Nanoka vetëm?
+Dialogue: 0,0:06:36.35,0:06:39.69,Default,,0,0,0,,I thashë se është atje vetëm për të vëzhguar\Ndhe të mos përzihet shumë.
+Dialogue: 0,0:06:41.35,0:06:42.40,Default,,0,0,0,,{\i1}Ajo vajza...{\i0}
+Dialogue: 0,0:06:44.02,0:06:46.53,Default,,0,0,0,,{\i1}Përdori gjilpëra për ta kthyer Maon{\i0}\N{\i1}në një Byoki dhe ta kontrollonte.{\i0}
+Dialogue: 0,0:06:47.28,0:06:49.86,Default,,0,0,0,,{\i1}E bëri me urdhër të Hakubit.{\i0}
+Dialogue: 0,0:06:51.49,0:06:53.70,Default,,0,0,0,,{\i1}Dhe tani, po përdor ato gjilpëra{\i0}
+Dialogue: 0,0:06:53.83,0:06:55.87,Default,,0,0,0,,{\i1}për të mallkuar studentët e kësaj shkolle.{\i0}
+Dialogue: 0,0:06:56.79,0:06:57.70,Default,,0,0,0,,{\i1}Por pse?{\i0}
+Dialogue: 0,0:06:58.96,0:07:00.62,Default,,0,0,0,,Më vjen kaq keq për Eriko.
+Dialogue: 0,0:07:01.25,0:07:04.46,Default,,0,0,0,,Kagari Hosho vërtet\Ne ka vënë në shënjestër atë.
+Dialogue: 0,0:07:05.88,0:07:06.88,Default,,0,0,0,,{\i1}Kagari?{\i0}
+Dialogue: 0,0:07:07.76,0:07:09.97,Default,,0,0,0,,Duket se ato dy studentet e larta\Ni kërkuan Erikos
+Dialogue: 0,0:07:10.68,0:07:13.35,Default,,0,0,0,,ta sillte Kagarin tek ata.
+Dialogue: 0,0:07:14.47,0:07:19.18,Default,,0,0,0,,Por Kagari u kundërpërgjigj\Ndhe i mallkoi ata në vend të saj.
+Dialogue: 0,0:07:19.85,0:07:24.40,Default,,0,0,0,,Tani po e detyron Erikon\Ntë jetë shoqja e saj, apo jo?
+Dialogue: 0,0:07:26.02,0:07:26.98,Default,,0,0,0,,{\i1}Eriko...{\i0}
+Dialogue: 0,0:07:28.07,0:07:30.24,Default,,0,0,0,,{\i1}A është ajo vajza me gërsheta{\i0}\N{\i1}që po ecte me të?{\i0}
+Dialogue: 0,0:07:31.61,0:07:34.66,Default,,0,0,0,,Por pse Eriko pranoi\Nt'u sillte Hoshon atyre?
+Dialogue: 0,0:07:35.03,0:07:36.12,Default,,0,0,0,,Epo, e di...
+Dialogue: 0,0:07:36.49,0:07:39.66,Default,,0,0,0,,kujto Shoko Katsuragin,\Nqë u mallkua pak kohë më parë?
+Dialogue: 0,0:07:40.25,0:07:41.67,Default,,0,0,0,,{\i1}Shoko Katsuragi...{\i0}
+Dialogue: 0,0:07:43.17,0:07:44.92,Default,,0,0,0,,{\i1}Është vajza që Mao e çliroi{\i0}\N{\i1}nga mallkimi...{\i0}
+Dialogue: 0,0:07:46.46,0:07:49.59,Default,,0,0,0,,Eriko donte të hakmerrej për Shokon.
+Dialogue: 0,0:07:50.55,0:07:52.80,Default,,0,0,0,,Në fund të fundit, ato të dyja ishin "S".
+Dialogue: 0,0:07:53.64,0:07:54.97,Default,,0,0,0,,Më falni... Çfarë është "S"?
+Dialogue: 0,0:07:55.85,0:07:57.93,Default,,0,0,0,,Më fal. Ju dëgjova.
+Dialogue: 0,0:08:00.27,0:08:01.73,Default,,0,0,0,,Nuk e dini çfarë është "S"?
+Dialogue: 0,0:08:02.10,0:08:03.06,Default,,0,0,0,,Të gjithë e dinë atë.
+Dialogue: 0,0:08:03.10,0:08:04.44,Default,,0,0,0,,Kam frikë se jam pak prapa...
+Dialogue: 0,0:08:05.11,0:08:07.65,Default,,0,0,0,,Do të thotë një miqësi\Nshumë e veçantë dhe e shenjtë.
+Dialogue: 0,0:08:08.19,0:08:10.99,Default,,0,0,0,,Dy vajza zotohen fshehurazi\Nsi motra.
+Dialogue: 0,0:08:12.11,0:08:13.74,Default,,0,0,0,,Shkëmbejnë letra,
+Dialogue: 0,0:08:13.99,0:08:16.16,Default,,0,0,0,,mbajnë fshehurazi kujtime\Ntë vogla e të njëjta,
+Dialogue: 0,0:08:16.53,0:08:18.03,Default,,0,0,0,,dhe thellojnë miqësinë e tyre.
+Dialogue: 0,0:08:19.74,0:08:20.70,Default,,0,0,0,,Oh...
+Dialogue: 0,0:08:22.29,0:08:23.16,Default,,0,0,0,,{\i1}Pra...{\i0}
+Dialogue: 0,0:08:23.42,0:08:26.08,Default,,0,0,0,,{\i1}Shoqja e dashur e Erikos, Shoko, u mallkua,{\i0}
+Dialogue: 0,0:08:27.13,0:08:29.34,Default,,0,0,0,,{\i1}por përpjekja e saj për hakmarrje dështoi,{\i0}
+Dialogue: 0,0:08:30.26,0:08:32.97,Default,,0,0,0,,{\i1}dhe në vend të kësaj,{\i0}\N{\i1}Kagari filloi ta ndiqte atë.{\i0}
+Dialogue: 0,0:08:33.26,0:08:34.43,Default,,0,0,0,,{\i1}Kjo është arsyeja pse ajo ishte kaq e frikësuar.{\i0}
+Dialogue: 0,0:08:35.76,0:08:37.55,Default,,0,0,0,,Eriko, gjithmonë kam...
+Dialogue: 0,0:08:38.22,0:08:42.35,Default,,0,0,0,,menduar se je vërtet e lezetshme.
+Dialogue: 0,0:08:43.23,0:08:46.56,Default,,0,0,0,,Hej, pse nuk\Nbëhemi shoqe të vërteta?
+Dialogue: 0,0:08:51.65,0:08:53.86,Default,,0,0,0,,Vetëm qan. Sa e mërzitshme.
+Dialogue: 0,0:08:55.03,0:08:56.11,Default,,0,0,0,,Harroje.
+Dialogue: 0,0:08:57.87,0:09:00.58,Default,,0,0,0,,Po mendoja të të kurseja\Nnga mallkimi...
+Dialogue: 0,0:09:04.29,0:09:05.17,Default,,0,0,0,,Ndal!
+Dialogue: 0,0:09:08.75,0:09:09.67,Default,,0,0,0,,Ti je...
+Dialogue: 0,0:09:10.50,0:09:11.38,Default,,0,0,0,,Nanoka...
+Dialogue: 0,0:09:12.46,0:09:13.59,Default,,0,0,0,,Ti je Nanoka, apo jo?
+Dialogue: 0,0:09:14.05,0:09:16.18,Default,,0,0,0,,{\i1}M-Më kujtoi...{\i0}
+Dialogue: 0,0:09:17.01,0:09:18.80,Default,,0,0,0,,Pse je në këtë shkollë?
+Dialogue: 0,0:09:19.39,0:09:21.39,Default,,0,0,0,,A nuk je një ayakashi?
+Dialogue: 0,0:09:23.02,0:09:24.35,Default,,0,0,0,,Pse po...
+Dialogue: 0,0:09:25.31,0:09:26.98,Default,,0,0,0,,bën këto gjëra?
+Dialogue: 0,0:09:28.48,0:09:31.23,Default,,0,0,0,,A është sepse Hakubi të urdhëroi?!
+Dialogue: 0,0:09:33.57,0:09:34.61,Default,,0,0,0,,Je në rrugë.
+Dialogue: 0,0:09:35.07,0:09:35.95,Default,,0,0,0,,Largohu.
+Dialogue: 0,0:09:44.16,0:09:45.00,Default,,0,0,0,,Çfarë po bën?!
+Dialogue: 0,0:09:47.00,0:09:48.37,Default,,0,0,0,,{\i1}Këmbët nuk më lëvizin!{\i0}
+Dialogue: 0,0:09:49.71,0:09:50.88,Default,,0,0,0,,Kam ngecur hijen tënde.
+Dialogue: 0,0:09:51.75,0:09:53.05,Default,,0,0,0,,Nuk mund të lëvizësh tani.
+Dialogue: 0,0:09:57.34,0:09:58.55,Default,,0,0,0,,Vetëm se di...
+Dialogue: 0,0:09:58.93,0:10:01.64,Default,,0,0,0,,Mjeshtër Hakubi nuk e di\Nçfarë po bëja në shkollë.
+Dialogue: 0,0:10:02.31,0:10:03.47,Default,,0,0,0,,Atëherë pse?
+Dialogue: 0,0:10:04.14,0:10:07.35,Default,,0,0,0,,Nëse duhet të jap një arsye,\Nështë stërvitje për biznesin e familjes.
+Dialogue: 0,0:10:08.14,0:10:09.15,Default,,0,0,0,,Stërvitje?
+Dialogue: 0,0:10:09.90,0:10:12.94,Default,,0,0,0,,Familja ime, familja Hosho,\Njanë mjeshtra mallkimesh.
+Dialogue: 0,0:10:14.07,0:10:18.40,Default,,0,0,0,,Paraardhësit tanë përdorën trashëgiminë e familjes,\Ngjilpërën e kukullës,
+Dialogue: 0,0:10:18.86,0:10:22.24,Default,,0,0,0,,për të zhvilluar gjithfarë\Nmallkimesh me gjilpëra.
+Dialogue: 0,0:10:23.83,0:10:26.91,Default,,0,0,0,,Një ditë, babai u\Nthirr nga ushtria...
+Dialogue: 0,0:10:27.12,0:10:28.87,Default,,0,0,0,,dhe u kthye në shtëpi i zbehtë.
+Dialogue: 0,0:10:30.13,0:10:33.13,Default,,0,0,0,,Duhet ta kthejmë gjilpërën e kukullës.
+Dialogue: 0,0:10:34.42,0:10:38.22,Default,,0,0,0,,Gjilpëra e kukullës fillimisht i përkiste\Nnjë familjeje të quajtur Klan i Goko.
+Dialogue: 0,0:10:38.63,0:10:42.10,Default,,0,0,0,,Paraardhësit tanë e kishin "huazuar"\Nprej tyre.
+Dialogue: 0,0:10:43.39,0:10:45.97,Default,,0,0,0,,Pra prandaj ishe\Nme Hakubin atëherë...
+Dialogue: 0,0:10:46.89,0:10:49.77,Default,,0,0,0,,sepse ai nuk mund ta përdorë\Ngjilpërën e kukullës pa ty.
+Dialogue: 0,0:10:50.69,0:10:52.73,Default,,0,0,0,,Po! Pikërisht ashtu!
+Dialogue: 0,0:10:52.98,0:10:54.23,Default,,0,0,0,,Gëzohem që kupton!
+Dialogue: 0,0:10:54.82,0:10:57.61,Default,,0,0,0,,Është një mjet i mallkuar i trashëguar\Nnë familjen Hosho,
+Dialogue: 0,0:10:57.65,0:10:59.82,Default,,0,0,0,,ndaj kam shumë për t'i mësuar atij.
+Dialogue: 0,0:11:00.74,0:11:04.70,Default,,0,0,0,,Po e ndihmoj Mjeshtër Hakubin si\Npërfaqësuese e familjes sime.
+Dialogue: 0,0:11:07.50,0:11:08.62,Default,,0,0,0,,Dikush, ndihmë...
+Dialogue: 0,0:11:09.21,0:11:10.08,Default,,0,0,0,,Mjeshtër Mao...
+Dialogue: 0,0:11:11.00,0:11:11.88,Default,,0,0,0,,Ajo vajza...
+Dialogue: 0,0:11:19.01,0:11:20.30,Default,,0,0,0,,Ka një gjilpërë brenda teje.
+Dialogue: 0,0:11:20.63,0:11:21.47,Default,,0,0,0,,Çfarë?
+Dialogue: 0,0:11:28.60,0:11:29.48,Default,,0,0,0,,Doli.
+Dialogue: 0,0:11:30.48,0:11:31.44,Default,,0,0,0,,Tani do të jesh mirë.
+Dialogue: 0,0:11:32.48,0:11:37.86,Default,,0,0,0,,Hm... Vajza që më ndihmoi...\NNanoka...
+Dialogue: 0,0:11:37.98,0:11:39.61,Default,,0,0,0,,Është ende me Kagarin!
+Dialogue: 0,0:11:40.24,0:11:41.11,Default,,0,0,0,,Nanoka?!
+Dialogue: 0,0:11:43.07,0:11:44.74,Default,,0,0,0,,{\i1}Pa ndihmën e kësaj vajze...{\i0}
+Dialogue: 0,0:11:45.91,0:11:48.04,Default,,0,0,0,,{\i1}Hakubi nuk mund ta përdorë gjilpërën e kukullës.{\i0}
+Dialogue: 0,0:11:49.62,0:11:50.58,Default,,0,0,0,,Dëgjo, Nanoka.
+Dialogue: 0,0:11:51.29,0:11:52.54,Default,,0,0,0,,Je atje vetëm për të vëzhguar.
+Dialogue: 0,0:11:53.25,0:11:54.42,Default,,0,0,0,,Mos u përzi shumë.
+Dialogue: 0,0:11:55.17,0:11:56.04,Default,,0,0,0,,Merr këtë me vete.
+Dialogue: 0,0:11:59.55,0:12:01.01,Default,,0,0,0,,Një varëse medaljon?
+Dialogue: 0,0:12:01.76,0:12:02.80,Default,,0,0,0,,Është një hajmalí mbrojtëse.
+Dialogue: 0,0:12:03.26,0:12:05.68,Default,,0,0,0,,Brenda saj është hiri i\Nnjë talismani që kthen mallkimet.
+Dialogue: 0,0:12:09.64,0:12:10.77,Default,,0,0,0,,{\i1}Kthim mallkimi...{\i0}
+Dialogue: 0,0:12:18.32,0:12:19.19,Default,,0,0,0,,{\i1}Mund të lëviz!{\i0}
+Dialogue: 0,0:12:21.03,0:12:22.20,Default,,0,0,0,,Nuk je pak e pacipë?
+Dialogue: 0,0:12:28.83,0:12:30.20,Default,,0,0,0,,{\i1}Ai libri që mban Kagari...{\i0}
+Dialogue: 0,0:12:32.71,0:12:34.29,Default,,0,0,0,,{\i1}Aty fsheh gjilpërat e saj.{\i0}
+Dialogue: 0,0:12:42.63,0:12:43.63,Default,,0,0,0,,{\i1}Po i marr ato gjilpëra!{\i0}
+Dialogue: 0,0:12:44.18,0:12:45.05,Default,,0,0,0,,{\i1}I shmangu?!{\i0}
+Dialogue: 0,0:12:49.97,0:12:50.85,Default,,0,0,0,,{\i1}E lëshoi!{\i0}
+Dialogue: 0,0:13:00.15,0:13:01.03,Default,,0,0,0,,Nanoka!
+Dialogue: 0,0:13:02.19,0:13:03.03,Default,,0,0,0,,Nanoka!
+Dialogue: 0,0:13:06.61,0:13:07.53,Default,,0,0,0,,Gjilpëra!
+Dialogue: 0,0:13:08.28,0:13:09.16,Default,,0,0,0,,Nanoka!
+Dialogue: 0,0:13:10.29,0:13:11.16,Default,,0,0,0,,A është kjo...
+Dialogue: 0,0:13:12.20,0:13:13.12,Default,,0,0,0,,një gjilpërë qepëse?
+Dialogue: 0,0:13:18.58,0:13:19.42,Default,,0,0,0,,A je mirë?
+Dialogue: 0,0:13:19.79,0:13:21.50,Default,,0,0,0,,Nuk munda... të marr frymë...
+Dialogue: 0,0:13:22.67,0:13:23.63,Default,,0,0,0,,Ku është Kagari?
+Dialogue: 0,0:13:25.34,0:13:26.30,Default,,0,0,0,,A shpëtoi?
+Dialogue: 0,0:13:26.84,0:13:27.72,Default,,0,0,0,,Kagari?
+Dialogue: 0,0:13:28.30,0:13:30.68,Default,,0,0,0,,Gjilpëra e kukullës që\Nu përdor për të të kontrolluar...
+Dialogue: 0,0:13:31.89,0:13:35.10,Default,,0,0,0,,Ajo që ndihmonte Hakubin ta përdorte...
+Dialogue: 0,0:13:35.77,0:13:36.89,Default,,0,0,0,,ishte Kagari.
+Dialogue: 0,0:13:39.06,0:13:41.02,Default,,0,0,0,,{\i1}Nuk e kisha idenë se ishte kaq e rrezikshme.{\i0}
+Dialogue: 0,0:13:42.32,0:13:44.07,Default,,0,0,0,,Më fal, Nanoka.
+Dialogue: 0,0:13:44.94,0:13:47.24,Default,,0,0,0,,Jam mësuar me të, ndaj...
+Dialogue: 0,0:13:48.61,0:13:51.08,Default,,0,0,0,,{\i1}Por ai duket vërtet i shqetësuar për mua,{\i0}
+Dialogue: 0,0:13:51.78,0:13:52.87,Default,,0,0,0,,{\i1}ndaj do ta fal.{\i0}
+Dialogue: 0,0:13:57.87,0:13:58.88,Default,,0,0,0,,Vetëm duro.
+Dialogue: 0,0:13:59.21,0:14:01.00,Default,,0,0,0,,Janë hi nga\Ntalismanë që kthejnë mallkimet.
+Dialogue: 0,0:14:01.96,0:14:04.21,Default,,0,0,0,,Nuk mund të rrezikojmë që\Ntë ketë mbetur ndonjë gjilpërë brenda teje.
+Dialogue: 0,0:14:04.63,0:14:07.01,Default,,0,0,0,,Kjo ndihet si një lloj ndëshkimi!
+Dialogue: 0,0:14:08.93,0:14:10.01,Default,,0,0,0,,A të dhemb këtu?
+Dialogue: 0,0:14:10.51,0:14:12.26,Default,,0,0,0,,Hm? Oh...
+Dialogue: 0,0:14:12.64,0:14:14.02,Default,,0,0,0,,Ku ishte gjilpëra qepëse?
+Dialogue: 0,0:14:14.60,0:14:15.93,Default,,0,0,0,,Nuk mendoj se dhemb.
+Dialogue: 0,0:14:17.48,0:14:18.35,Default,,0,0,0,,Kjo është lehtësim.
+Dialogue: 0,0:14:19.52,0:14:21.98,Default,,0,0,0,,Duhet të kthehesh në kohën tënde\Ndhe të pushosh për disa ditë.
+Dialogue: 0,0:14:29.32,0:14:34.66,Default,,0,0,0,,{\i1}Por a nuk do të ishte keq{\i0}\N{\i1}ta lije Kagarin kështu?{\i0}
+Dialogue: 0,0:14:36.29,0:14:38.21,Default,,0,0,0,,{\i1}Për sa kohë ekziston gjilpëra e kukullës,{\i0}
+Dialogue: 0,0:14:38.83,0:14:41.63,Default,,0,0,0,,{\i1}nuk dihet se kur{\i0}\N{\i1}Mao do të shënjestrohet përsëri.{\i0}
+Dialogue: 0,0:14:45.46,0:14:46.76,Default,,0,0,0,,Kagari Hosho?
+Dialogue: 0,0:14:47.51,0:14:49.93,Default,,0,0,0,,Po. A mund ta telefononi për mua?
+Dialogue: 0,0:14:50.80,0:14:54.43,Default,,0,0,0,,O Zot, çfarë djali i lezetshëm!\NPo bën një porosi?
+Dialogue: 0,0:14:54.51,0:14:55.35,Default,,0,0,0,,Po.
+Dialogue: 0,0:14:55.43,0:14:57.02,Default,,0,0,0,,Por kjo është e çuditshme.
+Dialogue: 0,0:14:57.60,0:15:00.69,Default,,0,0,0,,Hosho u largua nga kjo shkollë.
+Dialogue: 0,0:15:01.40,0:15:04.40,Default,,0,0,0,,Me gjasë ishte për shkak\Ntë lojërave të saj me mallkime.
+Dialogue: 0,0:15:04.90,0:15:07.24,Default,,0,0,0,,Ajo ishte disi e frikshme, e di.
+Dialogue: 0,0:15:07.69,0:15:10.36,Default,,0,0,0,,Pikërisht! Sinqerisht,\Njam e lehtësuar që iku.
+Dialogue: 0,0:15:11.11,0:15:15.28,Default,,0,0,0,,{\an8}UDON
+Dialogue: 0,0:15:12.20,0:15:15.03,Default,,0,0,0,,Hm. Pra ajo vajza\Nqë ishte me Hakubin...
+Dialogue: 0,0:15:15.79,0:15:17.20,Default,,0,0,0,,Por siç më thanë,
+Dialogue: 0,0:15:17.79,0:15:19.62,Default,,0,0,0,,ky incident nuk ka të bëjë\Nme Hakubin.
+Dialogue: 0,0:15:20.21,0:15:21.83,Default,,0,0,0,,{\an8}HYAKKA
+Dialogue: 0,0:15:20.46,0:15:21.67,Default,,0,0,0,,Hmm...
+Dialogue: 0,0:15:22.21,0:15:24.67,Default,,0,0,0,,Hyakka, si është krahu yt?
+Dialogue: 0,0:15:25.59,0:15:26.92,Default,,0,0,0,,U shërua!
+Dialogue: 0,0:15:28.01,0:15:29.05,Default,,0,0,0,,E sheh?
+Dialogue: 0,0:15:31.51,0:15:32.43,Default,,0,0,0,,Gëzohem.
+Dialogue: 0,0:15:32.51,0:15:34.14,Default,,0,0,0,,Më njofto nëse\Nndodh diçka, në rregull?
+Dialogue: 0,0:15:36.81,0:15:39.23,Default,,0,0,0,,E shoh...\NPra u fsheh?
+Dialogue: 0,0:15:40.48,0:15:41.39,Default,,0,0,0,,Mjeshtër Mao...
+Dialogue: 0,0:15:41.64,0:15:43.15,Default,,0,0,0,,Sipas Znj. Nanoka,
+Dialogue: 0,0:15:43.40,0:15:46.15,Default,,0,0,0,,Kagari është e bija\Ne një mjeshtri mallkimesh.
+Dialogue: 0,0:15:47.32,0:15:48.19,Default,,0,0,0,,E shoh...
+Dialogue: 0,0:15:50.86,0:15:51.86,Default,,0,0,0,,{\i1}Po më shqetësonte...{\i0}
+Dialogue: 0,0:15:53.03,0:15:54.45,Default,,0,0,0,,{\i1}Çfarë janë ato drita që shkëlqejnë...{\i0}
+Dialogue: 0,0:15:54.49,0:15:56.66,Default,,0,0,0,,{\i1}që po shoh në qiell{\i0}\N{\i1}që nga ajo ditë?{\i0}
+Dialogue: 0,0:16:00.75,0:16:01.83,Default,,0,0,0,,{\i1}Tani po mblidhen?{\i0}
+Dialogue: 0,0:16:04.13,0:16:05.25,Default,,0,0,0,,{\i1}Po shkojnë drejt...{\i0}
+Dialogue: 0,0:16:09.09,0:16:10.05,Default,,0,0,0,,{\i1}Çfarë po ndodh?{\i0}
+Dialogue: 0,0:16:10.76,0:16:14.47,Default,,0,0,0,,{\i1}Që kur erdha në këtë anë,{\i0}\N{\i1}ndjeva nxehtësi në qafë.{\i0}
+Dialogue: 0,0:16:15.39,0:16:18.01,Default,,0,0,0,,{\i1}Këtu më shpoi{\i0}\N{\i1}gjilpëra e Kagarin...{\i0}
+Dialogue: 0,0:16:26.77,0:16:28.19,Default,,0,0,0,,Më në fund të gjeta...
+Dialogue: 0,0:16:30.32,0:16:31.19,Default,,0,0,0,,Nanoka.
+Dialogue: 0,0:16:32.90,0:16:33.82,Default,,0,0,0,,{\i1}Kagari!{\i0}
+Dialogue: 0,0:16:34.66,0:16:36.24,Default,,0,0,0,,Ku ke qenë?
+Dialogue: 0,0:16:36.78,0:16:39.54,Default,,0,0,0,,Po dërgoja gjilpëra\Nnëpër qiell duke të kërkuar.
+Dialogue: 0,0:16:40.49,0:16:43.21,Default,,0,0,0,,{\i1}Trupi im... Nuk mund ta kontrolloj...{\i0}
+Dialogue: 0,0:16:43.87,0:16:46.04,Default,,0,0,0,,Nanoka, për shkakun tënd...
+Dialogue: 0,0:16:46.17,0:16:49.50,Default,,0,0,0,,u largova nga ajo shkollë.
+Dialogue: 0,0:16:50.55,0:16:53.55,Default,,0,0,0,,Jo se do të më mungojë ai vend.
+Dialogue: 0,0:16:54.63,0:16:58.14,Default,,0,0,0,,Por kur u konsultova me dikë\Npër atë që duhet të bëja më pas...
+Dialogue: 0,0:16:58.89,0:17:01.77,Default,,0,0,0,,ai tha se duhej patjetër\Ntë të takoja.
+Dialogue: 0,0:17:04.39,0:17:05.52,Default,,0,0,0,,{\i1}Dikë?{\i0}
+Dialogue: 0,0:17:13.53,0:17:14.65,Default,,0,0,0,,{\i1}Ku jam?{\i0}
+Dialogue: 0,0:17:18.28,0:17:19.91,Default,,0,0,0,,Solla Nanokën.
+Dialogue: 0,0:17:20.41,0:17:22.08,Default,,0,0,0,,Faleminderit, Kagari.
+Dialogue: 0,0:17:24.33,0:17:27.08,Default,,0,0,0,,{\an8}YURAKO
+Dialogue: 0,0:17:25.50,0:17:27.58,Default,,0,0,0,,Oh... Pa dyshim...
+Dialogue: 0,0:17:28.54,0:17:31.25,Default,,0,0,0,,Ti je ajo që\Nishte me Maon, apo jo?
+Dialogue: 0,0:17:33.01,0:17:34.09,Default,,0,0,0,,{\i1}Yurako?!{\i0}
+Dialogue: 0,0:17:39.64,0:17:41.72,Default,,0,0,0,,Do të doja të bisedoja me Nanokën.
+Dialogue: 0,0:17:42.39,0:17:44.77,Default,,0,0,0,,Nxirre gjilpërën, Kagari.
+Dialogue: 0,0:17:45.64,0:17:47.19,Default,,0,0,0,,Po, zonja Yurako.
+Dialogue: 0,0:17:51.44,0:17:52.40,Default,,0,0,0,,{\i1}Tani mund të lëviz...{\i0}
+Dialogue: 0,0:17:53.15,0:17:54.15,Default,,0,0,0,,Faleminderit.
+Dialogue: 0,0:17:54.69,0:17:56.86,Default,,0,0,0,,Mund të na lësh tani, Kagari.
+Dialogue: 0,0:17:57.66,0:18:00.70,Default,,0,0,0,,P-Po, më falni.
+Dialogue: 0,0:18:09.58,0:18:11.09,Default,,0,0,0,,Pra... Nanoka...
+Dialogue: 0,0:18:15.01,0:18:17.93,Default,,0,0,0,,Ti je gjithmonë\Npranë Maos, apo jo?
+Dialogue: 0,0:18:20.55,0:18:22.68,Default,,0,0,0,,Jo, jo gjithë kohën.
+Dialogue: 0,0:18:24.27,0:18:28.23,Default,,0,0,0,,A ka...\Npërmendur Mao ndonjëherë diçka për mua?
+Dialogue: 0,0:18:30.15,0:18:31.90,Default,,0,0,0,,A më shikon si armik?
+Dialogue: 0,0:18:33.48,0:18:35.90,Default,,0,0,0,,A nuk je ti...armiku i tij?
+Dialogue: 0,0:18:37.57,0:18:40.53,Default,,0,0,0,,Pse tjetër do të ishe me Shiranuin,\Nkur ai është pas Maos?
+Dialogue: 0,0:18:41.24,0:18:42.20,Default,,0,0,0,,Epo, po...
+Dialogue: 0,0:18:42.99,0:18:44.99,Default,,0,0,0,,Shiranui e urren Maon.
+Dialogue: 0,0:18:45.87,0:18:48.54,Default,,0,0,0,,Jam e sigurt se, në fund,\Nsynon ta vrasë.
+Dialogue: 0,0:18:49.92,0:18:52.13,Default,,0,0,0,,Por unë jam ndryshe.
+Dialogue: 0,0:18:56.67,0:18:58.80,Default,,0,0,0,,Kam dashur ta shoh\Nprej kaq, kaq kohësh.
+Dialogue: 0,0:18:59.88,0:19:02.30,Default,,0,0,0,,Që kur u zhduk\Nnga Klan i Goko.
+Dialogue: 0,0:19:03.93,0:19:04.97,Default,,0,0,0,,{\i1}Klan i Goko?{\i0}
+Dialogue: 0,0:19:06.14,0:19:08.93,Default,,0,0,0,,Ato 900 vjet ishin kaq të gjata...
+Dialogue: 0,0:19:10.02,0:19:11.48,Default,,0,0,0,,Por më në fund arrita ta shoh përsëri.
+Dialogue: 0,0:19:13.44,0:19:14.77,Default,,0,0,0,,{\i1}Pra do të thotë...{\i0}
+Dialogue: 0,0:19:14.90,0:19:16.94,Default,,0,0,0,,{\i1}Yurako ka qenë gjallë{\i0}\N{\i1}që nga periudha Heian?{\i0}
+Dialogue: 0,0:19:19.03,0:19:21.24,Default,,0,0,0,,Kush je ti?
+Dialogue: 0,0:19:25.83,0:19:28.70,Default,,0,0,0,,Ti nuk je Zonja Sana, apo jo?
+Dialogue: 0,0:19:30.16,0:19:33.38,Default,,0,0,0,,Dëgjova se Zonja Sana u vra\Nkur një energji e ligë
+Dialogue: 0,0:19:33.50,0:19:35.00,Default,,0,0,0,,i shkuli zemrën.
+Dialogue: 0,0:19:35.88,0:19:37.63,Default,,0,0,0,,Mao është pyetur\Nkush je ti në të vërtetë
+Dialogue: 0,0:19:37.80,0:19:42.84,Default,,0,0,0,,dhe pse ke të njëjtën fytyrë\Nsi Zonja Sana.
+Dialogue: 0,0:19:44.55,0:19:45.81,Default,,0,0,0,,Ai është pyetur për mua...
+Dialogue: 0,0:19:47.10,0:19:48.06,Default,,0,0,0,,E shoh.
+Dialogue: 0,0:19:48.64,0:19:50.27,Default,,0,0,0,,Pra nuk më urren...
+Dialogue: 0,0:19:52.06,0:19:54.40,Default,,0,0,0,,{\i1}Ajo nuk po përgjigjet asnjë pyetjes sime.{\i0}
+Dialogue: 0,0:19:55.77,0:19:56.98,Default,,0,0,0,,{\i1}Por kjo grua...{\i0}
+Dialogue: 0,0:19:58.11,0:19:59.57,Default,,0,0,0,,{\i1}ka qenë e dashuruar me Maon...{\i0}
+Dialogue: 0,0:20:00.32,0:20:01.57,Default,,0,0,0,,{\i1}gjithë këtë kohë.{\i0}
+Dialogue: 0,0:20:07.28,0:20:09.33,Default,,0,0,0,,Mezi merrja frymë atje...
+Dialogue: 0,0:20:10.96,0:20:12.83,Default,,0,0,0,,Zonja Yurako vërtet është e çuditshme...
+Dialogue: 0,0:20:13.83,0:20:16.79,Default,,0,0,0,,Jeton në një bodrum\Npa as edhe një dritare.
+Dialogue: 0,0:20:22.09,0:20:23.72,Default,,0,0,0,,Mao?
+Dialogue: 0,0:20:24.64,0:20:25.97,Default,,0,0,0,,Nanoka është këtu, apo jo?
+Dialogue: 0,0:20:27.47,0:20:28.47,Default,,0,0,0,,Nga e kuptove?
+Dialogue: 0,0:20:29.06,0:20:31.43,Default,,0,0,0,,Gjilpëra qepëse që i ngule\NNanokës në qafë...
+Dialogue: 0,0:20:32.35,0:20:34.65,Default,,0,0,0,,Gjilpëra vetë nuk ishte e dëmshme.
+Dialogue: 0,0:20:35.94,0:20:41.15,Default,,0,0,0,,Por më pas, pikëza drite të panumërta\Nfilluan të fluturonin nëpër qiell...
+Dialogue: 0,0:20:42.49,0:20:44.45,Default,,0,0,0,,sikur po kërkonin\Ndiçka.
+Dialogue: 0,0:20:45.82,0:20:46.82,Default,,0,0,0,,Pastaj sot,
+Dialogue: 0,0:20:47.28,0:20:50.45,Default,,0,0,0,,u bashkuan dhe\Nzbritën drejt një vendndodhjeje të caktuar.
+Dialogue: 0,0:20:51.79,0:20:55.37,Default,,0,0,0,,Dritat që nuk u bashkuan\Nfluturuan këtu në vend të kësaj.
+Dialogue: 0,0:20:56.42,0:20:58.04,Default,,0,0,0,,Ishin gjilpëra që ti lëshove,
+Dialogue: 0,0:20:58.54,0:21:00.55,Default,,0,0,0,,për të gjetur Nanokën dhe për ta marrë,\Napo jo?
+Dialogue: 0,0:21:01.84,0:21:03.92,Default,,0,0,0,,O Zot... Mund t'i shihje?
+Dialogue: 0,0:21:04.63,0:21:08.26,Default,,0,0,0,,E shënove paraprakisht,\Npastaj kontrollove gjilpërat më pas.
+Dialogue: 0,0:21:09.18,0:21:11.39,Default,,0,0,0,,Dëgjova se je e bija e\Nnjë familjeje mjeshtrash mallkimesh.
+Dialogue: 0,0:21:11.85,0:21:13.68,Default,,0,0,0,,Ishte një shfaqje mbresëlënëse aftësie.
+Dialogue: 0,0:21:16.31,0:21:19.90,Default,,0,0,0,,Por lënia e gjurmëve kaq\Ntë dukshme ishte
+Dialogue: 0,0:21:20.57,0:21:22.07,Default,,0,0,0,,mjaft e pakujdesshme nga ana jote.
+Dialogue: 0,0:21:23.07,0:21:25.99,Default,,0,0,0,,Të jap kredit\Nqë më gjete këtu.
+Dialogue: 0,0:21:27.45,0:21:29.03,Default,,0,0,0,,Por e ke harruar?
+Dialogue: 0,0:21:29.99,0:21:34.25,Default,,0,0,0,,Si gjilpëra ime të kontrolloi dhe\Nzbuloi atë formën tënde shtazore?
+Dialogue: 0,0:21:35.50,0:21:37.79,Default,,0,0,0,,Të kthej përsëri\Nnë bishë?
+Dialogue: 0,0:21:43.42,0:21:44.72,Default,,0,0,0,,{\i1}I ktheu ato kundër meje?!{\i0}
+Dialogue: 0,0:21:45.84,0:21:48.76,Default,,0,0,0,,Të thashë.\NLe shumë gjurmë pas.
+Dialogue: 0,0:21:50.26,0:21:53.22,Default,,0,0,0,,Ekzaminova gjithashtu\Ngjilpërat që le pas.
+Dialogue: 0,0:21:54.85,0:21:55.77,Default,,0,0,0,,{\i1}N-Nuk mund të lëviz...{\i0}
+Dialogue: 0,0:21:56.77,0:22:00.31,Default,,0,0,0,,Krahasuar me mjetin e mallkuar të Klanit Goko,\Ngjilpërën e kukullës...
+Dialogue: 0,0:22:01.11,0:22:04.03,Default,,0,0,0,,mallkimet e tua ishin kaq të papërpunuara sa\Nqë edhe unë mund t'i ktheja.
+Dialogue: 0,0:22:04.86,0:22:07.24,Default,,0,0,0,,{\i1}Të papërpunuara?! Si guxon!{\i0}
+Dialogue: 0,0:22:07.95,0:22:11.83,Default,,0,0,0,,Tani atëherë,\Npse nuk më çon te Nanoka?
+Dialogue: 0,0:22:12.79,0:22:14.54,Default,,0,0,0,,{\i1}Kurrë nuk do të...{\i0}
+Dialogue: 0,0:22:18.21,0:22:20.08,Default,,0,0,0,,{\i1}Trupi im po lëviz vetë...!{\i0}
+Dialogue: 0,0:22:26.01,0:22:28.09,Default,,0,0,0,,E sheh, Nanoka...
+Dialogue: 0,0:22:29.01,0:22:32.10,Default,,0,0,0,,Shikoja Maon gjithë kohën\Nkur ishim te Klan i Goko.
+Dialogue: 0,0:22:33.26,0:22:34.31,Default,,0,0,0,,Sepse e doje?
+Dialogue: 0,0:22:35.93,0:22:38.48,Default,,0,0,0,,Epo, po. Shumë.
+Dialogue: 0,0:22:39.56,0:22:42.11,Default,,0,0,0,,{\i1}E dija.{\i0}\N{\i1}Kjo grua nuk është Zonja Sana.{\i0}
+Dialogue: 0,0:22:43.23,0:22:47.24,Default,,0,0,0,,{\i1}Në fund të fundit, Zonja Sana ishte e dashuruar{\i0}\N{\i1}me nxënësin e vjetër të Maos, Daigo...{\i0}
+Dialogue: 0,0:22:49.15,0:22:50.41,Default,,0,0,0,,Emri im...
+Dialogue: 0,0:22:51.24,0:22:52.62,Default,,0,0,0,,Yurako...
+Dialogue: 0,0:22:53.66,0:22:54.91,Default,,0,0,0,,{\an8}GHOUL
+Dialogue: 0,0:22:54.08,0:22:56.70,Default,,0,0,0,,është një kombinim i fjalëve\N"ghoul" dhe "rakshasa"...
+Dialogue: 0,0:22:55.04,0:22:57.25,Default,,0,0,0,,{\an8}RAKSHASA
+Dialogue: 0,0:22:57.83,0:22:59.33,Default,,0,0,0,,Diçka e tillë, supozoj.
+Dialogue: 0,0:23:00.46,0:23:01.42,Default,,0,0,0,,{\i1}"Yurako."{\i0}
+Dialogue: 0,0:23:02.17,0:23:03.63,Default,,0,0,0,,Emri im është si një mallkim.
+Dialogue: 0,0:23:04.59,0:23:07.88,Default,,0,0,0,,Mjeshtri i Klanit Goko\Nishte ai që më emërtoi.
+Dialogue: 0,0:23:09.55,0:23:11.89,Default,,0,0,0,,Mjeshtri i Maos ta dha?
+Dialogue: 0,0:23:13.14,0:23:16.06,Default,,0,0,0,,Mao kishte sytë vetëm për Sanën.
+Dialogue: 0,0:23:17.47,0:23:19.73,Default,,0,0,0,,A është Mao i shqetësuar për mua...
+Dialogue: 0,0:23:20.69,0:23:21.94,Default,,0,0,0,,për shkak të kësaj fytyre?
+Dialogue: 0,0:23:22.86,0:23:25.19,Default,,0,0,0,,Mendoj se po...
+Dialogue: 0,0:23:26.36,0:23:28.15,Default,,0,0,0,,Pse ke\Ntë njëjtën fytyrë si Zonja Sana?
+Dialogue: 0,0:23:28.28,0:23:29.24,Default,,0,0,0,,Kjo është...
+Dialogue: 0,0:23:30.45,0:23:31.70,Default,,0,0,0,,Fytyra ime!
+Dialogue: 0,0:23:34.66,0:23:35.87,Default,,0,0,0,,Nuk jam Sana.
+Dialogue: 0,0:23:36.95,0:23:39.00,Default,,0,0,0,,Jam Yurako.
+Dialogue: 0,0:25:23.31,0:25:25.81,Default,,0,0,0,,Herën tjetër: Bota e Yurakos
+

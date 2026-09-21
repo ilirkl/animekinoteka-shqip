@@ -959,6 +959,23 @@
       "sourceTitle": "Kabushikigaisha Magilumiere 2nd Season",
       "part": 2,
       "numberingEvidence": "https://anikototv.to/watch/kabushikigaisha-magi-lumiere-2nd-season-69ca1"
+    },
+    {
+      "id": "at-689907",
+      "title": "Mao",
+      "episode": "25",
+      "malId": 62048,
+      "anilistId": 196012,
+      "slugs": [
+        "mao-fv7yd"
+      ],
+      "file": "files/at-689907.sq.vtt",
+      "assFile": "ass/at-689907.sq.ass",
+      "offset": 0,
+      "sourceReleaseId": "689907",
+      "sourceEpisode": "25",
+      "sourceTitle": "Mao",
+      "numberingEvidence": "https://anikototv.to/watch/mao-fv7yd"
     }
   ]
 }
