@@ -1106,6 +1106,24 @@
       "assFile": "ass/at-691347.sq.ass",
       "offset": 0,
       "sourceReleaseId": "691347"
+    },
+    {
+      "id": "at-691313",
+      "title": "Grand Blue Season 3",
+      "episode": "12",
+      "malId": 62542,
+      "anilistId": 199111,
+      "slugs": [
+        "grand-blue-season-3"
+      ],
+      "file": "files/at-691313.sq.vtt",
+      "assFile": "ass/at-691313.sq.ass",
+      "offset": 0,
+      "sourceReleaseId": "691313",
+      "sourceEpisode": "12",
+      "sourceTitle": "Grand Blue Season 3",
+      "part": 3,
+      "numberingEvidence": "https://anikototv.to/watch/grand-blue-season-3"
     }
   ]
 }

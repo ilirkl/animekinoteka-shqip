@@ -1,0 +1,466 @@
+﻿[Script Info]
+Title: [Erai-raws]
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.5,0,2,10,10,20,1
+Style: Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.5,0,8,10,10,20,1
+Style: Credits,Times New Roman,13,&H00FFFFFF,&H008B3081,&H6B020203,&H20000000,-1,0,0,0,110,100,0.2,0,1,1,0,8,20,20,20,0
+Style: Italic,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2.5,0,2,10,10,20,0
+Style: Signs,Arial,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,10,10,20,1
+Style: Flashback,Trebuchet MS,24,&H00F7ECEB,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2.5,0,2,10,10,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:04.98,Signs,SIGN,0,0,0,,{\an9\bord5\fs15\fnGeorgia}Kjo është një vepër fiktion.\NPirja e alkoolit nga të mitur është rreptësisht\Ne ndaluar dhe ilegale. Gjithashtu\Nnuk inkurajojmë konsumimin e detyruar ose\Ntë tepruar të alkoolit,\Nas nuk miratojmë litaninë e\Nakteve të degjeneruara dhe të turpshme të portretizuara\Nnë skenat e pirjes së tepruar. Ju kërkojmë\Nta shikoni këtë si një anime komedi\Ndhe asgjë më shumë. Për më tepër,\Ntë gjithë personazhet që pijnë në këtë vepër\Njanë në moshë ligjore për pirje. Në përputhje me\Nklimën sociale të fundit, rrathët e zinj\Njanë rritur 5% në madhësi që nga ky sezon.
+Dialogue: 0,0:00:17.29,0:00:25.34,Signs,TITLECARD,0,0,0,,{\fnGeorgia\fs25\fad(1200,1)\bord4\blur3\3c&HFFFFFF&\c&HC7AB06&\pos(324.444,221.778)}G{\c&H29EBF4&}r{\c&HDCB128&}a{\c&H29EBF4&}n{\c&HDCB128&}d {\c&H29EBF4&}B{\c&HDCB128&}l{\c&H29EBF4&}u{\c&HDCB128&}e Dr{\c&H29EBF4&}ea{\c&HDCB128&}m{\c&H29EBF4&}in{\c&HDCB128&}g {\fs16\c&HDCB128&}Sea{\c&H29EBF4&}son {\fs45\b0}3
+Dialogue: 0,0:01:35.42,0:01:39.50,Default,IORI,0,0,0,,Isha shumë i dehur ta kuptoja mbrëmë,\Npor kjo është zona e hoteleve të dashurisë, hë?
+Dialogue: 0,0:01:43.84,0:01:48.12,Default,ALL,0,0,0,,Çfarë?!
+Dialogue: 0,0:01:53.51,0:01:56.51,Signs,SIGN,0,0,0,,{\c&H000000&\3c&HFFFFFF&\pos(537,78)}Dita 1
+Dialogue: 0,0:01:59.42,0:02:01.27,Default,KOHEI,0,0,0,,Pse jam këtu?!
+Dialogue: 0,0:02:01.58,0:02:03.88,Default,AINA,0,0,0,,Hej, të ftova të shkojmë për zhytje.
+Dialogue: 0,0:02:03.88,0:02:08.02,Default,KOHEI,0,0,0,,Nuk prisja të ishte në Okinawa,\Nas që do të ishim vetëm ne të dy.
+Dialogue: 0,0:02:08.02,0:02:11.60,Default,AINA,0,0,0,,A mund të më fajësosh?\NTë mëdhenjtë ishin shumë të zënë për të ardhur.
+Dialogue: 0,0:02:11.60,0:02:14.78,Default,KOHEI,0,0,0,,Epo, po, u hodhe një udhëtim në Okinawa\Nnë minutën e fundit.
+Dialogue: 0,0:02:15.19,0:02:19.79,Default,KOHEI,0,0,0,,Sinqerisht, as unë nuk do të isha këtu pa\Nemisionin radiofonik të Kaya-sama.
+Dialogue: 0,0:02:19.79,0:02:22.04,Default,AINA,0,0,0,,Oh, për atë gënjeva.
+Dialogue: 0,0:02:24.30,0:02:26.54,Default,AINA,0,0,0,,Në rregull! Le të nisemi!
+Dialogue: 0,0:02:27.35,0:02:28.96,Default,KOHEI,0,0,0,,Ku saktësisht?
+Dialogue: 0,0:02:28.96,0:02:30.39,Default,AINA,0,0,0,,Shërbimi i makinave me qira.
+Dialogue: 0,0:02:30.39,0:02:33.24,Default,KOHEI,0,0,0,,Më mirë të marrim një makinë të vërtetë këtë herë.
+Dialogue: 0,0:02:35.05,0:02:37.05,Default,AINA,0,0,0,,Dizajn me motor në mes!
+Dialogue: 0,0:02:37.38,0:02:39.81,Default,AINA,0,0,0,,Transmision manual me gjashtë shpejtësi!
+Dialogue: 0,0:02:39.81,0:02:41.90,Default,AINA,0,0,0,,Dy dyer, lëvizje me katër rrota!
+Dialogue: 0,0:02:41.90,0:02:44.06,Default,KOHEI,0,0,0,,Edhe një kamionçinë e mallkuar!
+Dialogue: 0,0:02:44.06,0:02:46.00,Default,KOHEI,0,0,0,,Pse jemi ngecur me këtë përsëri?!
+Dialogue: 0,0:02:46.00,0:02:48.81,Default,AINA,0,0,0,,Edhe unë mendova kështu në fillim!
+Dialogue: 0,0:02:49.07,0:02:51.97,Default,AINA,0,0,0,,Por mendova se do të na ndihmonte\Ntë përziheshim me vendasit.
+Dialogue: 0,0:02:51.97,0:02:54.07,Default,KOHEI,0,0,0,,Sa e urrej ta pranoj, pikë e mirë.
+Dialogue: 0,0:02:54.33,0:02:57.11,Default,AINA,0,0,0,,Në rregull, le të kthehemi në aeroport\Ndhe të presim objektivat tanë.
+Dialogue: 0,0:02:57.11,0:02:58.82,Default,KOHEI,0,0,0,,Aman.
+Dialogue: 0,0:03:00.83,0:03:04.29,Default,IORI,0,0,0,,Ja ku jemi! Okinawa, raundi i dytë!
+Dialogue: 0,0:03:04.29,0:03:06.77,Default,IORI,0,0,0,,Mirë që po kemi\Nmota të përsosur, hë, Chisa?
+Dialogue: 0,0:03:06.77,0:03:07.33,Default,CHISA,0,0,0,,Po.
+Dialogue: 0,0:03:07.33,0:03:09.11,Default,AINA,0,0,0,,Objektivat u vëzhguan.
+Dialogue: 0,0:03:09.11,0:03:11.21,Default,KOHEI,0,0,0,,Mirë. Vazhdo t'i ndjekësh.
+Dialogue: 0,0:03:11.21,0:03:12.34,Default,AINA,0,0,0,,Sigurisht.
+Dialogue: 0,0:03:12.71,0:03:15.34,Default,AINA,0,0,0,,Pra, për t'u dalë në rrugë...
+Dialogue: 0,0:03:16.01,0:03:17.84,Default,KOHEI,0,0,0,,Mos u shqetëso. E bëra lëvizjen time.
+Dialogue: 0,0:03:17.84,0:03:19.09,Default,AINA,0,0,0,,Çfarë? Tashmë?
+Dialogue: 0,0:03:19.09,0:03:22.66,Default,KOHEI,0,0,0,,Kitahara, për shembull, është i sigurt se do të\Nshpërqendrohet shumë nga kjo.
+Dialogue: 0,0:03:22.66,0:03:25.84,Default,AINA,0,0,0,,Punë e shkëlqyer, Kohei.\NDo të të blej një pije më vonë.
+Dialogue: 0,0:03:28.35,0:03:30.14,Default,KOHEI,0,0,0,,Po argëtohen.
+Dialogue: 0,0:03:30.14,0:03:31.61,Default,AINA,0,0,0,,Vërtet ashtu.
+Dialogue: 0,0:03:31.93,0:03:34.64,Default,AINA,0,0,0,,Chisa ishte nervoze në fillim, gjithashtu.\NPor shikoje tani.
+Dialogue: 0,0:03:34.64,0:03:36.34,Default,KOHEI,0,0,0,,Po, edhe unë mendova kështu,
+Dialogue: 0,0:03:36.34,0:03:40.13,Default,KOHEI,0,0,0,,por u qetësua pasi Kitahara\Ni tregoi të brendshmet.
+Dialogue: 0,0:03:42.12,0:03:43.20,Default,AINA,0,0,0,,Pse?
+Dialogue: 0,0:03:43.62,0:03:47.12,Default,KOHEI,0,0,0,,Ndoshta ta shohësh atë si\Nvetvetja e zakonshme e qetësoi.
+Dialogue: 0,0:03:47.12,0:03:52.61,Default,AINA,0,0,0,,O-Oh... Pra nën\Ngjithë atë argëtim dhe buzëqeshje...
+Dialogue: 0,0:03:52.61,0:03:54.69,Default,KOHEI,0,0,0,,duken kështu.
+Dialogue: 0,0:03:55.13,0:03:56.88,Default,AINA,0,0,0,,Chisa është shndërruar!
+Dialogue: 0,0:03:56.88,0:03:59.61,Default,KOHEI,0,0,0,,Por si rezultat, gjërat janë\Nkrejt komode mes tyre.
+Dialogue: 0,0:03:59.61,0:04:00.89,Default,AINA,0,0,0,,Uf...
+Dialogue: 0,0:04:00.89,0:04:02.90,Default,AINA,0,0,0,,Kohei, çfarë ndodhi me gjënë tënde?
+Dialogue: 0,0:04:02.90,0:04:04.54,Default,KOHEI,0,0,0,,Duket se nuk po funksionon.
+Dialogue: 0,0:04:04.54,0:04:05.64,Default,AINA,0,0,0,,Çfarë?!
+Dialogue: 0,0:04:07.14,0:04:11.15,Default,KOHEI,0,0,0,,Sigurisht duhet të shpërqendrojë çdo qenie\Ntë gjallë që merr frymë, megjithatë.
+Dialogue: 0,0:04:11.15,0:04:13.70,Default,KOHEI,0,0,0,,A nuk po kontrollojnë\Npasqyrën e pasme?
+Dialogue: 0,0:04:13.70,0:04:15.65,Default,AINA,0,0,0,,Duket se po ndalojnë diku.
+Dialogue: 0,0:04:15.65,0:04:17.15,Signs,SIGN,0,0,0,,{\fs20\bord1\frx8\fry340\frz8.377\fnComic Sans MS\pos(304,74)\3c&H727272&\c&HB6DEEB&}Nmya-chi Burger
+Dialogue: 0,0:04:17.58,0:04:18.96,Default,AINA,0,0,0,,Drekë?
+Dialogue: 0,0:04:18.96,0:04:20.16,Default,KOHEI,0,0,0,,Duket se po.
+Dialogue: 0,0:04:20.45,0:04:23.41,Default,AINA,0,0,0,,Hej, nuk kemi arritur\Nt'u dalim në rrugë aspak.
+Dialogue: 0,0:04:23.41,0:04:27.68,Default,KOHEI,0,0,0,,Për fat të keq, jo,\Nedhe me strategjinë time të përsosur.
+Dialogue: 0,0:04:27.68,0:04:29.54,Default,AINA,0,0,0,,Kaq për të përsosurën.
+Dialogue: 0,0:04:30.44,0:04:32.28,Default,AINA,0,0,0,,Pra, çfarë bëre?
+Dialogue: 0,0:04:32.28,0:04:35.96,Default,KOHEI,0,0,0,,I shtova diçka pjesës së përparme\Ndhe dyerve të kësaj makine.
+Dialogue: 0,0:04:37.92,0:04:39.93,Signs,SIGN,0,0,0,,{\fs30\3c&H090A88&\frz19.02\pos(252.572,58.857)}Xhirim në Vazhdim: Film për të Rritur
+Dialogue: 0,0:04:40.68,0:04:44.18,Default,AINA,0,0,0,,Nuk është çudi që ndjeja se\Npo na shikonin!
+Dialogue: 0,0:04:44.18,0:04:45.35,Default,PASSERBY,0,0,0,,Gjëra BDSM?
+Dialogue: 0,0:04:45.35,0:04:46.19,Default,PASSERBY,0,0,0,,Perversion në natyrë?
+Dialogue: 0,0:04:46.19,0:04:47.43,Default,AINA,0,0,0,,E ke gabim!
+Dialogue: 0,0:04:47.73,0:04:50.58,Default,KOHEI,0,0,0,,Do të mendosh se do të\Ndukej efektive, megjithatë, apo jo?
+Dialogue: 0,0:04:50.58,0:04:53.94,Default,AINA,0,0,0,,Epo, po. Edhe unë do të shpërqendrohesha.
+Dialogue: 0,0:04:54.32,0:04:57.44,Default,AINA,0,0,0,,Por meqë nuk funksionoi,\Npo e anuloj!
+Dialogue: 0,0:04:57.91,0:04:59.42,Default,KOHEI,0,0,0,,Kështu është puna.
+Dialogue: 0,0:05:00.35,0:05:02.94,Default,AINA,0,0,0,,Po çfarë mori Iori, nga rruga?
+Dialogue: 0,0:05:02.94,0:05:04.45,Default,KOHEI,0,0,0,,Një hamburger, mendoj.
+Dialogue: 0,0:05:04.45,0:05:05.95,Default,AINA,0,0,0,,Hamburger?!
+Dialogue: 0,0:05:08.53,0:05:11.22,Default,AINA,0,0,0,,Kjo është keq... Lajm shumë i keq.
+Dialogue: 0,0:05:11.22,0:05:11.96,Default,KOHEI,0,0,0,,Pse?
+Dialogue: 0,0:05:12.22,0:05:15.21,Default,AINA,0,0,0,,Dua të them, bast se erdhi me patate të skuqura!
+Dialogue: 0,0:05:15.21,0:05:17.46,Default,KOHEI,0,0,0,,Ah, klasikja.
+Dialogue: 0,0:05:17.46,0:05:19.14,Default,AINA,0,0,0,,Sa jam zili.
+Dialogue: 0,0:05:19.14,0:05:20.72,Default,KOHEI,0,0,0,,Sytë në rrugë!
+Dialogue: 0,0:05:20.72,0:05:24.09,Default,KOHEI,0,0,0,,Mirë, do t'i shpërqendroj për ty.
+Dialogue: 0,0:05:24.09,0:05:24.97,Default,AINA,0,0,0,,Në rregull.
+Dialogue: 0,0:05:24.97,0:05:26.42,Default,AINA,0,0,0,,Cili është plani?
+Dialogue: 0,0:05:26.42,0:05:29.37,Default,KOHEI,0,0,0,,Nuk mund të hanë pa fund\Nkur i shikon dikush.
+Dialogue: 0,0:05:29.37,0:05:31.48,Default,AINA,0,0,0,,Por nuk mund t'i shikojmë drejtpërdrejt.
+Dialogue: 0,0:05:31.48,0:05:35.23,Default,KOHEI,0,0,0,,Në rregull është. Pashë se krevati\Nkishte diçka që mund të përdorim.
+Dialogue: 0,0:05:35.23,0:05:38.18,Default,KOHEI,0,0,0,,Kur të jetë gati, parakaloji.
+Dialogue: 0,0:05:38.18,0:05:39.40,Default,AINA,0,0,0,,Në rregull.
+Dialogue: 0,0:05:42.24,0:05:46.24,Default,KOHEI,0,0,0,,Sigurisht do të funksionojë te Kitahara.\NAi ka IQ më të ulët se një sorrë.
+Dialogue: 0,0:05:46.24,0:05:51.41,Default,AINA,0,0,0,,Nuk e di pse, por ky plan i thjeshtë\Nështë më i miri deri tani.
+Dialogue: 0,0:05:51.75,0:05:54.45,Default,AINA,0,0,0,,Dhe po funksionon në fakt, gjithashtu.
+Dialogue: 0,0:05:54.45,0:05:57.00,Default,KOHEI,0,0,0,,Kemi të bëjmë me Kitaharan, gjithsesi.
+Dialogue: 0,0:05:57.00,0:06:01.51,Default,AINA,0,0,0,,Ahh, po kalonin një moment,\Npor duhej të isha unë.
+Dialogue: 0,0:06:01.83,0:06:03.34,Default,KOHEI,0,0,0,,Do të ishe i lumtur me atë?
+Dialogue: 0,0:06:03.34,0:06:05.01,Default,AINA,0,0,0,,Më shumë se i lumtur.
+Dialogue: 0,0:06:05.46,0:06:07.62,Default,KOHEI,0,0,0,,Shumë mirë. Më jep një sekondë.
+Dialogue: 0,0:06:08.26,0:06:10.02,Default,KOHEI,0,0,0,,Në rregull, hap gojën.
+Dialogue: 0,0:06:10.02,0:06:11.77,Default,AINA,0,0,0,,Hë? P-Prit...
+Dialogue: 0,0:06:12.10,0:06:15.77,Default,AINA,0,0,0,,Kohei? Nuk doja të...
+Dialogue: 0,0:06:20.78,0:06:23.67,Default,KOHEI,0,0,0,,Duket se janë gati\Ntë hidhen në ujë.
+Dialogue: 0,0:06:23.67,0:06:25.53,Default,AINA,0,0,0,,Edhe unë po përgatitem këtu.
+Dialogue: 0,0:06:25.53,0:06:27.28,Default,KOHEI,0,0,0,,Po përgatit çfarë?
+Dialogue: 0,0:06:28.78,0:06:29.98,Default,KOHEI,0,0,0,,Refuzohet.
+Dialogue: 0,0:06:30.79,0:06:33.71,Default,AINA,0,0,0,,Pse? Është maskim dhe mbrojtje kundër\Ndjegies nga dielli të dyja bashkë!
+Dialogue: 0,0:06:33.71,0:06:36.54,Default,KOHEI,0,0,0,,Kjo është fjalë për fjalë marka jote tani!
+Dialogue: 0,0:06:36.54,0:06:39.52,Default,AINA,0,0,0,,Por dukem si një person\Nkrejt tjetër.
+Dialogue: 0,0:06:39.52,0:06:41.22,Default,KOHEI,0,0,0,,Ma jep atë.
+Dialogue: 0,0:06:41.22,0:06:43.05,Default,AINA,0,0,0,,Hë? Çfarë do të bësh?
+Dialogue: 0,0:06:50.06,0:06:53.69,Default,KOHEI,0,0,0,,Kjo do të bëjë. E ngjyrosa perukën tënde të zezë gjithashtu.
+Dialogue: 0,0:06:54.06,0:06:56.50,Default,AINA,0,0,0,,Kohei mundet, por unë jo?
+Dialogue: 0,0:06:56.50,0:06:58.81,Default,KOHEI,0,0,0,,Mos qaj. Do të bësh grimin të rrjedhë.
+Dialogue: 0,0:06:58.81,0:07:01.32,Default,AINA,0,0,0,,Në rregull, maskimi yt më pas.
+Dialogue: 0,0:07:03.32,0:07:05.23,Default,CHISA,0,0,0,,Imamura-kun?
+Dialogue: 0,0:07:05.23,0:07:06.82,Default,AINA,0,0,0,,Eh, uhm...
+Dialogue: 0,0:07:07.14,0:07:09.26,Default,CHISA,0,0,0,,Oh, prit, a jeni Ikegoshi-san?
+Dialogue: 0,0:07:09.26,0:07:10.08,Default,BOTH,0,0,0,,Hë?
+Dialogue: 0,0:07:10.08,0:07:12.38,Default,CHISA,0,0,0,,Çfarë takimi të bukur këtu.
+Dialogue: 0,0:07:12.38,0:07:14.08,Default,KOHEI,0,0,0,,P-Po. Përshëndetje.
+Dialogue: 0,0:07:14.08,0:07:16.30,Default,KOHEI,0,0,0,,Hej, çfarë tani?
+Dialogue: 0,0:07:16.30,0:07:18.83,Default,AINA,0,0,0,,A kemi zgjedhje? Bëj sikur!
+Dialogue: 0,0:07:20.08,0:07:23.21,Default,CHISA,0,0,0,,Mos u shqetëso. Mund ta mbaj sekret.
+Dialogue: 0,0:07:23.21,0:07:24.34,Default,KOHEI,0,0,0,,Sekret?
+Dialogue: 0,0:07:24.34,0:07:25.22,Default,AINA,0,0,0,,Të mbash çfarë sekret?
+Dialogue: 0,0:07:25.67,0:07:29.22,Default,CHISA,0,0,0,,Urime që u fejove\Nme aktoren e zërit.
+Dialogue: 0,0:07:29.22,0:07:30.72,Default,KOHEI,0,0,0,,Uf!
+Dialogue: 0,0:07:30.72,0:07:33.06,Default,KOHEI,0,0,0,,Fejuar... me një aktore zëri?
+Dialogue: 0,0:07:33.06,0:07:35.23,Italic,AINA,0,0,0,,Oh jo! Mbaje brenda, Kohei!
+Dialogue: 0,0:07:35.59,0:07:36.83,Default,KOHEI,0,0,0,,Faleminderit.
+Dialogue: 0,0:07:36.83,0:07:38.15,Italic,AINA,0,0,0,,Prit, çfarë?
+Dialogue: 0,0:07:38.15,0:07:40.88,Default,KOHEI,0,0,0,,Ne në fakt jemi këtu për një\Npushim paradasmës inkognito.
+Dialogue: 0,0:07:40.88,0:07:43.23,Default,CHISA,0,0,0,,Ju të dy jeni të famshëm.
+Dialogue: 0,0:07:43.23,0:07:46.64,Default,CHISA,0,0,0,,Duhet të jetë mirë të kesh një partner që\Nkupton gjithashtu jetën e të famshmëve.
+Dialogue: 0,0:07:47.16,0:07:48.48,Default,KOHEI,0,0,0,,Vërtet ashtu!
+Dialogue: 0,0:07:53.49,0:07:57.38,Default,KOHEI,0,0,0,,Nuk është realiste që një person\Ni zakonshëm të dalë me një aktor zëri.
+Dialogue: 0,0:07:57.38,0:07:59.00,Italic,AINA,0,0,0,,Kohei, ti...
+Dialogue: 0,0:07:59.78,0:08:01.38,Default,CHISA,0,0,0,,Ikegoshi-san, po ju rrjedh gjak!
+Dialogue: 0,0:08:01.38,0:08:03.34,Default,KOHEI,0,0,0,,Oh, a u preva?
+Dialogue: 0,0:08:03.34,0:08:05.71,Default,CHISA,0,0,0,,Të shkoj të marr një çantë të ndihmës së parë?
+Dialogue: 0,0:08:06.01,0:08:09.74,Default,KOHEI,0,0,0,,Pse e poshtërova veten\Ndhe ëndrrat e mia kështu?
+Dialogue: 0,0:08:09.74,0:08:12.76,Default,AINA,0,0,0,,E bëre shkëlqyeshëm, Kohei!
+Dialogue: 0,0:08:14.77,0:08:18.76,Default,KOHEI,0,0,0,,Kitahara në fakt po shijon\Nkohën e tij në plazh.
+Dialogue: 0,0:08:18.76,0:08:20.27,Default,AINA,0,0,0,,Epo, po, por...
+Dialogue: 0,0:08:20.27,0:08:21.06,Default,AINA,0,0,0,,Hej!
+Dialogue: 0,0:08:21.06,0:08:22.02,Default,KOHEI,0,0,0,,Çfarë ka?
+Dialogue: 0,0:08:22.02,0:08:23.71,Default,AINA,0,0,0,,Shiko rrobën e banjës së Chisës!
+Dialogue: 0,0:08:23.71,0:08:25.36,Default,KOHEI,0,0,0,,Çfarë ka me të?
+Dialogue: 0,0:08:26.66,0:08:27.78,Default,AINA,0,0,0,,Është e re.
+Dialogue: 0,0:08:27.78,0:08:30.55,Default,KOHEI,0,0,0,,Mos u nxehtëso\Npër diçka kaq të vogël.
+Dialogue: 0,0:08:30.55,0:08:31.78,Default,AINA,0,0,0,,Por dëgjo këtë!
+Dialogue: 0,0:08:31.78,0:08:34.58,Flashback,AINA,0,0,0,,Shkova dhe bleva dy rroba banje këtë vit.
+Dialogue: 0,0:08:34.58,0:08:36.16,Flashback,CHISA,0,0,0,,Tre për mua.
+Dialogue: 0,0:08:36.16,0:08:40.02,Flashback,AINA,0,0,0,,Ti e do detin. Duhet të blesh\Ndisa rroba banje çdo vit, apo jo?
+Dialogue: 0,0:08:40.02,0:08:44.67,Flashback,CHISA,0,0,0,,Po, por ndoshta kaq është\Npër mua këtë vit.
+Dialogue: 0,0:08:44.67,0:08:46.30,Flashback,AINA,0,0,0,,Të kuptoj.
+Dialogue: 0,0:08:46.30,0:08:48.70,Default,AINA,0,0,0,,Megjithatë ajo shkoi dhe bleu një tjetër.
+Dialogue: 0,0:08:49.30,0:08:50.99,Default,AINA,0,0,0,,Dhe shiko Iorin!
+Dialogue: 0,0:08:50.99,0:08:53.05,Default,KOHEI,0,0,0,,Edhe ai mori një të re?
+Dialogue: 0,0:08:53.33,0:08:56.31,Default,AINA,0,0,0,,Nuk mund ta besoj...\NNë fakt është i veshur.
+Dialogue: 0,0:08:56.87,0:09:00.81,Default,KOHEI,0,0,0,,Më fal për atë! Ajo ka probleme!
+Dialogue: 0,0:09:01.81,0:09:03.90,Default,KOHEI,0,0,0,,A nuk do të notosh?
+Dialogue: 0,0:09:03.90,0:09:05.37,Default,AINA,0,0,0,,Kush, unë?
+Dialogue: 0,0:09:05.37,0:09:07.82,Default,KOHEI,0,0,0,,Nëse nuk shkon, do të shkoj vetë.
+Dialogue: 0,0:09:07.82,0:09:09.95,Default,AINA,0,0,0,,Ti? Të notosh vetëm?
+Dialogue: 0,0:09:09.95,0:09:12.82,Default,KOHEI,0,0,0,,Hej, jemi në një plazh okinawan.
+Dialogue: 0,0:09:12.82,0:09:16.83,Default,KOHEI,0,0,0,,Këto ujëra do t'i bënin këdo\Ntë donte të futej, apo jo?
+Dialogue: 0,0:09:18.58,0:09:21.33,Default,AINA,0,0,0,,Nuk po tingëllon fare si vetvetja.
+Dialogue: 0,0:09:21.33,0:09:23.20,Default,KOHEI,0,0,0,,Hesht. Mbyll gojën.
+Dialogue: 0,0:09:23.20,0:09:25.69,Default,AINA,0,0,0,,Çfarë, do të duash të më shohësh në rrobë banje?
+Dialogue: 0,0:09:25.69,0:09:26.84,Default,KOHEI,0,0,0,,Larg asaj mendimi.
+Dialogue: 0,0:09:26.84,0:09:31.97,Default,KOHEI,0,0,0,,Pamja e mjerueshme e teje në rrobë banje\Nnuk ma lëviz zemrën aspak.
+Dialogue: 0,0:09:31.97,0:09:34.60,Default,AINA,0,0,0,,Çfarë dreqin? Kjo është kaq e vrazhdë!
+Dialogue: 0,0:09:34.94,0:09:37.40,Default,AINA,0,0,0,,Nëse do të jesh kështu,\Npa dhuratë falënderimi për ty.
+Dialogue: 0,0:09:37.40,0:09:38.34,Default,KOHEI,0,0,0,,Çfarë është ajo?
+Dialogue: 0,0:09:38.34,0:09:41.10,Default,AINA,0,0,0,,Ndjehesha keq që të tërhoqa në këtë,
+Dialogue: 0,0:09:41.37,0:09:45.86,Default,AINA,0,0,0,,ndaj i kërkova Kanakos t'i kërkojë Maya-san\Ntë bëjë një orë me zë për ty.
+Dialogue: 0,0:09:41.95,0:09:45.86,Signs,SIGN,0,0,0,,{\bord0\fnComic Sans MS\frz5.278\c&H74D0D4&\fscx101\fscy96\move(183,226,209,126,6,298)}Lalako <3\NPër Imamura-kun <3
+Dialogue: 0,0:09:46.91,0:09:48.36,Default,AINA,0,0,0,,Uh, Kohei?
+Dialogue: 0,0:09:48.36,0:09:50.44,Default,KOHEI,0,0,0,,Emocionet... më mbytën.
+Dialogue: 0,0:09:50.44,0:09:51.36,Default,AINA,0,0,0,,Po, po.
+Dialogue: 0,0:09:51.36,0:09:54.06,Default,KOHEI,0,0,0,,Po më jep një dhuratë kaq të mrekullueshme...
+Dialogue: 0,0:09:54.06,0:09:55.12,Default,AINA,0,0,0,,I lumtur?
+Dialogue: 0,0:09:55.12,0:09:57.61,Default,KOHEI,0,0,0,,A të pëlqej apo diçka?
+Dialogue: 0,0:09:57.61,0:09:59.87,Default,AINA,0,0,0,,Mos i zbato standardet e tua tek unë.
+Dialogue: 0,0:10:00.55,0:10:03.67,Default,AINA,0,0,0,,Gjithsesi, le të futemi në një distancë\Nqë të mos na zbulojnë.
+Dialogue: 0,0:10:03.67,0:10:04.44,Default,KOHEI,0,0,0,,Po.
+Dialogue: 0,0:10:13.88,0:10:15.89,Signs,SIGN,0,0,0,,{\frx12\fry38\frz351.1\fscx82\fscy90\3c&H4E2318&\pos(399,180)}Detet Blu të Thella
+Dialogue: 0,0:10:13.88,0:10:17.06,Default,PA,0,0,0,,Shfaqja me sanshin do të fillojë tani.
+Dialogue: 0,0:10:15.89,0:10:18.14,Top,IORI,0,0,0,,Duhet të pijë birrë me qepë kur je në Okinawa!
+Dialogue: 0,0:10:18.46,0:10:20.64,Default,AINA,0,0,0,,Sapo filluan të pijnë.
+Dialogue: 0,0:10:20.64,0:10:23.89,Default,KOHEI,0,0,0,,Nuk kemi pse të shqetësohemi\Npër ndonjë gjë që ndodh këtu.
+Dialogue: 0,0:10:24.40,0:10:26.13,Default,AINA,0,0,0,,Atëherë le të argëtohemi edhe ne.
+Dialogue: 0,0:10:26.13,0:10:27.40,Default,AINAKOHEI,0,0,0,,Gëzuar!
+Dialogue: 0,0:10:30.40,0:10:31.92,Default,CHISA,0,0,0,,Ky vend është i shkëlqyer.
+Dialogue: 0,0:10:31.92,0:10:35.66,Default,IORI,0,0,0,,E drejtë? Dëgjoj se të famshmit\Nvijnë këtu inkognito.
+Dialogue: 0,0:10:35.66,0:10:36.88,Default,CHISA,0,0,0,,Huh...
+Dialogue: 0,0:10:35.66,0:10:38.66,Top,ALL,0,0,0,,Koncert i mirë sot!
+Dialogue: 0,0:10:37.52,0:10:38.66,Default,CHISA,0,0,0,,Po, e shoh.
+Dialogue: 0,0:10:38.66,0:10:41.80,Default,KURO,0,0,0,,Sonte festojmë! Pi sa të duash!
+Dialogue: 0,0:10:40.34,0:10:42.38,Top,ALL,0,0,0,,Ti paguan?
+Dialogue: 0,0:10:42.38,0:10:43.66,Default,KURO,0,0,0,,Jo, po e ndajmë faturën.
+Dialogue: 0,0:10:43.66,0:10:45.65,Default,IORI,0,0,0,,Çfarë sheh?
+Dialogue: 0,0:10:45.65,0:10:46.79,Default,CHISA,0,0,0,,Asgjë. Harroje.
+Dialogue: 0,0:10:53.57,0:10:54.82,Default,KOHEI,0,0,0,,Oh, po, Cakey.
+Dialogue: 0,0:10:54.82,0:10:57.30,Default,AINA,0,0,0,,Çfarë? Oh, edhe kjo është e shkëlqyer.
+Dialogue: 0,0:10:57.30,0:11:00.56,Default,KOHEI,0,0,0,,Në këtë pikë, është e sigurt të thuash\Nse je e dashuruar me Kitaharan, apo jo?
+Dialogue: 0,0:11:01.81,0:11:04.02,Default,AINA,0,0,0,,Hë? Çfarë... ubh...
+Dialogue: 0,0:11:04.02,0:11:06.06,Default,KOHEI,0,0,0,,Qetësohu dhe fol shqip.
+Dialogue: 0,0:11:06.06,0:11:09.34,Italic,AINA,0,0,0,,Harrova se po ia fshihja atij!
+Dialogue: 0,0:11:09.34,0:11:10.95,Default,AINA,0,0,0,,Dua të them, unë...
+Dialogue: 0,0:11:10.95,0:11:14.79,Default,KOHEI,0,0,0,,Mos guxo të luash kartën "mike".\NËshtë shumë vonë për këtë.
+Dialogue: 0,0:11:14.79,0:11:15.57,Default,AINA,0,0,0,,Uf...
+Dialogue: 0,0:11:15.57,0:11:20.08,Default,KOHEI,0,0,0,,U dashurove me atë, nga të gjithë?\NËshtë një mister total për mua.
+Dialogue: 0,0:11:20.08,0:11:24.06,Default,AINA,0,0,0,,Lërmë. Më pëlqen kush më pëlqen.
+Dialogue: 0,0:11:24.06,0:11:25.33,Default,KOHEI,0,0,0,,Kjo është e drejtë.
+Dialogue: 0,0:11:25.62,0:11:29.33,Default,KOHEI,0,0,0,,Njerëzit nuk mund të kontrollojnë\Nme kë dashurohen.
+Dialogue: 0,0:11:30.84,0:11:33.33,Default,KOHEI,0,0,0,,Epo, fat të mirë me këtë.
+Dialogue: 0,0:11:33.33,0:11:34.12,Default,AINA,0,0,0,,Faleminderit.
+Dialogue: 0,0:11:37.34,0:11:38.99,Default,KOHEI,0,0,0,,Për çfarë bëhet fjalë?
+Dialogue: 0,0:11:38.99,0:11:40.35,Default,AINA,0,0,0,,Këtë dua të di edhe unë.
+Dialogue: 0,0:11:40.79,0:11:42.26,Default,KOHEI,0,0,0,,Nuk e bëre!
+Dialogue: 0,0:11:42.26,0:11:44.35,Default,AINA,0,0,0,,Po, po, mjaft me këtë.
+Dialogue: 0,0:11:44.35,0:11:46.50,Default,KOHEI,0,0,0,,Çfarë rezervove saktësisht?
+Dialogue: 0,0:11:46.50,0:11:50.86,Default,AINA,0,0,0,,Thjesht identifikova ku po qëndronin Iori dhe Chisa\Ndhe rezervova një dhomë për dy.
+Dialogue: 0,0:11:50.86,0:11:54.36,Signs,SIGN,0,0,0,,{\3c&HFAFAFB&\c&HE16B6F&\frx14\fry348\frz359.4\move(339,76,339,107,16,3478)}Z. U Martua Falë Këtij Vendi
+Dialogue: 0,0:11:50.86,0:11:54.36,Signs,SIGN,0,0,0,,{\an1\bord0\fs12\c&H1B1B1B&\frx8\fry350\frz357.7\move(416,165,414,196,16,3478)}Ata listojnë krevate dyshe dhe\Ntë veçuar, por në të\Nvërtetë kanë vetëm dhoma\Nme krevate dyshe!\NJu jeni paralajmëruar!
+Dialogue: 0,0:11:51.14,0:11:52.98,Default,KOHEI,0,0,0,,Duket se kanë vetëm krevate dyshe këtu.
+Dialogue: 0,0:11:52.98,0:11:54.36,Default,AINA,0,0,0,,Sa dembelë.
+Dialogue: 0,0:11:54.72,0:11:56.96,Default,AINA,0,0,0,,Prit, a do të thotë kjo edhe dhoma e tyre?
+Dialogue: 0,0:11:57.36,0:11:59.55,Default,HOTELDUDE,0,0,0,,Nuk kemi dhoma të tilla.
+Dialogue: 0,0:11:59.55,0:12:01.26,Default,IORI,0,0,0,,Kjo është një fytyrë e njohur!
+Dialogue: 0,0:12:01.26,0:12:02.12,Default,AINA,0,0,0,,E dija.
+Dialogue: 0,0:12:02.12,0:12:04.57,Default,KOHEI,0,0,0,,Çfarë do të bëjnë?
+Dialogue: 0,0:12:04.57,0:12:06.62,Default,AINA,0,0,0,,Ndoshta do të marrin një dhomë tjetër, jo?
+Dialogue: 0,0:12:06.62,0:12:09.62,Default,AINA,0,0,0,,Do të ndjehesha shumë më mirë po ta bënin.
+Dialogue: 0,0:12:09.62,0:12:11.88,Default,HOTELDUDE,0,0,0,,Jemi plotësisht të rezervuar,\Nndaj nuk mund të të jap një.
+Dialogue: 0,0:12:11.88,0:12:13.63,Default,AINA,0,0,0,,O njeri!
+Dialogue: 0,0:12:14.12,0:12:15.92,Default,AINA,0,0,0,,Kjo është keq. Shumë keq.
+Dialogue: 0,0:12:15.92,0:12:18.63,Default,KOHEI,0,0,0,,Do të dorëzohen dhe do të flenë në të njëjtin krevat.
+Dialogue: 0,0:12:18.94,0:12:21.53,Default,AINA,0,0,0,,E drejtë? Po sikur një gjë të çon në tjetrën?
+Dialogue: 0,0:12:21.53,0:12:23.62,Default,KOHEI,0,0,0,,Tani po e mendon shumë.
+Dialogue: 0,0:12:23.62,0:12:24.89,Default,AINA,0,0,0,,Si mund të jesh i sigurt?
+Dialogue: 0,0:12:24.89,0:12:27.14,Default,KOHEI,0,0,0,,Jetojnë bashkë, e di?
+Dialogue: 0,0:12:27.14,0:12:28.89,Default,AINA,0,0,0,,E di atë,
+Dialogue: 0,0:12:28.89,0:12:31.37,Default,AINA,0,0,0,,por nuk mund të themi me siguri\Nse nuk do të ndodhë asgjë.
+Dialogue: 0,0:12:31.87,0:12:32.90,Default,KOHEI,0,0,0,,Aman.
+Dialogue: 0,0:12:33.25,0:12:35.33,Default,KOHEI,0,0,0,,Atëherë shko ta zbulosh vetë.
+Dialogue: 0,0:12:35.33,0:12:36.65,Default,AINA,0,0,0,,Do të shkoja.
+Dialogue: 0,0:12:36.65,0:12:39.65,Default,CHISA,0,0,0,,Është për të ardhur keq që\Nduhet të kamposh jashtë.
+Dialogue: 0,0:12:39.65,0:12:42.44,Default,IORI,0,0,0,,Hë? Kur e vendosëm këtë?
+Dialogue: 0,0:12:42.44,0:12:44.94,Default,CHISA,0,0,0,,Je i mirëpritur të flesh\Nnë vaskë nëse do.
+Dialogue: 0,0:12:43.47,0:12:44.94,Top,AINA,0,0,0,,Janë njësoj si gjithmonë.
+Dialogue: 0,0:12:44.94,0:12:46.16,Default,KOHEI,0,0,0,,E sheh çfarë dua të them?
+Dialogue: 0,0:12:46.47,0:12:48.92,Default,KOHEI,0,0,0,,Gjithsesi, dhoma jonë është çështje më urgjente.
+Dialogue: 0,0:12:46.47,0:12:48.92,Top,IORI,0,0,0,,Pse nuk mund të marrim thjesht qoshet e krevatit?
+Dialogue: 0,0:12:48.92,0:12:51.25,Default,IORI,0,0,0,,Kemi fjetur mbi njëri-tjetrin\Nmë parë, mba mend?
+Dialogue: 0,0:12:51.25,0:12:52.37,Default,KOHEI,0,0,0,,Vërtet?!
+Dialogue: 0,0:12:53.26,0:12:54.74,Default,AINA,0,0,0,,Duhet të jetë gabim!
+Dialogue: 0,0:12:54.74,0:12:56.92,Default,CHISA,0,0,0,,Ishte aksident.
+Dialogue: 0,0:12:57.34,0:12:59.55,Default,CHISA,0,0,0,,Isha i dhëmbur ditë të tëra pas asaj.
+Dialogue: 0,0:13:00.77,0:13:02.55,Default,KOHEI,0,0,0,,Cakey!
+Dialogue: 0,0:13:02.55,0:13:05.58,Default,AINA,0,0,0,,Lamtrumirë, romanca ime rinore.
+Dialogue: 0,0:13:05.58,0:13:08.56,Default,KOHEI,0,0,0,,Qetësohu! Bast se është thjesht\Nnjë keqkuptim, si gjithmonë!
+Dialogue: 0,0:13:09.35,0:13:12.80,Default,AINA,0,0,0,,Por ka një shans\Ntë bëhet real sonte.
+Dialogue: 0,0:13:12.80,0:13:14.88,Default,KOHEI,0,0,0,,Mirë! Do të merrem unë!
+Dialogue: 0,0:13:15.19,0:13:16.69,Default,AINA,0,0,0,,Kohei?
+Dialogue: 0,0:13:19.19,0:13:22.98,Default,KOHEI,0,0,0,,Nëse lirohet një dhomë,\Ndo të flenë në dhoma të veçanta.
+Dialogue: 0,0:13:22.98,0:13:24.45,Default,AINA,0,0,0,,Lëvizje e zgjuar, Kohei!
+Dialogue: 0,0:13:24.45,0:13:27.62,Default,KOHEI,0,0,0,,Por tani nuk kemi dhomë.
+Dialogue: 0,0:13:27.62,0:13:28.85,Default,AINA,0,0,0,,E vërtetë.
+Dialogue: 0,0:13:28.85,0:13:29.96,Default,KOHEI,0,0,0,,Le të kërkojmë një.
+Dialogue: 0,0:13:29.96,0:13:32.68,Default,AINA,0,0,0,,Ku mund ta kalojmë natën?
+Dialogue: 0,0:13:34.46,0:13:35.82,Default,KOHEI,0,0,0,,Sheh ndonjë gjë?
+Dialogue: 0,0:13:35.82,0:13:37.96,Default,AINA,0,0,0,,Epo, shoh, por...
+Dialogue: 0,0:13:37.96,0:13:41.12,Default,AINA,0,0,0,,Jo këtu!\NLe të kërkojmë një hotel diku tjetër!
+Dialogue: 0,0:13:44.16,0:13:45.47,Default,AINA,0,0,0,,Çfarë ka, Kohei?
+Dialogue: 0,0:13:46.63,0:13:48.47,Default,AINA,0,0,0,,Kohei?!
+Dialogue: 0,0:13:49.31,0:13:52.03,Default,AINA,0,0,0,,Hej, çfarë nuk shkon?!
+Dialogue: 0,0:13:52.03,0:13:52.98,Default,AINA,0,0,0,,Hë?
+Dialogue: 0,0:13:52.98,0:13:54.01,Default,KOHEI,0,0,0,,Nëse...
+Dialogue: 0,0:13:54.57,0:13:56.94,Default,KOHEI,0,0,0,,Nëse do ta dija se do të\Nlëndohesha kështu,
+Dialogue: 0,0:13:56.94,0:13:59.18,Default,KOHEI,0,0,0,,do të isha më mirë\Nnjë lule ose një fije bari.
+Dialogue: 0,0:13:59.18,0:14:02.74,Default,AINA,0,0,0,,Çfarë dreqin të ka zënë?!\NÇfarë pe saktësisht?
+Dialogue: 0,0:14:02.74,0:14:05.24,Signs,SIGN,0,0,0,,{\an1\fs20\3c&H502527&\pos(13,47)}Kaya Mizuki\N{\3c&H7D63B9&}Shpall Martesën!!
+Dialogue: 0,0:14:05.96,0:14:09.24,Default,KOHEI,0,0,0,,Zoti po më thotë të vdes.
+Dialogue: 0,0:14:09.95,0:14:12.04,Default,KOHEI,0,0,0,,Vrit... Vritmë.
+Dialogue: 0,0:14:12.04,0:14:15.74,Default,AINA,0,0,0,,E kuptoj që je i mërzitur, por mund ta\Nruash për pasi të gjejmë një dhomë?
+Dialogue: 0,0:14:15.74,0:14:17.70,Default,AINA,0,0,0,,Nuk është as ndonjë gjë e madhe...
+Dialogue: 0,0:14:17.70,0:14:21.26,Flashback,KOHEI,0,0,0,,Njerëzit nuk mund të kontrollojnë\Nme kë dashurohen.
+Dialogue: 0,0:14:22.15,0:14:24.01,Default,AINA,0,0,0,,Duhet të gjejmë një vend për të fjetur.
+Dialogue: 0,0:14:24.01,0:14:25.51,Signs,SIGN,0,0,0,,{\fs12\blur1\bord1\3c&HD7D7DE&\frx14\fry318\frz21.59\pos(165,27)}I Thithur Thatë\NHotel Dashurie
+Dialogue: 0,0:14:24.01,0:14:25.51,Default,KOHEI,0,0,0,,Vritmë...
+Dialogue: 0,0:14:25.51,0:14:28.51,Default,KOHEI,0,0,0,,Vritmë tani...
+Dialogue: 0,0:14:27.01,0:14:28.51,Signs,SIGN,0,0,0,,{\fs12\blur1\bord1\3c&HD7D7DE&\frx14\fry318\frz21.59\pos(165,27)}I Thithur Thatë\NHotel Dashurie
+Dialogue: 0,0:14:32.52,0:14:35.52,Default,AINA,0,0,0,,Po e bëj vetëm sepse\Nnuk kishte zgjedhje tjetër, në rregull?!
+Dialogue: 0,0:14:36.41,0:14:38.52,Signs,SIGN,0,0,0,,{\fad(800,000)\fs12\bord0\3c&HD7D7DE&\frx14\fry318\frz21.59\pos(355,54)}I Thithur Thatë\NHotel Dashurie
+Dialogue: 0,0:14:39.43,0:14:41.53,Default,AINA,0,0,0,,Vërtet e kaluam natën.
+Dialogue: 0,0:14:42.06,0:14:45.99,Default,AINA,0,0,0,,Mjeti i fundit apo jo, nuk mund të besoj\Nse qëndrova në një hotel dashurie me Kohein.
+Dialogue: 0,0:14:49.53,0:14:52.54,Signs,SIGN,0,0,0,,{\fs12\bord0\3c&HD7D7DE&\frx14\fry318\frz21.59\pos(355,54)}I Thithur Thatë\NHotel Dashurie
+Dialogue: 0,0:14:49.82,0:14:52.54,Default,AINA,0,0,0,,Do të vonohemi për varkën!
+Dialogue: 0,0:14:52.54,0:14:54.79,Default,AINA,0,0,0,,Hajde! Qëndro në këmbë!
+Dialogue: 0,0:14:54.79,0:14:57.04,Default,AINA,0,0,0,,Fuh. Do ta arrijmë tani...
+Dialogue: 0,0:15:01.05,0:15:05.39,Default,ALL,0,0,0,,Çfarë?!
+Dialogue: 0,0:15:07.42,0:15:09.09,Default,IORI,0,0,0,,Ju djema...?
+Dialogue: 0,0:15:09.43,0:15:11.93,Default,AINA,0,0,0,,Oh, uh, ehm...
+Dialogue: 0,0:15:11.93,0:15:15.44,Default,AINA,0,0,0,,Jam Yurika Muranaka, aktorja e zërit.
+Dialogue: 0,0:15:15.74,0:15:17.01,Default,IORI,0,0,0,,Çfarë? Aktore zëri?
+Dialogue: 0,0:15:17.01,0:15:18.19,Default,AINA,0,0,0,,Pikërisht!
+Dialogue: 0,0:15:18.19,0:15:21.89,Default,AINA,0,0,0,,Dhe ky është i fejuari im, Yuichi Ikegoshi!
+Dialogue: 0,0:15:21.89,0:15:22.69,Default,IORI,0,0,0,,Oho?
+Dialogue: 0,0:15:22.69,0:15:28.20,Default,AINA,0,0,0,,Hajde, Ikego... Yuichi-san.\NPërshëndet shokun tënd.
+Dialogue: 0,0:15:30.20,0:15:32.41,Default,IORI,0,0,0,,Duket në gjendje mjaft të keqe.
+Dialogue: 0,0:15:32.41,0:15:35.51,Default,AINA,0,0,0,,Aspak. Hej, Yuichi-san?
+Dialogue: 0,0:15:36.46,0:15:40.12,Default,KOHEI,0,0,0,,Nuk më intereson ndonjë\NIkegoshi budalla apo çfarëdo.
+Dialogue: 0,0:15:40.46,0:15:42.34,Default,AINA,0,0,0,,Hej!
+Dialogue: 0,0:15:42.34,0:15:45.47,Default,AINA,0,0,0,,Nuk është siç mendon! Ai thjesht\Nmori lajme të këqija mbrëmë.
+Dialogue: 0,0:15:45.47,0:15:46.22,Default,IORI,0,0,0,,Mhm.
+Dialogue: 0,0:15:46.22,0:15:50.65,Default,AINA,0,0,0,,Ka humbur çdo shpresë tani,\Npor është ende Yuichi Ikegoshi!
+Dialogue: 0,0:15:50.65,0:15:51.72,Default,IORI,0,0,0,,Mm-hmm.
+Dialogue: 0,0:15:52.19,0:15:55.50,Default,IORI,0,0,0,,Po thua se je Ikegoshi\Ndhe e fejuara e tij aktore zëri.
+Dialogue: 0,0:15:55.50,0:15:56.48,Default,AINA,0,0,0,,Pikërisht!
+Dialogue: 0,0:15:56.48,0:15:57.73,Default,IORI,0,0,0,,Nga rruga,
+Dialogue: 0,0:15:57.73,0:15:59.64,Default,IORI,0,0,0,,kjo është një këmishë e veçantë.
+Dialogue: 0,0:16:00.73,0:16:04.26,Default,IORI,0,0,0,,Dhe ti je qartësisht thjesht Cakey.
+Dialogue: 0,0:16:04.73,0:16:08.12,Default,AINA,0,0,0,,Gjithsesi, keni njerëzit e gabuar!
+Dialogue: 0,0:16:11.17,0:16:12.61,Default,IORI,0,0,0,,Çfarë mendon?
+Dialogue: 0,0:16:12.61,0:16:13.74,Default,CHISA,0,0,0,,Çfarë ka për të menduar?
+Dialogue: 0,0:16:14.59,0:16:16.22,Default,IORI,0,0,0,,Nuk mund të komunikoj me ta.
+Dialogue: 0,0:16:16.22,0:16:19.25,Default,CHISA,0,0,0,,Nëse nuk përgjigjen,\Nduhet të jenë ata.
+Dialogue: 0,0:16:19.25,0:16:22.87,Default,IORI,0,0,0,,E drejtë? Cakey është gënjeshtar i tmerrshëm...
+Dialogue: 0,0:16:22.87,0:16:23.65,Default,IORI,0,0,0,,Oh?
+Dialogue: 0,0:16:23.65,0:16:24.43,Default,CHISA,0,0,0,,A është ajo Aina?
+Dialogue: 0,0:16:24.43,0:16:27.01,Default,IORI,0,0,0,,Jo, dikush tjetër.
+Dialogue: 0,0:16:27.50,0:16:30.26,Default,IORI,0,0,0,,Nuk e kisha idenë se ata të dy\Nishin bashkë, megjithatë.
+Dialogue: 0,0:16:30.26,0:16:33.24,Default,CHISA,0,0,0,,Nuk më dukej kështu mua.
+Dialogue: 0,0:16:33.24,0:16:35.64,Default,CHISA,0,0,0,,Ka një shans\Nqë nuk është siç duket.
+Dialogue: 0,0:16:35.64,0:16:37.44,Default,IORI,0,0,0,,Me kur dhe ku i pamë?
+Dialogue: 0,0:16:37.44,0:16:39.52,Default,IORI,0,0,0,,Është saktësisht siç duket.
+Dialogue: 0,0:16:39.52,0:16:42.63,Default,CHISA,0,0,0,,Por janë Aina dhe Imamura-kun, e di?
+Dialogue: 0,0:16:43.26,0:16:46.53,Default,IORI,0,0,0,,Në rregull, po, aty më kape.
+Dialogue: 0,0:16:46.83,0:16:48.94,Default,IORI,0,0,0,,Sido që të jetë, duhet t'i pyesim...
+Dialogue: 0,0:16:48.94,0:16:50.03,Default,CHISA,0,0,0,,T'i pyesim, dhe?
+Dialogue: 0,0:16:51.15,0:16:55.04,Default,IORI,0,0,0,,Duhet të di nëse Kohei e humbi\Nvirgjërinë para meje.
+Dialogue: 0,0:16:55.04,0:16:57.29,Default,CHISA,0,0,0,,{\i1}Kjo{\i0} është ajo për të cilën je kurioz?!
+Dialogue: 0,0:17:00.89,0:17:03.69,Default,CHISA,0,0,0,,Çfarë të ka nervozuar kaq shumë?
+Dialogue: 0,0:17:03.69,0:17:05.80,Default,IORI,0,0,0,,Si mund të qetësohem me këtë?
+Dialogue: 0,0:17:05.80,0:17:10.88,Default,IORI,0,0,0,,Nuk mund të humbas kurrë ndaj{\i1}Kohei{\i0} \Nnë garën më të madhe të jetës së një burri!
+Dialogue: 0,0:17:11.30,0:17:16.31,Default,IORI,0,0,0,,Gjithashtu, e di se ai gjithmonë thotë\Nse nuk ka interes për gra 3D!
+Dialogue: 0,0:17:12.30,0:17:16.31,Signs,SIGN,0,0,0,,{\fs20\fnComic Sans MS\frz353.8\3c&HFFFFFF&\c&H3838B6&\move(588,140,563,143,22,3985)}Realiteti?
+Dialogue: 0,0:17:13.55,0:17:16.31,Signs,SIGN,0,0,0,,{\fs20\fnComic Sans MS\3c&HFFFFFF&\c&H3838B6&\frz13.37\move(93,39,112,47,24,2735)}Po,\Nnuk\Nshkoj atje.
+Dialogue: 0,0:17:15.31,0:17:16.31,Signs,SIGN,0,0,0,,{\fs20\fnComic Sans MS\3c&HFFFFFF&\c&H3838B6&\frz17.02\move(65,203,69,203,15,975)}Kohei
+Dialogue: 0,0:17:16.31,0:17:18.16,Default,CHISA,0,0,0,,Nuk është ndonjë gjë e madhe.
+Dialogue: 0,0:17:18.16,0:17:19.56,Default,IORI,0,0,0,,Si nuk është!
+Dialogue: 0,0:17:19.56,0:17:22.25,Default,IORI,0,0,0,,Më lër ta përkthej\Nnë një gjuhë që do ta kuptosh.
+Dialogue: 0,0:17:21.85,0:17:23.56,Signs,SIGN,0,0,0,,{\fad(300,000)\fs20\bord3\frz9.788\pos(107,25)}Rangiroa
+Dialogue: 0,0:17:21.85,0:17:23.56,Signs,SIGN,0,0,0,,{\fad(300,000)\fs14\frz14.3\pos(169,203)}Atolli i ëndrrave për zhytësit\Nnë të gjithë globin!
+Dialogue: 0,0:17:22.25,0:17:25.57,Default,IORI,0,0,0,,Sakurako fiton një udhëtim zhytjeje\Nnë Rangiroa dhe të thotë ty...
+Dialogue: 0,0:17:23.56,0:17:25.57,Signs,SIGN,0,0,0,,{\fs30\fnImpact\frz23.26\pos(126,52)\3c&HFFFFFF&\c&H3838B6&}Fituesja
+Dialogue: 0,0:17:25.57,0:17:29.07,Default,IORI,0,0,0,,Do të preferoja shumë më tepër të shkoja për pazare sesa për zhytje.
+Dialogue: 0,0:17:29.07,0:17:30.88,Default,IORI,0,0,0,,Si do të ndjeheshe me këtë?
+Dialogue: 0,0:17:31.69,0:17:33.45,Default,CHISA,0,0,0,,Ajo po shkon poshtë.
+Dialogue: 0,0:17:33.45,0:17:34.32,Default,IORI,0,0,0,,E drejtë?
+Dialogue: 0,0:17:34.32,0:17:36.97,Default,IORI,0,0,0,,Gah! Kjo më shqetëson kaq shumë!
+Dialogue: 0,0:17:36.97,0:17:40.26,Default,CHISA,0,0,0,,Po? Epo, unë do të jem atje.\NShqetësohu vetë...
+Dialogue: 0,0:17:42.08,0:17:43.42,Default,CHISA,0,0,0,,Prit, kjo{\i1}të{\i0}shqetëson ty?
+Dialogue: 0,0:17:43.42,0:17:45.49,Default,IORI,0,0,0,,Hë? Çfarë ka me këtë?
+Dialogue: 0,0:17:45.49,0:17:46.34,Default,CHISA,0,0,0,,Asgjë.
+Dialogue: 0,0:17:46.34,0:17:49.28,Italic,CHISA,0,0,0,,Mendoj se shumica do të thoshte\Nse ishin "të mërzitur".
+Dialogue: 0,0:17:52.43,0:17:54.98,Default,INSTRUCTOR,0,0,0,,Në rregull, le të takohemi nën bovën.
+Dialogue: 0,0:17:54.98,0:17:56.35,Default,ALL,0,0,0,,Në rregull.
+Dialogue: 0,0:17:56.35,0:17:58.11,Default,CHISA,0,0,0,,Duhet të shkojmë edhe ne.
+Dialogue: 0,0:17:58.11,0:17:59.10,Default,IORI,0,0,0,,E di, e di.
+Dialogue: 0,0:17:59.54,0:18:00.61,Default,CHISA,0,0,0,,Iori.
+Dialogue: 0,0:18:01.42,0:18:03.97,Default,CHISA,0,0,0,,Zbraz mendjen tani për tani.
+Dialogue: 0,0:18:06.61,0:18:07.94,Default,CHISA,0,0,0,,Shihemi atje.
+Dialogue: 0,0:18:15.89,0:18:19.12,Italic,IORI,0,0,0,,"Zbraz mendjen", hë?
+Dialogue: 0,0:18:20.19,0:18:24.17,Italic,IORI,0,0,0,,Po, jam kthyer në Okinawa\Npër të provuar zhytjen këtu përsëri.
+Dialogue: 0,0:18:24.75,0:18:29.24,Italic,IORI,0,0,0,,Atëherë, mundja vetëm\Ntë shikoja nga lart.
+Dialogue: 0,0:18:30.03,0:18:31.31,Italic,IORI,0,0,0,,Por këtë herë...
+Dialogue: 0,0:19:11.63,0:19:12.63,Default,IORI,0,0,0,,Chisa!
+Dialogue: 0,0:19:13.07,0:19:14.04,Default,CHISA,0,0,0,,Çfarë ka?
+Dialogue: 0,0:19:14.04,0:19:15.63,Default,IORI,0,0,0,,Më lër të shoh edhe mua!
+Dialogue: 0,0:19:16.09,0:19:17.54,Default,IORI,0,0,0,,Fotot e zhytjes së sotme, apo jo?
+Dialogue: 0,0:19:17.54,0:19:18.64,Default,CHISA,0,0,0,,Oh, po.
+Dialogue: 0,0:19:18.64,0:19:22.30,Default,IORI,0,0,0,,Breshkat e detit janë kaq të mrekullueshme nga afër!
+Dialogue: 0,0:19:22.30,0:19:23.66,Default,CHISA,0,0,0,,Ndjehesh më mirë tani?
+Dialogue: 0,0:19:23.66,0:19:24.68,Default,IORI,0,0,0,,Hë?
+Dialogue: 0,0:19:24.68,0:19:26.14,Default,IORI,0,0,0,,Oh, po, mendoj.
+Dialogue: 0,0:19:26.81,0:19:29.21,Default,IORI,0,0,0,,Të shohësh botën nën ujë
+Dialogue: 0,0:19:29.21,0:19:33.29,Default,IORI,0,0,0,,u ndje kaq mirë sepse nuk pata\Nshansin ta përjetoja herën e kaluar.
+Dialogue: 0,0:19:33.86,0:19:36.15,Default,IORI,0,0,0,,Më bëri të harroj gjërat\Nqë më shqetësonin.
+Dialogue: 0,0:19:38.83,0:19:41.77,Default,CHISA,0,0,0,,Pra, nuk je më kurioze\Npër ata të dy?
+Dialogue: 0,0:19:41.77,0:19:44.15,Default,IORI,0,0,0,,Tani nuk do të shkoja kaq larg.
+Dialogue: 0,0:19:44.66,0:19:46.66,Signs,SIGN,0,0,0,,{\frx12\fry38\frz351.1\fscx82\fscy90\3c&H4E2318&\pos(400,174)}Detet Blu të Thella
+Dialogue: 0,0:19:46.94,0:19:51.49,Default,IORI,0,0,0,,Pra, zbuluat për udhëtimin tonë\Nnë Okinawa, u bëtë zili...
+Dialogue: 0,0:19:49.91,0:19:51.15,Top,AINA,0,0,0,,Po, po!
+Dialogue: 0,0:19:51.49,0:19:56.20,Default,CHISA,0,0,0,,nxituat në Okinawa, por nuk kishit\Ndhomë për shkak të një gabimi rezervimi?
+Dialogue: 0,0:19:51.91,0:19:55.90,Top,AINA,0,0,0,,Po, po!
+Dialogue: 0,0:19:56.20,0:19:58.93,Default,AINA,0,0,0,,Prandaj u detyruam\Ntë qëndronim atje gjithë natën!
+Dialogue: 0,0:19:59.22,0:20:01.77,Default,IORI,0,0,0,,Atëherë pse është i vdekur?
+Dialogue: 0,0:20:01.77,0:20:04.54,Default,AINA,0,0,0,,Lajmi i martesës së Maya-san\Ne shkatërroi.
+Dialogue: 0,0:20:04.54,0:20:05.93,Default,AINA,0,0,0,,Asgjë të bëjë me mua.
+Dialogue: 0,0:20:05.93,0:20:07.34,Default,CHISA,0,0,0,,E kuptoj.
+Dialogue: 0,0:20:07.34,0:20:08.78,Default,IORI,0,0,0,,Tani e kuptoj.
+Dialogue: 0,0:20:08.78,0:20:11.19,Default,CHISA,0,0,0,,E mora me mend se ishte diçka e tillë.
+Dialogue: 0,0:20:11.19,0:20:13.43,Default,AINA,0,0,0,,E sqaruam ajrin tani, apo jo?
+Dialogue: 0,0:20:13.43,0:20:16.19,Default,IORI,0,0,0,,Vërtet ishin Kohei dhe Cakey.
+Dialogue: 0,0:20:16.19,0:20:17.72,Default,AINA,0,0,0,,Çfarë do të thotë kjo?
+Dialogue: 0,0:20:17.72,0:20:21.20,Default,CHISA,0,0,0,,Do të thotë se kemi besim te ju,\Nnë shumë mënyra.
+Dialogue: 0,0:20:21.20,0:20:25.20,Default,IORI,0,0,0,,Që lë{\i1}këtë{\i0} \Nsi çështjen e vetme të mbetur.
+Dialogue: 0,0:20:25.20,0:20:28.15,Default,AINA,0,0,0,,Ajo i dha Koheit forcën\Ntë vazhdonte të jetonte, gjithsesi.
+Dialogue: 0,0:20:28.15,0:20:30.71,Default,CHISA,0,0,0,,Dyshoj se do të jetë gati\Ntë zhytet nesër gjithashtu.
+Dialogue: 0,0:20:30.71,0:20:32.84,Default,IORI,0,0,0,,Ja, Kohei, birrë.
+Dialogue: 0,0:20:32.84,0:20:34.00,Default,CHISA,0,0,0,,A mund të pijë?
+Dialogue: 0,0:20:34.00,0:20:36.21,Default,AINA,0,0,0,,Të porosisim një pije pa alkool në vend të kësaj?
+Dialogue: 0,0:20:36.21,0:20:39.72,Default,IORI,0,0,0,,Hej, e kuptoj pse nuk je\Nnë humor të pijësh,
+Dialogue: 0,0:20:39.72,0:20:41.90,Default,IORI,0,0,0,,por alkooli mund të të ndihmojë\Nt'i harrosh problemet.
+Dialogue: 0,0:20:42.72,0:20:43.60,Default,IORI,0,0,0,,Oh?
+Dialogue: 0,0:20:44.13,0:20:45.22,Default,AINA,0,0,0,,Kohei?
+Dialogue: 0,0:20:46.99,0:20:51.23,Default,KOHEI,0,0,0,,Jam kaq i trishtuar... Kaq i trishtuar sa ndjej\Nse zemra po më çahet në dy,
+Dialogue: 0,0:20:51.61,0:20:56.48,Default,KOHEI,0,0,0,,por si një tifoz i vërtetë, do ta uroj\Nnga zemra!
+Dialogue: 0,0:20:56.48,0:20:58.35,Default,IORI,0,0,0,,Mirë thënë, Kohei!
+Dialogue: 0,0:20:58.35,0:21:00.37,Default,AINA,0,0,0,,Ti je tifoz mes tifozësh, Kohei!
+Dialogue: 0,0:21:00.37,0:21:02.03,Default,CHISA,0,0,0,,Kjo është e mahnitshme.
+Dialogue: 0,0:21:02.77,0:21:04.49,Default,KOHEI,0,0,0,,Faleminderit, ju djema.
+Dialogue: 0,0:21:04.49,0:21:06.86,Default,IORI,0,0,0,,Epo, koha për një dolli tjetër, atëherë.
+Dialogue: 0,0:21:06.86,0:21:07.47,Default,AINA,0,0,0,,E drejtë.
+Dialogue: 0,0:21:07.47,0:21:08.11,Default,CHISA,0,0,0,,Po.
+Dialogue: 0,0:21:08.92,0:21:11.00,Default,IORI,0,0,0,,Për një natë okinawane, raundi i dytë!
+Dialogue: 0,0:21:11.30,0:21:14.00,Default,CHISA,0,0,0,,Për zhytjen bashkë përsëri.
+Dialogue: 0,0:21:14.00,0:21:17.26,Default,AINA,0,0,0,,Le të jetë një kujtim i paharrueshëm!
+Dialogue: 0,0:21:17.26,0:21:21.26,Default,KOHEI,0,0,0,,Për lumturinë e përjetshme të Kaya-sama!
+Dialogue: 0,0:21:21.26,0:21:24.01,Default,ALL,0,0,0,,Gëzuar!
+Dialogue: 0,0:21:24.55,0:21:27.02,Credits,CREDITS,0,0,0,,{\bord2\fs16\c&HFFFFFF&\3c&H000000&)\pos(482,108)}Përkthimi\NSriram Gurunathan
+Dialogue: 0,0:21:27.02,0:21:29.89,Credits,CREDITS,0,0,0,,{\bord2\fs16\c&HFFFFFF&\3c&H000000&)\pos(481,104)}Kohëzimi i titrave\NKrzysztof Kunc
+Dialogue: 0,0:21:29.89,0:21:33.10,Credits,CREDITS,0,0,0,,{\bord2\fs16\c&HFFFFFF&\3c&H000000&)\pos(477,71)}Redaktimi & Faqosja\NS. Bilyeu
+Dialogue: 0,0:21:33.10,0:21:35.90,Credits,CREDITS,0,0,0,,{\bord2\fs16\c&HFFFFFF&\3c&H000000&)\pos(474,72)}Kontrolli i cilësisë\NTara Campbell
+Dialogue: 0,0:21:35.90,0:21:39.11,Credits,CREDITS,0,0,0,,{\bord2\fs16\c&HFFFFFF&\3c&H000000&)\pos(474,42)}Kontrolli i përkthimit\NSho Stifler
+Dialogue: 0,0:22:58.42,0:22:59.44,Default,SAKURAKO,0,0,0,,Kitahara!
+Dialogue: 0,0:22:59.44,0:22:59.98,Default,IORI,0,0,0,,Hë?
+Dialogue: 0,0:23:04.71,0:23:06.36,Default,SAKURAKO,0,0,0,,Më në fund të gjeta.
+Dialogue: 0,0:23:06.36,0:23:07.62,Default,IORI,0,0,0,,Sakurako?
+Dialogue: 0,0:23:09.62,0:23:12.12,Default,IORI,0,0,0,,Pse je këtu edhe ti?
+Dialogue: 0,0:23:29.41,0:23:31.16,Default,SAKURAKO,0,0,0,,Gëzuar për atë.
+
